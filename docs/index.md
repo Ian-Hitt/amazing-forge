@@ -20,9 +20,14 @@ your first session.
 
 ## Full reference
 
-Once you know the basics, **Part Two** is the complete ruleset to reference during play.
+Once you know the basics, **Part Two — Playing the Game** is the complete in-depth guide to play, to reference whenever a question comes up.
 
 - [The Roll](part-two/07-the-roll.md)
 - [Challenges](part-two/08-challenges.md)
 - [Readiness](part-two/09-readiness.md)
 - [Quests & the Antagonist Track](part-two/10-quests-and-the-antagonist-track.md)
+- [Ask the Oracle](part-two/11-ask-the-oracle.md)
+
+And **Part Three — Building Your World** is the self-contained guide to forging the place your story happens in.
+
+- [The World Forge](part-three/14-the-world-forge.md)

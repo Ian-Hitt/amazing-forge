@@ -1,10 +1,10 @@
-# Chapter 11 — The World Forge (Complete)
+# Chapter 14 — The World Forge (Complete)
 
-The **World Forge** is the few-minute conversation that builds the place your story lives in. Part One gave you the short version: ten questions, answered out loud, and you're playing. This is the full version — what a *good* answer to each question looks like, what to avoid, how the genre you picked bends every answer after it, and how to run the Forge well whether your whole table builds it together or a Guide brings a world prepped.
+Building your world is its own kind of fun — a separate experience from playing the game, which is why it gets its own Part. This is the complete World Forge: what a *good* answer to each of the ten questions looks like, what to avoid, how the genre you picked bends every answer after it, ready-made **Starter Backdrops** for tables that don't want to start from a blank page, how to run the Forge whether the whole table builds it together or a Guide brings a world prepped, and a set of **idea tables** to roll on when you're stuck. Everything about making your world lives here, in one place.
 
-You don't need any of this for your first game. Reach for it when you want a richer world, when an answer isn't sparking anything, or when a Guide wants to prep a setting ahead of time.
+Part One gave you the short version: ten questions, answered out loud, and you're playing. You don't need any of this for your first game. Reach for it when you want a richer world, when an answer isn't sparking anything, or when a Guide wants to prep a setting ahead of time.
 
-> **Want a shortcut or a spark?** If your table would rather start from a ready-made setting than a blank page — or just wants something to roll on when an answer won't come — **Part Three: Reference & Tools** has the **Starter Backdrops** (pre-answered worlds you can pick up and run) and the **World Forge random tables** (a quick roll for each question). This chapter is about answering the questions *well*; those tools are there for when you'd rather not answer them from scratch.
+> **Just want to roll?** If an answer won't come and you'd rather let the dice spark one, the **idea tables** at the end of this chapter give a quick roll for each of the ten questions. This chapter is about answering the questions *well*; those tables are there for when you're stuck.
 
 ---
 
@@ -109,7 +109,44 @@ Leave the loose ends loose. The World Forge is a starting picture, not a finishe
 
 ---
 
-## Part B — Running the World Forge
+## Part B — Starter Backdrops
+
+Not every group wants to build from a blank page — especially with younger or first-time players, or when you just want to *play tonight* and worldbuild later. A **Starter Backdrop** is a pre-answered World Forge: a small, genre-flavored setting where all ten questions are already filled in, with a few blanks left for your table to make it yours.
+
+**How to use one:**
+
+1. **Pick a backdrop** that matches the mood you're after.
+2. **Read the ten answers aloud** so everyone shares the picture.
+3. **Fill the blanks together** — each backdrop leaves a couple of questions open on purpose, so the world still belongs to your table.
+4. **Change anything you don't like.** A backdrop is a launchpad, not a rulebook. Swap an answer, add a Threat, rename the city. The moment you alter it, it's yours.
+5. **Use the Concept examples** to jump-start Character Creation (Chapter 2) — each backdrop suggests three heroes who'd fit right in.
+
+A backdrop saves you the ten-minute conversation without giving up the things that make a World Forge work: vivid answers, built-in trouble, and a clear sense of who the heroes are to the world.
+
+### Sample Backdrop: *The Sinking Sky-City*
+
+> **One-line pitch:** A floating city is slowly falling out of the sky, and the only people willing to do something about it are the ones nobody listens to.
+
+| # | Question | Answer |
+|---|----------|--------|
+| 1 | **Genre** | Adventure with a ticking clock — hopeful, a little desperate. |
+| 2 | **Setting** | Aethelgard, a city of brass and canvas floating above an endless sea of clouds. |
+| 3 | **Denizens** | Humans, talking sky-birds who carry messages, and clockwork folk built to run the engines. |
+| 4 | **Magic** | Rare. A handful of "stormcallers" can bend wind and lightning — and they're watched closely. |
+| 5 | **Technology** | Brass machines, steam, and great spinning lift-fans. The fans are old, and nobody fully understands how to fix them. |
+| 6 | **Leadership** | A Council of Captains, one per district — proud, divided, and slow to agree on anything. |
+| 7 | **Enforcement** | The Sky-Patrol on single-seat flyers. They guard the high districts well and the low ones barely at all. |
+| 8 | **Threats** | *(1)* The lift-fans are failing and the city sinks a little more each week. *(2)* A rival sky-fleet circles the clouds, waiting. *(3)* ____ *(your table adds one)* |
+| 9 | **Forbidden** | No one is allowed below the cloud line. The Council says there's nothing down there. The Council is lying about *something*. |
+| 10 | **Reputation** | Your group? "Reckless kids playing at heroes" — until you prove otherwise. |
+
+**Three Concepts that fit:** a *Grease-Stained Clockwork Mechanic* who keeps the failing fans running · a *Disgraced Stormcaller* the Council grounded · a *Low-District Sky-Patrol Cadet* who actually cares about the people the high districts forgot.
+
+> **🚧 Idea — full backdrop catalog (awaiting sign-off).** The plan is **6 backdrops across distinct genres**: Pirate Seas, Deep Dark Forest, Space Frontier, Modern Mystery Town, Post-Apocalyptic Road, and Underwater Kingdom — each a one-page setting like the sample above (ten answers + three Concepts). Only the sample is written so far; the remaining five are pending Ian's confirmation before drafting. (See `Book Outline.md`, Chapter 14.)
+
+---
+
+## Part C — Running the World Forge
 
 There are two ways to run the Forge. The default is the social one.
 
@@ -124,12 +161,12 @@ This is true in both modes of play. With a Guide, the Guide facilitates — aski
 - **Keep it moving.** Aim for a minute or two per question. If a question sparks a great debate, ride it; if it stalls, take the first decent answer and move on. Momentum matters more than perfection.
 - **Say "yes, and."** Build on the first idea instead of competing with it. The second person's job is to make the first person's idea cooler, not replace it.
 - **Make sure every voice lands at least one answer.** Quieter players often have the most vivid ideas — ask them the questions directly.
-- **If you're stuck, roll.** The Part Three random tables exist for exactly this. A roll breaks a deadlock and often sparks something nobody would have chosen on purpose.
+- **If you're stuck, roll.** The idea tables at the end of this chapter exist for exactly this. A roll breaks a deadlock and often sparks something nobody would have chosen on purpose.
 - **Write down only what you'll forget.** The vivid stuff sticks on its own. Jot the names and the Threats; trust your memory for the rest.
 
 ### The Alternative: A Guide Preps a World
 
-Sometimes a Guide *wants* to prep — they've got an idea they're excited about, or they want a richer, more surprising setting than a ten-minute table conversation usually produces. That's allowed. A Guide can answer the ten questions solo beforehand and bring a finished world to the table. (Starting from a **Starter Backdrop** in Part Three and tweaking it is a fast way to do this.)
+Sometimes a Guide *wants* to prep — they've got an idea they're excited about, or they want a richer, more surprising setting than a ten-minute table conversation usually produces. That's allowed. A Guide can answer the ten questions solo beforehand and bring a finished world to the table. (Starting from a **Starter Backdrop** above and tweaking it is a fast way to do this.)
 
 But prep comes with one firm rule:
 
@@ -139,4 +176,12 @@ But prep comes with one firm rule:
 
 ---
 
-*Next up: when nobody knows what happens next, you **Ask the Oracle** — the subject of Chapter 12.*
+## Part D — Idea Tables
+
+When an answer won't come, roll for it. These tables aren't a substitute for a table conversation — they're a spark for when you're stuck, or a surprise to riff on even when you already have an idea. Roll a d6 for any question, take what you get, and bend it toward the world you're building. Roll **twice and combine** on any question for something stranger.
+
+> **🚧 Idea — World Forge idea tables (awaiting sign-off).** The plan is a short **d6 table for each of the ten questions** (e.g. *Setting →* 1: deep-space station · 2: underwater city · 3: overgrown ruins · 4: sky islands · 5: modern city with a hidden layer · 6: roll twice and combine). These are hyperspecific to building your world, so they live **here**, with the World Forge, rather than with the play-side tools in Part Four. Not yet drafted — pending Ian's confirmation. (See `Book Outline.md`, Chapter 14.)
+
+---
+
+*That's the World Forge, end to end — a world forged in a few minutes, ready to adventure in. The rules for actually playing in it are back in Part Two; the quick-reference sheets and blank worksheets are in Part Four.*

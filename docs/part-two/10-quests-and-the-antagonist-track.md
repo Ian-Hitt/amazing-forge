@@ -35,9 +35,9 @@ Every scale uses the **exact same machinery**: a Quest Track with a matching Ant
 
 > **The boxes don't all fill the same way.** For an **Episodic** Quest, you check a box when you complete a Milestone — concrete and quick. For **Season** and **Campaign** Quests, you mark a box **any time the table agrees you've made real headway** toward that larger goal. Finishing a related episodic Quest is the most obvious trigger (see *Nesting Quests*, below), but it isn't the only one — a hard-won conversation, a major discovery, or a turning point in the fiction can all earn a Season box. If it feels like genuine progress toward the big goal, mark it.
 
-Choose an Episodic Quest's length at the start based on how much time you have, and **adjust mid-stream**: if real-world time is short, collapse a planned Milestone into a quick Scene or two and head for the finish; if the table's having a great time, let a Milestone breathe into several Scenes. The track shows exactly how much road is left, which makes pacing easy to eyeball (Chapter 13).
+Choose an Episodic Quest's length at the start based on how much time you have, and **adjust mid-stream**: if real-world time is short, collapse a planned Milestone into a quick Scene or two and head for the finish; if the table's having a great time, let a Milestone breathe into several Scenes. The track shows exactly how much road is left, which makes pacing easy to eyeball (Chapter 12).
 
-> **Note on Campaigns and advancement.** The 12-box Campaign scale is built for play that spans many sessions — which is also where **character advancement** would come into play. That system isn't settled yet, so for now a Campaign Quest works mechanically like a much longer version of the others. (See Chapter 14.)
+> **Note on Campaigns and advancement.** The 12-box Campaign scale is built for play that spans many sessions — which is also where **character advancement** would come into play. That system isn't settled yet, so for now a Campaign Quest works mechanically like a much longer version of the others. (See Chapter 13.)
 
 ### Nesting Quests: How Scales Feed Each Other
 
@@ -196,4 +196,4 @@ For most groups — and almost all first games — a single Episodic Quest is pl
 
 ---
 
-*Next in Part Two: Chapter 11 — The World Forge (Complete).*
+*Next: Chapter 11 — Ask the Oracle (Complete), the move for when nobody knows what happens next.*

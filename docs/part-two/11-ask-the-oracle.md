@@ -1,4 +1,4 @@
-# Chapter 12 — Ask the Oracle (Complete)
+# Chapter 11 — Ask the Oracle (Complete)
 
 Every table hits the same moment sooner or later: the scene resolves, the dice go quiet, and nobody's quite sure what happens next. **Ask the Oracle** is the move for exactly that moment. It's a short ladder of tools — name what you're chasing, do the obvious, or hand the question to the dice — that turns "uh… what now?" back into a scene you can play.
 
@@ -30,7 +30,7 @@ Look at your **Quest Track** (Chapter 10). What's the next empty box — the nex
 
 If you haven't decided the next Milestone yet, decide one now. You're not inventing from nothing — pull from everything already on the table:
 
-- **Your World Forge answers** (Chapter 11) — especially the **Threats**, the **Forbidden**, the **Leadership**, and your **Reputation**. These were built to generate trouble; spend it here.
+- **Your World Forge answers** (Chapter 14) — especially the **Threats**, the **Forbidden**, the **Leadership**, and your **Reputation**. These were built to generate trouble; spend it here.
 - **The heroes and their Assets** — a Milestone that lets someone's Asset shine is a Milestone the table will enjoy.
 - **The NPCs and places you've already met or heard about.** The richest next scene is usually a callback, not a brand-new element. That name someone dropped two scenes ago is waiting to pay off.
 - **Any other Quests you have running.** With multiple Quests in play (Chapter 10), the next Milestone might belong to a different track entirely.
@@ -43,7 +43,7 @@ Nine times out of ten, naming the Milestone is enough — the obvious next scene
 
 Most of the time, somebody at the table already knows what should happen next. They just hadn't said it out loud.
 
-So say it. Talk it out as a group: *what would clearly happen next in this movie?* Run with the first answer that makes everyone lean in. This is the **Golden Rule** of Co-op play — "do the obvious or coolest next thing" (Chapter 13) — applied to the question of what comes next at all.
+So say it. Talk it out as a group: *what would clearly happen next in this movie?* Run with the first answer that makes everyone lean in. This is the **Golden Rule** of Co-op play — "do the obvious or coolest next thing" (Chapter 12) — applied to the question of what comes next at all.
 
 "Obvious" isn't a knock. The obvious beat is obvious because it's the one the story has been setting up. If the heroes just learned the bridge is out, the obvious next thing is figuring out how to cross — and that's a perfectly good scene. Don't reach for a surprise when a satisfying answer is sitting right there.
 
@@ -119,4 +119,4 @@ The rhythm you're after: **ask, get something playable, stop, play.** When in do
 
 ---
 
-*That's the full "what happens next" toolkit. Next up: how to actually run all of this at the table — with a Guide or without one — in Chapter 13, **Running the Game.***
+*That's the full "what happens next" toolkit. Next up: how to actually run all of this at the table — with a Guide or without one — in Chapter 12, **Running the Game.***
