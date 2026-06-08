@@ -2,7 +2,7 @@
 
 A **Quest** is the engine that gives an adventure shape: a goal worth chasing, the steps to get there, and a villain racing you for it. This chapter is the complete guide to setting one up and running it — the **Quest Track**, the **Antagonist Track** that runs alongside it, how to build good Milestones, what happens when you win, lose, or quit, and how to keep several Quests going at once.
 
-Everything here builds on tools from earlier chapters: Milestones are made of **Scenes** (Chapter 8), the heroes win or lose by filling tracks, and the Antagonist Track only moves when the heroes **flee** (Chapter 8).
+Everything here builds on tools from earlier chapters: Milestones are made of **Scenes** (Chapter 8), the heroes win or lose by filling tracks, and the Antagonist Track moves chiefly when the heroes **flee** (Chapter 8).
 
 ---
 
@@ -23,17 +23,35 @@ ANTAGONIST TRACK:   [ ]  [ ]  [ ]
 
 You don't plan *how* each Milestone gets done — that's what play discovers. You only name the Goal, the Milestones, and the antagonist, draw the two rows, and start in the middle of the action.
 
-### Quest Length and Difficulty
+### Quest Scale: Episodic, Season, Campaign
 
-The number of Milestones sets the length of the Quest (and both tracks):
+Not every Quest is the same *size*. A Quest can be a single afternoon's adventure or the spine of your whole game — and the best stories run several of these at once, nested inside each other. Think of your favorite series. In **Avatar: The Last Airbender**, every episode opens and closes its own little story; every Book (Water, Earth, Fire) has a season-long goal that resolves across many episodes; and all three Books together tell one campaign-long story — mastering the elements and stopping the Fire Lord. *Amazing Forge* builds your game the same way, with three **scales** of Quest:
 
-- **Easy (3 boxes)** — the default. A quick one-to-two-hour adventure.
-- **Medium (4 boxes)** — a longer, twistier afternoon session.
-- **Hard and Long (5 boxes)** — a grand, multi-session campaign arc.
+- **Episodic (3 boxes)** — a self-contained story you start and finish in roughly one sitting. *"Free the village from the angry forest spirit."* This is the default and the workhorse; your first games use only this scale. (Stretch it to 4–5 boxes for a meatier one-shot.)
+- **Season (8 boxes)** — a throughline that resolves across **many** episodes. *"Reach the North Pole and find a waterbending master."* You don't play it start-to-finish in one go; it advances a little at a time as your episodic adventures feed into it.
+- **Campaign (12 boxes)** — the **whole game's** story, the handful of huge beats that define everything. *"Master all four elements and defeat the Fire Lord."* A campaign fills slowly, over multiple Seasons and dozens of episodes.
 
-Choose at the start based on how much time you have. You can also **adjust mid-stream**: if real-world time is running short, collapse a planned Milestone into a quick Scene or two and head for the finish; if the table's having a great time, let a Milestone breathe into several Scenes. The track shows you exactly how much road is left, which makes pacing easy to eyeball (Chapter 13).
+Every scale uses the **exact same machinery**: a Quest Track with a matching Antagonist Track beneath it. What changes is only what *one box represents* — a single Milestone for an Episodic Quest, a whole chunk of season-long progress for a Season, a major arc for a Campaign. That's why a Season is "much longer" than an Episode without being unplayable: each of its eight boxes can swallow an entire episodic adventure.
 
-> **Note on the longest Quests.** The 5-box "Hard and Long" tier is built for campaigns that span sessions — which is also where **character advancement** would come into play. That system isn't settled yet, so for now the 5-box Quest works mechanically like a longer version of the others. (See Chapter 14.)
+> **The boxes don't all fill the same way.** For an **Episodic** Quest, you check a box when you complete a Milestone — concrete and quick. For **Season** and **Campaign** Quests, you mark a box **any time the table agrees you've made real headway** toward that larger goal. Finishing a related episodic Quest is the most obvious trigger (see *Nesting Quests*, below), but it isn't the only one — a hard-won conversation, a major discovery, or a turning point in the fiction can all earn a Season box. If it feels like genuine progress toward the big goal, mark it.
+
+Choose an Episodic Quest's length at the start based on how much time you have, and **adjust mid-stream**: if real-world time is short, collapse a planned Milestone into a quick Scene or two and head for the finish; if the table's having a great time, let a Milestone breathe into several Scenes. The track shows exactly how much road is left, which makes pacing easy to eyeball (Chapter 13).
+
+> **Note on Campaigns and advancement.** The 12-box Campaign scale is built for play that spans many sessions — which is also where **character advancement** would come into play. That system isn't settled yet, so for now a Campaign Quest works mechanically like a much longer version of the others. (See Chapter 14.)
+
+### Nesting Quests: How Scales Feed Each Other
+
+The three scales aren't separate games — they're **layered**, and the smaller ones *feed* the larger. This is the engine that makes a campaign feel alive while you're only ever playing one scene at a time.
+
+When you start a Season or Campaign Quest, name **which larger goal a smaller Quest serves.** Then, whenever the heroes finish (or make real headway on) that smaller Quest, **mark a box on the larger one too.** One night's adventure pushes the season-long arc forward; completing a Season pushes the whole campaign forward.
+
+Back to Avatar:
+
+- The heroes play an **episodic** Quest — *"Steal the waterbending scroll back from the pirates."* They win it: check off that 3-box Episodic Quest.
+- Because that adventure was tied to the **Season** goal (*"Reach the North Pole and master water"*), winning it also marks **one box** on the 8-box Season Track.
+- Several episodes later, the Season Track fills — they reach the North Pole and find their master. **Book One is won.** That, in turn, marks **one box** on the 12-box **Campaign** Track (*"Master all four elements…"*).
+
+Not every episode has to feed upward — a one-off "filler" adventure that serves no larger arc is completely fine (and very true to the genre). And feeding can **cross-pollinate**: a single episodic win might advance two different Season arcs at once, or a Season's resolution might reshape another Season entirely. Declaring the links up front is what turns a pile of separate adventures into one connected story.
 
 ### What Makes a Good Milestone (and Quick Ideas)
 
@@ -61,7 +79,7 @@ For a climax that deserves a final-act turn, you can make that last box a **Ques
 - **Weak Hit:** won, but Pay the Price on the way out.
 - **Miss:** *you thought it was over, but it wasn't.* Add **one extra Milestone box** to the Quest Track and drop a climactic twist — the villain's true plan surfaces, an ally turns, the prize is a fake. Complete that new Milestone, then you can attempt the Quest Showdown again.
 
-A missed Quest Showdown **never** adds an Antagonist box — only fleeing does that. The twist simply gives the heroes more story to play, not the villains a free win. It's optional; use it when an ending deserves a surprise, and let ordinary Quests close cleanly when the last box fills.
+A missed Quest Showdown **never** adds an Antagonist box. The twist simply gives the heroes more story to play, not the villains a free win. It's optional; use it when an ending deserves a surprise, and let ordinary Quests close cleanly when the last box fills.
 
 ---
 
@@ -75,30 +93,47 @@ Think of the Antagonist Track as the villain's *own* Quest. Each of its boxes is
 
 ### Drawing the Track
 
-The Antagonist Track has the **same number of boxes as the Quest Track** (Easy = 3, Medium = 4, Hard = 5), drawn as a matching row right beneath it. Equal length means it's a true race — the villains need exactly as many wins as the heroes do.
+The Antagonist Track has the **same number of boxes as the Quest Track** (Episodic = 3, Season = 8, Campaign = 12), drawn as a matching row right beneath it. Equal length means it's a true race — the villains need exactly as many wins as the heroes do, at every scale.
 
 You don't have to spell out all of the villain's milestones in advance. It's enough to know who they are and what they want; you'll decide what each filled box *means* when it happens (see the Surge).
 
-### How It Fills: Fleeing
+### Characterize Your Antagonist
 
-There is exactly **one** way the Antagonist Track advances: **the heroes flee a Challenge** (Chapter 8). When the group decides a Challenge is costing more Readiness than it's worth, they abandon it — lose its progress — and mark **one box** on the Antagonist Track. The villains gained ground because the heroes gave ground.
+Before you can mark a box for "the bad guys gaining ground," you need to know **who the bad guys are** — and the antagonist isn't always a *who*. Sometimes the thing standing between the heroes and their goal is a **force**: a harsh desert, a closing-in blizzard, a spreading plague, the simple fact that *time is running out*. That's a perfectly good antagonist — but a faceless one is hard to picture, and you'll want a clear image when a box fills.
 
-What does **not** advance it: a Weak Hit, a Miss, Paying the Price, taking a Recovery Scene, or a missed Showdown. None of them. The villain clock moves only when the heroes choose to retreat. This keeps losing a Quest from ever being something bad luck *does to* the players — it's always the cumulative result of choices they made to stay alive.
+So **give your antagonist a face.** Decide what it *wants* and what "winning" looks like for it, even if it's not a person:
+
+- Crossing a brutal desert? The **desert** is your antagonist — it wants to wear you down and swallow you. A filled box is a sandstorm, a dry well, a collapsing dune.
+- Racing a sickness through the village? The **plague** is the antagonist; each box is another street it reaches.
+- Up against a scheming duke? Easy — *he's* the antagonist, and each box is a move in his plan.
+
+Naming this turns every Antagonist tick into a concrete story beat instead of an abstract counter. You're not "marking box two of four" — *the sandstorm hits.*
+
+### How It Fills
+
+The Antagonist Track advances when **the antagonist gains ground** — and the table decides, in the fiction, when that's happened. There's one rock-solid trigger plus a couple of judgment calls:
+
+- **Fleeing a Challenge (the core trigger).** When the group decides a Challenge is costing more Readiness than it's worth, they **flee** (Chapter 8): abandon it, lose its progress, and mark **one box** on the Antagonist Track. The villains gained ground because the heroes gave ground. This is the everyday, reliable way the track moves — especially for Episodic Quests.
+- **A telling failure, at the table's discretion.** Sometimes a **significant** Miss or a costly Weak Hit clearly hands the antagonist an opening, even though the heroes didn't flee. When that happens and the table agrees it fits, you **may** mark an Antagonist box. This is the main way **Season and Campaign** villains advance — you rarely "flee" a season-long arc, but its villain absolutely creeps forward when things go badly. (This is folded into **Pay the Price**, Chapter 7: when you Pay the Price, you *may* also tick an Antagonist box — and if you do, narrate what the antagonist just gained, exactly as you would after a flee.)
+
+The key principle: ticking the Antagonist Track is always a **deliberate call**, never an automatic punishment for one bad roll. The track doesn't lurch forward every time the dice are unkind — it moves when the *story* says the bad guys got ahead. That keeps losing a Quest from being something bad luck *does to* the players; it's the cumulative result of moments the table looked at and agreed, "yeah — they're winning this one."
+
+What does **not**, on its own, advance it: an ordinary Weak Hit or Miss (those just cost Readiness), a Recovery Scene, or a missed Showdown.
 
 ### The Surge: Playing Out a Villain Milestone
 
 When an Antagonist box fills, **stop and play it out** — this beat is called the **Surge.** The villains just completed a milestone of their own, so:
 
-1. **Envision what that looks like off-screen for them.** What did they accomplish while the heroes were retreating? The cult finished the first ritual; the warlord seized the bridge; the flood reached the lower town.
+1. **Envision what that looks like off-screen for them.** What did the antagonist accomplish? The cult finished the first ritual; the warlord seized the bridge; the flood reached the lower town; the **sandstorm** rolled in and buried the trail.
 2. **Bring it on-screen as a complication.** A new obstacle appears, a threat escalates, an ally is captured, the deadline jumps closer. The world should visibly tighten around the heroes.
 
-A Surge is an open invitation to bend the plot. It's the payoff that makes fleeing *feel* costly even though it saved the party's Readiness — the story just got harder in a concrete, dramatic way.
+A Surge is an open invitation to bend the plot. It's the payoff that makes giving ground *feel* costly even when it saved the party's Readiness — the story just got harder in a concrete, dramatic way. (And because you **characterized your antagonist** earlier, you always know whose face to put on it — even when the "villain" is a desert.)
 
 ### Design Note: The Monster-of-the-Week Clock
 
-The Antagonist Track is a "story clock" in the tradition of games like *Monster of the Week* and *Blades in the Dark* — a visible counter that turns the villain's progress into something the whole table can see and feel. Two choices make it work the way it does:
+The Antagonist Track is a "story clock" in the tradition of games like *Monster of the Week* and *Blades in the Dark* — a visible counter that turns the antagonist's progress into something the whole table can see and feel. Two choices make it work the way it does:
 
-- **It's flee-triggered, not automatic.** Tying it to a deliberate group decision (retreat) rather than to bad dice keeps it from feeling like random punishment, and gives the heroes full ownership of their fate. You only ever lose because you chose to give ground.
+- **It's deliberate, not automatic.** The track never lurches forward on a single unlucky roll. It moves when the *table* decides the antagonist gained ground — reliably when the heroes flee, and otherwise only when a telling failure clearly hands the bad guys an opening. Tying it to group judgment rather than to bad dice keeps it from feeling like random punishment and gives the heroes ownership of their fate. You lose because the story turned against you, beat by beat — not because the dice piled up.
 - **It's core, not optional.** Earlier drafts made it an opt-in module. But the whole stay-alive design — heroes can't die, so they flee instead — depends on there being a track to advance when they do. Without it, fleeing would have no cost and losing would have no meaning. So every Quest draws one.
 
 ---
@@ -119,15 +154,34 @@ Then let that answer reshape your setting and spark the **next** Quest — direc
 
 ### Running Multiple Quests at Once
 
-You're not limited to one Quest at a time. Several can be active simultaneously, each with its **own paired Quest and Antagonist Tracks.** This falls naturally out of two rules: the victory bump triggers on *completing a Quest* (not on a session boundary), and losing a Quest *seeds* another — so Quests are always starting and finishing at different times rather than the whole table marching through one at a time.
+You're not limited to one Quest at a time. Several can be active simultaneously, each with its **own paired Quest and Antagonist Tracks** — and this is exactly how the three scales (Episodic, Season, Campaign) live together. At any given moment a long campaign might have **one Campaign Quest, one or two Season Quests, and whatever Episodic Quest is in front of the heroes tonight**, all on the sheet at once. You play the episodic one scene-to-scene; the bigger tracks tick forward as your adventures feed them.
+
+A whole **Avatar**-style game laid out:
+
+```
+CAMPAIGN  — Master the elements, defeat the Fire Lord
+QUEST:        [✓][✓][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]   (Books Water & Earth done)
+ANTAGONIST:   [✓][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]   (the comet draws closer)
+
+SEASON    — Master Earthbending (Book Two)
+QUEST:        [✓][✓][✓][✓][ ][ ][ ][ ]
+ANTAGONIST:   [✓][✓][ ][ ][ ][ ][ ][ ]   (the Dai Li tighten their grip)
+
+EPISODIC  — Escape the Library before it sinks
+QUEST:        [✓][ ][ ]
+ANTAGONIST:   [ ][ ][ ]
+```
+
+Win tonight's Episodic Quest and you might tick a box on the Season Track too; fill the Season Track and you tick the Campaign. That's the whole system breathing. It falls naturally out of two rules already in play: the victory bump triggers on *completing a Quest* (not on a session boundary), and losing a Quest *seeds* another — so Quests are always starting and finishing at different times rather than the table marching through one at a time.
 
 To keep it manageable:
 
-- **Track each Quest as its own pair of rows** on the sheet, clearly labeled. Don't merge them — each race is separate.
+- **Track each Quest as its own pair of rows** on the sheet, clearly labeled with its scale. Don't merge them — each race is separate.
+- **Declare what feeds what.** When you open a Season or Campaign Quest, note which smaller Quests advance it (see *Nesting Quests*). That's what makes the big tracks move.
 - **Let Quests cross-pollinate.** Completing one can change the situation in another (freeing an ally who then helps; angering a faction that now opposes you). That's a feature — it's how a setting starts to feel alive.
-- **Keep one Quest in focus at a time at the table.** Multiple Quests can *exist*, but a single Scene is usually about one of them. Switch focus at natural breaks so parallel stories don't fragment the group's attention.
+- **Keep one Quest in focus at a time at the table.** Multiple Quests can *exist*, but a single Scene is usually about one of them — almost always the Episodic one. Switch focus at natural breaks so parallel stories don't fragment the group's attention.
 
-For most groups — and almost all first games — a single Quest is plenty. Reach for multiple Quests once the table wants an ongoing, living campaign with several threads in motion.
+For most groups — and almost all first games — a single Episodic Quest is plenty. Add a Season Track once the table wants threads that carry across adventures, and a Campaign Track once you're committing to the long haul.
 
 > **Quest Seeds (sidebar).** Stuck for a premise? Grab one of these and bend it to your World Forge. Each is just a spark — a Goal and a hint of trouble, not a plotted adventure.
 >
