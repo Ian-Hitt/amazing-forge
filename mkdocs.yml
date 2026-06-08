@@ -1,0 +1,63 @@
+site_name: Amazing Forge
+site_description: A cinematic, zero-prep tabletop RPG for ages 10+.
+# Update this once the repo is public (used for the "edit" links and canonical URLs):
+# site_url: https://ian-hitt.github.io/amazing-forge/
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Part One — Your First Game:
+      - 1. Build Your World: part-one/01-build-your-world.md
+      - 2. Create Your Hero: part-one/02-create-your-hero.md
+      - 3. Start Your Quest: part-one/03-start-your-quest.md
+      - 4. The Roll: part-one/04-the-roll.md
+      - 5. Playing the Game: part-one/05-playing-the-game.md
+      - 6. Your First Session: part-one/06-your-first-session.md
+  - Part Two — Full Reference:
+      - 7. The Roll: part-two/07-the-roll.md
+      - 8. Challenges: part-two/08-challenges.md
+      - 9. Readiness: part-two/09-readiness.md
+      - 10. Quests & the Antagonist Track: part-two/10-quests-and-the-antagonist-track.md

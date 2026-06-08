@@ -1,0 +1,18 @@
+# MkDocs build output
+site/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# --- Internal working files (kept local; NOT published to the public repo) ---
+# Remove any of these lines if you'd rather back them up to GitHub too.
+CLAUDE.md
+Book Outline.md
+Core Mechanics - Master Reference.md
+Math & Simulation Reference.md
+sim_*.py
+.claude/
