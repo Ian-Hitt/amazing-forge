@@ -167,4 +167,4 @@ These aren't timers to obey — they're a yardstick. Glance at the clock and the
 
 ---
 
-*That closes Part Two — the full craft of playing and running the game. Part Three steps away from the table entirely to focus on a different kind of fun: **building the world** your stories happen in, with the World Forge in depth.*
+*You now know how to run the game session to session. One thing remains before Part Two is done: when the same heroes return adventure after adventure, how do they **grow?** That's Chapter 13, **Growing Your Heroes.***
