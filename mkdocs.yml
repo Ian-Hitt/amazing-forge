@@ -1,7 +1,6 @@
 site_name: Amazing Forge
 site_description: A cinematic, zero-prep tabletop RPG for ages 10+.
-# Update this once the repo is public (used for the "edit" links and canonical URLs):
-# site_url: https://ian-hitt.github.io/amazing-forge/
+site_url: https://ian-hitt.github.io/amazing-forge/
 
 theme:
   name: material
