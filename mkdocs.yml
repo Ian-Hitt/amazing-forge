@@ -65,7 +65,14 @@ nav:
       - 13. Growing Your Heroes: part-two/13-growing-your-heroes.md
   - Part Three — Building Your World:
       - 14. The World Forge: part-three/14-the-world-forge.md
-      - 15. Genres: part-three/15-genres.md
+      - 15. Genres:
+          - Overview: part-three/15-genres.md
+          - Adventure: part-three/genres/adventure.md
+          - Mystery: part-three/genres/mystery.md
+          - Horror: part-three/genres/horror.md
+          - Sci-Fi: part-three/genres/sci-fi.md
+          - Caper: part-three/genres/caper.md
+          - Drama: part-three/genres/drama.md
   - Part Four — Reference & Tools:
       - Hero Sheet: part-four/hero-sheet.md
       - Quest Tracker Sheet: part-four/quest-tracker-sheet.md
