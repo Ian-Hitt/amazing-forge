@@ -1,6 +1,6 @@
 ## Chapter 5 — Playing the Game
 
-You now know the one move that runs everything: roll 2d6, add +2 or +1, read the result. This chapter shows you how that move plays out at the table across a whole adventure — the two sizes of moment you'll roll for, how to retreat when a scene turns against you, how your heroes catch their breath, how you win, and what to do when the table goes quiet and nobody's sure what happens next.
+You now know the one move that runs everything: roll 2d6, add +2 or +1, read the result. This chapter shows you how that move plays out at the table across a whole adventure — the two sizes of moment you'll roll for, how to retreat when a scene turns against you, how your heroes patch up and recover, how you win, and what to do when the table goes quiet and nobody's sure what happens next.
 
 ### Regular Rolls vs. Challenges
 
@@ -37,7 +37,7 @@ When the group decides a moment is big enough to be a Challenge, here's how to r
 
 That's the whole loop: describe, roll, mark a box (or pay the price), pass the dice, repeat until the track is full.
 
-> *Part Two has the complete Challenge rules: scaling difficulty up, the full turn order, helping a teammate instead of rolling (Aid Your Ally), turning a final box into a dramatic last-roll Showdown, and tips for different kinds of scenes. For your first game, the loop above is all you need.*
+> *Part Two has the complete Challenge rules: scaling difficulty up, the full turn order, turning a final box into a dramatic last-roll Showdown, and tips for different kinds of scenes. For your first game, the loop above is all you need.*
 
 ### What About Combat?
 
@@ -63,15 +63,17 @@ Fleeing and quitting are your safety valves: heroes can't die, so when Readiness
 
 ### Recovery
 
-Readiness only ever drops in the heat of the action — you don't get it back mid-fight. But whenever the story reaches a **genuinely safe, quiet moment** — the danger has passed, even just for now — your heroes can take a **Recovery Scene** to get back on their feet.
+Readiness only ever drops in the heat of the action — you don't get it back mid-fight. But whenever the story reaches a **genuinely safe, quiet moment**, a hero can **Mend** — patching up yourself *or* a teammate (so a healer hero is genuinely handy). Describe the care — bandaging a wound by the campfire, a quick healing spell, a steadying word — then roll 2d6 + modifier, just like any action:
 
-A Recovery Scene is a slower story beat, not just a number change: bandaging wounds by a campfire, repairing the ship, a quiet heart-to-heart that steadies everyone's nerves. Play it out a little. Then **each hero recovers +3 Readiness** (never above the cap of 9).
+- **Strong Hit (10+):** recover **+3** Readiness.
+- **Weak Hit (7–9):** recover **+2** Readiness.
+- **Miss (6 or less):** **no luck** — the rest doesn't take, so you recover **nothing**, and a **new threat appears.**
 
-You **never roll** for a Recovery Scene, and you never lose anything by taking one — it's meant to feel safe. Notice the heal is only partial: +3 patches you up but rarely fills you back to full, so a hard adventure keeps wearing on you. When the group's Readiness is running low, that's your cue that it's time to find a safe moment and take a breather.
+Two things make a Mend count rather than being a free refill. **It can come up empty** (a Miss heals nothing — though it never *costs* Readiness; healing never pushes your number down). And **each hero can be Mended just once per Milestone** (whether they patch themselves up or a friend does) — so pick your moment. Capped at 9. When the group's Readiness is running low, that's your cue to find a safe spot and decide whether to spend a Mend now or push on.
 
-**Out of Action.** If a hero hits **0 Readiness**, they're **Out of Action** — too hurt, scared, or worn down to keep going. They can't act for now, but they're not gone for good (heroes can't die in Amazing Forge). The next time the group takes a Recovery Scene, that hero comes back at +3 and rejoins the adventure.
+**Out of Action.** If a hero hits **0 Readiness**, they're **Out of Action** — too hurt, scared, or worn down to keep going. They can't act for now, but they're not gone for good (heroes can't die in Amazing Forge). At a safe moment they (or a teammate) can try to Mend them back up — and that doesn't use up anyone's once-per-Milestone Mend — but it can miss, so they might stay down a little longer.
 
-> *Part Two covers more: that Recovery Scenes cost story time (while you rest, the world keeps moving), how an ally can pull a downed hero back into a fight mid-scene, and the bigger recovery you get for finishing a Quest.*
+> *Part Two covers more: the brake that keeps you from resting constantly, how an ally can pull a downed hero back into a fight mid-scene, and **Downtime** — the deeper, between-adventures rest.*
 
 ### Finishing the Quest
 
@@ -79,7 +81,7 @@ When the heroes complete their final Milestone, **check the last box on the Ques
 
 Take a moment to play out the victory: the Sun Crystal back in the village square, the lighthouse ghost finally at peace, the sky-city saved. Describe how it feels and what your heroes do now that it's over.
 
-Then claim your reward: finishing a Quest is the biggest breather of all, so **each hero recovers +6 Readiness** (still capped at 9). Your heroes head into whatever comes next with plenty in the tank.
+Then claim your reward: finishing a Quest earns the heroes **Downtime** — a good, long rest. For your first game, just take it: **each hero recovers +6 Readiness** (still capped at 9), and you head into whatever comes next with plenty in the tank. (Part Two has the full Downtime move, where the rest is rolled like any other.)
 
 That's a complete adventure — world forged, heroes made, Quest won. From here you can start a brand-new Quest, send these same heroes on another, or hand the dice to someone new.
 

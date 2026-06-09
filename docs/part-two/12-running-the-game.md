@@ -40,7 +40,7 @@ Here's the counterintuitive heart of being a Guide: **your job is not to knock t
 Your real job is to make Readiness feel **precious.** A number that drains predictably is boring; a number that drains *dramatically* is tension. So:
 
 - **Make every Price a scene, not a fee.** When a hero takes a Weak Hit or a Miss, **Pay the Price** (Chapter 9) is your moment to push the story, not just subtract a point. The floor doesn't crumble because a rule says "−2" — it crumbles because that's the most exciting thing that could happen right now, and *then* it costs Readiness.
-- **Let low Readiness be a cue, not a threat.** When the party's running thin, that's not your signal to pounce — it's the table's signal that a **Recovery Scene** (Chapter 9) is due, or that it might be time to **Flee** (Chapter 8). A good Guide reads that moment out loud: "You're both pretty battered — is this a fight you want to finish?"
+- **Let low Readiness be a cue, not a threat.** When the party's running thin, that's not your signal to pounce — it's the table's signal that it's time to **Mend** (Chapter 9), or that it might be time to **Flee** (Chapter 8). A good Guide reads that moment out loud: "You're both pretty battered — is this a fight you want to finish?"
 - **Save the squeeze for moments that matter.** If you treat every roll as a chance to hurt someone, the hurt stops meaning anything. Spend your hardest complications on the beats that deserve weight — the climax of a Challenge, a Surge, the threshold of the villain's lair.
 
 Pressure done right makes the heroes *feel* the danger without ever taking them off the board. That feeling — "we might not make it" — is the whole point.
@@ -163,7 +163,7 @@ These aren't timers to obey — they're a yardstick. Glance at the clock and the
 - **Montage it** when the outcome isn't in doubt and the journey isn't the point. "Three days of hard travel later, you crest the ridge and see the city." One sentence; move on.
 - **Play it out** when there's real tension, a meaningful choice, or a moment a player has been waiting for. That's what the screen time is *for.*
 
-**Ending a session well.** Sessions end on the clock, but they shouldn't *feel* like they ended on the clock. As you near time, steer toward a natural stopping point — a **cliffhanger** ("the door swings open and standing there is —" *next time*) or a **breather** (a Recovery Scene, a quiet victory, a campfire). Either one is a deliberate landing. "Well, we're out of time, I guess we'll pick up wherever" is not a landing — and with a little steering you almost never have to settle for it.
+**Ending a session well.** Sessions end on the clock, but they shouldn't *feel* like they ended on the clock. As you near time, steer toward a natural stopping point — a **cliffhanger** ("the door swings open and standing there is —" *next time*) or a **breather** (a chance to Mend and regroup, a quiet victory, a campfire). Either one is a deliberate landing. "Well, we're out of time, I guess we'll pick up wherever" is not a landing — and with a little steering you almost never have to settle for it.
 
 ---
 

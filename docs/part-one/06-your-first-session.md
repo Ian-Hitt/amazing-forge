@@ -125,17 +125,17 @@ QUEST TRACK:   [X]  [X]  [ ]
 
 ---
 
-### A Breather — Recovery Scene
+### A Breather — Mend
 
-Safe on the far side, the heroes find a sheltered hollow out of the wind. Nothing is chasing them this second. Snik is down to 6 and rattled from nearly falling, so they take a moment.
+Safe on the far side, the heroes find a sheltered hollow out of the wind. Nothing is chasing them this second. Snik is down to 6 and rattled from nearly falling, so they take a moment to **Mend.**
 
-**Leo:** "Snik grumbles the whole time, but he repacks what gear he's got left and brews a little courage. Brave checks Cinder's wing where she clipped the rock."
+**Leo:** "Snik grumbles the whole time, but he repacks what gear he's got left and brews a little camp tea." **Maya:** "Brave checks Cinder's wing where she clipped the rock, then bandages her own scrapes."
 
-> **▶ Rules note — Recovery Scene (Chapter 5).** A genuinely safe lull lets them recover. No roll, no risk — each hero just heals **+3**, capped at 9.
-> - Brave: 8 → **9** (capped).
-> - Snik: 6 → **9.**
+> **▶ Rules note — Mend (Chapter 5).** A genuinely safe lull lets a hero recover — but Mend is a *roll* (once per Milestone each, and you can Mend a teammate, not just yourself), and it can come up empty. The one promise: **healing never costs Readiness** — a bad roll just means the patch-up didn't take.
+> - Brave rolls a **Strong Hit:** +3 → 8 → **9** (capped).
+> - Snik rolls a **Weak Hit:** +2 → 6 → **8.**
 >
-> Notice the heal is partial by design — here it happens to top them off, but after a harder stretch +3 wouldn't fully refill them.
+> Had either rolled a **Miss**, they'd recover **nothing** *and* a fresh threat would crash the moment (a goblin patrol stumbling onto the hollow, say) — never a loss of Readiness, just no rest and new trouble. Both rolls land here, so the breather holds.
 
 ---
 
@@ -158,7 +158,7 @@ QUEST TRACK:        [X]  [X]  [X]   ← Quest won!
 ANTAGONIST TRACK:   [ ]  [ ]  [ ]   ← still empty — they never fled
 ```
 
-> **▶ Rules note — finishing the Quest (Chapter 5).** Filling the last box wins the Quest. Because they chose to push instead of flee, the Goblin King's track stayed empty. Each hero gets the victory recovery of **+6 Readiness** (capped at 9), and they head home with full tanks. *(Had a roll gone badly, fleeing would have been the smart, safe call — they'd have lost the scene and given the King a box, but lived to try again.)*
+> **▶ Rules note — finishing the Quest (Chapter 5).** Filling the last box wins the Quest. Because they chose to push instead of flee, the Goblin King's track stayed empty. Finishing earns the heroes **Downtime** — their long rest — so each recovers **+6 Readiness** (capped at 9), and they head home with full tanks. *(Had a roll gone badly, fleeing would have been the smart, safe call — they'd have lost the scene and given the King a box, but lived to try again.)*
 
 The Sun Crystal goes back above the village square, light and warmth return, and the elders hail two unlikely heroes — a knight on a dragon and a grumpy goblin who came home just long enough to save the day.
 
@@ -166,7 +166,7 @@ The Sun Crystal goes back above the village square, light and warmth return, and
 
 ### What This Showed You
 
-In one short session, Maya and Leo used **every rule in Part One:** they forged a world, built heroes, named a Quest and an antagonist, drew both tracks, made **Regular Rolls** and ran **Challenges**, hit a **Strong Hit, a Weak Hit, a Miss, and an Outstanding Success**, **Paid the Price** more than once, weighed **fleeing** (and chose to push), took a **Recovery Scene**, and checked off Milestones to **win the Quest.** That's the whole game.
+In one short session, Maya and Leo used **every rule in Part One:** they forged a world, built heroes, named a Quest and an antagonist, drew both tracks, made **Regular Rolls** and ran **Challenges**, hit a **Strong Hit, a Weak Hit, a Miss, and an Outstanding Success**, **Paid the Price** more than once, weighed **fleeing** (and chose to push), stopped to **Mend**, and checked off Milestones to **win the Quest.** That's the whole game.
 
 Notice what they *didn't* do: look up a spell, calculate any enemy's hit points, or roll for initiative. They just described what their heroes did, rolled 2d6, and told the story together.
 

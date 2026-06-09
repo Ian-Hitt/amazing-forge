@@ -30,6 +30,8 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
 .af-asset .af-boon { display: flex; gap: 0.4rem; align-items: center; margin-top: 0.35rem; font-size: 0.8rem; }
 .af-asset .af-boon .af-fill { min-height: 1.1rem; }
 .af-asset .af-boon .af-box { width: 0.9rem; height: 0.9rem; }
+.af-asset .af-broken { display: flex; gap: 0.3rem; align-items: center; margin-top: 0.3rem; font-size: 0.72rem; opacity: 0.6; }
+.af-asset .af-broken .af-box { width: 0.9rem; height: 0.9rem; }
 .af-box { display: inline-block; width: 1.6rem; height: 1.6rem; border: 1.5px solid #555; border-radius: 4px; text-align: center; line-height: 1.6rem; font-size: 0.8rem; }
 .af-track { display: flex; flex-wrap: wrap; gap: 0.3rem; align-items: center; }
 .af-readiness .af-box.af-start { border-color: #d35400; border-width: 2.5px; font-weight: 700; }
@@ -49,32 +51,36 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
   <p class="af-hint">[An Adjective, Species, or Twist] + [a Class, Job, or Role] — your hero's one-line movie-poster pitch.</p>
 
   <h3>Assets</h3>
-  <p class="af-hint">Four things your hero is amazing at. An Asset that fits a roll adds +2. Spend 2 Growth on a Boon (a signature move on an Asset, max 2 each).</p>
+  <p class="af-hint">Four things your hero is amazing at. An Asset that fits a roll adds +2. Spend 2 Growth on a Boon (a signature move on an Asset, max 2 each). Check <b>Broken</b> when an Asset is knocked out at 0 Readiness — it gives no +2 until Downtime restores it.</p>
   <div class="af-assets">
     <div class="af-asset">
       <span class="af-fill"></span>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
+      <div class="af-broken"><span class="af-box"></span> Broken</div>
     </div>
     <div class="af-asset">
       <span class="af-fill"></span>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
+      <div class="af-broken"><span class="af-box"></span> Broken</div>
     </div>
     <div class="af-asset">
       <span class="af-fill"></span>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
+      <div class="af-broken"><span class="af-box"></span> Broken</div>
     </div>
     <div class="af-asset">
       <span class="af-fill"></span>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
+      <div class="af-broken"><span class="af-box"></span> Broken</div>
     </div>
   </div>
 
   <h3>Readiness</h3>
-  <p class="af-hint">Start at 9 (circled). Cross off as it drops — Weak Hit &minus;1, Miss &minus;2. At 0 you're Out of Action. Recovery Scene +3, finishing a Quest +6. Max 9.</p>
+  <p class="af-hint">Start at 9 (circled). Cross off as it drops — Weak Hit &minus;1, Miss &minus;2. At 0 you're Out of Action and one Asset breaks. Heal by rolling: Mend (self or ally, 1&times;/Milestone) Strong +3 / Weak +2 / Miss none; Downtime (or finishing a Quest) +6/+7, and restores one Broken Asset. Max 9.</p>
   <div class="af-track af-readiness">
     <span class="af-box">0</span>
     <span class="af-box">1</span>

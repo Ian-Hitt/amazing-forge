@@ -35,7 +35,7 @@ When a hero has Growth to spend, they can buy from exactly two things:
 | **Boon** — a signature move attached to one of your Assets | **2 Growth** | max **2 Boons per Asset** |
 | **New Asset** | **5 Growth** | ceiling of **6 Assets** — at six, *Trade In* one to add a new one |
 
-Spend whenever it makes sense in the story — usually between sessions, or in a quiet moment like a **Recovery Scene** (Chapter 9). Mark off the boxes you spend; the rest stay on the track for next time.
+Spend whenever it makes sense in the story — usually between sessions, or in a quiet moment like **Downtime** (Chapter 9). Mark off the boxes you spend; the rest stay on the track for next time.
 
 A **Boon** is the everyday reward — cheap enough to pick up a couple of times across a Season. A **New Asset** is a bigger deal you save toward, the kind of growth that marks a real turning point in a hero's story.
 
@@ -46,6 +46,8 @@ A hero starts with **four Assets** (Chapter 4) and can grow to **six**. The fift
 Six is the hard ceiling. There's a reason: your Assets are your competence, and if a hero had an Asset for *everything*, they'd be +2 on every roll — which is exactly the "Lucky / Good at everything" trap the Asset rules warn against. Six keeps a hero clearly capable without making the +2 meaningless.
 
 So once a hero has six Assets, they can't simply add a seventh. Instead they **Trade In**: retire one Asset they've outgrown and replace it with the new one. It still costs the full 5 Growth, and it's a great story beat — *the young thief sets down "Grandpa's Lockpicks" and picks up "Captain of the Free Companies."* Narrate what changed.
+
+> **A Trade In isn't a break.** Don't confuse retiring an Asset with a **broken Asset** (Chapter 9). A break is temporary — an Asset knocked offline when a hero goes Out of Action, and made whole again at the next Downtime. It's never lost, never traded, and costs no Growth. A Trade In is the opposite: a permanent, deliberate choice to set one Asset down for good. A break is a passing wound; a Trade In is growing up.
 
 ---
 
@@ -70,7 +72,7 @@ The three above are a starting point. Tables are encouraged to dream up Boons th
 1. **It's a move, not a number.** A Boon lets you *do* something — pay a Price for an ally, reroll, escalate a result, reach somewhere you couldn't. It never adds to your dice. (If it would make a roll bigger, it's not a Boon.)
 2. **It has a limit.** Once per Scene or once per Session, tied to a specific Asset. A trick you can do every single roll isn't a signature move — it's just power creep.
 
-Anything that passes both is fair game. The fiction of the Asset should suggest the trick: a *Wise Sprite Companion* might **scout ahead** (ask the Oracle a yes/no question for free, once per Scene); *Healing Herbs* might let a **Recovery Scene heal one extra point**, once per Session. Keep them flavorful, keep them limited, and keep them off the dice.
+Anything that passes both is fair game. The fiction of the Asset should suggest the trick: a *Wise Sprite Companion* might **scout ahead** (ask the Oracle a yes/no question for free, once per Scene); *Healing Herbs* might let a hero **Mend for one extra point**, once per Session. Keep them flavorful, keep them limited, and keep them off the dice.
 
 ---
 

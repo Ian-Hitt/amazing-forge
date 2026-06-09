@@ -24,7 +24,7 @@ A price in Drama is *social fallout*, never a bruise. Readiness here is your com
 - **Relationships are the dungeon.** Map who wants what from whom before you start. Every scene should change a relationship — closer, colder, or more complicated.
 - **Most scenes are Social Confrontations** (Chapter 8): the track is the shifting mood of the room, and a filled box is ground won — a doubt planted, an ally swayed, a confession pried loose, the crowd turning your way.
 - **Secrets are currency.** Hand them out like treasure. Who knows it, who *wants* it, and what it costs to keep or spend — that's the whole economy of a Drama.
-- **Let feelings have mechanical weight.** Pay the Price as embarrassment, heartbreak, or a damaged reputation; a Recovery Scene (Chapter 9) is a heart-to-heart, a good cry, a friend talking you back up.
+- **Let feelings have mechanical weight.** Pay the Price as embarrassment, heartbreak, or a damaged reputation; Downtime (Chapter 9) is a heart-to-heart, a good cry, a friend talking you back up.
 - **Pace the bombshells.** Don't spill every secret at once. Let the pressure build — a look here, a rumor there — then detonate *one* revelation and let the fallout play all the way out before you light the next fuse.
 - **The trap to avoid:** niceness with no stakes. Drama needs *friction* — wants that collide, secrets that can't all stay buried, choices with no clean answer. If everyone's getting along, light a fuse.
 

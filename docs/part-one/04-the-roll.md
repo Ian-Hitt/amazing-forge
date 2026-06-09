@@ -55,6 +55,6 @@ Doubles are always good news. Watch for those matching numbers — when they lan
 
 ### That's the Whole Engine
 
-Roll 2d6, add +2 or +1, read Strong Hit / Weak Hit / Miss, and narrate it. That single move carries the entire game. Next you'll see the two ways it shows up at the table — quick one-off rolls, and bigger action scenes called Challenges — plus how your heroes catch their breath and recover.
+Roll 2d6, add +2 or +1, read Strong Hit / Weak Hit / Miss, and narrate it. That single move carries the entire game. Next you'll see the two ways it shows up at the table — quick one-off rolls, and bigger action scenes called Challenges — plus how your heroes patch up and recover.
 
 **Next up:** playing the game — Regular Rolls, Challenges, and Recovery. Turn to Chapter 5.

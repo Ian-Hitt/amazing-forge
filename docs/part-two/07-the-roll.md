@@ -26,6 +26,8 @@ When a hero does something risky or uncertain, roll 2d6 and add a modifier based
 
 There's no +0 and no penalty die. The floor is +1, on purpose (see the Design Note at the end of the chapter).
 
+> **A broken Asset gives no +2.** An Asset can be *broken* when a hero is taken Out of Action (Chapter 9). While broken, it provides no bonus until **Downtime** restores it — any roll it would have covered is made at **+1**, exactly like acting outside your wheelhouse. A break only ever removes the bonus; it never drops you below +1.
+
 ### The Three Outcomes
 
 | Total | Result |
@@ -55,6 +57,18 @@ On a **Strong Hit or a Weak Hit**, the acting player **narrates how the Scene ch
 This is what makes the game genre-proof. Take **investigation**, which trips up a lot of rules-light games. You don't need a separate "search" or "clue" system. Searching for something, a Hit means you narrate finding *something* — and you get to decide what it is. The table can work out what it means right now, or bank that for later. A big search (combing an entire crime scene) can be run as a full **Challenge**, where each box of Progress is a fresh clue *or* a new lead: one roll reveals a hidden door, a later roll uncovers what's behind it. Either way, every Hit moves the story closer to its end — which is the whole job of the core move.
 
 The habit to build: **never let a roll end with just a number.** Always answer "so what does that look like?" out loud.
+
+### Aid Your Ally
+
+The core move has one variant: instead of pointing your action at a problem, you point it at a *teammate.* On your turn — in a Challenge or out of one — you can spend your roll to help another hero instead of acting yourself. Describe how you assist, then roll **2d6 + modifier** (use **+2** if one of your Assets fits the *help* you're giving, **+1** otherwise):
+
+- **Strong Hit (10+):** your help lands cleanly — your ally gets **+2** on their next roll.
+- **Weak Hit (7–9):** your help lands, but you **Pay the Price** — your ally gets **+1** on their next roll, and **you lose 1 Readiness.**
+- **Miss (6 or less):** your help doesn't land — **no bonus** — and you **Pay the Price** (−2 Readiness).
+
+Aid uses the *exact same math* as any other roll, Pay the Price included — it's the core move aimed at a teammate, not a separate, gentler rule. The Readiness cost on a Weak Hit or Miss isn't a penalty for being generous; it's the same risk every action carries, because reaching out to help is itself an action in the Scene. Doubles upgrade the tier just as they always do (a Weak Hit Aid with doubles becomes a Strong Hit — your ally gets +2 and you pay nothing).
+
+Aid is the best use of a turn when the moment isn't in your wheelhouse: the hero whose Assets don't fit sets up the hero whose Assets do. Because a Challenge's popcorn turn order means everyone acts every round anyway, it gives that hero a real, satisfying job instead of a wasted turn.
 
 ### Oracle's Blessing & Outstanding Success
 

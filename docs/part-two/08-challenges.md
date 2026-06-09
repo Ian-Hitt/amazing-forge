@@ -30,7 +30,7 @@ A Challenge runs as a loose, **popcorn-style round-robin.** There are **no initi
 
 - **Anyone may act first** — the group simply chooses whoever the moment is about.
 - **Everyone acts once before anyone acts twice.** Once each hero has taken a turn, the round resets and anyone may go again, in any order. This stops one strong character from soaking up every roll, and keeps the spotlight moving so everyone shares the fun.
-- On your turn, **describe what your hero does, then roll 2d6 + modifier** and resolve it with the core move. (Instead of rolling against the obstacle, you may spend your turn to **Aid an Ally** — see below.)
+- On your turn, **describe what your hero does, then roll 2d6 + modifier** and resolve it with the core move. (Instead of rolling against the obstacle, you may spend your turn to **Aid an Ally** — the teamwork variant of the core move, covered in full in Chapter 7.)
 
 That's the whole structure: go around the group, everyone contributes, the track fills.
 
@@ -47,16 +47,6 @@ Each Challenge Roll resolves on the standard outcomes, with the result marked on
 A Weak Hit and a Miss **always** cost Readiness — there's no way to dodge that loss on a roll. The **Antagonist Track** (Chapter 10) is never touched by a roll result; it advances only when the heroes **flee** the Challenge (see below).
 
 As always, every roll turns back into fiction (Chapter 7, Narrate the Change): say what filling the box *looks* like, and on a Miss, what the price *looks* like.
-
-### Aid Your Ally
-
-On your turn, instead of acting against the obstacle yourself, you can help a teammate. Describe how you assist, then roll 2d6 + modifier (use **+2** if one of your Assets fits the *help* you're giving):
-
-- **Strong Hit:** your ally gets **+2** on their next roll.
-- **Weak Hit:** your ally gets **+1** on their next roll.
-- **Miss:** your help doesn't land — **no bonus.** Per the game's no-punishment principle, a failed Aid **never** costs Readiness.
-
-Aid is the best use of a turn when the current obstacle isn't in your wheelhouse. Because the popcorn rule means everyone acts every round anyway, Aid gives a real, satisfying job to the hero whose Assets don't fit the moment — they set up the hero whose Assets do.
 
 ### Ending a Challenge
 
@@ -78,7 +68,7 @@ Heroes are never trapped in a Challenge they're losing. At any point — usually
 
 Fleeing is a **group decision** — in Co-op, made together; with a Guide, the Guide honors the table's call to retreat. It is the heroes' deliberate escape valve, and it's a weighty one: because the Antagonist Track is short (the same length as the Quest Track), you can only flee so many times before that track fills and you lose the Quest. Every retreat is a real choice, never a free reset.
 
-This is also the **only** thing that advances the Antagonist Track. Misses don't; Pay the Price doesn't; Recovery Scenes don't. The villain gains ground exactly when — and only when — the heroes turn and run. (The terminal case, fleeing or giving up the whole Quest, is **Quitting the Quest;** see Chapter 10.)
+This is also the **only** thing that advances the Antagonist Track. Misses don't; Pay the Price doesn't; recovery doesn't. The villain gains ground exactly when — and only when — the heroes turn and run. (The terminal case, fleeing or giving up the whole Quest, is **Quitting the Quest;** see Chapter 10.)
 
 > **Design note.** Tying the villain's advance to fleeing — rather than to a per-roll trade — keeps it from being a cheap "don't go down" button: a retreat always costs you the scene's progress *and* a box, so players only do it when staying is genuinely worse. Balance was modeled in `Math & Simulation Reference.md` §4b; it keeps Out-of-Action rare while making the Antagonist Track a meaningful, self-limiting clock.
 

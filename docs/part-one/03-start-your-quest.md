@@ -54,7 +54,7 @@ This is the bad guys' progress toward *their* goal. It fills up only when the he
 
 A quick way to picture a Milestone: it's a *chapter* of your movie, made up of a few **scenes.** Some scenes are over in a single dice roll ("you talk your way past the guard"); others are big enough to play out in detail. Chapters 4 and 5 show you how scenes work — for now, just know each Milestone is a little stretch of story, not one single moment.
 
-> *Part Two has more options for Quests — longer ones with more boxes, running several Quests at the same time, the full Antagonist Track and what happens when the bad guys gain ground, and how the scenes inside a Milestone can range from a single roll to a full-blown action set-piece. For your first game, keep it to one Quest, three Milestones, and the two three-box tracks.*
+> *Part Two has more options for Quests — longer ones with more boxes, running several Quests at the same time, the full Antagonist Track and what happens when the bad guys gain ground, a quick "Start a Quest" roll that sets how each new adventure opens, and how the scenes inside a Milestone can range from a single roll to a full-blown action set-piece. For your first game, keep it to one Quest, three Milestones, and the two three-box tracks — and just jump straight into the action, as the next section shows.*
 
 ### Jump In: In Media Res
 

@@ -69,9 +69,35 @@ A good Milestone is **concrete and checkable.** "Find the secret entrance" is go
 
 Mix and match — a Quest can blend shapes (a journey that ends in a heist, an investigation that turns into a rescue).
 
+### Start a Quest: The Opening Roll
+
+You've named the Goal, the Milestones, and the antagonist, and drawn the two tracks. One thing's left before the first scene: find out *how* the Quest opens. **Start a Quest** is the move that does it — a single roll, made once as the Quest begins, that hands you the tone of your launch and points you straight at your opening scene.
+
+Roll **2d6 + 1.** No Asset applies here — this isn't a test of any hero's skill; it's the world deciding how things stand as you set out, so you get the same **+1** floor as any off-Asset action. (And **doubles still trigger Oracle's Blessing**, bumping your opening up a tier.)
+
+Here's the important part: **this is a roll you can't fail.** All three results are good openings — they only differ in how much trouble is already on the heroes when the camera starts rolling. Read your result and let it shape that first scene:
+
+| Roll | Your Quest opens… | How to play it |
+|---|---|---|
+| **10+ — Clear purpose** | You set out emboldened, the way ahead in plain sight. | Open on the **front foot.** The heroes are ready and in control as the scene begins, and *they* make the first move. Paint a confident launch and ask "What do you do?" |
+| **7–9 — More questions than answers** | You're committed, but something's already unsettled. | Begin in motion with **one complication** already in play. Don't know what? **Ask the Oracle** (Chapter 11) or just decide — a missing supply, an unexpected face, a route that's changed. The first scene is about getting your footing. |
+| **6− — Trouble finds you first** | A setback meets you before you've taken a step. | Open **in the thick of it,** on the back foot — the first scene is very likely a **Challenge** the heroes didn't choose. **Ask the Oracle** for the obstacle if it isn't obvious. This is the most cinematic launch of the three: you're already running. |
+
+**Why a Miss is still a good thing.** Because nothing here is a hero attempting a risky action, a "Miss" isn't a failure — it's just the most dramatic way *in.* Over a campaign, most Quests will open with *some* immediate tension and a few will open calm, and that mix is exactly the pacing a good series has. (A show where every episode started in a quiet tavern would be a dull one.)
+
+**Turning the result into a scene.** The roll gives you a *temperature,* not a script — you still supply the content, and the content always points at your **first Milestone.** Say your first Milestone is "find the secret entrance":
+
+- A **10+** opens with the heroes standing at the cliff face, rested and ready, scanning the rock for the hidden door.
+- A **7–9** opens the same way, but the map was wrong — the door isn't where it should be, and the light's already fading.
+- A **6−** opens with them clinging to that cliff in a howling storm, a goblin patrol closing in below.
+
+Same Milestone, three different heats. Roll, read the temperature, paint the picture, and ask "What do you do?"
+
+> **First games skip this roll.** Part One (Chapter 3) just has you open in the middle of the action — no roll needed. The opening roll is a Part Two tool for when you want the dice to surprise you with how a new Quest begins.
+
 ### Finishing a Quest (and the Optional Quest Showdown)
 
-Fill the last box of the Quest Track and the **Quest is won.** Play out the victory, then each hero takes the **victory bump: +6 Readiness**, capped at 9 (Chapter 9).
+Fill the last box of the Quest Track and the **Quest is won.** Play out the victory — finishing **prompts Downtime** (the long rest), so each hero recovers **+6 Readiness**, capped at 9 (Chapter 9).
 
 For a climax that deserves a final-act turn, you can make that last box a **Quest Showdown** (the Quest-level version of the Showdown from Chapter 8): completing the closing Milestone takes one last roll.
 
@@ -118,7 +144,7 @@ The Antagonist Track advances when **the antagonist gains ground** — and the t
 
 The key principle: ticking the Antagonist Track is always a **deliberate call**, never an automatic punishment for one bad roll. The track doesn't lurch forward every time the dice are unkind — it moves when the *story* says the bad guys got ahead. That keeps losing a Quest from being something bad luck *does to* the players; it's the cumulative result of moments the table looked at and agreed, "yeah — they're winning this one."
 
-What does **not**, on its own, advance it: an ordinary Weak Hit or Miss (those just cost Readiness), a Recovery Scene, or a missed Showdown.
+What does **not**, on its own, advance it: an ordinary Weak Hit or Miss (those just cost Readiness), recovery (Mend or Downtime), or a missed Showdown.
 
 ### The Surge: Playing Out a Villain Milestone
 
@@ -144,7 +170,7 @@ The Antagonist Track is a "story clock" in the tradition of games like *Monster 
 
 If the Antagonist Track fills before the Quest Track, the bad guys win and the **Quest is lost.** The heroes can also choose to **Quit the Quest** outright at any time — the terminal version of fleeing, when the group decides this one simply isn't winnable or worth the cost.
 
-Losing carries **no mechanical penalty and no bonus.** There's no extra Readiness loss for quitting and no victory bump for it; the heroes just step away, battered but alive, and the world moves on without their win.
+Losing carries **no mechanical penalty and no bonus.** There's no extra Readiness loss for quitting and no Downtime heal for it; the heroes just step away, battered but alive, and the world moves on without their win.
 
 And crucially, **a lost Quest is not a dead end — it's a seed.** When the antagonists win, ask the table together:
 
@@ -172,7 +198,7 @@ QUEST:        [✓][ ][ ]
 ANTAGONIST:   [ ][ ][ ]
 ```
 
-Win tonight's Episodic Quest and you might tick a box on the Season Track too; fill the Season Track and you tick the Campaign. That's the whole system breathing. It falls naturally out of two rules already in play: the victory bump triggers on *completing a Quest* (not on a session boundary), and losing a Quest *seeds* another — so Quests are always starting and finishing at different times rather than the table marching through one at a time.
+Win tonight's Episodic Quest and you might tick a box on the Season Track too; fill the Season Track and you tick the Campaign. That's the whole system breathing. It falls naturally out of two rules already in play: finishing a Quest prompts Downtime — triggered on *completing a Quest*, not on a session boundary — and losing a Quest *seeds* another — so Quests are always starting and finishing at different times rather than the table marching through one at a time.
 
 To keep it manageable:
 

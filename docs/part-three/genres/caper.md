@@ -24,7 +24,7 @@ A price in a Caper makes things *harder and more exciting* — almost never hope
 - **Sell the score first.** Establish the prize and why it's "impossible" — the unbreakable vault, the guarded gala, the one-night-only window. The harder it sounds, the sweeter it plays.
 - **Plans are made to break.** Don't demand a perfect plan up front. Let the heroes set up a few advantages, then throw a wrench in — the fun is the *recovery*, not the blueprint.
 - **Caper Challenges are Stealth, Social, and clever problem-solving** (Chapter 8): "get past the lobby," "crack the vault," "keep the mark talking," "make the swap." A filled box is a step of the job pulled off clean (or clean *enough*).
-- **Reward style and teamwork.** The Face distracts while the Tech slices the lock while the Wildcard improvises — Aid Your Ally (Chapter 8) shines here. Let cool ideas *work.*
+- **Reward style and teamwork.** The Face distracts while the Tech slices the lock while the Wildcard improvises — Aid Your Ally (Chapter 7) shines here. Let cool ideas *work.*
 - **Pace the heat.** Let it run smoothly just long enough for everyone to relax — *then* spring the complication. The fun is the swing from "we've got this" to "improvise, **now**" and back to a clean exit.
 - **The trap to avoid:** grinding it into a simulation. Don't bog down in floor plans and exact timings. Caper runs on rule-of-cool and momentum — if it'd look great in the movie, lean toward letting it happen.
 
