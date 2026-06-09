@@ -1,0 +1,106 @@
+## Hero Sheet
+
+Everything a hero needs fits on one page. Print or photocopy this sheet, or just copy the layout onto a scrap of paper — a Concept, four Assets, your Readiness, and a Growth Track is the whole character.
+
+> **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus and navigation are hidden automatically, so you'll get just the sheet. One sheet per hero.
+
+<style>
+@media print {
+  .md-header, .md-tabs, .md-sidebar, .md-footer, .md-content__button, .md-nav { display: none !important; }
+  .md-main__inner, .md-content { margin: 0 !important; }
+  .af-sheet { box-shadow: none !important; border-color: #000 !important; }
+}
+.af-sheet {
+  border: 2px solid #d35400;
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  max-width: 720px;
+  font-family: inherit;
+}
+.af-sheet h3 { margin: 1.1rem 0 0.4rem; border-bottom: 2px solid #d35400; padding-bottom: 0.2rem; }
+.af-sheet .af-title { text-align: center; font-size: 1.5rem; font-weight: 700; letter-spacing: 0.04em; margin: 0; }
+.af-sheet .af-sub { text-align: center; font-size: 0.85rem; opacity: 0.7; margin: 0.1rem 0 0.6rem; }
+.af-line { display: flex; align-items: flex-end; gap: 0.5rem; margin: 0.5rem 0; }
+.af-line label { font-weight: 700; white-space: nowrap; }
+.af-fill { flex: 1; border-bottom: 1.5px solid #888; min-height: 1.4rem; }
+.af-hint { font-size: 0.8rem; opacity: 0.7; font-style: italic; }
+.af-assets { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem 1.2rem; }
+.af-asset { border: 1px solid #bbb; border-radius: 6px; padding: 0.5rem 0.6rem; }
+.af-asset .af-fill { min-height: 1.5rem; }
+.af-asset .af-boon { display: flex; gap: 0.4rem; align-items: center; margin-top: 0.35rem; font-size: 0.8rem; }
+.af-asset .af-boon .af-fill { min-height: 1.1rem; }
+.af-asset .af-boon .af-box { width: 0.9rem; height: 0.9rem; }
+.af-box { display: inline-block; width: 1.6rem; height: 1.6rem; border: 1.5px solid #555; border-radius: 4px; text-align: center; line-height: 1.6rem; font-size: 0.8rem; }
+.af-track { display: flex; flex-wrap: wrap; gap: 0.3rem; align-items: center; }
+.af-readiness .af-box.af-start { border-color: #d35400; border-width: 2.5px; font-weight: 700; }
+.af-notes { border: 1px solid #bbb; border-radius: 6px; min-height: 4.5rem; margin-top: 0.3rem; }
+.af-ref { font-size: 0.8rem; opacity: 0.85; border-top: 1px dashed #aaa; margin-top: 1rem; padding-top: 0.6rem; }
+.af-ref b { color: #d35400; }
+</style>
+
+<div class="af-sheet" markdown="0">
+  <p class="af-title">AMAZING FORGE</p>
+  <p class="af-sub">Hero Sheet</p>
+
+  <div class="af-line"><label>Hero Name</label><span class="af-fill"></span><label>Player</label><span class="af-fill"></span></div>
+
+  <h3>Concept</h3>
+  <div class="af-line"><span class="af-fill"></span></div>
+  <p class="af-hint">[An Adjective, Species, or Twist] + [a Class, Job, or Role] — your hero's one-line movie-poster pitch.</p>
+
+  <h3>Assets</h3>
+  <p class="af-hint">Four things your hero is amazing at. An Asset that fits a roll adds +2. Spend 2 Growth on a Boon (a signature move on an Asset, max 2 each).</p>
+  <div class="af-assets">
+    <div class="af-asset">
+      <span class="af-fill"></span>
+      <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
+      <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
+    </div>
+    <div class="af-asset">
+      <span class="af-fill"></span>
+      <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
+      <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
+    </div>
+    <div class="af-asset">
+      <span class="af-fill"></span>
+      <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
+      <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
+    </div>
+    <div class="af-asset">
+      <span class="af-fill"></span>
+      <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
+      <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
+    </div>
+  </div>
+
+  <h3>Readiness</h3>
+  <p class="af-hint">Start at 9 (circled). Cross off as it drops — Weak Hit &minus;1, Miss &minus;2. At 0 you're Out of Action. Recovery Scene +3, finishing a Quest +6. Max 9.</p>
+  <div class="af-track af-readiness">
+    <span class="af-box">0</span>
+    <span class="af-box">1</span>
+    <span class="af-box">2</span>
+    <span class="af-box">3</span>
+    <span class="af-box">4</span>
+    <span class="af-box">5</span>
+    <span class="af-box">6</span>
+    <span class="af-box">7</span>
+    <span class="af-box">8</span>
+    <span class="af-box af-start">9</span>
+  </div>
+
+  <h3>Growth Track</h3>
+  <p class="af-hint">Fill one box each time you complete a Quest (1 Growth). Spend 2 on a Boon, 5 on a New Asset (ceiling 6 — Trade In to exceed).</p>
+  <div class="af-track">
+    <span class="af-box"></span><span class="af-box"></span><span class="af-box"></span>
+    <span class="af-box"></span><span class="af-box"></span><span class="af-box"></span>
+    <span class="af-box"></span><span class="af-box"></span><span class="af-box"></span>
+    <span class="af-box"></span><span class="af-box"></span><span class="af-box"></span>
+    <span class="af-box"></span><span class="af-box"></span><span class="af-box"></span>
+    <span class="af-box"></span><span class="af-box"></span><span class="af-box"></span>
+  </div>
+
+  <h3>Quest Notes</h3>
+  <div class="af-notes"></div>
+
+  <p class="af-ref"><b>The Roll:</b> 2d6, +2 if an Asset fits / +1 otherwise. &nbsp; <b>10+</b> Strong Hit &middot; <b>7&ndash;9</b> Weak Hit &middot; <b>6&minus;</b> Miss. &nbsp; Doubles upgrade one tier (Oracle's Blessing). A Hit means you narrate the change.</p>
+</div>
