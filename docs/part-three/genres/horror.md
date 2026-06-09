@@ -2,21 +2,60 @@
 
 *One of the six Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
 
-**The feel.** Eerie and tense — the slow, creeping fear of what you can't quite see. Safety is fragile and temporary; the unknown is patient. Horror runs on *atmosphere and dread* more than action: the held breath before the door opens, the sound that shouldn't be there. The dial matters more here than in any other genre — silly-spooky (*Goosebumps*, *Scooby-Doo*) and genuinely scary (*Stranger Things*, *Coraline*) are both Horror, and your table should agree out loud which one you're playing before the lights go down.
+Horror is the genre of *dread* — the held breath, the sound that shouldn't be there, the patient something just out of sight. Safety is fragile and temporary, the unknown is in no hurry, and the heroes are smaller than whatever they're facing. Of all six genres this one leans hardest on the tonal dial: silly-spooky and genuinely frightening are both Horror, and the table picks which before the lights go down.
 
-**Pay the Price here.** The dread tightens rather than the wound bleeds. The lights die; you're cut off from the others; a place you thought was safe stops being safe; the thing is *closer* than it was. Readiness here is nerve as much as body — fear, exhaustion, and the slow erosion of hope wear heroes down. A Miss rarely kills (heroes can't anyway); it isolates, escalates, and makes the dark feel deeper.
+This kit hands you the *feeling* and the tools to build your own nightmare — gentle or otherwise. It never tells you what's in the dark; that part is always yours to forge.
 
-**Telling Horror stories.**
+### The feel
+
+Eerie and tense — the slow, creeping fear of what you can't quite see. Safety is fragile and temporary; the unknown is patient. Horror runs on *atmosphere and dread* more than action: the held breath before the door opens, the sound that shouldn't be there. The dial matters more here than in any other genre — silly-spooky (*Goosebumps*, *Scooby-Doo*) and genuinely scary (*Stranger Things*, *Coraline*) are both Horror, and your table should agree out loud which one you're playing before the lights go down.
+
+### Pay the Price here
+
+In Horror the dread *tightens* rather than the wound bleeds. Readiness here is nerve as much as body — fear, exhaustion, and the slow erosion of hope. A Miss rarely strikes a blow (heroes can't die anyway); it isolates and escalates. Reach for one of these on a Weak Hit or Miss (Chapter 9):
+
+- **The dark grows.** The lights die, the batteries fade, the candle gutters — your circle of safety shrinks.
+- **You're cut off.** Separated from the others; the door locks behind you; the way back is simply gone.
+- **Safety fails.** A place you thought was safe stops being safe; the wards break; help isn't coming after all.
+- **It's closer.** The thing is nearer than it was — and now it knows exactly where you are.
+
+Let prices chip away at *safety and nerve*, not flesh. The fear is the point; make the dark feel a little deeper each time.
+
+### Telling Horror stories
 
 - **Withhold.** The scariest thing is the thing not shown. Reveal the threat slowly — a sound, a shape, a wrongness — and let imaginations do the heavy lifting. Explaining everything kills the fear.
 - **Make safety temporary.** Light runs out, doors don't stay shut, allies get separated. The genre is about the *erosion* of safe ground; let Pay the Price chip it away.
 - **Challenges are about *enduring and escaping*,** not winning a fight: "survive the night," "find the way out," "finish the ritual before it's too late." Fleeing (Chapter 8) feels *great* here, and the Antagonist Track is the dread closing in.
 - **Mind the dial, always.** Check in with the table. If something lands too intense for anyone, dial it back, no questions asked — that's not breaking the game, that's playing it well.
+- **Pace the dread.** Long quiet stretches are what make the scares land — alternate calm and spike. Unrelenting horror goes numb fast; let the table breathe, lull them, *then* take it away.
 - **The trap to avoid:** over-explaining or over-arming. Don't hand the heroes a weapon that makes the threat a non-issue, and don't tidily explain the mystery away. Horror needs the unknown to *stay* a little unknown.
 
-**Shaping your world.** *Genre →* set the dial *first*: how scary is too scary for this table? *Setting →* somewhere that *should* feel safe but doesn't — a small town, a school after hours, a fogged-in ship, a campground at night. *Magic / Technology →* keep it scarce and poorly understood; the less explained, the scarier. *Denizens →* who's missing, who's changed, who isn't quite right anymore? *Threats →* one thing you don't fully understand — and don't decide all of it up front. *Forbidden →* the place you must not go, and the dread of *why.* *Reputation →* does anyone even believe you?
+### Sub-genres
 
-**Story seeds & standing tensions.**
+Horror comes in many shades. Pick one, and set the dial to match:
+
+- **Haunting** — the place itself is wrong: ghosts, echoes, a house that doesn't want you to leave.
+- **Creature Feature** — something is out there, and it hunts. The thrill is the glimpse, the chase, the narrow escape. (Plays great toward the playful end, too.)
+- **Survival Horror** — cut off and low on everything, with the dread closing in. The story is *enduring* and finding the way out.
+- **Spooky-Fun** — the playful end of the dial: *Goosebumps*, *Scooby-Doo* — chills and laughs, mystery and meddling kids, never nightmares.
+- **Psychological / Uncanny** — the fear is in the mind. Something's *off*, people aren't themselves, and you can't quite trust what you see.
+- **Cosmic / Unknown** — something vast and old that was never meant to be understood. Learning too much is itself the danger.
+
+### Shaping your world
+
+Genre-pointed nudges for the World Forge (Chapter 14). **Set the dial first** — how scary is too scary for *this* table? — then answer these in your own words.
+
+- **Setting →** somewhere that *should* feel safe but doesn't — a small town, a school after hours, a fogged-in ship, a campground at night.
+- **Denizens →** who's missing, who's changed, who isn't quite right anymore? The horror is often someone you knew.
+- **Magic & Technology →** keep it scarce and poorly understood. The less explained, the scarier — and the fewer easy answers the heroes can reach for.
+- **Leadership & Enforcement →** the grown-ups and the authorities should be absent, useless, or in denial. The heroes are on their own.
+- **Threats →** one thing you don't fully understand — and don't decide all of it up front. Leave room for it to be worse than you thought.
+- **Forbidden →** the place you must not go, and the slow dread of *why.*
+- **Reputation →** does anyone even believe you? Being disbelieved is half the fear.
+
+### Story seeds & standing tensions
+
+*Situations to mine — your table decides what the Quest actually becomes.*
 
 - Something happens here every so often, and the grown-ups have quietly agreed never to talk about it.
 - A place everyone avoids after dark, for reasons nobody will say plainly.
@@ -24,7 +63,9 @@
 - The thing that protected this place has stopped working, and no one knows why.
 - An old wrong was buried (literally or otherwise), and it's starting to surface.
 
-**Archetypes.** *(Suggested starting Assets in italics — swap any that don't fit.)*
+### Archetypes
+
+*Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit.*
 
 - **The Skeptic** — insists there's a rational explanation, right up until there isn't. *Logical Explanations · A Steady Hand · A Bright Flashlight · Stubborn Disbelief.*
 - **The Believer** — knew something was wrong all along, and nobody listened. *Knowledge of Folklore · A Sixth Sense for Danger · A Grandmother's Warding Charm · Reads Forbidden Books.*
@@ -34,7 +75,7 @@
 - **The Sensitive** — feels the wrongness before it arrives; gifted and burdened. *Senses What's Coming · A Soothing Presence · Strange Dreams · A Calm Voice in the Dark.*
 - **The Practical Survivor** — no powers, just preparation, nerve, and a full backpack. *A Well-Packed Bag · First Aid Under Pressure · Improvises Anything · Knows the Way Out.*
 
-**The Horror Asset table (d100).**
+### The Horror Asset table (d100)
 
 | d100 | Asset | d100 | Asset |
 |---|---|---|---|

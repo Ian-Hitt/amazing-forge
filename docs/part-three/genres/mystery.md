@@ -2,21 +2,60 @@
 
 *One of the six Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
 
-**The feel.** Curiosity, secrets, and the satisfying *click* when scattered pieces finally lock together. Mystery is about *attention* — noticing the detail everyone else walked past, asking the question no one wanted asked. Dial it anywhere from a playful puzzle-box romp to a rain-slick, grown-up whodunit where everyone's lying about something. The thrill isn't danger; it's *knowing.*
+Mystery is the genre of *knowing* — the slow, delicious pleasure of pulling a thread until the whole tangle comes loose. There's a secret at the heart of every Mystery, and a handful of people who'd rather it stayed buried; the heroes are the ones who won't let it. This is detective work for every table, from a playful puzzle-box romp to a rain-slick whodunit where everyone is lying about something.
 
-**Pay the Price here.** The trail goes cold, you tip your hand to the wrong person, you draw a confident conclusion that's dead wrong and act on it, a witness clams up, or the truth you dig up costs you a friend. Rarely a bruise — in Mystery the danger is to your *progress* and your *relationships*, and a Miss usually means the case just got more tangled.
+This kit hands you the *feeling* and the tools to build your own case. It never tells you who did it — that part is always yours to forge.
 
-**Telling Mystery stories.**
+### The feel
+
+Curiosity, secrets, and the satisfying *click* when scattered pieces finally lock together. Mystery is about *attention* — noticing the detail everyone else walked past, asking the question no one wanted asked. Dial it anywhere from a playful puzzle-box romp to a rain-slick, grown-up whodunit where everyone's lying about something. The thrill isn't danger; it's *knowing.*
+
+### Pay the Price here
+
+In Mystery the danger is to your *progress* and your *relationships*, almost never your body. A Miss usually means the case just got more tangled. Reach for one of these on a Weak Hit or Miss (Chapter 9):
+
+- **The trail goes cold.** A lead dries up, evidence vanishes, a witness skips town overnight.
+- **You tip your hand.** The wrong person now knows you're asking — and starts covering their tracks.
+- **You're confidently wrong.** A conclusion you trusted turns out false, and you've already acted on it.
+- **The truth costs you.** What you dig up burns a friendship, or it's something you can't un-know.
+
+Keep prices about tangles and trust, not bruises. The case getting *harder* is the fun — and the heroes always inch closer to knowing.
+
+### Telling Mystery stories
 
 - **Always give them something.** On any Hit, the heroes learn *a* fact — let the players help decide what (Chapter 7, Narrate the Change). A mystery that stalls because nobody rolled well enough is no fun; the track should always inch toward the truth.
 - **Clues are an Investigation Challenge** (Chapter 8): each box is a real clue or a fresh lead, and the full track adds up to the answer. Don't hide the solution behind one perfect roll.
 - **Layer the lies.** The first answer should be wrong or incomplete. Almost everyone has a secret; most are unrelated to the case — which is exactly what makes the real one hard to spot.
 - **Make legwork social.** The best clues come from *people*, so reward charm and patience as much as a magnifying glass. A nervous witness is more fun than a footprint.
+- **Pace the reveals.** Alternate a satisfying *click* — a clear clue — with a fresh complication, so the case never stalls into a guessing game or a wall of facts. A good reveal answers one question and opens two.
 - **The trap to avoid:** the unsolvable puzzle. You don't need the perfect mystery plotted in advance — decide whodunit loosely, then let the clues the heroes actually find point there. The investigation writes the case.
 
-**Shaping your world.** *Genre →* how dark — a clever puzzle-romp, or genuine noir? *Setting →* what does this place run on: money, magic, machines, or gossip? *Denizens →* who are the talkers, the watchers, the ones with something to hide? *Leadership →* who got their power by knowing what others want buried? *Threats →* who benefits from the truth staying down? *Forbidden →* what question is dangerous to ask out loud? *Reputation →* why do people talk to you — or clam up the second you walk in?
+### Sub-genres
 
-**Story seeds & standing tensions.**
+Mystery wears many coats. Pick one to set how dark and how strange the case runs:
+
+- **Whodunit** — a closed circle of suspects, one crime, and the satisfaction of naming the culprit. Clue by clue, classic.
+- **Monster of the Week** — each Quest is a fresh strange case to crack and set right, with a bigger pattern humming underneath. (*Scooby-Doo*, *The X-Files*.)
+- **Noir** — rain-slick and morally grey: everyone's compromised, the truth costs something, and trust is the rarest clue.
+- **Conspiracy / Thriller** — the deeper you dig, the bigger it gets; one small case is a loose thread on something powerful.
+- **Supernatural Mystery** — the impossible is real, and the puzzle is learning its rules before they catch up with you. (Pairs naturally with a little Horror.)
+- **Cold Case** — an old mystery everyone "solved" years ago, reopened over the one detail that never fit.
+
+### Shaping your world
+
+Genre-pointed nudges for the ten World Forge questions (Chapter 14). Answer *these* in your own words — don't just copy an example.
+
+- **Setting →** what does this place run on — money, magic, machines, or gossip? Whatever it is, that's what people lie to protect.
+- **Denizens →** fill it with talkers, watchers, and people hiding something. A good Mystery world is mostly *witnesses*.
+- **Leadership & Enforcement →** who got their power by knowing what others want buried? The law may be part of the problem, not the way out.
+- **Magic & Technology →** keep it limited, or the puzzle solves itself — no "spell that names the culprit." If it exists, it leaves clues like anything else.
+- **Threats →** who benefits from the truth staying down? Your antagonist is whoever has the most to lose if you succeed.
+- **Forbidden →** what question is dangerous to ask out loud? Naming it tells everyone exactly where the bodies are buried.
+- **Reputation →** why do people talk to you — or clam up the second you walk in?
+
+### Story seeds & standing tensions
+
+*Situations to mine — your table decides what the case actually becomes.*
 
 - A town (or court, or station) where the powerful all got there by knowing each other's secrets — and trade them like coin.
 - Something valuable, or someone important, keeps slipping away, and every official explanation is obviously a cover.
@@ -24,7 +63,9 @@
 - The heroes are the only ones *asking* — everyone else has a reason to let it lie.
 - An old case everyone "solved" years ago, with one detail that never fit.
 
-**Archetypes.** *(Suggested starting Assets in italics — swap any that don't fit.)*
+### Archetypes
+
+*Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit.*
 
 - **The Sharp-Eyed Outsider** — sees the place clearly *because* they don't belong, and misses nothing. *An Eye for Detail · A Reporter's Notebook · A Photographic Memory · A Stubborn Streak.*
 - **The Connected Insider** — knows everyone, every family, every grudge going back years. *Knows Everyone in Town · A Nose for Gossip · Old Family Ties · A Trustworthy Face.*
@@ -34,7 +75,7 @@
 - **The Tagalong with the Gift** — underestimated (a kid, a clerk, a cleaner) but notices what grown-ups ignore. *Overlooked & Underestimated · A Curious Mind · Small Enough to Slip Through · A Pet That Goes Anywhere.*
 - **The Inside Source** — works within the very thing they're investigating, and it's eating at them. *Access to the Archives · Reads Body Language · Knows the Building's Routines · A Secret to Protect.*
 
-**The Mystery Asset table (d100).**
+### The Mystery Asset table (d100)
 
 | d100 | Asset | d100 | Asset |
 |---|---|---|---|

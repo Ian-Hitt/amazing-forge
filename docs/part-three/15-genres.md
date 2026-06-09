@@ -23,6 +23,8 @@ A genre isn't *what happens* in your story — it's *how it feels.* The same flo
 
 **Pick one as your anchor.** Whichever you choose becomes the lens for the rest of the World Forge — it tells you what your Threats look like, what counts as a good Asset, and, crucially, what **Pay the Price** (Chapter 9) *feels* like. A price in Adventure is a collapsing rope bridge; in Drama it's a secret slipping to exactly the wrong person. Same rule, different sting.
 
+> **Where's fantasy? Where's swords & sorcery?** Those are *settings*, not genres — a flavor you pour into a feeling. Classic swords-and-sorcery fantasy is the **default flavor of Adventure**, and each kit lists a handful of **sub-genres** to point your world somewhere specific (Adventure's fantasy flavors, Mystery's Monster-of-the-Week, Horror's haunted house, and so on). Genre is *how it feels*; the sub-genre and your World Forge answers decide *what it's made of.*
+
 ---
 
 ## The Tonal Dial: Playful ↔ Serious
@@ -53,11 +55,12 @@ Keep one genre in the lead so the story has a clear feel, and let the second add
 
 ## How to Use a Genre Kit
 
-Each kit is a **launchpad, not a finished world.** It hands you the *kind* of story and the tools to build your own specifics — it never tells you what your adventure *is.* Open the page for your chosen genre, steal what grabs you, and ignore the rest. Every kit has the same parts:
+Each kit is a **launchpad, not a finished world.** It hands you the *kind* of story and the tools to build your own specifics — it never tells you what your adventure *is.* Open the page for your chosen genre, steal what grabs you, and ignore the rest. Every kit reads like a short chapter, with the same parts:
 
-- **The feel** — the mood you're going for.
-- **Pay the Price here** — what a Weak Hit or Miss looks like in this genre. This is the single biggest lever on tone.
-- **Telling these stories** — table-side tips: what scenes look like, what your Challenges tend to be, how to lean into the feel, and the traps to avoid.
+- **An intro & the feel** — a quick orientation to the genre and the mood you're going for.
+- **Pay the Price here** — what a Weak Hit or Miss looks like in this genre, as a menu of examples. This is the single biggest lever on tone.
+- **Telling these stories** — table-side tips: what scenes look like, what your Challenges tend to be, pacing, how to lean into the feel, and the traps to avoid.
+- **Sub-genres** — a handful of flavors within the genre (Adventure's fantasy variants, Mystery's Monster-of-the-Week, and so on), each a sentence on what makes it play differently.
 - **Shaping your world** — genre-pointed prompts for the ten World Forge questions (Chapter 14), so your world comes out leaning the right way. Answer *these*; don't just copy an example.
 - **Story seeds & standing tensions** — the situations this genre thrives on, as springboards. These are *conditions*, not plots — your table invents the actual Quests from them.
 - **Archetypes** — ready-to-play hero shapes, each with four suggested starting Assets. Play one as-is, or file off the serial numbers and make it yours.

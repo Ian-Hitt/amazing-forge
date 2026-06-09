@@ -2,21 +2,58 @@
 
 *One of the six Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
 
-**The feel.** Emotion turned all the way up — gossip, rivalry, love, loyalty, ambition, and stress. In Drama the stakes aren't monsters or vaults; they're *who likes whom, who knows what, and who you choose to be.* A single overheard sentence can detonate a season's worth of story. This is the *juicy* kind of drama — tea spilled, alliances flipped, hearts on the line — not the cozy kind; there should always be something simmering. Dial it from frothy soap-opera fun to raw, real feelings.
+Drama is the genre with no monsters and no vaults — the stakes are *who likes whom, who knows what, and who you choose to be.* It's gossip and rivalry, love and loyalty, ambition and stress, all turned up loud, where a single overheard sentence can detonate a whole season of story. This is the *juicy* kind of drama — tea spilled, alliances flipped, hearts on the line — never the cozy kind; something should always be simmering. Dial it from frothy soap-opera fun to raw, real feelings.
 
-**Pay the Price here.** Social fallout. A secret slips to exactly the wrong person; you blurt the worst thing at the worst moment; an alliance flips against you; a friendship cracks; your reputation takes a public hit. Readiness here is your *composure and standing* — running out means you're overwhelmed, humiliated, frozen out, or so rattled you can't face the room. Never a bruise; always a *consequence you'll have to live with.*
+This kit hands you the *feeling* and the tools to build your own pressure-cooker. It never tells you whose heart breaks; that part is always yours to forge.
 
-**Telling Drama stories.**
+### The feel
+
+Emotion turned all the way up — gossip, rivalry, love, loyalty, ambition, and stress. In Drama the stakes aren't monsters or vaults; they're *who likes whom, who knows what, and who you choose to be.* A single overheard sentence can detonate a season's worth of story. This is the *juicy* kind of drama — tea spilled, alliances flipped, hearts on the line — not the cozy kind; there should always be something simmering. Dial it from frothy soap-opera fun to raw, real feelings.
+
+### Pay the Price here
+
+A price in Drama is *social fallout*, never a bruise. Readiness here is your composure and standing — running out means you're overwhelmed, humiliated, frozen out, or too rattled to face the room. Always a consequence you'll have to live with. Reach for one of these on a Weak Hit or Miss (Chapter 9):
+
+- **A secret slips.** It reaches exactly the wrong person, at exactly the wrong moment.
+- **You say the worst thing.** You blurt it, snap, or freeze up — and everyone heard.
+- **An alliance flips.** A friend takes the other side; a rival gains a powerful ear; the room turns against you.
+- **Your standing takes a hit.** A public embarrassment, a trust broken, a reputation dented in front of everyone who matters.
+
+### Telling Drama stories
 
 - **Relationships are the dungeon.** Map who wants what from whom before you start. Every scene should change a relationship — closer, colder, or more complicated.
 - **Most scenes are Social Confrontations** (Chapter 8): the track is the shifting mood of the room, and a filled box is ground won — a doubt planted, an ally swayed, a confession pried loose, the crowd turning your way.
 - **Secrets are currency.** Hand them out like treasure. Who knows it, who *wants* it, and what it costs to keep or spend — that's the whole economy of a Drama.
 - **Let feelings have mechanical weight.** Pay the Price as embarrassment, heartbreak, or a damaged reputation; a Recovery Scene (Chapter 9) is a heart-to-heart, a good cry, a friend talking you back up.
+- **Pace the bombshells.** Don't spill every secret at once. Let the pressure build — a look here, a rumor there — then detonate *one* revelation and let the fallout play all the way out before you light the next fuse.
 - **The trap to avoid:** niceness with no stakes. Drama needs *friction* — wants that collide, secrets that can't all stay buried, choices with no clean answer. If everyone's getting along, light a fuse.
 
-**Shaping your world.** *Setting →* a pressure-cooker community where everyone's lives overlap — a school, a royal court, a small town, a theater troupe, a competitive team. *Leadership →* the *social* order: who's "in," who decides, who sets the rules everyone follows? *Reputation →* your star question: what do people *whisper* about a group like yours? *Denizens →* the rivals, the crushes, the gossips, the gatekeepers. *Threats →* looming scandals, secrets about to surface, rivals, and impossible choices between people you love. *Forbidden →* the relationship, truth, or ambition you're not supposed to act on.
+### Sub-genres
 
-**Story seeds & standing tensions.**
+Drama runs on relationships, and those come in many flavors. Pick the engine:
+
+- **Soap / Melodrama** — feelings at full volume, a twist every scene, secrets and betrayals stacked high. Frothy and addictive.
+- **Coming-of-Age** — growing up *is* the plot: first love, finding yourself, the friendships that make and break you. (School settings shine.)
+- **Court Intrigue** — drama with thrones at stake: alliances, marriages, and whispered plots where a wrong word can topple a house.
+- **Romance** — love is the whole engine: longing, rivals, misunderstandings, and the terrifying leap of telling someone how you feel.
+- **Rivalry / Competition** — a contest gives the feelings a stage: a team, a troupe, a pageant where winning *and* who you become both matter.
+- **Found Family** — a mismatched group slowly becoming each other's people; the tension is letting them in, and what it costs you to.
+
+### Shaping your world
+
+Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your own words — don't just copy an example.
+
+- **Setting →** a pressure-cooker community where everyone's lives overlap — a school, a royal court, a small town, a theater troupe, a competitive team.
+- **Leadership & Enforcement →** the *social* order: who's "in," who decides, who enforces the unwritten rules everyone's terrified to break?
+- **Reputation →** *your star question.* What do people *whisper* about a group like yours? That whisper is your opening scene.
+- **Denizens →** the rivals, the crushes, the gossips, the gatekeepers — fill it with people who all *want* something from each other.
+- **Magic & Technology →** mostly set dressing here, but one twist (a love potion, a group chat that screenshots everything) can become the whole engine.
+- **Threats →** looming scandals, secrets about to surface, rivals, and impossible choices between people you love.
+- **Forbidden →** the relationship, truth, or ambition you're not supposed to act on — and absolutely will.
+
+### Story seeds & standing tensions
+
+*Situations to mine — your table decides what the Quest actually becomes.*
 
 - A tight community where reputation is the only currency that matters, and everyone's business is everyone's business.
 - A secret that, in the wrong hands, would rearrange the entire social map.
@@ -24,7 +61,9 @@
 - A newcomer — or a returning face — who upsets a carefully balanced order.
 - An event on the horizon (a dance, a wedding, a competition, an election) that everything is building toward.
 
-**Archetypes.** *(Suggested starting Assets in italics — swap any that don't fit.)*
+### Archetypes
+
+*Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit.*
 
 - **The Golden One** — admired, envied, watched by everyone; the bar the others measure against. *Effortless Charisma · Always Says the Right Thing · A Devoted Following · Grace Under Scrutiny.*
 - **The Outsider** — clawing their way in, seeing the whole game clearly *because* they're new. *Reads the Room Fast · Nothing to Lose · A Sharp Tongue · An Unlikely Ally.*
@@ -34,7 +73,7 @@
 - **The Rival** — your equal and your opposite; pushes you to be sharper. *A Cutting Wit · Refuses to Lose · A Reputation to Match Yours · Knows Your Weak Spot.*
 - **The Wallflower with Depths** — overlooked, underestimated, and quietly the most observant person in the room. *Goes Completely Unnoticed · Overhears Everything · A Hidden Talent · A Surprising Secret.*
 
-**The Drama Asset table (d100).**
+### The Drama Asset table (d100)
 
 | d100 | Asset | d100 | Asset |
 |---|---|---|---|

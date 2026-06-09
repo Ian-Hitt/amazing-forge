@@ -2,21 +2,61 @@
 
 *One of the six Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
 
-**The feel.** Wonder and strangeness — vast frontiers, dazzling machines, and ideas big enough to change everything. Sci-Fi is the genre of *the new*: a discovery, a technology, a world no one's seen. And the new always cuts both ways — the tool that saves you is the tool that betrays you. Curiosity drives the story; consequences give it weight. Dial it from bright pulp space-opera to tense, lived-in hard sci-fi.
+Sci-Fi is the genre of *the new* — a discovery, a machine, a world no one has seen, an idea big enough to change everything. The wonder is real, but the new always cuts both ways: the tool that saves you is the tool that betrays you. Curiosity drives the story forward; consequences give it weight. Dial it from bright pulp space-opera to tense, lived-in, duct-taped hard sci-fi.
 
-**Pay the Price here.** Systems fail at the worst possible moment; the tech does something you didn't intend; the strange discovery turns out to be dangerous; you're stranded far from any help with the oxygen ticking down. The future is amazing *and* it bites — a Miss is a malfunction, a misfire, a door that won't open, a signal you shouldn't have answered.
+This kit hands you the *feeling* and the tools to build your own frontier. It never tells you what's out there; that part is always yours to forge.
 
-**Telling Sci-Fi stories.**
+### The feel
+
+Wonder and strangeness — vast frontiers, dazzling machines, and ideas big enough to change everything. Sci-Fi is the genre of *the new*: a discovery, a technology, a world no one's seen. And the new always cuts both ways — the tool that saves you is the tool that betrays you. Curiosity drives the story; consequences give it weight. Dial it from bright pulp space-opera to tense, lived-in hard sci-fi.
+
+### Pay the Price here
+
+The future is amazing *and* it bites. A price in Sci-Fi is usually a system, a machine, or a plan turning on you at the worst possible moment. Reach for one of these on a Weak Hit or Miss (Chapter 9):
+
+- **The tech fails.** The door won't open, the engine cuts out, the suit springs a leak, the blaster overheats.
+- **It does something you didn't intend.** The AI takes your order too literally; the experiment works *too* well.
+- **The discovery turns dangerous.** What you found is not what it seemed — and now it's loose.
+- **You're stranded.** Far from help, cut off, with the oxygen (or the fuel, or the time) ticking down.
+
+Tie every price to the *fiction* — a malfunction, a misfire, a signal you shouldn't have answered. Never "you take damage."
+
+### Telling Sci-Fi stories
 
 - **Lead with a "what if."** Pick one big idea — a thinking machine, a faster-than-light gate, a planet that dreams — and let the story explore its edges. The setting is an argument about that idea.
 - **Make the tech a character.** Gadgets, ships, and AIs should have quirks and limits. The duct-taped engine, the AI that's *technically* honest, the blaster that overheats — limits create drama.
 - **Challenges span the whole toolkit** (Chapter 8): a tense Stealth past security drones, an Investigation into a derelict, a Journey across a hostile planet, a Combat with a malfunctioning machine. Boxes can be "reroute the power," "decode the signal," "survive the vacuum."
 - **The frontier has owners.** Someone profits from the tech and someone pays for it. Corporations, governments, and AIs make great forces (antagonists with a face — Chapter 10) without a single mustache-twirling villain.
+- **Pace wonder and cost.** Open on the marvel — let the table gasp at it — then let the price arrive. Sci-Fi runs on the rhythm of *"isn't that amazing"* followed a beat later by *"...oh no."*
 - **The trap to avoid:** technobabble as a solution. Don't let "I reverse the polarity" win a scene. Tie rolls to clear fiction the table can picture — *what* you do and *why* it might fail.
 
-**Shaping your world.** *Technology →* your star question: pick a level and give it a *flaw* ("an AI runs everything — and it's started to lie"). *Setting →* a frontier of space, time, or invention — a station, a colony, a generation ship, a near-future city. *Denizens →* make room for robots, aliens, AIs, and the engineered — and decide how they're treated. *Magic →* usually "none," which sharpens the focus on tech. *Threats →* the unknown, the malfunctioning, the corporation that owns the air. *Forbidden →* forbidden tech, a sealed sector, a question the system refuses to answer. *Reputation →* are you licensed, off-grid, or wanted?
+### Sub-genres
 
-**Story seeds & standing tensions.**
+Sci-Fi covers enormous ground. Pick a flavor to fix the tone and the tech level:
+
+- **Space Opera** — sweeping and heroic: starfleets, alien worlds, faster-than-light, a galaxy worth saving. The bright end of the dial. (*Star Wars*.)
+- **Hard SF** — grounded and plausible. The science is (mostly) real, and the danger is the unforgiving physics of space itself.
+- **Cyberpunk** — neon cities and megacorporations, hackers and the hacked. High tech, low life, and a system rigged against you.
+- **Post-Apocalypse** — the future already broke. Scavenge the ruins of a greater age; the story is survival and what's worth rebuilding.
+- **First Contact / Exploration** — the unknown out there: new worlds, new minds, the wonder and peril of the genuinely alien.
+- **Hopeful / Solarpunk** — a future worth wanting. The tension is *keeping* it that way against those who'd drag it back.
+
+### Shaping your world
+
+Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your own words — don't just copy an example.
+
+- **Technology →** *your star question.* Pick a level and give it a *flaw* — "an AI runs everything, and it's started to lie." The crack is where the stories live.
+- **Setting →** a frontier of space, time, or invention: a station, a colony, a generation ship, a near-future city on the edge.
+- **Denizens →** make room for robots, aliens, AIs, and the engineered — and decide how they're *treated.* That choice is half your stories already.
+- **Magic →** usually "none," which keeps the focus on tech. If you want it, reskin it as science nobody understands yet.
+- **Leadership & Enforcement →** corporations, governments, AIs — someone owns the frontier, and someone pays for it. Give the power a logo.
+- **Threats →** the unknown, the malfunctioning, the corporation that owns the very air you breathe.
+- **Forbidden →** forbidden tech, a sealed sector, a question the system refuses to answer.
+- **Reputation →** are you licensed, off-grid, or outright wanted?
+
+### Story seeds & standing tensions
+
+*Situations to mine — your table decides what the Quest actually becomes.*
 
 - A frontier where new tech outpaces every rule meant to govern it.
 - A machine intelligence that's *technically* doing its job, in a way nobody intended.
@@ -24,7 +64,9 @@
 - The people who own the essentials (air, water, fuel, data) versus everyone who needs them.
 - Something old and powerful, drifting out there, waking up.
 
-**Archetypes.** *(Suggested starting Assets in italics — swap any that don't fit.)*
+### Archetypes
+
+*Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit.*
 
 - **The Hotshot Pilot** — flies anything, lands nothing gently, lives for the edge. *Ace Piloting · Quick Reflexes · A Beat-Up Starfighter · Grace Under Fire.*
 - **The Tinkerer** — fixes the unfixable with spare parts and stubbornness. *Jury-Rig Anything · A Multi-Tool · Knows Every System · A Loyal Repair Drone.*
@@ -34,7 +76,7 @@
 - **The Comms Specialist** — talks to ships, systems, and the things you shouldn't. *Slices Any System · Reads Any Signal · A Silver Tongue on Open Channels · An Encrypted Datapad.*
 - **The Medic** — patches people and aliens alike, far from any hospital. *Field Surgery · Xeno-Medicine · A Med-Kit That's Seen Things · A Steady Bedside Manner.*
 
-**The Sci-Fi Asset table (d100).**
+### The Sci-Fi Asset table (d100)
 
 | d100 | Asset | d100 | Asset |
 |---|---|---|---|
