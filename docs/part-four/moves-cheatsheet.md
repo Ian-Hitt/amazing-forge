@@ -2,7 +2,7 @@
 
 Every move in *Amazing Forge* on a single card. Print it and drop it in the middle of the table so nobody has to flip back through a chapter mid-scene.
 
-Moves come in two families. **Action Moves** *resolve a hero's attempt* — you roll and read Strong / Weak / Miss. **Frame Moves** *set or shift the situation* — the dice point you in a direction, so you can never "fail" one.
+Moves come in three families. **Action Moves** *resolve a hero's attempt* — you roll and read Strong / Weak / Miss. **Progress Moves** *open or close a track* — a Quest or a Challenge. **Frame Moves** *shift the fiction in the moment* — the dice point you in a direction, so you can never "fail" one.
 
 > **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus are hidden automatically, so you'll get just the card.
 
@@ -27,9 +27,12 @@ Moves come in two families. **Action Moves** *resolve a hero's attempt* — you 
 .af-fam h3 { margin: 0 0 0.1rem; padding-bottom: 0.2rem; border-bottom: 2px solid; font-size: 1.05rem; }
 .af-fam .af-famsub { font-size: 0.74rem; font-style: italic; opacity: 0.75; margin: 0 0 0.55rem; }
 .af-action h3 { border-color: #d35400; color: #d35400; }
+.af-progress h3 { border-color: #2e7d32; color: #2e7d32; }
 .af-frame h3 { border-color: #2c6e8f; color: #2c6e8f; }
+.af-rightcol .af-fam.af-frame { margin-top: 0.9rem; }
 .af-move { font-size: 0.8rem; line-height: 1.42; padding: 0.4rem 0.55rem; margin-bottom: 0.45rem; border: 1px solid #ccc; border-radius: 6px; border-left-width: 4px; }
 .af-action .af-move { border-left-color: #d35400; }
+.af-progress .af-move { border-left-color: #2e7d32; }
 .af-frame .af-move { border-left-color: #2c6e8f; }
 .af-mname { font-weight: 700; }
 .af-tier { font-size: 0.76rem; margin: 0.25rem 0 0 0.5rem; }
@@ -68,9 +71,10 @@ Moves come in two families. **Action Moves** *resolve a hero's attempt* — you 
       <div class="af-move"><span class="af-mname">Showdown</span> <i>(optional).</i> A climactic last-box roll on a Challenge or Quest Track. A <b>Miss</b> escalates the story instead of ending it &mdash; never an outright loss, never advances the Antagonist Track.</div>
     </div>
 
-    <div class="af-fam af-frame">
-      <h3>Frame Moves</h3>
-      <p class="af-famsub">Set or shift the situation &mdash; the dice point a direction. You can't fail a Frame Move.</p>
+    <div class="af-rightcol">
+    <div class="af-fam af-progress">
+      <h3>Progress Moves</h3>
+      <p class="af-famsub">Open or close a track &mdash; a Quest or a Challenge.</p>
 
       <div class="af-move"><span class="af-mname">Start a Quest.</span> One <b>2d6 + 1</b> roll when a Quest begins (no Asset; generative). It sets how the adventure opens:
         <div class="af-tier"><b>10+</b> <i>Clear purpose</i> &mdash; you're in control and move first.</div>
@@ -78,15 +82,23 @@ Moves come in two families. **Action Moves** *resolve a hero's attempt* — you 
         <div class="af-tier"><b>6&minus;</b> <i>Trouble finds you first</i> &mdash; open in the thick of it, likely mid-Challenge.</div>
       </div>
 
-      <div class="af-move"><span class="af-mname">Ask the Oracle.</span> Stuck on what's next? Name the next Milestone &rarr; do the obvious thing, or roll the <b>Story Spark</b> (d6 idea table) or <b>Ask the Dice</b> (1d6 yes/no).</div>
-
-      <div class="af-move"><span class="af-mname">Pay the Price.</span> Turn a Weak Hit or Miss into a fiction complication. On a telling failure it <i>may</i> tick the Antagonist Track &mdash; the table's call, never automatic, never on a recovery move.</div>
+      <div class="af-move"><span class="af-mname">Start a Challenge.</span> When you <i>choose</i> to open a Challenge, one <b>2d6 + 1</b> roll (no Asset; generative) sets the jump &mdash; a one-time edge on the <b>first roll</b> only. <b>10+</b> +1 (you got the drop) &middot; <b>7&ndash;9</b> 0 (even) &middot; <b>6&minus;</b> &minus;1 (they beat you to it). Skip it if trouble is thrust on you.</div>
 
       <div class="af-move"><span class="af-mname">Flee.</span> Abandon a Challenge (lose its progress) to stop the Readiness bleed and mark <b>one</b> Antagonist box. The stay-alive valve.</div>
 
       <div class="af-move"><span class="af-mname">Quit the Quest.</span> The terminal Flee &mdash; give up the whole Quest. No penalty and no bonus; the loss seeds your next Quest.</div>
     </div>
+
+    <div class="af-fam af-frame">
+      <h3>Frame Moves</h3>
+      <p class="af-famsub">Shift the fiction in the moment &mdash; the dice point a direction. You can't fail a Frame Move.</p>
+
+      <div class="af-move"><span class="af-mname">Ask the Oracle.</span> Stuck on what's next? Name the next Milestone &rarr; do the obvious thing, or roll the <b>Story Spark</b> (d6 idea table) or <b>Ask the Dice</b> (1d6 yes/no).</div>
+
+      <div class="af-move"><span class="af-mname">Pay the Price.</span> Turn a Weak Hit or Miss into a fiction complication. On a telling failure it <i>may</i> tick the Antagonist Track &mdash; the table's call, never automatic, never on a recovery move.</div>
+    </div>
+    </div>
   </div>
 
-  <p class="af-ref"><b>Full rules:</b> The Roll &amp; Aid Your Ally &mdash; Ch.7. &nbsp; Challenges, Flee &amp; Showdown &mdash; Ch.8. &nbsp; Readiness, Mend, Downtime &amp; Pay the Price &mdash; Ch.9. &nbsp; Quests, Start a Quest &amp; Quit the Quest &mdash; Ch.10. &nbsp; Ask the Oracle &mdash; Ch.11.</p>
+  <p class="af-ref"><b>Full rules:</b> The Roll &amp; Aid Your Ally &mdash; Ch.7. &nbsp; Challenges, Start a Challenge, Flee &amp; Showdown &mdash; Ch.8. &nbsp; Readiness, Mend, Downtime &amp; Pay the Price &mdash; Ch.9. &nbsp; Quests, Start a Quest &amp; Quit the Quest &mdash; Ch.10. &nbsp; Ask the Oracle &mdash; Ch.11.</p>
 </div>

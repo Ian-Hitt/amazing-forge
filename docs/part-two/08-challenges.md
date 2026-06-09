@@ -24,6 +24,22 @@ When you do draw a track, its length scales with the size of the player group:
 
 Bigger groups draw longer tracks so everyone gets to contribute, and harder Challenges eat more of the session (see Pacing, Chapter 13). If real-world time is running short, lean toward Easy; if you want a Scene to feel like a real grind, go Hard. Pick the size when you draw the track, based on how big the moment should feel.
 
+### Start a Challenge (When You Pick the Fight)
+
+When the heroes **choose to start** a Challenge — they pick the fight, breach the vault, decide to ford the rapids *now* — make one quick roll to see how the opening breaks. This is **Start a Challenge,** the Challenge-sized cousin of Start a Quest (Chapter 10).
+
+Roll **2d6 + 1.** No Asset applies — this isn't a test of any one hero's skill, it's the dice setting the scene — but **doubles still trigger Oracle's Blessing** (bump the result up one tier). You can't fail it; it just decides who has the jump as the Scene begins:
+
+| Roll | Opening | Effect |
+|---|---|---|
+| **Strong Hit (10+)** | **You got the drop.** | **+1 to the first roll** of the Challenge. |
+| **Weak Hit (7–9)** | **Even footing** — a fair contest. | No change. |
+| **Miss (6 or less)** | **They beat you to it.** | **−1 to the first roll** of the Challenge. |
+
+That bonus or penalty is a **one-time edge:** it applies only to the **very first Challenge Roll** anyone makes this Scene, and then it's gone — it doesn't carry to later rolls. Narrate what it means: on a Strong Hit the heroes surge in with the initiative; on a Miss the opposition moves first and the heroes are a half-step behind. It's a small cinematic nudge for seizing the moment (or a small cost for charging in unready), nothing more.
+
+**Only roll it when the heroes choose to open the Challenge.** If trouble is thrust on *them* instead — an ambush, or a Start a Quest that opened with "Trouble finds you first" — skip the roll. They're already reacting, not seizing anything, so the Scene simply begins in motion.
+
 ### The Turn Loop
 
 A Challenge runs as a loose, **popcorn-style round-robin.** There are **no initiative rolls and no rigid action phases.**
