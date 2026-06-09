@@ -23,11 +23,24 @@ A few rules that apply to all ten:
 
 This is the most important question, because it colors all nine that follow. The Genre isn't really "what happens" — it's **how it feels**: thrilling, eerie, tense, warm, funny, melancholy.
 
-- **A good answer** names a feeling and, ideally, a flavor of it. Not just "spooky" but *"spooky, but the fun kind — Scooby-Doo, not nightmares."* Not just "adventure" but *"swashbuckling, everything's a little larger than life."*
-- **Avoid** picking a *setting* here by mistake ("space," "pirates") — that's Question 2. The Genre is the emotional register the setting will be played in. The same pirate ship can host a giddy adventure or a grim survival story.
-- **How it shapes the rest:** the Genre decides how hard the world bites. A cozy drama and a tense survival story can share every other answer and play completely differently, because the Genre tells you what **Pay the Price** feels like — an awkward misunderstanding versus a genuine loss (Chapter 9).
+*Amazing Forge* officially supports **six genres** — **pick one as your anchor:**
 
-> **Tip:** if the table can't agree on a genre, ask "what movie or show do we want this to feel like?" A shared reference settles it faster than an adjective.
+| Genre | The feeling in one line |
+|---|---|
+| **Adventure** | Brave deeds and far places — trouble is one horizon away. |
+| **Mystery** | Secrets and the satisfying *click* of clues falling into place. |
+| **Horror** | Eerie dread, and something you can't quite see, getting closer. |
+| **Sci-Fi** | Wonder and strangeness — big ideas, new frontiers, treacherous tech. |
+| **Caper** | Clever, stylish, playful tension — brains over brawn. |
+| **Drama** | Gossip, rivalry, love, and stress — sparks flying without a monster. |
+
+Then set the **tonal dial:** every genre runs from **playful** (light and a little silly — *Scooby-Doo* spooky) to **serious** (tense, where a loss really lands — *Stranger Things* spooky). Say where you're aiming out loud: *"spooky, but the fun kind, not the nightmares kind."*
+
+- **A good answer** picks a genre and a point on the dial. You can also **blend two** (sci-fi *and* horror) or invent your own feel — the six are a tuned starting point, not a cage. **Chapter 15 has a full Genre Kit for each one**, with character ideas and a genre-pointed take on these very questions.
+- **Avoid** picking a *setting* here by mistake ("space," "pirates") — that's Question 2. The Genre is the emotional register the setting will be played in. The same pirate ship can host a giddy Adventure or a tense Horror.
+- **How it shapes the rest:** the Genre decides how hard the world bites. Two tables can share every other answer and play completely differently, because the Genre — and the dial — tell you what **Pay the Price** feels like: a cold trail and a slipped secret, or a real and frightening loss (Chapter 9).
+
+> **Tip:** if the table can't agree, ask "what movie or show do we want this to feel like?" A shared reference settles genre *and* dial faster than any adjective.
 
 ### 2. The Setting — Where and when does it happen?
 
@@ -142,7 +155,7 @@ A backdrop saves you the ten-minute conversation without giving up the things th
 
 **Three Concepts that fit:** a *Grease-Stained Clockwork Mechanic* who keeps the failing fans running · a *Disgraced Stormcaller* the Council grounded · a *Low-District Sky-Patrol Cadet* who actually cares about the people the high districts forgot.
 
-> **🚧 Idea — full backdrop catalog (awaiting sign-off).** The plan is **6 backdrops across distinct genres**: Pirate Seas, Deep Dark Forest, Space Frontier, Modern Mystery Town, Post-Apocalyptic Road, and Underwater Kingdom — each a one-page setting like the sample above (ten answers + three Concepts). Only the sample is written so far; the remaining five are pending Ian's confirmation before drafting. (See `Book Outline.md`, Chapter 14.)
+> **Want more starting points?** Rather than a catalog of pre-answered worlds like the one above, head to **Chapter 15 — Genres.** Each of the six genres has a **Genre Kit** that gives you the feel, a genre-pointed take on these ten questions, character archetypes, and example Assets — a more flexible launchpad than any single fixed setting, because one kit fuels endless worlds of that flavor. The sample above is just *one* example of where a finished World Forge can land.
 
 ---
 
