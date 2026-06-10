@@ -1,6 +1,6 @@
 ## Chapter 15 — Genres
 
-The very first World Forge question (Chapter 14) asks for your **Genre** — the *mood* of your story — and it's the most important answer you'll give, because it quietly colors all nine that follow. This chapter is the deep dive on that single question: the genres *Amazing Forge* is built to play, how to set the tone exactly where your table wants it, and a **Genre Kit** for each one to get you building fast.
+The very first World Forge question (Chapter 14) asks for your **Genre** — the *mood* of your story — and it's the most important answer you'll give, because it quietly colors all nine that follow. This chapter is the deep dive on that single question: six optional genre toolkits to help if one fits the story you're telling, how to set the tone exactly where your table wants it, and a **Genre Kit** for each one to get you building fast.
 
 A genre isn't *what happens* in your story — it's *how it feels.* The same floating city can be the backdrop for a thrilling adventure, a creeping horror, or a gossip-soaked drama, and it plays completely differently each time. That's the whole point of this chapter: **the rules never change — only the feeling does.** Pick a genre and the kind of scenes you play, the way a setback stings, and even the heroes you'd want to make all snap into focus.
 
@@ -10,7 +10,7 @@ A genre isn't *what happens* in your story — it's *how it feels.* The same flo
 
 ## The Six Genres
 
-*Amazing Forge* officially supports **six genres.** They're not a cage — you can blend them, dial them, or invent your own — but these six are the ones the game is tuned for, and each has a full **Genre Kit** on its own page (linked below):
+The rules of *Amazing Forge* are deliberately **genre-agnostic** — they don't favor any one kind of story. So these six aren't the genres the game is "for"; they're six **optional toolkits** we put together to help if that's the kind of story you're telling. Reach for one when it's useful, blend them, dial them, ignore them, or invent your own — the game plays just as well without any of them. Each has a full **Genre Kit** on its own page (linked below):
 
 | Genre | The feeling in one line |
 |---|---|
