@@ -1,4 +1,4 @@
-# PART TWO: THE FULL RULES
+# PART TWO: PLAYING THE GAME, IN DEPTH
 
 *Part One got you playing. Part Two is where you come back.*
 
