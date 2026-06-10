@@ -6,6 +6,9 @@ Amazing Forge is a story-first tabletop RPG built to sit between the simplest ki
 and the crunchy adult ones: approachable and fast, with just enough decisive mechanics to
 keep play flowing. Play it **Guided** (with a Guide) or **Co-op** (no Guide, solo or group).
 
+New here and curious where this came from? The [Foreword](foreword.md) is a short note on why
+I made it and the games that inspired it.
+
 ## Start here
 
 New to the game? Read **Part One** straight through — it walks you from a blank table to

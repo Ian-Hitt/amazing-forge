@@ -48,6 +48,7 @@ plugins:
 
 nav:
   - Home: index.md
+  - Foreword: foreword.md
   - Part One — Your First Game:
       - 1. Build Your World: part-one/01-build-your-world.md
       - 2. Create Your Hero: part-one/02-create-your-hero.md
