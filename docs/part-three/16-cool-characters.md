@@ -88,4 +88,19 @@ Here's the whole recipe, start to finish. Say you're playing a serious-leaning [
 
 One archetype turned a blank sheet into a hero with a voice, a drive, a soft spot, and a clear way to play every scene. That's the whole point.
 
-**Next up:** when your hero has lived through a Quest or two and is ready to grow, turn to [Chapter 13 — Growing Your Heroes](../part-two/13-growing-your-heroes.md). And whenever you want a fresh hero, you now have everything you need to make one worth playing.
+### The Same Tool Builds Your Villains
+
+A villain isn't a different *kind* of character — it's one of these same seven archetypes whose **flaw won.** Everything above works just as well for the people standing in the heroes' way, so you don't need a second toolkit.
+
+To dream up an antagonist, pick an archetype and ask: *what if this one never learned to manage their flaw?* The want and the fear stay exactly the same — only the brakes come off:
+
+- A **Ruler** who craves order becomes a **tyrant** — "follow me" curdles into "obey me."
+- A **Caregiver** who must protect becomes a **smothering controller**, caging people "for their own good."
+- A **Scholar** who must know would **burn the world** for one last secret and feel justified doing it.
+- A **Rebel** who tears down what's broken **can't stop tearing down** — even what's worth keeping.
+
+That's why the best villains are **dark mirrors of the heroes:** same engine, opposite outcome. Build your antagonist from the same archetype as one of the party's heroes and you hand that player their most personal fight — they're staring down what they could become.
+
+And if your antagonist is a **force** rather than a person — a desert, a plague, a closing deadline — it needs no personality at all. It just needs a **want** (the desert wants to wear you down and swallow you whole). That's exactly what [Chapter 10](../part-two/10-quests-and-the-antagonist-track.md) asks you to give it when you draw the Antagonist Track.
+
+**Next up:** when your hero has lived through a Quest or two and is ready to grow, turn to [Chapter 13 — Growing Your Heroes](../part-two/13-growing-your-heroes.md). And whenever you need a fresh face — a hero worth playing or a villain worth beating — you now have everything you need to make one.

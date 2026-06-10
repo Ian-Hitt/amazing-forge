@@ -135,6 +135,8 @@ So **give your antagonist a face.** Decide what it *wants* and what "winning" lo
 
 Naming this turns every Antagonist tick into a concrete story beat instead of an abstract counter. You're not "marking box two of four" — *the sandstorm hits.*
 
+> *That's all the Antagonist Track needs: a face and a goal. To make a *person* antagonist into a memorable **character** — a villain with a personality worth squaring off against — see [Chapter 16](../part-three/16-cool-characters.md), which builds villains from the same archetypes as heroes.*
+
 ### How It Fills
 
 The Antagonist Track advances when **the antagonist gains ground** — and the table decides, in the fiction, when that's happened. There's one rock-solid trigger plus a couple of judgment calls:
