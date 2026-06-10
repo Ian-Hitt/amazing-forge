@@ -150,14 +150,6 @@ Only **Downtime restores a Broken Asset** — one per rest. A quick Mend gets a 
 
 > **Conditions that aren't tied to a tool (optional).** Sometimes the lasting hurt doesn't map cleanly to a single Asset — a *Broken Spirit,* a *Haunted* dread, a *Rattled* nerve. A Guide can write a one-off **condition** that behaves exactly like a Broken Asset: whenever it's clearly relevant it cancels your +2, so you roll **+1**, and it clears on Downtime. Never make it a flat penalty — like everything else in the game, it only removes a bonus, never drops you below +1. This is an optional tool for flavor, not a second subsystem to track.
 
-### Design Note: Why Recovery Is Rolled, Gated, and Can Whiff
-
-The hard design problem with healing is simple: **if heroes can patch up to full whenever they like, nothing else has teeth.** Pay the Price stops mattering, low Readiness stops being scary, and Out of Action becomes a revolving door. An early version of this game made recovery a flat, automatic +3 you could take at any safe lull — and that's exactly what happened: the danger never accumulated.
-
-The fix borrows from the games this one sits between. Recovery isn't a button; it's **infrequent and unreliable** — Mend is limited to once per hero per Milestone and can come up empty on a Miss. That means a hard stretch genuinely wears the party down, fleeing and Out of Action stay real possibilities, and a battered party has to *decide* who gets patched up and when. The teeth are back. (Letting Mend target a teammate, rather than only yourself, is a deliberate counterweight: it gives a healer hero a real job without lifting the per-hero cap.)
-
-But notice the one line we never cross: **a bad recovery roll never takes Readiness away.** Punishing a failed heal with *more* damage — spiraling the hero who most needs help — is backwards and unfun. A Miss means the rest *didn't take* (you're no better off) and the world presses in — never that healing wounded you. So recovery carries real weight and real disappointment without ever being a trap. And because the heals are small and capped at **9**, even a good rest patches you up without wiping the slate clean: your choices accumulate across the adventure rather than resetting each time you stop.
-
 ---
 
 *Next in Part Two: Chapter 10 — Quests & the Antagonist Track (Complete).*

@@ -76,20 +76,4 @@ Anything that passes both is fair game. The fiction of the Asset should suggest 
 
 ---
 
-## Why Growth Is Horizontal (A Design Note)
-
-Most games grow heroes *upward* — bigger numbers, higher bonuses, more health. *Amazing Forged* deliberately doesn't, and the payoff is worth understanding.
-
-When heroes only get **bigger numbers**, the game has to keep handing the *enemies* bigger numbers too, just to stay tense — an endless arms race that's a lot of bookkeeping and easy to get wrong. This game sidesteps the whole problem. Because Growth only ever adds **tools and signature moves** — never a better roll — the math never moves:
-
-- The roll is always **2d6 +2** (an Asset applies) or **+1** (anything else).
-- **Readiness** is always capped at **9**.
-- So a **Challenge Track**, an **Antagonist Track**, or a **Quest** that was the right difficulty in Episode One is *still* the right difficulty in the season finale. **You never rescale anything.**
-
-A campaign veteran isn't a hero who *rolls better than a beginner.* They're a hero with more Assets to be +2 in more situations, and a fistful of signature moves to pull out when it matters. They feel powerful because they have more *answers* — more ways to make a scene go their way — not because the dice love them more.
-
-> **One option we cut.** Early on we considered a Boon called *"Widen the Domain"* that would broaden an Asset so it earned its +2 in more situations. We dropped it: it was the one upgrade that quietly nudged the numbers (more +2 rolls), reintroducing the very "Lucky / good at everything" problem the Asset rules guard against. And its appeal — broader coverage — is already covered by simply buying a **New Asset.** Keeping *every* form of growth horizontal is what makes the no-rescaling promise hold.
-
----
-
 *That's how heroes grow. With Part Two complete, you know everything about *playing* the game. Part Three steps away from the table to the other half of *Amazing Forged* — **building the world your heroes adventure in**, starting with the World Forge in Chapter 14.*

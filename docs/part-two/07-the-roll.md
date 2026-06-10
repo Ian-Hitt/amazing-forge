@@ -2,7 +2,7 @@
 
 *Part One got you playing. Part Two is where you come back.*
 
-This half of the book explains every mechanic completely — the full options, the edge cases, and, in the **Design Notes**, the reasoning behind why each rule works the way it does. You don't need to read it cover to cover. Reach for it on your second session, when a question comes up mid-game, or when you're curious how a rule ticks under the hood.
+This half of the book explains every mechanic completely — the full options and the edge cases. You don't need to read it cover to cover. Reach for it on your second session, when a question comes up mid-game, or when you're curious how a rule ticks under the hood. (If you want the reasoning *behind* the rules — why each one is shaped the way it is — that lives in the **Design Notes** in Part Four.)
 
 Each chapter is **self-contained.** Flip to the one you need and read just that. Where a rule first appeared in Part One, Part Two restates it in full so you never have to hold two chapters in your head at once — this is the complete version, and it's the one that wins if you ever spot a difference.
 
@@ -24,7 +24,7 @@ When a hero does something risky or uncertain, roll 2d6 and add a modifier based
 - **+2 — an Asset applies.** The test is one sentence: if you can say, in a single natural sentence, how *this exact Asset* solves *this exact problem* using fiction that's already true, it applies. ("I use my *Grappling Hook* to swing across the gap.") If you have to stretch the sentence to make it work, it doesn't apply this time.
 - **+1 — anything else.** A reasonable action that none of your Assets cover. You're a capable hero, never helpless, so you always have at least +1 — but you're working outside your wheelhouse, so it's riskier.
 
-There's no +0 and no penalty die. The floor is +1, on purpose (see the Design Note at the end of the chapter).
+There's no +0 and no penalty die. The floor is +1, on purpose (see the Design Notes in Part Four for why).
 
 > **A broken Asset gives no +2.** An Asset can be *broken* when a hero is taken Out of Action (Chapter 9). While broken, it provides no bonus until **Downtime** restores it — any roll it would have covered is made at **+1**, exactly like acting outside your wheelhouse. A break only ever removes the bonus; it never drops you below +1.
 
@@ -86,19 +86,6 @@ An Outstanding Success means more than "you did it well." The player gets to ben
 - In a Challenge, an Outstanding Success might fill its box *and* hand a teammate a small edge, or set up the next box so it's easier.
 
 Keep the bonus proportional and let the table enjoy it — doubles are a treat, not a loophole. Oracle's Blessing is technically optional, but it's so much fun that most groups keep it on from game one.
-
-### Design Note: Why +2 / +1 Instead of Stats
-
-Most games separate raw ability (a stat like Strength) from special tricks (a feat or spell). Amazing Forge collapses both into your four Assets — they *are* your stats and your special moves at once. That's why there are only two modifiers, and why the gap between them is exactly one point. The numbers aren't arbitrary; they're tuned around the 2d6 curve and the Readiness cap of 9.
-
-Here's what the dice actually do:
-
-- **At +2 (acting in your wheelhouse — the common case):** roughly **42% Strong Hit, 42% Weak Hit, 17% Miss.** That's about an **83% hit rate** — heroes mostly succeed, which keeps the story flowing and feels great for kids.
-- **At +1 (out of your wheelhouse):** roughly **28% Strong, 44% Weak, 28% Miss** — about a **72% hit rate.** Still likely to succeed, but with real risk and far more complications.
-
-Two design choices fall out of this. First, the floor is **+1, not +0:** a +0 option would make off-Asset actions feel hopeless and punish players for stepping outside their niche, which is the opposite of the cinematic, everyone-can-try feel we want. The +1 floor keeps a hero capable at anything. Second, the jump from +1 to +2 nearly **doubles your Strong-Hit rate** (28% → 42%) while barely moving your overall hit rate — so your Assets are clearly, tangibly worth having (you fail *cleanly* far more often in your wheelhouse) without ever making off-Asset actions feel like a wall. Because your four Assets cover your hero's whole zone of competence, most rolls in actual play land at +2.
-
-Doubles (Oracle's Blessing) nudge every result a little brighter on top of this, which is part of why the baseline numbers sit where they do.
 
 ---
 

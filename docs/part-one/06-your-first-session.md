@@ -172,4 +172,6 @@ Notice what they *didn't* do: look up a spell, calculate any enemy's hit points,
 
 You now know everything you need to play your own first game. When you're ready for more depth — more options, the full Antagonist Track, and the reasoning behind the rules — Part Two is waiting.
 
+> **Teaching it to your friends?** You're almost certainly the only one at your table who's read this far — and that's exactly how the game expects it. Flip to **[Teaching the Game](../part-four/teaching-the-game.md)** in Part Four for a one-page reference sheet: the four things to teach before you start, and a trigger list for introducing every other rule at the moment it actually comes up.
+
 **That's the end of Part One. Go play!**

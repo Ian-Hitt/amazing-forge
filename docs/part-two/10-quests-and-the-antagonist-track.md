@@ -157,13 +157,6 @@ When an Antagonist box fills, **stop and play it out** — this beat is called t
 
 A Surge is an open invitation to bend the plot. It's the payoff that makes giving ground *feel* costly even when it saved the party's Readiness — the story just got harder in a concrete, dramatic way. (And because you **characterized your antagonist** earlier, you always know whose face to put on it — even when the "villain" is a desert.)
 
-### Design Note: The Monster-of-the-Week Clock
-
-The Antagonist Track is a "story clock" in the tradition of games like *Monster of the Week* and *Blades in the Dark* — a visible counter that turns the antagonist's progress into something the whole table can see and feel. Two choices make it work the way it does:
-
-- **It's deliberate, not automatic.** The track never lurches forward on a single unlucky roll. It moves when the *table* decides the antagonist gained ground — reliably when the heroes flee, and otherwise only when a telling failure clearly hands the bad guys an opening. Tying it to group judgment rather than to bad dice keeps it from feeling like random punishment and gives the heroes ownership of their fate. You lose because the story turned against you, beat by beat — not because the dice piled up.
-- **It's core, not optional.** Earlier drafts made it an opt-in module. But the whole stay-alive design — heroes can't die, so they flee instead — depends on there being a track to advance when they do. Without it, fleeing would have no cost and losing would have no meaning. So every Quest draws one.
-
 ---
 
 ## Part C — Losing, Quitting & Juggling Quests

@@ -86,8 +86,6 @@ Fleeing is a **group decision** — in Co-op, made together; with a Guide, the G
 
 This is also the **only** thing that advances the Antagonist Track. Misses don't; Pay the Price doesn't; recovery doesn't. The villain gains ground exactly when — and only when — the heroes turn and run. (The terminal case, fleeing or giving up the whole Quest, is **Quitting the Quest;** see Chapter 10.)
 
-> **Design note.** Tying the villain's advance to fleeing — rather than to a per-roll trade — keeps it from being a cheap "don't go down" button: a retreat always costs you the scene's progress *and* a box, so players only do it when staying is genuinely worse. Balance was modeled in `Math & Simulation Reference.md` §4b; it keeps Out-of-Action rare while making the Antagonist Track a meaningful, self-limiting clock.
-
 ### The Showdown (Optional Climax)
 
 By default, filling the last box completes a Challenge automatically — clean and fast, which keeps the story flowing. But for a Scene the group has decided is a **true climax** (using the same "how big is this moment?" judgment), you can make that final box a **Showdown:** filling it requires one last roll.
@@ -143,18 +141,6 @@ The same track-and-rolls procedure powers every kind of dramatic Scene — only 
 *Setting it up:* The heroes get one shot to talk the divided Council of Captains into sending help — a pivotal scene of words, so **Medium: 4 boxes.** Each box is ground won in the room: a doubt planted, a wavering captain swayed, the gallery murmuring your way, the vote finally tipping. The price is social, never physical — you overpromise something you can't deliver, or make an enemy of the captain you needed most.
 
 These five aren't a closed list — they're examples of how to *read* the same rules through whatever fiction is on the table. When a new kind of Scene comes up, ask the same three questions: what does a box of Progress mean here, which Assets fit, and what's the most logical complication?
-
-### Design Note: No Enemy Stats, No Death
-
-Amazing Forge gives enemies and obstacles **no Readiness, no stats, and no hit points.** Only the heroes track a number. You overcome a foe or a hazard by **filling its Challenge Track** — mechanically, *the track is the enemy.* And **heroes cannot die.** The worst that can happen is going **Out of Action** (recoverable — Chapter 9) or **losing the Quest** (the Antagonist Track fills — Chapter 10). Setbacks cost Readiness and story ground; never a character's life.
-
-This is a deliberate choice in service of the "write a movie together" philosophy, and it does a lot of quiet work:
-
-- **It keeps the spotlight on the heroes.** The interesting number on the table is *your* Readiness — your hero's wear and tear — not an enemy's stat block. The drama is about how much the heroes are willing to spend, not bookkeeping for the monster.
-- **It makes any opposition trivial to "run."** A dragon, a snowstorm, a hostile crowd, and a ticking countdown are mechanically identical: a row of boxes. The Guide (or group) never needs to stat anything. That's what makes zero-prep possible.
-- **It protects the story.** Because heroes can't die, players can throw themselves at dramatic risks without fear of a sudden, story-ending death. The stakes are still real — losing Readiness hurts, going Out of Action sidelines you, losing a Quest stings — but they're the kind of stakes a movie is built on: setbacks, costs, and comebacks, not a dead-end.
-
-If you're coming from a game where defeating things means grinding down their HP, this will feel light. That lightness is the point.
 
 ---
 
