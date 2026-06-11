@@ -17,7 +17,7 @@ Picking one does two things instantly:
 
 And here's the most important part: **an archetype is pure roleplay. It adds no rules, no bonus, and no number.** It never changes a roll. It's a lens for *playing* your hero, not a piece of math — exactly like everything else about growing a character in *Amazing Forge*, your edge comes from the story, never from a bigger stat.
 
-> **Costume vs. engine.** If you've picked a genre, its [Genre Kit](15-genres.md) handed you a list of *flavored* archetypes — the Bold Leader, the Clever Scout, that sort of thing. Those are **costumes**: ready-made Concept ideas dressed for that world. The seven archetypes below are the **engines** underneath — the personality that drives them. Lay one over any costume you like. A "Clever Scout" played as a Maverick is a very different hero than one played as a Caregiver, and both are great.
+> **Costume vs. engine.** If you've picked a genre, its [Genre Kit](15-genres.md) handed you a list of *flavored* archetypes — the Knight, the Ranger, the Schemer, that sort of thing. Those are **costumes**: ready-made Concept ideas dressed for that world. The seven archetypes below are the **engines** underneath — the personality that drives them. Lay one over any costume you like. A "Ranger" played as a Maverick is a very different hero than one played as a Caregiver, and both are great.
 
 ### The Seven Archetypes
 

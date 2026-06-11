@@ -8,6 +8,6 @@ You don't have to read it in order or all at once. Reach for it when an answer w
 
 Inside this Part:
 
-- **Chapter 14 — The World Forge** takes the ten questions deeper: what a *good* answer to each looks like, ready-made **Starter Backdrops** for tables that don't want a blank page, how to run the Forge together or solo, and **idea tables** to roll on when you're stuck.
-- **Chapter 15 — Genres** is the deep dive on the most important question of all: the six genres *Amazing Forge* is built to play, the playful-to-serious dial, and a **Genre Kit** for each to get you building fast.
+- **Chapter 14 — The World Forge** takes the ten questions deeper: what a *good* answer to each looks like, how to run the Forge together or solo, and **idea tables** to roll on when you're stuck.
+- **Chapter 15 — Genres** is the deep dive on the most important question of all: seven optional genre toolkits, the playful-to-serious dial, and a **Genre Kit** for each to get you building fast.
 - **Chapter 16 — Building a Cool Hero** is for when you want a character with a voice, a drive, and a flaw — not just four Assets and a number.

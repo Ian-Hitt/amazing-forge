@@ -1,14 +1,21 @@
-## Adventure
+# Adventure
 
-*One of the six Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
 
-Adventure is the beating heart of *Amazing Forge*, and for most tables it's the place to begin. It's the genre of brave deeds and far horizons — a vast, half-charted world where trouble is always one ridge away and something wonderful waits just past it. If the heroes you picture carry **swords and face sorcery** — dragons and dungeons, wizards and ruins, a quest that matters — this is your kit. Swords & sorcery is Adventure's default flavor; the [sub-genres](#sub-genres) below show how to bend it toward whatever fantasy your table loves.
+Adventure is the beating heart of *Amazing Forge*, and for most tables it's the place to begin. It's the genre of brave deeds and far horizons — a vast, half-charted world where trouble is always one ridge away and something wonderful waits just past it. If the heroes you picture carry **swords and face sorcery** — dragons and dungeons, wizards and ruins, a quest that matters — this is your kit. Swords & sorcery is Adventure's default flavor; the [flavors](#flavors-of-adventure) below show how to bend it toward whatever fantasy your table loves.
 
 This kit hands you the *feeling* and the tools to build your own version of it. It never tells you what your adventure *is* — that part is always yours to forge.
 
 ### The feel
 
 Thrilling, hopeful, and larger-than-life. The world is vast and only half-charted, packed with wonders worth braving and dangers worth facing head-on. Adventure is the genre of *momentum* — bold choices, narrow escapes, sweeping vistas, and the unshakable sense that something amazing is just over the next ridge. When in doubt, the Adventure answer is *"yes — and it's bigger than you thought."*
+
+Set against the dial, the same map plays two ways:
+
+- **Playful Adventure** is the rollicking romp: a slapstick treasure hunt, a *Goonies* scramble, narrow escapes that thrill more than they threaten. Falling in the river is a soggy laugh, not a tragedy.
+- **Serious Adventure** lets the wilds bite. The journey is hard, the losses are real, and reaching the summit costs something. This is the dark-fantasy end — hope survives, but it's earned.
+
+Most tables ride somewhere in the middle: real danger, real stakes, but the camera always pushing forward toward the next marvel.
 
 ### Pay the Price here
 
@@ -18,19 +25,58 @@ In Adventure, a price keeps the story *moving* — it rarely grinds it down. A s
 - **The group gets split or set back.** Separated in the storm; the supplies wash downriver; you lose the trail and a day with it.
 - **Someone else gains ground.** A rival reaches the prize first; a sleeping beast stirs; the tyrant's patrol cuts you off.
 - **The map lies.** The route is wrong, the landmark is gone, the "shortcut" leads somewhere worse.
+- **The clock jumps.** The storm season arrives early, the tide turns, the deadline you were racing just got closer.
+- **A wonder turns on you.** The marvel you came for is guarded, cursed, or alive — and you found out the hard way.
 
-Most prices here just raise the stakes and the fun — heroes take their lumps, dust off, and press on. **Save the genuinely heavy prices** — a friend captured, a treasure lost for good — for rare, serious beats so they truly land.
+> **Let the dial pick the sting.** Playful, "the way gets harder" is a comic pratfall — you swing across the chasm by the seat of your pants. Serious, the same fall means a friend is captured on the far side, or the only map washes away for good. Most prices here just raise the stakes and the fun — heroes take their lumps, dust off, and press on. **Save the genuinely heavy prices** — a friend lost, a treasure gone for good — for rare, serious beats so they truly land.
+
+### What a Quest looks like here
+
+**The promise:** *bold heroes brave a great danger and win through against the odds.* The Quest Track is how the table delivers it.
+
+Adventure is the genre where the Quest Track is easiest to picture: a **Milestone is a place reached or a foe overcome** (Chapter 10), and the track is the road to the goal. This is the shape every other genre borrows from, so it's worth seeing clearly.
+
+The three Quest scales (Chapter 10) map straight onto it:
+
+- **Episodic (3 boxes, one sitting):** *Reach the lost temple and claim the relic.* The Milestones: **cross the Saltglass Waste → solve the sealed gate → get past the guardian.** A clean, single-session expedition.
+- **Season (8 boxes, many episodes):** *Chart the uncharted continent before the rival fleet does.* Each box is a major leg conquered — a mountain range crossed, a hostile kingdom won over, a map-blank finally filled — marked whenever the table agrees you've made real headway.
+- **Campaign (12 boxes, the whole game):** *Topple the Sky-Tyrant and free the floating cities.* A sweeping arc built from many smaller Quests that feed it.
+
+The **Antagonist Track** (always present, Chapter 10) is the thing *racing* you: the rival crew, the waking beast, the marching tyrant, the closing storm-season. It ticks when the heroes turn back from a fight (**Flee**, Chapter 8) or when a bad roll's price is the rival gaining ground. Fill it and they get there first — which seeds the next Quest. Give your antagonist a face and a clock so every tick is something you can narrate.
+
+### Tempo
+
+**Adventure burns through boxes faster than any other genre — lean into it.** This is the momentum genre; a Milestone can fall in a single bold charge, and that's correct. Don't slow down to make a journey "realistic" — cut to the next danger, fill the box, and keep the camera moving.
+
+In practice:
+
+- **Episodic is the natural beat,** and even Season Quests want short, punchy Milestones. If a leg of the trip is dragging, collapse it into one decisive Scene and move on (Chapter 10).
+- **Always keep a clock ticking.** A goal in view *and* a reason to hurry is what turns wandering into Adventure. The rival fleet, the rising tide, the captured friend — something should always be getting worse if you dawdle.
+- **End every scene on a hook** — a tremor, a sail on the horizon, a door creaking open — so the story never sits still.
 
 ### Telling Adventure stories
 
-- **Keep it moving.** Adventure lives on pace. When a scene sags, cut to the next danger or the next marvel, and end scenes on a hook — a tremor underfoot, a sail on the horizon, a door creaking open on its own.
+- **Keep it moving.** Adventure lives on pace. When a scene sags, cut to the next danger or the next marvel, and end scenes on a hook.
 - **Make the world enormous.** Distant lands, ancient ruins, impossible weather, creatures the size of houses. Describe *scale*: how high the cliff, how deep the canyon, how far the sea stretches.
 - **Challenges are physical and cinematic** (Chapter 8): journeys across hostile country, fights against beasts and rivals, daring climbs and chases. A filled box is a leg of the trek survived or the tide of a fight turning your way.
 - **Spread the spotlight.** Adventure rewards different talents in turn — the climber, the talker, the navigator, the fighter all get their moment. Lean on the popcorn turn order so everyone shines.
-- **Escalate the scale.** Each leg should feel bigger than the last — a steeper climb, a deeper ruin, a fiercer foe — so the finale feels *earned* rather than just next. Pace it: a breather after a big set-piece, then raise the stakes again.
+- **Escalate the scale.** Each leg should feel bigger than the last — a steeper climb, a deeper ruin, a fiercer foe — so the finale feels *earned* rather than just next. A breather after a big set-piece, then raise the stakes again.
+- **Let the world reward curiosity.** The side cave, the strange light, the door no one else opened — give the bold a marvel for poking at it. Adventure runs on *"let's see what's over there."*
 - **The trap to avoid:** aimless wandering. Adventure needs a *destination* and a *reason to hurry.* Keep a goal in view (the summit, the lost city, the captured friend) and a clock ticking (the storm season, the rival crew, the sinking ship).
 
-### Sub-genres
+### A scene at the table
+
+> *The Quest: reach the lost temple (an Episodic Quest). First Milestone: cross the Saltglass Waste. The table sets up a Journey Challenge — Medium, 4 boxes, the track being the desert itself.*
+>
+> **Guide:** Three days into the Waste and the wind kicks up — a wall of stinging dust rolling in fast. The only cover is a ridge a hard sprint away. What do you do?
+> **Player (Rook):** I grab the rope and lash us together so nobody gets lost in it, then lead us for the ridge. I've got *Wilderness Survival* — I know how these storms move.
+> **Guide:** Roll it.
+> **Player:** Ten — Strong Hit.
+> **Guide:** You read the storm perfectly and haul everyone into a wind-shadow under the ridge just as it hits. **Mark a box** — that's a leg of the Waste behind you. And tucked in the rock where you've sheltered, half-buried in old sand: a milestone marker carved in a language Rook *almost* recognizes. Someone came this way before. What do you do?
+
+One roll, one box, one hook pulling you toward the next. That's an Adventure scene.
+
+### Flavors of Adventure
 
 Adventure bends easily. Pick a flavor to point your world somewhere specific — or leave it broad. Each is just a lens; the rules underneath never change.
 
@@ -40,6 +86,8 @@ Adventure bends easily. Pick a flavor to point your world somewhere specific —
 - **Fairy-Tale** — storybook logic, talking animals, bargains and riddles, a wink of whimsy. Light on the dial, heavy on wonder.
 - **Seafaring & Pirates** — the vast is an ocean. Ships, islands, storms, and buried treasure; salt air and freedom over castles and crowns.
 - **Pulp / Lost World** — explorers and rival expeditions, jungles and ancient temples, two-fisted action and ticking traps.
+
+> **Blend it (your secondary genre).** Anchor in Adventure and fold in a second genre for spice (see *Blending Genres* in the [overview](../15-genres.md)). **Adventure + Mystery** is a treasure hunt where the map is a riddle and someone's lying about it. **Adventure + Horror** sends the expedition into a ruin that doesn't want to let them leave. **Adventure + Caper** is the daring grab — steal the relic out from under the rival expedition. Keep the *forward momentum* in the lead and let the second genre color the danger.
 
 ### Shaping your world
 
@@ -55,25 +103,30 @@ Genre-pointed nudges for the ten World Forge questions (Chapter 14). Answer *the
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the Quest actually becomes.*
+*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll a d8, or just pick.*
 
-- A frontier where the map still has blank spaces, and reaching them first means everything.
-- Two powers circling the same prize, with the heroes caught between them — or racing both.
-- A wonder of the old world (a city, a machine, a treasure) lost to legend, its clues scattered and rivals hunting too.
-- A community living on the edge of something vast and dangerous, depending on the few brave enough to face it.
-- A journey that *must* be made before a deadline, across country that does not want to be crossed.
+| d8 | An Adventure waiting to happen |
+|---|---|
+| 1 | A frontier where the map still has blank spaces, and reaching them first means everything. |
+| 2 | Two powers circling the same prize, with the heroes caught between them — or racing both. |
+| 3 | A wonder of the old world lost to legend, its clues scattered and rivals hunting too. |
+| 4 | A community living on the edge of something vast and dangerous, depending on the few brave enough to face it. |
+| 5 | A journey that *must* be made before a deadline, across country that does not want to be crossed. |
+| 6 | A tyrant or beast whose shadow is spreading, and the one route that might stop it leads somewhere no one returns from. |
+| 7 | A map, a key, or a heir split among rivals — and assembling the pieces means crossing the whole world. |
+| 8 | A way home (or a way *out*) that's been lost, and only an impossible voyage can find it again. |
 
 ### Archetypes
 
-*Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit your hero.*
+*These wear swords-and-sorcery by default — the party you'd expect in a fantasy quest. Reskin any of them for your flavor: the Knight becomes a ship's duelist for a pirate tale, the Mage a relic-cursed professor for a pulp expedition. Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit your hero.*
 
-- **The Bold Leader** — the one who says "follow me" and means it; steadies the group when everything goes sideways. *Inspiring Courage · A Captain's Spyglass · Quick Thinking · A Loyal First Mate.*
-- **The Reckless Daredevil** — leaps first, looks later, and thrives exactly where it's most dangerous. *Acrobatics · A Grappling Hook · Nerves of Steel · A Trusty Blade.*
-- **The Clever Scout** — the party's eyes and ears, reads land and weather, finds the safe path (and the secret one). *Tracking · Wilderness Survival · A Keen Eye · A Faithful Hawk.*
-- **The Big-Hearted Powerhouse** — the muscle with a soft center; carries the wounded and the wagon both. *An Iron Grip · A Great Shield · A Stubborn Pack-Mule · Tireless Stamina.*
-- **The Wide-Eyed Rookie** — green but eager, with one surprising knack and everything to prove. *A Borrowed Map · Quick Feet · A Knack for Climbing · An Heirloom Compass.*
-- **The Worldly Wanderer** — been everywhere, knows a little of everything, has a story for every place. *A Knack for Languages · Travelers' Tales · A Well-Stocked Pack · Friends in Far Places.*
-- **The Tinkering Quartermaster** — keeps the gear running and somehow always has *just* the right tool. *A Bag of Handy Tools · Quick Repairs · A Clever Gadget · Knows How Machines Work.*
+- **The Knight** — the sworn sword-and-shield warrior who stands at the front and means it. *A Trusty Sword · A Great Tower Shield · Well-Worn Travel Leathers · A Loyal Warhorse.*
+- **The Mage** — rare, hard-won magic and a head full of old lore; wonder kept on a short leash. *A Spellbook of Small Wonders · Knowledge of Ruins & Relics · A Mentor's Voice in Your Head · A Charm That Glows Near Danger.*
+- **The Rogue** — locks, shadows, and sleight of hand; in and out before anyone blinks. *A Set of Lockpicks · Moving Quietly · Sleight of Hand · A Sharp Hunting Knife.*
+- **The Ranger** — the party's eyes in the wild: bow, trail-sense, and a animal companion. *A Trusty Bow & Quiver · Tracking · Wilderness Survival · A Faithful Hunting Hawk.*
+- **The Healer** — herbs, steady hands, and the heart that keeps everyone standing. *Knowledge of Healing Herbs · A Steady Hand for Stitching Wounds · Inspiring Courage · A Worn Healer's Charm.*
+- **The Bard** — charm, tall tales, and a knack for talking the party into (and out of) anything. *Travelers' Tales · A Commanding Voice · A Knack for Languages · Bartering & Haggling.*
+- **The Powerhouse** — raw strength and stubborn endurance; carries the wounded and the wagon both. *An Iron Grip · Tireless Stamina · A Battle-Cry That Turns Heads · Nerves of Steel.*
 
 ### The Adventure Asset table (d100)
 
@@ -129,4 +182,3 @@ Genre-pointed nudges for the ten World Forge questions (Chapter 14). Answer *the
 | 48 | Fishing | 98 | A Knack for Falling & Surviving |
 | 49 | Hunting & Trapping | 99 | An Unsinkable Optimism |
 | 50 | Trail Cooking | 100 | A Battle-Cry That Turns Heads |
-

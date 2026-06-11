@@ -1,6 +1,6 @@
 # Chapter 14 — The World Forge (Complete)
 
-Building your world is its own kind of fun — a separate experience from playing the game, which is why it gets its own Part. This is the complete World Forge: what a *good* answer to each of the ten questions looks like, what to avoid, how the genre you picked bends every answer after it, ready-made **Starter Backdrops** for tables that don't want to start from a blank page, how to run the Forge whether the whole table builds it together or a Guide brings a world prepped, and a set of **idea tables** to roll on when you're stuck. Everything about making your world lives here, in one place.
+Building your world is its own kind of fun — a separate experience from playing the game, which is why it gets its own Part. This is the complete World Forge: what a *good* answer to each of the ten questions looks like, what to avoid, how the genre you picked bends every answer after it, how to run the Forge whether the whole table builds it together or a Guide brings a world prepped, and a set of **idea tables** to roll on when you're stuck. Everything about making your world lives here, in one place.
 
 Part One gave you the short version: ten questions, answered out loud, and you're playing. You don't need any of this for your first game. Reach for it when you want a richer world, when an answer isn't sparking anything, or when a Guide wants to prep a setting ahead of time.
 
@@ -23,7 +23,7 @@ A few rules that apply to all ten:
 
 This is the most important question, because it colors all nine that follow. The Genre isn't really "what happens" — it's **how it feels**: thrilling, eerie, tense, warm, funny, melancholy.
 
-*Amazing Forge* officially supports **six genres** — **pick one as your anchor:**
+*Amazing Forge* officially supports **seven genres** — **pick one as your anchor:**
 
 | Genre | The feeling in one line |
 |---|---|
@@ -33,6 +33,7 @@ This is the most important question, because it colors all nine that follow. The
 | **Sci-Fi** | Wonder and strangeness — big ideas, new frontiers, treacherous tech. |
 | **Caper** | Clever, stylish, playful tension — brains over brawn. |
 | **Drama** | Gossip, rivalry, love, and stress — sparks flying without a monster. |
+| **Post-Apocalypse** | Survival and stubborn hope in the ruins of the world that was. |
 
 Then set the **tonal dial:** every genre runs from **playful** (light and a little silly — *Scooby-Doo* spooky) to **serious** (tense, where a loss really lands — *Stranger Things* spooky). Say where you're aiming out loud: *"spooky, but the fun kind, not the nightmares kind."*
 
@@ -122,44 +123,7 @@ Leave the loose ends loose. The World Forge is a starting picture, not a finishe
 
 ---
 
-## Part B — Starter Backdrops
-
-Not every group wants to build from a blank page — especially with younger or first-time players, or when you just want to *play tonight* and worldbuild later. A **Starter Backdrop** is a pre-answered World Forge: a small, genre-flavored setting where all ten questions are already filled in, with a few blanks left for your table to make it yours.
-
-**How to use one:**
-
-1. **Pick a backdrop** that matches the mood you're after.
-2. **Read the ten answers aloud** so everyone shares the picture.
-3. **Fill the blanks together** — each backdrop leaves a couple of questions open on purpose, so the world still belongs to your table.
-4. **Change anything you don't like.** A backdrop is a launchpad, not a rulebook. Swap an answer, add a Threat, rename the city. The moment you alter it, it's yours.
-5. **Use the Concept examples** to jump-start Character Creation (Chapter 2) — each backdrop suggests three heroes who'd fit right in.
-
-A backdrop saves you the ten-minute conversation without giving up the things that make a World Forge work: vivid answers, built-in trouble, and a clear sense of who the heroes are to the world.
-
-### Sample Backdrop: *The Sinking Sky-City*
-
-> **One-line pitch:** A floating city is slowly falling out of the sky, and the only people willing to do something about it are the ones nobody listens to.
-
-| # | Question | Answer |
-|---|----------|--------|
-| 1 | **Genre** | Adventure with a ticking clock — hopeful, a little desperate. |
-| 2 | **Setting** | Aethelgard, a city of brass and canvas floating above an endless sea of clouds. |
-| 3 | **Denizens** | Humans, talking sky-birds who carry messages, and clockwork folk built to run the engines. |
-| 4 | **Magic** | Rare. A handful of "stormcallers" can bend wind and lightning — and they're watched closely. |
-| 5 | **Technology** | Brass machines, steam, and great spinning lift-fans. The fans are old, and nobody fully understands how to fix them. |
-| 6 | **Leadership** | A Council of Captains, one per district — proud, divided, and slow to agree on anything. |
-| 7 | **Enforcement** | The Sky-Patrol on single-seat flyers. They guard the high districts well and the low ones barely at all. |
-| 8 | **Threats** | *(1)* The lift-fans are failing and the city sinks a little more each week. *(2)* A rival sky-fleet circles the clouds, waiting. *(3)* ____ *(your table adds one)* |
-| 9 | **Forbidden** | No one is allowed below the cloud line. The Council says there's nothing down there. The Council is lying about *something*. |
-| 10 | **Reputation** | Your group? "Reckless kids playing at heroes" — until you prove otherwise. |
-
-**Three Concepts that fit:** a *Grease-Stained Clockwork Mechanic* who keeps the failing fans running · a *Disgraced Stormcaller* the Council grounded · a *Low-District Sky-Patrol Cadet* who actually cares about the people the high districts forgot.
-
-> **Want more starting points?** Rather than a catalog of pre-answered worlds like the one above, head to **Chapter 15 — Genres.** Each of the six genres has a **Genre Kit** that gives you the feel, a genre-pointed take on these ten questions, character archetypes, and example Assets — a more flexible launchpad than any single fixed setting, because one kit fuels endless worlds of that flavor. The sample above is just *one* example of where a finished World Forge can land.
-
----
-
-## Part C — Running the World Forge
+## Part B — Running the World Forge
 
 There are two ways to run the Forge. The default is the social one.
 
@@ -179,7 +143,7 @@ This is true in both modes of play. With a Guide, the Guide facilitates — aski
 
 ### The Alternative: A Guide Preps a World
 
-Sometimes a Guide *wants* to prep — they've got an idea they're excited about, or they want a richer, more surprising setting than a ten-minute table conversation usually produces. That's allowed. A Guide can answer the ten questions solo beforehand and bring a finished world to the table. (Starting from a **Starter Backdrop** above and tweaking it is a fast way to do this.)
+Sometimes a Guide *wants* to prep — they've got an idea they're excited about, or they want a richer, more surprising setting than a ten-minute table conversation usually produces. That's allowed. A Guide can answer the ten questions solo beforehand and bring a finished world to the table.
 
 But prep comes with one firm rule:
 
@@ -189,7 +153,7 @@ But prep comes with one firm rule:
 
 ---
 
-## Part D — Idea Tables
+## Part C — Idea Tables
 
 When an answer won't come, roll for it. These tables aren't a substitute for a table conversation — they're a spark for when you're stuck, or a surprise to riff on even when you already have an idea. Roll a d6 for any question, take what you get, and bend it toward the world you're building. Roll **twice and combine** on any question for something stranger.
 

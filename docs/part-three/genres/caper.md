@@ -1,6 +1,6 @@
-## Caper
+# Caper
 
-*One of the six Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
 
 The Caper is the genre of *brains over brawn* — the joy of a plan coming together, the swagger of walking into a place you absolutely should not be, and the scramble to improvise when (not if) it all goes sideways. The tension is real but the audience is grinning: this is a game of clever people pulling off the impossible with style. Dial it from a goofy gang-of-misfits romp to a sleek, high-stakes professional job.
 
@@ -8,36 +8,82 @@ This kit hands you the *feeling* and the tools to build your own score. It never
 
 ### The feel
 
-Clever, stylish, and *fun* — brains over brawn, confidence over force. The Caper is the joy of a plan coming together, the swagger of walking into a place you absolutely should not be, and the scramble to improvise when (not if) something goes sideways. Tension, yes, but the playful kind: the audience is grinning. Dial it from a goofy gang-of-misfits romp to a sleek, high-stakes professional job.
+Clever, stylish, and *fun* — brains over brawn, confidence over force. The Caper is the joy of a plan coming together, the swagger of walking into a place you absolutely should not be, and the scramble to improvise when (not if) something goes sideways. Tension, yes, but the playful kind: the audience is grinning.
+
+Set against the dial, the same job plays two ways:
+
+- **Playful Caper** is the chaotic gang of lovable misfits, where the plan barely survives first contact and that's the joke. Getting made is a comedy of scrambling recoveries, not a disaster.
+- **Serious Caper** is the sleek professional job: cool nerves, real consequences, a crew who's done this before and *still* might not make it out clean. The tension actually bites.
+
+Most tables sit in between — competent enough to be cool, human enough to fumble at the worst moment.
 
 ### Pay the Price here
 
-A price in a Caper makes things *harder and more exciting* — almost never hopeless. It forces the improvisation that makes heists great. Keep prices about complications and the clock, almost never injury. Reach for one of these on a Weak Hit or Miss (Chapter 9):
+A price in a Caper makes things *harder and more exciting* — almost never hopeless. It forces the improvisation that makes heists great. **Readiness** here is the crew's cool and the plan's integrity — running out means rattled nerves, a blown cover, or a scramble for the exit, not injury. Reach for one of these on a Weak Hit or Miss (Chapter 9):
 
 - **The heat rises.** An alarm edges toward tripping; a guard gets curious; the patrol pattern shifts under you.
 - **A complication lands.** The safe is the wrong model; the mark brought backup; the window just got shorter.
 - **Someone turns on you.** A contact double-crosses you; the inside man gets cold feet; a rival crew shows.
 - **The plan cracks.** A key step just became impossible, and you'll have to improvise the rest live.
+- **You leave a thread.** You got it — but you dropped something, were seen, or owe someone now, and it'll come back.
+
+> **Let the dial pick the sting.** Playful, "the heat rises" is a frantic, funny shuffle as the Face stalls a suspicious guard with an increasingly ridiculous story. Serious, it's the silent alarm already counting down and a hard call about whether to abort. Keep prices about *complications and the clock*, almost never injury — the fun is the recovery, not the wound.
+
+### What a Quest looks like here
+
+**The promise:** *a clever crew takes on the impossible and pulls it off with style.* The Quest Track is how the table delivers it.
+
+In a Caper, the Quest Track *is the job*, and each **Milestone is a stage of pulling it off** (Chapter 10): cased, infiltrated, the prize in hand, the clean exit. A filled box is a step of the score completed — or completed *clean enough* to keep moving.
+
+The three Quest scales (Chapter 10) map onto it neatly:
+
+- **Episodic (3 boxes, one sitting):** *Lift the Star of the Sea from the gala.* The Milestones: **case the floor and get inside → make the swap unseen → walk out before the lights come up.** One job, one session, one grin at the end.
+- **Season (8 boxes, many episodes):** *Bring down the crime boss who burned your crew, one job at a time.* Each box is a score that chips at his empire — a vault emptied, a lieutenant turned, a ledger lifted — marked when the table agrees you've truly weakened him.
+- **Campaign (12 boxes, the whole game):** *Run the long con that dismantles the whole syndicate.* A grand scheme built from many smaller jobs that each feed it.
+
+The **Antagonist Track** (always present, Chapter 10) is the opposition closing in: the security tightening, the rival crew gaining, the mark starting to *suspect*. It ticks when the heroes **Flee** — bail out and abandon a job's progress (Chapter 8) — or when a price lets the heat win. Fill it and the job's blown: caught, beaten to the prize, or made. A blown job stings but seeds the next one (now it's personal). Give the opposition a face — a sharp head of security, a smug rival — so each tick lands.
+
+### Tempo
+
+**Caper runs brisk, on a swing: smooth, then *complication*, then scramble, then clean exit.** The pleasure is the rhythm, so pace it deliberately — let things run smoothly just long enough for the table to relax, *then* spring the wrench.
+
+In practice:
+
+- **Episodic is the natural home.** One job is one satisfying session — case it, crack it, get out. Save Season scale for a *string* of jobs against a bigger target.
+- **Don't grind the setup.** A box or two of casing and advantages, then *go.* The fun is in the doing and the recovering, not in an exhaustive plan.
+- **Build the swing into the track.** A clean early box lulls everyone; the middle box is where it all goes wrong; the last box is the white-knuckle exit. Pace your Milestones to that arc.
 
 ### Telling Caper stories
 
 - **Sell the score first.** Establish the prize and why it's "impossible" — the unbreakable vault, the guarded gala, the one-night-only window. The harder it sounds, the sweeter it plays.
 - **Plans are made to break.** Don't demand a perfect plan up front. Let the heroes set up a few advantages, then throw a wrench in — the fun is the *recovery*, not the blueprint.
 - **Caper Challenges are Stealth, Social, and clever problem-solving** (Chapter 8): "get past the lobby," "crack the vault," "keep the mark talking," "make the swap." A filled box is a step of the job pulled off clean (or clean *enough*).
-- **Reward style and teamwork.** The Face distracts while the Tech slices the lock while the Wildcard improvises — Aid Your Ally (Chapter 7) shines here. Let cool ideas *work.*
+- **Reward style and teamwork.** The Face distracts while the Tech slices the lock while the Wildcard improvises — Aid Your Ally (Chapter 7) shines here. **Ask the Oracle** (Chapter 11) for what the heroes couldn't have planned — *is the night guard the one who owes us a favor?* — and let the dice deal the table a break or a curveball.
 - **Pace the heat.** Let it run smoothly just long enough for everyone to relax — *then* spring the complication. The fun is the swing from "we've got this" to "improvise, **now**" and back to a clean exit.
 - **The trap to avoid:** grinding it into a simulation. Don't bog down in floor plans and exact timings. Caper runs on rule-of-cool and momentum — if it'd look great in the movie, lean toward letting it happen.
 
-### Sub-genres
+### A scene at the table
+
+> *The Quest: lift the Star of the Sea from the gala (an Episodic Quest). Second Milestone: make the swap unseen. The table sets up a Social/Stealth Challenge — Medium, 4 boxes, the floor's watchful security as the antagonist.*
+>
+> **Guide:** The Star's in a case under glass, and the curator is standing *right there*, beaming at guests. Your replica is in your jacket. The lights are about to dim for the auction — your one window. What do you do?
+> **Player (Lex):** I send the Face over to pull the curator into a conversation she can't politely escape — gushing about the *provenance*, demanding a tour — while I drift to the case. I'm using *The Switcheroo* the second her back's turned.
+> **Guide:** The Face is on it. Roll the swap.
+> **Player:** Seven — Weak Hit.
+> **Guide:** The swap is clean — replica in, Star in your pocket, **mark a box.** But pay the price: as the case clicks shut, a server two feet away clocks the move. He doesn't shout. He just... watches you, and quietly steps toward the security door. **The heat's rising.** What do you do?
+
+One smooth swap, one box, one complication walking toward the exit. That's a Caper scene.
+
+### Flavors of Caper
 
 Caper is a shape you can drop into any setting. Pick the kind of job:
 
 - **The Heist** — one big score, one impossible target, one crew: plan, infiltrate, grab it, get out. The classic. (*Ocean's Eleven*.)
 - **The Con** — no vault, just a mark. A long game of lies, false identities, and convincing someone to hand it over willingly.
-- **Spy / Espionage** — gadgets and glamour with the stakes of nations. The job is intel as much as loot, and trust no one.
 - **The Breakout** — the score is a *person*, maybe one of the crew. Breaking *out* instead of in flips every problem inside-out.
-- **Treasure Hunt** — the prize is hidden, not guarded: clues, rivals, and reaching it first. (Caper meets Adventure.)
 - **Comedy Caper** — the playful end of the dial: a chaotic gang of lovable misfits, where the plan barely survives first contact, and that's the joke.
+
+> **Blend it (your secondary genre).** Some of the best Capers anchor here and fold in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Caper + Adventure** is the *Treasure Hunt* — the prize is hidden, not guarded, and reaching it first is half the game. **Caper + Drama** is the glittering high-society con where feelings keep complicating the plan. **Caper + Sci-Fi** is the *Spy/Espionage* job — gadgets, glamour, and the stakes of nations, where the loot is intel and you trust no one. Keep the *plan-and-improvise* in the lead and let the second genre raise what's at stake.
 
 ### Shaping your world
 
@@ -53,13 +99,18 @@ Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your ow
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the Quest actually becomes.*
+*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll a d8, or just pick.*
 
-- A world of haves and have-nots, where the powerful hoard glittering prizes behind "impossible" security.
-- Something precious is locked away that arguably belongs to someone else — and the heroes agree.
-- A rival crew is after the same score, and it's a race as much as a heist.
-- The people in charge are arrogant enough to think they can't be touched.
-- A debt, a favor, or a wrong done to the crew that can only be settled with one big job.
+| d8 | A Caper waiting to happen |
+|---|---|
+| 1 | A world of haves and have-nots, where the powerful hoard glittering prizes behind "impossible" security. |
+| 2 | Something precious is locked away that arguably belongs to someone else — and the heroes agree. |
+| 3 | A rival crew is after the same score, and it's a race as much as a heist. |
+| 4 | The people in charge are arrogant enough to think they can't be touched. |
+| 5 | A debt, a favor, or a wrong done to the crew that can only be settled with one big job. |
+| 6 | A one-night-only window — a gala, an eclipse, a transfer — when the prize is briefly reachable. |
+| 7 | One of the crew is locked up (or owned), and the only score that matters is breaking them out. |
+| 8 | A mark too clever to rob — so the only way in is to make them *hand it over willingly.* |
 
 ### Archetypes
 
@@ -127,4 +178,3 @@ Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your ow
 | 48 | Bluffing With Total Confidence | 98 | Vanishing in a Crowd |
 | 49 | Improvises When It Goes Wrong | 99 | A Last-Second Plan B |
 | 50 | A Talent for Plans | 100 | A Crew That Always Has Your Back |
-

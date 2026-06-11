@@ -1,6 +1,6 @@
-## Sci-Fi
+# Sci-Fi
 
-*One of the six Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
 
 Sci-Fi is the genre of *the new* — a discovery, a machine, a world no one has seen, an idea big enough to change everything. The wonder is real, but the new always cuts both ways: the tool that saves you is the tool that betrays you. Curiosity drives the story forward; consequences give it weight. Dial it from bright pulp space-opera to tense, lived-in, duct-taped hard sci-fi.
 
@@ -8,38 +8,84 @@ This kit hands you the *feeling* and the tools to build your own frontier. It ne
 
 ### The feel
 
-Wonder and strangeness — vast frontiers, dazzling machines, and ideas big enough to change everything. Sci-Fi is the genre of *the new*: a discovery, a technology, a world no one's seen. And the new always cuts both ways — the tool that saves you is the tool that betrays you. Curiosity drives the story; consequences give it weight. Dial it from bright pulp space-opera to tense, lived-in hard sci-fi.
+Wonder and strangeness — vast frontiers, dazzling machines, and ideas big enough to change everything. Sci-Fi is the genre of *the new*: a discovery, a technology, a world no one's seen. And the new always cuts both ways — the tool that saves you is the tool that betrays you. Curiosity drives the story; consequences give it weight.
+
+Set against the dial, the same future plays two ways:
+
+- **Playful Sci-Fi** is bright pulp space-opera: heroic starfleets, plucky droids, a galaxy worth saving, and a blaster that always works when it counts. Wonder first, worry later.
+- **Serious Sci-Fi** is lived-in and hard-edged: the duct-taped engine, the cold math of oxygen, the corporation that owns the air. The wonder's still there — it just has a price tag.
+
+Most tables sit in between: real marvels, real costs, and the constant question of *what this new thing will do to us.*
 
 ### Pay the Price here
 
-The future is amazing *and* it bites. A price in Sci-Fi is usually a system, a machine, or a plan turning on you at the worst possible moment. Reach for one of these on a Weak Hit or Miss (Chapter 9):
+The future is amazing *and* it bites. A price in Sci-Fi is usually a system, a machine, or a plan turning on you at the worst possible moment. **Readiness** here can be your gear and your nerve both — a suit's integrity, a crew's composure under pressure. Reach for one of these on a Weak Hit or Miss (Chapter 9):
 
 - **The tech fails.** The door won't open, the engine cuts out, the suit springs a leak, the blaster overheats.
 - **It does something you didn't intend.** The AI takes your order too literally; the experiment works *too* well.
 - **The discovery turns dangerous.** What you found is not what it seemed — and now it's loose.
 - **You're stranded.** Far from help, cut off, with the oxygen (or the fuel, or the time) ticking down.
+- **The owners notice.** The corporation, the AI, the authority that runs this place now knows what you're doing.
 
-Tie every price to the *fiction* — a malfunction, a misfire, a signal you shouldn't have answered. Never "you take damage."
+> **Let the dial pick the sting.** Playful, "the tech fails" is a sparking console and a heroic improvised fix with seconds to spare. Serious, it's a hull breach with the air screaming out and a real, ticking question of who makes it to the shuttle. Tie every price to the *fiction* — a malfunction, a misfire, a signal you shouldn't have answered. Never "you take damage."
+
+### What a Quest looks like here
+
+**The promise:** *a new discovery opens wonders — and you face what it sets loose.* The Quest Track is how the table delivers it.
+
+Sci-Fi borrows its Quest shapes from every other genre — but the **Milestones are about systems, frontiers, and consequences** (Chapter 10): power restored, a signal decoded, a planet survived, a truth about the new thing finally grasped. A filled box is a problem of *the future* solved (often by creating the next one).
+
+The three Quest scales (Chapter 10) map onto it like this:
+
+- **Episodic (3 boxes, one sitting):** *Escape the derelict before it falls into the star.* The Milestones: **restore main power → seal the breach and reach the bridge → break orbit in time.** A tight, ticking-clock single session.
+- **Season (8 boxes, many episodes):** *Stop the station's AI before it "optimizes" everyone.* Each box is a real step — learn what it wants, cut it off from a system, win over the crew it's turned — marked when the table agrees you've genuinely set it back.
+- **Campaign (12 boxes, the whole game):** *Free the colony from the corporation that owns its air.* A long arc of sabotage, alliance, and revelation, built from many smaller jobs that feed it.
+
+The **Antagonist Track** (always present, Chapter 10) is rarely a single villain — it's a *force with a logo*: the corporation, the rogue AI, the unforgiving physics of the place, the thing in the cargo hold. It ticks when the heroes **Flee** (Chapter 8) or when a price lets the system gain. Fill it and the AI wins, the corp seizes control, the derelict claims you — which seeds the next Quest. Give the force a face (a smug exec, a too-calm AI voice) so each tick is concrete.
+
+### Tempo
+
+**Sci-Fi runs on a two-beat rhythm: *wonder, then cost.*** Pace depends on the flavor — bright space-opera burns boxes fast like Adventure, while hard SF and survival sit slower and tenser — but the heartbeat is always the same: show the marvel, let the table gasp, then let the price arrive.
+
+In practice:
+
+- **Open on the marvel.** Lead with the *"isn't that amazing"* — the impossible ship, the living planet, the AI that seems friendly — *then*, a beat later, the *"...oh no."*
+- **Match the scale to the flavor.** A heroic space-opera Quest can rip through Milestones; a tense bottle episode on a failing station wants fewer boxes and more dread between them.
+- **Let consequences compound.** A great Sci-Fi Quest is a chain — each solved problem births the next, so the track feels like a deepening situation, not a checklist.
 
 ### Telling Sci-Fi stories
 
 - **Lead with a "what if."** Pick one big idea — a thinking machine, a faster-than-light gate, a planet that dreams — and let the story explore its edges. The setting is an argument about that idea.
 - **Make the tech a character.** Gadgets, ships, and AIs should have quirks and limits. The duct-taped engine, the AI that's *technically* honest, the blaster that overheats — limits create drama.
-- **Challenges span the whole toolkit** (Chapter 8): a tense Stealth past security drones, an Investigation into a derelict, a Journey across a hostile planet, a Combat with a malfunctioning machine. Boxes can be "reroute the power," "decode the signal," "survive the vacuum."
-- **The frontier has owners.** Someone profits from the tech and someone pays for it. Corporations, governments, and AIs make great forces (antagonists with a face — Chapter 10) without a single mustache-twirling villain.
-- **Pace wonder and cost.** Open on the marvel — let the table gasp at it — then let the price arrive. Sci-Fi runs on the rhythm of *"isn't that amazing"* followed a beat later by *"...oh no."*
+- **Challenges span the whole toolkit** (Chapter 8): a tense Stealth past security drones, an Investigation into a derelict, a Journey across a hostile planet, a fight with a malfunctioning machine. Boxes can be "reroute the power," "decode the signal," "survive the vacuum."
+- **The frontier has owners.** Someone profits from the tech and someone pays for it. Corporations, governments, and AIs make great forces (antagonists with a face — Chapter 10) without a single mustache-twirling villain. **Ask the Oracle** (Chapter 11) for what the unknown holds — *is the signal a warning or a lure?*
+- **Pace wonder and cost.** Open on the marvel, then let the price arrive. Sci-Fi runs on *"isn't that amazing"* followed a beat later by *"...oh no."*
 - **The trap to avoid:** technobabble as a solution. Don't let "I reverse the polarity" win a scene. Tie rolls to clear fiction the table can picture — *what* you do and *why* it might fail.
 
-### Sub-genres
+### A scene at the table
+
+> *The Quest: escape the derelict before it falls into the star (an Episodic Quest). First Milestone: restore main power. The table sets up a Challenge — "get the reactor online," Medium, 4 boxes, the failing ship itself as the antagonist.*
+>
+> **Guide:** The reactor room's dark except for one red emergency strip. The main coupling's fried — but there's a salvage drone clamped to the wall, dormant, that could bridge the gap if you can wake it. The deck's already warming under your boots. What do you do?
+> **Player (Iko):** I jack into the drone and try to wake it gently — I don't want it dumping its logs and rebooting, we don't have time. *Interfaces With Machines.*
+> **Guide:** Roll it.
+> **Player:** Eleven — Strong Hit. And doubles, so Oracle's Blessing bumps it up — that's a really strong result.
+> **Guide:** The drone wakes sweet and quiet, already understanding the job — it bridges the coupling and the reactor coughs to life. **Mark a box,** and take the bonus: as it links in, it shares its last memory with you. The crew didn't evacuate. They went *deeper* into the ship, on purpose. What do you do?
+
+One roll, power restored, and a hook that just made the escape a lot more interesting. That's a Sci-Fi scene.
+
+### Flavors of Sci-Fi
 
 Sci-Fi covers enormous ground. Pick a flavor to fix the tone and the tech level:
 
 - **Space Opera** — sweeping and heroic: starfleets, alien worlds, faster-than-light, a galaxy worth saving. The bright end of the dial. (*Star Wars*.)
 - **Hard SF** — grounded and plausible. The science is (mostly) real, and the danger is the unforgiving physics of space itself.
 - **Cyberpunk** — neon cities and megacorporations, hackers and the hacked. High tech, low life, and a system rigged against you.
-- **Post-Apocalypse** — the future already broke. Scavenge the ruins of a greater age; the story is survival and what's worth rebuilding.
+- **After the collapse** — wonder gives way to scavenging in the ruins of a greater age. (Full-on collapse and rebuilding is now its own genre — see [Post-Apocalypse](post-apocalypse.md).)
 - **First Contact / Exploration** — the unknown out there: new worlds, new minds, the wonder and peril of the genuinely alien.
 - **Hopeful / Solarpunk** — a future worth wanting. The tension is *keeping* it that way against those who'd drag it back.
+
+> **Blend it (your secondary genre).** Some of the best Sci-Fi anchors here and folds in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Sci-Fi + Horror** is the thing loose on the station (*Alien*, dialed for your table). **Sci-Fi + Mystery** is the derelict that has to be *read* like a crime scene to learn what killed the crew. **Sci-Fi + Caper** is the heist on a high-security orbital, lasers grids and all. Keep the *wonder and consequence* in the lead and let the second genre sharpen the danger.
 
 ### Shaping your world
 
@@ -56,13 +102,18 @@ Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your ow
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the Quest actually becomes.*
+*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll a d8, or just pick.*
 
-- A frontier where new tech outpaces every rule meant to govern it.
-- A machine intelligence that's *technically* doing its job, in a way nobody intended.
-- A discovery that's wonderful for some and catastrophic for others — and the heroes have to decide.
-- The people who own the essentials (air, water, fuel, data) versus everyone who needs them.
-- Something old and powerful, drifting out there, waking up.
+| d8 | A Sci-Fi waiting to happen |
+|---|---|
+| 1 | A frontier where new tech outpaces every rule meant to govern it. |
+| 2 | A machine intelligence that's *technically* doing its job, in a way nobody intended. |
+| 3 | A discovery that's wonderful for some and catastrophic for others — and the heroes have to decide. |
+| 4 | The people who own the essentials (air, water, fuel, data) versus everyone who needs them. |
+| 5 | Something old and powerful, drifting out there, waking up. |
+| 6 | A signal from somewhere that shouldn't be able to send one. |
+| 7 | A colony, ship, or station cut off from home, and the rules quietly breaking down. |
+| 8 | A prototype that works — and now everyone wants it, including the thing it was meant to contain. |
 
 ### Archetypes
 
@@ -130,4 +181,3 @@ Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your ow
 | 48 | Deep-Space Lore | 98 | An Implant You Didn't Choose |
 | 49 | Reading Alien Languages | 99 | Surviving Explosions |
 | 50 | Surveying Strange Worlds | 100 | An Old Earth Song That Calms Everyone |
-

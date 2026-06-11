@@ -1,6 +1,6 @@
-## Mystery
+# Mystery
 
-*One of the six Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
 
 Mystery is the genre of *knowing* — the slow, delicious pleasure of pulling a thread until the whole tangle comes loose. There's a secret at the heart of every Mystery, and a handful of people who'd rather it stayed buried; the heroes are the ones who won't let it. This is detective work for every table, from a playful puzzle-box romp to a rain-slick whodunit where everyone is lying about something.
 
@@ -8,38 +8,82 @@ This kit hands you the *feeling* and the tools to build your own case. It never 
 
 ### The feel
 
-Curiosity, secrets, and the satisfying *click* when scattered pieces finally lock together. Mystery is about *attention* — noticing the detail everyone else walked past, asking the question no one wanted asked. Dial it anywhere from a playful puzzle-box romp to a rain-slick, grown-up whodunit where everyone's lying about something. The thrill isn't danger; it's *knowing.*
+Curiosity, secrets, and the satisfying *click* when scattered pieces finally lock together. Mystery is about *attention* — noticing the detail everyone else walked past, asking the question no one wanted asked. The thrill isn't danger; it's *knowing.*
+
+Set against the dial, the same case plays two ways:
+
+- **Playful Mystery** is the puzzle-box romp: a *Scooby-Doo* caper, a snooping-kids summer, a culprit who'd have gotten away with it if not for you. Getting caught snooping is an exciting scramble, not real peril.
+- **Serious Mystery** is the rain-slick whodunit where everyone's lying and the truth costs something — a friendship, an illusion, your trust in someone. The answer isn't always one you wanted.
+
+Most tables sit in between: real stakes, real secrets, but the joy is always the *figuring out.*
 
 ### Pay the Price here
 
-In Mystery the danger is to your *progress* and your *relationships*, almost never your body. A Miss usually means the case just got more tangled. Reach for one of these on a Weak Hit or Miss (Chapter 9):
+In Mystery the danger is to your *progress* and your *relationships*, almost never your body. **Readiness** here is your standing and composure — running out means you're stonewalled, discredited, or rattled off the trail, not hurt. A Miss usually means the case just got more tangled. Reach for one of these on a Weak Hit or Miss (Chapter 9):
 
 - **The trail goes cold.** A lead dries up, evidence vanishes, a witness skips town overnight.
 - **You tip your hand.** The wrong person now knows you're asking — and starts covering their tracks.
 - **You're confidently wrong.** A conclusion you trusted turns out false, and you've already acted on it.
 - **The truth costs you.** What you dig up burns a friendship, or it's something you can't un-know.
+- **The question gets dangerous.** Asking it makes someone powerful decide you're a problem to be handled.
 
-Keep prices about tangles and trust, not bruises. The case getting *harder* is the fun — and the heroes always inch closer to knowing.
+> **Let the dial pick the sting.** Playful, "you tip your hand" means the janitor-in-a-mask bolts and the chase is on. Serious, it means a frightened witness is now in real danger, and it's your fault. Keep prices about *tangles and trust*, not bruises — and remember the case getting *harder* is the fun. The heroes always inch closer to knowing.
+
+### What a Quest looks like here
+
+**The promise:** *a secret unravels clue by clue, until the truth clicks into place.* The Quest Track is how the table delivers it.
+
+In Mystery, the Quest Track is the **path to the truth, and every Milestone is a layer of it** (Chapter 10) — a clue confirmed, a lie peeled back, a suspect cleared or damned. A filled track *is* the solution. The crucial rule: don't hide the answer behind one perfect roll. Spread it across the boxes, so the case always inches forward.
+
+The three Quest scales (Chapter 10) map cleanly onto a case:
+
+- **Episodic (3 boxes, one sitting):** *Who poisoned the festival well?* The Milestones: **find the means → find the motive → name the culprit.** Three clues that add up to *who* and *why.*
+- **Season (8 boxes, many episodes):** *Unravel who really runs this town.* Each box is a layer of the conspiracy pulled back — a bought official exposed, a hidden ledger found, a witness finally turned — marked whenever the table agrees the truth genuinely advanced.
+- **Campaign (12 boxes, the whole game):** *Expose the rot at the very top.* A long unraveling, built from many smaller cases that each feed the bigger picture.
+
+The **Antagonist Track** (always present, Chapter 10) is whoever benefits from the truth staying buried — racing to cover tracks, discredit you, or make the evidence disappear. It ticks when the heroes back off a confrontation (**Flee**, Chapter 8) or when a bad roll lets the guilty party bury something. Fill it and the truth is lost or the culprit walks — which seeds the next case. Name your antagonist so a tick is concrete: "the file you needed is ash in the grate."
+
+### Tempo
+
+**Mystery is reveal-paced — measured, not slow.** The fun is the rhythm of discovery, so the track should *always* move, but you don't want to dump the whole truth at once. Pace it: a satisfying *click* (a clear clue), then a fresh complication, then another click.
+
+In practice:
+
+- **Always give them something.** On any Hit, the heroes learn *a* fact — let the players help decide what (Chapter 7, Narrate the Change). A mystery that stalls because nobody rolled well enough is no fun; the track should always inch toward the truth.
+- **Episodic-to-Season is the sweet spot.** A single case fills a session nicely; a slow-burn conspiracy rewards a Season's worth of patient digging.
+- **A good reveal answers one question and opens two.** Don't let a clue close the case early — let it point somewhere new, so curiosity keeps pulling.
 
 ### Telling Mystery stories
 
-- **Always give them something.** On any Hit, the heroes learn *a* fact — let the players help decide what (Chapter 7, Narrate the Change). A mystery that stalls because nobody rolled well enough is no fun; the track should always inch toward the truth.
-- **Clues are an Investigation Challenge** (Chapter 8): each box is a real clue or a fresh lead, and the full track adds up to the answer. Don't hide the solution behind one perfect roll.
+- **Clues are an Investigation Challenge** (Chapter 8): each box is a real clue or a fresh lead, and the full track adds up to the answer. Build it like any other Challenge; only the fiction changes.
 - **Layer the lies.** The first answer should be wrong or incomplete. Almost everyone has a secret; most are unrelated to the case — which is exactly what makes the real one hard to spot.
 - **Make legwork social.** The best clues come from *people*, so reward charm and patience as much as a magnifying glass. A nervous witness is more fun than a footprint.
-- **Pace the reveals.** Alternate a satisfying *click* — a clear clue — with a fresh complication, so the case never stalls into a guessing game or a wall of facts. A good reveal answers one question and opens two.
-- **The trap to avoid:** the unsolvable puzzle. You don't need the perfect mystery plotted in advance — decide whodunit loosely, then let the clues the heroes actually find point there. The investigation writes the case.
+- **Decide the answer loosely, then let play find it.** You don't need the perfect mystery plotted in advance — settle on whodunit in broad strokes, and let the clues the heroes actually turn up point there. **Ask the Oracle** (Chapter 11) for the details even *you* haven't decided — *was the steward lying?* — which is how a Co-op Mystery keeps its secrets.
+- **Pace the reveals.** Alternate a satisfying *click* with a fresh complication, so the case never stalls into a guessing game or a wall of facts.
+- **The trap to avoid:** the unsolvable puzzle. The investigation writes the case — don't gate the whole thing behind one brilliant deduction the players have to make cold.
 
-### Sub-genres
+### A scene at the table
+
+> *The Quest: who poisoned the festival well? (an Episodic Quest). First Milestone: find the means. The table sets up an Investigation Challenge — Easy, 3 boxes, the track being the clues that add up to how it was done.*
+>
+> **Guide:** The herbalist's shop is shut, but the back window's cracked open. You've talked your way to the doorstep of old Maren, who sold remedies at the fair. She's polite, but she keeps glancing at the back room. What do you do?
+> **Player (Devi):** I don't push. I use *A Knack for the Right Question* — I ask her, kindly, whether anyone's bought silverleaf lately, "since it spoils so easily this time of year."
+> **Guide:** Roll it.
+> **Player:** Eight — Weak Hit.
+> **Guide:** She tells you, gladly — *yes*, a man bought the last of it three days ago, paid in old coin. That's a box: you've got the means *and* a buyer. But pay the price — as you leave, she mentions she'll tell that nice man you were asking after him, since he's a friend of the family. **You tipped your hand.** What now?
+
+One question, one box closer to the truth, one new tangle. That's a Mystery scene.
+
+### Flavors of Mystery
 
 Mystery wears many coats. Pick one to set how dark and how strange the case runs:
 
 - **Whodunit** — a closed circle of suspects, one crime, and the satisfaction of naming the culprit. Clue by clue, classic.
-- **Monster of the Week** — each Quest is a fresh strange case to crack and set right, with a bigger pattern humming underneath. (*Scooby-Doo*, *The X-Files*.)
 - **Noir** — rain-slick and morally grey: everyone's compromised, the truth costs something, and trust is the rarest clue.
 - **Conspiracy / Thriller** — the deeper you dig, the bigger it gets; one small case is a loose thread on something powerful.
-- **Supernatural Mystery** — the impossible is real, and the puzzle is learning its rules before they catch up with you. (Pairs naturally with a little Horror.)
 - **Cold Case** — an old mystery everyone "solved" years ago, reopened over the one detail that never fit.
+
+> **Blend it (your secondary genre).** Some of the best Mysteries anchor here and fold in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Mystery + Horror** is the *Monster of the Week*: each Quest a fresh strange case, with something genuinely unsettling underneath (*Scooby-Doo*, *The X-Files*). **Supernatural Mystery** is the same blend dialed up — the impossible is real, and the puzzle is learning its rules before they catch you. **Mystery + Caper** turns the investigation into a job — you have to *steal* the proof. Keep the *figuring-out* in the lead and let the second genre raise the stakes.
 
 ### Shaping your world
 
@@ -55,13 +99,18 @@ Genre-pointed nudges for the ten World Forge questions (Chapter 14). Answer *the
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the case actually becomes.*
+*Situations to mine — your table decides what the case actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll a d8, or just pick.*
 
-- A town (or court, or station) where the powerful all got there by knowing each other's secrets — and trade them like coin.
-- Something valuable, or someone important, keeps slipping away, and every official explanation is obviously a cover.
-- A respected figure isn't who they claim to be, and a few people quietly know it.
-- The heroes are the only ones *asking* — everyone else has a reason to let it lie.
-- An old case everyone "solved" years ago, with one detail that never fit.
+| d8 | A Mystery waiting to happen |
+|---|---|
+| 1 | A town, court, or station where the powerful all got there by knowing each other's secrets — and trade them like coin. |
+| 2 | Something valuable, or someone important, keeps slipping away, and every official explanation is obviously a cover. |
+| 3 | A respected figure isn't who they claim to be, and a few people quietly know it. |
+| 4 | The heroes are the only ones *asking* — everyone else has a reason to let it lie. |
+| 5 | An old case everyone "solved" years ago, with one detail that never fit. |
+| 6 | A locked-room impossibility: it plainly happened, and just as plainly couldn't have. |
+| 7 | A message, map, or confession arrives from someone who's just vanished — or just died. |
+| 8 | Two clues point at two different culprits, and both alibis are airtight. |
 
 ### Archetypes
 
@@ -129,4 +178,3 @@ Genre-pointed nudges for the ten World Forge questions (Chapter 14). Answer *the
 | 48 | Friends in Low Places | 98 | An Alibi Nobody Questions |
 | 49 | Friends in High Places | 99 | A Reputation for Always Being Right |
 | 50 | A Reliable Informant | 100 | A Gut Feeling That's Usually Right |
-
