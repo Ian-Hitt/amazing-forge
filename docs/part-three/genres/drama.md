@@ -89,6 +89,23 @@ Drama runs on relationships, and those come in many flavors. Pick the engine tha
 
 > **Blend it (your secondary genre).** Some of the best Dramas anchor here and fold in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Drama + Caper** is a glittering high-society con where feelings keep complicating the plan. **Drama + Mystery** is a buried secret whose answer will rearrange everyone's lives. **Drama + Horror** lets a toxic relationship or a cursed bloodline turn literally monstrous. And pour Drama into a fantasy or sci-fi *setting* and you get the romance-soaked epics ("court-and-crown fantasy") tables love. Keep Drama in the lead so the *feelings* stay the point, and let the second genre raise the stakes.
 
+### Settings
+
+*A d10 of settings that pair naturally with Drama — pick one or roll, then forge your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
+
+| d10 | Setting |
+|---|---|
+| 1 | **The High School** — cliques, crushes, and the world ending every single week. |
+| 2 | **The Royal Court** — marriages, alliances, and whispered plots over the throne. |
+| 3 | **The Small Town** — everyone's business is everyone's, and reputation is all. |
+| 4 | **The Arts School or Troupe** — talent, ego, and rivalry under one spotlight. |
+| 5 | **The Family Estate** — inheritance, old wounds, and a clan that won't stop feuding. |
+| 6 | **The Competitive Team** — a squad chasing the title, and chasing each other. |
+| 7 | **The Lakeside Summer** — first love, long days, and the friendships that define you. |
+| 8 | **The Workplace** — office politics, ambition, and who gets the corner office. |
+| 9 | **The Wedding or Reunion** — everyone in one room, every old grievance with them. |
+| 10 | **The Glamorous City Scene** — fame, parties, and who's in and who's out this week. |
+
 ### Shaping your world
 
 Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your own words — don't just copy an example.

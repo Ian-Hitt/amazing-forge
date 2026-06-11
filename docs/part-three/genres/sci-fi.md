@@ -87,6 +87,23 @@ Sci-Fi covers enormous ground. Pick a flavor to fix the tone and the tech level:
 
 > **Blend it (your secondary genre).** Some of the best Sci-Fi anchors here and folds in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Sci-Fi + Horror** is the thing loose on the station (*Alien*, dialed for your table). **Sci-Fi + Mystery** is the derelict that has to be *read* like a crime scene to learn what killed the crew. **Sci-Fi + Caper** is the heist on a high-security orbital, lasers grids and all. Keep the *wonder and consequence* in the lead and let the second genre sharpen the danger.
 
+### Settings
+
+*A d10 of settings that pair naturally with Sci-Fi — pick one or roll, then forge your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
+
+| d10 | Setting |
+|---|---|
+| 1 | **The Generation Ship** — a colony vessel generations from home, with secrets in the dark decks. |
+| 2 | **The Frontier Station** — a rough port at the edge of charted space; everyone's passing through. |
+| 3 | **The Neon Megacity** — towering arcologies and megacorps, with the underclass far below. |
+| 4 | **The Alien World** — strange biology, stranger natives, and a wary first contact. |
+| 5 | **The Asteroid Belt** — scattered mining rigs, rich salvage, and pirates between the rocks. |
+| 6 | **The Domed Colony** — a fragile bubble of life on a hostile world, one failure from disaster. |
+| 7 | **The Derelict** — a dead ship or station, dark and drifting, with something still aboard. |
+| 8 | **The Star-Spanning Republic** — a bright space-opera of starports, fleets, and far worlds. |
+| 9 | **The Remote Research Outpost** — a lab where they were studying something they shouldn't. |
+| 10 | **The AI-Run City** — where the machine handles everything, and has started making choices. |
+
 ### Shaping your world
 
 Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your own words — don't just copy an example.

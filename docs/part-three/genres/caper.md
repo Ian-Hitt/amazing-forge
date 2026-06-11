@@ -85,6 +85,23 @@ Caper is a shape you can drop into any setting. Pick the kind of job:
 
 > **Blend it (your secondary genre).** Some of the best Capers anchor here and fold in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Caper + Adventure** is the *Treasure Hunt* — the prize is hidden, not guarded, and reaching it first is half the game. **Caper + Drama** is the glittering high-society con where feelings keep complicating the plan. **Caper + Sci-Fi** is the *Spy/Espionage* job — gadgets, glamour, and the stakes of nations, where the loot is intel and you trust no one. Keep the *plan-and-improvise* in the lead and let the second genre raise what's at stake.
 
+### Settings
+
+*A d10 of settings that pair naturally with the Caper — pick one or roll, then forge your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
+
+| d10 | Setting |
+|---|---|
+| 1 | **The Glittering Casino** — chips, cameras, and a vault under the high-rollers. |
+| 2 | **The High-Society Gala** — tuxedos, jewels, and a mark who thinks they're untouchable. |
+| 3 | **The Museum** — priceless artifacts, laser grids, and one night only. |
+| 4 | **The Corporate Tower** — keycards, server rooms, and a board that has it coming. |
+| 5 | **The Impossible Vault** — the unbreakable bank, the score they say can't be done. |
+| 6 | **The Cruise Ship or Luxury Train** — a sealed playground of wealth, and it's moving. |
+| 7 | **The Auction House** — where the prize goes under the hammer tonight. |
+| 8 | **The Spy-Thriller Capital** — embassies, dead drops, and gadgets with the stakes of nations. |
+| 9 | **The Crime Boss's Estate** — guarded, gaudy, and full of things that should be returned. |
+| 10 | **The Festival Crowd** — chaos and color to slip the score out through. |
+
 ### Shaping your world
 
 Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your own words — don't just copy an example.

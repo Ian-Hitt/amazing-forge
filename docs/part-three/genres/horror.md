@@ -86,6 +86,23 @@ Horror comes in many shades. Pick one, and set the dial to match:
 
 > **Blend it (your secondary genre).** Some of the best Horror anchors here and folds in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Horror + Mystery** is the case where the answer is something that shouldn't exist — solve it before it finds you. **Horror + Sci-Fi** is the thing loose on the space station (*Alien*, dialed for your table). **Horror + Adventure** is the *Creature Feature*: something out there hunts, and the thrill is the glimpse, the chase, the narrow escape. Keep the *dread* in the lead and let the second genre give the heroes just enough to do.
 
+### Settings
+
+*A d10 of settings that pair naturally with Horror — pick one or roll, then forge your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
+
+| d10 | Setting |
+|---|---|
+| 1 | **The Haunted House** — a place that does not want you to leave. |
+| 2 | **The Summer Camp** — isolated woods, after dark, and something out among the trees. |
+| 3 | **The Wholesome Town with a Secret** — sunny by day, deeply wrong underneath. |
+| 4 | **The Abandoned Hospital** — peeling halls, old records, and what they did here. |
+| 5 | **The Fog-Bound Coast** — a lighthouse, a drowned village, and things from the deep. |
+| 6 | **The Snowed-In Outpost** — cut off, low on fuel, and not everyone is who they were. |
+| 7 | **The Empty Cult Compound** — abandoned, mostly, and the symbols still mean something. |
+| 8 | **The Cursed Forest** — paths that shift, trees that watch, and the dark between them. |
+| 9 | **The Dead Family's Mansion** — heirlooms, portraits, and a bloodline's buried sin. |
+| 10 | **The Tunnels Below** — caves, subways, or sewers where the light finally gives out. |
+
 ### Shaping your world
 
 Genre-pointed nudges for the World Forge (Chapter 14). **Set the dial first** — how scary is too scary for *this* table? — then answer these in your own words.

@@ -85,6 +85,23 @@ Mystery wears many coats. Pick one to set how dark and how strange the case runs
 
 > **Blend it (your secondary genre).** Some of the best Mysteries anchor here and fold in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Mystery + Horror** is the *Monster of the Week*: each Quest a fresh strange case, with something genuinely unsettling underneath (*Scooby-Doo*, *The X-Files*). **Supernatural Mystery** is the same blend dialed up — the impossible is real, and the puzzle is learning its rules before they catch you. **Mystery + Caper** turns the investigation into a job — you have to *steal* the proof. Keep the *figuring-out* in the lead and let the second genre raise the stakes.
 
+### Settings
+
+*A d10 of settings that pair naturally with Mystery — pick one or roll, then forge your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
+
+| d10 | Setting |
+|---|---|
+| 1 | **The Gaslit City** — foggy Victorian streets, hansom cabs, and a killer in the mist. |
+| 2 | **The Sleepy Small Town** — everyone knows everyone, and everyone's hiding something. |
+| 3 | **The Grand Manor** — a sprawling estate, a closed circle of guests, and one body. |
+| 4 | **The Noir Metropolis** — rain-slick neon, crooked cops, and no one to trust. |
+| 5 | **The Elite Boarding School** — privilege, secrets, and a scandal that could ruin them all. |
+| 6 | **The Isolated Retreat** — an island or lodge cut off by the storm, the culprit still inside. |
+| 7 | **The Luxury Train** — a long journey where none of the suspects can get off. |
+| 8 | **The Old University Town** — ancient grudges and scholars who'd kill to be proven right. |
+| 9 | **The Too-Perfect Suburb** — picket fences over a quiet, spreading rot. |
+| 10 | **The Carnival or Theatre** — glamour out front, knives and lies backstage. |
+
 ### Shaping your world
 
 Genre-pointed nudges for the ten World Forge questions (Chapter 14). Answer *these* in your own words — don't just copy an example.

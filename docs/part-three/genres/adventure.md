@@ -89,6 +89,23 @@ Adventure bends easily. Pick a flavor to point your world somewhere specific —
 
 > **Blend it (your secondary genre).** Anchor in Adventure and fold in a second genre for spice (see *Blending Genres* in the [overview](../15-genres.md)). **Adventure + Mystery** is a treasure hunt where the map is a riddle and someone's lying about it. **Adventure + Horror** sends the expedition into a ruin that doesn't want to let them leave. **Adventure + Caper** is the daring grab — steal the relic out from under the rival expedition. Keep the *forward momentum* in the lead and let the second genre color the danger.
 
+### Settings
+
+*A d10 of settings that pair naturally with Adventure — pick one or roll, then forge your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
+
+| d10 | Setting |
+|---|---|
+| 1 | **Castles & Kingdoms** — a classic high-fantasy realm of knights, crowns, and dragons. |
+| 2 | **The Untamed Frontier** — a half-mapped wild edge, full of fortune and danger. |
+| 3 | **The Steampunk City** — brass, steam, and clockwork, with airships over the smog. |
+| 4 | **The Magic School** — a hidden academy of spellcraft, secrets, and student trouble. |
+| 5 | **The Pirate Archipelago** — a thousand islands, sea monsters, and buried treasure. |
+| 6 | **The Desert World** — sun-blasted dunes, scarce water, and ruins beneath the sand. |
+| 7 | **The Floating Isles** — sky-islands linked by airship and rope-bridge, high above the clouds. |
+| 8 | **The Mythic Wilds** — a primeval land of giant beasts, old spirits, and sleeping gods. |
+| 9 | **The Lost Jungle** — overgrown temples, rival expeditions, and traps that still work. |
+| 10 | **The Underground Realm** — vast caverns, deep holds, and things that fear the light. |
+
 ### Shaping your world
 
 Genre-pointed nudges for the ten World Forge questions (Chapter 14). Answer *these* in your own words — don't just copy an example.

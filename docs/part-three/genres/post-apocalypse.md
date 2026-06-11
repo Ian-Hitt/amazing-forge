@@ -86,6 +86,23 @@ Pick a flavor to set what ended the world and how it feels to live in the after:
 
 > **Blend it (your secondary genre).** Some of the best post-apocalyptic stories anchor here and fold in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Post-Apocalypse + Horror** fills the ruins with something that hunts — the wasteland isn't empty. **Post-Apocalypse + Sci-Fi** is the world the *machines* won, or strange new tech rising from the ashes. **Post-Apocalypse + Mystery** asks *what actually happened* — piecing together the cause of the collapse from what's left. **Post-Apocalypse + Adventure** is the great expedition: a perilous trek across the wasteland toward a rumored haven. Keep the *scarcity and rebuilding* in the lead and let the second genre sharpen the danger.
 
+### Settings
+
+*A d10 of settings that pair naturally with Post-Apocalypse — pick one or roll, then forge your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
+
+| d10 | Setting |
+|---|---|
+| 1 | **The Wasteland Highway** — sun-blasted roads, scrap-built rigs, and gangs fighting for fuel. |
+| 2 | **The Overgrown City** — skyscrapers under vines, deer in the malls, nature taking it back. |
+| 3 | **The Frozen World** — endless winter, deep snow, and warmth the rarest treasure. |
+| 4 | **The Walled Settlement** — a fragile haven of survivors, one bad season from collapse. |
+| 5 | **The Flooded World** — drowned cities, rooftops and boats, and what swims below. |
+| 6 | **After the Machines** — a world the AI won; survivors hide from what they built. |
+| 7 | **The Plague-Emptied Land** — a great sickness took nearly everyone; the few left are wary. |
+| 8 | **The Opening Vault** — a sealed bunker meeting the surface for the first time in years. |
+| 9 | **The Scavenger Sprawl** — a shantytown built from the bones of an old mall or port. |
+| 10 | **The Blighted Zone** — a poisoned, mutated region everyone skirts — and the heroes must cross. |
+
 ### Shaping your world
 
 Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your own words — don't just copy an example.
