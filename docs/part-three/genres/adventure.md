@@ -147,55 +147,41 @@ Genre-pointed nudges for the ten World Forge questions (Chapter 14). Answer *the
 
 ### The Adventure Asset table (d100)
 
-| d100 | Asset | d100 | Asset |
-|---|---|---|---|
-| 1 | A Trusty Sword | 51 | A Keen Eye for Detail |
-| 2 | A Worn Leather Whip | 52 | A Sharp Sense of Direction |
-| 3 | A Grappling Hook & Rope | 53 | A Knack for Languages |
-| 4 | A Captain's Spyglass | 54 | Travelers' Tales (a story for every place) |
-| 5 | An Heirloom Compass | 55 | Reading Old Maps |
-| 6 | A Half-Finished Treasure Map | 56 | Knowledge of Ruins & Relics |
-| 7 | A Sturdy Climbing Kit | 57 | A Scholar's Memory for Facts |
-| 8 | A Loyal Warhorse | 58 | Friends in Far-Flung Places |
-| 9 | A Faithful Hunting Hawk | 59 | Bartering & Haggling |
-| 10 | A Clever Pack-Mule | 60 | Inspiring Courage |
-| 11 | A Loyal Dog with a Good Nose | 61 | A Commanding Voice |
-| 12 | A Small, Fast Sailboat | 62 | A Cool Head in a Crisis |
-| 13 | A Battered but Reliable Wagon | 63 | Nerves of Steel |
-| 14 | A Set of Lockpicks | 64 | Rallying the Group |
-| 15 | A Flint-and-Steel That Never Fails | 65 | A Trustworthy Reputation |
-| 16 | A Surprisingly Roomy Backpack | 66 | Quick Thinking on the Fly |
-| 17 | A Coil of Unbreakable Rope | 67 | A Talent for Improvised Plans |
-| 18 | A Sharp Hunting Knife | 68 | Sleight of Hand |
-| 19 | A Trusty Bow & Quiver | 69 | Moving Quietly |
-| 20 | A Sling & a Pocket of Stones | 70 | Blending Into a Crowd |
-| 21 | A Sturdy Quarterstaff | 71 | A Convincing Bluff |
-| 22 | A Great Tower Shield | 72 | Spotting a Liar |
-| 23 | Well-Worn Travel Leathers | 73 | First Aid & Field Medicine |
-| 24 | A Hat for Any Weather | 74 | Knowledge of Healing Herbs |
-| 25 | A Lantern That Burns in the Wind | 75 | A Steady Hand for Stitching Wounds |
-| 26 | Acrobatics | 76 | A Bag of Handy Tools |
-| 27 | Expert Climbing | 77 | Quick Repairs |
-| 28 | Strong Swimming | 78 | Knows How Machines Work |
-| 29 | A Mighty Leap | 79 | A Clever Homemade Gadget |
-| 30 | An Iron Grip | 80 | Building & Rigging |
-| 31 | Tireless Stamina | 81 | A Pet Monkey with Nimble Hands |
-| 32 | Fast Running | 82 | A Sure-Footed Mountain Goat to Ride |
-| 33 | Perfect Balance | 83 | A Camel for the Deep Desert |
-| 34 | Quick Reflexes | 84 | A Trained Messenger Pigeon |
-| 35 | Tracking | 85 | A Small Dragon Hatchling (a handful) |
-| 36 | Wilderness Survival | 86 | A Mentor's Voice in Your Head |
-| 37 | Reading the Weather | 87 | A Trinket That Always Points Home |
-| 38 | Foraging for Food & Water | 88 | A Charm That Glows Near Danger |
-| 39 | Making Camp Anywhere | 89 | A Cloak That Blends With Stone |
-| 40 | Navigation by the Stars | 90 | Boots That Never Tire |
-| 41 | Cave & Tunnel Sense | 91 | A Whistle Only Animals Hear |
-| 42 | Animal Handling | 92 | A Coin That Always Comes Back |
-| 43 | Calming Wild Beasts | 93 | A Map That Slowly Fills Itself In |
-| 44 | Horsemanship | 94 | A Pocketful of Useful Junk |
-| 45 | Sailing & Knots | 95 | A Reputation That Opens Doors |
-| 46 | Rowing & River-Craft | 96 | A Debt Owed by Someone Powerful |
-| 47 | Driving a Wagon Team | 97 | A Secret Pass Through the Mountains |
-| 48 | Fishing | 98 | A Knack for Falling & Surviving |
-| 49 | Hunting & Trapping | 99 | An Unsinkable Optimism |
-| 50 | Trail Cooking | 100 | A Battle-Cry That Turns Heads |
+*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds, and a roll of **100** just means roll again. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+
+| d100 | Asset |
+|---|---|
+| 1–3 | A Trusty Sword *(or the weapon you favor)* |
+| 4–6 | A Trusty Bow & Quiver |
+| 7–9 | A Sharp Hunting Knife |
+| 10–12 | A Great Tower Shield |
+| 13–15 | A Grappling Hook & Rope |
+| 16–18 | A Lantern That Burns in the Wind |
+| 19–21 | A Surprisingly Roomy Backpack |
+| 22–24 | A Half-Finished Treasure Map |
+| 25–27 | A Set of Lockpicks |
+| 28–30 | A Loyal Warhorse |
+| 31–33 | A Loyal Dog with a Good Nose |
+| 34–36 | A Faithful Hunting Hawk |
+| 37–39 | Acrobatic & Sure-Footed |
+| 40–42 | An Iron Grip |
+| 43–45 | Wilderness Survival |
+| 46–48 | Tracking |
+| 49–51 | Navigation by the Stars |
+| 52–54 | Animal Handling |
+| 55–57 | A Convincing Bluff |
+| 58–60 | Bartering & Haggling |
+| 61–63 | A Commanding Voice |
+| 64–66 | Spotting a Liar |
+| 67–69 | Travelers' Tales *(a story for every place)* |
+| 70–72 | Knowledge of Ruins & Relics |
+| 73–75 | Moving Quietly |
+| 76–78 | Sleight of Hand |
+| 79–81 | First Aid & Field Medicine |
+| 82–84 | A Clever Homemade Gadget |
+| 85–87 | Nerves of Steel |
+| 88–90 | A Mentor's Voice in Your Head |
+| 91–93 | A Charm That Glows Near Danger |
+| 94–96 | A Debt Owed by Someone Powerful |
+| 97–99 | A Small Dragon Hatchling *(a handful)* |
+| 100 | **Roll again** |

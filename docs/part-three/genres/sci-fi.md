@@ -146,55 +146,41 @@ Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your ow
 
 ### The Sci-Fi Asset table (d100)
 
-| d100 | Asset | d100 | Asset |
-|---|---|---|---|
-| 1 | A Jury-Rigged Blaster | 51 | Surviving Hostile Atmospheres |
-| 2 | A Stun Baton | 52 | Finding Water on Any World |
-| 3 | A Plasma Cutter | 53 | Navigating an Asteroid Field |
-| 4 | A Multi-Tool | 54 | Spacewalking (EVA) Calm |
-| 5 | A Portable Scanner | 55 | Holding Air a Long Time |
-| 6 | A Datapad of Schematics | 56 | Tolerance for High G |
-| 7 | A Holographic Map Projector | 57 | Quick Reflexes |
-| 8 | A Universal Translator | 58 | Grace Under Fire |
-| 9 | An Encrypted Comm-Link | 59 | A Cool Head in a Vacuum |
-| 10 | A Med-Kit That's Seen Things | 60 | Sharp Eyes at Long Range |
-| 11 | A Vacuum-Rated Hardsuit | 61 | A Marksman's Aim |
-| 12 | A Magnetic Grapnel | 62 | Close-Quarters Training |
-| 13 | A Cloaking Poncho | 63 | Takes Cover Instinctively |
-| 14 | Anti-Grav Boots | 64 | A Built-In Database |
-| 15 | A Pocket Force-Field Emitter | 65 | Doesn't Need to Breathe |
-| 16 | A Beat-Up Starfighter | 66 | Doesn't Feel Pain |
-| 17 | A Cargo Hauler With Secrets | 67 | Perfect Recall |
-| 18 | A Fast Hover-Bike | 68 | Lightning Calculation |
-| 19 | A Loyal Repair Drone | 69 | Sees in Infrared |
-| 20 | A Sarcastic AI Companion | 70 | Enhanced Hearing |
-| 21 | A Trained Alien Pet | 71 | A Data-Jack Implant |
-| 22 | A Salvaged Combat Bot | 72 | A Subdermal Tool-Kit |
-| 23 | Ace Piloting | 73 | A Targeting Eye |
-| 24 | Astrogation (plotting jumps) | 74 | Reinforced Limbs |
-| 25 | Zero-G Maneuvering | 75 | A Silver Tongue on Open Channels |
-| 26 | Driving Anything With Wheels | 76 | Reads a Crowd |
-| 27 | Slicing (hacking) Systems | 77 | Talks Past Security |
-| 28 | Bypassing Security Locks | 78 | Bluffs a Checkpoint |
-| 29 | Reading Any Signal | 79 | Negotiating With Pirates |
-| 30 | Decrypting Codes | 80 | A Trustworthy Comms Voice |
-| 31 | Programming on the Fly | 81 | Knows the Underlevels |
-| 32 | Interfacing With Machines | 82 | A Network of Contacts |
-| 33 | Jury-Rig Anything | 83 | Friends on Every Station |
-| 34 | Repairing Engines | 84 | Hidden Smuggler's Compartments |
-| 35 | Rerouting Power | 85 | Forged Credentials |
-| 36 | Patching a Hull Breach | 86 | A Captain's Authorization Codes |
-| 37 | Building Gadgets From Scrap | 87 | A Debt Owed by a Crime Boss |
-| 38 | Knows Every System Cold | 88 | An Inside Line at the Corporation |
-| 39 | Overclocking Tech (carefully) | 89 | A Map of the Maintenance Tunnels |
-| 40 | Disarming Devices | 90 | Knows the Patrol Schedules |
-| 41 | Strange Biology (xeno-life) | 91 | A Salvager's Eye for Value |
-| 42 | Field Surgery | 92 | Appraising Alien Tech |
-| 43 | Xeno-Medicine | 93 | A Lucky Wrench (your dad's) |
-| 44 | Diagnosing a Malfunction | 94 | A Strange Artifact You Don't Get |
-| 45 | Chemistry & Compounds | 95 | A Ship's Cat That Hates Trouble |
-| 46 | Physics of the Impossible | 96 | A Reputation as the Best |
-| 47 | Robotics & AI Theory | 97 | A Bounty People Respect |
-| 48 | Deep-Space Lore | 98 | An Implant You Didn't Choose |
-| 49 | Reading Alien Languages | 99 | Surviving Explosions |
-| 50 | Surveying Strange Worlds | 100 | An Old Earth Song That Calms Everyone |
+*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds, and a roll of **100** just means roll again. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+
+| d100 | Asset |
+|---|---|
+| 1–3 | A Jury-Rigged Blaster |
+| 4–6 | A Multi-Tool |
+| 7–9 | A Portable Scanner |
+| 10–12 | A Universal Translator |
+| 13–15 | An Encrypted Comm-Link |
+| 16–18 | A Med-Kit That's Seen Things |
+| 19–21 | A Vacuum-Rated Hardsuit |
+| 22–24 | Anti-Grav Boots |
+| 25–27 | A Beat-Up Starfighter |
+| 28–30 | A Loyal Repair Drone |
+| 31–33 | A Sarcastic AI Companion |
+| 34–36 | A Trained Alien Pet |
+| 37–39 | Ace Piloting |
+| 40–42 | Astrogation *(plotting jumps)* |
+| 43–45 | Zero-G Maneuvering |
+| 46–48 | Slicing *(hacking)* Systems |
+| 49–51 | Interfacing With Machines |
+| 52–54 | Jury-Rig Anything |
+| 55–57 | Rerouting Power |
+| 58–60 | Strange Biology *(xeno-life)* |
+| 61–63 | Field Surgery |
+| 64–66 | Deep-Space Lore |
+| 67–69 | Reading Alien Languages |
+| 70–72 | Surviving Hostile Atmospheres |
+| 73–75 | Spacewalking *(EVA)* Calm |
+| 76–78 | Quick Reflexes |
+| 79–81 | Doesn't Need to Breathe |
+| 82–84 | Lightning Calculation |
+| 85–87 | A Silver Tongue on Open Channels |
+| 88–90 | Knows the Underlevels |
+| 91–93 | A Network of Contacts |
+| 94–96 | Forged Credentials |
+| 97–99 | A Strange Artifact You Don't Get |
+| 100 | **Roll again** |

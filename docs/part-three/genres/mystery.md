@@ -143,55 +143,41 @@ Genre-pointed nudges for the ten World Forge questions (Chapter 14). Answer *the
 
 ### The Mystery Asset table (d100)
 
-| d100 | Asset | d100 | Asset |
-|---|---|---|---|
-| 1 | A Magnifying Glass | 51 | Old Family Ties |
-| 2 | A Reporter's Notebook | 52 | A Favor Owed by the Coroner |
-| 3 | A Pocket Camera | 53 | An Ear at the Tavern |
-| 4 | A Set of Lockpicks | 54 | A Contact in the Records Office |
-| 5 | A Forensic Field Kit | 55 | Access to the Archives |
-| 6 | A Pair of Sharp Spectacles | 56 | Knows the City's Back Alleys |
-| 7 | A Hidden Pocket Recorder | 57 | Knows the Building's Routines |
-| 8 | A Trench Coat With Many Pockets | 58 | Knowledge of Law & Loopholes |
-| 9 | A Press Pass | 59 | Obscure Local History |
-| 10 | A Police-Scanner Radio | 60 | Knowledge of Poisons |
-| 11 | A Ring of Skeleton Keys | 61 | Medical Know-How |
-| 12 | A Dusting-for-Prints Kit | 62 | Reading Old Documents |
-| 13 | A Tiny Mirror on a Stick | 63 | Knowledge of Forgery & Fakes |
-| 14 | A Trusty Bloodhound | 64 | Appraising Valuables |
-| 15 | A Watchful Pet Crow | 65 | Knowledge of the Underworld |
-| 16 | A Cat That Goes Everywhere | 66 | Following the Money |
-| 17 | An Eye for Detail | 67 | Occult & Superstition Lore |
-| 18 | A Photographic Memory | 68 | A Scholar's Library at Home |
-| 19 | Logical Deduction | 69 | A Filing System Only You Get |
-| 20 | Spotting a Liar | 70 | A Map of Who Knows Whom |
-| 21 | Reading Body Language | 71 | A Cool Head Under Suspicion |
-| 22 | Noticing What's Out of Place | 72 | Patience for the Long Stakeout |
-| 23 | A Head for Patterns | 73 | Composure When Accused |
-| 24 | Connecting Distant Dots | 74 | A Poker Face |
-| 25 | Remembering Every Face | 75 | Quick Thinking When Cornered |
-| 26 | Eavesdropping Unnoticed | 76 | Talking Your Way Out of Trouble |
-| 27 | Tailing Someone Quietly | 77 | Slipping Away in a Crowd |
-| 28 | Picking Locks | 78 | Blending Into the Background |
-| 29 | Picking Pockets | 79 | Looking Like You Belong |
-| 30 | Searching a Room Fast | 80 | A Convincing Disguise |
-| 31 | Cracking Codes & Ciphers | 81 | A Wardrobe of Useful Costumes |
-| 32 | Forging a Convincing Note | 82 | Overlooked & Underestimated |
-| 33 | Reading Upside-Down | 83 | Small Enough to Slip Through |
-| 34 | Lip-Reading | 84 | A Pet That Carries Messages |
-| 35 | A Knack for the Right Question | 85 | A Knack for Being in the Right Place |
-| 36 | Gentle Interrogation | 86 | A Sixth Sense for Trouble |
-| 37 | A Disarming Smile | 87 | Reading a Crime Scene |
-| 38 | A Way With Words | 88 | Reconstructing What Happened |
-| 39 | Getting Strangers to Open Up | 89 | Telling Time by the Light |
-| 40 | A Shoulder to Cry On | 90 | Tracking Muddy Footprints |
-| 41 | Calming a Panicked Witness | 91 | A Steady Hand for Delicate Work |
-| 42 | Talking Past a Guard | 92 | Always Carries a Light |
-| 43 | A Trustworthy Face | 93 | A Secret Past in the Trade |
-| 44 | Bluffing With Confidence | 94 | A Detective Hero's Methods |
-| 45 | Playing Dumb on Purpose | 95 | A Half-Burned Letter You Kept |
-| 46 | Knows Everyone in Town | 96 | A Mysterious Key You Can't Place |
-| 47 | A Nose for Gossip | 97 | A Debt the Mayor Would Forget |
-| 48 | Friends in Low Places | 98 | An Alibi Nobody Questions |
-| 49 | Friends in High Places | 99 | A Reputation for Always Being Right |
-| 50 | A Reliable Informant | 100 | A Gut Feeling That's Usually Right |
+*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds, and a roll of **100** just means roll again. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+
+| d100 | Asset |
+|---|---|
+| 1–3 | A Magnifying Glass |
+| 4–6 | A Reporter's Notebook |
+| 7–9 | A Forensic Field Kit |
+| 10–12 | A Ring of Skeleton Keys |
+| 13–15 | A Trench Coat With Many Pockets |
+| 16–18 | A Trusty Bloodhound |
+| 19–21 | A Watchful Pet Crow |
+| 22–24 | An Eye for Detail |
+| 25–27 | A Photographic Memory |
+| 28–30 | Spotting a Liar |
+| 31–33 | Connecting Distant Dots |
+| 34–36 | Eavesdropping Unnoticed |
+| 37–39 | Tailing Someone Quietly |
+| 40–42 | Cracking Codes & Ciphers |
+| 43–45 | Lip-Reading |
+| 46–48 | A Knack for the Right Question |
+| 49–51 | A Disarming Smile |
+| 52–54 | A Shoulder to Cry On |
+| 55–57 | Playing Dumb on Purpose |
+| 58–60 | Knows Everyone in Town |
+| 61–63 | A Reliable Informant |
+| 64–66 | Access to the Archives |
+| 67–69 | Knowledge of Poisons |
+| 70–72 | Knowledge of Forgery & Fakes |
+| 73–75 | Following the Money |
+| 76–78 | A Cool Head Under Suspicion |
+| 79–81 | Overlooked & Underestimated |
+| 82–84 | A Convincing Disguise |
+| 85–87 | Reading a Crime Scene |
+| 88–90 | Reconstructing What Happened |
+| 91–93 | A Sixth Sense for Trouble |
+| 94–96 | A Half-Burned Letter You Kept |
+| 97–99 | A Mysterious Key You Can't Place |
+| 100 | **Roll again** |

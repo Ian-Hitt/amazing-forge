@@ -145,55 +145,41 @@ Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your ow
 
 ### The Post-Apocalypse Asset table (d100)
 
-| d100 | Asset | d100 | Asset |
-|---|---|---|---|
-| 1 | A Trusty Machete | 51 | Hotwiring an Engine |
-| 2 | A Scoped Hunting Rifle (a Few Bullets) | 52 | Patching an Engine With Junk |
-| 3 | A Nail-Studded Bat | 53 | Reloading Spent Ammo |
-| 4 | A Crossbow That Reuses Its Bolts | 54 | Picking a Rusted Lock |
-| 5 | A Reliable Revolver | 55 | Knows Where to Scavenge |
-| 6 | A Sturdy Crowbar | 56 | Spotting a Trap From Habit |
-| 7 | A Length of Heavy Chain | 57 | Repairing Old Electronics |
-| 8 | A Homemade Spear | 58 | Wiring a Trip-Alarm |
-| 9 | A Salvaged Riot Shield | 59 | Distilling Fuel From Scraps |
-| 10 | A Set of Throwing Knives | 60 | Reading Faded Old-World Signs |
-| 11 | A Slingshot & a Pocket of Bearings | 61 | Nerves That Don't Crack |
-| 12 | A Can of Improvised Tear-Spray | 62 | A Mean Right Hook |
-| 13 | A Battered Gas Mask | 63 | Fighting Dirty to Survive |
-| 14 | A Hand-Crank Flashlight | 64 | Holding Firm When Outnumbered |
-| 15 | A Water Filter That Still Works | 65 | A Quick Draw |
-| 16 | A Roll of Duct Tape | 66 | Covering a Retreat |
-| 17 | A Trusty Multi-Tool | 67 | Taking a Hit and Staying Up |
-| 18 | A Bedroll & Tarp | 68 | Knowing Exactly When to Run |
-| 19 | A First-Aid Tin | 69 | A Trustworthy Face Among Strangers |
-| 20 | A Clicking Geiger Counter | 70 | Bartering for a Fair Trade |
-| 21 | A Box of Waterproof Matches | 71 | Talking Down a Twitchy Gunman |
-| 22 | A Compass & a Hand-Drawn Map | 72 | Rallying a Frightened Group |
-| 23 | A Pair of Sturdy Boots | 73 | Spotting a Liar in a Deal |
-| 24 | A Gas Can (Half Full) | 74 | Knows the Safe Settlements |
-| 25 | A Patched-Together Motorbike | 75 | A Contact in Every Camp |
-| 26 | A Rust-Bucket Pickup Truck | 76 | A Reputation for Fair Dealing |
-| 27 | A Reliable Bicycle | 77 | Keeping the Peace in Camp |
-| 28 | A Loaded Shopping Cart | 78 | Sharing the Last of What You Have |
-| 29 | A Stubborn Pack Mule | 79 | A Knack for Finding Survivors |
-| 30 | A Rowboat With Oars | 80 | Leading by Example, Not Fear |
-| 31 | A Horse Nobody Else Could Tame | 81 | A Loyal Guard Dog |
-| 32 | A Set of Roller-Skates | 82 | A Watchful Pet Crow |
-| 33 | Foraging Safe Food | 83 | A Cat That Catches the Rats |
-| 34 | Trapping Small Game | 84 | A Goat That Eats Anything |
-| 35 | Purifying Water | 85 | A Tamed Wasteland Beast |
-| 36 | Reading the Weather | 86 | A Kid You Look After |
-| 37 | Starting a Fire in the Rain | 87 | A Working Radio (and a Voice Out There) |
-| 38 | Building a Shelter Fast | 88 | A Photo of the Way Things Were |
-| 39 | Field-Dressing a Wound | 89 | A Pre-Collapse Medical Kit |
-| 40 | Setting a Broken Bone | 90 | A Hidden Supply Cache |
-| 41 | Knowing Which Plants Heal | 91 | A Stockpile of Clean Water |
-| 42 | Knowing Which Plants Kill | 92 | A Tin of Heirloom Seeds |
-| 43 | Rationing to the Last Crumb | 93 | A Book of Old-World Know-How |
-| 44 | Mending Torn Clothes & Gear | 94 | A Map to a Rumored Safe Haven |
-| 45 | Reading Tracks & Trails | 95 | A Battery That Still Holds a Charge |
-| 46 | Navigating by the Stars | 96 | A Solar Charger That Works |
-| 47 | Hiding a Camp From Raiders | 97 | A Beat-Up Guitar (and the Heart to Play It) |
-| 48 | Sensing Trouble Coming | 98 | A Promise to Someone Who's Gone |
-| 49 | An Eye for Useful Scrap | 99 | A Reason to Keep Going |
-| 50 | Jury-Rigging Anything | 100 | An Unbreakable Hope |
+*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds, and a roll of **100** just means roll again. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+
+| d100 | Asset |
+|---|---|
+| 1–3 | A Crossbow That Reuses Its Bolts |
+| 4–6 | A Salvaged Riot Shield |
+| 7–9 | A Battered Gas Mask |
+| 10–12 | A Water Filter That Still Works |
+| 13–15 | A Clicking Geiger Counter |
+| 16–18 | A Compass & a Hand-Drawn Map |
+| 19–21 | A Patched-Together Motorbike |
+| 22–24 | A Rust-Bucket Pickup Truck |
+| 25–27 | A Loaded Shopping Cart |
+| 28–30 | Foraging Safe Food |
+| 31–33 | Purifying Water |
+| 34–36 | Field-Dressing a Wound |
+| 37–39 | Knowing Which Plants Heal |
+| 40–42 | Knowing Which Plants Kill |
+| 43–45 | Rationing to the Last Crumb |
+| 46–48 | Reading Tracks & Trails |
+| 49–51 | Hiding a Camp From Raiders |
+| 52–54 | An Eye for Useful Scrap |
+| 55–57 | Jury-Rigging Anything |
+| 58–60 | Hotwiring an Engine |
+| 61–63 | Knows Where to Scavenge |
+| 64–66 | Distilling Fuel From Scraps |
+| 67–69 | Holding Firm When Outnumbered |
+| 70–72 | Covering a Retreat |
+| 73–75 | Bartering for a Fair Trade |
+| 76–78 | Talking Down a Twitchy Gunman |
+| 79–81 | Rallying a Frightened Group |
+| 82–84 | Knows the Safe Settlements |
+| 85–87 | A Loyal Guard Dog |
+| 88–90 | A Working Radio *(and a Voice Out There)* |
+| 91–93 | A Pre-Collapse Medical Kit |
+| 94–96 | A Tin of Heirloom Seeds |
+| 97–99 | A Beat-Up Guitar *(and the Heart to Play It)* |
+| 100 | **Roll again** |

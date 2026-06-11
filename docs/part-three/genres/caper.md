@@ -143,55 +143,41 @@ Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your ow
 
 ### The Caper Asset table (d100)
 
-| d100 | Asset | d100 | Asset |
-|---|---|---|---|
-| 1 | A Roll of Lockpicks | 51 | Reads the Angles |
-| 2 | A Stethoscope for Safes | 52 | Thinks Three Moves Ahead |
-| 3 | A Set of Skeleton Keys | 53 | Quick on Their Feet |
-| 4 | A Bag of Gadgets | 54 | Always Has an Out |
-| 5 | A Lockpick Gun | 55 | Cool Under Pressure |
-| 6 | A Glass Cutter | 56 | Ice in the Veins |
-| 7 | A Grappling Line & Harness | 57 | A Steady Hand |
-| 8 | A Smoke Pellet or Two | 58 | Nerves That Never Crack |
-| 9 | A Tiny Camera Jammer | 59 | Picking Pockets |
-| 10 | A Signal Scrambler | 60 | Palming Small Objects |
-| 11 | A Forged ID Badge | 61 | The Switcheroo (swapping things) |
-| 12 | A Wardrobe of Disguises | 62 | Forging a Signature |
-| 13 | A Convincing Uniform | 63 | Counterfeiting Documents |
-| 14 | A Briefcase With a False Bottom | 64 | Appraising the Loot |
-| 15 | A Set of Fake Credentials | 65 | Knows What's Valuable |
-| 16 | A Concealed Earpiece | 66 | Knows a Fence for Anything |
-| 17 | A Fast Getaway Car | 67 | Knows a Guy for Everything |
-| 18 | A Van Full of Screens | 68 | Friends Among the Staff |
-| 19 | A Quiet Motorcycle | 69 | A Contact in the Security Office |
-| 20 | Light Fingers | 70 | An Inside Source |
-| 21 | Sleight of Hand | 71 | A Favor Owed by a Crook |
-| 22 | Cracks Any Lock | 72 | A Debt Held Over a Rich Man |
-| 23 | Defeats Alarm Systems | 73 | Knows the Building's Routines |
-| 24 | Hacks Any System | 74 | An Employee Badge & Keycard |
-| 25 | Loops the Security Cameras | 75 | A Master Key |
-| 26 | Bypasses Keypads | 76 | The Boss's Private Schedule |
-| 27 | Reads a Floor Plan at a Glance | 77 | Drives Anything |
-| 28 | Casing a Place Unnoticed | 78 | Knows Every Backstreet |
-| 29 | Spotting the Weak Point | 79 | A Daredevil Behind the Wheel |
-| 30 | Memorizing Patrol Routes | 80 | Loses a Tail in Traffic |
-| 31 | Timing a Window Perfectly | 81 | A Boat Waiting at the Docks |
-| 32 | Moving Silently | 82 | A Safehouse Nobody Knows |
-| 33 | Climbing Sheer Walls | 83 | A Stash of Emergency Cash |
-| 34 | Squeezing Through Vents | 84 | A Burner-Phone Network |
-| 35 | Holding Perfectly Still | 85 | A Loyal Lookout |
-| 36 | Hiding in Plain Sight | 86 | A Pet That Steals Shiny Things |
-| 37 | Blending Into the Staff | 87 | A Charming Accomplice |
-| 38 | Looking Like You Belong | 88 | A Reputation in the Underworld |
-| 39 | A Convincing Lie | 89 | A Knack for Being Underestimated |
-| 40 | Effortless Charm | 90 | A Cover Story for Every Occasion |
-| 41 | A Disarming Smile | 91 | A Trick Coin & Card Up the Sleeve |
-| 42 | Talking Past Security | 92 | Acrobatic Escapes |
-| 43 | Distracting a Guard | 93 | A Cool Catchphrase (buys a beat) |
-| 44 | Working a Room | 94 | A Photographic Memory for Faces |
-| 45 | Reads People Instantly | 95 | Knows Exactly When to Run |
-| 46 | Spotting a Tail | 96 | An Eye for Hidden Cameras |
-| 47 | Keeping a Poker Face | 97 | A Knack for Opening Anything |
-| 48 | Bluffing With Total Confidence | 98 | Vanishing in a Crowd |
-| 49 | Improvises When It Goes Wrong | 99 | A Last-Second Plan B |
-| 50 | A Talent for Plans | 100 | A Crew That Always Has Your Back |
+*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds, and a roll of **100** just means roll again. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+
+| d100 | Asset |
+|---|---|
+| 1–3 | A Roll of Lockpicks |
+| 4–6 | A Bag of Gadgets |
+| 7–9 | A Forged ID Badge |
+| 10–12 | A Wardrobe of Disguises |
+| 13–15 | A Concealed Earpiece |
+| 16–18 | A Van Full of Screens |
+| 19–21 | A Fast Getaway Car |
+| 22–24 | Sleight of Hand |
+| 25–27 | The Switcheroo *(swapping things)* |
+| 28–30 | Cracks Any Lock |
+| 31–33 | Defeats Alarm Systems |
+| 34–36 | Hacks Any System |
+| 37–39 | Loops the Security Cameras |
+| 40–42 | Reads a Floor Plan at a Glance |
+| 43–45 | Timing a Window Perfectly |
+| 46–48 | Moving Silently |
+| 49–51 | Squeezing Through Vents |
+| 52–54 | Hiding in Plain Sight |
+| 55–57 | A Convincing Lie |
+| 58–60 | Effortless Charm |
+| 61–63 | Reads People Instantly |
+| 64–66 | Bluffing With Total Confidence |
+| 67–69 | Ice in the Veins |
+| 70–72 | A Talent for Plans |
+| 73–75 | Thinks Three Moves Ahead |
+| 76–78 | Improvises When It Goes Wrong |
+| 79–81 | Forging a Signature |
+| 82–84 | Knows a Fence for Anything |
+| 85–87 | A Contact in the Security Office |
+| 88–90 | The Boss's Private Schedule |
+| 91–93 | A Master Key |
+| 94–96 | A Safehouse Nobody Knows |
+| 97–99 | A Knack for Being Underestimated |
+| 100 | **Roll again** |

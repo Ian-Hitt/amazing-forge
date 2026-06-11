@@ -147,57 +147,43 @@ Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your ow
 
 ### The Drama Asset table (d100)
 
-| d100 | Asset | d100 | Asset |
-|---|---|---|---|
-| 1 | A Way With Words | 51 | A Sharp Tongue |
-| 2 | Effortless Charm | 52 | Refuses to Lose |
-| 3 | A Cutting Wit | 53 | Plays the Long Game |
-| 4 | A Disarming Smile | 54 | Patience for a Slow Plan |
-| 5 | A Honeyed Lie | 55 | Three Moves Ahead |
-| 6 | A Heartfelt Apology | 56 | Turns Enemies Into Allies |
-| 7 | A Grand Romantic Gesture | 57 | Turns the Crowd in a Sentence |
-| 8 | A Killer Comeback | 58 | Wins an Argument Cold |
-| 9 | A Soothing Voice | 59 | Negotiates a Truce |
-| 10 | A Commanding Presence | 60 | Talks Anyone Into Anything |
-| 11 | Reads People Like a Book | 61 | A Dazzling Talent (music, sport) |
-| 12 | Reads the Room Instantly | 62 | A Stage Performer's Poise |
-| 13 | Spots a Lie | 63 | A Show-Stopping Voice |
-| 14 | Senses Unspoken Tension | 64 | An Eye for Fashion & Style |
-| 15 | Knows When to Stay Quiet | 65 | Always Looks the Part |
-| 16 | Remembers Every Slight | 66 | A Famous Last Name |
-| 17 | Never Forgets a Favor | 67 | A Wealthy Family |
-| 18 | Notices Who's Watching Whom | 68 | An Influential Mentor |
-| 19 | A Nose for Gossip | 69 | A Powerful Patron |
-| 20 | Knows Everyone's Secrets | 70 | An Old Family Rivalry |
-| 21 | Knows Everyone's Crush | 71 | A Secret Engagement |
-| 22 | A Web of Favors Owed | 72 | A Hidden Talent No One Knows |
-| 23 | Connections in High Places | 73 | A Surprising Secret of Your Own |
-| 24 | Friends in Every Clique | 74 | A Letter You Weren't Meant to Read |
-| 25 | A Spy in the Other Camp | 75 | A Photo That Could Change Everything |
-| 26 | An Ear at Every Door | 76 | An Alibi Someone Owes You |
-| 27 | The Group Chat at Your Fingertips | 77 | Blackmail Material (used gently) |
-| 28 | A Diary of Everything | 78 | A Locket With a Story |
-| 29 | A Memory for Faces | 79 | A Token From a Secret Admirer |
-| 30 | Always Hears It First | 80 | Goes Completely Unnoticed |
-| 31 | Fierce Loyalty | 81 | Overhears Everything |
-| 32 | A Shoulder to Cry On | 82 | Slips Out of Awkward Moments |
-| 33 | Always Knows the Right Thing to Say | 83 | A Quick Excuse for Anything |
-| 34 | Calms Any Argument | 84 | Plays Innocent Perfectly |
-| 35 | Rallies People to a Cause | 85 | Cries on Command |
-| 36 | Brings People Together | 86 | Fakes Composure Flawlessly |
-| 37 | Throws an Unforgettable Party | 87 | A Confidant to the Powerful |
-| 38 | The Perfect Toast | 88 | The Teacher's (or Queen's) Favorite |
-| 39 | A Talent for Matchmaking | 89 | Beloved by the Little Ones |
-| 40 | Keeps a Secret to the Grave | 90 | A Loyal Pet Everyone Adores |
-| 41 | Unshakable Confidence | 91 | Defuses a Scene With Humor |
-| 42 | Grace Under Scrutiny | 92 | A Talent for Heartfelt Speeches |
-| 43 | A Thick Skin | 93 | An Instinct for People's Needs |
-| 44 | Composure When Humiliated | 94 | A Gift for Forgiveness |
-| 45 | Bounces Back From Anything | 95 | The Courage to Say How You Feel |
-| 46 | Owns a Room on Entry | 96 | A Knack for the Dramatic Entrance |
-| 47 | A Devoted Following | 97 | A Flair for the Perfect Exit |
-| 48 | A Reputation for Honesty | 98 | An Unbreakable Inner Circle |
-| 49 | A Reputation for Mystery | 99 | A Reputation You'd Die to Protect |
-| 50 | Everyone Owes You One | 100 | A Heart That Wins People Over |
+*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds, and a roll of **100** just means roll again. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+
+| d100 | Asset |
+|---|---|
+| 1–3 | A Way With Words |
+| 4–6 | Effortless Charm |
+| 7–9 | A Cutting Wit |
+| 10–12 | A Honeyed Lie |
+| 13–15 | A Heartfelt Apology |
+| 16–18 | A Grand Romantic Gesture |
+| 19–21 | Reads People Like a Book |
+| 22–24 | Knows When to Stay Quiet |
+| 25–27 | Never Forgets a Favor |
+| 28–30 | Knows Everyone's Secrets |
+| 31–33 | A Web of Favors Owed |
+| 34–36 | Friends in Every Clique |
+| 37–39 | A Spy in the Other Camp |
+| 40–42 | Always Hears It First |
+| 43–45 | Fierce Loyalty |
+| 46–48 | A Shoulder to Cry On |
+| 49–51 | Keeps a Secret to the Grave |
+| 52–54 | Grace Under Scrutiny |
+| 55–57 | Owns a Room on Entry |
+| 58–60 | A Devoted Following |
+| 61–63 | Three Moves Ahead |
+| 64–66 | Turns the Crowd in a Sentence |
+| 67–69 | A Dazzling Talent *(music, sport)* |
+| 70–72 | Always Looks the Part |
+| 73–75 | A Powerful Patron |
+| 76–78 | A Surprising Secret of Your Own |
+| 79–81 | A Letter You Weren't Meant to Read |
+| 82–84 | Goes Completely Unnoticed |
+| 85–87 | Overhears Everything |
+| 88–90 | Plays Innocent Perfectly |
+| 91–93 | Defuses a Scene With Humor |
+| 94–96 | The Courage to Say How You Feel |
+| 97–99 | A Reputation You'd Die to Protect |
+| 100 | **Roll again** |
 
 > **Drama shows off the whole system.** Almost every scene here is a **Social Confrontation** Challenge (Chapter 8), and Pay the Price is *feelings and standing* — never a beating. It's the clearest proof that *Amazing Forge* isn't just a game about fights: a tense conversation can fill a Challenge Track every bit as dramatically as a sword fight.

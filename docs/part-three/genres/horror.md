@@ -144,55 +144,41 @@ Genre-pointed nudges for the World Forge (Chapter 14). **Set the dial first** �
 
 ### The Horror Asset table (d100)
 
-| d100 | Asset | d100 | Asset |
-|---|---|---|---|
-| 1 | A Bright Flashlight (extra batteries) | 51 | Knowledge of Old Rituals |
-| 2 | A Box of Matches & Candles | 52 | Reads Forbidden Books |
-| 3 | A Lantern That Stays Lit | 53 | Knows What Wards It Off |
-| 4 | A Heavy Wrench | 54 | Knows What It Hates |
-| 5 | A Trusty Crowbar | 55 | Understands the Old Language |
-| 6 | A Baseball Bat | 56 | Studied the Local Legends |
-| 7 | A Pocketknife | 57 | Knowledge of Herbs & Remedies |
-| 8 | A Can of Salt | 58 | Field Medicine Under Pressure |
-| 9 | A Grandmother's Warding Charm | 59 | Sets a Broken Bone |
-| 10 | An Old Iron Key | 60 | Calms a Panicking Friend |
-| 11 | A Silver Locket | 61 | A Soothing Presence |
-| 12 | A Worn Religious Token | 62 | Talks People Off the Ledge |
-| 13 | A Bundle of Dried Herbs | 63 | Rallies the Group's Courage |
-| 14 | A First-Aid Kit | 64 | A Voice That Carries Hope |
-| 15 | A Roll of Duct Tape | 65 | Stands Their Ground |
-| 16 | A Length of Strong Rope | 66 | Pulls Others to Safety |
-| 17 | A Walkie-Talkie Set | 67 | Takes the Hit for a Friend |
-| 18 | An Old Film Camera | 68 | Carries the Wounded |
-| 19 | A Dog-Eared Journal | 69 | Never Leaves Anyone Behind |
-| 20 | A Book of Local Folklore | 70 | A Fierce Protective Streak |
-| 21 | A Loyal Dog That Senses Things | 71 | Been Here Before |
-| 22 | A Cat That Hisses at Nothing | 72 | Survived It Once Already |
-| 23 | A Pet Rat That Knows the Tunnels | 73 | Knows What Works |
-| 24 | Nerves of Steel | 74 | A Hard-Won Calm |
-| 25 | Stays Calm in the Dark | 75 | An Old Scar That Aches Near It |
-| 26 | Doesn't Panic | 76 | A Warning From the Vanished |
-| 27 | A Steady Hand | 77 | A Map of the Safe Routes |
-| 28 | Pushes Through Fear | 78 | Knows Where the Adults Hid Things |
-| 29 | Quick Feet | 79 | A Hidden Bunker Only You Know |
-| 30 | Knows When to Run | 80 | A Secret Way Underground |
-| 31 | Finds the Way Out | 81 | A Birthmark It Reacts To |
-| 32 | Holds Their Breath a Long Time | 82 | Dreams That Show the Future |
-| 33 | Moves Silently | 83 | A Whisper That Warns You |
-| 34 | Hides Well | 84 | An Imaginary Friend (that's real?) |
-| 35 | Squeezes Through Tight Spaces | 85 | A Charm That Grows Cold Near It |
-| 36 | Climbs in a Hurry | 86 | A Mirror That Shows the Truth |
-| 37 | Boards Up a Door Fast | 87 | A Photo That Shouldn't Exist |
-| 38 | Improvises a Barricade | 88 | A Recording of the Sound |
-| 39 | Picks a Lock Under Pressure | 89 | A Piece of the Thing Itself |
-| 40 | Starts a Fire Anywhere | 90 | Salt Lines That Actually Hold |
-| 41 | Senses What's Coming | 91 | A Bell That Drives It Back |
-| 42 | A Sixth Sense for Danger | 92 | A Song That Soothes It |
-| 43 | Notices What's Changed | 93 | A Name It Answers To |
-| 44 | Spots the Thing That's "Off" | 94 | Unshakable Loyalty to the Group |
-| 45 | Sharp Hearing in the Dark | 95 | A Reason to Survive |
-| 46 | Reads the Mood of a Room | 96 | Refuses to Give Up |
-| 47 | Remembers the Layout | 97 | A Stubborn Will to Live |
-| 48 | A Good Sense of Direction | 98 | A Last-Ditch Bravery |
-| 49 | Sees a Little in the Dark | 99 | Survives the Impossible |
-| 50 | Knowledge of Folklore | 100 | A Promise You Intend to Keep |
+*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds, and a roll of **100** just means roll again. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+
+| d100 | Asset |
+|---|---|
+| 1–3 | A Bright Flashlight *(extra batteries)* |
+| 4–6 | A Can of Salt |
+| 7–9 | A Grandmother's Warding Charm |
+| 10–12 | A Dog-Eared Journal |
+| 13–15 | A Walkie-Talkie Set |
+| 16–18 | A Loyal Dog That Senses Things |
+| 19–21 | Stays Calm in the Dark |
+| 22–24 | Pushes Through Fear |
+| 25–27 | Knows When to Run |
+| 28–30 | Moves Silently |
+| 31–33 | Hides Well |
+| 34–36 | Boards Up a Door Fast |
+| 37–39 | Senses What's Coming |
+| 40–42 | Spots the Thing That's "Off" |
+| 43–45 | Sharp Hearing in the Dark |
+| 46–48 | Knowledge of Folklore |
+| 49–51 | Reads Forbidden Books |
+| 52–54 | Knows What Wards It Off |
+| 55–57 | Field Medicine Under Pressure |
+| 58–60 | Calms a Panicking Friend |
+| 61–63 | Stands Their Ground |
+| 64–66 | Never Leaves Anyone Behind |
+| 67–69 | Been Here Before |
+| 70–72 | An Old Scar That Aches Near It |
+| 73–75 | A Map of the Safe Routes |
+| 76–78 | A Hidden Bunker Only You Know |
+| 79–81 | Dreams That Show the Future |
+| 82–84 | An Imaginary Friend *(that's real?)* |
+| 85–87 | A Mirror That Shows the Truth |
+| 88–90 | A Photo That Shouldn't Exist |
+| 91–93 | A Bell That Drives It Back |
+| 94–96 | A Name It Answers To |
+| 97–99 | A Reason to Survive |
+| 100 | **Roll again** |
