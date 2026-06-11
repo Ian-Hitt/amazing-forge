@@ -10,6 +10,7 @@ Inside this Part:
 
 - **Moves Cheatsheet** — every move in the game on a single printable card.
 - **Hero Sheet**, **Quest Tracker Sheet**, and **World Forge Worksheet** — blank, ready to print and fill in.
+- **Cast Sheet** and **Places Sheet** — running logs for the people and places you create as you play, so a memorable NPC or location can come back later.
 - **The Story Engine**, **Three-Act Structure**, and **The Beat Sheet** — optional story-craft tools for shaping a satisfying arc when you want one.
 - **Teaching the Game** — how to get a new table playing fast.
 - **Design Notes** — the *why* behind the rules, for players and designers who want to look under the hood.
