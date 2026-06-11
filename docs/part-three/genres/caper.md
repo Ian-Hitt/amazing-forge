@@ -116,18 +116,44 @@ Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your ow
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll a d8, or just pick.*
+*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 
-| d8 | A Caper waiting to happen |
+| d100 | A Caper waiting to happen |
 |---|---|
-| 1 | A world of haves and have-nots, where the powerful hoard glittering prizes behind "impossible" security. |
-| 2 | Something precious is locked away that arguably belongs to someone else — and the heroes agree. |
-| 3 | A rival crew is after the same score, and it's a race as much as a heist. |
-| 4 | The people in charge are arrogant enough to think they can't be touched. |
-| 5 | A debt, a favor, or a wrong done to the crew that can only be settled with one big job. |
-| 6 | A one-night-only window — a gala, an eclipse, a transfer — when the prize is briefly reachable. |
-| 7 | One of the crew is locked up (or owned), and the only score that matters is breaking them out. |
-| 8 | A mark too clever to rob — so the only way in is to make them *hand it over willingly.* |
+| 1–3 | A world of haves and have-nots, where the powerful hoard glittering prizes behind "impossible" security. |
+| 4–6 | Something precious is locked away that arguably belongs to someone else — and the heroes agree. |
+| 7–9 | A rival crew is after the same score, and it's a race as much as a heist. |
+| 10–12 | The people in charge are arrogant enough to think they can't be touched. |
+| 13–15 | A debt, a favor, or a wrong done to the crew that can only be settled with one big job. |
+| 16–18 | A one-night-only window — a gala, an eclipse, a transfer — when the prize is briefly reachable. |
+| 19–21 | One of the crew is locked up (or owned), and the only score that matters is breaking them out. |
+| 22–24 | A mark too clever to rob — so the only way in is to make them *hand it over willingly.* |
+| 25–27 | An inside contact has gone cold feet, and the crew must decide whether to proceed without them or find a replacement fast. |
+| 28–30 | The client who hired the crew refuses to say what the prize actually *is* — and the job is already in motion. |
+| 31–33 | The vault has never been cracked, but a rumor says someone once got close — and left notes somewhere. |
+| 34–36 | The mark is hosting a party at the target tonight, meaning a hundred witnesses and a narrow window. |
+| 37–39 | Two competing factions both believe the prize is theirs by right, and the crew is quietly working for neither. |
+| 40–42 | The heist has been pulled before — and the last crew was caught; their plan is somewhere in evidence lockup. |
+| 43–45 | The crew owes a powerful fixer a favor, and she's just called it in: one impossible job, no questions asked. |
+| 46–48 | A former member of the crew is now on the security detail protecting the very target the crew is eyeing. |
+| 49–51 | The prize is being auctioned in 48 hours to someone who absolutely cannot be allowed to own it. |
+| 52–54 | There's no physical target — the score is information, and the only copy is in someone's head. |
+| 55–57 | A legendary thief has retired to the straight life, but the crew needs exactly one skill only she has. |
+| 58–60 | The building is under renovation, which means the usual security is offline — but so are the usual routes. |
+| 61–63 | The mark has something that belongs to the heroes' community: taken, not earned, and long overdue for return. |
+| 64–66 | Someone is framing the crew for a job they didn't pull, and the only way to clear their name is to pull the *real* one. |
+| 67–69 | The target rotates locations every few days, and the crew has exactly one more window before it disappears. |
+| 70–72 | A con is already running — the mark is almost convinced — but someone new in town is about to blow the whole cover. |
+| 73–75 | The crew stumbles onto evidence of something much bigger and darker than a score, hidden inside the same vault. |
+| 76–78 | The only way into the target is through the annual charity gala — which means formal wear, false names, and a lot of small talk. |
+| 79–81 | A rival crew's job went wrong and left something dangerous loose — and the original score is still sitting there, unclaimed. |
+| 82–84 | The mark is paranoid, changes routines constantly, and trusts nobody — except one person the heroes can reach. |
+| 85–87 | The security system was designed by someone who once worked with the crew, and it shows. |
+| 88–90 | The crew is hired to *test* security, with full access to the plans — and the prize is right there. |
+| 91–93 | The getaway window is impossibly tight: one specific vehicle, one route, and it leaves whether the crew is on it or not. |
+| 94–96 | Three different people claim to have the key, the map, and the combination — and none of them will talk to the others. |
+| 97–99 | The job is almost too easy, and the crew can't figure out why the mark *wants* them to come in. |
+| 100 | **Roll again** |
 
 ### Archetypes
 

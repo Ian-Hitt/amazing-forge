@@ -116,18 +116,44 @@ Genre-pointed nudges for the ten World Forge questions (Chapter 14). Answer *the
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the case actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll a d8, or just pick.*
+*Situations to mine — your table decides what the case actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 
-| d8 | A Mystery waiting to happen |
+| d100 | A Mystery waiting to happen |
 |---|---|
-| 1 | A town, court, or station where the powerful all got there by knowing each other's secrets — and trade them like coin. |
-| 2 | Something valuable, or someone important, keeps slipping away, and every official explanation is obviously a cover. |
-| 3 | A respected figure isn't who they claim to be, and a few people quietly know it. |
-| 4 | The heroes are the only ones *asking* — everyone else has a reason to let it lie. |
-| 5 | An old case everyone "solved" years ago, with one detail that never fit. |
-| 6 | A locked-room impossibility: it plainly happened, and just as plainly couldn't have. |
-| 7 | A message, map, or confession arrives from someone who's just vanished — or just died. |
-| 8 | Two clues point at two different culprits, and both alibis are airtight. |
+| 1–3 | A town, court, or station where the powerful all got there by knowing each other's secrets — and trade them like coin. |
+| 4–6 | Something valuable, or someone important, keeps slipping away, and every official explanation is obviously a cover. |
+| 7–9 | A respected figure isn't who they claim to be, and a few people quietly know it. |
+| 10–12 | The heroes are the only ones *asking* — everyone else has a reason to let it lie. |
+| 13–15 | An old case everyone "solved" years ago, with one detail that never fit. |
+| 16–18 | A locked-room impossibility: it plainly happened, and just as plainly couldn't have. |
+| 19–21 | A message, map, or confession arrives from someone who's just vanished — or just died. |
+| 22–24 | Two clues point at two different culprits, and both alibis are airtight. |
+| 25–27 | A witness has gone silent overnight — not scared, not bought off, just *gone*, with no reason anyone will name. |
+| 28–30 | The official report says accident; the people who were there all give slightly different versions of exactly what happened. |
+| 31–33 | Someone is being blackmailed, and they're terrified of the heroes finding out by whom — and why. |
+| 34–36 | A document, ledger, or photograph has been very carefully removed from every archive it should appear in. |
+| 37–39 | A string of small, unrelated thefts that no one takes seriously — except the pattern they make, which is anything but small. |
+| 40–42 | A death was ruled natural causes, but the person who found the body won't meet anyone's eyes. |
+| 43–45 | Everyone in town is treating a certain date — a particular anniversary — as though it simply did not happen. |
+| 46–48 | A stranger arrived, asked one very specific question, and vanished before anyone thought to ask theirs. |
+| 49–51 | An inheritance, prize, or promotion went to the wrong person, and the right one accepted it without complaint. |
+| 52–54 | A prominent family's public story has one gap — a year, a sibling, a business — that no one in the family will acknowledge. |
+| 55–57 | The only person who knew the full truth about something has just died, and three very different people are attending the funeral. |
+| 58–60 | Something impossible keeps happening in the same place — the same hour, the same way — and the locals have normalized it. |
+| 61–63 | A confession exists — signed, witnessed — but the person named couldn't have done it, and they know it too. |
+| 64–66 | Two powerful factions are quietly cooperating on something they publicly hate each other over, and neither wants it known. |
+| 67–69 | A child says something offhand about a person, place, or event they couldn't possibly know about. |
+| 70–72 | The most honest person in the room is clearly lying about one specific thing, and it's eating them alive. |
+| 73–75 | Someone has been paying for something — rent, silence, supplies — on behalf of a person no one can confirm exists. |
+| 76–78 | A trusted institution (a guild, a paper, a church, a court) has been quietly burying the same type of complaint for years. |
+| 79–81 | An outsider has been watching this place for weeks — not hiding, just watching — and no one has thought to ask why. |
+| 82–84 | A rumor everyone knows is false keeps resurfacing, almost as if someone needs it believed. |
+| 85–87 | The heroes find something they weren't meant to find — and immediately, people start being very kind to them. |
+| 88–90 | Two people who claim not to know each other own the same rare, distinctive object. |
+| 91–93 | A fire, a flood, or a collapse destroyed exactly the one thing that would have answered a very old question. |
+| 94–96 | Someone is impersonating a dead person — not for money, not for power, but for a reason no one has figured out yet. |
+| 97–99 | The person everyone suspects is protecting someone else, and is willing to be convicted to do it. |
+| 100 | **Roll again** |
 
 ### Archetypes
 

@@ -119,18 +119,44 @@ Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your ow
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll a d8, or just pick.*
+*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 
-| d8 | A Sci-Fi waiting to happen |
+| d100 | A Sci-Fi waiting to happen |
 |---|---|
-| 1 | A frontier where new tech outpaces every rule meant to govern it. |
-| 2 | A machine intelligence that's *technically* doing its job, in a way nobody intended. |
-| 3 | A discovery that's wonderful for some and catastrophic for others — and the heroes have to decide. |
-| 4 | The people who own the essentials (air, water, fuel, data) versus everyone who needs them. |
-| 5 | Something old and powerful, drifting out there, waking up. |
-| 6 | A signal from somewhere that shouldn't be able to send one. |
-| 7 | A colony, ship, or station cut off from home, and the rules quietly breaking down. |
-| 8 | A prototype that works — and now everyone wants it, including the thing it was meant to contain. |
+| 1–3 | A frontier where new tech outpaces every rule meant to govern it. |
+| 4–6 | A machine intelligence that's *technically* doing its job, in a way nobody intended. |
+| 7–9 | A discovery that's wonderful for some and catastrophic for others — and the heroes have to decide. |
+| 10–12 | The people who own the essentials (air, water, fuel, data) versus everyone who needs them. |
+| 13–15 | Something old and powerful, drifting out there, waking up. |
+| 16–18 | A signal from somewhere that shouldn't be able to send one. |
+| 19–21 | A colony, ship, or station cut off from home, and the rules quietly breaking down. |
+| 22–24 | A prototype that works — and now everyone wants it, including the thing it was meant to contain. |
+| 25–27 | A megacorp holds the license on a life-saving technology and is choosing who gets access. |
+| 28–30 | An AI has been running the station so long that nobody alive remembers how to override it. |
+| 31–33 | First contact is imminent — but the two sides can't agree on who gets to speak for humanity. |
+| 34–36 | A new faster-than-light route has been found, and three factions are already racing to claim it. |
+| 37–39 | The colony's terraforming engine is working, but what it's replacing was already alive. |
+| 40–42 | A generation ship's passengers have been asleep so long that the crew born en route has its own culture — and its own agenda. |
+| 43–45 | A weapon was decommissioned decades ago; someone has found the blueprints and begun manufacturing it again. |
+| 46–48 | The mining operation struck something that isn't ore — and the extraction team went quiet three days ago. |
+| 49–51 | A rogue research AI was shut down years ago; its distributed backup has been slowly, quietly rebuilding itself. |
+| 52–54 | A war ended, and both sides' automated defense systems never received the ceasefire order. |
+| 55–57 | The gate network is open — but no one knows who built it, and every expedition that went through came back changed. |
+| 58–60 | The station's life support is being rationed; the corporation that owns the quota is selling overages at a premium. |
+| 61–63 | A leaked data dump from a megacorp contains evidence of something catastrophic — and the corp's retrieval team is already on-planet. |
+| 64–66 | A synthetic person has been declared property by the court that owns the colony, and she's asked the heroes to get her out. |
+| 67–69 | A derelict has been drifting in the same orbit for thirty years; no one has ever boarded it twice. |
+| 70–72 | The planet's native microbiome is incompatible with the colony's food chain, and the settlement is two seasons from starving. |
+| 73–75 | An experimental drive vented during the jump and deposited the ship somewhere the charts don't cover. |
+| 76–78 | A distress beacon has been broadcasting the same looping message from an unmapped system for eleven years. |
+| 79–81 | Two colonies on the same moon have been sharing water reclamation infrastructure — until one of them rerouted the main line. |
+| 82–84 | A xeno-archaeologist has uncovered a structure that predates every known spacefaring civilization by a hundred thousand years. |
+| 85–87 | An engineered organism designed to clean up a toxic spill has evolved past its original programming and is spreading. |
+| 88–90 | The rebellion was successful; now the former rebels are in charge of the very infrastructure they used to sabotage. |
+| 91–93 | A child born on the generation ship has developed abilities that the original colonists' genome was never supposed to carry. |
+| 94–96 | The corporate auditor arrived with a security detail, a sealed mandate, and a list of names she won't discuss. |
+| 97–99 | The quarantine was lifted too soon — or possibly too late — and a ship carrying returning colonists is requesting dock clearance. |
+| 100 | **Roll again** |
 
 ### Archetypes
 

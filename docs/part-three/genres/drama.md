@@ -120,18 +120,44 @@ Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your ow
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll a d8, or just pick.*
+*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 
-| d8 | A Drama waiting to happen |
+| d100 | A Drama waiting to happen |
 |---|---|
-| 1 | A tight community where reputation is the only currency that matters, and everyone's business is everyone's business. |
-| 2 | A secret that, in the wrong hands, would rearrange the entire social map. |
-| 3 | Two people, families, or factions who want the same thing and can't both have it. |
-| 4 | A newcomer — or a returning face — who upsets a carefully balanced order. |
-| 5 | An event on the horizon (a dance, a wedding, a competition, an election) that everyone is building toward. |
-| 6 | An old betrayal that everyone politely pretends didn't happen — until someone won't anymore. |
-| 7 | A favor that can't be repaid, binding two people who'd rather not be bound. |
-| 8 | A truth one person is desperate to tell and another is desperate to bury. |
+| 1–3 | A tight community where reputation is the only currency that matters, and everyone's business is everyone's business. |
+| 4–6 | A secret that, in the wrong hands, would rearrange the entire social map. |
+| 7–9 | Two people, families, or factions who want the same thing and can't both have it. |
+| 10–12 | A newcomer — or a returning face — who upsets a carefully balanced order. |
+| 13–15 | An event on the horizon (a dance, a wedding, a competition, an election) that everyone is building toward. |
+| 16–18 | An old betrayal that everyone politely pretends didn't happen — until someone won't anymore. |
+| 19–21 | A favor that can't be repaid, binding two people who'd rather not be bound. |
+| 22–24 | A truth one person is desperate to tell and another is desperate to bury. |
+| 25–27 | Two people are in love with the same person — and both of them know it. |
+| 28–30 | Someone's carefully constructed reputation is built on a lie that's starting to crack. |
+| 31–33 | A friendship fractured months ago has never been addressed, and now the two parties are forced into the same space. |
+| 34–36 | An ally switches sides without explanation, and no one knows why — yet. |
+| 37–39 | A letter, a message, or a conversation was intercepted by exactly the wrong person. |
+| 40–42 | Someone is being protected from a truth that would hurt them — and the protection is starting to cause its own damage. |
+| 43–45 | A powerful figure is losing their grip, and everyone around them is quietly deciding which side to be on. |
+| 46–48 | Two families — or groups, or cliques — have a truce that's never held and is about to shatter. |
+| 49–51 | Someone confessed something in what they thought was a private moment, and the audience is much larger than they knew. |
+| 52–54 | A coveted position — a role, a seat, a title — is suddenly open, and everyone who wants it is pretending they don't. |
+| 55–57 | A rumor is spreading faster than the truth, and the person it's about doesn't know yet. |
+| 58–60 | Someone who was exiled, frozen out, or written off has come back — and they have not forgiven. |
+| 61–63 | An apology that's owed has been withheld so long it's become its own wound. |
+| 64–66 | A secret alliance is holding a fragile peace together — and at least one party is looking for an exit. |
+| 67–69 | Someone is being pushed to take a side in a conflict that isn't theirs, by people they can't afford to disappoint. |
+| 70–72 | A promise was made in desperation that now seems impossible to keep — and the person it was made to is counting on it. |
+| 73–75 | An outsider has correctly read the group's dynamics and is using that knowledge, for reasons of their own. |
+| 76–78 | Someone has been quietly carrying a grievance for years, and a small, ordinary moment finally breaks the silence. |
+| 79–81 | A relationship everyone assumed was solid is privately on the edge — and the cracks are showing in public. |
+| 82–84 | Two rivals who loathe each other need each other's help to survive the same crisis. |
+| 85–87 | A secret kept to protect someone else is now being used as leverage against the one who kept it. |
+| 88–90 | The group's accepted story about a past event isn't true, and someone who knows the real version is running out of reasons to stay quiet. |
+| 91–93 | Someone is pretending to belong somewhere they know they don't — and the performance is getting harder to sustain. |
+| 94–96 | A moment of public humiliation went unanswered; the person it happened to has been planning the response ever since. |
+| 97–99 | Everyone in the room wants something from someone else in the room, and nobody is saying so. |
+| 100 | **Roll again** |
 
 ### Archetypes
 

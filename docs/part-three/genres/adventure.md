@@ -120,18 +120,44 @@ Genre-pointed nudges for the ten World Forge questions (Chapter 14). Answer *the
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll a d8, or just pick.*
+*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 
-| d8 | An Adventure waiting to happen |
+| d100 | An Adventure waiting to happen |
 |---|---|
-| 1 | A frontier where the map still has blank spaces, and reaching them first means everything. |
-| 2 | Two powers circling the same prize, with the heroes caught between them — or racing both. |
-| 3 | A wonder of the old world lost to legend, its clues scattered and rivals hunting too. |
-| 4 | A community living on the edge of something vast and dangerous, depending on the few brave enough to face it. |
-| 5 | A journey that *must* be made before a deadline, across country that does not want to be crossed. |
-| 6 | A tyrant or beast whose shadow is spreading, and the one route that might stop it leads somewhere no one returns from. |
-| 7 | A map, a key, or a heir split among rivals — and assembling the pieces means crossing the whole world. |
-| 8 | A way home (or a way *out*) that's been lost, and only an impossible voyage can find it again. |
+| 1–3 | A frontier where the map still has blank spaces, and reaching them first means everything. |
+| 4–6 | Two powers circling the same prize, with the heroes caught between them — or racing both. |
+| 7–9 | A wonder of the old world lost to legend, its clues scattered and rivals hunting too. |
+| 10–12 | A community living on the edge of something vast and dangerous, depending on the few brave enough to face it. |
+| 13–15 | A journey that *must* be made before a deadline, across country that does not want to be crossed. |
+| 16–18 | A tyrant or beast whose shadow is spreading, and the one route that might stop it leads somewhere no one returns from. |
+| 19–21 | A map, a key, or an heir split among rivals — and assembling the pieces means crossing the whole world. |
+| 22–24 | A way home (or a way *out*) that's been lost, and only an impossible voyage can find it again. |
+| 25–27 | A ruin everyone says is cursed — but someone went in last season and the smoke from inside still hasn't stopped. |
+| 28–30 | A sealed vault or forgotten archive holds the only answer to a crisis, and no one living knows the way in. |
+| 31–33 | A beast of legend has been spotted at the edge of the settlements, and the last hunters sent after it didn't come back. |
+| 34–36 | A collapsed pass or sunken route has reopened for the first time in a generation, and whatever closed it is still there. |
+| 37–39 | A rival expedition has gone silent in the deep wilds, and someone desperately needs to know why. |
+| 40–42 | An ancient pact is about to expire, and one side is already preparing for what happens when it does. |
+| 43–45 | A stolen relic is somewhere in the badlands, passing from hand to hand, and everyone who gets near it ends up in trouble. |
+| 46–48 | A kingdom's road has been cut — bandits, a landslide, something worse — and the supply caravans are overdue. |
+| 49–51 | A child or captive was taken into dangerous territory, and the people who love them can't follow but the heroes can. |
+| 52–54 | A new constellation appeared overnight, and the old lore is unambiguous about what it means — someone has to act before it fades. |
+| 55–57 | A city sits atop ruins that are slowly waking, and the citizens refuse to believe it until the tremors get worse. |
+| 58–60 | Two factions are days from open war over a border dispute, and the only proof that could settle it peacefully is deep in contested ground. |
+| 61–63 | A legendary weapon, ship, or fortress has resurfaced after centuries — and half a dozen factions are already racing for it. |
+| 64–66 | The annual passage through the mountain range is blocked by something new, and the whole trade season depends on finding another way. |
+| 67–69 | A stretch of coast has turned hostile overnight — ships don't return, the fishing villages have gone quiet — and no one knows what changed. |
+| 70–72 | A prophecy named the heroes before they were even a team, and the people it threatens have already heard about it. |
+| 73–75 | A powerful figure has been exiled to the most dangerous corner of the known world, and someone needs them back alive. |
+| 76–78 | The last surviving elder who knew the route, the ritual, or the secret is dying, and the knowledge dies with them unless someone goes to find it first. |
+| 79–81 | A resource the region depends on — water, a harvest, a sacred flame — has vanished or been cut off, and the clock is already running. |
+| 82–84 | Something vast is migrating through the settled lands, as it does every generation, and this time the old defenses are gone. |
+| 85–87 | A long-dormant volcano, glacier, or tide is moving again, and only a specific summit, cavern, or shore holds any clue as to why. |
+| 88–90 | A fabled city, island, or peak appears on old maps but not new ones — and someone just came back claiming they found it. |
+| 91–93 | The heroes hold a deed, bloodline claim, or sealed letter that makes them the rightful heirs to something no one wants them to have. |
+| 94–96 | A powerful enemy has been defeated — but the throne, vault, or fortress they left behind is still there, and everyone is watching who moves first. |
+| 97–99 | An impossible structure has appeared in the wilderness overnight: a tower, a bridge, a carved archway leading nowhere anyone recognizes. |
+| 100 | **Roll again** |
 
 ### Archetypes
 

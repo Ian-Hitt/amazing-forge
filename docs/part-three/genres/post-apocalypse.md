@@ -118,18 +118,44 @@ Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your ow
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll a d8, or just pick.*
+*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 
-| d8 | A Post-Apocalypse waiting to happen |
+| d100 | A Post-Apocalypse waiting to happen |
 |---|---|
-| 1 | A resource everyone needs (water, fuel, medicine) is running out, and whoever controls the last of it controls everyone. |
-| 2 | A fragile settlement is one bad season — or one raid — from falling apart. |
-| 3 | A rumor of a real safe haven out there, and no way to know if it's true without the journey. |
-| 4 | A warlord or gang taxes, raids, and terrorizes everyone too scattered to fight back. |
-| 5 | Something from before the collapse still works — and everyone wants it. |
-| 6 | A stranger arrives carrying knowledge (or a sickness, or a map) that changes everything. |
-| 7 | Two camps need each other to survive and can't stop feuding long enough to see it. |
-| 8 | The thing that ended the world isn't finished — and it's stirring again. |
+| 1–3 | A resource everyone needs (water, fuel, medicine) is running out, and whoever controls the last of it controls everyone. |
+| 4–6 | A fragile settlement is one bad season — or one raid — from falling apart. |
+| 7–9 | A rumor of a real safe haven out there, and no way to know if it's true without the journey. |
+| 10–12 | A warlord or gang taxes, raids, and terrorizes everyone too scattered to fight back. |
+| 13–15 | Something from before the collapse still works — and everyone wants it. |
+| 16–18 | A stranger arrives carrying knowledge (or a sickness, or a map) that changes everything. |
+| 19–21 | Two camps need each other to survive and can't stop feuding long enough to see it. |
+| 22–24 | The thing that ended the world isn't finished — and it's stirring again. |
+| 25–27 | A route that kept trade alive has been cut off, and the settlements that depended on it are slowly starving. |
+| 28–30 | A sealed vault or bunker nearby hasn't opened in years, and no one knows what's inside — or what it's been keeping out. |
+| 31–33 | Someone who remembers how a crucial piece of old-world infrastructure worked has been taken, and the knowledge is going with them. |
+| 34–36 | A crop blight is spreading from settlement to settlement, and the only person who might know how to stop it lives in the most dangerous corner of the wasteland. |
+| 37–39 | A scout returns claiming they found a working water source — but the route there passes through territory everyone agrees is suicide. |
+| 40–42 | A settlement has been quietly hoarding supplies while its neighbors slowly run out, and word is starting to spread. |
+| 43–45 | A map surfaced showing a cache of pre-collapse medicine, but the map's in pieces and different factions each hold one section. |
+| 46–48 | A warlord's second-in-command is quietly looking to defect, carrying information that could change the balance of power — but can't be trusted alone. |
+| 49–51 | A group of survivors from a recently destroyed settlement has arrived, bringing their wounds, their grief, and a story that doesn't add up. |
+| 52–54 | A working radio signal has appeared — steady, repeating, unmistakably human — from a direction everyone assumed was dead. |
+| 55–57 | The settlement's guardian — the one person everyone relied on to keep the raiders away — is gone, and no one will say where. |
+| 58–60 | Old-world machines have started moving through the region again, following routes they used to run, and nobody knows why now. |
+| 61–63 | A healer with the only medical knowledge for miles refuses to share it unless the heroes bring back someone the healer lost years ago. |
+| 64–66 | A stretch of land that's been dead since the collapse is showing green shoots — but so is something else that no one can identify. |
+| 67–69 | Two settlements have agreed to merge for survival, but the people won't follow unless someone they respect vouches for the other side. |
+| 70–72 | A child wandered in from the direction of the dead zone, alone and unscarred, with no memory of how they got there or what they saw. |
+| 73–75 | A gang that was raiding all summer has gone quiet — and the silence is more unsettling than the raids were. |
+| 76–78 | The last engineer who kept the settlement's power running is dying, and there's no one else who understands the system. |
+| 79–81 | A trader passes through with goods too good to be scavenged, offering to sell and asking nothing suspicious — which is exactly what makes everyone suspicious. |
+| 82–84 | The underground water table is failing; a distant aquifer might be intact, but the group that controls it won't trade and won't talk. |
+| 85–87 | A pre-collapse satellite is still transmitting a repeating distress signal, and someone just figured out where it's pointing. |
+| 88–90 | The seasonal supply run that the region depends on is three weeks overdue, and the group that should have made it isn't answering the radio. |
+| 91–93 | A child from the settlement has gone exploring in the ruins and hasn't come back, and adults who followed the trail didn't come back either. |
+| 94–96 | Two survivors arrive separately, each claiming to be the rightful leader of a distant camp — and each asking the heroes to help them get back to it. |
+| 97–99 | The collapse event — the war, the plague, the shutdown — has a clear anniversary coming, and something has been quietly building toward it. |
+| 100 | **Roll again** |
 
 ### Archetypes
 

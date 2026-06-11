@@ -117,18 +117,44 @@ Genre-pointed nudges for the World Forge (Chapter 14). **Set the dial first** �
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll a d8, or just pick.*
+*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 
-| d8 | A Horror waiting to happen |
+| d100 | A Horror waiting to happen |
 |---|---|
-| 1 | Something happens here every so often, and the grown-ups have quietly agreed never to talk about it. |
-| 2 | A place everyone avoids after dark, for reasons nobody will say plainly. |
-| 3 | People are changing — subtly, one at a time — and only the heroes seem to notice. |
-| 4 | The thing that protected this place has stopped working, and no one knows why. |
-| 5 | An old wrong was buried (literally or otherwise), and it's starting to surface. |
-| 6 | A newcomer arrived, and small wrong things have been happening ever since. |
-| 7 | A way out exists, but reaching it means going *toward* the thing, not away. |
-| 8 | The heroes did something — opened it, woke it, said its name — and now it's awake. |
+| 1–3 | Something happens here every so often, and the grown-ups have quietly agreed never to talk about it. |
+| 4–6 | A place everyone avoids after dark, for reasons nobody will say plainly. |
+| 7–9 | People are changing — subtly, one at a time — and only the heroes seem to notice. |
+| 10–12 | The thing that protected this place has stopped working, and no one knows why. |
+| 13–15 | An old wrong was buried (literally or otherwise), and it's starting to surface. |
+| 16–18 | A newcomer arrived, and small wrong things have been happening ever since. |
+| 19–21 | A way out exists, but reaching it means going *toward* the thing, not away. |
+| 22–24 | The heroes did something — opened it, woke it, said its name — and now it's awake. |
+| 25–27 | A missing person came back — but something about them is different, and they won't say where they were. |
+| 28–30 | The same strange sound has been heard every night at the same hour, and nobody can agree on where it's coming from. |
+| 31–33 | An animal that always knew to stay away isn't staying away anymore. |
+| 34–36 | Someone found something they weren't supposed to find, and now it won't leave them alone. |
+| 37–39 | The dreams started on the same night for everyone who stayed here — and no one else believes them. |
+| 40–42 | A door in this place has always been locked; recently, it started opening on its own. |
+| 43–45 | One person can see it clearly; everyone else sees nothing at all, and they're starting to doubt the one who can. |
+| 46–48 | A local tradition that seemed like superstition is the only thing that was keeping it quiet — and someone stopped doing it. |
+| 49–51 | The map says there's something there, but when you arrive, there's nothing — and there clearly used to be. |
+| 52–54 | A child keeps drawing the same thing over and over, and no one has ever told them what it is. |
+| 55–57 | The old records were supposed to be destroyed; they weren't, and someone just found them. |
+| 58–60 | Communications with the outside stopped a week ago, and no one inside seems to find that strange. |
+| 61–63 | There's a room everyone has agreed, without saying so, to act as though isn't there. |
+| 64–66 | Something in this place only moves when no one is watching — and lately the heroes aren't sure they can look away. |
+| 67–69 | The only person who knew the full story just left, disappeared, or died, taking the answer with them. |
+| 70–72 | A ritual meant to end something was done wrong, and whatever it was meant to end is still here — and it knows. |
+| 73–75 | The heroes are following someone else's trail — notes, warnings, a path — and the trail stops abruptly. |
+| 76–78 | A kindly and familiar place has become quietly wrong: the light, the smell, the way sound moves in it. |
+| 79–81 | Someone trusted is asking questions about the heroes — careful, specific questions — and they don't know why yet. |
+| 82–84 | The thing only comes when you call for help, and help is exactly what the heroes need. |
+| 85–87 | A barrier — a fence, a wall, a ward, a rule — that was there last week is gone, and something on the other side noticed. |
+| 88–90 | The heroes keep finding evidence that someone was here just before them, watching — and has been for a long time. |
+| 91–93 | Something from here is showing up somewhere it absolutely should not be able to reach. |
+| 94–96 | The one person willing to talk about what happened here won't go near the place — but the heroes have no choice. |
+| 97–99 | Whatever woke here is patient; it isn't rushing, and that's the worst part. |
+| 100 | **Roll again** |
 
 ### Archetypes
 
