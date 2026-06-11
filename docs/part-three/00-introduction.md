@@ -11,3 +11,5 @@ Inside this Part:
 - **Chapter 14 — The World Forge** takes the ten questions deeper: what a *good* answer to each looks like, how to run the Forge together or solo, and **idea tables** to roll on when you're stuck.
 - **Chapter 15 — Genres** is the deep dive on the most important question of all: seven optional genre toolkits, the playful-to-serious dial, and a **Genre Kit** for each to get you building fast.
 - **Chapter 16 — Building a Cool Hero** is for when you want a character with a voice, a drive, and a flaw — not just four Assets and a number.
+- **Chapter 17 — Making Locations** is a quick generator for the places the heroes wander into unplanned — each built to hand you a hook the moment they walk in.
+- **Chapter 18 — Making NPCs** does the same for people: a role and one vivid detail, and you've got a character the table remembers in seconds.

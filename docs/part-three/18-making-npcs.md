@@ -1,10 +1,10 @@
-# Making an NPC
+# Chapter 18 — Making NPCs
 
 *A quick generator for the people the heroes meet. You need two things, fast: why they're in the story, and one detail nobody forgets.*
 
-Players talk to *people* — constantly. The guard at the gate, the trader with the rumor, the frightened kid who saw everything. Most of these you'll invent the second a player turns to them, and here's the good news: you don't need a name, a backstory, and a personality to play one well. You need to know **why this person is in the story** — their role — and **one vivid detail** so they stick in everyone's memory. That's a playable NPC in about five seconds. (Locations work the same way — a role for people, a *function* for places. See [Making a Location](location-generator.md).)
+Players talk to *people* — constantly. The guard at the gate, the trader with the rumor, the frightened kid who saw everything. Most of these you'll invent the second a player turns to them, and here's the good news: you don't need a name, a backstory, and a personality to play one well. You need to know **why this person is in the story** — their role — and **one vivid detail** so they stick in everyone's memory. That's a playable NPC in about five seconds. (Locations work the same way — a role for people, a *function* for places. See [Making Locations](17-making-locations.md).)
 
-Lean on **Ask the Oracle** ([Chapter 11](../part-two/11-ask-the-oracle.md)) for anything you haven't decided — *are they lying? will they help?* — and let your **Genre Kit** ([Chapter 15](../part-three/15-genres.md)) flavor them.
+Lean on **Ask the Oracle** ([Chapter 11](../part-two/11-ask-the-oracle.md)) for anything you haven't decided — *are they lying? will they help?* — and let your **Genre Kit** ([Chapter 15](15-genres.md)) flavor them.
 
 ## Build one in two draws
 
@@ -69,4 +69,4 @@ Lean on **Ask the Oracle** ([Chapter 11](../part-two/11-ask-the-oracle.md)) for 
 
 Role, detail, want. That's a character the table will remember and a scene that's secretly ticking.
 
-> **When an NPC starts to matter, promote them.** Most NPCs never need more than a role and a detail. But when one keeps showing up — a recurring ally, the rival who becomes *the* rival — give them a real personality by laying one of the seven **archetypes** over them ([Chapter 16](../part-three/16-cool-characters.md)). The role says what they do for the story; the archetype says how they *act* while they do it. That's also exactly how you build a villain — see Chapter 16.
+> **When an NPC starts to matter, promote them.** Most NPCs never need more than a role and a detail. But when one keeps showing up — a recurring ally, the rival who becomes *the* rival — give them a real personality by laying one of the seven **archetypes** over them ([Chapter 16](16-cool-characters.md)). The role says what they do for the story; the archetype says how they *act* while they do it. That's also exactly how you build a villain — see Chapter 16.
