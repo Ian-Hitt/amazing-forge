@@ -207,3 +207,20 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 | 94–96 | A Safehouse Nobody Knows |
 | 97–99 | A Knack for Being Underestimated |
 | 100 | **Roll again** |
+
+### Caper Boon triggers (d10)
+
+*When a hero builds a Boon (Chapter 13), the **Trigger** is the moment they get to use it. These are the situations a Caper hero shines in — roll **d10** or just pick one. Lock a **Strong** effect (Upgrade, +1 to the roll, Take the Price) to one of these and it fires **once per Scene** instead of once per Session.*
+
+| d10 | When you're… |
+|---|---|
+| 1 | Improvising the moment the plan falls apart |
+| 2 | Conning, bluffing, or charming your way through a door |
+| 3 | Cracking a lock, a vault, or an alarm |
+| 4 | Slipping past cameras, guards, or a patrol unseen |
+| 5 | Working the crowd while the crew works the job |
+| 6 | Keeping cool with security breathing down your neck |
+| 7 | Pulling a switch or sleight of hand under watching eyes |
+| 8 | Talking the crew through it on the earpiece |
+| 9 | Driving the getaway when it all goes loud |
+| 10 | Selling the lie when someone calls your bluff |

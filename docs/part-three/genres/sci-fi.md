@@ -210,3 +210,20 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 | 94–96 | Forged Credentials |
 | 97–99 | A Strange Artifact You Don't Get |
 | 100 | **Roll again** |
+
+### Sci-Fi Boon triggers (d10)
+
+*When a hero builds a Boon (Chapter 13), the **Trigger** is the moment they get to use it. These are the situations a Sci-Fi hero shines in — roll **d10** or just pick one. Lock a **Strong** effect (Upgrade, +1 to the roll, Take the Price) to one of these and it fires **once per Scene** instead of once per Session.*
+
+| d10 | When you're… |
+|---|---|
+| 1 | Wrangling a console, a machine, or strange tech |
+| 2 | Slicing a system or rerouting power on the fly |
+| 3 | At the controls — a dogfight, a hard burn, a crash landing |
+| 4 | Out in the black — vacuum, zero-G, a hostile atmosphere |
+| 5 | Patching someone up far from any hospital |
+| 6 | Facing down something alien and not-understood |
+| 7 | Talking your way past a checkpoint or an open channel |
+| 8 | Improvising a fix with the wrong parts and no time |
+| 9 | Reading an alien language, signal, or readout |
+| 10 | Holding it together when the ship is coming apart |

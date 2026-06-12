@@ -51,37 +51,66 @@ So once a hero has six Assets, they can't simply add a seventh. Instead they **T
 
 ---
 
-## The Boon Menu
+## Building a Boon
 
-A **Boon** is a signature move attached to one of your Assets — a special trick that fires **once per Scene or once per Session** when that Asset is in play. The key thing about a Boon: **it never raises your everyday roll.** Your baseline is always 2d6 + 2 (or +1), from your first session to your last — a Boon doesn't nudge that number up. What it gives you is a *thing you can do* in the moments your Asset applies: upgrade a result, reroll, cover an ally, ask the Oracle for free — or, once in a great while, dig deep for a single do-or-die roll.
+A **Boon** is a signature move attached to one of your Assets. The key thing about a Boon: **it never raises your everyday roll.** Your baseline is always 2d6 + 2 (or +1), from your first session to your last — a Boon doesn't nudge that number up. What it gives you is a *thing you can do* in the moments your Asset applies.
 
-You can attach up to **two Boons** to any one Asset. Here's the starter menu — your table can invent more (see below):
+Rather than pick from a fixed list, you **build** a Boon from two pieces:
 
-| Boon | When | What it does |
+1. An **Effect** — what it does. Chosen from a short, fixed menu (below). This is the part that stays the same across every hero in every game, because it's the part that touches the dice.
+2. A **Trigger** — when you're allowed to use it. This is the flavorful part, and it's wide open: "in a fight," "while protecting someone," "when I'm reading a crowd." Each **Genre Kit** (Chapter 15) offers a table of triggers that fit its kind of story.
+
+You can attach up to **two Boons** to any one Asset.
+
+### Step 1 — Pick an Effect
+
+| Effect | What it does | Strength |
 |---|---|---|
-| **Signature Move** | Once per **Session** | When this Asset applies, treat a **Weak Hit as a Strong Hit.** (A banked Oracle's Blessing for your big moment.) |
-| **Take the Hit** | Once per **Session** | When this Asset applies, it — or its companion — **pays a Price for you** (or for an ally right beside you). The hero in danger takes no Readiness loss; the Asset absorbs it in the fiction. |
-| **Reliable** | Once per **Scene** | When using this Asset, **reroll a Miss** once. Take the new result. |
-| **In My Element** | Once per **Scene** | Name one situation when you take this Boon — *in a fight, while protecting someone, on a chase, with a crowd watching.* When this Asset applies **in that situation**, treat a **Weak Hit as a Strong Hit.** |
-| **Dig Deep** | Once per **Session** | When this Asset applies, **add +1 to one roll** — your banked nudge for a do-or-die moment. (It stacks with the usual +2: a one-time **+3** on the roll that has to land.) |
-| **Lend a Hand** | Once per **Scene** | When you use this Asset to **help an ally**, they may **reroll a Miss** on the roll you're helping with. Take the new result. |
-| **Mender** | Once per **Session** | When you **Mend** using this Asset, restore **+1 extra** — and you can Mend an ally as easily as yourself. |
-| **Scout** | Once per **Scene** | **Ask the Oracle one yes/no question for free** (Chapter 11) — a hunch, a tell, a warning this Asset would pick up on. |
+| **Upgrade** | Treat one result as **one tier better** — a Miss becomes a Weak Hit, or a Weak Hit becomes Strong. | Strong |
+| **+1 to the roll** | Add **+1** before you read the result — a one-time **+3** with your Asset, for the roll that has to land. | Strong |
+| **Take the Price** | This Asset (or you) **pays a Price for you or an ally beside you** — the hero in danger loses no Readiness; it lands on the Asset in the fiction. | Strong |
+| **Reroll** | **Reroll a Miss** once with this Asset. Take the new result. | Mild |
+| **+1 forward** | Give your **next** roll — or an ally's — **+1**. | Mild |
+| **Lend a reroll** | When you **help an ally**, they may reroll a Miss on the roll you're helping with. | Mild |
+| **Free Oracle** | **Ask the Oracle one yes/no question for free** (Chapter 11). | Mild |
+| **Steady Hands** | When you **Mend** with this Asset, restore **+1 extra** — and you can Mend an ally as easily as yourself. | Mild |
 
-Picture them in play. *My Loyal Wolf* with **Take the Hit**: the trap snaps shut, and the Wolf shoulders you clear and takes the fall instead. *Trick Arrows* with **In My Element** (*in a fight*): a so-so shot (Weak) becomes the perfect ricochet (Strong) the moment the blades come out. *Steady Hands* with **Lend a Hand**: your partner fumbles the wiring (Miss), you guide their fingers, and they get one more try. *Healing Herbs* with **Mender**: the same poultice that patches you up does a little more, and works just as well on the friend bleeding next to you. *Old Family Sword* with **Dig Deep**: the blow has to land *right now* — you put everything you have behind it (+1) and trust the steel.
+That's the whole list. Genres never add new Effects — only new Triggers. (A few things are *deliberately* missing — a Boon can't mark extra progress on a track or keep you from going Out of Action. Those bend the game's tuned numbers; they're not on the menu.)
 
-### Inventing your own Boons
+### Step 2 — Pick a Trigger, and read off the cadence
 
-The menu above is a starting point. Tables are encouraged to dream up Boons that fit their heroes — a player who wants a signature trick for their Asset should pitch it, and the Guide (or the table, in Co-op) says yes if it follows two rules:
+Here's the elegant part: **you don't choose how often a Boon fires — the build decides for you.**
 
-1. **It's a move you spend, not a permanent number.** A Boon hands you something to *do* — pay a Price for an ally, reroll, upgrade a result, reach somewhere you couldn't, ask the Oracle for free. What it can't do is quietly raise your baseline. An always-on *"+1 to all my fighting rolls"* is out: that's a bigger number on every roll, forever, and it would drift the whole game. But a **banked** nudge you spend once and it's gone? That's fair game — that's exactly what **Dig Deep** is (+1 to one roll, once per Session), and you can flavor your own the same way: *"+1 in a fight, once per Scene"* works fine. The test isn't "numbers are banned," it's **"is this a permanent stat bump, or a limited move I spend?"**
-2. **It has a limit.** Once per Scene or once per Session, tied to a specific Asset. A trick you can do every single roll isn't a signature move — it's just power creep.
+> - A **Strong** Effect is **once per Session**. A **Mild** Effect is **once per Scene**.
+> - **Lock the Trigger to a specific situation** and the Effect fires **one step more often** — a Strong Effect drops to once per Scene.
 
-There's a third idea that makes inventing Boons easy — call it the **trade**:
+So the broadest Trigger — *"any time this Asset applies"* — gives you an Effect at its base cadence. Naming a situation is what *buys* a Strong Effect the right to fire every Scene. That's the trade in one rule: **the narrower the moment, the more often you get to shine in it.** (Mild Effects are already once per Scene, so they don't need a situation — though pinning one on can make for a better story.)
 
-> **Narrow the trigger, widen the effect.** A Boon that fires *any time the Asset applies* should stay mild or rare — that's why **Signature Move** (upgrade a result) is only once per Session, while **Reliable** (a mere reroll) gets to fire every Scene. But a Boon that only fires in **one specific situation** — *in a fight, while protecting someone, on a chase* — can afford to hit harder, because it won't come up on every roll. That's the whole trick behind **In My Element**: same upgrade as Signature Move, but available every Scene *because* you've boxed it into one kind of moment.
+Generic Triggers any hero can grab: *in a fight · on a chase or escape · reading a person or a room · combing a scene for clues · when you're outnumbered or afraid and press on · while protecting someone · working a machine or strange tech · when the plan falls apart · in a heart-to-heart, or standing your ground · scavenging, or making do with nothing.* Your genre's kit will have more, sharper ones.
 
-So when a player pitches a trick, ask: how often will this actually fire? The narrower the answer, the more it's allowed to do. It's the same trade that lets a *situational* +1 fire more often than **Dig Deep**: the menu's **Dig Deep** works on *any* roll but only once a Session, while a player who locks it down — *"+1 in a fight"* — has earned **once per Scene**, because it won't come up the rest of the time. The fiction of the Asset should suggest the trick — a *Wise Sprite Companion* **scouts ahead**, a *Loyal Steed* lets you **break away from any fight once per Scene** (you're gone before they can stop you), a *Silver Tongue* lets you **ask the Oracle whether someone's lying, for free.** Keep them flavorful, keep them limited, and keep your *baseline* off the dice.
+### Recipes
+
+Mixing your own is the power move, but you don't have to. These pre-built combos cover the classics — pick one by name and you're done:
+
+| Recipe | Trigger | Effect | Fires |
+|---|---|---|---|
+| **Signature Move** | any time the Asset applies | Upgrade | once/Session |
+| **In My Element** | a situation you name | Upgrade | once/Scene |
+| **Dig Deep** | any time | +1 to the roll | once/Session |
+| **Reliable** | any time | Reroll | once/Scene |
+| **Lend a Hand** | when you help an ally | Lend a reroll | once/Scene |
+| **Mender** | when you Mend | Steady Hands | per Mend |
+| **Scout** | any time | Free Oracle | once/Scene |
+| **Take the Hit** | any time | Take the Price | once/Session |
+
+Picture them in play. *My Loyal Wolf* + **Take the Price** (*any time*): the trap snaps shut, and the Wolf shoulders you clear and takes the fall instead. *Trick Arrows* + **Upgrade** locked to *in a fight* (that's **In My Element**): a so-so shot (Weak) becomes the perfect ricochet (Strong) the moment the blades come out. *Old Family Sword* + **+1 to the roll** (**Dig Deep**): the blow has to land *right now*, so you put everything behind it (+1) and trust the steel. *Healing Herbs* + **Steady Hands** (**Mender**): the same poultice that patches you up does a little more, and works just as well on the friend bleeding beside you.
+
+### The two rules behind it all
+
+The build keeps you honest automatically, but if a player ever pitches something off-menu, it has to pass the same two tests every Boon does:
+
+1. **It's a move you spend, not a permanent number.** A Boon can hand you a *banked* nudge — that's what **+1 to the roll** is — but it can never quietly raise your baseline. An always-on *"+1 to all my fighting rolls"* is out: that's a bigger number on every roll, forever. The test is **"is this a permanent stat bump, or a limited move I spend?"**
+2. **It has a limit, and the Asset has to be in play.** Once per Scene or once per Session, tied to one specific Asset, only when that Asset fits the moment. A trick you can do every single roll isn't a signature move — it's power creep.
 
 ---
 

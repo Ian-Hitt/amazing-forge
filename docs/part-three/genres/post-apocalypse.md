@@ -209,3 +209,20 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 | 94–96 | A Tin of Heirloom Seeds |
 | 97–99 | A Beat-Up Guitar *(and the Heart to Play It)* |
 | 100 | **Roll again** |
+
+### Post-Apocalypse Boon triggers (d10)
+
+*When a hero builds a Boon (Chapter 13), the **Trigger** is the moment they get to use it. These are the situations a Post-Apocalypse hero shines in — roll **d10** or just pick one. Lock a **Strong** effect (Upgrade, +1 to the roll, Take the Price) to one of these and it fires **once per Scene** instead of once per Session.*
+
+| d10 | When you're… |
+|---|---|
+| 1 | Scavenging the ruins for what others walked past |
+| 2 | Making do with nothing when supplies run dry |
+| 3 | Defending the camp or the people in it |
+| 4 | Coaxing a dead engine or busted gear back to life |
+| 5 | Reading the wasteland — tracks, weather, what's safe |
+| 6 | Talking down a twitchy stranger before it turns violent |
+| 7 | Bartering hard when every trade matters |
+| 8 | Holding firm when you're outnumbered |
+| 9 | Rallying a frightened group to keep moving |
+| 10 | Stretching a ration, a tank, or a magazine to the last |

@@ -207,3 +207,20 @@ Genre-pointed nudges for the ten Worldbuilding questions (Chapter 14). Answer *t
 | 94–96 | A Half-Burned Letter You Kept |
 | 97–99 | A Mysterious Key You Can't Place |
 | 100 | **Roll again** |
+
+### Mystery Boon triggers (d10)
+
+*When a hero builds a Boon (Chapter 13), the **Trigger** is the moment they get to use it. These are the situations a Mystery hero shines in — roll **d10** or just pick one. Lock a **Strong** effect (Upgrade, +1 to the roll, Take the Price) to one of these and it fires **once per Scene** instead of once per Session.*
+
+| d10 | When you're… |
+|---|---|
+| 1 | Combing a scene for the detail everyone else missed |
+| 2 | Questioning a witness or cornering a suspect |
+| 3 | Catching someone in a lie |
+| 4 | Piecing distant clues into a single picture |
+| 5 | Tailing someone, or eavesdropping unseen |
+| 6 | Cracking a code, a cipher, or a locked drawer |
+| 7 | Coaxing a tight-lipped person to open up |
+| 8 | Keeping your cool when suspicion turns on you |
+| 9 | Working the records, the archive, the paper trail |
+| 10 | Laying out the solution as the pieces finally click |

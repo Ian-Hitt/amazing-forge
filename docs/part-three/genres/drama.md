@@ -212,4 +212,21 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 | 97–99 | A Reputation You'd Die to Protect |
 | 100 | **Roll again** |
 
+### Drama Boon triggers (d10)
+
+*When a hero builds a Boon (Chapter 13), the **Trigger** is the moment they get to use it. These are the situations a Drama hero shines in — roll **d10** or just pick one. Lock a **Strong** effect (Upgrade, +1 to the roll, Take the Price) to one of these and it fires **once per Scene** instead of once per Session.*
+
+| d10 | When you're… |
+|---|---|
+| 1 | Laying your real feelings bare in a heart-to-heart |
+| 2 | Getting the better of someone in front of a crowd |
+| 3 | Standing your ground on what you believe, whatever it costs |
+| 4 | Steadying a friend who's coming apart |
+| 5 | In the spotlight — a stage, a field, a performance, all eyes on you |
+| 6 | Keeping your composure while you're being judged or scrutinized |
+| 7 | Cashing in a secret or a favor you've been holding |
+| 8 | Calling someone out — naming a lie or a betrayal to their face |
+| 9 | Winning someone over with an apology, a confession, or a plea |
+| 10 | Holding a secret with a straight face while the pressure mounts |
+
 > **Drama shows off the whole system.** Almost every scene here is a **Social Confrontation** Challenge (Chapter 8), and Pay the Price is *feelings and standing* — never a beating. It's the clearest proof that *Lights, Camera, Action!* isn't just a game about fights: a tense conversation can fill a Challenge Track every bit as dramatically as a sword fight.

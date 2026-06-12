@@ -208,3 +208,20 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). **Set the dial first** — 
 | 94–96 | A Name It Answers To |
 | 97–99 | A Reason to Survive |
 | 100 | **Roll again** |
+
+### Horror Boon triggers (d10)
+
+*When a hero builds a Boon (Chapter 13), the **Trigger** is the moment they get to use it. These are the situations a Horror hero shines in — roll **d10** or just pick one. Lock a **Strong** effect (Upgrade, +1 to the roll, Take the Price) to one of these and it fires **once per Scene** instead of once per Session.*
+
+| d10 | When you're… |
+|---|---|
+| 1 | Afraid to your bones and pressing on anyway |
+| 2 | Hiding, holding your breath while it passes |
+| 3 | Running — for the door, the car, your life |
+| 4 | Putting yourself between the dark and someone you love |
+| 5 | Barricading a door or boarding a window in a hurry |
+| 6 | Sensing the wrongness before anyone else does |
+| 7 | Keeping a panicking friend from falling apart |
+| 8 | Patching a wound with shaking hands |
+| 9 | Facing the thing with the little you know of it |
+| 10 | Refusing to leave anyone behind |

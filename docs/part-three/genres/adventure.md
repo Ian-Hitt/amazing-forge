@@ -211,3 +211,20 @@ Genre-pointed nudges for the ten Worldbuilding questions (Chapter 14). Answer *t
 | 94–96 | A Debt Owed by Someone Powerful |
 | 97–99 | A Small Dragon Hatchling *(a handful)* |
 | 100 | **Roll again** |
+
+### Adventure Boon triggers (d10)
+
+*When a hero builds a Boon (Chapter 13), the **Trigger** is the moment they get to use it. These are the situations an Adventure hero shines in — roll **d10** or just pick one. Lock a **Strong** effect (Upgrade, +1 to the roll, Take the Price) to one of these and it fires **once per Scene** instead of once per Session.*
+
+| d10 | When you're… |
+|---|---|
+| 1 | In a fight — blades, fists, claws, whatever it takes |
+| 2 | On a chase, a hard climb, or a desperate leap |
+| 3 | Braving the wilds — storm, cliff, beast, or trackless waste |
+| 4 | Holding the front when the line has to hold |
+| 5 | Disarming a trap or picking your way past a lock |
+| 6 | Reading the land — tracks, weather, the lay of a ruin |
+| 7 | Facing down a monster far bigger than you |
+| 8 | Rallying the party when things look grim |
+| 9 | Bluffing or bargaining your way past a guard |
+| 10 | Reaching for a daring stunt nobody expects to work |
