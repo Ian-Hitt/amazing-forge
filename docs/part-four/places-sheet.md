@@ -32,7 +32,7 @@ See **Making Locations** ([Chapter 17](../part-three/17-making-locations.md)) fo
 </style>
 
 <div class="af-sheet" markdown="0">
-  <p class="af-title">AMAZING FORGE</p>
+  <p class="af-title">LIGHTS, CAMERA, ACTION!</p>
   <p class="af-sub">Places &mdash; Where We've Been</p>
 
   <p class="af-hint">Name it, say what it's <i>for</i>, give it one striking detail, and note the hook that's still open. Check <b>Back?</b> for places worth a return trip.</p>

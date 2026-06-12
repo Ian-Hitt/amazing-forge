@@ -1,10 +1,10 @@
 # Post-Apocalypse
 
-*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
 
 Post-Apocalypse is the genre of *after* — the world ended, but the people didn't, and now they have to make a life in the wreckage. It's scarcity and grit and the strange beauty of a city gone quiet under the vines. Every bullet counts, every friend matters, and the real story isn't surviving the ruins — it's deciding what's worth rebuilding in them. Dial it from a goofy wasteland romp to a lean, hard-scrabble fight for tomorrow.
 
-This kit hands you the *feeling* and the tools to build your own ruined world. It never tells you what ended it, or what comes next; that part is always yours to forge.
+This kit hands you the *feeling* and the tools to build your own ruined world. It never tells you what ended it, or what comes next; that part is always yours to invent.
 
 ### The feel
 
@@ -88,7 +88,7 @@ Pick a flavor to set what ended the world and how it feels to live in the after:
 
 ### Settings
 
-*A d10 of settings that pair naturally with Post-Apocalypse — pick one or roll, then forge your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
+*A d10 of settings that pair naturally with Post-Apocalypse — pick one or roll, then build your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
 
 | d10 | Setting |
 |---|---|
@@ -105,7 +105,7 @@ Pick a flavor to set what ended the world and how it feels to live in the after:
 
 ### Shaping your world
 
-Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your own words — don't just copy an example.
+Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own words — don't just copy an example.
 
 - **Setting →** *your star question.* What ended the world, and how long ago? A war, a plague, a climate collapse, the machines — and is this raw fresh ruins, or a settled, scavenged new normal? That answer colors everything else.
 - **Threats →** scarcity itself, the raider warlord, the rival enclave, and whatever ended the world still lingering at the edges.

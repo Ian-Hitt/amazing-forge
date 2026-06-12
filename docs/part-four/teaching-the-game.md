@@ -2,7 +2,7 @@
 
 *For the one person who read the book — which is almost always how it goes.*
 
-You don't teach *Amazing Forge* by explaining it. You teach it by **starting it.** The whole game is built so that the only person at the table who's read a word of it can have everyone playing in about two minutes — and pick up every other rule the moment the story actually needs it.
+You don't teach *Lights, Camera, Action!* by explaining it. You teach it by **starting it.** The whole game is built so that the only person at the table who's read a word of it can have everyone playing in about two minutes — and pick up every other rule the moment the story actually needs it.
 
 So resist the urge to give the rules speech. A rule explained before it matters is a rule nobody remembers; a rule taught at the exact moment it comes up — *"oh, that didn't work, so knock a point off your Readiness"* — sticks for good. Teach the four things below, jump straight into the action, and let the table below do the rest of the teaching for you.
 

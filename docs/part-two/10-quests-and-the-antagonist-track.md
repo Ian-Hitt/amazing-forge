@@ -1,4 +1,4 @@
-## Chapter 10 — Quests & the Antagonist Track (Complete)
+# Chapter 10 — Quests & the Antagonist Track
 
 A **Quest** is the engine that gives an adventure shape: a goal worth chasing, the steps to get there, and a villain racing you for it. This chapter is the complete guide to setting one up and running it — the **Quest Track**, the **Antagonist Track** that runs alongside it, how to build good Milestones, what happens when you win, lose, or quit, and how to keep several Quests going at once.
 
@@ -25,7 +25,7 @@ You don't plan *how* each Milestone gets done — that's what play discovers. Yo
 
 ### Quest Scale: Episodic, Season, Campaign
 
-Not every Quest is the same *size*. A Quest can be a single afternoon's adventure or the spine of your whole game — and the best stories run several of these at once, nested inside each other. Think of your favorite series. In **Avatar: The Last Airbender**, every episode opens and closes its own little story; every Book (Water, Earth, Fire) has a season-long goal that resolves across many episodes; and all three Books together tell one campaign-long story — mastering the elements and stopping the Fire Lord. *Amazing Forge* builds your game the same way, with three **scales** of Quest:
+Not every Quest is the same *size*. A Quest can be a single afternoon's adventure or the spine of your whole game — and the best stories run several of these at once, nested inside each other. Think of your favorite series. In **Avatar: The Last Airbender**, every episode opens and closes its own little story; every Book (Water, Earth, Fire) has a season-long goal that resolves across many episodes; and all three Books together tell one campaign-long story — mastering the elements and stopping the Fire Lord. *Lights, Camera, Action!* builds your game the same way, with three **scales** of Quest:
 
 - **Episodic (3 boxes)** — a self-contained story you start and finish in roughly one sitting. *"Free the village from the angry forest spirit."* This is the default and the workhorse; your first games use only this scale. (Stretch it to 4–5 boxes for a meatier one-shot.)
 - **Season (8 boxes)** — a throughline that resolves across **many** episodes. *"Reach the North Pole and find a waterbending master."* You don't play it start-to-finish in one go; it advances a little at a time as your episodic adventures feed into it.
@@ -204,7 +204,7 @@ To keep it manageable:
 
 For most groups — and almost all first games — a single Episodic Quest is plenty. Add a Season Track once the table wants threads that carry across adventures, and a Campaign Track once you're committing to the long haul.
 
-> **Quest Seeds (sidebar).** Stuck for a premise? Grab one of these and bend it to your World Forge. Each is just a spark — a Goal and a hint of trouble, not a plotted adventure.
+> **Quest Seeds (sidebar).** Stuck for a premise? Grab one of these and bend it to your Worldbuilding. Each is just a spark — a Goal and a hint of trouble, not a plotted adventure.
 >
 > - A beloved local landmark has begun to *vanish* a little more each night — find out why before it's gone for good.
 > - Someone is impersonating one of the heroes, and the fake got there first.
@@ -217,4 +217,4 @@ For most groups — and almost all first games — a single Episodic Quest is pl
 
 ---
 
-*Next: Chapter 11 — Ask the Oracle (Complete), the move for when nobody knows what happens next.*
+*Next: Chapter 11 — Ask the Oracle, the move for when nobody knows what happens next.*

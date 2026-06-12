@@ -1,10 +1,10 @@
 # Adventure
 
-*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
 
-Adventure is the beating heart of *Amazing Forge*, and for most tables it's the place to begin. It's the genre of brave deeds and far horizons — a vast, half-charted world where trouble is always one ridge away and something wonderful waits just past it. If the heroes you picture carry **swords and face sorcery** — dragons and dungeons, wizards and ruins, a quest that matters — this is your kit. Swords & sorcery is Adventure's default flavor; the [flavors](#flavors-of-adventure) below show how to bend it toward whatever fantasy your table loves.
+Adventure is the beating heart of *Lights, Camera, Action!*, and for most tables it's the place to begin. It's the genre of brave deeds and far horizons — a vast, half-charted world where trouble is always one ridge away and something wonderful waits just past it. If the heroes you picture carry **swords and face sorcery** — dragons and dungeons, wizards and ruins, a quest that matters — this is your kit. Swords & sorcery is Adventure's default flavor; the [flavors](#flavors-of-adventure) below show how to bend it toward whatever fantasy your table loves.
 
-This kit hands you the *feeling* and the tools to build your own version of it. It never tells you what your adventure *is* — that part is always yours to forge.
+This kit hands you the *feeling* and the tools to build your own version of it. It never tells you what your adventure *is* — that part is always yours to invent.
 
 ### The feel
 
@@ -91,7 +91,7 @@ Adventure bends easily. Pick a flavor to point your world somewhere specific —
 
 ### Settings
 
-*A d10 of settings that pair naturally with Adventure — pick one or roll, then forge your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
+*A d10 of settings that pair naturally with Adventure — pick one or roll, then build your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
 
 | d10 | Setting |
 |---|---|
@@ -108,7 +108,7 @@ Adventure bends easily. Pick a flavor to point your world somewhere specific —
 
 ### Shaping your world
 
-Genre-pointed nudges for the ten World Forge questions (Chapter 14). Answer *these* in your own words — don't just copy an example.
+Genre-pointed nudges for the ten Worldbuilding questions (Chapter 14). Answer *these* in your own words — don't just copy an example.
 
 - **Setting →** somewhere vast and half-explored: open seas, sky-islands, deep wilds, buried ruins, a frontier no one has mapped. Leave blank spaces worth filling.
 - **Denizens →** make room for the larger-than-life — talking beasts, sky-sailors, ancient guardians, a people the maps say shouldn't exist.

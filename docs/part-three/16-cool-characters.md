@@ -1,4 +1,4 @@
-## Chapter 16 — Building a Cool Hero
+# Chapter 16 — Building a Cool Hero
 
 Back in [Chapter 2](../part-one/02-create-your-hero.md) you learned the fast way to make a hero: a **Concept**, four **Assets**, and 9 Readiness. That's all you ever need to play. This chapter is for when you want *more* — when you want a hero who isn't just fun to roll dice for, but a real character with a voice, a drive, and a flaw that gets them into wonderful trouble.
 
@@ -15,7 +15,7 @@ Picking one does two things instantly:
 - **It tells you *how to play.*** Your Concept says *who* your hero is and your Assets say *what they're good at* — but your archetype tells you *how they act.* It's the engine underneath the costume. The moment you say "I'm playing the Scholar," you already know how she'd react to a locked door, a frightened stranger, or a reckless plan. You have a personality to play, not just a stat line.
 - **It makes the party *different.*** If everyone at the table grabs a different archetype, you automatically get a varied, interesting cast — a leader, a heart, a wildcard — instead of four heroes who all act the same. That contrast is where half the fun of a group story comes from.
 
-And here's the most important part: **an archetype is pure roleplay. It adds no rules, no bonus, and no number.** It never changes a roll. It's a lens for *playing* your hero, not a piece of math — exactly like everything else about growing a character in *Amazing Forge*, your edge comes from the story, never from a bigger stat.
+And here's the most important part: **an archetype is pure roleplay. It adds no rules, no bonus, and no number.** It never changes a roll. It's a lens for *playing* your hero, not a piece of math — exactly like everything else about growing a character in *Lights, Camera, Action!*, your edge comes from the story, never from a bigger stat.
 
 > **Costume vs. engine.** If you've picked a genre, its [Genre Kit](15-genres.md) handed you a list of *flavored* archetypes — the Knight, the Ranger, the Schemer, that sort of thing. Those are **costumes**: ready-made Concept ideas dressed for that world. The seven archetypes below are the **engines** underneath — the personality that drives them. Lay one over any costume you like. A "Ranger" played as a Maverick is a very different hero than one played as a Caregiver, and both are great.
 

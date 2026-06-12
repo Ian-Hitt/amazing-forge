@@ -1,10 +1,10 @@
 # Sci-Fi
 
-*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
 
 Sci-Fi is the genre of *the new* — a discovery, a machine, a world no one has seen, an idea big enough to change everything. The wonder is real, but the new always cuts both ways: the tool that saves you is the tool that betrays you. Curiosity drives the story forward; consequences give it weight. Dial it from bright pulp space-opera to tense, lived-in, duct-taped hard sci-fi.
 
-This kit hands you the *feeling* and the tools to build your own frontier. It never tells you what's out there; that part is always yours to forge.
+This kit hands you the *feeling* and the tools to build your own frontier. It never tells you what's out there; that part is always yours to invent.
 
 ### The feel
 
@@ -89,7 +89,7 @@ Sci-Fi covers enormous ground. Pick a flavor to fix the tone and the tech level:
 
 ### Settings
 
-*A d10 of settings that pair naturally with Sci-Fi — pick one or roll, then forge your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
+*A d10 of settings that pair naturally with Sci-Fi — pick one or roll, then build your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
 
 | d10 | Setting |
 |---|---|
@@ -106,7 +106,7 @@ Sci-Fi covers enormous ground. Pick a flavor to fix the tone and the tech level:
 
 ### Shaping your world
 
-Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your own words — don't just copy an example.
+Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own words — don't just copy an example.
 
 - **Technology →** *your star question.* Pick a level and give it a *flaw* — "an AI runs everything, and it's started to lie." The crack is where the stories live.
 - **Setting →** a frontier of space, time, or invention: a station, a colony, a generation ship, a near-future city on the edge.

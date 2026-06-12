@@ -1,4 +1,4 @@
-# Chapter 11 — Ask the Oracle (Complete)
+# Chapter 11 — Ask the Oracle
 
 Every table hits the same moment sooner or later: the scene resolves, the dice go quiet, and nobody's quite sure what happens next. **Ask the Oracle** is the move for exactly that moment. It's a short ladder of tools — name what you're chasing, do the obvious, or hand the question to the dice — that turns "uh… what now?" back into a scene you can play.
 
@@ -30,7 +30,7 @@ Look at your **Quest Track** (Chapter 10). What's the next empty box — the nex
 
 If you haven't decided the next Milestone yet, decide one now. You're not inventing from nothing — pull from everything already on the table:
 
-- **Your World Forge answers** (Chapter 14) — especially the **Threats**, the **Forbidden**, the **Leadership**, and your **Reputation**. These were built to generate trouble; spend it here.
+- **Your Worldbuilding answers** (Chapter 14) — especially the **Threats**, the **Forbidden**, the **Leadership**, and your **Reputation**. These were built to generate trouble; spend it here.
 - **The heroes and their Assets** — a Milestone that lets someone's Asset shine is a Milestone the table will enjoy.
 - **The NPCs and places you've already met or heard about.** The richest next scene is usually a callback, not a brand-new element. That name someone dropped two scenes ago is waiting to pay off.
 - **Any other Quests you have running.** With multiple Quests in play (Chapter 10), the next Milestone might belong to a different track entirely.

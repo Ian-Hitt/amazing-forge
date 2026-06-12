@@ -1,6 +1,6 @@
-# Chapter 7 — The Roll (Complete)
+# Chapter 7 — The Roll
 
-One move runs all of Amazing Forge: roll **2d6**, add your modifier, and read the result. Everything else in this book hangs off that single roll. This chapter covers it in full — the two ways a roll resolves, how every outcome turns back into story, the doubles rule, and why the whole engine uses just **+2 / +1** instead of a page of stats.
+One move runs all of *Lights, Camera, Action!*: roll **2d6**, add your modifier, and read the result. Everything else in this book hangs off that single roll. This chapter covers it in full — the two ways a roll resolves, how every outcome turns back into story, the doubles rule, and why the whole engine uses just **+2 / +1** instead of a page of stats.
 
 ### The Modifier: +2 or +1
 
@@ -74,4 +74,4 @@ Keep the bonus proportional and let the table enjoy it — doubles are a treat, 
 
 ---
 
-*Next in Part Two: Chapter 8 — Challenges (Complete).*
+*Next in Part Two: Chapter 8 — Challenges.*

@@ -1,10 +1,10 @@
 # Horror
 
-*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
 
 Horror is the genre of *dread* — the held breath, the sound that shouldn't be there, the patient something just out of sight. Safety is fragile and temporary, the unknown is in no hurry, and the heroes are smaller than whatever they're facing. Of all seven genres this one leans hardest on the tonal dial: silly-spooky and genuinely frightening are both Horror, and the table picks which before the lights go down.
 
-This kit hands you the *feeling* and the tools to build your own nightmare — gentle or otherwise. It never tells you what's in the dark; that part is always yours to forge.
+This kit hands you the *feeling* and the tools to build your own nightmare — gentle or otherwise. It never tells you what's in the dark; that part is always yours to invent.
 
 ### The feel
 
@@ -88,7 +88,7 @@ Horror comes in many shades. Pick one, and set the dial to match:
 
 ### Settings
 
-*A d10 of settings that pair naturally with Horror — pick one or roll, then forge your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
+*A d10 of settings that pair naturally with Horror — pick one or roll, then build your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
 
 | d10 | Setting |
 |---|---|
@@ -105,7 +105,7 @@ Horror comes in many shades. Pick one, and set the dial to match:
 
 ### Shaping your world
 
-Genre-pointed nudges for the World Forge (Chapter 14). **Set the dial first** — how scary is too scary for *this* table? — then answer these in your own words.
+Genre-pointed nudges for Worldbuilding (Chapter 14). **Set the dial first** — how scary is too scary for *this* table? — then answer these in your own words.
 
 - **Setting →** somewhere that *should* feel safe but doesn't — a small town, a school after hours, a fogged-in ship, a campground at night.
 - **Denizens →** who's missing, who's changed, who isn't quite right anymore? The horror is often someone you knew.

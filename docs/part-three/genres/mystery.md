@@ -1,10 +1,10 @@
 # Mystery
 
-*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
 
 Mystery is the genre of *knowing* — the slow, delicious pleasure of pulling a thread until the whole tangle comes loose. There's a secret at the heart of every Mystery, and a handful of people who'd rather it stayed buried; the heroes are the ones who won't let it. This is detective work for every table, from a playful puzzle-box romp to a rain-slick whodunit where everyone is lying about something.
 
-This kit hands you the *feeling* and the tools to build your own case. It never tells you who did it — that part is always yours to forge.
+This kit hands you the *feeling* and the tools to build your own case. It never tells you who did it — that part is always yours to invent.
 
 ### The feel
 
@@ -87,7 +87,7 @@ Mystery wears many coats. Pick one to set how dark and how strange the case runs
 
 ### Settings
 
-*A d10 of settings that pair naturally with Mystery — pick one or roll, then forge your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
+*A d10 of settings that pair naturally with Mystery — pick one or roll, then build your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
 
 | d10 | Setting |
 |---|---|
@@ -104,7 +104,7 @@ Mystery wears many coats. Pick one to set how dark and how strange the case runs
 
 ### Shaping your world
 
-Genre-pointed nudges for the ten World Forge questions (Chapter 14). Answer *these* in your own words — don't just copy an example.
+Genre-pointed nudges for the ten Worldbuilding questions (Chapter 14). Answer *these* in your own words — don't just copy an example.
 
 - **Setting →** what does this place run on — money, magic, machines, or gossip? Whatever it is, that's what people lie to protect.
 - **Denizens →** fill it with talkers, watchers, and people hiding something. A good Mystery world is mostly *witnesses*.

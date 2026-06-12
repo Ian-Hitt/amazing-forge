@@ -8,7 +8,7 @@ You never need to read this chapter. The game works without it, and most people 
 
 Behind every tabletop game with dice in it, there's an author doing quiet math. Strip away the hit points and the damage and the action economy, and what that author is really deciding is: **roughly how many rolls should this take?** How many before the door is open, the villain is beaten, the journey is done?
 
-That number — how many rolls — *is* your pacing. And pacing is the raw material of story. A beat is just a moment where the tension changes: it ratchets up, it breaks, it turns. If you can control *when* the rolls cluster and when they breathe, you can control where the beats fall. That's the whole game, mechanically. *Amazing Forge* just does it out in the open, where you can see it, instead of burying it.
+That number — how many rolls — *is* your pacing. And pacing is the raw material of story. A beat is just a moment where the tension changes: it ratchets up, it breaks, it turns. If you can control *when* the rolls cluster and when they breathe, you can control where the beats fall. That's the whole game, mechanically. *Lights, Camera, Action!* just does it out in the open, where you can see it, instead of burying it.
 
 But here's the part that took me longest to understand: **no single rule makes a story.** The beats don't live in the Quest Track, or in the dice, or anywhere you can point to. They come from four systems playing *together* — four instruments in a small band. Learn what each one plays, and you can hear the whole song.
 

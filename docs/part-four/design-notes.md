@@ -2,7 +2,7 @@
 
 *Why the rules work the way they do.*
 
-You don't need any of this to play. *Amazing Forge* is built so the rules in Parts One through Three stand on their own — read them, and you're ready.
+You don't need any of this to play. *Lights, Camera, Action!* is built so the rules in Parts One through Three stand on their own — read them, and you're ready.
 
 This page is for two kinds of reader. The first is the design nerd who just wants to know *why* a rule is shaped the way it is — the thinking under the hood. The second is the tinkerer who wants to change something. If you're going to bend a rule, it helps to know what it was holding up: most of these choices are load-bearing, propping up something a few pages away, and the notes below say what. Tweak with that in mind and your house rules will hold together.
 
@@ -14,7 +14,7 @@ Each note names the chapter whose rule it explains.
 
 *(Chapter 7 — The Roll)*
 
-Most games separate raw ability (a stat like Strength) from special tricks (a feat or spell). Amazing Forge collapses both into your four Assets — they *are* your stats and your special moves at once. That's why there are only two modifiers, and why the gap between them is exactly one point. The numbers aren't arbitrary; they're tuned around the 2d6 curve and the Readiness cap of 9.
+Most games separate raw ability (a stat like Strength) from special tricks (a feat or spell). *Lights, Camera, Action!* collapses both into your four Assets — they *are* your stats and your special moves at once. That's why there are only two modifiers, and why the gap between them is exactly one point. The numbers aren't arbitrary; they're tuned around the 2d6 curve and the Readiness cap of 9.
 
 Here's what the dice actually do:
 
@@ -31,7 +31,7 @@ Doubles (Oracle's Blessing) nudge every result a little brighter on top of this,
 
 *(Chapter 8 — Challenges)*
 
-Amazing Forge gives enemies and obstacles **no Readiness, no stats, and no hit points.** Only the heroes track a number. You overcome a foe or a hazard by **filling its Challenge Track** — mechanically, *the track is the enemy.* And **heroes cannot die.** The worst that can happen is going **Out of Action** (recoverable — Chapter 9) or **losing the Quest** (the Antagonist Track fills — Chapter 10). Setbacks cost Readiness and story ground; never a character's life.
+*Lights, Camera, Action!* gives enemies and obstacles **no Readiness, no stats, and no hit points.** Only the heroes track a number. You overcome a foe or a hazard by **filling its Challenge Track** — mechanically, *the track is the enemy.* And **heroes cannot die.** The worst that can happen is going **Out of Action** (recoverable — Chapter 9) or **losing the Quest** (the Antagonist Track fills — Chapter 10). Setbacks cost Readiness and story ground; never a character's life.
 
 This is a deliberate choice in service of the "write a movie together" philosophy, and it does a lot of quiet work:
 
@@ -71,7 +71,7 @@ But notice the one line we never cross: **a bad recovery roll never takes Readin
 
 *(Chapter 13 — Growing Your Heroes)*
 
-Most games grow heroes *upward* — bigger numbers, higher bonuses, more health. *Amazing Forge* deliberately doesn't, and the payoff is worth understanding.
+Most games grow heroes *upward* — bigger numbers, higher bonuses, more health. *Lights, Camera, Action!* deliberately doesn't, and the payoff is worth understanding.
 
 When heroes only get **bigger numbers**, the game has to keep handing the *enemies* bigger numbers too, just to stay tense — an endless arms race that's a lot of bookkeeping and easy to get wrong. This game sidesteps the whole problem. Because Growth only ever adds **tools and signature moves** — never a better roll — the math never moves:
 

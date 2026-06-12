@@ -1,10 +1,10 @@
-## Chapter 5 — Playing the Game
+# Chapter 5 — Playing the Game
 
 You now know the one move that runs everything: roll 2d6, add +2 or +1, read the result. This chapter shows you how that move plays out at the table across a whole adventure — the two sizes of moment you'll roll for, how to retreat when a scene turns against you, how your heroes patch up and recover, how you win, and what to do when the table goes quiet and nobody's sure what happens next.
 
 ### Regular Rolls vs. Challenges
 
-Some risky moments are over in a single roll. Others are big, dramatic scenes worth playing out blow by blow. Amazing Forge handles both with the same move — the only question is **how much screen time the moment deserves.**
+Some risky moments are over in a single roll. Others are big, dramatic scenes worth playing out blow by blow. *Lights, Camera, Action!* handles both with the same move — the only question is **how much screen time the moment deserves.**
 
 - A **Regular Roll** is for a single moment of risk: leaping a gap, picking a lock, talking past one guard, spotting a clue. One roll settles it, and the story moves on. No boxes, no tracking.
 - A **Challenge** is for a big, exciting scene that deserves to be played out: a fight with a monster, fleeing a collapsing temple, sneaking through a guarded vault. You draw a little row of boxes and fill them up together, roll by roll, until the scene is won.
@@ -41,7 +41,7 @@ That's the whole loop: describe, roll, mark a box (or pay the price), pass the d
 
 ### What About Combat?
 
-If you've played other roleplaying games, this is the part where you'd expect a whole separate rulebook for fighting — attack rolls, defense scores, initiative order, damage dice, enemy health bars. **Amazing Forge has none of that.** A fight is just a Challenge, run with the exact same rules as everything else in this chapter. Sneaking past guards, crossing a chasm, and battling a dragon all work identically: describe what you do, roll 2d6, mark the track.
+If you've played other roleplaying games, this is the part where you'd expect a whole separate rulebook for fighting — attack rolls, defense scores, initiative order, damage dice, enemy health bars. **_Lights, Camera, Action!_ has none of that.** A fight is just a Challenge, run with the exact same rules as everything else in this chapter. Sneaking past guards, crossing a chasm, and battling a dragon all work identically: describe what you do, roll 2d6, mark the track.
 
 The big difference from other games: **bad guys have no health, no stats, and no hit points.** You don't chip away at a monster's HP. Instead, *the Challenge Track is the enemy.* You "defeat" the dragon by filling its boxes — when the last box is marked, the dragon is beaten, however the fiction explains it. Only your heroes track a number (Readiness), and that only drops when *you* Pay the Price.
 
@@ -71,7 +71,7 @@ Readiness only ever drops in the heat of the action — you don't get it back mi
 
 Two things make a Mend count rather than being a free refill. **It can come up empty** (a Miss heals nothing — though it never *costs* Readiness; healing never pushes your number down). And **each hero can be Mended just once per Milestone** (whether they patch themselves up or a friend does) — so pick your moment. Capped at 9. When the group's Readiness is running low, that's your cue to find a safe spot and decide whether to spend a Mend now or push on.
 
-**Out of Action.** If a hero hits **0 Readiness**, they're **Out of Action** — too hurt, scared, or worn down to keep going. They can't act for now, but they're not gone for good (heroes can't die in Amazing Forge). At a safe moment they (or a teammate) can try to Mend them back up — and that doesn't use up anyone's once-per-Milestone Mend — but it can miss, so they might stay down a little longer.
+**Out of Action.** If a hero hits **0 Readiness**, they're **Out of Action** — too hurt, scared, or worn down to keep going. They can't act for now, but they're not gone for good (heroes can't die in *Lights, Camera, Action!*). At a safe moment they (or a teammate) can try to Mend them back up — and that doesn't use up anyone's once-per-Milestone Mend — but it can miss, so they might stay down a little longer.
 
 > *Part Two covers more: the brake that keeps you from resting constantly, how an ally can pull a downed hero back into a fight mid-scene, and **Downtime** — the deeper, between-adventures rest.*
 
@@ -83,7 +83,7 @@ Take a moment to play out the victory: the Sun Crystal back in the village squar
 
 Then claim your reward: finishing a Quest earns the heroes **Downtime** — a good, long rest. For your first game, just take it: **each hero recovers +6 Readiness** (still capped at 9), and you head into whatever comes next with plenty in the tank. (Part Two has the full Downtime move, where the rest is rolled like any other.)
 
-That's a complete adventure — world forged, heroes made, Quest won. From here you can start a brand-new Quest, send these same heroes on another, or hand the dice to someone new.
+That's a complete adventure — world built, heroes made, Quest won. From here you can start a brand-new Quest, send these same heroes on another, or hand the dice to someone new.
 
 ### When You Don't Know What Happens Next
 

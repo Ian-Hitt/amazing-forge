@@ -1,4 +1,4 @@
-site_name: Amazing Forge
+site_name: "Lights, Camera, Action!"
 site_description: A cinematic, zero-prep tabletop RPG for ages 10+.
 site_url: https://ian-hitt.github.io/amazing-forge/
 
@@ -68,7 +68,7 @@ nav:
       - 13. Growing Your Heroes: part-two/13-growing-your-heroes.md
   - Part Three — Building Your World:
       - Introduction: part-three/00-introduction.md
-      - 14. The World Forge: part-three/14-the-world-forge.md
+      - 14. Worldbuilding: part-three/14-the-world-forge.md
       - 15. Genres:
           - Overview: part-three/15-genres.md
           - Adventure: part-three/genres/adventure.md
@@ -86,7 +86,7 @@ nav:
       - Moves Cheatsheet: part-four/moves-cheatsheet.md
       - Hero Sheet: part-four/hero-sheet.md
       - Quest Tracker Sheet: part-four/quest-tracker-sheet.md
-      - World Forge Worksheet: part-four/world-forge-worksheet.md
+      - Worldbuilding Worksheet: part-four/world-forge-worksheet.md
       - Cast Sheet: part-four/cast-sheet.md
       - Places Sheet: part-four/places-sheet.md
       - The Story Engine: part-four/the-story-engine.md

@@ -1,8 +1,8 @@
-## Chapter 2 — Create Your Hero
+# Chapter 2 — Create Your Hero
 
-Now that you've forged a world, it's time to create the hero you'll play in it. This takes about two minutes. There's no math, no long list of stats to fill in — just three quick steps: pick who your hero is, choose four things they're amazing at, and note how much fight they've got in them.
+Now that you've built a world, it's time to create the hero you'll play in it. This takes about two minutes. There's no math, no long list of stats to fill in — just three quick steps: pick who your hero is, choose four things they're amazing at, and note how much fight they've got in them.
 
-Make a hero that fits the world your group just built. If you forged a floating city in the clouds, a deep-sea diver doesn't quite belong — but a sky-pirate or a runaway cloud-guard absolutely does.
+Make a hero that fits the world your group just built. If you built a floating city in the clouds, a deep-sea diver doesn't quite belong — but a sky-pirate or a runaway cloud-guard absolutely does.
 
 ### Step 1: Your Concept
 
@@ -15,7 +15,7 @@ Here are a few across different kinds of stories:
 - **Sci-Fi Adventure:** "A Renegade Robot Pilot" · "A Cyber-Scout with a Robot Dog"
 - **Epic Fantasy:** "An Ice-Dragon Knight" · "A Grumpy Goblin Alchemist"
 - **Spooky Mystery:** "A Fearless Ghost-Hunting Detective"
-- **Cozy Town Drama:** "A Fast-Talking High-School Journalist"
+- **Small-Town Drama:** "A Fast-Talking High-School Journalist"
 
 There are no wrong answers. Pick something that makes you grin and that fits the world.
 
@@ -62,16 +62,16 @@ Readiness is your hero's "ready for adventure" meter, all rolled into one number
 - **Mind** — your focus, courage, and nerve.
 - **Supplies** — your gear, ammo, food, and useful kit.
 
-Most games track all of that separately. Amazing Forge bundles it into a single track because, in a story, they tend to slip together: when a hero is battered, rattled, *and* out of supplies, they're simply not ready to keep going.
+Most games track all of that separately. *Lights, Camera, Action!* bundles it into a single track because, in a story, they tend to slip together: when a hero is battered, rattled, *and* out of supplies, they're simply not ready to keep going.
 
 Readiness only goes **down when things go wrong** — when a roll doesn't fully land and your hero takes a setback. (Chapter 4 shows exactly when and how much.) It never climbs during the heat of the action; you'll get chances to recover during quieter moments, which Chapter 5 covers.
 
-If your Readiness ever hits **0**, your hero is **Out of Action** — too hurt, too overwhelmed, or too tapped-out to keep going for now. You're not dead. Heroes in Amazing Forge can't die. You're just down until you get a breather and bounce back, which you'll learn about in Chapter 5.
+If your Readiness ever hits **0**, your hero is **Out of Action** — too hurt, too overwhelmed, or too tapped-out to keep going for now. You're not dead. Heroes in *Lights, Camera, Action!* can't die. You're just down until you get a breather and bounce back, which you'll learn about in Chapter 5.
 
 > *Part Two has the complete rules for losing and recovering Readiness, coming back from Out of Action, and the bonus you get for finishing a Quest. For now: start at 9, and know that 0 means you sit out until you recover.*
 
 ### That's a Hero
 
-A Concept, four Assets, and 9 Readiness — that's your whole character. Jot it on a scrap of paper and you're ready to adventure. With your world forged and your heroes made, it's time to point them at something worth doing.
+A Concept, four Assets, and 9 Readiness — that's your whole character. Jot it on a scrap of paper and you're ready to adventure. With your world built and your heroes made, it's time to point them at something worth doing.
 
 **Next up:** start your Quest. Turn to Chapter 3.

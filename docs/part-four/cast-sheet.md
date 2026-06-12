@@ -32,7 +32,7 @@ See **Making NPCs** ([Chapter 18](../part-three/18-making-npcs.md)) for the gene
 </style>
 
 <div class="af-sheet" markdown="0">
-  <p class="af-title">AMAZING FORGE</p>
+  <p class="af-title">LIGHTS, CAMERA, ACTION!</p>
   <p class="af-sub">Cast &mdash; People We've Met</p>
 
   <p class="af-hint">Name them, say what they do for the story, give them one unforgettable detail, and note how you left things. A &#9733; marks the ones who matter.</p>

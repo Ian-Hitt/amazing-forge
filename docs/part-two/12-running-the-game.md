@@ -1,10 +1,10 @@
-# Chapter 12 — Running the Game (Complete)
+# Chapter 12 — Running the Game
 
 Everything so far has been about *what* happens when the dice hit the table. This chapter is about *running* the table itself — the human craft of keeping a story moving, whether one person is steering as the **Guide** or the whole group is steering together in **Co-op**.
 
 The two modes share more than they differ. Both live on the same handful of skills: asking the table good questions, voicing a world that has no stat blocks, and reading the clock so the story lands instead of fizzling. So this chapter is built in three parts: running with a Guide, running Co-op, and the shared tools that serve both. Part One introduced these briefly across Chapters 5 and 6 — this is the full version.
 
-> **You already have less to do than you think.** The hardest part of most games — inventing the world and plotting the adventure — is already handled. The **World Forge** (Chapter 14) built your setting. The **Quest Track** (Chapter 10) points at where the story is going. The **Oracle** (Chapter 11) answers what happens next when you're stuck. Running the game isn't about carrying all of that in your head; it's about responding to what's in front of you, one scene at a time.
+> **You already have less to do than you think.** The hardest part of most games — inventing the world and plotting the adventure — is already handled. **Worldbuilding** (Chapter 14) built your setting. The **Quest Track** (Chapter 10) points at where the story is going. The **Oracle** (Chapter 11) answers what happens next when you're stuck. Running the game isn't about carrying all of that in your head; it's about responding to what's in front of you, one scene at a time.
 
 ---
 
@@ -27,7 +27,7 @@ What's missing from that list is the part new Guides expect to carry: the plot. 
 
 "Zero prep" is a promise, not a dare. You are genuinely not expected to prepare anything. But improvising well is a skill, and these habits make it feel effortless:
 
-- **Lean on what's already on the table.** Every World Forge answer is loaded ammunition. The **Threats**, the **Forbidden**, the **Leadership**, the **Reputation** — you wrote those down precisely so you'd never face a blank page. Stuck for a complication? Reach for a Threat. Stuck for a place? You already named the world's geography.
+- **Lean on what's already on the table.** Every Worldbuilding answer is loaded ammunition. The **Threats**, the **Forbidden**, the **Leadership**, the **Reputation** — you wrote those down precisely so you'd never face a blank page. Stuck for a complication? Reach for a Threat. Stuck for a place? You already named the world's geography.
 - **Read the next Milestone off the track.** You always know roughly where the story is heading, because the Quest Track tells you: the next empty box is the next chapter. You don't need to know *how* the heroes get there — just point every scene loosely toward it.
 - **Make the next scene inevitable *and* surprising.** The trick to satisfying improvisation is that the next beat should feel like it had to happen — *of course* the bridge guard recognizes them — while still landing as a surprise. You get there by building on what's established (inevitable) and adding one thing nobody expected (surprise).
 - **Say yes, or yes-but.** When a player tries something clever, your default is yes. If it shouldn't be free, it's a **Challenge** or a roll — "yes, *but* you'll have to get past the guards first." Flat no's stall the movie; turn them into obstacles instead.

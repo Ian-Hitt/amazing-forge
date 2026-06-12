@@ -1,10 +1,10 @@
 # Caper
 
-*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
 
 The Caper is the genre of *brains over brawn* — the joy of a plan coming together, the swagger of walking into a place you absolutely should not be, and the scramble to improvise when (not if) it all goes sideways. The tension is real but the audience is grinning: this is a game of clever people pulling off the impossible with style. Dial it from a goofy gang-of-misfits romp to a sleek, high-stakes professional job.
 
-This kit hands you the *feeling* and the tools to build your own score. It never tells you what you're stealing or why; that part is always yours to forge.
+This kit hands you the *feeling* and the tools to build your own score. It never tells you what you're stealing or why; that part is always yours to invent.
 
 ### The feel
 
@@ -87,7 +87,7 @@ Caper is a shape you can drop into any setting. Pick the kind of job:
 
 ### Settings
 
-*A d10 of settings that pair naturally with the Caper — pick one or roll, then forge your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
+*A d10 of settings that pair naturally with the Caper — pick one or roll, then build your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
 
 | d10 | Setting |
 |---|---|
@@ -104,7 +104,7 @@ Caper is a shape you can drop into any setting. Pick the kind of job:
 
 ### Shaping your world
 
-Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your own words — don't just copy an example.
+Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own words — don't just copy an example.
 
 - **Setting →** a glittering, locked-down place worth cracking — a vault-city, a high-society gala, a guarded museum, a corporate tower.
 - **Leadership & Enforcement →** make the opposition formidable *and* fun to outwit. The muscle and the security *are* the obstacle, so give them flair.

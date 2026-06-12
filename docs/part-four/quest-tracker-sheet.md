@@ -45,7 +45,7 @@ One sheet per Quest. It holds the **Goal**, the **scale**, the paired **Quest Tr
 </style>
 
 <div class="af-sheet" markdown="0">
-  <p class="af-title">AMAZING FORGE</p>
+  <p class="af-title">LIGHTS, CAMERA, ACTION!</p>
   <p class="af-sub">Quest Tracker</p>
 
   <h3>The Goal</h3>

@@ -4,7 +4,7 @@
 
 In 1990s Hollywood, a screenwriter named Blake Snyder wrote down the fifteen beats he believed almost every satisfying movie hits, in roughly the same order. He called it the **"Save the Cat!" beat sheet**, after his rule that you should give your hero an early moment of kindness so the audience roots for them. Writers have leaned on it ever since.
 
-You don't need it. *Amazing Forge* already produces a tension curve on its own (that's what [The Story Engine](the-story-engine.md) is about). But a beat sheet is a wonderful thing to keep at your elbow — a checklist of "have we hit a satisfying shape yet?" So here are all fifteen beats, what each one means, and **how it actually shows up at the table** — partly through the mechanics, and partly through your imagination filling the gaps the dice leave open.
+You don't need it. *Lights, Camera, Action!* already produces a tension curve on its own (that's what [The Story Engine](the-story-engine.md) is about). But a beat sheet is a wonderful thing to keep at your elbow — a checklist of "have we hit a satisfying shape yet?" So here are all fifteen beats, what each one means, and **how it actually shows up at the table** — partly through the mechanics, and partly through your imagination filling the gaps the dice leave open.
 
 Read it as a menu, not a recipe. Hit the beats that serve tonight's story; skip the rest. And remember the lesson from The Story Engine: this whole arc can fit one forty-minute episode *or* stretch across a whole season. Size is up to you.
 

@@ -1,6 +1,6 @@
-## Chapter 6 — Your First Session in Play
+# Chapter 6 — Your First Session in Play
 
-The best way to learn Amazing Forge is to watch it happen. What follows is a short example session — two players, no Guide, playing Co-op. The story is in normal text; the boxed notes point out each rule as it comes up, so you can see exactly how the pieces from the last five chapters fit together at a real table.
+The best way to learn *Lights, Camera, Action!* is to watch it happen. What follows is a short example session — two players, no Guide, playing Co-op. The story is in normal text; the boxed notes point out each rule as it comes up, so you can see exactly how the pieces from the last five chapters fit together at a real table.
 
 Our two players are **Maya** and **Leo.**
 
@@ -8,9 +8,9 @@ Our two players are **Maya** and **Leo.**
 
 ### Setting Up (about ten minutes)
 
-**The World Forge.** Maya and Leo run through the ten questions, but they keep it quick — they already know they want a snowy fantasy adventure, so most answers take five seconds. The highlights: a **frozen mountain kingdom** where **magic is rare and precious**, ruled by **a council of village elders**, and right now the biggest **threat** is that the village's source of warmth and light — the **Sun Crystal** — has been **stolen by goblins** living under the mountain. The **forbidden** place is the goblins' tunnels. Everything else they'll fill in as they go.
+**Worldbuilding.** Maya and Leo run through the ten questions, but they keep it quick — they already know they want a snowy fantasy adventure, so most answers take five seconds. The highlights: a **frozen mountain kingdom** where **magic is rare and precious**, ruled by **a council of village elders**, and right now the biggest **threat** is that the village's source of warmth and light — the **Sun Crystal** — has been **stolen by goblins** living under the mountain. The **forbidden** place is the goblins' tunnels. Everything else they'll fill in as they go.
 
-> **▶ Rules note — The World Forge (Chapter 1).** You don't need a deep answer to every question. A few strong ideas (a stolen Crystal, goblins under the mountain) are enough to start; the rest of the world fills in during play.
+> **▶ Rules note — Worldbuilding (Chapter 1).** You don't need a deep answer to every question. A few strong ideas (a stolen Crystal, goblins under the mountain) are enough to start; the rest of the world fills in during play.
 
 **The heroes.** They each build a character in about two minutes.
 
@@ -166,7 +166,7 @@ The Sun Crystal goes back above the village square, light and warmth return, and
 
 ### What This Showed You
 
-In one short session, Maya and Leo used **every rule in Part One:** they forged a world, built heroes, named a Quest and an antagonist, drew both tracks, made **Regular Rolls** and ran **Challenges**, hit a **Strong Hit, a Weak Hit, a Miss, and an Outstanding Success**, **Paid the Price** more than once, weighed **fleeing** (and chose to push), stopped to **Mend**, and checked off Milestones to **win the Quest.** That's the whole game.
+In one short session, Maya and Leo used **every rule in Part One:** they built a world, made heroes, named a Quest and an antagonist, drew both tracks, made **Regular Rolls** and ran **Challenges**, hit a **Strong Hit, a Weak Hit, a Miss, and an Outstanding Success**, **Paid the Price** more than once, weighed **fleeing** (and chose to push), stopped to **Mend**, and checked off Milestones to **win the Quest.** That's the whole game.
 
 Notice what they *didn't* do: look up a spell, calculate any enemy's hit points, or roll for initiative. They just described what their heroes did, rolled 2d6, and told the story together.
 

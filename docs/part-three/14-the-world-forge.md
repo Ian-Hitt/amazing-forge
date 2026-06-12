@@ -1,6 +1,6 @@
-# Chapter 14 — The World Forge (Complete)
+# Chapter 14 — Worldbuilding
 
-Building your world is its own kind of fun — a separate experience from playing the game, which is why it gets its own Part. This is the complete World Forge: what a *good* answer to each of the ten questions looks like, what to avoid, how the genre you picked bends every answer after it, how to run the Forge whether the whole table builds it together or a Guide brings a world prepped, and a set of **idea tables** to roll on when you're stuck. Everything about making your world lives here, in one place.
+Building your world is its own kind of fun — a separate experience from playing the game, which is why it gets its own Part. This is Worldbuilding in full: what a *good* answer to each of the ten questions looks like, what to avoid, how the genre you picked bends every answer after it, how to run it whether the whole table builds it together or a Guide brings a world prepped, and a set of **idea tables** to roll on when you're stuck. Everything about making your world lives here, in one place.
 
 Part One gave you the short version: ten questions, answered out loud, and you're playing. You don't need any of this for your first game. Reach for it when you want a richer world, when an answer isn't sparking anything, or when a Guide wants to prep a setting ahead of time.
 
@@ -23,7 +23,7 @@ A few rules that apply to all ten:
 
 This is the most important question, because it colors all nine that follow. The Genre isn't really "what happens" — it's **how it feels**: thrilling, eerie, tense, warm, funny, melancholy.
 
-*Amazing Forge* officially supports **seven genres** — **pick one as your anchor:**
+*Lights, Camera, Action!* officially supports **seven genres** — **pick one as your anchor:**
 
 | Genre | The feeling in one line |
 |---|---|
@@ -56,7 +56,7 @@ Now the place. A time and a location, with one detail that makes it *yours*.
 The kinds of people, creatures, and beings the heroes will meet — and can play as. This question quietly answers "what can our Concepts be?" (Chapter 2 — Create Your Hero), so it's worth a real beat of attention.
 
 - **A good answer** gives two or three kinds with a hint of how they relate: *"Humans, talking animals, and clockwork people — and the clockwork folk are newcomers nobody quite trusts yet."* That last clause is free story.
-- **Avoid** "just normal people" *unless* normal people are the point (a grounded mystery, a cozy drama). Even then, name what's distinctive about *these* people.
+- **Avoid** "just normal people" *unless* normal people are the point (a grounded mystery, a character drama). Even then, name what's distinctive about *these* people.
 - **How it shapes the rest:** if you want heroes who are robots or talking foxes, this is where you make room for them. Decide now and Character Creation gets easier.
 
 ### 4. Magic — How does it work, if at all?
@@ -89,7 +89,7 @@ The muscle behind the power. How does the Leadership actually hold on?
 
 - **A good answer** matches the tone you've built and reveals something: *"Sky-patrol guards on flying machines — but they only ever patrol the rich districts."* That tells you who's protected and who isn't.
 - **Avoid** skipping this as redundant with Q6. Leadership is *who* rules; Enforcement is *how*, and the gap between them is where corruption, fear, and rebellion live.
-- **How it shapes the rest:** the Enforcement is often the heroes' most frequent on-screen opposition — the guards, spies, or sentries they actually run into. Remember that in *Amazing Forge*, **enemies have no stats** (Chapter 8) — Enforcement becomes **Challenges** and **Antagonist Tracks**, not stat blocks.
+- **How it shapes the rest:** the Enforcement is often the heroes' most frequent on-screen opposition — the guards, spies, or sentries they actually run into. Remember that in *Lights, Camera, Action!*, **enemies have no stats** (Chapter 8) — Enforcement becomes **Challenges** and **Antagonist Tracks**, not stat blocks.
 
 ### 8. The Threats — What are the two or three biggest dangers right now?
 
@@ -119,21 +119,21 @@ The last question turns the camera on the heroes. Before anyone's even made a ch
 
 Ten answers and you have a world that's already leaning toward story. Read them back in order — you'll usually feel a Quest forming in the overlap between the Threats, the Forbidden, and your Reputation. That's not an accident; the questions are built to collide there.
 
-Leave the loose ends loose. The World Forge is a starting picture, not a finished map, and the best details are the ones you discover mid-scene.
+Leave the loose ends loose. Worldbuilding is a starting picture, not a finished map, and the best details are the ones you discover mid-scene.
 
 ---
 
-## Part B — Running the World Forge
+## Part B — Running Worldbuilding
 
-There are two ways to run the Forge. The default is the social one.
+There are two ways to run it. The default is the social one.
 
 ### The Default: Build It Together
 
-The World Forge is meant to be **collaborative** — everyone answers the ten questions at once, out loud, building on each other's ideas. This isn't just faster; it's the point. A world that five people invented together is a world all five are invested in, full of details no single person would have thought of. The kid who suggested "talking sky-birds" now has a stake in the story before a single die is rolled.
+Worldbuilding is meant to be **collaborative** — everyone answers the ten questions at once, out loud, building on each other's ideas. This isn't just faster; it's the point. A world that five people invented together is a world all five are invested in, full of details no single person would have thought of. The kid who suggested "talking sky-birds" now has a stake in the story before a single die is rolled.
 
 This is true in both modes of play. With a Guide, the Guide facilitates — asking the questions, keeping things moving — but the *answers* still come from the whole table. In **Co-op** play (no Guide), it's naturally collaborative; just go around the circle so everyone gets to plant a flag.
 
-**Tips for facilitating a good Forge:**
+**Tips for facilitating it well:**
 
 - **Keep it moving.** Aim for a minute or two per question. If a question sparks a great debate, ride it; if it stalls, take the first decent answer and move on. Momentum matters more than perfection.
 - **Say "yes, and."** Build on the first idea instead of competing with it. The second person's job is to make the first person's idea cooler, not replace it.
@@ -153,12 +153,4 @@ But prep comes with one firm rule:
 
 ---
 
-## Part C — Idea Tables
-
-When an answer won't come, roll for it. These tables aren't a substitute for a table conversation — they're a spark for when you're stuck, or a surprise to riff on even when you already have an idea. Roll a d6 for any question, take what you get, and bend it toward the world you're building. Roll **twice and combine** on any question for something stranger.
-
-> **🚧 Idea — World Forge idea tables (awaiting sign-off).** The plan is a short **d6 table for each of the ten questions** (e.g. *Setting →* 1: deep-space station · 2: underwater city · 3: overgrown ruins · 4: sky islands · 5: modern city with a hidden layer · 6: roll twice and combine). These are hyperspecific to building your world, so they live **here**, with the World Forge, rather than with the play-side tools in Part Four. Not yet drafted — pending Ian's confirmation. (See `Book Outline.md`, Chapter 14.)
-
----
-
-*That's the World Forge, end to end — a world forged in a few minutes, ready to adventure in. The rules for actually playing in it are back in Part Two; the quick-reference sheets and blank worksheets are in Part Four.*
+*That's Worldbuilding, end to end — a world built in a few minutes, ready to adventure in. The rules for actually playing in it are back in Part Two; the quick-reference sheets and blank worksheets are in Part Four.*

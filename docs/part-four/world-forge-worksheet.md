@@ -1,6 +1,6 @@
-## World Forge Worksheet
+## Worldbuilding Worksheet
 
-The ten World Forge questions with room to write. Fill it in at the table during the World Forge step — one sheet builds one world. Answer in order: each question narrows the next, and by the time you reach the Threats the trouble almost names itself.
+The ten Worldbuilding questions with room to write. Fill it in at the table during the Worldbuilding step — one sheet builds one world. Answer in order: each question narrows the next, and by the time you reach the Threats the trouble almost names itself.
 
 > **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus are hidden automatically, so you'll get just the worksheet. One sentence per answer is plenty — vivid beats complete, and "we'll find out" is a fine answer.
 
@@ -31,8 +31,8 @@ The ten World Forge questions with room to write. Fill it in at the table during
 </style>
 
 <div class="af-sheet" markdown="0">
-  <p class="af-title">AMAZING FORGE</p>
-  <p class="af-sub">World Forge Worksheet</p>
+  <p class="af-title">LIGHTS, CAMERA, ACTION!</p>
+  <p class="af-sub">Worldbuilding Worksheet</p>
 
   <div class="af-q">
     <div class="af-qhead"><span class="af-qnum">1.</span><span><span class="af-qname">The Genre</span> &mdash; <span class="af-qask">What's the mood of our story?</span></span></div>

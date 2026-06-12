@@ -1,10 +1,10 @@
 # Drama
 
-*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then forge your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
 
 Drama is the genre with no monsters and no vaults — the stakes are *who likes whom, who knows what, and who you choose to be.* It's gossip and rivalry, love and loyalty, ambition and stress, all turned up loud, where a single overheard sentence can detonate a whole season of story. This is the *juicy* kind of drama — tea spilled, alliances flipped, hearts on the line — never the cozy kind; something should always be simmering. Dial it from frothy soap-opera fun to raw, real feelings.
 
-This kit hands you the *feeling* and the tools to build your own pressure-cooker. It never tells you whose heart breaks; that part is always yours to forge.
+This kit hands you the *feeling* and the tools to build your own pressure-cooker. It never tells you whose heart breaks; that part is always yours to invent.
 
 ### The feel
 
@@ -91,7 +91,7 @@ Drama runs on relationships, and those come in many flavors. Pick the engine tha
 
 ### Settings
 
-*A d10 of settings that pair naturally with Drama — pick one or roll, then forge your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
+*A d10 of settings that pair naturally with Drama — pick one or roll, then build your world around it (Chapter 14). Any setting can carry any genre, so raid the other kits freely.*
 
 | d10 | Setting |
 |---|---|
@@ -108,7 +108,7 @@ Drama runs on relationships, and those come in many flavors. Pick the engine tha
 
 ### Shaping your world
 
-Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your own words — don't just copy an example.
+Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own words — don't just copy an example.
 
 - **Setting →** a pressure-cooker community where everyone's lives overlap — a school, a royal court, a small town, a theater troupe, a competitive team. The tighter the box, the hotter the drama.
 - **Leadership & Enforcement →** the *social* order: who's "in," who decides, who enforces the unwritten rules everyone's terrified to break? Popularity, family name, and reputation are the real law here.
@@ -212,4 +212,4 @@ Genre-pointed nudges for the World Forge (Chapter 14). Answer *these* in your ow
 | 97–99 | A Reputation You'd Die to Protect |
 | 100 | **Roll again** |
 
-> **Drama shows off the whole system.** Almost every scene here is a **Social Confrontation** Challenge (Chapter 8), and Pay the Price is *feelings and standing* — never a beating. It's the clearest proof that *Amazing Forge* isn't just a game about fights: a tense conversation can fill a Challenge Track every bit as dramatically as a sword fight.
+> **Drama shows off the whole system.** Almost every scene here is a **Social Confrontation** Challenge (Chapter 8), and Pay the Price is *feelings and standing* — never a beating. It's the clearest proof that *Lights, Camera, Action!* isn't just a game about fights: a tense conversation can fill a Challenge Track every bit as dramatically as a sword fight.

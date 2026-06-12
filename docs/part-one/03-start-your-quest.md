@@ -1,4 +1,4 @@
-## Chapter 3 — Start Your Quest
+# Chapter 3 — Start Your Quest
 
 You've got a world and you've got heroes. The last thing you need before you start playing is something worth doing — a **Quest.** This is the big goal your heroes are chasing, the thing the whole adventure is about. Setting one up takes just a couple of minutes, and then you're playing.
 

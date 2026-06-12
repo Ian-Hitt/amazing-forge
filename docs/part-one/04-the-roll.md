@@ -1,4 +1,4 @@
-## Chapter 4 — The Roll
+# Chapter 4 — The Roll
 
 This is the heart of the game. Whenever a hero tries something risky or uncertain — something that could go wrong in an interesting way — you pick up the dice and find out what happens. This one simple roll handles everything: fighting, sneaking, searching, persuading, leaping, all of it.
 

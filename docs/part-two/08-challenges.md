@@ -1,6 +1,6 @@
-## Chapter 8 — Challenges (Complete)
+# Chapter 8 — Challenges
 
-A **Challenge** is how Amazing Forge plays out a big, high-stakes Scene that deserves more than a single roll — a monster fight, a desperate chase, a tense infiltration, a long trek through hostile country. You draw a short row of boxes, and the group fills them up together, roll by roll, until the Scene is won. This chapter covers the whole procedure and the handful of optional rules that go with it.
+A **Challenge** is how *Lights, Camera, Action!* plays out a big, high-stakes Scene that deserves more than a single roll — a monster fight, a desperate chase, a tense infiltration, a long trek through hostile country. You draw a short row of boxes, and the group fills them up together, roll by roll, until the Scene is won. This chapter covers the whole procedure and the handful of optional rules that go with it.
 
 Everything here runs on the core move from Chapter 7. A Challenge doesn't add new dice rules — it just gives a dramatic Scene room to breathe across several rolls instead of one.
 

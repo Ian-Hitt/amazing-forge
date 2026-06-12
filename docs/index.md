@@ -1,8 +1,8 @@
-# Amazing Forge
+# Lights, Camera, Action!
 
 *A cinematic, zero-prep tabletop RPG for ages 10+.*
 
-Amazing Forge is a story-first tabletop RPG built to sit between the simplest kids' games
+*Lights, Camera, Action!* is a story-first tabletop RPG built to sit between the simplest kids' games
 and the crunchy adult ones: approachable and fast, with just enough decisive mechanics to
 keep play flowing. Play it **Guided** (with a Guide) or **Co-op** (no Guide, solo or group).
 
@@ -33,4 +33,4 @@ Once you know the basics, **Part Two — Playing the Game** is the complete in-d
 
 And **Part Three — Building Your World** is the self-contained guide to forging the place your story happens in.
 
-- [The World Forge](part-three/14-the-world-forge.md)
+- [Worldbuilding](part-three/14-the-world-forge.md)

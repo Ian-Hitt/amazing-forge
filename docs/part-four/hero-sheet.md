@@ -41,7 +41,7 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
 </style>
 
 <div class="af-sheet" markdown="0">
-  <p class="af-title">AMAZING FORGE</p>
+  <p class="af-title">LIGHTS, CAMERA, ACTION!</p>
   <p class="af-sub">Hero Sheet</p>
 
   <div class="af-line"><label>Hero Name</label><span class="af-fill"></span><label>Player</label><span class="af-fill"></span></div>

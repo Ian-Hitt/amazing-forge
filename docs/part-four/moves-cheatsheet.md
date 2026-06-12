@@ -1,6 +1,6 @@
 ## Moves Cheatsheet
 
-Every move in *Amazing Forge* on a single card. Print it and drop it in the middle of the table so nobody has to flip back through a chapter mid-scene.
+Every move in *Lights, Camera, Action!* on a single card. Print it and drop it in the middle of the table so nobody has to flip back through a chapter mid-scene.
 
 Moves come in three families. **Action Moves** *resolve a hero's attempt* — you roll and read Strong / Weak / Miss. **Progress Moves** *open or close a track* — a Quest or a Challenge. **Frame Moves** *shift the fiction in the moment* — the dice point you in a direction, so you can never "fail" one.
 
@@ -43,7 +43,7 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 </style>
 
 <div class="af-sheet" markdown="0">
-  <p class="af-title">AMAZING FORGE</p>
+  <p class="af-title">LIGHTS, CAMERA, ACTION!</p>
   <p class="af-sub">Moves Cheatsheet</p>
 
   <div class="af-legend">

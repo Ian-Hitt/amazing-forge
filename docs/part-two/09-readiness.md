@@ -1,4 +1,4 @@
-## Chapter 9 — Readiness (Complete)
+# Chapter 9 — Readiness
 
 Readiness is your hero's single resource — body, mind, and supplies rolled into one 0–9 track (Chapter 2). This chapter covers the whole life of that number: how it goes **down** (Paying the Price) and how it comes back **up** (Recovery). They're two sides of one loop, so they live together here.
 
@@ -13,7 +13,7 @@ A quick orientation before the details:
 
 ## Part A — Pay the Price
 
-Paying the Price is what happens on a **Weak Hit** or a **Miss** — the complication that follows when a roll doesn't go cleanly. Mechanically it's simple: a Weak Hit costs **1 Readiness**, a Miss costs **2.** But the number is the *smallest* part of it. Paying the Price is where setbacks become story, and handling it well is most of what makes Amazing Forge feel like a movie instead of a spreadsheet.
+Paying the Price is what happens on a **Weak Hit** or a **Miss** — the complication that follows when a roll doesn't go cleanly. Mechanically it's simple: a Weak Hit costs **1 Readiness**, a Miss costs **2.** But the number is the *smallest* part of it. Paying the Price is where setbacks become story, and handling it well is most of what makes *Lights, Camera, Action!* feel like a movie instead of a spreadsheet.
 
 ### Choosing the Price
 
@@ -152,4 +152,4 @@ Only **Downtime restores a Broken Asset** — one per rest. A quick Mend gets a 
 
 ---
 
-*Next in Part Two: Chapter 10 — Quests & the Antagonist Track (Complete).*
+*Next in Part Two: Chapter 10 — Quests & the Antagonist Track.*

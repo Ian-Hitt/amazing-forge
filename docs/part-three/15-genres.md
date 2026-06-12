@@ -1,16 +1,16 @@
 # Chapter 15 — Genres
 
-The very first World Forge question (Chapter 14) asks for your **Genre** — the *mood* of your story — and it's the most important answer you'll give, because it quietly colors all nine that follow. This chapter is the deep dive on that single question: seven optional genre toolkits to help if one fits the story you're telling, how to set the tone exactly where your table wants it, and a **Genre Kit** for each one to get you building fast.
+The very first Worldbuilding question (Chapter 14) asks for your **Genre** — the *mood* of your story — and it's the most important answer you'll give, because it quietly colors all nine that follow. This chapter is the deep dive on that single question: seven optional genre toolkits to help if one fits the story you're telling, how to set the tone exactly where your table wants it, and a **Genre Kit** for each one to get you building fast.
 
 A genre isn't *what happens* in your story — it's *how it feels.* The same floating city can be the backdrop for a thrilling adventure, a creeping horror, or a gossip-soaked drama, and it plays completely differently each time. That's the whole point of this chapter: **the rules never change — only the feeling does.** Pick a genre and the kind of scenes you play, the way a setback stings, and even the heroes you'd want to make all snap into focus.
 
-> **You don't need this for your first game.** Part One's World Forge already had you name a mood out loud, and that's plenty to play. Come here when you want to lean *hard* into a particular feel, when you want help making characters that fit it, or when the table wants to try a genre that's new to them.
+> **You don't need this for your first game.** Part One's Worldbuilding already had you name a mood out loud, and that's plenty to play. Come here when you want to lean *hard* into a particular feel, when you want help making characters that fit it, or when the table wants to try a genre that's new to them.
 
 ---
 
 ## The Seven Genres
 
-The rules of *Amazing Forge* are deliberately **genre-agnostic** — they don't favor any one kind of story. So these seven aren't the genres the game is "for"; they're seven **optional toolkits** we put together to help if that's the kind of story you're telling. Reach for one when it's useful, blend them, dial them, ignore them, or invent your own — the game plays just as well without any of them. Each has a full **Genre Kit** on its own page (linked below).
+The rules of *Lights, Camera, Action!* are deliberately **genre-agnostic** — they don't favor any one kind of story. So these seven aren't the genres the game is "for"; they're seven **optional toolkits** we put together to help if that's the kind of story you're telling. Reach for one when it's useful, blend them, dial them, ignore them, or invent your own — the game plays just as well without any of them. Each has a full **Genre Kit** on its own page (linked below).
 
 Here's the most useful way to think about what a genre actually *tells* you: it's a **plot promise.** It never scripts your story — it promises a *kind* of story, and the **payoff** you're all quietly playing toward at the end of it. A Mystery promises a secret unravelled until the truth clicks; an Adventure promises a great danger faced and beaten; a Drama promises feelings building to a reckoning. You never have to plot it out in advance — name the promise, steer toward its payoff, and the story lands. Here's the promise each genre below makes:
 
@@ -24,9 +24,9 @@ Here's the most useful way to think about what a genre actually *tells* you: it'
 | **[Drama](genres/drama.md)** | Secrets, rivalries, and feelings build until they finally come to a head. |
 | **[Post-Apocalypse](genres/post-apocalypse.md)** | Survivors scrape a life from the ruins — and decide what's worth rebuilding. |
 
-**Pick one as your anchor.** Whichever you choose becomes the lens for the rest of the World Forge — it tells you what your Threats look like, what counts as a good Asset, and, crucially, what **Pay the Price** (Chapter 9) *feels* like. A price in Adventure is a collapsing rope bridge; in Drama it's a secret slipping to exactly the wrong person. Same rule, different sting.
+**Pick one as your anchor.** Whichever you choose becomes the lens for the rest of Worldbuilding — it tells you what your Threats look like, what counts as a good Asset, and, crucially, what **Pay the Price** (Chapter 9) *feels* like. A price in Adventure is a collapsing rope bridge; in Drama it's a secret slipping to exactly the wrong person. Same rule, different sting.
 
-> **Where's fantasy? Where's swords & sorcery?** Those are *settings*, not genres — a flavor you pour into a feeling. Classic swords-and-sorcery fantasy is the **default flavor of Adventure**, and each kit lists a handful of **flavors** to point your world somewhere specific (Adventure's fantasy variants, Horror's haunted house, and so on), plus **blends** that fold in a second genre (Mystery's Monster-of-the-Week is Mystery + Horror). Genre is *how it feels*; the flavor, the blend, and your World Forge answers decide *what it's made of.*
+> **Where's fantasy? Where's swords & sorcery?** Those are *settings*, not genres — a flavor you pour into a feeling. Classic swords-and-sorcery fantasy is the **default flavor of Adventure**, and each kit lists a handful of **flavors** to point your world somewhere specific (Adventure's fantasy variants, Horror's haunted house, and so on), plus **blends** that fold in a second genre (Mystery's Monster-of-the-Week is Mystery + Horror). Genre is *how it feels*; the flavor, the blend, and your Worldbuilding answers decide *what it's made of.*
 
 ---
 
@@ -67,8 +67,8 @@ Each kit is a **launchpad, not a finished world.** It hands you the *kind* of st
 - **Telling these stories** — table-side tips: what scenes look like, what your Challenges tend to be, how to lean into the feel, and the traps to avoid.
 - **A scene at the table** — a short worked example showing the genre's feel in actual play.
 - **Flavors & blends** — a handful of *flavors* within the genre (Adventure's fantasy variants, Horror's haunted house), plus *blends* that fold in a second genre (Monster-of-the-Week is Mystery + Horror).
-- **Settings** — a d10 of ready-to-use settings that suit the genre, each a title and a one-line pitch; pick or roll, then forge your world around it.
-- **Shaping your world** — genre-pointed prompts for the ten World Forge questions (Chapter 14), so your world comes out leaning the right way. Answer *these*; don't just copy an example.
+- **Settings** — a d10 of ready-to-use settings that suit the genre, each a title and a one-line pitch; pick or roll, then build your world around it.
+- **Shaping your world** — genre-pointed prompts for the ten Worldbuilding questions (Chapter 14), so your world comes out leaning the right way. Answer *these*; don't just copy an example.
 - **Story seeds & standing tensions** — a rollable table of situations this genre thrives on. These are *conditions*, not plots — your table invents the actual Quests from them.
 - **Archetypes** — ready-to-play hero shapes, each with four suggested starting Assets. Play one as-is, or file off the serial numbers and make it yours.
 - **The Asset table** — a big **d100** list of genre-fitting Assets. Roll for a surprise, or just read down it and grab the four that make you grin. Every entry is a starting point — rename or reskin it to fit your hero and your world.
@@ -79,10 +79,10 @@ Each kit is a **launchpad, not a finished world.** It hands you the *kind* of st
 
 ## Bringing It to the Table
 
-Choosing a genre is a **group decision**, just like everything in the World Forge. Name the genre, set the dial, and — if it helps — pick a movie or show everyone knows as your shared reference. Then forge your world through that lens. You'll find the ten questions almost answer themselves once everyone's picturing the same kind of story.
+Choosing a genre is a **group decision**, just like everything in Worldbuilding. Name the genre, set the dial, and — if it helps — pick a movie or show everyone knows as your shared reference. Then build your world through that lens. You'll find the ten questions almost answer themselves once everyone's picturing the same kind of story.
 
 And nothing is locked forever. A campaign can start as a playful adventure and grow more serious as the stakes rise; a mystery can crack open into sci-fi. The genre is your starting tone, not a contract. Pick the feeling you want *tonight*, open its kit, and let the story carry you from there.
 
 ---
 
-*Now pick your genre and open its kit — that's where the building gets specific. When your world's taking shape, the next chapter, Building a Cool Hero, helps you make a character to match; and the quick-reference sheets and printable worksheets — including a World Forge worksheet to fill in as you go — are in Part Four.*
+*Now pick your genre and open its kit — that's where the building gets specific. When your world's taking shape, the next chapter, Building a Cool Hero, helps you make a character to match; and the quick-reference sheets and printable worksheets — including a Worldbuilding worksheet to fill in as you go — are in Part Four.*

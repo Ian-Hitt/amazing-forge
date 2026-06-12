@@ -1,6 +1,6 @@
 # Chapter 1 — Build Your World
 
-Every adventure needs a world to happen in. Before you make heroes or start your Quest, your group spends a few minutes inventing the place your story lives. This is the **World Forge**, and it's the first thing you do together.
+Every adventure needs a world to happen in. Before you make heroes or start your Quest, your group spends a few minutes inventing the place your story lives. This is **Worldbuilding**, and it's the first thing you do together.
 
 Here's the good news: you can build a whole world in about ten minutes by answering ten quick questions out loud as a group. There are no wrong answers. The goal isn't a finished, detailed setting — it's just enough of a shared picture that everyone's imagining the same kind of place. The rest fills itself in as you play.
 
@@ -40,10 +40,10 @@ Brave protectors, troublemakers, legends, total unknowns? *(Example: "Reckless k
 
 ### You're Done — That's a World
 
-Answer those ten questions and you've forged a setting rich enough to adventure in. Notice how the answers already hint at stories: a floating city that's slowly sinking, a forbidden world below the clouds, and a group nobody takes seriously. You haven't planned an adventure — but you can already feel where the trouble is.
+Answer those ten questions and you've built a setting rich enough to adventure in. Notice how the answers already hint at stories: a floating city that's slowly sinking, a forbidden world below the clouds, and a group nobody takes seriously. You haven't planned an adventure — but you can already feel where the trouble is.
 
 Don't worry about filling every gap now. If a question didn't grab anyone, leave it loose; you'll discover the answer when it comes up in play. The world only needs to be as detailed as your story so far.
 
-> *If you'd rather not build from scratch, Part Three offers ready-made starter worlds you can pick up and run with. Its full World Forge chapter gives deeper guidance for each of the ten questions and idea tables to roll on — everything about worldbuilding in one place. For your first game, the version above is all you need.*
+> *Want to go deeper? Part Three's full Worldbuilding chapter walks through each of the ten questions in detail, with genre kits to build from — everything about worldbuilding in one place. For your first game, the version above is all you need.*
 
-**Next up:** with your world forged, it's time to create the heroes who'll live in it. Turn to Chapter 2.
+**Next up:** with your world built, it's time to create the heroes who'll live in it. Turn to Chapter 2.

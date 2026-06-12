@@ -1,8 +1,8 @@
-# Chapter 13 — Growing Your Heroes (Complete)
+# Chapter 13 — Growing Your Heroes
 
 A hero who slays the dragon in Episode One shouldn't feel like the same hero by the season finale. They've earned scars, signature moves, and a reputation. This chapter is how that shows up on the sheet.
 
-But *Amazing Forged* grows heroes in an unusual way, and it's worth saying up front: **your heroes get more tools, never bigger numbers.** A starting hero and a campaign veteran both roll the same 2d6 and add the same +2. The veteran just has *more* — more signature tricks, more Assets, more ways to bend a scene their way. We call this **horizontal growth**, and it's the secret that keeps the game working over a long campaign (more on why at the end of the chapter).
+But *Lights, Camera, Action!* grows heroes in an unusual way, and it's worth saying up front: **your heroes get more tools, never bigger numbers.** A starting hero and a campaign veteran both roll the same 2d6 and add the same +2. The veteran just has *more* — more signature tricks, more Assets, more ways to bend a scene their way. We call this **horizontal growth**, and it's the secret that keeps the game working over a long campaign (more on why at the end of the chapter).
 
 > **One-shots can skip this entirely.** If you're playing a single Episodic Quest in an afternoon, there's nothing to do here — heroes don't grow mid-adventure. Advancement is for **Season** and **Campaign** play, where the same heroes return episode after episode. Come back when your group decides to keep going.
 
@@ -53,7 +53,7 @@ So once a hero has six Assets, they can't simply add a seventh. Instead they **T
 
 ## The Boon Menu
 
-A **Boon** is a signature move attached to one of your Assets — a special trick that fires **once per Scene or once per Session** when that Asset is in play. The most important thing about a Boon: **it is never a bonus to your roll.** It doesn't make you better at rolling; it gives you a new *thing you can do* in the moments your Asset already applies.
+A **Boon** is a signature move attached to one of your Assets — a special trick that fires **once per Scene or once per Session** when that Asset is in play. The key thing about a Boon: **it never raises your everyday roll.** Your baseline is always 2d6 + 2 (or +1), from your first session to your last — a Boon doesn't nudge that number up. What it gives you is a *thing you can do* in the moments your Asset applies: upgrade a result, reroll, cover an ally, ask the Oracle for free — or, once in a great while, dig deep for a single do-or-die roll.
 
 You can attach up to **two Boons** to any one Asset. Here's the starter menu — your table can invent more (see below):
 
@@ -62,18 +62,27 @@ You can attach up to **two Boons** to any one Asset. Here's the starter menu —
 | **Signature Move** | Once per **Session** | When this Asset applies, treat a **Weak Hit as a Strong Hit.** (A banked Oracle's Blessing for your big moment.) |
 | **Take the Hit** | Once per **Session** | When this Asset applies, it — or its companion — **pays a Price for you** (or for an ally right beside you). The hero in danger takes no Readiness loss; the Asset absorbs it in the fiction. |
 | **Reliable** | Once per **Scene** | When using this Asset, **reroll a Miss** once. Take the new result. |
+| **In My Element** | Once per **Scene** | Name one situation when you take this Boon — *in a fight, while protecting someone, on a chase, with a crowd watching.* When this Asset applies **in that situation**, treat a **Weak Hit as a Strong Hit.** |
+| **Dig Deep** | Once per **Session** | When this Asset applies, **add +1 to one roll** — your banked nudge for a do-or-die moment. (It stacks with the usual +2: a one-time **+3** on the roll that has to land.) |
+| **Lend a Hand** | Once per **Scene** | When you use this Asset to **help an ally**, they may **reroll a Miss** on the roll you're helping with. Take the new result. |
+| **Mender** | Once per **Session** | When you **Mend** using this Asset, restore **+1 extra** — and you can Mend an ally as easily as yourself. |
+| **Scout** | Once per **Scene** | **Ask the Oracle one yes/no question for free** (Chapter 11) — a hunch, a tell, a warning this Asset would pick up on. |
 
-Picture them in play. *My Loyal Wolf* with **Take the Hit**: the trap snaps shut, and the Wolf shoulders you clear and takes the fall instead. *Fire Magic* with **Signature Move**: a so-so blast (Weak Hit) becomes a roaring wall of flame (Strong) right when it counts. *Grappling Hook* with **Reliable**: the throw goes wide (Miss), but you reel it back and try again in one smooth motion.
+Picture them in play. *My Loyal Wolf* with **Take the Hit**: the trap snaps shut, and the Wolf shoulders you clear and takes the fall instead. *Trick Arrows* with **In My Element** (*in a fight*): a so-so shot (Weak) becomes the perfect ricochet (Strong) the moment the blades come out. *Steady Hands* with **Lend a Hand**: your partner fumbles the wiring (Miss), you guide their fingers, and they get one more try. *Healing Herbs* with **Mender**: the same poultice that patches you up does a little more, and works just as well on the friend bleeding next to you. *Old Family Sword* with **Dig Deep**: the blow has to land *right now* — you put everything you have behind it (+1) and trust the steel.
 
 ### Inventing your own Boons
 
-The three above are a starting point. Tables are encouraged to dream up Boons that fit their heroes — a player who wants a signature trick for their Asset should pitch it, and the Guide (or the table, in Co-op) says yes if it follows two rules:
+The menu above is a starting point. Tables are encouraged to dream up Boons that fit their heroes — a player who wants a signature trick for their Asset should pitch it, and the Guide (or the table, in Co-op) says yes if it follows two rules:
 
-1. **It's a move, not a number.** A Boon lets you *do* something — pay a Price for an ally, reroll, escalate a result, reach somewhere you couldn't. It never adds to your dice. (If it would make a roll bigger, it's not a Boon.)
+1. **It's a move you spend, not a permanent number.** A Boon hands you something to *do* — pay a Price for an ally, reroll, upgrade a result, reach somewhere you couldn't, ask the Oracle for free. What it can't do is quietly raise your baseline. An always-on *"+1 to all my fighting rolls"* is out: that's a bigger number on every roll, forever, and it would drift the whole game. But a **banked** nudge you spend once and it's gone? That's fair game — that's exactly what **Dig Deep** is (+1 to one roll, once per Session), and you can flavor your own the same way: *"+1 in a fight, once per Scene"* works fine. The test isn't "numbers are banned," it's **"is this a permanent stat bump, or a limited move I spend?"**
 2. **It has a limit.** Once per Scene or once per Session, tied to a specific Asset. A trick you can do every single roll isn't a signature move — it's just power creep.
 
-Anything that passes both is fair game. The fiction of the Asset should suggest the trick: a *Wise Sprite Companion* might **scout ahead** (ask the Oracle a yes/no question for free, once per Scene); *Healing Herbs* might let a hero **Mend for one extra point**, once per Session. Keep them flavorful, keep them limited, and keep them off the dice.
+There's a third idea that makes inventing Boons easy — call it the **trade**:
+
+> **Narrow the trigger, widen the effect.** A Boon that fires *any time the Asset applies* should stay mild or rare — that's why **Signature Move** (upgrade a result) is only once per Session, while **Reliable** (a mere reroll) gets to fire every Scene. But a Boon that only fires in **one specific situation** — *in a fight, while protecting someone, on a chase* — can afford to hit harder, because it won't come up on every roll. That's the whole trick behind **In My Element**: same upgrade as Signature Move, but available every Scene *because* you've boxed it into one kind of moment.
+
+So when a player pitches a trick, ask: how often will this actually fire? The narrower the answer, the more it's allowed to do. It's the same trade that lets a *situational* +1 fire more often than **Dig Deep**: the menu's **Dig Deep** works on *any* roll but only once a Session, while a player who locks it down — *"+1 in a fight"* — has earned **once per Scene**, because it won't come up the rest of the time. The fiction of the Asset should suggest the trick — a *Wise Sprite Companion* **scouts ahead**, a *Loyal Steed* lets you **break away from any fight once per Scene** (you're gone before they can stop you), a *Silver Tongue* lets you **ask the Oracle whether someone's lying, for free.** Keep them flavorful, keep them limited, and keep your *baseline* off the dice.
 
 ---
 
-*That's how heroes grow. With Part Two complete, you know everything about *playing* the game. Part Three steps away from the table to the other half of *Amazing Forged* — **building the world your heroes adventure in**, starting with the World Forge in Chapter 14.*
+*That's how heroes grow. With Part Two complete, you know everything about *playing* the game. Part Three steps away from the table to the other half of *Lights, Camera, Action!* — **building the world your heroes adventure in**, starting with Worldbuilding in Chapter 14.*
