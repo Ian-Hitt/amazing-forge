@@ -22,7 +22,7 @@ Because the rules are so light, the game is easy enough for kids to pick up in m
 
 The best part: it fits *any* kind of story. *Lights, Camera, Action!* doesn't care whether you're flying a starship, exploring a haunted mansion, sailing a pirate sea, or solving a mystery in your own home town. The rules don't change — only the story does. You pick the kind of adventure you want, and the same handful of rules carries it.
 
-There's no winning by beating everyone else. You win by telling a great story together and seeing your heroes through to the end of their Quest.
+There's no winning by beating everyone else. You win by telling a great story together and seeing your heroes through to the end of their Story Arc.
 
 ### The Film Mindset
 

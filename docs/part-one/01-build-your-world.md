@@ -1,6 +1,6 @@
 # Chapter 1 — Build Your World
 
-Every adventure needs a world to happen in. Before you make heroes or start your Quest, your group spends a few minutes inventing the place your story lives. This is **Worldbuilding**, and it's the first thing you do together.
+Every adventure needs a world to happen in. Before you make heroes or start your Story Arc, your group spends a few minutes inventing the place your story lives. This is **Worldbuilding**, and it's the first thing you do together.
 
 Here's the good news: you can build a whole world in about ten minutes by answering ten quick questions out loud as a group. There are no wrong answers. The goal isn't a finished, detailed setting — it's just enough of a shared picture that everyone's imagining the same kind of place. The rest fills itself in as you play.
 

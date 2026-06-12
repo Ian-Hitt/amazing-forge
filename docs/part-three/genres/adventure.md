@@ -30,19 +30,19 @@ In Adventure, a price keeps the story *moving* — it rarely grinds it down. A s
 
 > **Let the dial pick the sting.** Playful, "the way gets harder" is a comic pratfall — you swing across the chasm by the seat of your pants. Serious, the same fall means a friend is captured on the far side, or the only map washes away for good. Most prices here just raise the stakes and the fun — heroes take their lumps, dust off, and press on. **Save the genuinely heavy prices** — a friend lost, a treasure gone for good — for rare, serious beats so they truly land.
 
-### What a Quest looks like here
+### What a Story Arc looks like here
 
-**The promise:** *bold heroes brave a great danger and win through against the odds.* The Quest Track is how the table delivers it.
+**The promise:** *bold heroes brave a great danger and win through against the odds.* The Story Arc Track is how the table delivers it.
 
-Adventure is the genre where the Quest Track is easiest to picture: a **Milestone is a place reached or a foe overcome** (Chapter 10), and the track is the road to the goal. This is the shape every other genre borrows from, so it's worth seeing clearly.
+Adventure is the genre where the Story Arc Track is easiest to picture: a **Milestone is a place reached or a foe overcome** (Chapter 10), and the track is the road to the goal. This is the shape every other genre borrows from, so it's worth seeing clearly.
 
-The three Quest scales (Chapter 10) map straight onto it:
+The three Story Arc scales (Chapter 10) map straight onto it:
 
-- **Episodic (3 boxes, one sitting):** *Reach the lost temple and claim the relic.* The Milestones: **cross the Saltglass Waste → solve the sealed gate → get past the guardian.** A clean, single-session expedition.
+- **Episode (3 boxes, one sitting):** *Reach the lost temple and claim the relic.* The Milestones: **cross the Saltglass Waste → solve the sealed gate → get past the guardian.** A clean, single-session expedition.
 - **Season (8 boxes, many episodes):** *Chart the uncharted continent before the rival fleet does.* Each box is a major leg conquered — a mountain range crossed, a hostile kingdom won over, a map-blank finally filled — marked whenever the table agrees you've made real headway.
-- **Campaign (12 boxes, the whole game):** *Topple the Sky-Tyrant and free the floating cities.* A sweeping arc built from many smaller Quests that feed it.
+- **Series (12 boxes, the whole game):** *Topple the Sky-Tyrant and free the floating cities.* A sweeping arc built from many smaller Story Arcs that build it.
 
-The **Antagonist Track** (always present, Chapter 10) is the thing *racing* you: the rival crew, the waking beast, the marching tyrant, the closing storm-season. It ticks when the heroes turn back from a fight (**Flee**, Chapter 8) or when a bad roll's price is the rival gaining ground. Fill it and they get there first — which seeds the next Quest. Give your antagonist a face and a clock so every tick is something you can narrate.
+The **Antagonist Track** (always present, Chapter 10) is the thing *racing* you: the rival crew, the waking beast, the marching tyrant, the closing storm-season. It ticks when the heroes turn back from a fight (**Flee**, Chapter 8) or when a bad roll's price is the rival gaining ground. Fill it and they get there first — which seeds the next Story Arc. Give your antagonist a face and a clock so every tick is something you can narrate.
 
 ### Tempo
 
@@ -50,7 +50,7 @@ The **Antagonist Track** (always present, Chapter 10) is the thing *racing* you:
 
 In practice:
 
-- **Episodic is the natural beat,** and even Season Quests want short, punchy Milestones. If a leg of the trip is dragging, collapse it into one decisive Scene and move on (Chapter 10).
+- **Episode is the natural beat,** and even Seasons want short, punchy Milestones. If a leg of the trip is dragging, collapse it into one decisive Scene and move on (Chapter 10).
 - **Always keep a clock ticking.** A goal in view *and* a reason to hurry is what turns wandering into Adventure. The rival fleet, the rising tide, the captured friend — something should always be getting worse if you dawdle.
 - **End every scene on a hook** — a tremor, a sail on the horizon, a door creaking open — so the story never sits still.
 
@@ -66,7 +66,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Quest: reach the lost temple (an Episodic Quest). First Milestone: cross the Saltglass Waste. The table sets up a Journey Challenge — Medium, 4 boxes, the track being the desert itself.*
+> *The Story Arc: reach the lost temple (an Episode). First Milestone: cross the Saltglass Waste. The table sets up a Journey Challenge — Medium, 4 boxes, the track being the desert itself.*
 >
 > **Guide:** Three days into the Waste and the wind kicks up — a wall of stinging dust rolling in fast. The only cover is a ridge a hard sprint away. What do you do?
 > **Player (Rook):** I grab the rope and lash us together so nobody gets lost in it, then lead us for the ridge. I've got *Wilderness Survival* — I know how these storms move.
@@ -120,7 +120,7 @@ Genre-pointed nudges for the ten Worldbuilding questions (Chapter 14). Answer *t
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
+*Situations to mine — your table decides what the Story Arc actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Story Arc. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 
 | d100 | An Adventure waiting to happen |
 |---|---|

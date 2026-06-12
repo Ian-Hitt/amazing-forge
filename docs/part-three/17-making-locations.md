@@ -75,7 +75,7 @@ The first table is the heart — it gives you *what the place is* and *why the h
 | 7 | The way out just got harder than the way in. |
 | 8 | The place is failing — flooding, burning, freezing, fading — on a clock. |
 | 9 | The people here are frightened, and they blame the heroes (or beg them to fix it). |
-| 10 | What the heroes came for is here — but so is the antagonist's hand. *(Tick the Antagonist Track if it lands — [Chapter 10](../part-two/10-quests-and-the-antagonist-track.md).)* |
+| 10 | What the heroes came for is here — but so is the antagonist's hand. *(Tick the Antagonist Track if it lands — [Chapter 10](../part-two/10-story-arcs-and-the-antagonist-track.md).)* |
 | 11 | The person they need is here, but won't — or can't — talk freely. |
 | 12 | There's a price of entry nobody mentioned until now. |
 | 13 | A familiar face is here, on purpose, and it's no coincidence. |

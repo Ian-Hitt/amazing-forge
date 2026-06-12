@@ -2,9 +2,9 @@
 
 A hero who slays the dragon in Episode One shouldn't feel like the same hero by the season finale. They've earned scars, signature moves, and a reputation. This chapter is how that shows up on the sheet.
 
-But *Lights, Camera, Action!* grows heroes in an unusual way, and it's worth saying up front: **your heroes get more tools, never bigger numbers.** A starting hero and a campaign veteran both roll the same 2d6 and add the same +2. The veteran just has *more* — more signature tricks, more Assets, more ways to bend a scene their way. We call this **horizontal growth**, and it's the secret that keeps the game working over a long campaign (more on why at the end of the chapter).
+But *Lights, Camera, Action!* grows heroes in an unusual way, and it's worth saying up front: **your heroes get more tools, never bigger numbers.** A starting hero and a veteran both roll the same 2d6 and add the same +2. The veteran just has *more* — more signature tricks, more Assets, more ways to bend a scene their way. We call this **horizontal growth**, and it's the secret that keeps the game working over a long game (more on why at the end of the chapter).
 
-> **One-shots can skip this entirely.** If you're playing a single Episodic Quest in an afternoon, there's nothing to do here — heroes don't grow mid-adventure. Advancement is for **Season** and **Campaign** play, where the same heroes return episode after episode. Come back when your group decides to keep going.
+> **One-shots can skip this entirely.** If you're playing a single **Episode** in an afternoon, there's little to do here — one sitting earns about 1 Growth, not enough to buy anything yet. Advancement is for **Season** and **Series** play, where the same heroes return episode after episode. Come back when your group decides to keep going.
 
 ---
 
@@ -12,17 +12,11 @@ But *Lights, Camera, Action!* grows heroes in an unusual way, and it's worth say
 
 Each hero has their own **Growth Track** — a simple row of boxes on the character sheet. It works like every other track in the game: you fill boxes in.
 
-The rule is one line: **each time a hero completes a Quest, fill one box — that's 1 Growth.** Any Quest, any scale. That's the *only* time Growth is earned. Nothing gets marked in the middle of a Quest, so there's no running tally to keep during play and the dice math at the table never changes from one session to the next.
+The rule is one line: **every 3rd Milestone the party marks, each hero fills one box — that's 1 Growth.** Count every Milestone you mark, on *any* Story Arc; a single beat that marks a box on two arcs at once counts each one. The tally is **cumulative across your whole game and never resets** — so a 4-box Episode's leftover Milestone carries toward the next Growth instead of being wasted. Everyone at the table ticks together.
 
-**The bigger the story, the more Growth — automatically.** Because Season and Campaign Quests fill up mostly by *completing the smaller Quests that feed them* (Chapter 10), the long scales pay out more Growth on their own, without any special rule:
+**This ties Growth to how much story you actually play, not how many arcs you finish** — which quietly fixes two things. A long Story Arc you tell start-to-finish (a standalone Movie or Season) pays out *as you go,* so it's never starved waiting for the finish line. And dragging one arc lazily across many sessions earns no more than playing it briskly — there's nothing to game. Roughly: an Episode is 3 Milestones ≈ **1 Growth**, so you'll earn about **1 per session of play.** A Boon costs 2 (≈ every couple of sessions); a New Asset costs 5 (≈ every five).
 
-- A standalone **Episodic Quest** earns about **1 Growth** — not enough to buy anything on its own. (That's on purpose: a one-shot shouldn't hand out upgrades.)
-- A **Season** earns roughly **5–7 Growth** across its feeder Quests and its own completion.
-- A full **Campaign** earns somewhere around **12–18 Growth** over the whole game.
-
-So a hero picks up a handful of new things over a campaign — a meaningful amount of growth, paced slowly enough that it never turns into bookkeeping.
-
-> **Why a track instead of upgrading every Quest?** If heroes improved a little after every single adventure, the sheets would balloon and the math would drift fast. The Growth Track slows the drip to a trickle: you *save up* for the next thing rather than tweaking your hero constantly. Growth you've earned but not spent just sits on the track until you want it.
+> **Why a track instead of upgrading after every adventure?** If heroes improved a little after every single scene, the sheets would balloon and the math would drift fast. The Growth Track slows the drip to a trickle: you *save up* for the next thing rather than tweaking your hero constantly. Growth you've earned but not spent just sits on the track until you want it. And because Boons only add *tools,* never bigger numbers, earning Growth a little faster or slower never breaks the game — so the every-3-Milestones pace is a feel knob, not a balance lever.
 
 ---
 
@@ -70,7 +64,7 @@ You can attach up to **two Boons** to any one Asset.
 | **+1 to the roll** | Add **+1** before you read the result — a one-time **+3** with your Asset, for the roll that has to land. | Strong |
 | **Take the Price** | This Asset (or you) **pays a Price for you or an ally beside you** — the hero in danger loses no Readiness; it lands on the Asset in the fiction. | Strong |
 | **Reroll** | **Reroll a Miss** once with this Asset. Take the new result. | Mild |
-| **+1 forward** | Give your **next** roll — or an ally's — **+1**. | Mild |
+| **+1 to your next roll** | Give your **next** roll — or an ally's — **+1**. | Mild |
 | **Lend a reroll** | When you **help an ally**, they may reroll a Miss on the roll you're helping with. | Mild |
 | **Free Oracle** | **Ask the Oracle one yes/no question for free** (Chapter 11). | Mild |
 | **Steady Hands** | When you **Mend** with this Asset, restore **+1 extra** — and you can Mend an ally as easily as yourself. | Mild |

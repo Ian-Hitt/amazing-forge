@@ -80,7 +80,7 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
   </div>
 
   <h3>Readiness</h3>
-  <p class="af-hint">Start at 9 (circled). Cross off as it drops — Weak Hit &minus;1, Miss &minus;2. At 0 you're Out of Action and one Asset breaks. Heal by rolling: Mend (self or ally, 1&times;/Milestone) Strong +3 / Weak +2 / Miss none; Downtime (or finishing a Quest) +6/+7, and restores one Broken Asset. Max 9.</p>
+  <p class="af-hint">Start at 9 (circled). Cross off as it drops — Weak Hit &minus;1, Miss &minus;2. At 0 you're Out of Action and one Asset breaks. Heal by rolling: Mend (self or ally, 1&times;/Milestone) Strong +3 / Weak +2 / Miss none; Downtime (or finishing a Story Arc) +6/+7, and restores one Broken Asset. Max 9.</p>
   <div class="af-track af-readiness">
     <span class="af-box">0</span>
     <span class="af-box">1</span>
@@ -95,7 +95,7 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
   </div>
 
   <h3>Growth Track</h3>
-  <p class="af-hint">Fill one box each time you complete a Quest (1 Growth). Spend 2 on a Boon, 5 on a New Asset (ceiling 6 — Trade In to exceed).</p>
+  <p class="af-hint">Fill one box each time you complete a Story Arc (1 Growth). Spend 2 on a Boon, 5 on a New Asset (ceiling 6 — Trade In to exceed).</p>
   <div class="af-track">
     <span class="af-box"></span><span class="af-box"></span><span class="af-box"></span>
     <span class="af-box"></span><span class="af-box"></span><span class="af-box"></span>
@@ -105,7 +105,7 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
     <span class="af-box"></span><span class="af-box"></span><span class="af-box"></span>
   </div>
 
-  <h3>Quest Notes</h3>
+  <h3>Story Arc Notes</h3>
   <div class="af-notes"></div>
 
   <p class="af-ref"><b>The Roll:</b> 2d6, +2 if an Asset fits / +1 otherwise. &nbsp; <b>10+</b> Strong Hit &middot; <b>7&ndash;9</b> Weak Hit &middot; <b>6&minus;</b> Miss. &nbsp; Doubles upgrade one tier (Oracle's Blessing). A Hit means you narrate the change.</p>

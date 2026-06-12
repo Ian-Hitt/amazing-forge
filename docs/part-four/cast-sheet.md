@@ -2,7 +2,7 @@
 
 One page to remember everyone the heroes meet. A zero-prep game invents NPCs fast — the innkeeper in scene two, the rival who shows up in scene nine — and this is where you jot them so they can come back. For each one you need only three things: their **Role** (why they're in the story), their one memorable **Detail**, and **where you left them**. That's enough to bring anybody back to life mid-scene.
 
-> **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus and navigation are hidden automatically, so you'll get just the sheet. Print several — a long campaign builds a big cast.
+> **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus and navigation are hidden automatically, so you'll get just the sheet. Print several — a long game builds a big cast.
 
 See **Making NPCs** ([Chapter 18](../part-three/18-making-npcs.md)) for the generator that fills these in.
 

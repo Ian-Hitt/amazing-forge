@@ -4,7 +4,7 @@ Everything so far has been about *what* happens when the dice hit the table. Thi
 
 The two modes share more than they differ. Both live on the same handful of skills: asking the table good questions, voicing a world that has no stat blocks, and reading the clock so the story lands instead of fizzling. So this chapter is built in three parts: running with a Guide, running Co-op, and the shared tools that serve both. Part One introduced these briefly across Chapters 5 and 6 — this is the full version.
 
-> **You already have less to do than you think.** The hardest part of most games — inventing the world and plotting the adventure — is already handled. **Worldbuilding** (Chapter 14) built your setting. The **Quest Track** (Chapter 10) points at where the story is going. The **Oracle** (Chapter 11) answers what happens next when you're stuck. Running the game isn't about carrying all of that in your head; it's about responding to what's in front of you, one scene at a time.
+> **You already have less to do than you think.** The hardest part of most games — inventing the world and plotting the adventure — is already handled. **Worldbuilding** (Chapter 14) built your setting. The **Story Arc Track** (Chapter 10) points at where the story is going. The **Oracle** (Chapter 11) answers what happens next when you're stuck. Running the game isn't about carrying all of that in your head; it's about responding to what's in front of you, one scene at a time.
 
 ---
 
@@ -28,7 +28,7 @@ What's missing from that list is the part new Guides expect to carry: the plot. 
 "Zero prep" is a promise, not a dare. You are genuinely not expected to prepare anything. But improvising well is a skill, and these habits make it feel effortless:
 
 - **Lean on what's already on the table.** Every Worldbuilding answer is loaded ammunition. The **Threats**, the **Forbidden**, the **Leadership**, the **Reputation** — you wrote those down precisely so you'd never face a blank page. Stuck for a complication? Reach for a Threat. Stuck for a place? You already named the world's geography.
-- **Read the next Milestone off the track.** You always know roughly where the story is heading, because the Quest Track tells you: the next empty box is the next chapter. You don't need to know *how* the heroes get there — just point every scene loosely toward it.
+- **Read the next Milestone off the track.** You always know roughly where the story is heading, because the Story Arc Track tells you: the next empty box is the next chapter. You don't need to know *how* the heroes get there — just point every scene loosely toward it.
 - **Make the next scene inevitable *and* surprising.** The trick to satisfying improvisation is that the next beat should feel like it had to happen — *of course* the bridge guard recognizes them — while still landing as a surprise. You get there by building on what's established (inevitable) and adding one thing nobody expected (surprise).
 - **Say yes, or yes-but.** When a player tries something clever, your default is yes. If it shouldn't be free, it's a **Challenge** or a roll — "yes, *but* you'll have to get past the guards first." Flat no's stall the movie; turn them into obstacles instead.
 - **When you don't know, ask the table.** This is the release valve that makes no-prep possible. You are never obligated to have an answer ready — see [Asking the Table Good Questions](#asking-the-table-good-questions).
@@ -61,7 +61,7 @@ Concretely, three things move from "the Guide does it" to "the table does it tog
 - **Answering unknowns** — handed to the **Oracle** (Chapter 11) instead of a Guide's gut.
 - **Voicing the world** — split around the table ([Part C](#voicing-npcs)).
 
-Everything else — the Roll, Challenges, Readiness, Quests — works exactly as written.
+Everything else — the Roll, Challenges, Readiness, Story Arcs — works exactly as written.
 
 ### The Golden Rule
 
@@ -107,7 +107,7 @@ Fleeing a Challenge (Chapter 8) is always a **group decision**, and in Co-op the
 
 The question to ask out loud is simple: **"Is the Readiness bleed still worth it — or do we cut our losses and let the villain gain ground?"** That framing matters, because **Fleeing is a tactic, not a failure.** You trade *story ground* (the Challenge's lost progress, plus one box on the **Antagonist Track**) for *survival* (the bleeding stops). A party that never flees isn't braver — it's just one bad Challenge away from going **Out of Action** for no reason.
 
-Make it a shared call, and make it a *story* beat, not a punishment: narrate the pull-back, play out the **Surge** (Chapter 10) as the antagonist gains ground, and keep going. And remember the floor — because the Antagonist Track is short, you can only flee so many times before it fills and you **Quit the Quest** (Chapter 10). That's what makes each retreat a real decision instead of a free reset.
+Make it a shared call, and make it a *story* beat, not a punishment: narrate the pull-back, play out the **Surge** (Chapter 10) as the antagonist gains ground, and keep going. And remember the floor — because the Antagonist Track is short, you can only flee so many times before it fills and you **Quit the Story Arc** (Chapter 10). That's what makes each retreat a real decision instead of a free reset.
 
 ---
 
@@ -147,12 +147,12 @@ Pacing is what separates an adventure that *lands* from one that runs out of tim
 
 **Dial 1 — Track difficulty.** Every track you draw is a decision about screen time. A **Hard Challenge** (more boxes, Chapter 8) eats a bigger chunk of the session than an Easy one. If real-world time is running short, draw *easier* tracks to push the story toward its conclusion; if the table is savoring things and has time to spare, draw bigger.
 
-**Dial 2 — Milestone timing (the 40-Minute Rule).** The **Milestone** is your most powerful pacing tool, because nothing strictly defines how long one takes — and the **Quest Track** shows you exactly how many remain, so you can always gauge where you are.
+**Dial 2 — Milestone timing (the 40-Minute Rule).** The **Milestone** is your most powerful pacing tool, because nothing strictly defines how long one takes — and the **Story Arc Track** shows you exactly how many remain, so you can always gauge where you are.
 
-| The plan | Quest scale | Pace | Total |
+| The plan | Story Arc scale | Pace | Total |
 |---|---|---|---|
-| **The 2-hour adventure** | Episodic (3 boxes) | ~**40 minutes** per Milestone | ~2 hours |
-| **The 4-hour adventure** | Episodic (3 boxes) | ~**80 minutes** per Milestone | ~4 hours |
+| **The 2-hour adventure** | Episode (3 boxes) | ~**40 minutes** per Milestone | ~2 hours |
+| **The 4-hour adventure** | Episode (3 boxes) | ~**80 minutes** per Milestone | ~4 hours |
 
 These aren't timers to obey — they're a yardstick. Glance at the clock and the empty boxes together: if you're an hour in with all three boxes still open, it's time to resolve Challenges faster. If you've got time and energy to spare, slow down and add scene detail.
 

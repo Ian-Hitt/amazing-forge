@@ -10,7 +10,7 @@ Most risky moments are **Regular Rolls** — one roll and the story moves on. Yo
 
 The question to ask is always the same: **"How much screen time does this Scene deserve? Is this a big, fun moment worth savoring — or just a blip on the way to the next big thing?"** Another way to put it: *how much of the movie should this be?*
 
-Crucially, **there is no mechanical reward for rushing.** You don't win the Quest faster, take less harm, or gain any edge by skipping a Challenge Track and resolving something in one roll. So the *only* thing that should decide it is which choice tells the better story. If the dragon fight is the moment everyone came for, draw the track and savor it. If the group would rather blow past a minor scuffle to reach the real climax, one Regular Roll is completely legitimate.
+Crucially, **there is no mechanical reward for rushing.** You don't win the Story Arc faster, take less harm, or gain any edge by skipping a Challenge Track and resolving something in one roll. So the *only* thing that should decide it is which choice tells the better story. If the dragon fight is the moment everyone came for, draw the track and savor it. If the group would rather blow past a minor scuffle to reach the real climax, one Regular Roll is completely legitimate.
 
 ### Setting the Difficulty
 
@@ -26,7 +26,7 @@ Bigger groups draw longer tracks so everyone gets to contribute, and harder Chal
 
 ### Start a Challenge (When You Pick the Fight)
 
-When the heroes **choose to start** a Challenge — they pick the fight, breach the vault, decide to ford the rapids *now* — make one quick roll to see how the opening breaks. This is **Start a Challenge,** the Challenge-sized cousin of Start a Quest (Chapter 10).
+When the heroes **choose to start** a Challenge — they pick the fight, breach the vault, decide to ford the rapids *now* — make one quick roll to see how the opening breaks. This is **Start a Challenge,** the Challenge-sized cousin of Start a Story Arc (Chapter 10).
 
 Roll **2d6 + 1.** No Asset applies — this isn't a test of any one hero's skill, it's the dice setting the scene — but **doubles still trigger Oracle's Blessing** (bump the result up one tier). You can't fail it; it just decides who has the jump as the Scene begins:
 
@@ -38,7 +38,7 @@ Roll **2d6 + 1.** No Asset applies — this isn't a test of any one hero's skill
 
 That bonus or penalty is a **one-time edge:** it applies only to the **very first Challenge Roll** anyone makes this Scene, and then it's gone — it doesn't carry to later rolls. Narrate what it means: on a Strong Hit the heroes surge in with the initiative; on a Miss the opposition moves first and the heroes are a half-step behind. It's a small cinematic nudge for seizing the moment (or a small cost for charging in unready), nothing more.
 
-**Only roll it when the heroes choose to open the Challenge.** If trouble is thrust on *them* instead — an ambush, or a Start a Quest that opened with "Trouble finds you first" — skip the roll. They're already reacting, not seizing anything, so the Scene simply begins in motion.
+**Only roll it when the heroes choose to open the Challenge.** If trouble is thrust on *them* instead — an ambush, or a Start a Story Arc that opened with "Trouble finds you first" — skip the roll. They're already reacting, not seizing anything, so the Scene simply begins in motion.
 
 ### The Turn Loop
 
@@ -71,7 +71,7 @@ The Challenge ends **the instant the last empty box is filled** — even if that
 When the track fills:
 
 - The obstacle is overcome and the heroes complete whatever this Scene was driving toward.
-- If clearing this Challenge was the payoff of a **Milestone**, check a box on the **Quest Track.** (A Milestone may take more than one Scene; a Challenge is sometimes the climactic Scene of a Milestone, not the whole thing — see Chapter 10.)
+- If clearing this Challenge was the payoff of a **Milestone**, check a box on the **Story Arc Track.** (A Milestone may take more than one Scene; a Challenge is sometimes the climactic Scene of a Milestone, not the whole thing — see Chapter 10.)
 - Wipe the scrap-paper Challenge Track clean. It's done its job.
 
 ### Fleeing a Challenge
@@ -82,9 +82,9 @@ Heroes are never trapped in a Challenge they're losing. At any point — usually
 - **The Antagonist Track advances one box.** The bad guys gain ground precisely because the heroes gave it. Play out the resulting **Surge** (Chapter 10) — the villains' plan moves forward off-screen, and the world tightens.
 - **No further Readiness is lost** by fleeing itself. That's the entire point: fleeing trades *story ground* (lost progress plus a villain box) for *survival* (no more bleed in this Scene).
 
-Fleeing is a **group decision** — in Co-op, made together; with a Guide, the Guide honors the table's call to retreat. It is the heroes' deliberate escape valve, and it's a weighty one: because the Antagonist Track is short (the same length as the Quest Track), you can only flee so many times before that track fills and you lose the Quest. Every retreat is a real choice, never a free reset.
+Fleeing is a **group decision** — in Co-op, made together; with a Guide, the Guide honors the table's call to retreat. It is the heroes' deliberate escape valve, and it's a weighty one: because the Antagonist Track is short (the same length as the Story Arc Track), you can only flee so many times before that track fills and you lose the Story Arc. Every retreat is a real choice, never a free reset.
 
-This is also the **only** thing that advances the Antagonist Track. Misses don't; Pay the Price doesn't; recovery doesn't. The villain gains ground exactly when — and only when — the heroes turn and run. (The terminal case, fleeing or giving up the whole Quest, is **Quitting the Quest;** see Chapter 10.)
+This is also the **only** thing that advances the Antagonist Track. Misses don't; Pay the Price doesn't; recovery doesn't. The villain gains ground exactly when — and only when — the heroes turn and run. (The terminal case, fleeing or giving up the whole Story Arc, is **Quitting the Story Arc;** see Chapter 10.)
 
 ### The Showdown (Optional Climax)
 
@@ -98,13 +98,13 @@ Roll 2d6 + modifier for that last box:
 
 Reserve Showdowns for the moments that earn the extra tension. Everyday Challenges should still end the instant their last box fills.
 
-**The Quest Showdown (the climax twist).** You can also turn the **final box of the Quest Track** into a Showdown — one last roll as the heroes move to complete the closing Milestone of the whole adventure. It works exactly like a Challenge Showdown:
+**The Story Arc Showdown (the climax twist).** You can also turn the **final box of the Story Arc Track** into a Showdown — one last roll as the heroes move to complete the closing Milestone of the whole adventure. It works exactly like a Challenge Showdown:
 
-- **Strong Hit:** the Quest is won, gloriously — add a narrative bonus.
-- **Weak Hit:** the Quest is won, but Pay the Price on the way out — a victory that costs something.
-- **Miss:** *you thought it was over, but it wasn't.* **Add one extra Milestone box to the Quest Track** and drop a climactic twist — the villain's real plan surfaces, a trusted ally turns, the prize is a fake. The heroes must complete that new Milestone before they can attempt the Quest Showdown again.
+- **Strong Hit:** the Story Arc is won, gloriously — add a narrative bonus.
+- **Weak Hit:** the Story Arc is won, but Pay the Price on the way out — a victory that costs something.
+- **Miss:** *you thought it was over, but it wasn't.* **Add one extra Milestone box to the Story Arc Track** and drop a climactic twist — the villain's real plan surfaces, a trusted ally turns, the prize is a fake. The heroes must complete that new Milestone before they can attempt the Story Arc Showdown again.
 
-As with everything Showdown, a missed Quest Showdown **never** advances the Antagonist Track — the twist simply gives the heroes *more story to play*, not the villains a free win. It's the most cinematic tool in the book for an ending that surprises the table. Use it when a Quest deserves a real final-act turn; otherwise let the last Milestone close the adventure cleanly.
+As with everything Showdown, a missed Story Arc Showdown **never** advances the Antagonist Track — the twist simply gives the heroes *more story to play*, not the villains a free win. It's the most cinematic tool in the book for an ending that surprises the table. Use it when a Story Arc deserves a real final-act turn; otherwise let the last Milestone close the adventure cleanly.
 
 ### Running Different Challenge Types
 

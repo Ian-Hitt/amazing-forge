@@ -62,14 +62,14 @@ Each kit is a **launchpad, not a finished world.** It hands you the *kind* of st
 
 - **An intro & the feel** — a quick orientation to the genre and the mood you're going for, including how it plays at each end of the dial.
 - **Pay the Price here** — what a Weak Hit or Miss looks like in this genre, as a menu of examples. This is the single biggest lever on tone.
-- **What a Quest looks like here** — how the Quest Track and its Milestones (Chapter 10) read in this genre, so you can picture a Quest at every scale.
+- **What a Story Arc looks like here** — how the Story Arc Track and its Milestones (Chapter 10) read in this genre, so you can picture a Story Arc at every scale.
 - **Tempo** — how fast this genre fills its boxes: Adventure races, Horror smolders, and the rest sit in between.
 - **Telling these stories** — table-side tips: what scenes look like, what your Challenges tend to be, how to lean into the feel, and the traps to avoid.
 - **A scene at the table** — a short worked example showing the genre's feel in actual play.
 - **Flavors & blends** — a handful of *flavors* within the genre (Adventure's fantasy variants, Horror's haunted house), plus *blends* that fold in a second genre (Monster-of-the-Week is Mystery + Horror).
 - **Settings** — a d10 of ready-to-use settings that suit the genre, each a title and a one-line pitch; pick or roll, then build your world around it.
 - **Shaping your world** — genre-pointed prompts for the ten Worldbuilding questions (Chapter 14), so your world comes out leaning the right way. Answer *these*; don't just copy an example.
-- **Story seeds & standing tensions** — a rollable table of situations this genre thrives on. These are *conditions*, not plots — your table invents the actual Quests from them.
+- **Story seeds & standing tensions** — a rollable table of situations this genre thrives on. These are *conditions*, not plots — your table invents the actual Story Arcs from them.
 - **Archetypes** — ready-to-play hero shapes, each with four suggested starting Assets. Play one as-is, or file off the serial numbers and make it yours.
 - **The Asset table** — a big **d100** list of genre-fitting Assets. Roll for a surprise, or just read down it and grab the four that make you grin. Every entry is a starting point — rename or reskin it to fit your hero and your world.
 
@@ -81,7 +81,7 @@ Each kit is a **launchpad, not a finished world.** It hands you the *kind* of st
 
 Choosing a genre is a **group decision**, just like everything in Worldbuilding. Name the genre, set the dial, and — if it helps — pick a movie or show everyone knows as your shared reference. Then build your world through that lens. You'll find the ten questions almost answer themselves once everyone's picturing the same kind of story.
 
-And nothing is locked forever. A campaign can start as a playful adventure and grow more serious as the stakes rise; a mystery can crack open into sci-fi. The genre is your starting tone, not a contract. Pick the feeling you want *tonight*, open its kit, and let the story carry you from there.
+And nothing is locked forever. A game can start as a playful adventure and grow more serious as the stakes rise; a mystery can crack open into sci-fi. The genre is your starting tone, not a contract. Pick the feeling you want *tonight*, open its kit, and let the story carry you from there.
 
 ---
 

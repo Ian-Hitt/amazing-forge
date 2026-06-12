@@ -29,17 +29,17 @@ A price in a Caper makes things *harder and more exciting* — almost never hope
 
 > **Let the dial pick the sting.** Playful, "the heat rises" is a frantic, funny shuffle as the Face stalls a suspicious guard with an increasingly ridiculous story. Serious, it's the silent alarm already counting down and a hard call about whether to abort. Keep prices about *complications and the clock*, almost never injury — the fun is the recovery, not the wound.
 
-### What a Quest looks like here
+### What a Story Arc looks like here
 
-**The promise:** *a clever crew takes on the impossible and pulls it off with style.* The Quest Track is how the table delivers it.
+**The promise:** *a clever crew takes on the impossible and pulls it off with style.* The Story Arc Track is how the table delivers it.
 
-In a Caper, the Quest Track *is the job*, and each **Milestone is a stage of pulling it off** (Chapter 10): cased, infiltrated, the prize in hand, the clean exit. A filled box is a step of the score completed — or completed *clean enough* to keep moving.
+In a Caper, the Story Arc Track *is the job*, and each **Milestone is a stage of pulling it off** (Chapter 10): cased, infiltrated, the prize in hand, the clean exit. A filled box is a step of the score completed — or completed *clean enough* to keep moving.
 
-The three Quest scales (Chapter 10) map onto it neatly:
+The three Story Arc scales (Chapter 10) map onto it neatly:
 
-- **Episodic (3 boxes, one sitting):** *Lift the Star of the Sea from the gala.* The Milestones: **case the floor and get inside → make the swap unseen → walk out before the lights come up.** One job, one session, one grin at the end.
+- **Episode (3 boxes, one sitting):** *Lift the Star of the Sea from the gala.* The Milestones: **case the floor and get inside → make the swap unseen → walk out before the lights come up.** One job, one session, one grin at the end.
 - **Season (8 boxes, many episodes):** *Bring down the crime boss who burned your crew, one job at a time.* Each box is a score that chips at his empire — a vault emptied, a lieutenant turned, a ledger lifted — marked when the table agrees you've truly weakened him.
-- **Campaign (12 boxes, the whole game):** *Run the long con that dismantles the whole syndicate.* A grand scheme built from many smaller jobs that each feed it.
+- **Series (12 boxes, the whole game):** *Run the long con that dismantles the whole syndicate.* A grand scheme built from many smaller jobs that each build it.
 
 The **Antagonist Track** (always present, Chapter 10) is the opposition closing in: the security tightening, the rival crew gaining, the mark starting to *suspect*. It ticks when the heroes **Flee** — bail out and abandon a job's progress (Chapter 8) — or when a price lets the heat win. Fill it and the job's blown: caught, beaten to the prize, or made. A blown job stings but seeds the next one (now it's personal). Give the opposition a face — a sharp head of security, a smug rival — so each tick lands.
 
@@ -49,7 +49,7 @@ The **Antagonist Track** (always present, Chapter 10) is the opposition closing 
 
 In practice:
 
-- **Episodic is the natural home.** One job is one satisfying session — case it, crack it, get out. Save Season scale for a *string* of jobs against a bigger target.
+- **Episode is the natural home.** One job is one satisfying session — case it, crack it, get out. Save Season scale for a *string* of jobs against a bigger target.
 - **Don't grind the setup.** A box or two of casing and advantages, then *go.* The fun is in the doing and the recovering, not in an exhaustive plan.
 - **Build the swing into the track.** A clean early box lulls everyone; the middle box is where it all goes wrong; the last box is the white-knuckle exit. Pace your Milestones to that arc.
 
@@ -64,7 +64,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Quest: lift the Star of the Sea from the gala (an Episodic Quest). Second Milestone: make the swap unseen. The table sets up a Social/Stealth Challenge — Medium, 4 boxes, the floor's watchful security as the antagonist.*
+> *The Story Arc: lift the Star of the Sea from the gala (an Episode). Second Milestone: make the swap unseen. The table sets up a Social/Stealth Challenge — Medium, 4 boxes, the floor's watchful security as the antagonist.*
 >
 > **Guide:** The Star's in a case under glass, and the curator is standing *right there*, beaming at guests. Your replica is in your jacket. The lights are about to dim for the auction — your one window. What do you do?
 > **Player (Lex):** I send the Face over to pull the curator into a conversation she can't politely escape — gushing about the *provenance*, demanding a tour — while I drift to the case. I'm using *The Switcheroo* the second her back's turned.
@@ -116,7 +116,7 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
+*Situations to mine — your table decides what the Story Arc actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Story Arc. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 
 | d100 | A Caper waiting to happen |
 |---|---|

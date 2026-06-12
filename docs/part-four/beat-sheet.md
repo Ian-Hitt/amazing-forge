@@ -16,19 +16,19 @@ Read it as a menu, not a recipe. Hit the beats that serve tonight's story; skip 
 
 **3. Set-Up.** We meet the heroes and see what's missing in their lives — the flaw, the want, the empty chair. *At the table:* this is your hero Concepts, Bonds, and archetypes doing their job. Play the flaw out loud now so it has somewhere to travel.
 
-**4. Catalyst.** The inciting incident — the message, the attack, the door that won't stay shut. *At the table:* this is the moment you **Start a Quest**. The opening roll sets the temperature; the Goal goes on the table; the first box of the Quest Track is now waiting.
+**4. Catalyst.** The inciting incident — the message, the attack, the door that won't stay shut. *At the table:* this is the moment you **Start a Story Arc**. The opening roll sets the temperature; the Goal goes on the table; the first box of the Story Arc Track is now waiting.
 
 **5. Debate.** Should they even do this? A beat of doubt before they commit. *At the table:* a roleplay scene, often steered by **Ask the Oracle** when the table isn't sure which way to jump. No track moves yet — this is the held breath.
 
-**6. Break into Two.** The heroes commit. The real adventure begins. *At the table:* they accept the Quest and step into the first Milestone. From here on, the Quest Track is live and the Antagonist Track starts ticking.
+**6. Break into Two.** The heroes commit. The real adventure begins. *At the table:* they accept the Story Arc and step into the first Milestone. From here on, the Story Arc Track is live and the Antagonist Track starts ticking.
 
 ## Act Two — the fun, the turn, and the fall
 
 **7. B Story.** A second thread — usually a relationship — that carries the heart of the theme. *At the table:* this lives in Bonds and in the quiet moments between Challenges. A Recovery Scene is a perfect home for it: while Readiness comes back, a relationship moves forward.
 
-**8. Fun and Games.** The "promise of the premise" — the cool stuff you came for. The heist montage, the training, the monster-of-the-week wins. *At the table:* this is the heroes filling early Quest Track boxes. Strong Hits, momentum, the story going *their* way. Let them shine here.
+**8. Fun and Games.** The "promise of the premise" — the cool stuff you came for. The heist montage, the training, the monster-of-the-week wins. *At the table:* this is the heroes filling early Story Arc Track boxes. Strong Hits, momentum, the story going *their* way. Let them shine here.
 
-**9. Midpoint.** A false victory or a false defeat that raises the stakes and spins the story. *At the table:* a big swing on one of the tracks. A hard tick of the **Antagonist Track** right in the middle — the villain reveals their real plan — or a Quest box that turns out to cost more than expected. The mood shifts from "we've got this" to "oh, this is bigger than we thought."
+**9. Midpoint.** A false victory or a false defeat that raises the stakes and spins the story. *At the table:* a big swing on one of the tracks. A hard tick of the **Antagonist Track** right in the middle — the villain reveals their real plan — or a Story Arc box that turns out to cost more than expected. The mood shifts from "we've got this" to "oh, this is bigger than we thought."
 
 **10. Bad Guys Close In.** The pressure mounts. The walls come in. Things get worse. *At the table:* the **Antagonist Track** surging — Surges playing out, complications from Pay the Price compounding, Readiness draining faster than it refills. The opposition line is now climbing fast.
 

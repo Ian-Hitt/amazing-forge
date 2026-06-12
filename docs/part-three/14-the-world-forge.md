@@ -81,7 +81,7 @@ Power. Someone or something runs this place — or nobody does, which is itself 
 
 - **A good answer** names *who* and hints at *how secure* they are: *"A council of elders — but two of them haven't spoken in years."* A cracked power structure is more playable than a stable one.
 - **Avoid** a faceless "the government." Give power a name, a face, or a flavor, even briefly. The heroes will end up dealing with it.
-- **How it shapes the rest:** the Leadership sets up the Enforcement (Q7) directly, and it's often the source of, or the obstacle to, the heroes' Quests. "A lawless wasteland" is a fine answer too — it just means power is up for grabs, which is its own kind of story.
+- **How it shapes the rest:** the Leadership sets up the Enforcement (Q7) directly, and it's often the source of, or the obstacle to, the heroes' Story Arcs. "A lawless wasteland" is a fine answer too — it just means power is up for grabs, which is its own kind of story.
 
 ### 7. The Enforcement — How do they stay in charge?
 
@@ -96,8 +96,8 @@ The muscle behind the power. How does the Leadership actually hold on?
 This is the engine. Everything before it built a world; this question fills it with **trouble**, and trouble is what you actually play.
 
 - **A good answer** gives two or three dangers at *different scales* and different kinds: a slow creeping one ("the clouds holding the city up are thinning"), a sharp immediate one ("a rival captain is hunting us"), maybe a hidden one ("something is wrong with the new clockwork folk"). Variety means you always have somewhere to point the next adventure.
-- **Avoid** a single vague "evil." "An ancient evil" is a placeholder; "an ancient evil that wakes a little more each time the bells ring" is a Quest. Make at least one Threat *concrete enough to tick a track* — it'll likely become an **Antagonist** (Chapter 10).
-- **How it shapes the rest:** the Threats are your ready-made Quest seeds. When you set up a Quest (Chapter 10), look here first. A Threat that's a **force** rather than a person (a plague, a desert, the thinning clouds) still works as an Antagonist — just characterize it so a tick is something you can narrate.
+- **Avoid** a single vague "evil." "An ancient evil" is a placeholder; "an ancient evil that wakes a little more each time the bells ring" is a Story Arc. Make at least one Threat *concrete enough to tick a track* — it'll likely become an **Antagonist** (Chapter 10).
+- **How it shapes the rest:** the Threats are your ready-made Story Arc seeds. When you set up a Story Arc (Chapter 10), look here first. A Threat that's a **force** rather than a person (a plague, a desert, the thinning clouds) still works as an Antagonist — just characterize it so a tick is something you can narrate.
 
 ### 9. The Forbidden — What's one place, object, or action that's off-limits?
 
@@ -105,7 +105,7 @@ One rule the world enforces. A single "thou shalt not."
 
 - **A good answer** is specific and tempting: *"Nobody is allowed below the cloud line."* The moment you name a forbidden thing, everyone at the table immediately wants to know what's down there — and that pull is the point.
 - **Avoid** a forbidden thing nobody would ever want anyway. The Forbidden only works if it's *interesting* to break. Make it something the heroes might genuinely be driven toward.
-- **How it shapes the rest:** the Forbidden is a Quest waiting to happen and a great source of stakes. Crossing the line can *be* a Milestone, or the thing that finally ticks the Antagonist Track.
+- **How it shapes the rest:** the Forbidden is a Story Arc waiting to happen and a great source of stakes. Crossing the line can *be* a Milestone, or the thing that finally ticks the Antagonist Track.
 
 ### 10. The Reputation — When people see a group like yours, what do they think?
 
@@ -113,11 +113,11 @@ The last question turns the camera on the heroes. Before anyone's even made a ch
 
 - **A good answer** is an outside opinion with an edge: *"Reckless kids who don't know their place,"* or *"the only ones brave enough to go where the guards won't."* It hands every player an instant relationship with the world.
 - **Avoid** "famous heroes everyone loves." Total admiration is boring to play — there's nothing to prove and no friction. A little doubt, suspicion, or wariness gives the heroes something to push against from scene one.
-- **How it shapes the rest:** Reputation flavors how NPCs react before a single roll, and it gives the table a shared starting attitude. It's also a thing that can *change* over a campaign — earning real respect is a satisfying long arc.
+- **How it shapes the rest:** Reputation flavors how NPCs react before a single roll, and it gives the table a shared starting attitude. It's also a thing that can *change* over a long game — earning real respect is a satisfying long arc.
 
 ### When You're Done
 
-Ten answers and you have a world that's already leaning toward story. Read them back in order — you'll usually feel a Quest forming in the overlap between the Threats, the Forbidden, and your Reputation. That's not an accident; the questions are built to collide there.
+Ten answers and you have a world that's already leaning toward story. Read them back in order — you'll usually feel a Story Arc forming in the overlap between the Threats, the Forbidden, and your Reputation. That's not an accident; the questions are built to collide there.
 
 Leave the loose ends loose. Worldbuilding is a starting picture, not a finished map, and the best details are the ones you discover mid-scene.
 

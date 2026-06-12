@@ -116,15 +116,15 @@ Downtime is a **group move:** one hero rolls for the whole party — you're all 
 |---|---|
 | **Strong Hit (10+)** | Each hero recovers **+7** Readiness — a little extra. No strings; your hosts ask nothing in return. |
 | **Weak Hit (7–9)** | Each hero recovers **+6** Readiness. |
-| **Miss (6 or less)** | Each hero recovers **+6** Readiness, but you **owe a debt** to whoever sheltered you — **start a new Quest in their service.** |
+| **Miss (6 or less)** | Each hero recovers **+6** Readiness, but you **owe a debt** to whoever sheltered you — **start a new Story Arc in their service.** |
 
 Unlike Mend, Downtime is **dependable** — you always get its full recovery, capped at **9.** (It's the long rest in safe company; it doesn't come up empty.) The roll only decides what it costs you in *story:* a missed Downtime doesn't leave you hurt and doesn't fail to heal — it leaves you **obligated**, and that obligation becomes your next adventure.
 
 Downtime does one more thing no Mend can: it **restores a Broken Asset** — one per rest. That's the deep-rest job of reforging a blade, setting a bone, or rebuilding a shaken nerve (see *Out of Action,* below).
 
-### Finishing a Quest
+### Finishing a Story Arc
 
-Completing a Quest is the natural moment for Downtime, and it **prompts the move automatically** — the heroes have earned their rest. Roll Downtime as above: a clean roll sends the party into what's next refreshed and free, while a Miss means the people who took you in now need something in return (a fresh Quest in their service). Because this triggers on **completing a Quest** — not on a tidy session boundary — it's also what lets **several Quests run at once:** finishing any one of them earns its Downtime, with no need for clean start/stop points. (Full multi-Quest guidance is in Chapter 10.)
+Completing a Story Arc is the natural moment for Downtime, and it **prompts the move automatically** — the heroes have earned their rest. Roll Downtime as above: a clean roll sends the party into what's next refreshed and free, while a Miss means the people who took you in now need something in return (a fresh Story Arc in their service). Because this triggers on **completing a Story Arc** — not on a tidy session boundary — it's also what lets **several Story Arcs run at once:** finishing any one of them earns its Downtime, with no need for clean start/stop points. (Full multi-Story Arc guidance is in Chapter 10.)
 
 ### Out of Action
 
@@ -152,4 +152,4 @@ Only **Downtime restores a Broken Asset** — one per rest. A quick Mend gets a 
 
 ---
 
-*Next in Part Two: Chapter 10 — Quests & the Antagonist Track.*
+*Next in Part Two: Chapter 10 — Story Arcs & the Antagonist Track.*

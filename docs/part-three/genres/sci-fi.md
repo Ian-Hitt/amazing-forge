@@ -29,19 +29,19 @@ The future is amazing *and* it bites. A price in Sci-Fi is usually a system, a m
 
 > **Let the dial pick the sting.** Playful, "the tech fails" is a sparking console and a heroic improvised fix with seconds to spare. Serious, it's a hull breach with the air screaming out and a real, ticking question of who makes it to the shuttle. Tie every price to the *fiction* — a malfunction, a misfire, a signal you shouldn't have answered. Never "you take damage."
 
-### What a Quest looks like here
+### What a Story Arc looks like here
 
-**The promise:** *a new discovery opens wonders — and you face what it sets loose.* The Quest Track is how the table delivers it.
+**The promise:** *a new discovery opens wonders — and you face what it sets loose.* The Story Arc Track is how the table delivers it.
 
-Sci-Fi borrows its Quest shapes from every other genre — but the **Milestones are about systems, frontiers, and consequences** (Chapter 10): power restored, a signal decoded, a planet survived, a truth about the new thing finally grasped. A filled box is a problem of *the future* solved (often by creating the next one).
+Sci-Fi borrows its Story Arc shapes from every other genre — but the **Milestones are about systems, frontiers, and consequences** (Chapter 10): power restored, a signal decoded, a planet survived, a truth about the new thing finally grasped. A filled box is a problem of *the future* solved (often by creating the next one).
 
-The three Quest scales (Chapter 10) map onto it like this:
+The three Story Arc scales (Chapter 10) map onto it like this:
 
-- **Episodic (3 boxes, one sitting):** *Escape the derelict before it falls into the star.* The Milestones: **restore main power → seal the breach and reach the bridge → break orbit in time.** A tight, ticking-clock single session.
+- **Episode (3 boxes, one sitting):** *Escape the derelict before it falls into the star.* The Milestones: **restore main power → seal the breach and reach the bridge → break orbit in time.** A tight, ticking-clock single session.
 - **Season (8 boxes, many episodes):** *Stop the station's AI before it "optimizes" everyone.* Each box is a real step — learn what it wants, cut it off from a system, win over the crew it's turned — marked when the table agrees you've genuinely set it back.
-- **Campaign (12 boxes, the whole game):** *Free the colony from the corporation that owns its air.* A long arc of sabotage, alliance, and revelation, built from many smaller jobs that feed it.
+- **Series (12 boxes, the whole game):** *Free the colony from the corporation that owns its air.* A long arc of sabotage, alliance, and revelation, built from many smaller jobs that build it.
 
-The **Antagonist Track** (always present, Chapter 10) is rarely a single villain — it's a *force with a logo*: the corporation, the rogue AI, the unforgiving physics of the place, the thing in the cargo hold. It ticks when the heroes **Flee** (Chapter 8) or when a price lets the system gain. Fill it and the AI wins, the corp seizes control, the derelict claims you — which seeds the next Quest. Give the force a face (a smug exec, a too-calm AI voice) so each tick is concrete.
+The **Antagonist Track** (always present, Chapter 10) is rarely a single villain — it's a *force with a logo*: the corporation, the rogue AI, the unforgiving physics of the place, the thing in the cargo hold. It ticks when the heroes **Flee** (Chapter 8) or when a price lets the system gain. Fill it and the AI wins, the corp seizes control, the derelict claims you — which seeds the next Story Arc. Give the force a face (a smug exec, a too-calm AI voice) so each tick is concrete.
 
 ### Tempo
 
@@ -50,8 +50,8 @@ The **Antagonist Track** (always present, Chapter 10) is rarely a single villain
 In practice:
 
 - **Open on the marvel.** Lead with the *"isn't that amazing"* — the impossible ship, the living planet, the AI that seems friendly — *then*, a beat later, the *"...oh no."*
-- **Match the scale to the flavor.** A heroic space-opera Quest can rip through Milestones; a tense bottle episode on a failing station wants fewer boxes and more dread between them.
-- **Let consequences compound.** A great Sci-Fi Quest is a chain — each solved problem births the next, so the track feels like a deepening situation, not a checklist.
+- **Match the scale to the flavor.** A heroic space-opera Story Arc can rip through Milestones; a tense bottle episode on a failing station wants fewer boxes and more dread between them.
+- **Let consequences compound.** A great Sci-Fi Story Arc is a chain — each solved problem births the next, so the track feels like a deepening situation, not a checklist.
 
 ### Telling Sci-Fi stories
 
@@ -64,7 +64,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Quest: escape the derelict before it falls into the star (an Episodic Quest). First Milestone: restore main power. The table sets up a Challenge — "get the reactor online," Medium, 4 boxes, the failing ship itself as the antagonist.*
+> *The Story Arc: escape the derelict before it falls into the star (an Episode). First Milestone: restore main power. The table sets up a Challenge — "get the reactor online," Medium, 4 boxes, the failing ship itself as the antagonist.*
 >
 > **Guide:** The reactor room's dark except for one red emergency strip. The main coupling's fried — but there's a salvage drone clamped to the wall, dormant, that could bridge the gap if you can wake it. The deck's already warming under your boots. What do you do?
 > **Player (Iko):** I jack into the drone and try to wake it gently — I don't want it dumping its logs and rebooting, we don't have time. *Interfaces With Machines.*
@@ -119,7 +119,7 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
+*Situations to mine — your table decides what the Story Arc actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Story Arc. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 
 | d100 | A Sci-Fi waiting to happen |
 |---|---|

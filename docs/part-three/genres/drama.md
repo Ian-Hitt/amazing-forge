@@ -30,19 +30,19 @@ A price in Drama is *social fallout*, never a bruise. **Readiness** here is your
 
 > **Let the dial pick the sting.** The *same* price reads playful or serious depending on where you set the dial. "A secret slips" is a giggly disaster when the secret is a crush; it's a knife when the secret could end a marriage or a reign. Match the weight to what the table agreed to — and when in doubt, aim a notch lighter and let the players ask for more.
 
-### What a Quest looks like here
+### What a Story Arc looks like here
 
-**The promise:** *secrets, rivalries, and feelings build until they finally come to a head.* The Quest Track is how the table delivers it.
+**The promise:** *secrets, rivalries, and feelings build until they finally come to a head.* The Story Arc Track is how the table delivers it.
 
-This is the part that trips up new Drama tables, so it's worth saying plainly: **the Quest Track is the spine of a story, and a Milestone is a turning point in it** (Chapter 10). In Adventure those Milestones are places reached and foes beaten — easy to picture. In Drama they're *emotional* turning points, and that's just as concrete once you name them. A box isn't "they hung out"; it's a moment the relationship or the social map will never be the same after.
+This is the part that trips up new Drama tables, so it's worth saying plainly: **the Story Arc Track is the spine of a story, and a Milestone is a turning point in it** (Chapter 10). In Adventure those Milestones are places reached and foes beaten — easy to picture. In Drama they're *emotional* turning points, and that's just as concrete once you name them. A box isn't "they hung out"; it's a moment the relationship or the social map will never be the same after.
 
-The same three Quest scales (Chapter 10) map cleanly onto Drama:
+The same three Story Arc scales (Chapter 10) map cleanly onto Drama:
 
-- **Episodic (3 boxes, one sitting):** *Survive the gala without your secret getting out.* The Milestones: **slip into the party unsuspected → outmaneuver the one guest who knows → make it to the last dance with the truth still yours.** A tight, self-contained evening.
+- **Episode (3 boxes, one sitting):** *Survive the gala without your secret getting out.* The Milestones: **slip into the party unsuspected → outmaneuver the one guest who knows → make it to the last dance with the truth still yours.** A tight, self-contained evening.
 - **Season (8 boxes, many episodes):** *Win back the friend you betrayed.* The boxes are stages of repair — **the icy first apology, the small favor that's noticed, the shared crisis that thaws things, the truth finally told, the trust earned back.** Each box is a real, pointable beat; you mark one whenever the table agrees the relationship genuinely moved.
-- **Campaign (12 boxes, the whole game):** *Take your family's seat back at the high table.* A long arc of alliances built, rivals out-maneuvered, and reputations rebuilt, told across many smaller Quests that feed it.
+- **Series (12 boxes, the whole game):** *Take your family's seat back at the high table.* A long arc of alliances built, rivals out-maneuvered, and reputations rebuilt, told across many smaller Story Arcs that build it.
 
-And the **Antagonist Track** (always present, Chapter 10) is just as real without a monster: it's your **rival's rising influence**, or a **scandal creeping toward exposure**. It ticks when you back down from a confrontation (**Flee**, Chapter 8) or when the price of a bad roll is the rival gaining ground. Fill it and you've lost *this* battle — the rival wins the seat, the secret breaks — which seeds the next Quest. Name your antagonist as a person or a looming event so a tick is always something you can narrate: "the Duchess smiles; she just locked in the vote you needed."
+And the **Antagonist Track** (always present, Chapter 10) is just as real without a monster: it's your **rival's rising influence**, or a **scandal creeping toward exposure**. It ticks when you back down from a confrontation (**Flee**, Chapter 8) or when the price of a bad roll is the rival gaining ground. Fill it and you've lost *this* battle — the rival wins the seat, the secret breaks — which seeds the next Story Arc. Name your antagonist as a person or a looming event so a tick is always something you can narrate: "the Duchess smiles; she just locked in the vote you needed."
 
 ### Tempo
 
@@ -50,7 +50,7 @@ And the **Antagonist Track** (always present, Chapter 10) is just as real withou
 
 In practice:
 
-- **Lean toward Season scale.** Drama shines across many sittings, where feelings have room to shift and a betrayal in episode two pays off in episode six. Episodic Dramas work great too, but keep them tight — one event, one question (*does she say yes?*), one evening.
+- **Lean toward Season scale.** Drama shines across many sittings, where feelings have room to shift and a betrayal in episode two pays off in episode six. Episode Dramas work great too, but keep them tight — one event, one question (*does she say yes?*), one evening.
 - **Fewer rolls, bigger weight.** Not every conversation needs dice. Roll when something is genuinely *at stake* — when a relationship could change — and let the quiet character beats happen freely in the fiction.
 - **Pace the bombshells.** Build pressure across several scenes — a glance, a rumor, a withheld truth — then detonate *one* revelation and let the fallout play all the way out before you light the next fuse. A Drama that spills every secret at once burns up in a night.
 
@@ -66,7 +66,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Quest: win back Mara, the friend you betrayed (a Season Quest). First Milestone: get her to actually talk to you. The table sets up a Social Confrontation — Medium, 4 boxes, the track being Mara's willingness to hear you out.*
+> *The Story Arc: win back Mara, the friend you betrayed (a Season). First Milestone: get her to actually talk to you. The table sets up a Social Confrontation — Medium, 4 boxes, the track being Mara's willingness to hear you out.*
 >
 > **Guide:** Mara's at her locker, and she's already seen you coming. Her face closes like a door. What do you do?
 > **Player (Jule):** I don't lead with sorry — she's heard sorry. I hold up the notebook she lost last year, the one I found. "You left this in the music room. I kept meaning to give it back." I'm using *Knows Everyone's Heart* — I know how much it means to her.
@@ -83,7 +83,7 @@ Drama runs on relationships, and those come in many flavors. Pick the engine tha
 - **Soap / Melodrama** — feelings at full volume, a twist every scene, secrets and betrayals stacked high. Frothy and addictive; sits naturally toward the playful end of the dial.
 - **Coming-of-Age** — growing up *is* the plot: first love, finding yourself, the friendships that make and break you. School and summer-camp settings shine.
 - **Court Intrigue** — drama with thrones at stake: alliances, marriages, and whispered plots where a wrong word can topple a house. The personal *is* the political.
-- **Romance** — love is the whole engine: longing, rivals, misunderstandings, and the terrifying leap of telling someone how you feel. The Quest Track is the relationship itself.
+- **Romance** — love is the whole engine: longing, rivals, misunderstandings, and the terrifying leap of telling someone how you feel. The Story Arc Track is the relationship itself.
 - **Rivalry / Competition** — a contest gives the feelings a stage: a team, a troupe, a pageant where winning *and* who you become both matter.
 - **Found Family** — a mismatched group slowly becoming each other's people; the tension is letting them in, and what it costs you to.
 
@@ -120,7 +120,7 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
+*Situations to mine — your table decides what the Story Arc actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Story Arc. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 
 | d100 | A Drama waiting to happen |
 |---|---|

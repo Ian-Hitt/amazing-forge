@@ -2,7 +2,7 @@
 
 One page to remember everywhere the heroes go. The smugglers' den, the half-flooded archive, the festival where it all went sideways — log them here so you can send the heroes back. For each place you need three things: **what it is** (its function — why the story comes here), the **one striking detail** that makes it stick, and **the hook** that's still hanging. That's enough to walk back in and have it matter again.
 
-> **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus and navigation are hidden automatically, so you'll get just the sheet. Print several for a far-roaming campaign.
+> **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus and navigation are hidden automatically, so you'll get just the sheet. Print several for a far-roaming game.
 
 See **Making Locations** ([Chapter 17](../part-three/17-making-locations.md)) for the generator that fills these in.
 

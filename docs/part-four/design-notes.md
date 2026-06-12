@@ -31,13 +31,13 @@ Doubles (Oracle's Blessing) nudge every result a little brighter on top of this,
 
 *(Chapter 8 — Challenges)*
 
-*Lights, Camera, Action!* gives enemies and obstacles **no Readiness, no stats, and no hit points.** Only the heroes track a number. You overcome a foe or a hazard by **filling its Challenge Track** — mechanically, *the track is the enemy.* And **heroes cannot die.** The worst that can happen is going **Out of Action** (recoverable — Chapter 9) or **losing the Quest** (the Antagonist Track fills — Chapter 10). Setbacks cost Readiness and story ground; never a character's life.
+*Lights, Camera, Action!* gives enemies and obstacles **no Readiness, no stats, and no hit points.** Only the heroes track a number. You overcome a foe or a hazard by **filling its Challenge Track** — mechanically, *the track is the enemy.* And **heroes cannot die.** The worst that can happen is going **Out of Action** (recoverable — Chapter 9) or **losing the Story Arc** (the Antagonist Track fills — Chapter 10). Setbacks cost Readiness and story ground; never a character's life.
 
 This is a deliberate choice in service of the "write a movie together" philosophy, and it does a lot of quiet work:
 
 - **It keeps the spotlight on the heroes.** The interesting number on the table is *your* Readiness — your hero's wear and tear — not an enemy's stat block. The drama is about how much the heroes are willing to spend, not bookkeeping for the monster.
 - **It makes any opposition trivial to "run."** A dragon, a snowstorm, a hostile crowd, and a ticking countdown are mechanically identical: a row of boxes. The Guide (or group) never needs to stat anything. That's what makes zero-prep possible.
-- **It protects the story.** Because heroes can't die, players can throw themselves at dramatic risks without fear of a sudden, story-ending death. The stakes are still real — losing Readiness hurts, going Out of Action sidelines you, losing a Quest stings — but they're the kind of stakes a movie is built on: setbacks, costs, and comebacks, not a dead-end.
+- **It protects the story.** Because heroes can't die, players can throw themselves at dramatic risks without fear of a sudden, story-ending death. The stakes are still real — losing Readiness hurts, going Out of Action sidelines you, losing a Story Arc stings — but they're the kind of stakes a movie is built on: setbacks, costs, and comebacks, not a dead-end.
 
 If you're coming from a game where defeating things means grinding down their HP, this will feel light. That lightness is the point.
 
@@ -51,7 +51,7 @@ The Antagonist Track is a "story clock" in the tradition of games like *Monster 
 
 - **It advances mainly when you flee.** Tying the villain's advance to fleeing — rather than to a per-roll trade — keeps it from being a cheap "don't go down" button: a retreat always costs you the scene's progress *and* a box, so players only do it when staying is genuinely worse. Balance was modeled in the simulation reference; it keeps Out-of-Action rare while making the Antagonist Track a meaningful, self-limiting clock.
 - **It's deliberate, not automatic.** The track never lurches forward on a single unlucky roll. It moves when the *table* decides the antagonist gained ground — reliably when the heroes flee, and otherwise only when a telling failure clearly hands the bad guys an opening. Tying it to group judgment rather than to bad dice keeps it from feeling like random punishment and gives the heroes ownership of their fate. You lose because the story turned against you, beat by beat — not because the dice piled up.
-- **It's core, not optional.** Earlier drafts made it an opt-in module. But the whole stay-alive design — heroes can't die, so they flee instead — depends on there being a track to advance when they do. Without it, fleeing would have no cost and losing would have no meaning. So every Quest draws one.
+- **It's core, not optional.** Earlier drafts made it an opt-in module. But the whole stay-alive design — heroes can't die, so they flee instead — depends on there being a track to advance when they do. Without it, fleeing would have no cost and losing would have no meaning. So every Story Arc draws one.
 
 ---
 
@@ -77,8 +77,8 @@ When heroes only get **bigger numbers**, the game has to keep handing the *enemi
 
 - The roll is always **2d6 +2** (an Asset applies) or **+1** (anything else).
 - **Readiness** is always capped at **9**.
-- So a **Challenge Track**, an **Antagonist Track**, or a **Quest** that was the right difficulty in Episode One is *still* the right difficulty in the season finale. **You never rescale anything.**
+- So a **Challenge Track**, an **Antagonist Track**, or a **Story Arc** that was the right difficulty in Episode One is *still* the right difficulty in the season finale. **You never rescale anything.**
 
-A campaign veteran isn't a hero who *rolls better than a beginner.* They're a hero with more Assets to be +2 in more situations, and a fistful of signature moves to pull out when it matters. They feel powerful because they have more *answers* — more ways to make a scene go their way — not because the dice love them more.
+A veteran hero isn't a hero who *rolls better than a beginner.* They're a hero with more Assets to be +2 in more situations, and a fistful of signature moves to pull out when it matters. They feel powerful because they have more *answers* — more ways to make a scene go their way — not because the dice love them more.
 
 > **One option we cut.** Early on we considered a Boon called *"Widen the Domain"* that would broaden an Asset so it earned its +2 in more situations. We dropped it: it was the one upgrade that quietly nudged the numbers (more +2 rolls), reintroducing the very "Lucky / good at everything" problem the Asset rules guard against. And its appeal — broader coverage — is already covered by simply buying a **New Asset.** Keeping *every* form of growth horizontal is what makes the no-rescaling promise hold.

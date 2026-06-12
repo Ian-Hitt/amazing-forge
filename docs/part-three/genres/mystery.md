@@ -29,17 +29,17 @@ In Mystery the danger is to your *progress* and your *relationships*, almost nev
 
 > **Let the dial pick the sting.** Playful, "you tip your hand" means the janitor-in-a-mask bolts and the chase is on. Serious, it means a frightened witness is now in real danger, and it's your fault. Keep prices about *tangles and trust*, not bruises — and remember the case getting *harder* is the fun. The heroes always inch closer to knowing.
 
-### What a Quest looks like here
+### What a Story Arc looks like here
 
-**The promise:** *a secret unravels clue by clue, until the truth clicks into place.* The Quest Track is how the table delivers it.
+**The promise:** *a secret unravels clue by clue, until the truth clicks into place.* The Story Arc Track is how the table delivers it.
 
-In Mystery, the Quest Track is the **path to the truth, and every Milestone is a layer of it** (Chapter 10) — a clue confirmed, a lie peeled back, a suspect cleared or damned. A filled track *is* the solution. The crucial rule: don't hide the answer behind one perfect roll. Spread it across the boxes, so the case always inches forward.
+In Mystery, the Story Arc Track is the **path to the truth, and every Milestone is a layer of it** (Chapter 10) — a clue confirmed, a lie peeled back, a suspect cleared or damned. A filled track *is* the solution. The crucial rule: don't hide the answer behind one perfect roll. Spread it across the boxes, so the case always inches forward.
 
-The three Quest scales (Chapter 10) map cleanly onto a case:
+The three Story Arc scales (Chapter 10) map cleanly onto a case:
 
-- **Episodic (3 boxes, one sitting):** *Who poisoned the festival well?* The Milestones: **find the means → find the motive → name the culprit.** Three clues that add up to *who* and *why.*
+- **Episode (3 boxes, one sitting):** *Who poisoned the festival well?* The Milestones: **find the means → find the motive → name the culprit.** Three clues that add up to *who* and *why.*
 - **Season (8 boxes, many episodes):** *Unravel who really runs this town.* Each box is a layer of the conspiracy pulled back — a bought official exposed, a hidden ledger found, a witness finally turned — marked whenever the table agrees the truth genuinely advanced.
-- **Campaign (12 boxes, the whole game):** *Expose the rot at the very top.* A long unraveling, built from many smaller cases that each feed the bigger picture.
+- **Series (12 boxes, the whole game):** *Expose the rot at the very top.* A long unraveling, built from many smaller cases that each build the bigger picture.
 
 The **Antagonist Track** (always present, Chapter 10) is whoever benefits from the truth staying buried — racing to cover tracks, discredit you, or make the evidence disappear. It ticks when the heroes back off a confrontation (**Flee**, Chapter 8) or when a bad roll lets the guilty party bury something. Fill it and the truth is lost or the culprit walks — which seeds the next case. Name your antagonist so a tick is concrete: "the file you needed is ash in the grate."
 
@@ -50,7 +50,7 @@ The **Antagonist Track** (always present, Chapter 10) is whoever benefits from t
 In practice:
 
 - **Always give them something.** On any Hit, the heroes learn *a* fact — let the players help decide what (Chapter 7, Narrate the Change). A mystery that stalls because nobody rolled well enough is no fun; the track should always inch toward the truth.
-- **Episodic-to-Season is the sweet spot.** A single case fills a session nicely; a slow-burn conspiracy rewards a Season's worth of patient digging.
+- **Episode-to-Season is the sweet spot.** A single case fills a session nicely; a slow-burn conspiracy rewards a Season's worth of patient digging.
 - **A good reveal answers one question and opens two.** Don't let a clue close the case early — let it point somewhere new, so curiosity keeps pulling.
 
 ### Telling Mystery stories
@@ -64,7 +64,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Quest: who poisoned the festival well? (an Episodic Quest). First Milestone: find the means. The table sets up an Investigation Challenge — Easy, 3 boxes, the track being the clues that add up to how it was done.*
+> *The Story Arc: who poisoned the festival well? (an Episode). First Milestone: find the means. The table sets up an Investigation Challenge — Easy, 3 boxes, the track being the clues that add up to how it was done.*
 >
 > **Guide:** The herbalist's shop is shut, but the back window's cracked open. You've talked your way to the doorstep of old Maren, who sold remedies at the fair. She's polite, but she keeps glancing at the back room. What do you do?
 > **Player (Devi):** I don't push. I use *A Knack for the Right Question* — I ask her, kindly, whether anyone's bought silverleaf lately, "since it spoils so easily this time of year."
@@ -83,7 +83,7 @@ Mystery wears many coats. Pick one to set how dark and how strange the case runs
 - **Conspiracy / Thriller** — the deeper you dig, the bigger it gets; one small case is a loose thread on something powerful.
 - **Cold Case** — an old mystery everyone "solved" years ago, reopened over the one detail that never fit.
 
-> **Blend it (your secondary genre).** Some of the best Mysteries anchor here and fold in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Mystery + Horror** is the *Monster of the Week*: each Quest a fresh strange case, with something genuinely unsettling underneath (*Scooby-Doo*, *The X-Files*). **Supernatural Mystery** is the same blend dialed up — the impossible is real, and the puzzle is learning its rules before they catch you. **Mystery + Caper** turns the investigation into a job — you have to *steal* the proof. Keep the *figuring-out* in the lead and let the second genre raise the stakes.
+> **Blend it (your secondary genre).** Some of the best Mysteries anchor here and fold in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Mystery + Horror** is the *Monster of the Week*: each Story Arc a fresh strange case, with something genuinely unsettling underneath (*Scooby-Doo*, *The X-Files*). **Supernatural Mystery** is the same blend dialed up — the impossible is real, and the puzzle is learning its rules before they catch you. **Mystery + Caper** turns the investigation into a job — you have to *steal* the proof. Keep the *figuring-out* in the lead and let the second genre raise the stakes.
 
 ### Settings
 
@@ -116,7 +116,7 @@ Genre-pointed nudges for the ten Worldbuilding questions (Chapter 14). Answer *t
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the case actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
+*Situations to mine — your table decides what the case actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Story Arc. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 
 | d100 | A Mystery waiting to happen |
 |---|---|

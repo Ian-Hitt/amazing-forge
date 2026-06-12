@@ -85,7 +85,7 @@ The ten Worldbuilding questions with room to write. Fill it in at the table duri
 
   <div class="af-q">
     <div class="af-qhead"><span class="af-qnum">9.</span><span><span class="af-qname">The Forbidden</span> &mdash; <span class="af-qask">One place, object, or action that's off-limits?</span></span></div>
-    <p class="af-hint">Specific and tempting. "Nobody is allowed below the cloud line." A Quest waiting to happen.</p>
+    <p class="af-hint">Specific and tempting. "Nobody is allowed below the cloud line." A Story Arc waiting to happen.</p>
     <div class="af-fill"></div>
   </div>
 
@@ -95,5 +95,5 @@ The ten Worldbuilding questions with room to write. Fill it in at the table duri
     <div class="af-fill"></div>
   </div>
 
-  <p class="af-ref"><b>When you're done:</b> read the ten answers back in order &mdash; you'll usually feel a Quest forming in the overlap between the Threats, the Forbidden, and your Reputation. Leave the loose ends loose. Stuck on a question? Roll the idea tables (Chapter 14), or just say "we'll find out."</p>
+  <p class="af-ref"><b>When you're done:</b> read the ten answers back in order &mdash; you'll usually feel a Story Arc forming in the overlap between the Threats, the Forbidden, and your Reputation. Leave the loose ends loose. Stuck on a question? Roll the idea tables (Chapter 14), or just say "we'll find out."</p>
 </div>

@@ -29,17 +29,17 @@ In Horror the dread *tightens* rather than the wound bleeds. **Readiness** here 
 
 > **Let the dial pick the sting.** Playful, "you're cut off" is a thrilling scramble through the spooky basement to rejoin your friends. Serious, it's the slow horror of realizing no one is coming, and the thing is between you and the door. Let prices chip away at *safety and nerve*, not flesh — and if any scare lands harder than someone wants, dial it back, no questions asked. That's not breaking the game; it's playing it well.
 
-### What a Quest looks like here
+### What a Story Arc looks like here
 
-**The promise:** *something is wrong and closing in — and you survive it, or escape.* The Quest Track is how the table delivers it.
+**The promise:** *something is wrong and closing in — and you survive it, or escape.* The Story Arc Track is how the table delivers it.
 
-In Horror, the Quest Track isn't a march toward a prize — it's an **ordeal to *endure*, and each Milestone is a step toward surviving, escaping, or understanding** (Chapter 10). A filled box is ground held against the dread, not territory taken from it.
+In Horror, the Story Arc Track isn't a march toward a prize — it's an **ordeal to *endure*, and each Milestone is a step toward surviving, escaping, or understanding** (Chapter 10). A filled box is ground held against the dread, not territory taken from it.
 
-The three Quest scales (Chapter 10) map onto a nightmare like this:
+The three Story Arc scales (Chapter 10) map onto a nightmare like this:
 
-- **Episodic (3 boxes, one sitting):** *Survive the night in the cabin.* The Milestones: **the power dies and you learn what's hunting you → you find the one thing that holds it back → you make it to first light.** One terrible night, start to dawn.
+- **Episode (3 boxes, one sitting):** *Survive the night in the cabin.* The Milestones: **the power dies and you learn what's hunting you → you find the one thing that holds it back → you make it to first light.** One terrible night, start to dawn.
 - **Season (8 boxes, many episodes):** *Free the town from the thing in the reservoir.* Each box is a hard-won truth or a piece of the answer — what it is, what it wants, what it fears — marked whenever the table agrees you've gained real ground against it.
-- **Campaign (12 boxes, the whole game):** *Undo the old wrong that woke it.* A long descent toward a buried secret, told across many smaller frights that feed it.
+- **Series (12 boxes, the whole game):** *Undo the old wrong that woke it.* A long descent toward a buried secret, told across many smaller frights that build it.
 
 The **Antagonist Track** (always present, Chapter 10) is the dread itself closing in — *the thing getting nearer, the dark getting deeper.* It ticks readily when the heroes **Flee** (Chapter 8) — and fleeing feels *great* in Horror, the right and human choice — or when a bad roll lets the threat gain. Filling it is genuinely frightening: the thing reaches you, the night is lost, the place claims another. That loss seeds the next chapter. Characterize the dread so each tick is something you can show: "the humming in the walls is louder now, and it's coming from your room."
 
@@ -51,7 +51,7 @@ In practice:
 
 - **Alternate calm and spike.** Lull the table — a quiet, almost-safe stretch — then take it away. Unrelenting horror goes numb fast; the breather is what makes the next scare bite.
 - **Withhold.** The scariest thing is the one not shown. Reveal slowly — a sound, a shape, a wrongness — and let imaginations do the heavy lifting. A box can be *almost* understanding the threat, not defeating it.
-- **Episodic or Season fit best.** One terrible night is a perfect Episodic Quest; a town slowly succumbing rewards a Season's mounting dread. Keep Milestones small, so the ordeal can breathe.
+- **Episode or Season fit best.** One terrible night is a perfect Episode; a town slowly succumbing rewards a Season's mounting dread. Keep Milestones small, so the ordeal can breathe.
 
 ### Telling Horror stories
 
@@ -64,7 +64,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Quest: survive the night in the cabin (an Episodic Quest). Second Milestone: find the one thing that holds it back. The table sets up a tense Challenge — "search the cellar before the lantern dies," Medium, 4 boxes.*
+> *The Story Arc: survive the night in the cabin (an Episode). Second Milestone: find the one thing that holds it back. The table sets up a tense Challenge — "search the cellar before the lantern dies," Medium, 4 boxes.*
 >
 > **Guide:** The lantern's guttering — maybe a minute of light left. The cellar's full of your grandmother's old things, and somewhere down here is the salt-iron bell she swore by. Scratching starts, slow, on the far wall. What do you do?
 > **Player (Sam):** I'm not panicking. I use *Stays Calm in the Dark* — I picture exactly where she'd keep something that mattered, by the old preserves, and go straight there instead of searching wild.
@@ -117,7 +117,7 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). **Set the dial first** — 
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
+*Situations to mine — your table decides what the Story Arc actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Story Arc. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 
 | d100 | A Horror waiting to happen |
 |---|---|

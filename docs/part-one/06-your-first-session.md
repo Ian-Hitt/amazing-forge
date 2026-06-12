@@ -22,20 +22,20 @@ Both heroes start at **9 Readiness.**
 
 > **▶ Rules note — Heroes (Chapter 2).** Each hero is just a Concept, four Assets, and 9 Readiness. Notice Snik's *I Know Goblin Secrets* — a perfect, well-sized Asset for this particular quest, and a built-in bit of backstory.
 
-**The Quest.** Their **Goal:** *get the Sun Crystal back and return it to the village.* For a first game they name exactly **three Milestones:**
+**The Story Arc.** Their **Goal:** *get the Sun Crystal back and return it to the village.* For a first game they name exactly **three Milestones:**
 
 1. Find the secret entrance into the mountain.
 2. Cross the Bottomless Chasm inside.
 3. Get the Crystal back from the Goblin King and escape.
 
-Their **antagonist** is the **Goblin King.** They draw two rows of three boxes — the **Quest Track** for themselves and the **Antagonist Track** for the King — and they're ready.
+Their **antagonist** is the **Goblin King.** They draw two rows of three boxes — the **Story Arc Track** for themselves and the **Antagonist Track** for the King — and they're ready.
 
 ```
-QUEST TRACK:        [ ]  [ ]  [ ]
+STORY ARC TRACK:    [ ]  [ ]  [ ]
 ANTAGONIST TRACK:   [ ]  [ ]  [ ]
 ```
 
-> **▶ Rules note — The Quest (Chapter 3).** Goal, three Milestones, a named antagonist, and the two paired three-box tracks. The heroes win if they fill the top row first; the Goblin King wins if his fills first. His row only advances if the heroes have to **flee** a scene (Chapter 5).
+> **▶ Rules note — The Story Arc (Chapter 3).** Goal, three Milestones, a named antagonist, and the two paired three-box tracks. The heroes win if they fill the top row first; the Goblin King wins if his fills first. His row only advances if the heroes have to **flee** a scene (Chapter 5).
 
 ---
 
@@ -62,7 +62,7 @@ The door grinds open — success — *but* a Weak Hit means he **Pays the Price.
 That's the entrance found and open. **Milestone 1 complete — check the first box.**
 
 ```
-QUEST TRACK:   [X]  [ ]  [ ]
+STORY ARC TRACK:   [X]  [ ]  [ ]
 ```
 
 > **▶ Rules note — Pay the Price (Chapter 4).** A Weak Hit still *succeeds* — the door opened. The price is a complication in the story (they've been heard) plus −1 Readiness. Snik narrated it himself, since it hit his hero.
@@ -120,7 +120,7 @@ CHALLENGE TRACK:   [X]  [X]   ← full!
 **Milestone 2 complete — check the second box.**
 
 ```
-QUEST TRACK:   [X]  [X]  [ ]
+STORY ARC TRACK:   [X]  [X]  [ ]
 ```
 
 ---
@@ -154,11 +154,11 @@ Two boxes in, things get hairy: an alarm gong sounds (a Pay the Price), guards p
 **Milestone 3 complete — check the final box.**
 
 ```
-QUEST TRACK:        [X]  [X]  [X]   ← Quest won!
+STORY ARC TRACK:    [X]  [X]  [X]   ← Story Arc won!
 ANTAGONIST TRACK:   [ ]  [ ]  [ ]   ← still empty — they never fled
 ```
 
-> **▶ Rules note — finishing the Quest (Chapter 5).** Filling the last box wins the Quest. Because they chose to push instead of flee, the Goblin King's track stayed empty. Finishing earns the heroes **Downtime** — their long rest — so each recovers **+6 Readiness** (capped at 9), and they head home with full tanks. *(Had a roll gone badly, fleeing would have been the smart, safe call — they'd have lost the scene and given the King a box, but lived to try again.)*
+> **▶ Rules note — finishing the Story Arc (Chapter 5).** Filling the last box wins the Story Arc. Because they chose to push instead of flee, the Goblin King's track stayed empty. Finishing earns the heroes **Downtime** — their long rest — so each recovers **+6 Readiness** (capped at 9), and they head home with full tanks. *(Had a roll gone badly, fleeing would have been the smart, safe call — they'd have lost the scene and given the King a box, but lived to try again.)*
 
 The Sun Crystal goes back above the village square, light and warmth return, and the elders hail two unlikely heroes — a knight on a dragon and a grumpy goblin who came home just long enough to save the day.
 
@@ -166,7 +166,7 @@ The Sun Crystal goes back above the village square, light and warmth return, and
 
 ### What This Showed You
 
-In one short session, Maya and Leo used **every rule in Part One:** they built a world, made heroes, named a Quest and an antagonist, drew both tracks, made **Regular Rolls** and ran **Challenges**, hit a **Strong Hit, a Weak Hit, a Miss, and an Outstanding Success**, **Paid the Price** more than once, weighed **fleeing** (and chose to push), stopped to **Mend**, and checked off Milestones to **win the Quest.** That's the whole game.
+In one short session, Maya and Leo used **every rule in Part One:** they built a world, made heroes, named a Story Arc and an antagonist, drew both tracks, made **Regular Rolls** and ran **Challenges**, hit a **Strong Hit, a Weak Hit, a Miss, and an Outstanding Success**, **Paid the Price** more than once, weighed **fleeing** (and chose to push), stopped to **Mend**, and checked off Milestones to **win the Story Arc.** That's the whole game.
 
 Notice what they *didn't* do: look up a spell, calculate any enemy's hit points, or roll for initiative. They just described what their heroes did, rolled 2d6, and told the story together.
 

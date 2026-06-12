@@ -1,10 +1,10 @@
-# Chapter 3 — Start Your Quest
+# Chapter 3 — Start Your Story Arc
 
-You've got a world and you've got heroes. The last thing you need before you start playing is something worth doing — a **Quest.** This is the big goal your heroes are chasing, the thing the whole adventure is about. Setting one up takes just a couple of minutes, and then you're playing.
+You've got a world and you've got heroes. The last thing you need before you start playing is something worth doing — a **Story Arc.** This is the big goal your heroes are chasing, the thing the whole adventure is about. Setting one up takes just a couple of minutes, and then you're playing.
 
 ### Name Your Goal and Milestones
 
-A Quest has two parts: the **Goal** and the **Milestones.**
+A Story Arc has two parts: the **Goal** and the **Milestones.**
 
 **The Goal** is your finish line — the one clear thing that means the heroes have won. Say it in a single sentence, big and exciting:
 
@@ -36,13 +36,13 @@ Just name it out loud so everyone knows what they're up against. Your antagonist
 
 ### Draw the Two Tracks
 
-Now make the race visible. On a scrap of paper, draw a row of **three empty boxes** — one for each Milestone. This is your **Quest Track:**
+Now make the race visible. On a scrap of paper, draw a row of **three empty boxes** — one for each Milestone. This is your **Story Arc Track:**
 
 ```
-QUEST TRACK:        [ ]  [ ]  [ ]
+STORY ARC TRACK:    [ ]  [ ]  [ ]
 ```
 
-Every time the heroes complete a Milestone, check off one box. When all three are filled, the heroes reach the Goal and **win the Quest.**
+Every time the heroes complete a Milestone, check off one box. When all three are filled, the heroes reach the Goal and **win the Story Arc.**
 
 Then draw a second, identical row right underneath — three boxes — for the **Antagonist Track:**
 
@@ -50,11 +50,11 @@ Then draw a second, identical row right underneath — three boxes — for the *
 ANTAGONIST TRACK:   [ ]  [ ]  [ ]
 ```
 
-This is the bad guys' progress toward *their* goal. It fills up only when the heroes **flee** a tough scene (you'll learn exactly how in Chapter 5) — and if the Antagonist Track fills before the Quest Track, the bad guys win and the Quest is lost. The two rows side by side are the whole story in miniature: a race between the heroes and the antagonist.
+This is the bad guys' progress toward *their* goal. It fills up only when the heroes **flee** a tough scene (you'll learn exactly how in Chapter 5) — and if the Antagonist Track fills before the Story Arc Track, the bad guys win and the Story Arc is lost. The two rows side by side are the whole story in miniature: a race between the heroes and the antagonist.
 
 A quick way to picture a Milestone: it's a *chapter* of your movie, made up of a few **scenes.** Some scenes are over in a single dice roll ("you talk your way past the guard"); others are big enough to play out in detail. Chapters 4 and 5 show you how scenes work — for now, just know each Milestone is a little stretch of story, not one single moment.
 
-> *Part Two has more options for Quests — longer ones with more boxes, running several Quests at the same time, the full Antagonist Track and what happens when the bad guys gain ground, a quick "Start a Quest" roll that sets how each new adventure opens, and how the scenes inside a Milestone can range from a single roll to a full-blown action set-piece. For your first game, keep it to one Quest, three Milestones, and the two three-box tracks — and just jump straight into the action, as the next section shows.*
+> *Part Two has more options for Story Arcs — longer ones with more boxes, running several Story Arcs at the same time, the full Antagonist Track and what happens when the bad guys gain ground, a quick "Start a Story Arc" roll that sets how each new adventure opens, and how the scenes inside a Milestone can range from a single roll to a full-blown action set-piece. For your first game, keep it to one Story Arc, three Milestones, and the two three-box tracks — and just jump straight into the action, as the next section shows.*
 
 ### Jump In: In Media Res
 

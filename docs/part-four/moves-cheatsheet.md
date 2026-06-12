@@ -2,7 +2,7 @@
 
 Every move in *Lights, Camera, Action!* on a single card. Print it and drop it in the middle of the table so nobody has to flip back through a chapter mid-scene.
 
-Moves come in three families. **Action Moves** *resolve a hero's attempt* — you roll and read Strong / Weak / Miss. **Progress Moves** *open or close a track* — a Quest or a Challenge. **Frame Moves** *shift the fiction in the moment* — the dice point you in a direction, so you can never "fail" one.
+Moves come in three families. **Action Moves** *resolve a hero's attempt* — you roll and read Strong / Weak / Miss. **Progress Moves** *open or close a track* — a Story Arc or a Challenge. **Frame Moves** *shift the fiction in the moment* — the dice point you in a direction, so you can never "fail" one.
 
 > **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus are hidden automatically, so you'll get just the card.
 
@@ -66,17 +66,17 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 
       <div class="af-move"><span class="af-mname">Mend.</span> Short rest, in a lull &mdash; self or an ally, once per hero per Milestone. <b>Strong</b> +3 &middot; <b>Weak</b> +2 &middot; <b>Miss</b> no heal + a complication.</div>
 
-      <div class="af-move"><span class="af-mname">Downtime.</span> Long rest between adventures, one group roll. <b>Strong</b> +7 &middot; <b>Weak</b> +6 &middot; <b>Miss</b> +6 + you owe a Quest. Restores Broken Assets. Finishing a Quest prompts one.</div>
+      <div class="af-move"><span class="af-mname">Downtime.</span> Long rest between adventures, one group roll. <b>Strong</b> +7 &middot; <b>Weak</b> +6 &middot; <b>Miss</b> +6 + you owe a Story Arc. Restores Broken Assets. Finishing a Story Arc prompts one.</div>
 
-      <div class="af-move"><span class="af-mname">Showdown</span> <i>(optional).</i> A climactic last-box roll on a Challenge or Quest Track. A <b>Miss</b> escalates the story instead of ending it &mdash; never an outright loss, never advances the Antagonist Track.</div>
+      <div class="af-move"><span class="af-mname">Showdown</span> <i>(optional).</i> A climactic last-box roll on a Challenge or Story Arc Track. A <b>Miss</b> escalates the story instead of ending it &mdash; never an outright loss, never advances the Antagonist Track.</div>
     </div>
 
     <div class="af-rightcol">
     <div class="af-fam af-progress">
       <h3>Progress Moves</h3>
-      <p class="af-famsub">Open or close a track &mdash; a Quest or a Challenge.</p>
+      <p class="af-famsub">Open or close a track &mdash; a Story Arc or a Challenge.</p>
 
-      <div class="af-move"><span class="af-mname">Start a Quest.</span> One <b>2d6 + 1</b> roll when a Quest begins (no Asset; generative). It sets how the adventure opens:
+      <div class="af-move"><span class="af-mname">Start a Story Arc.</span> One <b>2d6 + 1</b> roll when a Story Arc begins (no Asset; generative). It sets how the adventure opens:
         <div class="af-tier"><b>10+</b> <i>Clear purpose</i> &mdash; you're in control and move first.</div>
         <div class="af-tier"><b>7&ndash;9</b> <i>More questions than answers</i> &mdash; open with one complication already in play.</div>
         <div class="af-tier"><b>6&minus;</b> <i>Trouble finds you first</i> &mdash; open in the thick of it, likely mid-Challenge.</div>
@@ -86,7 +86,7 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 
       <div class="af-move"><span class="af-mname">Flee.</span> Abandon a Challenge (lose its progress) to stop the Readiness bleed and mark <b>one</b> Antagonist box. The stay-alive valve.</div>
 
-      <div class="af-move"><span class="af-mname">Quit the Quest.</span> The terminal Flee &mdash; give up the whole Quest. No penalty and no bonus; the loss seeds your next Quest.</div>
+      <div class="af-move"><span class="af-mname">Quit the Story Arc.</span> The terminal Flee &mdash; give up the whole Story Arc. No penalty and no bonus; the loss seeds your next Story Arc.</div>
     </div>
 
     <div class="af-fam af-frame">
@@ -100,5 +100,5 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
     </div>
   </div>
 
-  <p class="af-ref"><b>Full rules:</b> The Roll &amp; Aid Your Ally &mdash; Ch.7. &nbsp; Challenges, Start a Challenge, Flee &amp; Showdown &mdash; Ch.8. &nbsp; Readiness, Mend, Downtime &amp; Pay the Price &mdash; Ch.9. &nbsp; Quests, Start a Quest &amp; Quit the Quest &mdash; Ch.10. &nbsp; Ask the Oracle &mdash; Ch.11.</p>
+  <p class="af-ref"><b>Full rules:</b> The Roll &amp; Aid Your Ally &mdash; Ch.7. &nbsp; Challenges, Start a Challenge, Flee &amp; Showdown &mdash; Ch.8. &nbsp; Readiness, Mend, Downtime &amp; Pay the Price &mdash; Ch.9. &nbsp; Story Arcs, Start a Story Arc &amp; Quit the Story Arc &mdash; Ch.10. &nbsp; Ask the Oracle &mdash; Ch.11.</p>
 </div>

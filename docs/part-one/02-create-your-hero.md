@@ -68,10 +68,10 @@ Readiness only goes **down when things go wrong** — when a roll doesn't fully 
 
 If your Readiness ever hits **0**, your hero is **Out of Action** — too hurt, too overwhelmed, or too tapped-out to keep going for now. You're not dead. Heroes in *Lights, Camera, Action!* can't die. You're just down until you get a breather and bounce back, which you'll learn about in Chapter 5.
 
-> *Part Two has the complete rules for losing and recovering Readiness, coming back from Out of Action, and the bonus you get for finishing a Quest. For now: start at 9, and know that 0 means you sit out until you recover.*
+> *Part Two has the complete rules for losing and recovering Readiness, coming back from Out of Action, and the bonus you get for finishing a Story Arc. For now: start at 9, and know that 0 means you sit out until you recover.*
 
 ### That's a Hero
 
 A Concept, four Assets, and 9 Readiness — that's your whole character. Jot it on a scrap of paper and you're ready to adventure. With your world built and your heroes made, it's time to point them at something worth doing.
 
-**Next up:** start your Quest. Turn to Chapter 3.
+**Next up:** start your Story Arc. Turn to Chapter 3.

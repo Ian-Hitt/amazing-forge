@@ -19,7 +19,7 @@ About two minutes, in this order. That's everything anyone needs to make their f
 
 > **Don't explain anything else yet.** No tracks, no recovery, no fleeing, no Oracle. Open in the middle of the action — a door already breaking down, a chase already on — and ask *"what do you do?"* The first roll teaches more than any paragraph.
 
-**One quiet bit of setup:** before you start, name the **Goal**, three **Milestones**, and draw the two paired rows of boxes — the **Quest Track** (the heroes' progress) and the **Antagonist Track** (the bad guys'). You don't have to explain the Antagonist Track's rules now. Just say *"that bottom row is the villain's progress — I'll explain how it fills if it ever comes up,"* and move on.
+**One quiet bit of setup:** before you start, name the **Goal**, three **Milestones**, and draw the two paired rows of boxes — the **Story Arc Track** (the heroes' progress) and the **Antagonist Track** (the bad guys'). You don't have to explain the Antagonist Track's rules now. Just say *"that bottom row is the villain's progress — I'll explain how it fills if it ever comes up,"* and move on.
 
 ---
 
@@ -38,8 +38,8 @@ Keep this sheet next to you. Each rule below has a **trigger** — the moment in
 | A hero hits **0 Readiness** | **Out of Action** & a **Broken Asset** | *"You're down — out of this scene until a teammate patches you up. And one of your Assets breaks until you get a proper long rest."* |
 | The table goes quiet — *"**what happens now?**"* | **Ask the Oracle** | *"When none of us knows what's next: name what your hero's trying to do, then do the obvious thing — or we roll the dice and let them surprise us."* |
 | You reach the **final, climactic box** | **Showdown** *(optional)* | *"This last one's the big finish — one charged roll decides it."* |
-| They **finish the Quest**, or stop to rest between adventures | **Downtime** | *"You did it. Take a good long rest — everyone heals way up, and any broken Assets come back."* |
-| You're carrying on **past one Quest into a campaign** | **Growth** | *"Every Quest you finish earns Growth — later you'll spend it on new tricks and tools, never bigger numbers."* |
+| They **finish the Story Arc**, or stop to rest between adventures | **Downtime** | *"You did it. Take a good long rest — everyone heals way up, and any broken Assets come back."* |
+| You're carrying on **past one Story Arc into a Series** | **Growth** | *"Every Story Arc you finish earns Growth — later you'll spend it on new tricks and tools, never bigger numbers."* |
 
 > **The thread through all of it:** introduce a rule, then immediately hand the narration back to the player. *"…so knock off a point — now, what does that look like?"* The rule lands and the story keeps moving in the same breath.
 
@@ -47,8 +47,8 @@ Keep this sheet next to you. Each rule below has a **trigger** — the moment in
 
 ## A note for Co-op tables
 
-Playing without a Guide doesn't change this. There's still almost always one person who read the book — you do exactly the same thing: teach the four things, set up the Quest, and start. The one difference is that once everyone's rolling, the **triggers belong to the whole table.** When the first Miss lands or the dice come up doubles, whoever remembers the rule calls it out. After a session or two, nobody's "the teacher" anymore — the group teaches itself.
+Playing without a Guide doesn't change this. There's still almost always one person who read the book — you do exactly the same thing: teach the four things, set up the Story Arc, and start. The one difference is that once everyone's rolling, the **triggers belong to the whole table.** When the first Miss lands or the dice come up doubles, whoever remembers the rule calls it out. After a session or two, nobody's "the teacher" anymore — the group teaches itself.
 
 ---
 
-*Full rules for everything above: **The Roll & Aid Your Ally** — Ch.7. **Challenges, Flee & Showdown** — Ch.8. **Readiness, Mend, Downtime, Out of Action & Pay the Price** — Ch.9. **Quests & the Antagonist Track** — Ch.10. **Ask the Oracle** — Ch.11. **Growth** — Ch.13.*
+*Full rules for everything above: **The Roll & Aid Your Ally** — Ch.7. **Challenges, Flee & Showdown** — Ch.8. **Readiness, Mend, Downtime, Out of Action & Pay the Price** — Ch.9. **Story Arcs & the Antagonist Track** — Ch.10. **Ask the Oracle** — Ch.11. **Growth** — Ch.13.*

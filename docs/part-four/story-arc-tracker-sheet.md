@@ -1,6 +1,6 @@
-## Quest Tracker Sheet
+## Story Arc Tracker Sheet
 
-One sheet per Quest. It holds the **Goal**, the **scale**, the paired **Quest Track** and **Antagonist Track**, room to name your **antagonist**, and numbered lines to jot each **Milestone**. Running several Quests at once? Print one of these for each — keep every race on its own page.
+One sheet per Story Arc. It holds the **Goal**, the **scale**, the paired **Story Arc Track** and **Antagonist Track**, room to name your **antagonist**, and numbered lines to jot each **Milestone**. Running several Story Arcs at once? Print one of these for each — keep every race on its own page.
 
 > **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus are hidden automatically, so you'll get just the sheet.
 
@@ -46,7 +46,7 @@ One sheet per Quest. It holds the **Goal**, the **scale**, the paired **Quest Tr
 
 <div class="af-sheet" markdown="0">
   <p class="af-title">LIGHTS, CAMERA, ACTION!</p>
-  <p class="af-sub">Quest Tracker</p>
+  <p class="af-sub">Story Arc Tracker</p>
 
   <h3>The Goal</h3>
   <div class="af-line"><span class="af-fill"></span></div>
@@ -54,17 +54,27 @@ One sheet per Quest. It holds the **Goal**, the **scale**, the paired **Quest Tr
 
   <h3>Scale</h3>
   <div class="af-scale">
-    <span><span class="af-chk"></span> Episodic &mdash; 3 boxes (one sitting)</span>
+    <span><span class="af-chk"></span> Episode &mdash; 3 boxes (one sitting)</span>
+    <span><span class="af-chk"></span> Movie &mdash; 8 boxes (one story, 2&ndash;3 sessions)</span>
     <span><span class="af-chk"></span> Season &mdash; 8 boxes</span>
-    <span><span class="af-chk"></span> Campaign &mdash; 12 boxes</span>
+    <span><span class="af-chk"></span> Series &mdash; 12 boxes</span>
   </div>
-  <div class="af-line"><label>Feeds into</label><span class="af-fill"></span></div>
-  <p class="af-hint">Which larger Quest does finishing this one advance? (Leave blank for a standalone adventure.)</p>
+  <div class="af-line"><label>Also advances</label><span class="af-fill"></span></div>
+  <p class="af-hint">Any larger Story Arc a big beat here might <em>also</em> move &mdash; when it does, mark a box on both. (Leave blank for a standalone adventure.)</p>
+
+  <h3>Role <span style="font-weight:400;font-size:0.8rem;opacity:0.7;">(optional &mdash; how to play it, not a rule)</span></h3>
+  <div class="af-scale">
+    <span><span class="af-chk"></span> Main plot</span>
+    <span><span class="af-chk"></span> Side plot</span>
+    <span><span class="af-chk"></span> Character arc</span>
+  </div>
+  <div class="af-line"><label>If a character arc, for whom</label><span class="af-fill"></span></div>
+  <p class="af-hint">Main = return most sessions; Side = touch periodically; Character arc = surface in that hero's spotlight beats.</p>
 
   <h3>The Tracks</h3>
-  <p class="af-hint">Use as many boxes as your scale. Heroes win by filling the Quest Track first; they lose if the Antagonist Track fills first. Both rows are the same length.</p>
+  <p class="af-hint">Use as many boxes as your scale. Heroes win by filling the Story Arc Track first; they lose if the Antagonist Track fills first. Both rows are the same length.</p>
   <div class="af-trackgrid">
-    <span class="af-rowlabel">Quest</span>
+    <span class="af-rowlabel">Story Arc</span>
     <div class="af-row af-quest">
       <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span>
       <span class="af-box">4</span><span class="af-box">5</span><span class="af-box">6</span>
@@ -82,8 +92,8 @@ One sheet per Quest. It holds the **Goal**, the **scale**, the paired **Quest Tr
     <div class="af-scalebar">
       <span></span><span></span><span>&#8593;Ep</span>
       <span></span><span></span><span></span>
-      <span></span><span>&#8593;Sea</span><span></span>
-      <span></span><span></span><span>&#8593;Cmp</span>
+      <span></span><span>&#8593;M&middot;S</span><span></span>
+      <span></span><span></span><span>&#8593;Sr</span>
     </div>
   </div>
 
@@ -93,7 +103,7 @@ One sheet per Quest. It holds the **Goal**, the **scale**, the paired **Quest Tr
   <p class="af-hint">Give it a face &mdash; even a force (a desert, a plague, a deadline) counts. When an Antagonist box fills, play out the Surge: the villain just hit a milestone of their own.</p>
 
   <h3>Milestones</h3>
-  <p class="af-hint">A concrete, pointable step toward the Goal. Number them to match the Quest Track boxes above. (Episodic uses 1&ndash;3; longer scales fill more slowly.)</p>
+  <p class="af-hint">A concrete, pointable step toward the Goal. Number them to match the Story Arc Track boxes above. (Episode uses 1&ndash;3; longer types fill more slowly.)</p>
   <div class="af-mscols">
     <div class="af-ms"><span class="af-num">1.</span><span class="af-fill"></span></div>
     <div class="af-ms"><span class="af-num">7.</span><span class="af-fill"></span></div>
@@ -112,5 +122,5 @@ One sheet per Quest. It holds the **Goal**, the **scale**, the paired **Quest Tr
   <h3>Notes</h3>
   <div class="af-notes"></div>
 
-  <p class="af-ref"><b>Win:</b> fill the Quest Track first &mdash; each hero takes +6 Readiness (cap 9). &nbsp; <b>Lose:</b> Antagonist Track fills first, or Quit the Quest &mdash; no penalty; ask "how did the world change?" and seed the next Quest. &nbsp; <b>Antagonist advances:</b> when heroes Flee a Challenge (always), or a telling failure via Pay the Price (table's call) &mdash; never automatic, never on Recovery.</p>
+  <p class="af-ref"><b>Win:</b> fill the Story Arc Track first &mdash; each hero takes +6 Readiness (cap 9). &nbsp; <b>Lose:</b> Antagonist Track fills first, or Quit the Story Arc &mdash; no penalty; ask "how did the world change?" and seed the next Story Arc. &nbsp; <b>Antagonist advances:</b> when heroes Flee a Challenge (always), or a telling failure via Pay the Price (table's call) &mdash; never automatic, never on Recovery.</p>
 </div>

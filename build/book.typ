@@ -92,12 +92,18 @@
 
 // ---- front matter: title page ---------------------------------------------
 #page(header: none, footer: none)[
-  #v(2.2in)
+  #v(1.9in)
   #align(center)[
-    #text(font: "Avenir Next", size: 46pt, weight: 800, fill: accent)[Lights, Camera, Action!]
-    #v(0.4em)
+    #block[
+      #set text(font: "Avenir Next", size: 46pt, weight: 800, fill: accent, hyphenate: false)
+      #set par(justify: false, leading: 0.2em)
+      Lights,\
+      Camera,\
+      Action!
+    ]
+    #v(0.55em)
     #line(length: 2in, stroke: 2pt + accent)
-    #v(0.6em)
+    #v(0.65em)
     #text(font: "Avenir Next", size: 13pt, weight: 500, fill: soft)[
       A cinematic, zero-prep tabletop RPG for ages 10+
     ]

@@ -29,19 +29,19 @@ A price in Post-Apocalypse is *scarcity and risk closing in* — the resource th
 
 > **Let the dial pick the sting.** Playful, "the supplies run out" is a comic scramble over the last can of beans. Serious, it's a genuinely hard choice about who the dwindling water goes to. Keep prices about *scarcity and pressure*, not wounds — the world bites by taking things away, and the tension is always *what it costs to keep going.*
 
-### What a Quest looks like here
+### What a Story Arc looks like here
 
-**The promise:** *survivors scrape a life from the ruins — and decide what's worth rebuilding.* The Quest Track is how the table delivers it.
+**The promise:** *survivors scrape a life from the ruins — and decide what's worth rebuilding.* The Story Arc Track is how the table delivers it.
 
-In Post-Apocalypse, the Quest Track is the **fight to secure, reach, or rebuild something, and each Milestone is a hard-won piece of it** (Chapter 10): a resource locked down, a haven reached, a wall raised, a neighbor won over. A filled box is ground taken back from the wasteland — not a treasure, but a *foothold.*
+In Post-Apocalypse, the Story Arc Track is the **fight to secure, reach, or rebuild something, and each Milestone is a hard-won piece of it** (Chapter 10): a resource locked down, a haven reached, a wall raised, a neighbor won over. A filled box is ground taken back from the wasteland — not a treasure, but a *foothold.*
 
-The three Quest scales (Chapter 10) map onto survival like this:
+The three Story Arc scales (Chapter 10) map onto survival like this:
 
-- **Episodic (3 boxes, one sitting):** *Cross the dead city to the rumored water cache.* The Milestones: **get past the raider tollgate → cross the flooded downtown → reach the cache and salvage what's left.** One desperate run, there and back.
+- **Episode (3 boxes, one sitting):** *Cross the dead city to the rumored water cache.* The Milestones: **get past the raider tollgate → cross the flooded downtown → reach the cache and salvage what's left.** One desperate run, there and back.
 - **Season (8 boxes, many episodes):** *Turn a ruin into a real settlement.* Each box is a piece of a living place — clean water secured, a wall raised, crops finally taking, a wary neighbor-camp turned ally — marked whenever the table agrees you've truly built something that lasts.
-- **Campaign (12 boxes, the whole game):** *Relight a piece of the old world — unite the scattered enclaves, or get the lights on for good.* A long arc of rebuilding, told across many smaller survival Quests that feed it.
+- **Series (12 boxes, the whole game):** *Relight a piece of the old world — unite the scattered enclaves, or get the lights on for good.* A long arc of rebuilding, told across many smaller survival Story Arcs that build it.
 
-The **Antagonist Track** (always present, Chapter 10) is whatever's grinding the survivors down: the raider warlord, the rival enclave, the failing land, the long winter, the sickness with no cure. It ticks when the heroes **Flee** — abandon a run or give up ground (Chapter 8) — or when a price lets the threat gain. Fill it and you lose the haven, the harvest, the people — which seeds the next Quest, because in a ruined world a loss is just the start of the next fight. A **force** antagonist (the drought, the cold) works perfectly here; characterize it so each tick is concrete: "the well's gone brackish, and the next one's two days out."
+The **Antagonist Track** (always present, Chapter 10) is whatever's grinding the survivors down: the raider warlord, the rival enclave, the failing land, the long winter, the sickness with no cure. It ticks when the heroes **Flee** — abandon a run or give up ground (Chapter 8) — or when a price lets the threat gain. Fill it and you lose the haven, the harvest, the people — which seeds the next Story Arc, because in a ruined world a loss is just the start of the next fight. A **force** antagonist (the drought, the cold) works perfectly here; characterize it so each tick is concrete: "the well's gone brackish, and the next one's two days out."
 
 ### Tempo
 
@@ -49,7 +49,7 @@ The **Antagonist Track** (always present, Chapter 10) is whatever's grinding the
 
 In practice:
 
-- **Season scale is the natural home.** Rebuilding a place across many episodes is where this genre sings; Episodic Quests are the desperate single runs between. Save Campaign for relighting the world.
+- **Season scale is the natural home.** Rebuilding a place across many episodes is where this genre sings; Episodes are the desperate single runs between. Save Series for relighting the world.
 - **Let scarcity set the pace.** When the gas, the water, or the daylight is running low, the clock is built in — you don't need to rush the table, the *situation* does.
 - **Earn the breathers.** A warm fire, a full meal, a safe night — these aren't filler, they're the contrast that makes the next hardship matter. Pace one in after every real cost.
 
@@ -64,7 +64,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Quest: cross the dead city to the water cache (an Episodic Quest). First Milestone: get past the raider tollgate. The table sets up a Social Challenge — Medium, 4 boxes, the wary raiders as the obstacle.*
+> *The Story Arc: cross the dead city to the water cache (an Episode). First Milestone: get past the raider tollgate. The table sets up a Social Challenge — Medium, 4 boxes, the wary raiders as the obstacle.*
 >
 > **Guide:** The off-ramp into the city is chained shut, and three raiders lounge around an oil-drum fire. They've already clocked your truck. The big one stands, grinning, and holds out a hand: "Toll's half your gas, friend." What do you do?
 > **Player (Bex):** A fight we'd lose, so I deal instead. I use *Bartering for a Fair Trade* — I offer them something better than gas: a working radio battery, plus the location of a stash. I don't mention I already cleaned that stash out.
@@ -118,7 +118,7 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 
 ### Story seeds & standing tensions
 
-*Situations to mine — your table decides what the Quest actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Quest. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
+*Situations to mine — your table decides what the Story Arc actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Story Arc. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 
 | d100 | A Post-Apocalypse waiting to happen |
 |---|---|

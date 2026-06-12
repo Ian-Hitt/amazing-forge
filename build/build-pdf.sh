@@ -34,12 +34,12 @@ TYPST="$(command -v typst || echo /opt/homebrew/bin/typst)"
 # Keep these arrays in sync with nav: in mkdocs.yml when chapters change.
 FRONT=( foreword.md )
 PART1=( part-one/00-introduction.md part-one/01-build-your-world.md \
-        part-one/02-create-your-hero.md part-one/03-start-your-quest.md \
+        part-one/02-create-your-hero.md part-one/03-start-your-story-arc.md \
         part-one/04-the-roll.md part-one/05-playing-the-game.md \
         part-one/06-your-first-session.md )
 PART2=( part-two/00-introduction.md part-two/07-the-roll.md \
         part-two/08-challenges.md part-two/09-readiness.md \
-        part-two/10-quests-and-the-antagonist-track.md part-two/11-ask-the-oracle.md \
+        part-two/10-story-arcs-and-the-antagonist-track.md part-two/11-ask-the-oracle.md \
         part-two/12-running-the-game.md part-two/13-growing-your-heroes.md )
 PART3=( part-three/00-introduction.md part-three/14-the-world-forge.md \
         part-three/15-genres.md \

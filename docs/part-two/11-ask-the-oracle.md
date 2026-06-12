@@ -26,14 +26,14 @@ Work down the ladder below and **stop the moment you have something to play.** Y
 
 The single fastest way out of "stuck" is to name what the heroes are trying to do **right now.**
 
-Look at your **Quest Track** (Chapter 10). What's the next empty box — the next **Milestone?** That's your compass. The next scene is almost always "a step toward the next Milestone," and once you've named the Milestone, the scene usually names itself.
+Look at your **Story Arc Track** (Chapter 10). What's the next empty box — the next **Milestone?** That's your compass. The next scene is almost always "a step toward the next Milestone," and once you've named the Milestone, the scene usually names itself.
 
 If you haven't decided the next Milestone yet, decide one now. You're not inventing from nothing — pull from everything already on the table:
 
 - **Your Worldbuilding answers** (Chapter 14) — especially the **Threats**, the **Forbidden**, the **Leadership**, and your **Reputation**. These were built to generate trouble; spend it here.
 - **The heroes and their Assets** — a Milestone that lets someone's Asset shine is a Milestone the table will enjoy.
 - **The NPCs and places you've already met or heard about.** The richest next scene is usually a callback, not a brand-new element. That name someone dropped two scenes ago is waiting to pay off.
-- **Any other Quests you have running.** With multiple Quests in play (Chapter 10), the next Milestone might belong to a different track entirely.
+- **Any other Story Arcs you have running.** With multiple Story Arcs in play (Chapter 10), the next Milestone might belong to a different track entirely.
 
 Nine times out of ten, naming the Milestone is enough — the obvious next scene appears the moment you know what you're aiming at. If it doesn't, drop to Step 2.
 

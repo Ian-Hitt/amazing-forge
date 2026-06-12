@@ -12,7 +12,7 @@ You don't need it to play. But when a session feels shapeless, naming the act yo
 
 You meet the heroes, see the world as it normally is, and notice what's missing — the flaw, the want, the trouble on the horizon. This is the shortest act. Its whole job is to make us care before the storm.
 
-*At the table:* spend a scene on the ordinary day, let the hero Concepts and Bonds breathe, then drop the inciting trouble and **Start a Quest**. The Quest Track is fresh and the Antagonist Track is quiet — the villain is still just a shadow. Act One ends the moment the heroes *commit* to the adventure.
+*At the table:* spend a scene on the ordinary day, let the hero Concepts and Bonds breathe, then drop the inciting trouble and **Start a Story Arc**. The Story Arc Track is fresh and the Antagonist Track is quiet — the villain is still just a shadow. Act One ends the moment the heroes *commit* to the adventure.
 
 ## Act Two — Confrontation
 
@@ -20,7 +20,7 @@ You meet the heroes, see the world as it normally is, and notice what's missing 
 
 This is the long middle, and it has two halves. **First** comes the fun — the heroes chase the goal, win some early Challenges, and the story goes their way. **Then it turns.** Somewhere in the middle the ground shifts: the villain's real plan shows itself, a victory curdles, the stakes jump. From there the pressure only mounts, and the act bottoms out at the lowest point of the whole story.
 
-*At the table:* fill Quest Track boxes in the bright half — let the heroes shine. Then turn the dial: a hard tick of the **Antagonist Track** for your midpoint, and let it surge from there. The valleys between fights (Recovery Scenes) get quieter and darker as you go. This is the act that holds the "all is lost" moment — a hero Out of Action, an Asset broken, the next box looking impossible. Don't rush it; that low is what makes the finale soar.
+*At the table:* fill Story Arc Track boxes in the bright half — let the heroes shine. Then turn the dial: a hard tick of the **Antagonist Track** for your midpoint, and let it surge from there. The valleys between fights (Recovery Scenes) get quieter and darker as you go. This is the act that holds the "all is lost" moment — a hero Out of Action, an Asset broken, the next box looking impossible. Don't rush it; that low is what makes the finale soar.
 
 ## Act Three — Resolution
 
