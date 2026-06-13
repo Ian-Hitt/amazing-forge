@@ -19,7 +19,7 @@ About two minutes, in this order. That's everything anyone needs to make their f
 
 > **Don't explain anything else yet.** No tracks, no recovery, no falling back, no Oracle. Open in the middle of the action — a door already breaking down, a chase already on — and ask *"what do you do?"* The first roll teaches more than any paragraph.
 
-**One quiet bit of setup:** before you start, name the **Goal**, three **Milestones**, and draw the two paired rows of boxes — the **Story Arc Track** (the heroes' progress) and the **Antagonist Track** (the bad guys'). You don't have to explain the Antagonist Track's rules now. Just say *"that bottom row is the villain's progress — I'll explain how it fills if it ever comes up,"* and move on.
+**One quiet bit of setup:** before you start, name the **Goal**, three **Milestones**, and draw the **Story Arc Track** (the heroes' progress — one box per Milestone) with a shorter **Antagonist Track** beneath it (the bad guys'). You don't have to explain the Antagonist Track's rules now. Just say *"that bottom row is the villain's progress — I'll explain how it fills if it ever comes up,"* and move on.
 
 ---
 

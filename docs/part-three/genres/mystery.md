@@ -40,7 +40,7 @@ The two Story sizes (Chapter 10) map cleanly onto a case:
 - **Episode (3 Milestones, one sitting):** *Who poisoned the festival well?* The Milestones: **find the means → find the motive → name the culprit.** Three clues that add up to *who* and *why.*
 - **Movie (6 Milestones, 2–3 sessions):** *Unravel who really runs this town.* Each Milestone is a layer of the conspiracy pulled back — a bought official exposed, a hidden ledger found, a witness turned, the pattern seen — building one case to its reveal.
 
-Chain several cases together and you've got a **Season** (a detective's long campaign) or a whole **Series** (*expose the rot at the very top*) — collections of Stories, not bigger tracks (Chapter 10).
+Chain several cases together and you've got a **Season** (a detective's long run) or a whole **Series** (*expose the rot at the very top*) — collections of Stories, not bigger tracks (Chapter 10).
 
 The **Antagonist Track** (always present, Chapter 10) is whoever benefits from the truth staying buried — racing to cover tracks, discredit you, or make the evidence disappear. It's short, topped by the **climax** box, and it **surges each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — the guilty party buries something while you regroup. Fill it and the truth is lost or the culprit walks — which seeds the next case. Name your antagonist so a Surge is concrete: "the file you needed is ash in the grate."
 
