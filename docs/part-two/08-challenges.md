@@ -79,7 +79,7 @@ When the track fills:
 Heroes are never trapped in a Challenge they're losing. At any point — usually when Readiness is running dangerously low and grinding out the last boxes isn't worth the cost — the group may **fall back and regroup.** This is resolved as a **Recovery Scene** (Chapter 9), and it ends the Challenge immediately:
 
 - **You lose the Challenge's progress.** Wipe the track; the boxes filled so far don't count. In the fiction, the heroes pull back, take another route, live to fight another day.
-- **The whole party recovers to full Readiness.** That's the reward for regrouping — falling back always works.
+- **The whole party recovers** up to its current Readiness max — falling back always works (though that max drops 1 each regroup; Chapter 9).
 - **The Antagonist Track surges one box.** The villain gains ground while the heroes catch their breath. Play out the resulting **Surge** (Chapter 10) — the villains' plan moves forward off-screen, and the world tightens.
 
 Falling back is a **group decision** — in Co-op, made together; with a Guide, the Guide honors the table's call to retreat. It is the heroes' deliberate escape valve, and a weighty one: because the Antagonist Track is short and its top box is the reserved climax, you can only regroup so many times before the villain is one step from winning. Every retreat is a real choice, never a free reset.

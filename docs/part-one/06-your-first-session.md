@@ -131,7 +131,7 @@ Safe on the far side, the heroes find a sheltered hollow out of the wind. Snik i
 
 **Leo:** "Snik repacks what gear he's got left and brews a little camp tea." **Maya:** "Brave checks Cinder's wing where she clipped the rock, then bandages her own scrapes."
 
-> **▶ Rules note — the Recovery Scene & the Surge (Chapter 5).** Falling back to regroup is the reliable recovery: **the whole party goes back to full Readiness** — Brave and Snik are both at **9** again. But it isn't free — **the Goblin King's track surges one box.** While the heroes rested, the King wasn't idle.
+> **▶ Rules note — the Recovery Scene & the Surge (Chapter 5).** Falling back to regroup is the reliable recovery: the whole party comes back up — but **not all the way.** Their Readiness max drops from 9 to **8**, so Brave and Snik both come back to **8**, not 9. And it isn't free — **the Goblin King's track surges one box.** Each regroup will leave them a little lower than the last; the screws are tightening.
 
 **The Surge.** They play it out: the horn from Milestone 1 paid off — the King has had time to **double the guard on the throne and seal the lower tunnels.** The way out just got harder.
 
@@ -145,7 +145,7 @@ ANTAGONIST TRACK:   [X]  [ ]            (one box from winning — the climax is 
 
 ### Milestone 3 — The Goblin King, and Escape
 
-Refreshed and back at full, the heroes press on to the throne cavern, where the **Goblin King** has the **Sun Crystal** mounted above his throne. They agree this is the climax and run it as one more **Challenge** — Snik's *I Know Goblin Secrets* lets him work the crowd while Brave's *Ice Magic* and *Dragon-Scale Armor* keep the doubled guard at bay.
+Refreshed — though capped at 8 now, not 9 — the heroes press on to the throne cavern, where the **Goblin King** has the **Sun Crystal** mounted above his throne. They agree this is the climax and run it as one more **Challenge** — Snik's *I Know Goblin Secrets* lets him work the crowd while Brave's *Ice Magic* and *Dragon-Scale Armor* keep the doubled guard at bay.
 
 Two boxes in, things get hairy: an alarm gong sounds (a Pay the Price), guards press in, and after a couple of Misses both heroes are down around 3 Readiness with one box left to fill.
 

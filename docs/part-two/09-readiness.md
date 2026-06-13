@@ -7,8 +7,8 @@ A quick orientation before the details:
 - Readiness only ever **falls during action**, on a Weak Hit (−1) or a Miss (−2).
 - It comes back through **three** moves: a quick, risky **Mend** *during* a Challenge; a **Recovery Scene** when the heroes fall back to regroup; and **Downtime** between Stories.
 - **Mend** is the gamble — a little healing now (Strong +3 / Weak +2), but a **Miss costs you 1 Readiness.** It's a tactical choice on your turn, and it does **not** advance the villain.
-- The **Recovery Scene** is the reliable one — the whole party back to **full** Readiness — but it **surges the Antagonist Track one box** (Chapter 10). Recovery you can count on; ground you give up.
-- It's capped at **9.** Readiness isn't a survival meter — heroes can't die — it's **ammunition against the villain's clock.**
+- The **Recovery Scene** is the reliable one — the whole party back up to its **current max** — but it **surges the Antagonist Track one box** (Chapter 10) *and* **lowers that max by 1.** Recovery you can count on; ground you give up; a ceiling that keeps sinking.
+- **Your Readiness max starts at 9 and drops 1 with each Recovery Scene** (floor 4), so every regroup leaves you a little worse than the last — the Story Arc tightens as it runs. It resets to 9 at **Downtime.** Readiness isn't a survival meter (heroes can't die) — it's **ammunition against the villain's clock.**
 
 ---
 
@@ -66,15 +66,15 @@ Used this way, Paying the Price becomes the engine of complications that the who
 
 ## Part B — Recovery
 
-Readiness only falls in the heat of the action, and there are exactly three ways it comes back — a quick gamble *during* a Challenge, a full reset when the heroes **fall back to regroup**, and a clean slate **between Stories.** Each is a different kind of choice, and the difference is the whole point of the system.
+Readiness only falls in the heat of the action, and there are three ways it comes back — a quick gamble *during* a Challenge, a **regroup** when the heroes fall back, and a clean slate **between Story Arcs.** And there's a twist that gives a Story Arc its mounting pressure: **your Readiness max drops a little each time you regroup.**
 
 | Move | When | Heals | The catch |
 |---|---|---|---|
 | **Mend** | On your turn, *during* a Challenge | a little (risky) | a **Miss costs you 1 Readiness**; can't revive a downed hero |
-| **Recovery Scene** | Falling back to regroup at a safe lull | the whole party to **full** | **surges the Antagonist Track one box** |
-| **Downtime** | Between Stories | full reset + restores Broken Assets | (none — the Story Arc's over) |
+| **Recovery Scene** | Falling back to regroup at a safe lull | the party up to its **current max** | **surges the Antagonist Track**, *and* **lowers your max by 1** |
+| **Downtime** | Between Story Arcs | full reset — **max back to 9** + Broken Assets restored | (none — the Story Arc's over) |
 
-All three use the same core move (Chapter 7) where a roll is called for. Only one of them advances the villain.
+All three use the same core move (Chapter 7) where a roll is called for. Only the Recovery Scene advances the villain — and only it wears down your ceiling.
 
 ### Mend — the In-Challenge Gamble
 
@@ -91,22 +91,25 @@ Two things keep Mend honest, and neither is a usage cap — it's a gamble, not a
 - **A Miss costs you.** Recovering is never guaranteed; reach for a patch when you're hurt but steady, not when you're one bad roll from the floor. When you're *that* low, the safe play is to fall back for a Recovery Scene instead.
 - **It costs your turn.** A Mend isn't a Challenge Roll — you didn't fill a box, didn't fend off the threat. The Challenge runs a beat longer because you stopped to patch up.
 
-Two more rules: **Mend never advances the Antagonist Track** (it's not a retreat — you stood your ground and bandaged up), and **Mend cannot revive an Out-of-Action hero** (only a Recovery Scene or Downtime brings someone back from 0 — see below). Capped at **9.**
+Two more rules: **Mend never advances the Antagonist Track** (it's not a retreat — you stood your ground and bandaged up), and **Mend cannot revive an Out-of-Action hero** (only a Recovery Scene or Downtime brings someone back from 0 — see below). It heals only up to your **current Readiness max** (which drops as you regroup — below).
 
 ### The Recovery Scene — Fall Back and Regroup
 
 Whenever the heroes reach a safe lull — **most often between Challenges**, when the action pauses and they can catch their breath — they can **fall back and regroup:** a **Recovery Scene.** This is the reliable recovery, and the weighty one. The party pulls back, and:
 
-- **The whole party recovers to full Readiness** — no roll, no whiff. Falling back *works.*
-- **The Antagonist Track surges one box** (Chapter 10) — while you regrouped, the villain gained ground. That's the price of the breather, and it's the **only** thing that routinely advances the villain.
+- **Everyone recovers up to the party's current Readiness max** — no roll, no whiff. Falling back *works.*
+- **The Antagonist Track surges one box** (Chapter 10) — the villain gains ground while you breathe. The **only** thing that routinely advances the villain.
+- **Your Readiness max drops by 1** for the rest of this Story Arc (never below **4**).
 
-A Recovery Scene is **gated by the fiction** (you need a genuine safe moment) and **chosen by the players** — you take one when the bleed makes it worth handing the villain a box. It's the quiet beat between dangers: the campfire, the patched wound, **the character scene.** Because the regroup is *where the villain gains ground,* slowing down for the cast is never free — which is exactly what gives those scenes stakes. (Falling back from a Challenge you're losing — what other games call fleeing — is just a Recovery Scene: you lose the Challenge's progress, the party recovers, the villain surges.)
+That last point is the engine of a Story Arc's rising pressure. Your max starts at **9.** The first time the party regroups, everyone comes back to **8**; the next time, **7**; and so on. So **each regroup leaves you a little worse off than the last** — recovery never fully bails you out, and the longer a Story Arc runs the more it tightens, pushing the heroes to reach the climax before they're worn too thin. The max **resets to 9 at Downtime**, when the Story Arc ends.
+
+A Recovery Scene is **gated by the fiction** (you need a genuine safe moment) and **chosen by the players** — you take one when the bleed makes it worth a Surge and a notch off your ceiling. It's the quiet beat between dangers: the campfire, the patched wound, **the character scene.** Because the regroup is *where the villain gains ground,* slowing down for the cast is never free — which is exactly what gives those scenes stakes. (Falling back from a Challenge you're losing — what other games call fleeing — is just a Recovery Scene: you lose the Challenge's progress, the party recovers, the villain surges, the ceiling drops.)
 
 Heroes won't *voluntarily* regroup into the villain's last, reserved box (that would hand them the win) — so a Recovery Scene fills the track up to one-from-full and then the party has to tough it out to the climax (Chapter 10).
 
 ### Downtime — Between Stories
 
-When a Story Arc ends — won or lost — the heroes take **Downtime:** the game's long rest and its standing invitation to **slow down.** It resets the whole party to **full Readiness** and **restores every Broken Asset** (below) — no roll, no Surge; the Story Arc is resolved, so the villain's clock is done. Spend real time here in dialogue and narration; the slower character beats live in Downtime.
+When a Story Arc ends — won or lost — the heroes take **Downtime:** the game's long rest and its standing invitation to **slow down.** It **resets the Readiness max back to 9**, heals everyone to full, and **restores every Broken Asset** (below) — no roll, no Surge; the Story Arc is resolved, so the villain's clock and the worn-down ceiling reset together. Spend real time here in dialogue and narration; the slower character beats live in Downtime.
 
 What does it look like? Whatever fits your hero — if you're stuck, roll or pick a d6:
 
