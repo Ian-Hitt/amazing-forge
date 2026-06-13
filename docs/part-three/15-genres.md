@@ -10,7 +10,7 @@ A genre isn't *what happens* in your story — it's *how it feels.* The same flo
 
 ## The Seven Genres
 
-The rules of *Lights, Camera, Action!* are deliberately **genre-agnostic** — they don't favor any one kind of story. So these seven aren't the genres the game is "for"; they're seven **optional toolkits** we put together to help if that's the kind of story you're telling. Reach for one when it's useful, blend them, dial them, ignore them, or invent your own — the game plays just as well without any of them. Each has a full **Genre Kit** on its own page (linked below).
+The rules of *Lights, Camera, Action!* are deliberately **genre-agnostic** — they don't favor any one kind of story. So these seven aren't the genres the game is "for"; they're seven **optional toolkits** I put together to help if that's the kind of story you're telling. Reach for one when it's useful, blend them, dial them, ignore them, or invent your own — the game plays just as well without any of them. Each has a full **Genre Kit** on its own page (linked below).
 
 Here's the most useful way to think about what a genre actually *tells* you: it's a **plot promise.** It never scripts your story — it promises a *kind* of story, and the **payoff** you're all quietly playing toward at the end of it. A Mystery promises a secret unravelled until the truth clicks; an Adventure promises a great danger faced and beaten; a Drama promises feelings building to a reckoning. You never have to plot it out in advance — name the promise, steer toward its payoff, and the story lands. Here's the promise each genre below makes:
 

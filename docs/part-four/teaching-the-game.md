@@ -17,7 +17,7 @@ About two minutes, in this order. That's everything anyone needs to make their f
 3. **The Roll.** *"When you try something risky, roll 2d6. Add **2** if one of your Assets fits what you're doing, **1** if not. **10+** you nail it. **7–9** you do it, but there's a cost. **6 or under**, it goes wrong."*
 4. **You narrate the win.** *"When you succeed, you tell me what happens — what you pull off, find, or change."*
 
-> **Don't explain anything else yet.** No tracks, no recovery, no fleeing, no Oracle. Open in the middle of the action — a door already breaking down, a chase already on — and ask *"what do you do?"* The first roll teaches more than any paragraph.
+> **Don't explain anything else yet.** No tracks, no recovery, no falling back, no Oracle. Open in the middle of the action — a door already breaking down, a chase already on — and ask *"what do you do?"* The first roll teaches more than any paragraph.
 
 **One quiet bit of setup:** before you start, name the **Goal**, three **Milestones**, and draw the two paired rows of boxes — the **Story Arc Track** (the heroes' progress) and the **Antagonist Track** (the bad guys'). You don't have to explain the Antagonist Track's rules now. Just say *"that bottom row is the villain's progress — I'll explain how it fills if it ever comes up,"* and move on.
 
@@ -33,13 +33,13 @@ Keep this sheet next to you. Each rule below has a **trigger** — the moment in
 | The dice come up **matching** (doubles) | **Oracle's Blessing** | *"Matching dice — lucky you! Bump your result up a whole tier."* |
 | A moment feels **big and dangerous** — a real set-piece | **Challenges & tracks** | *"This one's a big scene. Let's draw a few boxes and fill them together, one roll at a time, until it's done."* |
 | A player wants to **help** instead of act | **Aid Your Ally** | *"Spend your turn helping them — roll, and on a hit your friend gets a bonus on theirs."* |
-| Someone asks *"I'm low — **how do I get Readiness back?**"* | **Mend** (recovery) | *"Next time you get a safe, quiet minute, you can patch up — roll to Mend, and on a hit you get some back. It never costs you anything to try."* |
-| The group is **getting hammered** and wonders if they can bail | **Flee** & the **Antagonist Track** | *"You can bail out of this scene — you lose the progress, and the villain marks a box on their track. That's how they win, so cutting and running has a price."* |
-| A hero hits **0 Readiness** | **Out of Action** & a **Broken Asset** | *"You're down — out of this scene until a teammate patches you up. And one of your Assets breaks until you get a proper long rest."* |
+| Someone asks *"I'm low — **how do I get Readiness back?**"* | **Mend** (recovery) | *"On your turn you can patch up instead of pushing the scene — roll to Mend, hit and you get a little back. But a miss costs you a point, so don't gamble it when you're nearly out."* |
+| The group is **getting hammered** and wonders if they can bail | **Fall back** & the **Antagonist Track** | *"You can fall back and regroup — you lose this scene's progress, but everyone heals up to full. The catch: the villain marks a box on their track. Fill it and they win, so regrouping has a real price."* |
+| A hero hits **0 Readiness** | **Out of Action** & a **Broken Asset** | *"You're down — out of this scene until the team falls back to get you up (which hands the villain a box). And one of your Assets breaks until you get a proper rest between Stories."* |
 | The table goes quiet — *"**what happens now?**"* | **Ask the Oracle** | *"When none of us knows what's next: name what your hero's trying to do, then do the obvious thing — or we roll the dice and let them surprise us."* |
 | You reach the **final, climactic box** | **Showdown** *(optional)* | *"This last one's the big finish — one charged roll decides it."* |
-| They **finish the Story Arc**, or stop to rest between adventures | **Downtime** | *"You did it. Take a good long rest — everyone heals way up, and any broken Assets come back."* |
-| You're carrying on **past one Story Arc into a Series** | **Growth** | *"Every Story Arc you finish earns Growth — later you'll spend it on new tricks and tools, never bigger numbers."* |
+| They **finish the Story**, or rest between Stories | **Downtime** | *"You did it. Take a rest between Stories — everyone's back to full, and any broken Assets come back."* |
+| You're carrying on **past one Story into a Season** | **Growth** | *"As you play on, you earn Growth — spend it on new tricks and tools, never bigger numbers."* |
 
 > **The thread through all of it:** introduce a rule, then immediately hand the narration back to the player. *"…so knock off a point — now, what does that look like?"* The rule lands and the story keeps moving in the same breath.
 
@@ -51,4 +51,4 @@ Playing without a Guide doesn't change this. There's still almost always one per
 
 ---
 
-*Full rules for everything above: **The Roll & Aid Your Ally** — Ch.7. **Challenges, Flee & Showdown** — Ch.8. **Readiness, Mend, Downtime, Out of Action & Pay the Price** — Ch.9. **Story Arcs & the Antagonist Track** — Ch.10. **Ask the Oracle** — Ch.11. **Growth** — Ch.13.*
+*Full rules for everything above: **The Roll & Aid Your Ally** — Ch.7. **Challenges, Falling Back & Showdown** — Ch.8. **Readiness, Mend, the Recovery Scene, Downtime, Out of Action & Pay the Price** — Ch.9. **Story Arcs & the Antagonist Track** — Ch.10. **Ask the Oracle** — Ch.11. **Growth** — Ch.13.*

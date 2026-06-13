@@ -1,10 +1,11 @@
 # Lights, Camera, Action!
 
-*A cinematic, zero-prep tabletop RPG for ages 10+.*
+*A fast, cinematic, zero-prep tabletop RPG for telling any story you can imagine.*
 
-*Lights, Camera, Action!* is a story-first tabletop RPG built to sit between the simplest kids' games
-and the crunchy adult ones: approachable and fast, with just enough decisive mechanics to
-keep play flowing. Play it **Guided** (with a Guide) or **Co-op** (no Guide, solo or group).
+*Lights, Camera, Action!* is a story-first tabletop RPG for anyone who wants to tell fast, cinematic
+stories at the table. The rules are light enough that a table of newcomers — even a group of kids —
+can run it on their own, and decisive enough to keep play flowing. Play it **Guided** (with a Guide)
+or **Co-op** (no Guide, solo or group).
 
 New here and curious where this came from? The [Foreword](foreword.md) is a short note on why
 I made it and the games that inspired it.

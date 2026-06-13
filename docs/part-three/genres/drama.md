@@ -36,13 +36,14 @@ A price in Drama is *social fallout*, never a bruise. **Readiness** here is your
 
 This is the part that trips up new Drama tables, so it's worth saying plainly: **the Story Arc Track is the spine of a story, and a Milestone is a turning point in it** (Chapter 10). In Adventure those Milestones are places reached and foes beaten — easy to picture. In Drama they're *emotional* turning points, and that's just as concrete once you name them. A box isn't "they hung out"; it's a moment the relationship or the social map will never be the same after.
 
-The same three Story Arc scales (Chapter 10) map cleanly onto Drama:
+The two Story sizes (Chapter 10) map cleanly onto Drama:
 
-- **Episode (3 boxes, one sitting):** *Survive the gala without your secret getting out.* The Milestones: **slip into the party unsuspected → outmaneuver the one guest who knows → make it to the last dance with the truth still yours.** A tight, self-contained evening.
-- **Season (8 boxes, many episodes):** *Win back the friend you betrayed.* The boxes are stages of repair — **the icy first apology, the small favor that's noticed, the shared crisis that thaws things, the truth finally told, the trust earned back.** Each box is a real, pointable beat; you mark one whenever the table agrees the relationship genuinely moved.
-- **Series (12 boxes, the whole game):** *Take your family's seat back at the high table.* A long arc of alliances built, rivals out-maneuvered, and reputations rebuilt, told across many smaller Story Arcs that build it.
+- **Episode (3 Milestones, one sitting):** *Survive the gala without your secret getting out.* The Milestones: **slip into the party unsuspected → outmaneuver the one guest who knows → make it to the last dance with the truth still yours.** A tight, self-contained evening.
+- **Movie (6 Milestones, 2–3 sessions):** *Win back the friend you betrayed.* The Milestones are stages of repair — the icy first apology, the small favor that's noticed, the shared crisis that thaws things, the truth finally told, the trust earned back. Each is a real, pointable beat.
 
-And the **Antagonist Track** (always present, Chapter 10) is just as real without a monster: it's your **rival's rising influence**, or a **scandal creeping toward exposure**. It ticks when you back down from a confrontation (**Flee**, Chapter 8) or when the price of a bad roll is the rival gaining ground. Fill it and you've lost *this* battle — the rival wins the seat, the secret breaks — which seeds the next Story Arc. Name your antagonist as a person or a looming event so a tick is always something you can narrate: "the Duchess smiles; she just locked in the vote you needed."
+Chain several of these together and you've got a **Season** (a year of shifting alliances) or a whole **Series** (*take your family's seat back at the high table*) — collections of Stories, not bigger tracks (Chapter 10).
+
+And the **Antagonist Track** (always present, Chapter 10) is just as real without a monster: it's your **rival's rising influence**, or a **scandal creeping toward exposure**. It's short, topped by the **climax** box, and it **surges each time you fall back to regroup** (a **Recovery Scene**, Chapter 9) — ground given while you recover your composure. Fill it and you've lost *this* one — the rival wins the seat, the secret breaks — which seeds the next Story. Name your antagonist as a person or a looming event so a Surge is always something you can narrate: "the Duchess smiles; she just locked in the vote you needed."
 
 ### Tempo
 

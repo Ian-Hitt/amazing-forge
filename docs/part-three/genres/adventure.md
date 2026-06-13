@@ -36,13 +36,14 @@ In Adventure, a price keeps the story *moving* — it rarely grinds it down. A s
 
 Adventure is the genre where the Story Arc Track is easiest to picture: a **Milestone is a place reached or a foe overcome** (Chapter 10), and the track is the road to the goal. This is the shape every other genre borrows from, so it's worth seeing clearly.
 
-The three Story Arc scales (Chapter 10) map straight onto it:
+The two Story sizes (Chapter 10) map straight onto it:
 
-- **Episode (3 boxes, one sitting):** *Reach the lost temple and claim the relic.* The Milestones: **cross the Saltglass Waste → solve the sealed gate → get past the guardian.** A clean, single-session expedition.
-- **Season (8 boxes, many episodes):** *Chart the uncharted continent before the rival fleet does.* Each box is a major leg conquered — a mountain range crossed, a hostile kingdom won over, a map-blank finally filled — marked whenever the table agrees you've made real headway.
-- **Series (12 boxes, the whole game):** *Topple the Sky-Tyrant and free the floating cities.* A sweeping arc built from many smaller Story Arcs that build it.
+- **Episode (3 Milestones, one sitting):** *Reach the lost temple and claim the relic.* The Milestones: **cross the Saltglass Waste → solve the sealed gate → get past the guardian.** A clean, single-session expedition.
+- **Movie (6 Milestones, 2–3 sessions):** *Chart a route across the uncharted continent before the rival fleet does.* Each Milestone is a major leg — a mountain range crossed, a hostile kingdom won over, the final pass found — building one big self-contained expedition.
 
-The **Antagonist Track** (always present, Chapter 10) is the thing *racing* you: the rival crew, the waking beast, the marching tyrant, the closing storm-season. It ticks when the heroes turn back from a fight (**Flee**, Chapter 8) or when a bad roll's price is the rival gaining ground. Fill it and they get there first — which seeds the next Story Arc. Give your antagonist a face and a clock so every tick is something you can narrate.
+Chain several of these together and you've got a **Season** (a run of expeditions sharing a rival) or a whole **Series** (*topple the Sky-Tyrant and free the floating cities*) — those are collections of Stories, not bigger tracks (Chapter 10).
+
+The **Antagonist Track** (always present, Chapter 10) is the thing *racing* you: the rival crew, the waking beast, the marching tyrant, the closing storm-season. It's short, and its top box is the **climax.** It **surges one box each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — the rival pulls ahead while you catch your breath. Fill it and they get there first, seeding the next Story. Give your antagonist a face so every Surge is something you can narrate.
 
 ### Tempo
 

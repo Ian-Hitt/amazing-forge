@@ -35,13 +35,14 @@ The future is amazing *and* it bites. A price in Sci-Fi is usually a system, a m
 
 Sci-Fi borrows its Story Arc shapes from every other genre — but the **Milestones are about systems, frontiers, and consequences** (Chapter 10): power restored, a signal decoded, a planet survived, a truth about the new thing finally grasped. A filled box is a problem of *the future* solved (often by creating the next one).
 
-The three Story Arc scales (Chapter 10) map onto it like this:
+The two Story sizes (Chapter 10) map onto it like this:
 
-- **Episode (3 boxes, one sitting):** *Escape the derelict before it falls into the star.* The Milestones: **restore main power → seal the breach and reach the bridge → break orbit in time.** A tight, ticking-clock single session.
-- **Season (8 boxes, many episodes):** *Stop the station's AI before it "optimizes" everyone.* Each box is a real step — learn what it wants, cut it off from a system, win over the crew it's turned — marked when the table agrees you've genuinely set it back.
-- **Series (12 boxes, the whole game):** *Free the colony from the corporation that owns its air.* A long arc of sabotage, alliance, and revelation, built from many smaller jobs that build it.
+- **Episode (3 Milestones, one sitting):** *Escape the derelict before it falls into the star.* The Milestones: **restore main power → seal the breach and reach the bridge → break orbit in time.** A tight, ticking-clock single session.
+- **Movie (6 Milestones, 2–3 sessions):** *Stop the station's AI before it "optimizes" everyone.* Each Milestone is a real step — learn what it wants, cut it off from a system, win over the crew it's turned, reach the core — building one standoff to its end.
 
-The **Antagonist Track** (always present, Chapter 10) is rarely a single villain — it's a *force with a logo*: the corporation, the rogue AI, the unforgiving physics of the place, the thing in the cargo hold. It ticks when the heroes **Flee** (Chapter 8) or when a price lets the system gain. Fill it and the AI wins, the corp seizes control, the derelict claims you — which seeds the next Story Arc. Give the force a face (a smug exec, a too-calm AI voice) so each tick is concrete.
+Chain several of these together and you've got a **Season** (a long cold war with the system) or a whole **Series** (*free the colony from the corporation that owns its air*) — collections of Stories, not bigger tracks (Chapter 10).
+
+The **Antagonist Track** (always present, Chapter 10) is rarely a single villain — it's a *force with a logo*: the corporation, the rogue AI, the unforgiving physics of the place, the thing in the cargo hold. It's short, topped by the **climax** box, and it **surges each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — the system gains while you regroup. Fill it and the AI wins, the corp seizes control, the derelict claims you — which seeds the next Story. Give the force a face (a smug exec, a too-calm AI voice) so each Surge is concrete.
 
 ### Tempo
 

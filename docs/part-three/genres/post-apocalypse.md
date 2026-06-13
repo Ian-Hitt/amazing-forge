@@ -35,13 +35,14 @@ A price in Post-Apocalypse is *scarcity and risk closing in* — the resource th
 
 In Post-Apocalypse, the Story Arc Track is the **fight to secure, reach, or rebuild something, and each Milestone is a hard-won piece of it** (Chapter 10): a resource locked down, a haven reached, a wall raised, a neighbor won over. A filled box is ground taken back from the wasteland — not a treasure, but a *foothold.*
 
-The three Story Arc scales (Chapter 10) map onto survival like this:
+The two Story sizes (Chapter 10) map onto survival like this:
 
-- **Episode (3 boxes, one sitting):** *Cross the dead city to the rumored water cache.* The Milestones: **get past the raider tollgate → cross the flooded downtown → reach the cache and salvage what's left.** One desperate run, there and back.
-- **Season (8 boxes, many episodes):** *Turn a ruin into a real settlement.* Each box is a piece of a living place — clean water secured, a wall raised, crops finally taking, a wary neighbor-camp turned ally — marked whenever the table agrees you've truly built something that lasts.
-- **Series (12 boxes, the whole game):** *Relight a piece of the old world — unite the scattered enclaves, or get the lights on for good.* A long arc of rebuilding, told across many smaller survival Story Arcs that build it.
+- **Episode (3 Milestones, one sitting):** *Cross the dead city to the rumored water cache.* The Milestones: **get past the raider tollgate → cross the flooded downtown → reach the cache and salvage what's left.** One desperate run, there and back.
+- **Movie (6 Milestones, 2–3 sessions):** *Turn a ruin into a real settlement.* Each Milestone is a piece of a living place — clean water secured, a wall raised, crops taking, a wary neighbor-camp turned ally, the first hard winter survived — building one place that lasts.
 
-The **Antagonist Track** (always present, Chapter 10) is whatever's grinding the survivors down: the raider warlord, the rival enclave, the failing land, the long winter, the sickness with no cure. It ticks when the heroes **Flee** — abandon a run or give up ground (Chapter 8) — or when a price lets the threat gain. Fill it and you lose the haven, the harvest, the people — which seeds the next Story Arc, because in a ruined world a loss is just the start of the next fight. A **force** antagonist (the drought, the cold) works perfectly here; characterize it so each tick is concrete: "the well's gone brackish, and the next one's two days out."
+Chain several of these together and you've got a **Season** (the long fight to hold a haven) or a whole **Series** (*relight a piece of the old world*) — collections of Stories, not bigger tracks (Chapter 10).
+
+The **Antagonist Track** (always present, Chapter 10) is whatever's grinding the survivors down: the raider warlord, the rival enclave, the failing land, the long winter, the sickness with no cure. It's short, topped by the **climax** box, and it **surges each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — the threat gains ground while you catch your breath. Fill it and you lose the haven, the harvest, the people — which seeds the next Story, because in a ruined world a loss is just the start of the next fight. A **force** antagonist (the drought, the cold) works perfectly here; characterize it so each Surge is concrete: "the well's gone brackish, and the next one's two days out."
 
 ### Tempo
 

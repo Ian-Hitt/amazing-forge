@@ -47,43 +47,41 @@ The big difference from other games: **bad guys have no health, no stats, and no
 
 So there's no separate "the monster attacks you back" step, either. When a roll comes up a Weak Hit or a Miss, Paying the Price *is* the enemy striking, the situation worsening, the danger biting. One move covers the whole fight. If you're used to combat being its own mini-game, this will feel surprisingly light — that's on purpose. It keeps a sword fight moving at the same cinematic pace as the rest of your story.
 
-### Fleeing: Knowing When to Run
+### Recovery: Patching Up and Falling Back
 
-Heroes are never trapped in a Challenge that's grinding them down. If a fight or a chase is costing too much Readiness and finishing it just isn't worth it, the group can choose to **Flee.** Fleeing ends the Challenge right away:
+Readiness only ever drops in the heat of the action — and there are two ways to get it back, a quick risky one and a big reliable one.
 
-- **You give up that Challenge's progress** — wipe its track. The heroes pull back, take another route, live to fight another day.
-- **The bad guys gain ground** — mark **one box on the Antagonist Track.** That's the villains getting ahead because the heroes had to retreat.
-- **You stop the bleeding** — no more Readiness is lost in that scene. That's the whole point of running.
-
-Fleeing is a group decision, and it's a real one. Remember the Antagonist Track is only three boxes long, the same as your Story Arc Track — so you can only flee so many times before the bad guys win. Each retreat matters.
-
-**Quitting the Story Arc.** If things go really badly — the Antagonist Track fills, or the group simply decides this one isn't winnable — you **Quit the Story Arc.** The bad guys win this round, and that's okay. There's no penalty for it; you just dust yourselves off and move on. In fact, a lost Story Arc is a great springboard: ask yourselves *"how did the world change now that the villains got what they wanted?"* and let that shape your next adventure. Losing should leave you excited about what comes next, not bummed out.
-
-Fleeing and quitting are your safety valves: heroes can't die, so when Readiness runs low, running away is always a smart, legitimate option.
-
-### Recovery
-
-Readiness only ever drops in the heat of the action — you don't get it back mid-fight. But whenever the story reaches a **genuinely safe, quiet moment**, a hero can **Mend** — patching up yourself *or* a teammate (so a healer hero is genuinely handy). Describe the care — bandaging a wound by the campfire, a quick healing spell, a steadying word — then roll 2d6 + modifier, just like any action:
+**Mend — a quick patch, mid-Challenge.** On your turn in a Challenge, instead of pushing the scene forward, a hero can **Mend** — patching up yourself *or* a teammate. It's a real choice: press on, or take a beat to bandage up? Describe the care, then roll 2d6 + modifier:
 
 - **Strong Hit (10+):** recover **+3** Readiness.
 - **Weak Hit (7–9):** recover **+2** Readiness.
-- **Miss (6 or less):** **no luck** — the rest doesn't take, so you recover **nothing**, and a **new threat appears.**
+- **Miss (6 or less):** the patch goes wrong — **lose 1 Readiness** (and if you were very low, that can knock you Out of Action).
 
-Two things make a Mend count rather than being a free refill. **It can come up empty** (a Miss heals nothing — though it never *costs* Readiness; healing never pushes your number down). And **each hero can be Mended just once per Milestone** (whether they patch themselves up or a friend does) — so pick your moment. Capped at 9. When the group's Readiness is running low, that's your cue to find a safe spot and decide whether to spend a Mend now or push on.
+A Mend is a gamble — it can backfire, and it costs you your turn (you didn't fill a box). So reach for it when you're hurt but steady, not when you're one bad roll from the floor. A Mend **never helps the villain.**
 
-**Out of Action.** If a hero hits **0 Readiness**, they're **Out of Action** — too hurt, scared, or worn down to keep going. They can't act for now, but they're not gone for good (heroes can't die in *Lights, Camera, Action!*). At a safe moment they (or a teammate) can try to Mend them back up — and that doesn't use up anyone's once-per-Milestone Mend — but it can miss, so they might stay down a little longer.
+**Falling back — regroup when it's not worth it.** When a Challenge is grinding you down and finishing isn't worth it, the group can **fall back and regroup.** This is the big, reliable recovery:
 
-> *Part Two covers more: the brake that keeps you from resting constantly, how an ally can pull a downed hero back into a fight mid-scene, and **Downtime** — the deeper, between-adventures rest.*
+- **You give up the Challenge's progress** — wipe its track and pull back.
+- **The whole party recovers to full Readiness** — that's the point of regrouping.
+- **The bad guys gain ground** — mark **one box on the Antagonist Track.** While you caught your breath, the villain moved.
 
-### Finishing the Story Arc
+That last part is the catch: falling back always works, but it hands the villain a box — and the Antagonist Track is only **two boxes** long. So you can only regroup so often before the bad guys are at the door. (Falling back is also the quiet, character beat between dangers — which is exactly why it costs you ground.)
 
-When the heroes complete their final Milestone, **check the last box on the Story Arc Track — the Story Arc is won!**
+**Quitting the Story.** If things go really badly — the Antagonist Track fills, or the group simply decides this one isn't winnable — you **Quit the Story.** The bad guys win this round, and that's okay: no penalty, just dust yourselves off. A lost Story is a great springboard — ask *"how did the world change now that the villains got what they wanted?"* and let that shape your next adventure.
+
+**Out of Action.** If a hero hits **0 Readiness**, they're **Out of Action** — too hurt or worn down to act for now. They're never gone for good (heroes can't die). But a quick Mend can't bring them back — the team has to **fall back and regroup** to get them on their feet, and that hands the villain a box. So getting knocked out near the end of a Story is how you *lose* it.
+
+> *Part Two covers the full picture: the Recovery Scene in depth, why going Out of Action is the real danger, and **Downtime** — the between-Stories rest.*
+
+### Finishing the Story
+
+When the heroes complete their final Milestone, they reach the **climax** — and the **Story is won!**
 
 Take a moment to play out the victory: the Sun Crystal back in the village square, the lighthouse ghost finally at peace, the sky-city saved. Describe how it feels and what your heroes do now that it's over.
 
-Then claim your reward: finishing a Story Arc earns the heroes **Downtime** — a good, long rest. For your first game, just take it: **each hero recovers +6 Readiness** (still capped at 9), and you head into whatever comes next with plenty in the tank. (Part Two has the full Downtime move, where the rest is rolled like any other.)
+Then take **Downtime** — the rest between Stories. For your first game it's simple: **every hero is back to full Readiness** (9), ready for whatever comes next.
 
-That's a complete adventure — world built, heroes made, Story Arc won. From here you can start a brand-new Story Arc, send these same heroes on another, or hand the dice to someone new.
+That's a complete adventure — world built, heroes made, Story won. From here you can start a brand-new Story, send these same heroes on another, or hand the dice to someone new.
 
 ### When You Don't Know What Happens Next
 
@@ -119,6 +117,6 @@ If you're still stuck, reach for one of these:
 
 ### You're Ready to Play
 
-That's everything you need for your first game: build a world, make heroes, name a Story Arc and what stands in its way, roll the dice, run Challenges, flee when you must, recover, and lean on the Oracle when you're stuck. The next chapter walks through a short example session so you can see it all working together before you sit down at your own table.
+That's everything you need for your first game: build a world, make heroes, name a Story and what stands in its way, roll the dice, run Challenges, fall back when you must, recover, and lean on the Oracle when you're stuck. The next chapter walks through a short example session so you can see it all working together before you sit down at your own table.
 
 **Next up:** a worked example — watch a first session play out. Turn to Chapter 6.

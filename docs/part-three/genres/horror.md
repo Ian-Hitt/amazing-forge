@@ -35,13 +35,14 @@ In Horror the dread *tightens* rather than the wound bleeds. **Readiness** here 
 
 In Horror, the Story Arc Track isn't a march toward a prize — it's an **ordeal to *endure*, and each Milestone is a step toward surviving, escaping, or understanding** (Chapter 10). A filled box is ground held against the dread, not territory taken from it.
 
-The three Story Arc scales (Chapter 10) map onto a nightmare like this:
+The two Story sizes (Chapter 10) map onto a nightmare like this:
 
-- **Episode (3 boxes, one sitting):** *Survive the night in the cabin.* The Milestones: **the power dies and you learn what's hunting you → you find the one thing that holds it back → you make it to first light.** One terrible night, start to dawn.
-- **Season (8 boxes, many episodes):** *Free the town from the thing in the reservoir.* Each box is a hard-won truth or a piece of the answer — what it is, what it wants, what it fears — marked whenever the table agrees you've gained real ground against it.
-- **Series (12 boxes, the whole game):** *Undo the old wrong that woke it.* A long descent toward a buried secret, told across many smaller frights that build it.
+- **Episode (3 Milestones, one sitting):** *Survive the night in the cabin.* The Milestones: **the power dies and you learn what's hunting you → you find the one thing that holds it back → you make it to first light.** One terrible night, start to dawn.
+- **Movie (6 Milestones, 2–3 sessions):** *Free the town from the thing in the reservoir.* Each Milestone is a hard-won truth or piece of the answer — what it is, what it wants, what it fears, how to end it — building one long descent to a reckoning.
 
-The **Antagonist Track** (always present, Chapter 10) is the dread itself closing in — *the thing getting nearer, the dark getting deeper.* It ticks readily when the heroes **Flee** (Chapter 8) — and fleeing feels *great* in Horror, the right and human choice — or when a bad roll lets the threat gain. Filling it is genuinely frightening: the thing reaches you, the night is lost, the place claims another. That loss seeds the next chapter. Characterize the dread so each tick is something you can show: "the humming in the walls is louder now, and it's coming from your room."
+Chain several frights together and you've got a **Season** (a town under a lengthening shadow) or a whole **Series** (*undo the old wrong that woke it*) — collections of Stories, not bigger tracks (Chapter 10).
+
+The **Antagonist Track** (always present, Chapter 10) is the dread itself closing in — *the thing getting nearer, the dark getting deeper.* It's short, topped by the **climax** box, and it **surges each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — and falling back feels *great* in Horror, the right and human choice, even as it lets the dread gain. Filling it is genuinely frightening: the thing reaches you, the night is lost, the place claims another. That loss seeds the next chapter. Characterize the dread so each Surge is something you can show: "the humming in the walls is louder now, and it's coming from your room."
 
 ### Tempo
 

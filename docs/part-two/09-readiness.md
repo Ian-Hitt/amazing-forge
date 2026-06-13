@@ -5,9 +5,10 @@ Readiness is your hero's single resource — body, mind, and supplies rolled int
 A quick orientation before the details:
 
 - Readiness only ever **falls during action**, on a Weak Hit (−1) or a Miss (−2).
-- It only ever **rises during safe lulls**, through one of two recovery moves — **Mend** (a quick patch-up of a hero, yourself or a teammate) or **Downtime** (a deep between-adventures rest).
-- Recovery is a **roll**, but it **never costs Readiness** — a bad roll can fail to heal, but it never pushes your number *down.*
-- It's capped at **9** and never refills automatically — and a quick patch-up (**Mend**) is limited and can come up empty, so every point matters.
+- It comes back through **three** moves: a quick, risky **Mend** *during* a Challenge; a **Recovery Scene** when the heroes fall back to regroup; and **Downtime** between Stories.
+- **Mend** is the gamble — a little healing now (Strong +3 / Weak +2), but a **Miss costs you 1 Readiness.** It's a tactical choice on your turn, and it does **not** advance the villain.
+- The **Recovery Scene** is the reliable one — the whole party back to **full** Readiness — but it **surges the Antagonist Track one box** (Chapter 10). Recovery you can count on; ground you give up.
+- It's capped at **9.** Readiness isn't a survival meter — heroes can't die — it's **ammunition against the villain's clock.**
 
 ---
 
@@ -59,47 +60,55 @@ The art of a good price is making it **push the story forward** rather than simp
 
 Used this way, Paying the Price becomes the engine of complications that the whole adventure runs on: every Weak Hit and Miss is a little gift of new trouble to play with.
 
-> **A clarifying note on the Antagonist Track:** Paying the Price and the **Antagonist Track** (Chapter 10) are completely separate. A Weak Hit or Miss costs Readiness and nothing else — it never advances the villain. The bad guys gain ground only when the heroes **flee** a Challenge (Chapter 8). Don't conflate the two: the price is what a roll costs *you*; the villain clock moves only when you choose to retreat.
+> **A clarifying note on the Antagonist Track:** Paying the Price and the **Antagonist Track** (Chapter 10) are completely separate. A Weak Hit or Miss costs Readiness and nothing else — it never advances the villain. The bad guys gain ground only when the heroes take a **Recovery Scene** (fall back to regroup, below). Don't conflate the two: the price is what a roll costs *you*; the villain clock moves only when you choose to pull back and recover.
 
 ---
 
 ## Part B — Recovery
 
-Readiness only falls in the heat of the action, and you never get it back mid-Challenge. But whenever the story reaches a **genuinely safe lull** — the danger has passed, even just for now — the heroes can **recover.** Recovery is **gated by the fiction:** it isn't a button you press between Challenges, it's a quiet beat the story has actually earned. If real danger is still present, there's no recovering to be had. **Reaching low Readiness is the table's cue** that it's time to find a safe moment and take one.
+Readiness only falls in the heat of the action, and there are exactly three ways it comes back — a quick gamble *during* a Challenge, a full reset when the heroes **fall back to regroup**, and a clean slate **between Stories.** Each is a different kind of choice, and the difference is the whole point of the system.
 
-There are two recovery moves — a quick one for the middle of an adventure and a deep one for between adventures. Think of them as a **short rest** and a **long rest:**
+| Move | When | Heals | The catch |
+|---|---|---|---|
+| **Mend** | On your turn, *during* a Challenge | a little (risky) | a **Miss costs you 1 Readiness**; can't revive a downed hero |
+| **Recovery Scene** | Falling back to regroup at a safe lull | the whole party to **full** | **surges the Antagonist Track one box** |
+| **Downtime** | Between Stories | full reset + restores Broken Assets | (none — the Story's over) |
 
-- **Mend** — a fast, in-the-moment patch-up of a hurt hero (yourself *or* a teammate).
-- **Downtime** — a long, restorative stay between adventures, made once for the whole party.
+All three use the same core move (Chapter 7) where a roll is called for. Only one of them advances the villain.
 
-### One Promise: Healing Never Hurts
+### Mend — the In-Challenge Gamble
 
-Both moves are **rolled** — recovery uses the same core move as everything else (Chapter 7) — and one rule holds across both: **recovering never costs you Readiness.** A bad roll never pushes your number *down* — losing the very thing you sat down to restore would be backwards. What a poor roll *can* do is leave the hero right where they were: a missed Mend means the patch-up simply **didn't take** — no recovery, and the danger isn't done with you. (Downtime, the long rest, is the dependable one — see below.) So the dice decide *how well the care goes,* never whether it hurts.
-
-When you recover, roll **2d6 + modifier**, exactly as always: **+2** if one of your Assets fits the *care* you're giving — a med kit, a healing charm, a steady-handed friend, hard-won survival know-how — or **+1** if nothing does. Doubles upgrade a tier (Oracle's Blessing), same as any roll. Recovery **never advances the Antagonist Track** (Chapter 10) — that moves only when the heroes flee a Challenge.
-
-### Mend — the Short Rest
-
-In the middle of an adventure — a lull in the fighting, a moment behind cover, a breath between Challenges — a hero can **Mend.** You can Mend **yourself or a teammate**, which is exactly what makes a dedicated healer shine: describe the care — binding a wound, a quick healing spell, a swig from a flask, a steadying word (and, if it's a teammate, how you reach them) — then roll, using **+2** if one of your Assets fits the care you're giving. The hero you tend recovers:
+In the thick of a Challenge, on your turn, you can **Mend** instead of pushing the Challenge forward — a fast, risky patch-up of a hurt hero, **yourself or a teammate.** It's the choice that makes Challenges more than a row of progress rolls: *do I press the advantage, or take a beat to patch up?* Describe the care — binding a wound, a quick spell, a swig from a flask, a steadying word — then roll, **+2** if one of your Assets fits the care, else **+1** (doubles upgrade, as always). The hero you tend:
 
 | Roll | Result (for the tended hero) |
 |---|---|
-| **Strong Hit (10+)** | Recover **+3** Readiness — the care goes well. |
+| **Strong Hit (10+)** | Recover **+3** Readiness. |
 | **Weak Hit (7–9)** | Recover **+2** Readiness. |
-| **Miss (6 or less)** | **No comfort** — the patch-up doesn't take, so they recover **nothing** — and the danger isn't done with you (the Guide brings a fresh threat or complication). |
+| **Miss (6 or less)** | The patch goes wrong — **lose 1 Readiness.** (A hero already at low Readiness can be knocked **Out of Action** by a missed Mend.) |
 
-Two things keep Mend from being a free top-up button — the same two that make a breather matter in the movies:
+Two things keep Mend honest, and neither is a usage cap — it's a gamble, not a ration:
 
-- **It can come up empty.** A Miss heals *nothing.* (The tended hero still doesn't *lose* Readiness — they're simply no better off, and now there's trouble.) You can't count on it.
-- **Once per Milestone, per hero.** Each hero can be **Mended once per Milestone** — whether they patched themselves up or a friend did it. A healer is genuinely valuable (their healing Asset can tend the party one hero at a time), but the table can't top everyone up over and over. *(Exception: a hero who's Out of Action may always be Mended — see below. Clawing back onto your feet isn't a voluntary breather.)*
+- **A Miss costs you.** Recovering is never guaranteed; reach for a patch when you're hurt but steady, not when you're one bad roll from the floor. When you're *that* low, the safe play is to fall back for a Recovery Scene instead.
+- **It costs your turn.** A Mend isn't a Challenge Roll — you didn't fill a box, didn't fend off the threat. The Challenge runs a beat longer because you stopped to patch up.
 
-Mend is **lull-gated:** it needs a genuine safe moment, never the thick of a fight — you patch people up *between* the dangerous beats, not during them. Infrequent, unreliable, and small (capped at **9**), it patches you up without ever wiping the slate clean.
+Two more rules: **Mend never advances the Antagonist Track** (it's not a retreat — you stood your ground and bandaged up), and **Mend cannot revive an Out-of-Action hero** (only a Recovery Scene or Downtime brings someone back from 0 — see below). Capped at **9.**
 
-### Downtime — the Long Rest
+### The Recovery Scene — Fall Back and Regroup
 
-Between adventures — back in town, safe among friends, the danger genuinely behind you for now — the heroes take **Downtime.** This is the game's long rest, and its standing invitation to **slow down.** Spend real time on it at the table, in dialogue or narration, and explore your heroes out of harm's way. Not every breather deserves a whole scene, but Downtime is the cue that you *can* take one — the slower, dramatic character moments live here.
+When the bleed of a Challenge isn't worth it — or the heroes simply need to breathe — they can **fall back and regroup:** a **Recovery Scene.** This is the reliable recovery, and the weighty one. The party pulls back to a safe lull, and:
 
-What does it look like? Whatever fits your hero. If you're stuck, roll or pick from the d6:
+- **The whole party recovers to full Readiness** — no roll, no whiff. Falling back *works.*
+- **The Antagonist Track surges one box** (Chapter 10) — while you regrouped, the villain gained ground. That's the price of the breather, and it's the **only** thing that routinely advances the villain.
+
+A Recovery Scene is **gated by the fiction** (you need a genuine safe moment) and **chosen by the players** — you take one when the bleed makes it worth handing the villain a box. It's the quiet beat between dangers: the campfire, the patched wound, **the character scene.** Because the regroup is *where the villain gains ground,* slowing down for the cast is never free — which is exactly what gives those scenes stakes. (Falling back from a Challenge you're losing — what other games call fleeing — is just a Recovery Scene: you lose the Challenge's progress, the party recovers, the villain surges.)
+
+Heroes won't *voluntarily* regroup into the villain's last, reserved box (that would hand them the win) — so a Recovery Scene fills the track up to one-from-full and then the party has to tough it out to the climax (Chapter 10).
+
+### Downtime — Between Stories
+
+When a Story ends — won or lost — the heroes take **Downtime:** the game's long rest and its standing invitation to **slow down.** It resets the whole party to **full Readiness** and **restores every Broken Asset** (below) — no roll, no Surge; the Story is resolved, so the villain's clock is done. Spend real time here in dialogue and narration; the slower character beats live in Downtime.
+
+What does it look like? Whatever fits your hero — if you're stuck, roll or pick a d6:
 
 | d6 | Your Downtime looks like… |
 |---|---|
@@ -110,33 +119,15 @@ What does it look like? Whatever fits your hero. If you're stuck, roll or pick f
 | 5 | **A beat for the heart** — facing a fear, a grief, or a doubt you've been outrunning. |
 | 6 | **All your own** — something only this hero would do. |
 
-Downtime is a **group move:** one hero rolls for the whole party — you're all resting in the same place, leaning on the same hosts — and **everyone recovers together.** Describe the stay, then roll:
-
-| Roll | Result (whole party) |
-|---|---|
-| **Strong Hit (10+)** | Each hero recovers **+7** Readiness — a little extra. No strings; your hosts ask nothing in return. |
-| **Weak Hit (7–9)** | Each hero recovers **+6** Readiness. |
-| **Miss (6 or less)** | Each hero recovers **+6** Readiness, but you **owe a debt** to whoever sheltered you — **start a new Story Arc in their service.** |
-
-Unlike Mend, Downtime is **dependable** — you always get its full recovery, capped at **9.** (It's the long rest in safe company; it doesn't come up empty.) The roll only decides what it costs you in *story:* a missed Downtime doesn't leave you hurt and doesn't fail to heal — it leaves you **obligated**, and that obligation becomes your next adventure.
-
-Downtime does one more thing no Mend can: it **restores a Broken Asset** — one per rest. That's the deep-rest job of reforging a blade, setting a bone, or rebuilding a shaken nerve (see *Out of Action,* below).
-
-### Finishing a Story Arc
-
-Completing a Story Arc is the natural moment for Downtime, and it **prompts the move automatically** — the heroes have earned their rest. Roll Downtime as above: a clean roll sends the party into what's next refreshed and free, while a Miss means the people who took you in now need something in return (a fresh Story Arc in their service). Because this triggers on **completing a Story Arc** — not on a tidy session boundary — it's also what lets **several Story Arcs run at once:** finishing any one of them earns its Downtime, with no need for clean start/stop points. (Full multi-Story Arc guidance is in Chapter 10.)
+You always start the next Story fresh. Downtime is also where **threads** between Stories breathe — the character moments and B-plots that carry a Season (Chapter 10).
 
 ### Out of Action
 
-If a hero's Readiness hits **0**, they're **Out of Action** — too hurt, too rattled, or too tapped-out to keep going for now. They can't take actions in the Scene until they recover. Remember the core promise: **heroes can't die.** Out of Action is the floor, and it's always temporary.
+If a hero's Readiness hits **0**, they're **Out of Action** — too hurt, too rattled, or too tapped-out to keep going for now. They can't act until they recover. Remember the core promise: **heroes can't die.** Out of Action is the floor, and it's always temporary — but climbing back is exactly where the stakes live.
 
-But it isn't *free* to climb back from — getting up is a roll that can fail. A downed hero comes back by:
+**A downed hero can only be brought back by a full Recovery Scene** (the team falls back to get them on their feet) **or by Downtime.** A quick Mend can't do it — clawing someone off the floor takes a real regroup, not a battlefield patch. And that's the sting: getting a downed hero up **forces a Recovery Scene, which surges the villain** — even into the reserved climax box. Near the end of a Story, *that's how you lose* (Chapter 10).
 
-- **Being Mended at a safe lull** — by themselves or an ally. Even a downed hero can be patched up once the danger's passed, and this *doesn't* spend anyone's once-per-Milestone Mend; clawing off the floor is its own thing. But it can still **whiff:** on a Miss the care finds no purchase and they stay down, to try again at the next lull.
-- **An ally pulling them back mid-Scene**, when there's no safe lull to Mend in. A teammate spends their turn on **Aid Your Ally** (Chapter 7) — on a hit the downed hero is back at **+3** and can act; on a miss the rescue doesn't land, and someone has to try again.
-- **The party's next Downtime**, which always brings everyone back.
-
-So being dropped genuinely **costs** you — a lost turn or a whole Scene on the ground, leaning on the dice or a friend to get up — without ever being permanent. That's the teeth: Out of Action is a real low point to play through, not a quick respawn. And it leaves a mark that outlasts the Scene, which is the next rule.
+So being dropped genuinely **costs** you — it hands the villain ground at the worst possible time. Heroes still can't die, but going down is no longer a free respawn: it's the loss vector. (And it's why Mend can't revive — otherwise a cheap patch would dodge that cost entirely.) Out of Action also leaves a mark that outlasts the Scene, which is the next rule.
 
 ### Broken Assets
 
@@ -144,9 +135,9 @@ Going Out of Action breaks something. When a hero hits **0 Readiness, one of the
 
 A **Broken Asset gives no bonus.** Any roll where it would normally apply is made at **+1** instead of +2 — exactly as if you had no fitting Asset for the job. It never turns into a *penalty:* it only takes the bonus away, so your floor is still +1 and the dice never go lower. The Asset is still yours and still part of your story — a knight with a broken sword is still a knight — it just isn't pulling its weight until it's restored.
 
-Only **Downtime restores a Broken Asset** — one per rest. A quick Mend gets a hero back on their feet, but it can't reforge a blade, set a bone, or rebuild a shaken spirit; that takes the deep rest. If a hero is carrying more than one break, the table picks which is restored first, and the rest wait for the next Downtime. That's the durable sting of being dropped: the lost Scene heals fast, but the broken tool follows you until you can properly rest.
+Only **Downtime restores a Broken Asset** — between Stories. A Recovery Scene gets a downed hero back on their feet and tops up Readiness, but it can't reforge a blade, set a bone, or rebuild a shaken spirit; that follows you until the Story ends. If a hero is carrying more than one break, the table picks which is restored first when Downtime comes. That's the durable sting of being dropped: Readiness comes back, but the broken tool rides with you to the climax.
 
-> **Going down again before you rest** breaks a *second* Asset. A hero limping along on two broken tools is in real trouble — which is exactly the warning sign that says *flee, regroup, get to safety.* Heroes still can't die; even a hero with everything broken simply rolls +1 across the board, and Downtime digs them out one Asset at a time.
+> **Going down again before the Story ends** breaks a *second* Asset. A hero limping along on two broken tools is in real trouble — exactly the warning sign that says *fall back, regroup, get to safety.* Heroes still can't die; even a hero with everything broken simply rolls +1 across the board, and the next Downtime digs them out.
 
 > **Conditions that aren't tied to a tool (optional).** Sometimes the lasting hurt doesn't map cleanly to a single Asset — a *Broken Spirit,* a *Haunted* dread, a *Rattled* nerve. A Guide can write a one-off **condition** that behaves exactly like a Broken Asset: whenever it's clearly relevant it cancels your +2, so you roll **+1**, and it clears on Downtime. Never make it a flat penalty — like everything else in the game, it only removes a bonus, never drops you below +1. This is an optional tool for flavor, not a second subsystem to track.
 

@@ -1,6 +1,6 @@
 ## Story Arc Tracker Sheet
 
-One sheet per Story Arc. It holds the **Goal**, the **scale**, the paired **Story Arc Track** and **Antagonist Track**, room to name your **antagonist**, and numbered lines to jot each **Milestone**. Running several Story Arcs at once? Print one of these for each — keep every race on its own page.
+One sheet per Story. It holds the **Goal**, the **size**, the **Story Arc Track** with its short **Antagonist Track** (the top box is the reserved climax), room to name your **antagonist**, and numbered lines to jot each **Milestone**.
 
 > **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus are hidden automatically, so you'll get just the sheet.
 
@@ -52,50 +52,33 @@ One sheet per Story Arc. It holds the **Goal**, the **scale**, the paired **Stor
   <div class="af-line"><span class="af-fill"></span></div>
   <p class="af-hint">The single, clear victory condition, in one sentence ("Recover the stolen Sun Crystal").</p>
 
-  <h3>Scale</h3>
+  <h3>Size</h3>
   <div class="af-scale">
-    <span><span class="af-chk"></span> Episode &mdash; 3 boxes (one sitting)</span>
-    <span><span class="af-chk"></span> Movie &mdash; 8 boxes (one story, 2&ndash;3 sessions)</span>
-    <span><span class="af-chk"></span> Season &mdash; 8 boxes</span>
-    <span><span class="af-chk"></span> Series &mdash; 12 boxes</span>
+    <span><span class="af-chk"></span> Episode &mdash; 3 Milestones / 2-box villain (one sitting)</span>
+    <span><span class="af-chk"></span> Movie &mdash; 6 Milestones / 3-box villain (2&ndash;3 sessions)</span>
   </div>
-  <div class="af-line"><label>Also advances</label><span class="af-fill"></span></div>
-  <p class="af-hint">Any larger Story Arc a big beat here might <em>also</em> move &mdash; when it does, mark a box on both. (Leave blank for a standalone adventure.)</p>
-
-  <h3>Role <span style="font-weight:400;font-size:0.8rem;opacity:0.7;">(optional &mdash; how to play it, not a rule)</span></h3>
-  <div class="af-scale">
-    <span><span class="af-chk"></span> Main plot</span>
-    <span><span class="af-chk"></span> Side plot</span>
-    <span><span class="af-chk"></span> Character arc</span>
-  </div>
-  <div class="af-line"><label>If a character arc, for whom</label><span class="af-fill"></span></div>
-  <p class="af-hint">Main = return most sessions; Side = touch periodically; Character arc = surface in that hero's spotlight beats.</p>
+  <div class="af-line"><label>Thread(s) alongside</label><span class="af-fill"></span></div>
+  <p class="af-hint">B-plots / character arcs running beside this Story &mdash; they have their own progress but <em>no</em> villain track. (Chain Stories like this one into a Season or Series &mdash; see Ch.10.)</p>
 
   <h3>The Tracks</h3>
-  <p class="af-hint">Use as many boxes as your scale. Heroes win by filling the Story Arc Track first; they lose if the Antagonist Track fills first. Both rows are the same length.</p>
+  <p class="af-hint">Heroes win by filling the Story Arc Track and winning the Showdown; they lose if the Antagonist Track fills first. The villain's <strong>top box (&#9733;) is the reserved climax</strong> &mdash; only the Showdown (or a hero going Out of Action) fills it.</p>
   <div class="af-trackgrid">
     <span class="af-rowlabel">Story Arc</span>
     <div class="af-row af-quest">
       <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span>
       <span class="af-box">4</span><span class="af-box">5</span><span class="af-box">6</span>
-      <span class="af-box">7</span><span class="af-box">8</span><span class="af-box">9</span>
-      <span class="af-box">10</span><span class="af-box">11</span><span class="af-box">12</span>
     </div>
     <span class="af-rowlabel">Antagonist</span>
     <div class="af-row af-anta">
       <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span>
-      <span class="af-box">4</span><span class="af-box">5</span><span class="af-box">6</span>
-      <span class="af-box">7</span><span class="af-box">8</span><span class="af-box">9</span>
-      <span class="af-box">10</span><span class="af-box">11</span><span class="af-box">12</span>
     </div>
     <span class="af-rowlabel"></span>
     <div class="af-scalebar">
       <span></span><span></span><span>&#8593;Ep</span>
-      <span></span><span></span><span></span>
-      <span></span><span>&#8593;M&middot;S</span><span></span>
-      <span></span><span></span><span>&#8593;Sr</span>
+      <span></span><span></span><span>&#8593;Movie</span>
     </div>
   </div>
+  <p class="af-hint">Episode: 3 Story / 2 Antagonist boxes (box&nbsp;2 = the &#9733; climax). Movie: 6 Story / 3 Antagonist (box&nbsp;3 = the &#9733; climax). Mark your last villain box as the climax. A villain box fills each time the heroes take a <strong>Recovery Scene</strong> (fall back to regroup); a quick <strong>Mend</strong> never advances it.</p>
 
   <h3>The Antagonist</h3>
   <div class="af-line"><label>Who / what</label><span class="af-fill"></span></div>
@@ -103,24 +86,18 @@ One sheet per Story Arc. It holds the **Goal**, the **scale**, the paired **Stor
   <p class="af-hint">Give it a face &mdash; even a force (a desert, a plague, a deadline) counts. When an Antagonist box fills, play out the Surge: the villain just hit a milestone of their own.</p>
 
   <h3>Milestones</h3>
-  <p class="af-hint">A concrete, pointable step toward the Goal. Number them to match the Story Arc Track boxes above. (Episode uses 1&ndash;3; longer types fill more slowly.)</p>
+  <p class="af-hint">A concrete, pointable step toward the Goal. Number them to match the Story Arc Track boxes above. (Episode uses 1&ndash;3; Movie 1&ndash;6.)</p>
   <div class="af-mscols">
     <div class="af-ms"><span class="af-num">1.</span><span class="af-fill"></span></div>
-    <div class="af-ms"><span class="af-num">7.</span><span class="af-fill"></span></div>
-    <div class="af-ms"><span class="af-num">2.</span><span class="af-fill"></span></div>
-    <div class="af-ms"><span class="af-num">8.</span><span class="af-fill"></span></div>
-    <div class="af-ms"><span class="af-num">3.</span><span class="af-fill"></span></div>
-    <div class="af-ms"><span class="af-num">9.</span><span class="af-fill"></span></div>
     <div class="af-ms"><span class="af-num">4.</span><span class="af-fill"></span></div>
-    <div class="af-ms"><span class="af-num">10.</span><span class="af-fill"></span></div>
+    <div class="af-ms"><span class="af-num">2.</span><span class="af-fill"></span></div>
     <div class="af-ms"><span class="af-num">5.</span><span class="af-fill"></span></div>
-    <div class="af-ms"><span class="af-num">11.</span><span class="af-fill"></span></div>
+    <div class="af-ms"><span class="af-num">3.</span><span class="af-fill"></span></div>
     <div class="af-ms"><span class="af-num">6.</span><span class="af-fill"></span></div>
-    <div class="af-ms"><span class="af-num">12.</span><span class="af-fill"></span></div>
   </div>
 
   <h3>Notes</h3>
   <div class="af-notes"></div>
 
-  <p class="af-ref"><b>Win:</b> fill the Story Arc Track first &mdash; each hero takes +6 Readiness (cap 9). &nbsp; <b>Lose:</b> Antagonist Track fills first, or Quit the Story Arc &mdash; no penalty; ask "how did the world change?" and seed the next Story Arc. &nbsp; <b>Antagonist advances:</b> when heroes Flee a Challenge (always), or a telling failure via Pay the Price (table's call) &mdash; never automatic, never on Recovery.</p>
+  <p class="af-ref"><b>Win:</b> reach the climax (Story Arc Track full) and win the Showdown &mdash; then Downtime resets the party to full Readiness. &nbsp; <b>Lose:</b> the Antagonist Track fills (incl. a forced Recovery Scene when a hero is Out of Action), or you Quit the Story &mdash; no penalty; ask "how did the world change?" and seed the next Story. &nbsp; <b>Antagonist advances:</b> one box each time the heroes take a <b>Recovery Scene</b> (fall back to regroup). Never on a Mend, never automatic on a bad roll.</p>
 </div>

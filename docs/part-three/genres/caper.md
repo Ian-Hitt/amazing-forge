@@ -35,13 +35,14 @@ A price in a Caper makes things *harder and more exciting* — almost never hope
 
 In a Caper, the Story Arc Track *is the job*, and each **Milestone is a stage of pulling it off** (Chapter 10): cased, infiltrated, the prize in hand, the clean exit. A filled box is a step of the score completed — or completed *clean enough* to keep moving.
 
-The three Story Arc scales (Chapter 10) map onto it neatly:
+The two Story sizes (Chapter 10) map onto it neatly:
 
-- **Episode (3 boxes, one sitting):** *Lift the Star of the Sea from the gala.* The Milestones: **case the floor and get inside → make the swap unseen → walk out before the lights come up.** One job, one session, one grin at the end.
-- **Season (8 boxes, many episodes):** *Bring down the crime boss who burned your crew, one job at a time.* Each box is a score that chips at his empire — a vault emptied, a lieutenant turned, a ledger lifted — marked when the table agrees you've truly weakened him.
-- **Series (12 boxes, the whole game):** *Run the long con that dismantles the whole syndicate.* A grand scheme built from many smaller jobs that each build it.
+- **Episode (3 Milestones, one sitting):** *Lift the Star of the Sea from the gala.* The Milestones: **case the floor and get inside → make the swap unseen → walk out before the lights come up.** One job, one session, one grin at the end.
+- **Movie (6 Milestones, 2–3 sessions):** *Pull off the multi-stage score that breaks the crime boss who burned your crew.* Each Milestone is a stage — case the empire, empty the vault, turn the lieutenant, lift the ledger, walk out clean — one big heist built to a finish.
 
-The **Antagonist Track** (always present, Chapter 10) is the opposition closing in: the security tightening, the rival crew gaining, the mark starting to *suspect*. It ticks when the heroes **Flee** — bail out and abandon a job's progress (Chapter 8) — or when a price lets the heat win. Fill it and the job's blown: caught, beaten to the prize, or made. A blown job stings but seeds the next one (now it's personal). Give the opposition a face — a sharp head of security, a smug rival — so each tick lands.
+Chain several jobs together and you've got a **Season** (a crew working its way up) or a whole **Series** (*run the long con that dismantles the syndicate*) — collections of Stories, not bigger tracks (Chapter 10).
+
+The **Antagonist Track** (always present, Chapter 10) is the opposition closing in: the security tightening, the rival crew gaining, the mark starting to *suspect*. It's short, topped by the **climax** box, and it **surges each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — the heat gains while you catch your breath. Fill it and the job's blown: caught, beaten to the prize, or made. A blown job stings but seeds the next one (now it's personal). Give the opposition a face so each Surge lands.
 
 ### Tempo
 

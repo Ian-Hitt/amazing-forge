@@ -33,7 +33,7 @@ If you haven't decided the next Milestone yet, decide one now. You're not invent
 - **Your Worldbuilding answers** (Chapter 14) — especially the **Threats**, the **Forbidden**, the **Leadership**, and your **Reputation**. These were built to generate trouble; spend it here.
 - **The heroes and their Assets** — a Milestone that lets someone's Asset shine is a Milestone the table will enjoy.
 - **The NPCs and places you've already met or heard about.** The richest next scene is usually a callback, not a brand-new element. That name someone dropped two scenes ago is waiting to pay off.
-- **Any other Story Arcs you have running.** With multiple Story Arcs in play (Chapter 10), the next Milestone might belong to a different track entirely.
+- **Any threads running alongside this Story.** With a B-plot or character arc in play (Chapter 10), the next beat might advance *that* thread rather than the main spine.
 
 Nine times out of ten, naming the Milestone is enough — the obvious next scene appears the moment you know what you're aiming at. If it doesn't, drop to Step 2.
 

@@ -18,7 +18,7 @@ You have four real jobs at the table. None of them is "decide what happens."
 
 - **Frame the scenes.** Cut the movie. Open each scene in the middle of something interesting (*in media res*), describe what the heroes see, and ask **"What do you do?"** When a scene has given everything it's going to give, cut to the next one — don't let it idle.
 - **Voice the world.** You play everyone who isn't a hero: the nervous merchant, the circling dragon, the storm rolling in off the sea. (How to do that without stat blocks is in [Part C](#voicing-npcs).)
-- **Advance the pressure.** You hold the **Antagonist** (Chapter 10). When the heroes rest, stall, or flee, the world keeps moving — and you're the one who shows them how.
+- **Advance the pressure.** You hold the **Antagonist** (Chapter 10). When the heroes fall back to regroup, the villain surges — and you're the one who shows them how the world tightens.
 - **Ask great questions.** Your most powerful tool isn't an answer; it's a question thrown back to the table. More on that in [Part C](#asking-the-table-good-questions).
 
 What's missing from that list is the part new Guides expect to carry: the plot. You are not writing an adventure the heroes walk through. You're setting scenes in motion and finding out — alongside everyone else — how they go.
@@ -40,7 +40,7 @@ Here's the counterintuitive heart of being a Guide: **your job is not to knock t
 Your real job is to make Readiness feel **precious.** A number that drains predictably is boring; a number that drains *dramatically* is tension. So:
 
 - **Make every Price a scene, not a fee.** When a hero takes a Weak Hit or a Miss, **Pay the Price** (Chapter 9) is your moment to push the story, not just subtract a point. The floor doesn't crumble because a rule says "−2" — it crumbles because that's the most exciting thing that could happen right now, and *then* it costs Readiness.
-- **Let low Readiness be a cue, not a threat.** When the party's running thin, that's not your signal to pounce — it's the table's signal that it's time to **Mend** (Chapter 9), or that it might be time to **Flee** (Chapter 8). A good Guide reads that moment out loud: "You're both pretty battered — is this a fight you want to finish?"
+- **Let low Readiness be a cue, not a threat.** When the party's running thin, that's not your signal to pounce — it's the table's signal that it might be time to risk a **Mend** (Chapter 9), or to **fall back and regroup** (Chapter 8). A good Guide reads that moment out loud: "You're both pretty battered — is this a fight you want to finish?"
 - **Save the squeeze for moments that matter.** If you treat every roll as a chance to hurt someone, the hurt stops meaning anything. Spend your hardest complications on the beats that deserve weight — the climax of a Challenge, a Surge, the threshold of the villain's lair.
 
 Pressure done right makes the heroes *feel* the danger without ever taking them off the board. That feeling — "we might not make it" — is the whole point.
@@ -101,13 +101,13 @@ Use it **proactively, not reactively.** The difference matters:
 
 The full ladder — name the Milestone, do the obvious, Story Spark, Ask the Dice, and how to chain results without spiraling — is Chapter 11. In Co-op you'll use it constantly, and that's exactly right.
 
-### Deciding to Flee Without a Guide
+### Deciding to Fall Back Without a Guide
 
-Fleeing a Challenge (Chapter 8) is always a **group decision**, and in Co-op there's no Guide to frame the moment — so the table has to notice it together.
+Falling back to regroup (Chapter 8/9) is always a **group decision**, and in Co-op there's no Guide to frame the moment — so the table has to notice it together.
 
-The question to ask out loud is simple: **"Is the Readiness bleed still worth it — or do we cut our losses and let the villain gain ground?"** That framing matters, because **Fleeing is a tactic, not a failure.** You trade *story ground* (the Challenge's lost progress, plus one box on the **Antagonist Track**) for *survival* (the bleeding stops). A party that never flees isn't braver — it's just one bad Challenge away from going **Out of Action** for no reason.
+The question to ask out loud is simple: **"Is the Readiness bleed still worth it — or do we fall back, heal up, and let the villain gain ground?"** That framing matters, because **falling back is a tactic, not a failure.** You trade *story ground* (the Challenge's lost progress, plus a Surge on the **Antagonist Track**) for *recovery* (the whole party back to full). A party that never regroups isn't braver — it's just one bad Challenge away from going **Out of Action** for no reason.
 
-Make it a shared call, and make it a *story* beat, not a punishment: narrate the pull-back, play out the **Surge** (Chapter 10) as the antagonist gains ground, and keep going. And remember the floor — because the Antagonist Track is short, you can only flee so many times before it fills and you **Quit the Story Arc** (Chapter 10). That's what makes each retreat a real decision instead of a free reset.
+Make it a shared call, and make it a *story* beat, not a punishment: narrate the pull-back, play out the **Surge** (Chapter 10) as the antagonist gains ground, and keep going. And remember the floor — because the Antagonist Track is short with a reserved climax box, you can only regroup so many times before the villain is one step from winning. That's what makes each retreat a real decision instead of a free reset.
 
 ---
 

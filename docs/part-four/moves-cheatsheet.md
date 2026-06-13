@@ -64,9 +64,11 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 
       <div class="af-move"><span class="af-mname">Aid Your Ally.</span> Point the roll at a teammate. <b>Strong:</b> ally gets +2. <b>Weak:</b> ally +1, you &minus;1. <b>Miss:</b> nothing, you &minus;2.</div>
 
-      <div class="af-move"><span class="af-mname">Mend.</span> Short rest, in a lull &mdash; self or an ally, once per hero per Milestone. <b>Strong</b> +3 &middot; <b>Weak</b> +2 &middot; <b>Miss</b> no heal + a complication.</div>
+      <div class="af-move"><span class="af-mname">Mend.</span> In a Challenge, instead of pushing it &mdash; patch self or an ally. <b>Strong</b> +3 &middot; <b>Weak</b> +2 &middot; <b>Miss</b> &minus;1 Readiness. Never surges the villain; can't revive a downed hero.</div>
 
-      <div class="af-move"><span class="af-mname">Downtime.</span> Long rest between adventures, one group roll. <b>Strong</b> +7 &middot; <b>Weak</b> +6 &middot; <b>Miss</b> +6 + you owe a Story Arc. Restores Broken Assets. Finishing a Story Arc prompts one.</div>
+      <div class="af-move"><span class="af-mname">Recovery Scene.</span> Fall back &amp; regroup at a lull: whole party to <b>full</b> Readiness &mdash; but the <b>Antagonist Track surges one box</b>. The only thing that advances the villain.</div>
+
+      <div class="af-move"><span class="af-mname">Downtime.</span> Between Stories: the whole party resets to <b>full</b> Readiness and Broken Assets are restored. No Surge.</div>
 
       <div class="af-move"><span class="af-mname">Showdown</span> <i>(optional).</i> A climactic last-box roll on a Challenge or Story Arc Track. A <b>Miss</b> escalates the story instead of ending it &mdash; never an outright loss, never advances the Antagonist Track.</div>
     </div>
@@ -84,9 +86,9 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 
       <div class="af-move"><span class="af-mname">Start a Challenge.</span> When you <i>choose</i> to open a Challenge, one <b>2d6 + 1</b> roll (no Asset; generative) sets the jump &mdash; a one-time edge on the <b>first roll</b> only. <b>10+</b> +1 (you got the drop) &middot; <b>7&ndash;9</b> 0 (even) &middot; <b>6&minus;</b> &minus;1 (they beat you to it). Skip it if trouble is thrust on you.</div>
 
-      <div class="af-move"><span class="af-mname">Flee.</span> Abandon a Challenge (lose its progress) to stop the Readiness bleed and mark <b>one</b> Antagonist box. The stay-alive valve.</div>
+      <div class="af-move"><span class="af-mname">Fall back.</span> Retreat from a Challenge (lose its progress) and take a Recovery Scene &mdash; party to full Readiness, villain surges one box. The stay-alive valve.</div>
 
-      <div class="af-move"><span class="af-mname">Quit the Story Arc.</span> The terminal Flee &mdash; give up the whole Story Arc. No penalty and no bonus; the loss seeds your next Story Arc.</div>
+      <div class="af-move"><span class="af-mname">Quit the Story.</span> The terminal fall back &mdash; give up the whole Story. No penalty and no bonus; the loss seeds your next Story.</div>
     </div>
 
     <div class="af-fam af-frame">
@@ -95,10 +97,10 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 
       <div class="af-move"><span class="af-mname">Ask the Oracle.</span> Stuck on what's next? Name the next Milestone &rarr; do the obvious thing, or roll the <b>Story Spark</b> (d6 idea table) or <b>Ask the Dice</b> (1d6 yes/no).</div>
 
-      <div class="af-move"><span class="af-mname">Pay the Price.</span> Turn a Weak Hit or Miss into a fiction complication. On a telling failure it <i>may</i> tick the Antagonist Track &mdash; the table's call, never automatic, never on a recovery move.</div>
+      <div class="af-move"><span class="af-mname">Pay the Price.</span> Turn a Weak Hit or Miss into a fiction complication + the Readiness loss. It <i>never</i> advances the Antagonist Track &mdash; only a Recovery Scene does that.</div>
     </div>
     </div>
   </div>
 
-  <p class="af-ref"><b>Full rules:</b> The Roll &amp; Aid Your Ally &mdash; Ch.7. &nbsp; Challenges, Start a Challenge, Flee &amp; Showdown &mdash; Ch.8. &nbsp; Readiness, Mend, Downtime &amp; Pay the Price &mdash; Ch.9. &nbsp; Story Arcs, Start a Story Arc &amp; Quit the Story Arc &mdash; Ch.10. &nbsp; Ask the Oracle &mdash; Ch.11.</p>
+  <p class="af-ref"><b>Full rules:</b> The Roll &amp; Aid Your Ally &mdash; Ch.7. &nbsp; Challenges, Start a Challenge, Fall back &amp; Showdown &mdash; Ch.8. &nbsp; Readiness, Mend, Recovery Scene, Downtime &amp; Pay the Price &mdash; Ch.9. &nbsp; Story Arcs, Start a Story Arc &amp; Quit the Story &mdash; Ch.10. &nbsp; Ask the Oracle &mdash; Ch.11.</p>
 </div>

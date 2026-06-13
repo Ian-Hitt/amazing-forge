@@ -36,14 +36,14 @@ Read it as a menu, not a recipe. Hit the beats that serve tonight's story; skip 
 
 **12. Dark Night of the Soul.** The heroes sit in the wreckage. The despair before the answer. *At the table:* a **Recovery Scene** at the bottom of the curve. Mechanically they're healing; dramatically they're regrouping, grieving, and finding the thing worth getting up for. This is where your theme (beat 2) usually pays off.
 
-**13. Break into Three.** The insight arrives. They see how to win — often by finally facing the flaw from beat 3. *At the table:* the table names the next Milestone and stands the heroes back up. **Downtime** or a Mend gets them off the floor; the Bond or the theme gives them the *reason*.
+**13. Break into Three.** The insight arrives. They see how to win — often by finally facing the flaw from beat 3. *At the table:* the table names the next Milestone and stands the heroes back up. A **Recovery Scene** gets them off the floor; the Bond or the theme gives them the *reason*.
 
 ## Act Three — the climax and the close
 
 **14. Finale.** The climax. Everything they've learned, spent on the last confrontation. *At the table:* this is the **Showdown** move. Turn the final box into a single charged roll — triumph, triumph-at-a-cost, or a last twist. The cymbal crash the whole song was building to.
 
-**15. Final Image.** A closing snapshot that mirrors the opening and shows how far they've come. *At the table:* another beat you place by hand. After the Showdown is won and Downtime's rolled, spend one last scene on the world remade — the mirror of beat 1. That's the difference between "we won" and "the end."
+**15. Final Image.** A closing snapshot that mirrors the opening and shows how far they've come. *At the table:* another beat you place by hand. After the Showdown is won and Downtime resets the party, spend one last scene on the world remade — the mirror of beat 1. That's the difference between "we won" and "the end."
 
 ---
 
-*The "Save the Cat!" beat sheet is the work of Blake Snyder; it's reproduced here, with our own table-side notes, as a writing aid. If it sparks something, his books go far deeper than one page can.*
+*The "Save the Cat!" beat sheet is the work of Blake Snyder; it's reproduced here, with my own table-side notes, as a writing aid. If it sparks something, his books go far deeper than one page can.*

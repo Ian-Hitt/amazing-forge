@@ -60,7 +60,7 @@ Each Challenge Roll resolves on the standard outcomes, with the result marked on
 | **Weak Hit (7–9)** | Fill **1 box**, and **Pay the Price** (−1 Readiness). |
 | **Miss (6 or less)** | Fill **no box**, and **Pay the Price** (−2 Readiness). |
 
-A Weak Hit and a Miss **always** cost Readiness — there's no way to dodge that loss on a roll. The **Antagonist Track** (Chapter 10) is never touched by a roll result; it advances only when the heroes **flee** the Challenge (see below).
+A Weak Hit and a Miss **always** cost Readiness — there's no way to dodge that loss on a roll. The **Antagonist Track** (Chapter 10) is never touched by a roll result; it advances only when the heroes **fall back to regroup** — a Recovery Scene (see below, and Chapter 9).
 
 As always, every roll turns back into fiction (Chapter 7, Narrate the Change): say what filling the box *looks* like, and on a Miss, what the price *looks* like.
 
@@ -74,17 +74,17 @@ When the track fills:
 - If clearing this Challenge was the payoff of a **Milestone**, check a box on the **Story Arc Track.** (A Milestone may take more than one Scene; a Challenge is sometimes the climactic Scene of a Milestone, not the whole thing — see Chapter 10.)
 - Wipe the scrap-paper Challenge Track clean. It's done its job.
 
-### Fleeing a Challenge
+### Falling Back from a Challenge
 
-Heroes are never trapped in a Challenge they're losing. At any point — usually when Readiness is running dangerously low and grinding out the last boxes isn't worth the cost — the group may choose to **Flee.** Fleeing ends the Challenge immediately:
+Heroes are never trapped in a Challenge they're losing. At any point — usually when Readiness is running dangerously low and grinding out the last boxes isn't worth the cost — the group may **fall back and regroup.** This is resolved as a **Recovery Scene** (Chapter 9), and it ends the Challenge immediately:
 
 - **You lose the Challenge's progress.** Wipe the track; the boxes filled so far don't count. In the fiction, the heroes pull back, take another route, live to fight another day.
-- **The Antagonist Track advances one box.** The bad guys gain ground precisely because the heroes gave it. Play out the resulting **Surge** (Chapter 10) — the villains' plan moves forward off-screen, and the world tightens.
-- **No further Readiness is lost** by fleeing itself. That's the entire point: fleeing trades *story ground* (lost progress plus a villain box) for *survival* (no more bleed in this Scene).
+- **The whole party recovers to full Readiness.** That's the reward for regrouping — falling back always works.
+- **The Antagonist Track surges one box.** The villain gains ground while the heroes catch their breath. Play out the resulting **Surge** (Chapter 10) — the villains' plan moves forward off-screen, and the world tightens.
 
-Fleeing is a **group decision** — in Co-op, made together; with a Guide, the Guide honors the table's call to retreat. It is the heroes' deliberate escape valve, and it's a weighty one: because the Antagonist Track is short (the same length as the Story Arc Track), you can only flee so many times before that track fills and you lose the Story Arc. Every retreat is a real choice, never a free reset.
+Falling back is a **group decision** — in Co-op, made together; with a Guide, the Guide honors the table's call to retreat. It is the heroes' deliberate escape valve, and a weighty one: because the Antagonist Track is short and its top box is the reserved climax, you can only regroup so many times before the villain is one step from winning. Every retreat is a real choice, never a free reset.
 
-This is also the **only** thing that advances the Antagonist Track. Misses don't; Pay the Price doesn't; recovery doesn't. The villain gains ground exactly when — and only when — the heroes turn and run. (The terminal case, fleeing or giving up the whole Story Arc, is **Quitting the Story Arc;** see Chapter 10.)
+A Recovery Scene is the **only** thing that advances the Antagonist Track. Misses don't; Pay the Price doesn't; a quick **Mend** doesn't (Chapter 9). The villain gains ground exactly when — and only when — the heroes pull back to recover. (The terminal case, giving up the whole Story, is **Quitting the Story;** see Chapter 10.)
 
 ### The Showdown (Optional Climax)
 
@@ -94,7 +94,7 @@ Roll 2d6 + modifier for that last box:
 
 - **Strong Hit:** triumphant victory — you win and add a narrative bonus of your choice.
 - **Weak Hit:** you win, but it costs you — **Pay the Price** as normal.
-- **Miss:** you don't finish *yet*. **Add one extra box to the track** — you must fill it before you can attempt the Showdown again — and the situation escalates (a new danger, a fresh wrinkle). A missed Showdown is **delay and drama, never an outright loss.** (A Showdown roll never advances the Antagonist Track — only fleeing does. A Showdown is about *finishing*, not retreating.)
+- **Miss:** you don't finish *yet*. **Add one extra box to the track** — you must fill it before you can attempt the Showdown again — and the situation escalates (a new danger, a fresh wrinkle). A missed Showdown is **delay and drama, never an outright loss.** (A Showdown roll never advances the Antagonist Track — only a Recovery Scene does. A Showdown is about *finishing*, not regrouping.)
 
 Reserve Showdowns for the moments that earn the extra tension. Everyday Challenges should still end the instant their last box fills.
 

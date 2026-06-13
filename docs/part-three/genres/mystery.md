@@ -35,13 +35,14 @@ In Mystery the danger is to your *progress* and your *relationships*, almost nev
 
 In Mystery, the Story Arc Track is the **path to the truth, and every Milestone is a layer of it** (Chapter 10) — a clue confirmed, a lie peeled back, a suspect cleared or damned. A filled track *is* the solution. The crucial rule: don't hide the answer behind one perfect roll. Spread it across the boxes, so the case always inches forward.
 
-The three Story Arc scales (Chapter 10) map cleanly onto a case:
+The two Story sizes (Chapter 10) map cleanly onto a case:
 
-- **Episode (3 boxes, one sitting):** *Who poisoned the festival well?* The Milestones: **find the means → find the motive → name the culprit.** Three clues that add up to *who* and *why.*
-- **Season (8 boxes, many episodes):** *Unravel who really runs this town.* Each box is a layer of the conspiracy pulled back — a bought official exposed, a hidden ledger found, a witness finally turned — marked whenever the table agrees the truth genuinely advanced.
-- **Series (12 boxes, the whole game):** *Expose the rot at the very top.* A long unraveling, built from many smaller cases that each build the bigger picture.
+- **Episode (3 Milestones, one sitting):** *Who poisoned the festival well?* The Milestones: **find the means → find the motive → name the culprit.** Three clues that add up to *who* and *why.*
+- **Movie (6 Milestones, 2–3 sessions):** *Unravel who really runs this town.* Each Milestone is a layer of the conspiracy pulled back — a bought official exposed, a hidden ledger found, a witness turned, the pattern seen — building one case to its reveal.
 
-The **Antagonist Track** (always present, Chapter 10) is whoever benefits from the truth staying buried — racing to cover tracks, discredit you, or make the evidence disappear. It ticks when the heroes back off a confrontation (**Flee**, Chapter 8) or when a bad roll lets the guilty party bury something. Fill it and the truth is lost or the culprit walks — which seeds the next case. Name your antagonist so a tick is concrete: "the file you needed is ash in the grate."
+Chain several cases together and you've got a **Season** (a detective's long campaign) or a whole **Series** (*expose the rot at the very top*) — collections of Stories, not bigger tracks (Chapter 10).
+
+The **Antagonist Track** (always present, Chapter 10) is whoever benefits from the truth staying buried — racing to cover tracks, discredit you, or make the evidence disappear. It's short, topped by the **climax** box, and it **surges each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — the guilty party buries something while you regroup. Fill it and the truth is lost or the culprit walks — which seeds the next case. Name your antagonist so a Surge is concrete: "the file you needed is ash in the grate."
 
 ### Tempo
 

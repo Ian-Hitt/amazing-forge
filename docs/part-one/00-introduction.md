@@ -12,13 +12,13 @@
 
 *Lights, Camera, Action!* is a game about **writing and acting out a story together** — like a TV show your group makes up as it films. Nobody writes the script ahead of time. You invent the world, play the heroes, and find out what happens scene by scene. One of you might guide the story, or you might steer it together as a group. Either way works.
 
-We'll often shorten the name to **LCA!** — same game, fewer syllables — and you'll see it that way throughout the book.
+I'll often shorten the name to **LCA!** — same game, fewer syllables — and you'll see it that way throughout the book.
 
-That's the feel we're going for. A lot of tabletop games play like a video game you say out loud — lots of stats, careful tactics, working out exactly what your character can and can't do. *Lights, Camera, Action!* isn't that. Here, the question is never "what are my numbers?" It's "what's the most exciting thing my hero does next?" You're an actor and a co-writer first, and the rules stay light and quick so the story never has to stop and wait for them.
+That's the feel I'm going for. A lot of tabletop games play like a video game you say out loud — lots of stats, careful tactics, working out exactly what your character can and can't do. *Lights, Camera, Action!* isn't that. Here, the question is never "what are my numbers?" It's "what's the most exciting thing my hero does next?" You're an actor and a co-writer first, and the rules stay light and quick so the story never has to stop and wait for them.
 
 It's a **tabletop roleplaying game**, which means there's no board and no screen. The whole game happens in your imaginations, out loud, with a couple of dice to settle the exciting moments. You describe what your hero does, and the dice decide whether it goes smoothly, goes sideways, or goes wrong in an interesting way.
 
-Because the rules are so light, the game is easy enough for kids to pick up in minutes — and simple enough that experienced players who like rules-light games will feel right at home too. Nobody needs to study a rulebook to play.
+Because the rules are so light, a table of newcomers can pick the game up in minutes — they're simple enough that a group of kids could run it on their own, and experienced players who like rules-light games will feel right at home too. Nobody needs to study a rulebook to play.
 
 The best part: it fits *any* kind of story. *Lights, Camera, Action!* doesn't care whether you're flying a starship, exploring a haunted mansion, sailing a pirate sea, or solving a mystery in your own home town. The rules don't change — only the story does. You pick the kind of adventure you want, and the same handful of rules carries it.
 

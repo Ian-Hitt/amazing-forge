@@ -28,14 +28,14 @@ Both heroes start at **9 Readiness.**
 2. Cross the Bottomless Chasm inside.
 3. Get the Crystal back from the Goblin King and escape.
 
-Their **antagonist** is the **Goblin King.** They draw two rows of three boxes — the **Story Arc Track** for themselves and the **Antagonist Track** for the King — and they're ready.
+Their **antagonist** is the **Goblin King.** They draw the **Story Arc Track** (three boxes, one per Milestone) and, beneath it, the shorter **Antagonist Track** (two boxes) for the King — and they're ready.
 
 ```
 STORY ARC TRACK:    [ ]  [ ]  [ ]
-ANTAGONIST TRACK:   [ ]  [ ]  [ ]
+ANTAGONIST TRACK:   [ ]  [ ]            (2nd box = the climax)
 ```
 
-> **▶ Rules note — The Story Arc (Chapter 3).** Goal, three Milestones, a named antagonist, and the two paired three-box tracks. The heroes win if they fill the top row first; the Goblin King wins if his fills first. His row only advances if the heroes have to **flee** a scene (Chapter 5).
+> **▶ Rules note — The Story Arc (Chapter 3).** Goal, three Milestones, a named antagonist, and the two tracks. The heroes win by reaching the end of the top row; the Goblin King wins if his two-box row fills first. His row advances only when the heroes **fall back to regroup** (Chapter 5) — and his last box is the **climax,** filled at the final showdown or if a hero is knocked out.
 
 ---
 
@@ -125,40 +125,48 @@ STORY ARC TRACK:   [X]  [X]  [ ]
 
 ---
 
-### A Breather — Mend
+### A Breather — Falling Back to Regroup
 
-Safe on the far side, the heroes find a sheltered hollow out of the wind. Nothing is chasing them this second. Snik is down to 6 and rattled from nearly falling, so they take a moment to **Mend.**
+Safe on the far side, the heroes find a sheltered hollow out of the wind. Snik is down to 6 and rattled from nearly falling, Brave's at 8, and the throne cavern ahead will be the worst of it. They decide to **fall back and regroup** — a **Recovery Scene** — before pushing on.
 
-**Leo:** "Snik grumbles the whole time, but he repacks what gear he's got left and brews a little camp tea." **Maya:** "Brave checks Cinder's wing where she clipped the rock, then bandages her own scrapes."
+**Leo:** "Snik repacks what gear he's got left and brews a little camp tea." **Maya:** "Brave checks Cinder's wing where she clipped the rock, then bandages her own scrapes."
 
-> **▶ Rules note — Mend (Chapter 5).** A genuinely safe lull lets a hero recover — but Mend is a *roll* (once per Milestone each, and you can Mend a teammate, not just yourself), and it can come up empty. The one promise: **healing never costs Readiness** — a bad roll just means the patch-up didn't take.
-> - Brave rolls a **Strong Hit:** +3 → 8 → **9** (capped).
-> - Snik rolls a **Weak Hit:** +2 → 6 → **8.**
->
-> Had either rolled a **Miss**, they'd recover **nothing** *and* a fresh threat would crash the moment (a goblin patrol stumbling onto the hollow, say) — never a loss of Readiness, just no rest and new trouble. Both rolls land here, so the breather holds.
+> **▶ Rules note — the Recovery Scene & the Surge (Chapter 5).** Falling back to regroup is the reliable recovery: **the whole party goes back to full Readiness** — Brave and Snik are both at **9** again. But it isn't free — **the Goblin King's track surges one box.** While the heroes rested, the King wasn't idle.
+
+**The Surge.** They play it out: the horn from Milestone 1 paid off — the King has had time to **double the guard on the throne and seal the lower tunnels.** The way out just got harder.
+
+```
+ANTAGONIST TRACK:   [X]  [ ]            (one box from winning — the climax is next)
+```
+
+> **▶ Rules note.** The King is now **one box from winning** — and that last box is the **climax.** From here, falling back *again* would hand him the win, so the heroes will have to push through the finale on what they've got. (For a smaller patch that *doesn't* help the villain, there's **Mend** — coming up.)
 
 ---
 
 ### Milestone 3 — The Goblin King, and Escape
 
-Refreshed, the heroes press on to the throne cavern, where the **Goblin King** has the **Sun Crystal** mounted above his throne. They agree this is the climax and run it as one more **Challenge** — Snik's *I Know Goblin Secrets* lets him work the crowd while Brave's *Ice Magic* and *Dragon-Scale Armor* keep the King's guards at bay.
+Refreshed and back at full, the heroes press on to the throne cavern, where the **Goblin King** has the **Sun Crystal** mounted above his throne. They agree this is the climax and run it as one more **Challenge** — Snik's *I Know Goblin Secrets* lets him work the crowd while Brave's *Ice Magic* and *Dragon-Scale Armor* keep the doubled guard at bay.
 
-Two boxes in, things get hairy: an alarm gong sounds (a Pay the Price), guards pour in, and after a couple of Misses both heroes are down around 3 Readiness with one box left to fill.
+Two boxes in, things get hairy: an alarm gong sounds (a Pay the Price), guards press in, and after a couple of Misses both heroes are down around 3 Readiness with one box left to fill.
 
-**Leo:** "Should we cut and run? We could flee — bail out of the fight and just escape the mountain."
+**Leo:** "Should we fall back? …No — we can't. The King's already one box from winning. If we regroup now, that fills his climax box and we *lose* the whole thing."
 
-> **▶ Rules note — Fleeing (Chapter 5).** This is the moment fleeing exists for. If they flee, they end the Challenge, lose its progress, and **mark a box on the Goblin King's track** — the bad guys gain ground, but the heroes stop the Readiness bleed. With both heroes still at ~3, it's a real choice.
+> **▶ Rules note — the loss vector (Chapter 5).** This is the squeeze the surge sets up. Falling back would heal them, but it would hand the King his last box — game over. So the safety valve is gone; they have to gut it out. Going **Out of Action** here would force a regroup too, with the same fatal result.
 
-**Maya:** "We're *so* close — one more box. Let's risk it." They push on. Brave makes a desperate last play with Cinder, rolls a **Strong Hit**, and fills the final box. They snatch the Crystal and ride out through a collapsing tunnel into the daylight.
+**Leo:** "Okay — Snik ducks behind a pillar and gulps an emergency tonic instead of fighting." Snik takes a **Mend** — a quick patch, not a retreat.
 
-**Milestone 3 complete — check the final box.**
+> **▶ Rules note — Mend (Chapter 5).** Mend is the in-Challenge gamble: spend your turn to patch up instead of pushing the Challenge. It **doesn't** advance the King. But it's risky — a Miss would *cost* a point. 🎲 Leo rolls a **Weak Hit: +2** → Snik 3 → **5.** Safer footing, no box filled.
+
+**Maya:** "Now — one more box. Brave makes a desperate play with Cinder." 🎲 A **Strong Hit** — she fills the **final box.** That's the **Showdown:** they snatch the Crystal and ride out through a collapsing tunnel into the daylight.
+
+**Milestone 3 complete — the Story is won.**
 
 ```
-STORY ARC TRACK:    [X]  [X]  [X]   ← Story Arc won!
-ANTAGONIST TRACK:   [ ]  [ ]  [ ]   ← still empty — they never fled
+STORY ARC TRACK:    [X]  [X]  [X]   ← Story won at the Showdown!
+ANTAGONIST TRACK:   [X]  [ ]        ← the King ended ONE box from winning
 ```
 
-> **▶ Rules note — finishing the Story Arc (Chapter 5).** Filling the last box wins the Story Arc. Because they chose to push instead of flee, the Goblin King's track stayed empty. Finishing earns the heroes **Downtime** — their long rest — so each recovers **+6 Readiness** (capped at 9), and they head home with full tanks. *(Had a roll gone badly, fleeing would have been the smart, safe call — they'd have lost the scene and given the King a box, but lived to try again.)*
+> **▶ Rules note — finishing the Story (Chapter 5).** Reaching the last Milestone is the climax — the Showdown. The Goblin King ended *one step from winning* (his climax box never filled), which is exactly the nail-biter the game aims for. Finishing is **Downtime:** everyone resets to full Readiness, ready for the next Story.
 
 The Sun Crystal goes back above the village square, light and warmth return, and the elders hail two unlikely heroes — a knight on a dragon and a grumpy goblin who came home just long enough to save the day.
 
@@ -166,7 +174,7 @@ The Sun Crystal goes back above the village square, light and warmth return, and
 
 ### What This Showed You
 
-In one short session, Maya and Leo used **every rule in Part One:** they built a world, made heroes, named a Story Arc and an antagonist, drew both tracks, made **Regular Rolls** and ran **Challenges**, hit a **Strong Hit, a Weak Hit, a Miss, and an Outstanding Success**, **Paid the Price** more than once, weighed **fleeing** (and chose to push), stopped to **Mend**, and checked off Milestones to **win the Story Arc.** That's the whole game.
+In one short session, Maya and Leo used **every rule in Part One:** they built a world, made heroes, named a Story and an antagonist, drew both tracks, made **Regular Rolls** and ran **Challenges**, hit a **Strong Hit, a Weak Hit, a Miss, and an Outstanding Success**, **Paid the Price** more than once, **fell back to regroup** (a Recovery Scene) and played out the **Surge**, risked a mid-fight **Mend**, and rode the **photo-finish** to **win the Story** with the villain one step from winning. That's the whole game.
 
 Notice what they *didn't* do: look up a spell, calculate any enemy's hit points, or roll for initiative. They just described what their heroes did, rolled 2d6, and told the story together.
 
