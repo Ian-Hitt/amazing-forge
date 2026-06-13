@@ -59,13 +59,14 @@ Readiness only ever drops in the heat of the action — and there are two ways t
 
 A Mend is a gamble — it can backfire, and it costs you your turn (you didn't fill a box). So reach for it when you're hurt but steady, not when you're one bad roll from the floor. A Mend **never helps the villain.**
 
-**Falling back — regroup when it's not worth it.** When a Challenge is grinding you down and finishing isn't worth it, the group can **fall back and regroup.** This is the big, reliable recovery:
+**The Recovery Scene — fall back and regroup.** Whenever the heroes reach a safe lull — **usually between Challenges**, when the action pauses and they can catch their breath — they can take a **Recovery Scene.** This is the big, reliable recovery, and it's where the slower character beats live:
 
-- **You give up the Challenge's progress** — wipe its track and pull back.
-- **The whole party recovers to full Readiness** — that's the point of regrouping.
-- **The bad guys gain ground** — mark **one box on the Antagonist Track.** While you caught your breath, the villain moved.
+- **The whole party recovers to full Readiness** — patch up, regroup, breathe.
+- **The bad guys gain ground** — mark **one box on the Antagonist Track.** While you rested, the villain moved.
 
-That last part is the catch: falling back always works, but it hands the villain a box — and the Antagonist Track is only **two boxes** long. So you can only regroup so often before the bad guys are at the door. (Falling back is also the quiet, character beat between dangers — which is exactly why it costs you ground.)
+That's the catch: a Recovery Scene always works, but it hands the villain a box — and the Antagonist Track is only **two boxes** long. So you can only regroup so often before the bad guys are at the door. (It's also the quiet, character beat between dangers — which is exactly why it costs you ground.)
+
+You can also take a Recovery Scene to **bail out of a Challenge** that's grinding you down — pull back instead of finishing it. Same deal (full Readiness, the villain gains a box), and you additionally **give up that Challenge's progress** — wipe its track. That's your escape hatch when a fight isn't worth the cost.
 
 **Quitting the Story Arc.** If things go really badly — the Antagonist Track fills, or the group simply decides this one isn't winnable — you **Quit the Story Arc.** The bad guys win this round, and that's okay: no penalty, just dust yourselves off. A lost Story Arc is a great springboard — ask *"how did the world change now that the villains got what they wanted?"* and let that shape your next adventure.
 

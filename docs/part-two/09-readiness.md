@@ -95,7 +95,7 @@ Two more rules: **Mend never advances the Antagonist Track** (it's not a retreat
 
 ### The Recovery Scene — Fall Back and Regroup
 
-When the bleed of a Challenge isn't worth it — or the heroes simply need to breathe — they can **fall back and regroup:** a **Recovery Scene.** This is the reliable recovery, and the weighty one. The party pulls back to a safe lull, and:
+Whenever the heroes reach a safe lull — **most often between Challenges**, when the action pauses and they can catch their breath — they can **fall back and regroup:** a **Recovery Scene.** This is the reliable recovery, and the weighty one. The party pulls back, and:
 
 - **The whole party recovers to full Readiness** — no roll, no whiff. Falling back *works.*
 - **The Antagonist Track surges one box** (Chapter 10) — while you regrouped, the villain gained ground. That's the price of the breather, and it's the **only** thing that routinely advances the villain.
