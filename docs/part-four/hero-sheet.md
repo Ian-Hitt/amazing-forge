@@ -51,27 +51,31 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
   <p class="af-hint">[An Adjective, Species, or Twist] + [a Class, Job, or Role] — your hero's one-line movie-poster pitch.</p>
 
   <h3>Assets</h3>
-  <p class="af-hint">Four things your hero is amazing at. An Asset that fits a roll adds +2. Spend 2 Growth on a Boon (a signature move on an Asset, max 2 each). Check <b>Broken</b> when an Asset is knocked out at 0 Readiness — it gives no +2 until Downtime restores it.</p>
+  <p class="af-hint">Four things your hero is amazing at. An Asset that fits a roll adds +2. Build a hero by answering four questions in order: your <b>Attribute</b> (the one broad pick — <b>Strong · Quick · Clever · Sneaky · Charming</b>, max one), a <b>Skill</b>, a signature <b>Item/Companion</b>, and a <b>Wild</b> pick. Swap 2&ndash;4 freely if your concept wants. Spend 2 Growth on a Boon (a signature move on an Asset, max 2 each). Check <b>Broken</b> when an Asset is knocked out at 0 Readiness — it gives no +2 until Downtime restores it.</p>
   <div class="af-assets">
     <div class="af-asset">
+      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">1. Attribute (circle one): Strong · Quick · Clever · Sneaky · Charming</span>
       <span class="af-fill"></span>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-broken"><span class="af-box"></span> Broken</div>
     </div>
     <div class="af-asset">
+      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">2. Skill or Expertise</span>
       <span class="af-fill"></span>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-broken"><span class="af-box"></span> Broken</div>
     </div>
     <div class="af-asset">
+      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">3. Item, Companion, or Connection</span>
       <span class="af-fill"></span>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-broken"><span class="af-box"></span> Broken</div>
     </div>
     <div class="af-asset">
+      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">4. Wild (your call — not a 2nd Attribute)</span>
       <span class="af-fill"></span>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
@@ -95,7 +99,7 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
   </div>
 
   <h3>Growth Track</h3>
-  <p class="af-hint">Fill one box each time you complete a Story Arc (1 Growth). Spend 2 on a Boon, 5 on a New Asset (ceiling 6 — Trade In to exceed).</p>
+  <p class="af-hint">Every 3rd Milestone the party marks (on any Story Arc), each hero fills one box (1 Growth). Spend 2 on a Boon, 5 on a New Asset (ceiling 6 — Trade In to exceed).</p>
   <div class="af-track">
     <span class="af-box"></span><span class="af-box"></span><span class="af-box"></span>
     <span class="af-box"></span><span class="af-box"></span><span class="af-box"></span>

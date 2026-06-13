@@ -13,7 +13,7 @@ So resist the urge to give the rules speech. A rule explained before it matters 
 About two minutes, in this order. That's everything anyone needs to make their first roll.
 
 1. **The pitch.** *"We're writing a movie together. You play the heroes; I'll play everything else. Nobody's read the rules but me, and you won't need to — just tell me what your hero does."*
-2. **Your hero.** One-line Concept (an *Ice-Dragon Knight*, a *Grumpy Goblin Alchemist*) plus **four Assets** — the things they're good at. Everyone starts at **9 Readiness**, the meter that drops when things go wrong.
+2. **Your hero.** One-line Concept (an *Ice-Dragon Knight*, a *Grumpy Goblin Alchemist*), then **four Assets** by answering four quick questions: ① what are you best at? (your **Attribute** — Strong/Quick/Clever/Sneaky/Charming, pick one), ② what did you train in? (a **skill**), ③ what's your signature item or sidekick? (an **item/companion**), ④ one **Wild** pick of your own. Everyone starts at **9 Readiness**, the meter that drops when things go wrong.
 3. **The Roll.** *"When you try something risky, roll 2d6. Add **2** if one of your Assets fits what you're doing, **1** if not. **10+** you nail it. **7–9** you do it, but there's a cost. **6 or under**, it goes wrong."*
 4. **You narrate the win.** *"When you succeed, you tell me what happens — what you pull off, find, or change."*
 

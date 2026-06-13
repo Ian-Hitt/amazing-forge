@@ -35,7 +35,7 @@ A **Boon** is the everyday reward — cheap enough to pick up a couple of times 
 
 ### New Assets and the ceiling of six
 
-A hero starts with **four Assets** (Chapter 4) and can grow to **six**. The fifth and sixth are bought the same way — 5 Growth each — and follow all the normal rules for what makes a good Asset (broad enough to come up, specific enough that it clearly doesn't cover everything).
+A hero starts with **four Assets** (Chapter 4) and can grow to **six**. The fifth and sixth are bought the same way — 5 Growth each — and follow all the normal rules for what makes a good Asset (broad enough to come up, specific enough that it clearly doesn't cover everything). One thing you **can't** buy is a second **Attribute** — the broad "Strong / Quick / Clever / Sneaky / Charming" pick is capped at one per hero, on purpose, so that wide **+1 floor** never closes up. New Assets are the specific kind.
 
 Six is the hard ceiling. There's a reason: your Assets are your competence, and if a hero had an Asset for *everything*, they'd be +2 on every roll — which is exactly the "Lucky / Good at everything" trap the Asset rules warn against. Six keeps a hero clearly capable without making the +2 meaningless.
 

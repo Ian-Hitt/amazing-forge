@@ -14,13 +14,13 @@ Our two players are **Maya** and **Leo.**
 
 **The heroes.** They each build a character in about two minutes.
 
-Maya plays **Brave, an Ice-Dragon Knight.** Her four Assets: *Ice Magic · My Dragon, Cinder · Dragon-Scale Armor · Knight's Training.*
+Maya plays **Brave, an Ice-Dragon Knight.** Her four Assets — Attribute first: ***Strong*** · *Ice Magic · My Dragon, Cinder · Dragon-Scale Armor.*
 
-Leo plays **Snik, a Grumpy Goblin Alchemist** who left the tunnels years ago. His four Assets: *Explosive Potions · Tinkering & Gadgets · I Know Goblin Secrets · Quick Climber.*
+Leo plays **Snik, a Grumpy Goblin Alchemist** who left the tunnels years ago. His four Assets — Attribute first: ***Clever*** · *Explosive Potions · Tinkering & Gadgets · I Know Goblin Secrets.*
 
 Both heroes start at **9 Readiness.**
 
-> **▶ Rules note — Heroes (Chapter 2).** Each hero is just a Concept, four Assets, and 9 Readiness. Notice Snik's *I Know Goblin Secrets* — a perfect, well-sized Asset for this particular quest, and a built-in bit of backstory.
+> **▶ Rules note — Heroes (Chapter 2).** Each hero is just a Concept, four Assets, and 9 Readiness. The first Asset is an **Attribute** — the one broad pick (Brave is **Strong**, Snik is **Clever**). Notice Snik's *I Know Goblin Secrets* — a perfect, well-sized Asset for this particular Story Arc, and a built-in bit of backstory.
 
 **The Story Arc.** Their **Goal:** *get the Sun Crystal back and return it to the village.* For a first game they name exactly **three Milestones:**
 

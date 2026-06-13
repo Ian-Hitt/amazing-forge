@@ -29,18 +29,34 @@ Answer it out loud. Maybe your Ice-Dragon Knight stands on a frozen cliff with f
 
 Instead of stats, your hero has **four things they're amazing at.** These are your **Assets** — the signature talents, tools, and friends your hero leans on to get out of trouble. You choose exactly four, and they do a lot of work, so choose them well.
 
-Assets don't have to be skills. Any of these counts:
+**The easy way: answer four questions.** Staring at a blank page is the hardest part of any character. So don't — just answer these four, in order, and you'll have a hero. Each answer makes the next one easier.
 
-- **Skills & Magic:** Fire Magic · Hacking · Acrobatics · Tracking · Solving Mysteries
-- **Gear & Magical Items:** A Hoverboard · A Shield Generator · An Enchanted Sword · A Grappling Hook
-- **Companions & Allies:** A Loyal Pet Wolf · A Tiny Repair Drone · A Wise Sprite Companion
+**1. What's your hero best at?** This is your **Attribute** — the one broad thing they've just *got.* Pick the one that fits your Concept:
 
-A nice trick: when you pick an Asset, ask yourself *how* your hero got it. Where did you learn to fly? Was talking to animals a gift from a forest spirit? You don't have to answer, but if you do, you've just built your backstory for free.
+| | |
+|---|---|
+| **Strong** | force, muscle, toughness, staying power |
+| **Quick** | speed, agility, reflexes, a steady aim |
+| **Clever** | knowing things, figuring things out, spotting what others miss |
+| **Sneaky** | stealth, sleight of hand, a convincing bluff |
+| **Charming** | winning people over, courage, heart, rallying friends |
 
-**What makes a good Asset.** Aim for something **broad enough to come up often, but specific enough that it clearly doesn't cover everything.** The easy test: a good Asset has obvious moments where it's useless. That's how you know it's the right size.
+You get **exactly one** Attribute — it's the only Asset allowed to be this broad. Lock it in first and it becomes your anchor: once you know your hero is **Quick** or **Clever**, the rest almost suggests itself.
+
+**2. What have they trained in?** A **skill or area of expertise** — something they learned or practiced. *Fire Magic · Hacking · Acrobatics · Tracking · Solving Mysteries · Lockpicking · Healing Herbs.*
+
+**3. What's their signature item or sidekick?** The cool thing or loyal friend they're never without — every movie hero has one. A piece of **gear**, or a **companion**: *An Enchanted Sword · A Hoverboard · A Shield Generator · A Loyal Pet Wolf · A Tiny Repair Drone · A Wise Sprite Companion.* (No gear or buddy fits your concept? Make it a **connection** instead — a trusted mentor, a contact in every port, a famous name.)
+
+**4. One more — your call.** A **Wild** pick: anything that makes your hero *yours.* Another skill, a quirky talent, a knack, a second item — whatever you like, with one limit: it can't be a second Attribute.
+
+> **This is the recommended path, not a cage.** If your concept wants two skills and no sword, or a companion instead of expertise, swap questions 2–4 around freely. Only question 1 — your one Attribute — is fixed.
+
+A nice trick on any of these: ask yourself *how* your hero got it. Where did you learn to fly? Was talking to animals a gift from a forest spirit? You don't have to answer, but if you do, you've just built your backstory for free.
+
+**What makes a good Asset (the other three).** Aim for something **broad enough to come up often, but specific enough that it clearly doesn't cover everything.** The easy test: a good Asset has obvious moments where it's useless. That's how you know it's the right size. (Your Attribute is the one exception — it's *meant* to be broad. But even it has whole moments where it's no help: **Strong** won't spot a hidden clue or talk a guard down.)
 
 - ✅ **Good:** Fire Magic · Acrobatics · Fast-Talking · My Loyal Wolf · Grandpa's Lockpicks · Piloting · Tracking · Healing Herbs
-- ❌ **Too broad — avoid:** "Lucky," "Strong," "Smart," "Brave," "Good at everything." *(These would help on almost any roll, so they stop meaning anything.)*
+- ❌ **Too broad — avoid:** "Lucky," "Skilled," "Good at everything." *(These would help on almost **any** roll — even on top of your Attribute — so they stop meaning anything.)*
 - ❌ **Too narrow — avoid:** "Picking brass locks," "Juggling." *(They almost never come up.)*
 - ❌ **Too powerful — avoid:** "Invincible," "Mind Control," "Always Wins." *(No fun for anyone, including you.)*
 
