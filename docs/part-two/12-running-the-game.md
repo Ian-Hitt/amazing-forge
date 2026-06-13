@@ -141,7 +141,7 @@ In any given moment, an NPC is doing one of four things. Knowing which keeps the
 
 > **The Co-op NPC rule.** When you speak for an NPC, **your own hero steps back** from that exchange — you can't really argue with yourself, so let the other players deal with the NPC, especially for back-and-forth dialogue. For a big, important NPC the table can **group-narrate** instead, deciding together what they say and do. Group-narration is great for major moments but it's slow, so save it for the ones that earn it.
 
-### Pacing: The Story Clock
+### Pacing: The Story Arc Clock
 
 Pacing is what separates an adventure that *lands* from one that runs out of time mid-scene. You have two dials, and the art is in reading the room and turning them.
 

@@ -35,7 +35,7 @@ In Horror the dread *tightens* rather than the wound bleeds. **Readiness** here 
 
 In Horror, the Story Arc Track isn't a march toward a prize — it's an **ordeal to *endure*, and each Milestone is a step toward surviving, escaping, or understanding** (Chapter 10). A filled box is ground held against the dread, not territory taken from it.
 
-The two Story sizes (Chapter 10) map onto a nightmare like this:
+The two Story Arc sizes (Chapter 10) map onto a nightmare like this:
 
 - **Episode (3 Milestones, one sitting):** *Survive the night in the cabin.* The Milestones: **the power dies and you learn what's hunting you → you find the one thing that holds it back → you make it to first light.** One terrible night, start to dawn.
 - **Movie (6 Milestones, 2–3 sessions):** *Free the town from the thing in the reservoir.* Each Milestone is a hard-won truth or piece of the answer — what it is, what it wants, what it fears, how to end it — building one long descent to a reckoning.
@@ -116,7 +116,7 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). **Set the dial first** — 
 - **Forbidden →** the place you must not go, and the slow dread of *why.*
 - **Reputation →** does anyone even believe you? Being disbelieved is half the fear.
 
-### Story seeds & standing tensions
+### Story Arc seeds & standing tensions
 
 *Situations to mine — your table decides what the Story Arc actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Story Arc. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 

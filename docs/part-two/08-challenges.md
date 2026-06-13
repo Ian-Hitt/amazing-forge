@@ -84,27 +84,21 @@ Heroes are never trapped in a Challenge they're losing. At any point — usually
 
 Falling back is a **group decision** — in Co-op, made together; with a Guide, the Guide honors the table's call to retreat. It is the heroes' deliberate escape valve, and a weighty one: because the Antagonist Track is short and its top box is the reserved climax, you can only regroup so many times before the villain is one step from winning. Every retreat is a real choice, never a free reset.
 
-A Recovery Scene is the **only** thing that advances the Antagonist Track. Misses don't; Pay the Price doesn't; a quick **Mend** doesn't (Chapter 9). The villain gains ground exactly when — and only when — the heroes pull back to recover. (The terminal case, giving up the whole Story, is **Quitting the Story;** see Chapter 10.)
+A Recovery Scene is the **only** thing that advances the Antagonist Track. Misses don't; Pay the Price doesn't; a quick **Mend** doesn't (Chapter 9). The villain gains ground exactly when — and only when — the heroes pull back to recover. (The terminal case, giving up the whole Story Arc, is **Quitting the Story Arc;** see Chapter 10.)
 
-### The Showdown (Optional Climax)
+### The Showdown — the Finishing Move
 
-By default, filling the last box completes a Challenge automatically — clean and fast, which keeps the story flowing. But for a Scene the group has decided is a **true climax** (using the same "how big is this moment?" judgment), you can make that final box a **Showdown:** filling it requires one last roll.
+The **Showdown** is the move that *ends* a Challenge or a Story Arc: the final, climactic roll for the last box. Rather than the last box filling as quiet bookkeeping, the Showdown makes finishing a charged moment — one roll that decides how the win lands.
 
 Roll 2d6 + modifier for that last box:
 
 - **Strong Hit:** triumphant victory — you win and add a narrative bonus of your choice.
 - **Weak Hit:** you win, but it costs you — **Pay the Price** as normal.
-- **Miss:** you don't finish *yet*. **Add one extra box to the track** — you must fill it before you can attempt the Showdown again — and the situation escalates (a new danger, a fresh wrinkle). A missed Showdown is **delay and drama, never an outright loss.** (A Showdown roll never advances the Antagonist Track — only a Recovery Scene does. A Showdown is about *finishing*, not regrouping.)
+- **Miss:** you don't finish *yet*. **Add one extra box to the track** — you must fill it before you can attempt the Showdown again — and the situation escalates (a new danger, a fresh wrinkle). A missed Showdown is **delay and drama, never an outright loss.** (A Showdown never advances the Antagonist Track — only a Recovery Scene does. A Showdown is about *finishing*, not regrouping.)
 
-Reserve Showdowns for the moments that earn the extra tension. Everyday Challenges should still end the instant their last box fills.
+**A Story Arc's climax is always its Showdown.** When the heroes fill the last box of the Story Arc Track, that closing Milestone is the Showdown — the final confrontation, with the villain one step from winning (Chapter 10). A Miss here adds a Milestone and drops a climactic twist — the villain's real plan surfaces, a trusted ally turns, the prize is a fake — then the heroes push for the Showdown again.
 
-**The Story Arc Showdown (the climax twist).** You can also turn the **final box of the Story Arc Track** into a Showdown — one last roll as the heroes move to complete the closing Milestone of the whole adventure. It works exactly like a Challenge Showdown:
-
-- **Strong Hit:** the Story Arc is won, gloriously — add a narrative bonus.
-- **Weak Hit:** the Story Arc is won, but Pay the Price on the way out — a victory that costs something.
-- **Miss:** *you thought it was over, but it wasn't.* **Add one extra Milestone box to the Story Arc Track** and drop a climactic twist — the villain's real plan surfaces, a trusted ally turns, the prize is a fake. The heroes must complete that new Milestone before they can attempt the Story Arc Showdown again.
-
-As with everything Showdown, a missed Story Arc Showdown **never** advances the Antagonist Track — the twist simply gives the heroes *more story to play*, not the villains a free win. It's the most cinematic tool in the book for an ending that surprises the table. Use it when a Story Arc deserves a real final-act turn; otherwise let the last Milestone close the adventure cleanly.
+**For a Challenge, use a Showdown when the Scene is a true climax.** A routine Challenge can still end the instant its last box fills — no need to make every small obstacle a set-piece. Save the Showdown roll for the moments that have earned the extra tension.
 
 ### Running Different Challenge Types
 

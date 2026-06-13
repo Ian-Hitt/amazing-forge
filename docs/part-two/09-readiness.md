@@ -72,7 +72,7 @@ Readiness only falls in the heat of the action, and there are exactly three ways
 |---|---|---|---|
 | **Mend** | On your turn, *during* a Challenge | a little (risky) | a **Miss costs you 1 Readiness**; can't revive a downed hero |
 | **Recovery Scene** | Falling back to regroup at a safe lull | the whole party to **full** | **surges the Antagonist Track one box** |
-| **Downtime** | Between Stories | full reset + restores Broken Assets | (none — the Story's over) |
+| **Downtime** | Between Stories | full reset + restores Broken Assets | (none — the Story Arc's over) |
 
 All three use the same core move (Chapter 7) where a roll is called for. Only one of them advances the villain.
 
@@ -106,7 +106,7 @@ Heroes won't *voluntarily* regroup into the villain's last, reserved box (that w
 
 ### Downtime — Between Stories
 
-When a Story ends — won or lost — the heroes take **Downtime:** the game's long rest and its standing invitation to **slow down.** It resets the whole party to **full Readiness** and **restores every Broken Asset** (below) — no roll, no Surge; the Story is resolved, so the villain's clock is done. Spend real time here in dialogue and narration; the slower character beats live in Downtime.
+When a Story Arc ends — won or lost — the heroes take **Downtime:** the game's long rest and its standing invitation to **slow down.** It resets the whole party to **full Readiness** and **restores every Broken Asset** (below) — no roll, no Surge; the Story Arc is resolved, so the villain's clock is done. Spend real time here in dialogue and narration; the slower character beats live in Downtime.
 
 What does it look like? Whatever fits your hero — if you're stuck, roll or pick a d6:
 
@@ -119,13 +119,13 @@ What does it look like? Whatever fits your hero — if you're stuck, roll or pic
 | 5 | **A beat for the heart** — facing a fear, a grief, or a doubt you've been outrunning. |
 | 6 | **All your own** — something only this hero would do. |
 
-You always start the next Story fresh. Downtime is also where **threads** between Stories breathe — the character moments and B-plots that carry a Season (Chapter 10).
+You always start the next Story Arc fresh. Downtime is also where **threads** between Stories breathe — the character moments and B-plots that carry a Season (Chapter 10).
 
 ### Out of Action
 
 If a hero's Readiness hits **0**, they're **Out of Action** — too hurt, too rattled, or too tapped-out to keep going for now. They can't act until they recover. Remember the core promise: **heroes can't die.** Out of Action is the floor, and it's always temporary — but climbing back is exactly where the stakes live.
 
-**A downed hero can only be brought back by a full Recovery Scene** (the team falls back to get them on their feet) **or by Downtime.** A quick Mend can't do it — clawing someone off the floor takes a real regroup, not a battlefield patch. And that's the sting: getting a downed hero up **forces a Recovery Scene, which surges the villain** — even into the reserved climax box. Near the end of a Story, *that's how you lose* (Chapter 10).
+**A downed hero can only be brought back by a full Recovery Scene** (the team falls back to get them on their feet) **or by Downtime.** A quick Mend can't do it — clawing someone off the floor takes a real regroup, not a battlefield patch. And that's the sting: getting a downed hero up **forces a Recovery Scene, which surges the villain** — even into the reserved climax box. Near the end of a Story Arc, *that's how you lose* (Chapter 10).
 
 So being dropped genuinely **costs** you — it hands the villain ground at the worst possible time. Heroes still can't die, but going down is no longer a free respawn: it's the loss vector. (And it's why Mend can't revive — otherwise a cheap patch would dodge that cost entirely.) Out of Action also leaves a mark that outlasts the Scene, which is the next rule.
 
@@ -135,9 +135,9 @@ Going Out of Action breaks something. When a hero hits **0 Readiness, one of the
 
 A **Broken Asset gives no bonus.** Any roll where it would normally apply is made at **+1** instead of +2 — exactly as if you had no fitting Asset for the job. It never turns into a *penalty:* it only takes the bonus away, so your floor is still +1 and the dice never go lower. The Asset is still yours and still part of your story — a knight with a broken sword is still a knight — it just isn't pulling its weight until it's restored.
 
-Only **Downtime restores a Broken Asset** — between Stories. A Recovery Scene gets a downed hero back on their feet and tops up Readiness, but it can't reforge a blade, set a bone, or rebuild a shaken spirit; that follows you until the Story ends. If a hero is carrying more than one break, the table picks which is restored first when Downtime comes. That's the durable sting of being dropped: Readiness comes back, but the broken tool rides with you to the climax.
+Only **Downtime restores a Broken Asset** — between Stories. A Recovery Scene gets a downed hero back on their feet and tops up Readiness, but it can't reforge a blade, set a bone, or rebuild a shaken spirit; that follows you until the Story Arc ends. If a hero is carrying more than one break, the table picks which is restored first when Downtime comes. That's the durable sting of being dropped: Readiness comes back, but the broken tool rides with you to the climax.
 
-> **Going down again before the Story ends** breaks a *second* Asset. A hero limping along on two broken tools is in real trouble — exactly the warning sign that says *fall back, regroup, get to safety.* Heroes still can't die; even a hero with everything broken simply rolls +1 across the board, and the next Downtime digs them out.
+> **Going down again before the Story Arc ends** breaks a *second* Asset. A hero limping along on two broken tools is in real trouble — exactly the warning sign that says *fall back, regroup, get to safety.* Heroes still can't die; even a hero with everything broken simply rolls +1 across the board, and the next Downtime digs them out.
 
 > **Conditions that aren't tied to a tool (optional).** Sometimes the lasting hurt doesn't map cleanly to a single Asset — a *Broken Spirit,* a *Haunted* dread, a *Rattled* nerve. A Guide can write a one-off **condition** that behaves exactly like a Broken Asset: whenever it's clearly relevant it cancels your +2, so you roll **+1**, and it clears on Downtime. Never make it a flat penalty — like everything else in the game, it only removes a bonus, never drops you below +1. This is an optional tool for flavor, not a second subsystem to track.
 

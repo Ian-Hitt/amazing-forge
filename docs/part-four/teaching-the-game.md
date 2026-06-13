@@ -37,9 +37,9 @@ Keep this sheet next to you. Each rule below has a **trigger** — the moment in
 | The group is **getting hammered** and wonders if they can bail | **Fall back** & the **Antagonist Track** | *"You can fall back and regroup — you lose this scene's progress, but everyone heals up to full. The catch: the villain marks a box on their track. Fill it and they win, so regrouping has a real price."* |
 | A hero hits **0 Readiness** | **Out of Action** & a **Broken Asset** | *"You're down — out of this scene until the team falls back to get you up (which hands the villain a box). And one of your Assets breaks until you get a proper rest between Stories."* |
 | The table goes quiet — *"**what happens now?**"* | **Ask the Oracle** | *"When none of us knows what's next: name what your hero's trying to do, then do the obvious thing — or we roll the dice and let them surprise us."* |
-| You reach the **final, climactic box** | **Showdown** *(optional)* | *"This last one's the big finish — one charged roll decides it."* |
-| They **finish the Story**, or rest between Stories | **Downtime** | *"You did it. Take a rest between Stories — everyone's back to full, and any broken Assets come back."* |
-| You're carrying on **past one Story into a Season** | **Growth** | *"As you play on, you earn Growth — spend it on new tricks and tools, never bigger numbers."* |
+| You reach the **final, climactic box** | **Showdown** | *"This last one's the big finish — one charged roll ends the Challenge or the whole Story Arc."* |
+| They **finish the Story Arc**, or rest between Stories | **Downtime** | *"You did it. Take a rest between Stories — everyone's back to full, and any broken Assets come back."* |
+| You're carrying on **past one Story Arc into a Season** | **Growth** | *"As you play on, you earn Growth — spend it on new tricks and tools, never bigger numbers."* |
 
 > **The thread through all of it:** introduce a rule, then immediately hand the narration back to the player. *"…so knock off a point — now, what does that look like?"* The rule lands and the story keeps moving in the same breath.
 

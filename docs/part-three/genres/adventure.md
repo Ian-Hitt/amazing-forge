@@ -36,14 +36,14 @@ In Adventure, a price keeps the story *moving* — it rarely grinds it down. A s
 
 Adventure is the genre where the Story Arc Track is easiest to picture: a **Milestone is a place reached or a foe overcome** (Chapter 10), and the track is the road to the goal. This is the shape every other genre borrows from, so it's worth seeing clearly.
 
-The two Story sizes (Chapter 10) map straight onto it:
+The two Story Arc sizes (Chapter 10) map straight onto it:
 
 - **Episode (3 Milestones, one sitting):** *Reach the lost temple and claim the relic.* The Milestones: **cross the Saltglass Waste → solve the sealed gate → get past the guardian.** A clean, single-session expedition.
 - **Movie (6 Milestones, 2–3 sessions):** *Chart a route across the uncharted continent before the rival fleet does.* Each Milestone is a major leg — a mountain range crossed, a hostile kingdom won over, the final pass found — building one big self-contained expedition.
 
 Chain several of these together and you've got a **Season** (a run of expeditions sharing a rival) or a whole **Series** (*topple the Sky-Tyrant and free the floating cities*) — those are collections of Stories, not bigger tracks (Chapter 10).
 
-The **Antagonist Track** (always present, Chapter 10) is the thing *racing* you: the rival crew, the waking beast, the marching tyrant, the closing storm-season. It's short, and its top box is the **climax.** It **surges one box each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — the rival pulls ahead while you catch your breath. Fill it and they get there first, seeding the next Story. Give your antagonist a face so every Surge is something you can narrate.
+The **Antagonist Track** (always present, Chapter 10) is the thing *racing* you: the rival crew, the waking beast, the marching tyrant, the closing storm-season. It's short, and its top box is the **climax.** It **surges one box each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — the rival pulls ahead while you catch your breath. Fill it and they get there first, seeding the next Story Arc. Give your antagonist a face so every Surge is something you can narrate.
 
 ### Tempo
 
@@ -119,7 +119,7 @@ Genre-pointed nudges for the ten Worldbuilding questions (Chapter 14). Answer *t
 - **Forbidden →** the place everyone's warned away from — and obviously where the good stuff is.
 - **Reputation →** celebrated heroes, unknown nobodies, or underdogs nobody takes seriously *yet*? The last one has the best arc.
 
-### Story seeds & standing tensions
+### Story Arc seeds & standing tensions
 
 *Situations to mine — your table decides what the Story Arc actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Story Arc. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 

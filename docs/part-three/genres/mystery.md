@@ -35,7 +35,7 @@ In Mystery the danger is to your *progress* and your *relationships*, almost nev
 
 In Mystery, the Story Arc Track is the **path to the truth, and every Milestone is a layer of it** (Chapter 10) — a clue confirmed, a lie peeled back, a suspect cleared or damned. A filled track *is* the solution. The crucial rule: don't hide the answer behind one perfect roll. Spread it across the boxes, so the case always inches forward.
 
-The two Story sizes (Chapter 10) map cleanly onto a case:
+The two Story Arc sizes (Chapter 10) map cleanly onto a case:
 
 - **Episode (3 Milestones, one sitting):** *Who poisoned the festival well?* The Milestones: **find the means → find the motive → name the culprit.** Three clues that add up to *who* and *why.*
 - **Movie (6 Milestones, 2–3 sessions):** *Unravel who really runs this town.* Each Milestone is a layer of the conspiracy pulled back — a bought official exposed, a hidden ledger found, a witness turned, the pattern seen — building one case to its reveal.
@@ -115,7 +115,7 @@ Genre-pointed nudges for the ten Worldbuilding questions (Chapter 14). Answer *t
 - **Forbidden →** what question is dangerous to ask out loud? Naming it tells everyone exactly where the bodies are buried.
 - **Reputation →** why do people talk to you — or clam up the second you walk in?
 
-### Story seeds & standing tensions
+### Story Arc seeds & standing tensions
 
 *Situations to mine — your table decides what the case actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Story Arc. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 

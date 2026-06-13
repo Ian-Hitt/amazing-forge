@@ -35,14 +35,14 @@ A price in Post-Apocalypse is *scarcity and risk closing in* — the resource th
 
 In Post-Apocalypse, the Story Arc Track is the **fight to secure, reach, or rebuild something, and each Milestone is a hard-won piece of it** (Chapter 10): a resource locked down, a haven reached, a wall raised, a neighbor won over. A filled box is ground taken back from the wasteland — not a treasure, but a *foothold.*
 
-The two Story sizes (Chapter 10) map onto survival like this:
+The two Story Arc sizes (Chapter 10) map onto survival like this:
 
 - **Episode (3 Milestones, one sitting):** *Cross the dead city to the rumored water cache.* The Milestones: **get past the raider tollgate → cross the flooded downtown → reach the cache and salvage what's left.** One desperate run, there and back.
 - **Movie (6 Milestones, 2–3 sessions):** *Turn a ruin into a real settlement.* Each Milestone is a piece of a living place — clean water secured, a wall raised, crops taking, a wary neighbor-camp turned ally, the first hard winter survived — building one place that lasts.
 
 Chain several of these together and you've got a **Season** (the long fight to hold a haven) or a whole **Series** (*relight a piece of the old world*) — collections of Stories, not bigger tracks (Chapter 10).
 
-The **Antagonist Track** (always present, Chapter 10) is whatever's grinding the survivors down: the raider warlord, the rival enclave, the failing land, the long winter, the sickness with no cure. It's short, topped by the **climax** box, and it **surges each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — the threat gains ground while you catch your breath. Fill it and you lose the haven, the harvest, the people — which seeds the next Story, because in a ruined world a loss is just the start of the next fight. A **force** antagonist (the drought, the cold) works perfectly here; characterize it so each Surge is concrete: "the well's gone brackish, and the next one's two days out."
+The **Antagonist Track** (always present, Chapter 10) is whatever's grinding the survivors down: the raider warlord, the rival enclave, the failing land, the long winter, the sickness with no cure. It's short, topped by the **climax** box, and it **surges each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — the threat gains ground while you catch your breath. Fill it and you lose the haven, the harvest, the people — which seeds the next Story Arc, because in a ruined world a loss is just the start of the next fight. A **force** antagonist (the drought, the cold) works perfectly here; characterize it so each Surge is concrete: "the well's gone brackish, and the next one's two days out."
 
 ### Tempo
 
@@ -117,7 +117,7 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 - **Forbidden →** the dead zone, the sealed vault, the place where the collapse began.
 - **Reputation →** out here you're a drifter or a scavenger — but are you the kind who *shares*, or the kind who *takes*? That's all anyone needs to know about you.
 
-### Story seeds & standing tensions
+### Story Arc seeds & standing tensions
 
 *Situations to mine — your table decides what the Story Arc actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Story Arc. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 

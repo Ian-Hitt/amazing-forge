@@ -159,14 +159,14 @@ Two boxes in, things get hairy: an alarm gong sounds (a Pay the Price), guards p
 
 **Maya:** "Now — one more box. Brave makes a desperate play with Cinder." 🎲 A **Strong Hit** — she fills the **final box.** That's the **Showdown:** they snatch the Crystal and ride out through a collapsing tunnel into the daylight.
 
-**Milestone 3 complete — the Story is won.**
+**Milestone 3 complete — the Story Arc is won.**
 
 ```
-STORY ARC TRACK:    [X]  [X]  [X]   ← Story won at the Showdown!
+STORY ARC TRACK:    [X]  [X]  [X]   ← Story Arc won at the Showdown!
 ANTAGONIST TRACK:   [X]  [ ]        ← the King ended ONE box from winning
 ```
 
-> **▶ Rules note — finishing the Story (Chapter 5).** Reaching the last Milestone is the climax — the Showdown. The Goblin King ended *one step from winning* (his climax box never filled), which is exactly the nail-biter the game aims for. Finishing is **Downtime:** everyone resets to full Readiness, ready for the next Story.
+> **▶ Rules note — finishing the Story Arc (Chapter 5).** Reaching the last Milestone is the climax — the Showdown. The Goblin King ended *one step from winning* (his climax box never filled), which is exactly the nail-biter the game aims for. Finishing is **Downtime:** everyone resets to full Readiness, ready for the next Story Arc.
 
 The Sun Crystal goes back above the village square, light and warmth return, and the elders hail two unlikely heroes — a knight on a dragon and a grumpy goblin who came home just long enough to save the day.
 
@@ -174,7 +174,7 @@ The Sun Crystal goes back above the village square, light and warmth return, and
 
 ### What This Showed You
 
-In one short session, Maya and Leo used **every rule in Part One:** they built a world, made heroes, named a Story and an antagonist, drew both tracks, made **Regular Rolls** and ran **Challenges**, hit a **Strong Hit, a Weak Hit, a Miss, and an Outstanding Success**, **Paid the Price** more than once, **fell back to regroup** (a Recovery Scene) and played out the **Surge**, risked a mid-fight **Mend**, and rode the **photo-finish** to **win the Story** with the villain one step from winning. That's the whole game.
+In one short session, Maya and Leo used **every rule in Part One:** they built a world, made heroes, named a Story Arc and an antagonist, drew both tracks, made **Regular Rolls** and ran **Challenges**, hit a **Strong Hit, a Weak Hit, a Miss, and an Outstanding Success**, **Paid the Price** more than once, **fell back to regroup** (a Recovery Scene) and played out the **Surge**, risked a mid-fight **Mend**, and rode the **photo-finish** to **win the Story Arc** with the villain one step from winning. That's the whole game.
 
 Notice what they *didn't* do: look up a spell, calculate any enemy's hit points, or roll for initiative. They just described what their heroes did, rolled 2d6, and told the story together.
 

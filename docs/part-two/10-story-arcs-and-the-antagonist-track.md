@@ -1,16 +1,16 @@
 # Chapter 10 — Story Arcs & the Antagonist Track
 
-A **Story** is the engine that gives an adventure shape: a goal worth chasing, the steps to get there, and a villain racing you for it. Every Story is **one spine** — a single central dramatic question — and this chapter is the complete guide to setting one up and running it: the **Story Arc Track**, the **Antagonist Track** that runs alongside it with its **climax held in reserve**, how to build good Milestones, how the villain surges, what happens when you win, lose, or quit, and how to chain Stories into a Season or a whole Series.
+A **Story Arc** is the engine that gives an adventure shape: a goal worth chasing, the steps to get there, and a villain racing you for it. Every Story Arc is **one spine** — a single central dramatic question — and this chapter is the complete guide to setting one up and running it: the **Story Arc Track**, the **Antagonist Track** that runs alongside it with its **climax held in reserve**, how to build good Milestones, how the villain surges, what happens when you win, lose, or quit, and how to chain Stories into a Season or a whole Series.
 
 Everything here builds on tools from earlier chapters: Milestones are made of **Scenes** (Chapter 8), the heroes win or lose by filling tracks, and the Antagonist Track moves when the heroes **fall back to regroup** — a **Recovery Scene** (Chapter 9).
 
 ---
 
-## Part A — Building & Winning a Story
+## Part A — Building & Winning a Story Arc
 
-### Story Structure
+### Story Arc Structure
 
-A Story has three parts:
+A Story Arc has three parts:
 
 - **The Goal** — the single, clear victory condition, stated in a sentence ("Recover the stolen Sun Crystal," "Escape the sinking sky-city"). It's the finish line everyone can name.
 - **The Milestones** — the major steps that get the heroes there. Each one is a real, pointable achievement, not a vague "keep going."
@@ -23,9 +23,9 @@ ANTAGONIST TRACK:   [ ]  [ ][★]      ★ = the reserved climax box
 
 You don't plan *how* each Milestone gets done — that's what play discovers. You only name the Goal, the Milestones, and the antagonist, draw the two rows, and start in the middle of the action.
 
-### Two Story Sizes: Episode and Movie
+### Two Story Arc Sizes: Episode and Movie
 
-A Story comes in one of two sizes, and these are the only two with their own boxes:
+A Story Arc comes in one of two sizes, and these are the only two with their own boxes:
 
 | Size | Story Arc Track | Antagonist Track | Feels like |
 |---|---|---|---|
@@ -49,9 +49,9 @@ Look at **Avatar: The Last Airbender.** The whole show is a **Series** (master t
 
 ### Threads: B-plots & Character Arcs
 
-The connective tissue of a Season is a **thread** — a B-plot or a character arc that runs *alongside* the Stories you play. A thread has its **own little progress track**, but **no Antagonist Track and no lose-clock.** It isn't a race; it's a slow burn that advances whenever the fiction genuinely moves it, and **resolves into or beside a Story's climax.**
+The connective tissue of a Season is a **thread** — a B-plot or a character arc that runs *alongside* the Stories you play. A thread has its **own little progress track**, but **no Antagonist Track and no lose-clock.** It isn't a race; it's a slow burn that advances whenever the fiction genuinely moves it, and **resolves into or beside a Story Arc's climax.**
 
-> *Kaya learns to forgive the brother who betrayed her* is a thread. It has a few progress boxes and no villain track — the only thing standing in Kaya's way is her own grief. It ticks at the beats that genuinely move it, usually *inside* an Episode about something else, and it pays off when she changes — often woven into the climax of the Story she's in.
+> *Kaya learns to forgive the brother who betrayed her* is a thread. It has a few progress boxes and no villain track — the only thing standing in Kaya's way is her own grief. It ticks at the beats that genuinely move it, usually *inside* an Episode about something else, and it pays off when she changes — often woven into the climax of the Story Arc she's in.
 
 Threads are how a Season feels like more than a list of errands: the recurring rival, the season-long mystery, the romance, the hero's inner change. Give a thread a name and a handful of boxes, and mark one whenever the table agrees it truly advanced.
 
@@ -75,17 +75,17 @@ A good Milestone is **concrete and checkable.** "Find the secret entrance" is go
 - **Investigation:** find the first clue · follow it to a witness or scene · uncover the hidden truth · confront who's behind it.
 - **Confrontation:** gather what you need · weaken the foe's position · force the meeting · the final reckoning.
 
-Mix and match — a Story can blend shapes (a journey that ends in a heist, an investigation that turns into a rescue).
+Mix and match — a Story Arc can blend shapes (a journey that ends in a heist, an investigation that turns into a rescue).
 
 ### Start a Story Arc: The Opening Roll
 
-You've named the Goal, the Milestones, and the antagonist, and drawn the two tracks. One thing's left before the first scene: find out *how* the Story opens. **Start a Story Arc** is the move that does it — a single roll, made once as the Story begins, that hands you the tone of your launch and points you straight at your opening scene.
+You've named the Goal, the Milestones, and the antagonist, and drawn the two tracks. One thing's left before the first scene: find out *how* the Story Arc opens. **Start a Story Arc** is the move that does it — a single roll, made once as the Story Arc begins, that hands you the tone of your launch and points you straight at your opening scene.
 
 Roll **2d6 + 1.** No Asset applies here — this isn't a test of any hero's skill; it's the world deciding how things stand as you set out, so you get the same **+1** floor as any off-Asset action. (And **doubles still trigger Oracle's Blessing**, bumping your opening up a tier.)
 
 Here's the important part: **this is a roll you can't fail.** All three results are good openings — they only differ in how much trouble is already on the heroes when the camera starts rolling.
 
-| Roll | Your Story opens… | How to play it |
+| Roll | Your Story Arc opens… | How to play it |
 |---|---|---|
 | **10+ — Clear purpose** | You set out emboldened, the way ahead in plain sight. | Open on the **front foot.** The heroes are ready and in control as the scene begins, and *they* make the first move. Paint a confident launch and ask "What do you do?" |
 | **7–9 — More questions than answers** | You're committed, but something's already unsettled. | Begin in motion with **one complication** already in play. Don't know what? **Ask the Oracle** (Chapter 11) or just decide — a missing supply, an unexpected face, a route that's changed. |
@@ -101,17 +101,17 @@ Here's the important part: **this is a roll you can't fail.** All three results 
 
 Same Milestone, three different heats. Roll, read the temperature, paint the picture, and ask "What do you do?"
 
-> **First games skip this roll.** Part One (Chapter 3) just has you open in the middle of the action — no roll needed. The opening roll is a Part Two tool for when you want the dice to surprise you with how a new Story begins.
+> **First games skip this roll.** Part One (Chapter 3) just has you open in the middle of the action — no roll needed. The opening roll is a Part Two tool for when you want the dice to surprise you with how a new Story Arc begins.
 
-### Finishing a Story: the Showdown
+### Finishing a Story Arc: the Showdown
 
 Fill the last box of the Story Arc Track and the heroes reach the **climax — the Showdown.** This is the reserved top box of the Antagonist Track made flesh: the final confrontation, with the villain *one step from winning.* Play the closing Milestone as one last roll:
 
-- **Strong Hit:** the Story is won, gloriously — add a narrative bonus.
+- **Strong Hit:** the Story Arc is won, gloriously — add a narrative bonus.
 - **Weak Hit:** won, but Pay the Price on the way out.
 - **Miss:** *you thought it was over, but it wasn't.* Add **one extra Milestone box** to the Story Arc Track and drop a climactic twist — the villain's true plan surfaces, an ally turns, the prize is a fake. Complete that new Milestone, then attempt the Showdown again.
 
-A missed Showdown **never** fills the reserved Antagonist box on its own — the twist gives the heroes *more story to play,* not the villain a free win. When the heroes win, play out the victory: finishing a Story is **Downtime** (Chapter 9), so each hero resets to full Readiness and any Broken Asset is restored before the next Story.
+A missed Showdown **never** fills the reserved Antagonist box on its own — the twist gives the heroes *more story to play,* not the villain a free win. When the heroes win, play out the victory: finishing a Story Arc is **Downtime** (Chapter 9), so each hero resets to full Readiness and any Broken Asset is restored before the next Story Arc.
 
 ---
 
@@ -119,9 +119,9 @@ A missed Showdown **never** fills the reserved Antagonist box on its own — the
 
 ### What It Is
 
-Every Story is a **race between two tracks.** The Story Arc Track is the heroes' progress; the **Antagonist Track** is the villain's progress toward *their* goal, running in parallel. It is **the losing side of the same Story** — not a separate arc, but this Story's other end — and a **core part of every Story,** never optional.
+Every Story Arc is a **race between two tracks.** The Story Arc Track is the heroes' progress; the **Antagonist Track** is the villain's progress toward *their* goal, running in parallel. It is **the losing side of the same Story Arc** — not a separate arc, but this Story Arc's other end — and a **core part of every Story Arc,** never optional.
 
-It is **short**, and its **top box is the climax — held in reserve.** The lower boxes fill as the villain gains ground during play; the top box is taken only at the very end — either when the heroes reach their Showdown (and the Story's outcome is decided there), or when the heroes are overwhelmed before they get there (below). The whole design points at one ending: **arrive at the climax with the villain one step from winning** — the photo-finish.
+It is **short**, and its **top box is the climax — held in reserve.** The lower boxes fill as the villain gains ground during play; the top box is taken only at the very end — either when the heroes reach their Showdown (and the Story Arc's outcome is decided there), or when the heroes are overwhelmed before they get there (below). The whole design points at one ending: **arrive at the climax with the villain one step from winning** — the photo-finish.
 
 Each lower box is one of the villain's *own* milestones — the dragon spreading its fire, the rival crew closing on the same treasure, the storm marching toward the city.
 
@@ -162,35 +162,35 @@ A Surge is an open invitation to bend the plot — the payoff that makes the bre
 
 ### Losing Before the Climax (Out of Action)
 
-There's one more way the villain can take a box — and it's the real risk. A hero taken **Out of Action** (Readiness 0) has to be brought back on their feet, and that **forces a Recovery Scene** — whose Surge advances the villain **even into the reserved climax box.** If that fills it, the villain wins *before* the heroes reach their Showdown: the Story is **lost early.**
+There's one more way the villain can take a box — and it's the real risk. A hero taken **Out of Action** (Readiness 0) has to be brought back on their feet, and that **forces a Recovery Scene** — whose Surge advances the villain **even into the reserved climax box.** If that fills it, the villain wins *before* the heroes reach their Showdown: the Story Arc is **lost early.**
 
-So going down is no longer a survival-neutral hiccup. Near the end of a Story, getting knocked Out of Action is *how you lose.* Heroes still can't die — but Readiness has become **ammunition spent against the villain's clock,** not a meter that just refills. (This is also why the quick Mend can't revive an Out-of-Action hero — Chapter 9 — otherwise a cheap patch would dodge the loss vector entirely.)
+So going down is no longer a survival-neutral hiccup. Near the end of a Story Arc, getting knocked Out of Action is *how you lose.* Heroes still can't die — but Readiness has become **ammunition spent against the villain's clock,** not a meter that just refills. (This is also why the quick Mend can't revive an Out-of-Action hero — Chapter 9 — otherwise a cheap patch would dodge the loss vector entirely.)
 
 ---
 
 ## Part C — Losing, Quitting & Running Long
 
-### Losing & Quitting a Story Gracefully
+### Losing & Quitting a Story Arc Gracefully
 
-If the Antagonist Track fills before the heroes reach their Showdown, the bad guys win and the **Story is lost.** The heroes can also choose to **Quit the Story** outright at any time — the terminal version of falling back, when the group decides this one simply isn't winnable or worth the cost.
+If the Antagonist Track fills before the heroes reach their Showdown, the bad guys win and the **Story Arc is lost.** The heroes can also choose to **Quit the Story Arc** outright at any time — the terminal version of falling back, when the group decides this one simply isn't winnable or worth the cost.
 
 Losing carries **no mechanical penalty and no bonus.** The heroes just step away, battered but alive, and the world moves on without their win.
 
-And crucially, **a lost Story is not a dead end — it's a seed.** When the antagonists win, ask the table together:
+And crucially, **a lost Story Arc is not a dead end — it's a seed.** When the antagonists win, ask the table together:
 
 > *"How did the world change now that they got what they wanted?"*
 
-Then let that answer reshape your setting and spark the **next** Story — directly or indirectly born from this defeat. The cult completed its ritual: now the sky is wrong, and the next Story is to undo it. The rival crew got the treasure: now they're powerful, and the heroes want it back. A good loss should leave the table *excited* about what happens next. Because heroes can't die, "losing" is just the story taking a turn — exactly the kind a great series thrives on.
+Then let that answer reshape your setting and spark the **next** Story Arc — directly or indirectly born from this defeat. The cult completed its ritual: now the sky is wrong, and the next Story Arc is to undo it. The rival crew got the treasure: now they're powerful, and the heroes want it back. A good loss should leave the table *excited* about what happens next. Because heroes can't die, "losing" is just the story taking a turn — exactly the kind a great series thrives on.
 
 ### Running Long: Seasons & Series
 
-To play past a single story, you **chain Stories together** — you don't run them all at once. Keep **one Story in the spotlight at a time** (the Episode or Movie you're playing now), and let **threads** carry the longer questions between them.
+To play past a single story, you **chain Stories together** — you don't run them all at once. Keep **one Story Arc in the spotlight at a time** (the Episode or Movie you're playing now), and let **threads** carry the longer questions between them.
 
 > **Setting up a long game.** Don't draw a giant grid on day one. Name where the whole thing is ultimately headed in a sentence or two — that's your **Series** (*"Master the elements and defeat the Fire Lord"*). Note a medium-term throughline as it sharpens — that's a **Season** (*"Master earthbending"*), tracked as a **thread**. Then just **play Episodes** — and when an Episode genuinely moves the season-long thread, mark a box on it. When a Season's thread is ready to pay off, you play the **Movie** that resolves it: the recurring villain is that Movie's antagonist, and beating them is its Showdown. Seasons end; a new one begins; the Series is the shape they add up to.
 
 Three habits keep a long game coherent:
 
-- **One spotlight Story at a time.** Many things can be *in motion* (the current Episode, a couple of threads), but a given Scene is almost always about the Episode in front of you. Switch focus at natural breaks, not mid-scene.
+- **One spotlight Story Arc at a time.** Many things can be *in motion* (the current Episode, a couple of threads), but a given Scene is almost always about the Episode in front of you. Switch focus at natural breaks, not mid-scene.
 - **Mark threads when big beats happen.** A season-long thread moves whenever a Scene genuinely advances it — most often the climax of tonight's Episode.
 - **Let Stories cross-pollinate.** Winning one changes the situation in another (freeing an ally who then helps; angering a faction that now opposes you). That's how a setting starts to feel alive.
 

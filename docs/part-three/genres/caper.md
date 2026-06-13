@@ -35,7 +35,7 @@ A price in a Caper makes things *harder and more exciting* — almost never hope
 
 In a Caper, the Story Arc Track *is the job*, and each **Milestone is a stage of pulling it off** (Chapter 10): cased, infiltrated, the prize in hand, the clean exit. A filled box is a step of the score completed — or completed *clean enough* to keep moving.
 
-The two Story sizes (Chapter 10) map onto it neatly:
+The two Story Arc sizes (Chapter 10) map onto it neatly:
 
 - **Episode (3 Milestones, one sitting):** *Lift the Star of the Sea from the gala.* The Milestones: **case the floor and get inside → make the swap unseen → walk out before the lights come up.** One job, one session, one grin at the end.
 - **Movie (6 Milestones, 2–3 sessions):** *Pull off the multi-stage score that breaks the crime boss who burned your crew.* Each Milestone is a stage — case the empire, empty the vault, turn the lieutenant, lift the ledger, walk out clean — one big heist built to a finish.
@@ -115,7 +115,7 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 - **Forbidden →** the thing everyone insists *can't be done.*
 - **Reputation →** you're underestimated — exactly how you like it.
 
-### Story seeds & standing tensions
+### Story Arc seeds & standing tensions
 
 *Situations to mine — your table decides what the Story Arc actually becomes. These are **conditions**, not plots: a roll gives you a charged starting situation, and the heroes' goals turn it into a Story Arc. Roll **d100**, or skim and pick what sparks. Every entry shares the same odds, and a roll of **100** just means roll again.*
 

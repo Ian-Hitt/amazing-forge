@@ -70,7 +70,7 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 
       <div class="af-move"><span class="af-mname">Downtime.</span> Between Stories: the whole party resets to <b>full</b> Readiness and Broken Assets are restored. No Surge.</div>
 
-      <div class="af-move"><span class="af-mname">Showdown</span> <i>(optional).</i> A climactic last-box roll on a Challenge or Story Arc Track. A <b>Miss</b> escalates the story instead of ending it &mdash; never an outright loss, never advances the Antagonist Track.</div>
+      <div class="af-move"><span class="af-mname">Showdown.</span> The finishing move &mdash; a climactic last-box roll that ends a Challenge or a Story Arc. A <b>Miss</b> escalates the story instead of ending it &mdash; never an outright loss, never advances the Antagonist Track.</div>
     </div>
 
     <div class="af-rightcol">
@@ -88,7 +88,7 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 
       <div class="af-move"><span class="af-mname">Fall back.</span> Retreat from a Challenge (lose its progress) and take a Recovery Scene &mdash; party to full Readiness, villain surges one box. The stay-alive valve.</div>
 
-      <div class="af-move"><span class="af-mname">Quit the Story.</span> The terminal fall back &mdash; give up the whole Story. No penalty and no bonus; the loss seeds your next Story.</div>
+      <div class="af-move"><span class="af-mname">Quit the Story Arc.</span> The terminal fall back &mdash; give up the whole Story Arc. No penalty and no bonus; the loss seeds your next Story Arc.</div>
     </div>
 
     <div class="af-fam af-frame">
@@ -102,5 +102,5 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
     </div>
   </div>
 
-  <p class="af-ref"><b>Full rules:</b> The Roll &amp; Aid Your Ally &mdash; Ch.7. &nbsp; Challenges, Start a Challenge, Fall back &amp; Showdown &mdash; Ch.8. &nbsp; Readiness, Mend, Recovery Scene, Downtime &amp; Pay the Price &mdash; Ch.9. &nbsp; Story Arcs, Start a Story Arc &amp; Quit the Story &mdash; Ch.10. &nbsp; Ask the Oracle &mdash; Ch.11.</p>
+  <p class="af-ref"><b>Full rules:</b> The Roll &amp; Aid Your Ally &mdash; Ch.7. &nbsp; Challenges, Start a Challenge, Fall back &amp; Showdown &mdash; Ch.8. &nbsp; Readiness, Mend, Recovery Scene, Downtime &amp; Pay the Price &mdash; Ch.9. &nbsp; Story Arcs, Start a Story Arc &amp; Quit the Story Arc &mdash; Ch.10. &nbsp; Ask the Oracle &mdash; Ch.11.</p>
 </div>

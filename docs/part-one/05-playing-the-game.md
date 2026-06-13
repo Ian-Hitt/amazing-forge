@@ -67,21 +67,21 @@ A Mend is a gamble — it can backfire, and it costs you your turn (you didn't f
 
 That last part is the catch: falling back always works, but it hands the villain a box — and the Antagonist Track is only **two boxes** long. So you can only regroup so often before the bad guys are at the door. (Falling back is also the quiet, character beat between dangers — which is exactly why it costs you ground.)
 
-**Quitting the Story.** If things go really badly — the Antagonist Track fills, or the group simply decides this one isn't winnable — you **Quit the Story.** The bad guys win this round, and that's okay: no penalty, just dust yourselves off. A lost Story is a great springboard — ask *"how did the world change now that the villains got what they wanted?"* and let that shape your next adventure.
+**Quitting the Story Arc.** If things go really badly — the Antagonist Track fills, or the group simply decides this one isn't winnable — you **Quit the Story Arc.** The bad guys win this round, and that's okay: no penalty, just dust yourselves off. A lost Story Arc is a great springboard — ask *"how did the world change now that the villains got what they wanted?"* and let that shape your next adventure.
 
-**Out of Action.** If a hero hits **0 Readiness**, they're **Out of Action** — too hurt or worn down to act for now. They're never gone for good (heroes can't die). But a quick Mend can't bring them back — the team has to **fall back and regroup** to get them on their feet, and that hands the villain a box. So getting knocked out near the end of a Story is how you *lose* it.
+**Out of Action.** If a hero hits **0 Readiness**, they're **Out of Action** — too hurt or worn down to act for now. They're never gone for good (heroes can't die). But a quick Mend can't bring them back — the team has to **fall back and regroup** to get them on their feet, and that hands the villain a box. So getting knocked out near the end of a Story Arc is how you *lose* it.
 
 > *Part Two covers the full picture: the Recovery Scene in depth, why going Out of Action is the real danger, and **Downtime** — the between-Stories rest.*
 
-### Finishing the Story
+### Finishing the Story Arc
 
-When the heroes complete their final Milestone, they reach the **climax** — and the **Story is won!**
+When the heroes complete their final Milestone, they reach the **climax** — and the **Story Arc is won!**
 
 Take a moment to play out the victory: the Sun Crystal back in the village square, the lighthouse ghost finally at peace, the sky-city saved. Describe how it feels and what your heroes do now that it's over.
 
 Then take **Downtime** — the rest between Stories. For your first game it's simple: **every hero is back to full Readiness** (9), ready for whatever comes next.
 
-That's a complete adventure — world built, heroes made, Story won. From here you can start a brand-new Story, send these same heroes on another, or hand the dice to someone new.
+That's a complete adventure — world built, heroes made, Story Arc won. From here you can start a brand-new Story Arc, send these same heroes on another, or hand the dice to someone new.
 
 ### When You Don't Know What Happens Next
 
@@ -117,6 +117,6 @@ If you're still stuck, reach for one of these:
 
 ### You're Ready to Play
 
-That's everything you need for your first game: build a world, make heroes, name a Story and what stands in its way, roll the dice, run Challenges, fall back when you must, recover, and lean on the Oracle when you're stuck. The next chapter walks through a short example session so you can see it all working together before you sit down at your own table.
+That's everything you need for your first game: build a world, make heroes, name a Story Arc and what stands in its way, roll the dice, run Challenges, fall back when you must, recover, and lean on the Oracle when you're stuck. The next chapter walks through a short example session so you can see it all working together before you sit down at your own table.
 
 **Next up:** a worked example — watch a first session play out. Turn to Chapter 6.

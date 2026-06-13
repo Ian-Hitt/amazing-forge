@@ -69,7 +69,7 @@ Each kit is a **launchpad, not a finished world.** It hands you the *kind* of st
 - **Flavors & blends** — a handful of *flavors* within the genre (Adventure's fantasy variants, Horror's haunted house), plus *blends* that fold in a second genre (Monster-of-the-Week is Mystery + Horror).
 - **Settings** — a d10 of ready-to-use settings that suit the genre, each a title and a one-line pitch; pick or roll, then build your world around it.
 - **Shaping your world** — genre-pointed prompts for the ten Worldbuilding questions (Chapter 14), so your world comes out leaning the right way. Answer *these*; don't just copy an example.
-- **Story seeds & standing tensions** — a rollable table of situations this genre thrives on. These are *conditions*, not plots — your table invents the actual Story Arcs from them.
+- **Story Arc seeds & standing tensions** — a rollable table of situations this genre thrives on. These are *conditions*, not plots — your table invents the actual Story Arcs from them.
 - **Archetypes** — ready-to-play hero shapes, each with four suggested starting Assets. Play one as-is, or file off the serial numbers and make it yours.
 - **The Asset table** — a big **d100** list of genre-fitting Assets. Roll for a surprise, or just read down it and grab the four that make you grin. Every entry is a starting point — rename or reskin it to fit your hero and your world.
 

@@ -1,6 +1,6 @@
 ## Story Arc Tracker Sheet
 
-One sheet per Story. It holds the **Goal**, the **size**, the **Story Arc Track** with its short **Antagonist Track** (the top box is the reserved climax), room to name your **antagonist**, and numbered lines to jot each **Milestone**.
+One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Track** with its short **Antagonist Track** (the top box is the reserved climax), room to name your **antagonist**, and numbered lines to jot each **Milestone**.
 
 > **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus are hidden automatically, so you'll get just the sheet.
 
@@ -58,7 +58,7 @@ One sheet per Story. It holds the **Goal**, the **size**, the **Story Arc Track*
     <span><span class="af-chk"></span> Movie &mdash; 6 Milestones / 3-box villain (2&ndash;3 sessions)</span>
   </div>
   <div class="af-line"><label>Thread(s) alongside</label><span class="af-fill"></span></div>
-  <p class="af-hint">B-plots / character arcs running beside this Story &mdash; they have their own progress but <em>no</em> villain track. (Chain Stories like this one into a Season or Series &mdash; see Ch.10.)</p>
+  <p class="af-hint">B-plots / character arcs running beside this Story Arc &mdash; they have their own progress but <em>no</em> villain track. (Chain Stories like this one into a Season or Series &mdash; see Ch.10.)</p>
 
   <h3>The Tracks</h3>
   <p class="af-hint">Heroes win by filling the Story Arc Track and winning the Showdown; they lose if the Antagonist Track fills first. The villain's <strong>top box (&#9733;) is the reserved climax</strong> &mdash; only the Showdown (or a hero going Out of Action) fills it.</p>
@@ -78,7 +78,7 @@ One sheet per Story. It holds the **Goal**, the **size**, the **Story Arc Track*
       <span></span><span></span><span>&#8593;Movie</span>
     </div>
   </div>
-  <p class="af-hint">Episode: 3 Story / 2 Antagonist boxes (box&nbsp;2 = the &#9733; climax). Movie: 6 Story / 3 Antagonist (box&nbsp;3 = the &#9733; climax). Mark your last villain box as the climax. A villain box fills each time the heroes take a <strong>Recovery Scene</strong> (fall back to regroup); a quick <strong>Mend</strong> never advances it.</p>
+  <p class="af-hint">Episode: 3 Story Arc / 2 Antagonist boxes (box&nbsp;2 = the &#9733; climax). Movie: 6 Story Arc / 3 Antagonist (box&nbsp;3 = the &#9733; climax). Mark your last villain box as the climax. A villain box fills each time the heroes take a <strong>Recovery Scene</strong> (fall back to regroup); a quick <strong>Mend</strong> never advances it.</p>
 
   <h3>The Antagonist</h3>
   <div class="af-line"><label>Who / what</label><span class="af-fill"></span></div>
@@ -99,5 +99,5 @@ One sheet per Story. It holds the **Goal**, the **size**, the **Story Arc Track*
   <h3>Notes</h3>
   <div class="af-notes"></div>
 
-  <p class="af-ref"><b>Win:</b> reach the climax (Story Arc Track full) and win the Showdown &mdash; then Downtime resets the party to full Readiness. &nbsp; <b>Lose:</b> the Antagonist Track fills (incl. a forced Recovery Scene when a hero is Out of Action), or you Quit the Story &mdash; no penalty; ask "how did the world change?" and seed the next Story. &nbsp; <b>Antagonist advances:</b> one box each time the heroes take a <b>Recovery Scene</b> (fall back to regroup). Never on a Mend, never automatic on a bad roll.</p>
+  <p class="af-ref"><b>Win:</b> reach the climax (Story Arc Track full) and win the Showdown &mdash; then Downtime resets the party to full Readiness. &nbsp; <b>Lose:</b> the Antagonist Track fills (incl. a forced Recovery Scene when a hero is Out of Action), or you Quit the Story Arc &mdash; no penalty; ask "how did the world change?" and seed the next Story Arc. &nbsp; <b>Antagonist advances:</b> one box each time the heroes take a <b>Recovery Scene</b> (fall back to regroup). Never on a Mend, never automatic on a bad roll.</p>
 </div>

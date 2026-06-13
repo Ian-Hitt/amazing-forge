@@ -50,11 +50,11 @@ Then draw a second, shorter row right underneath — **two boxes** — for the *
 ANTAGONIST TRACK:   [ ]  [ ]
 ```
 
-This is the bad guys' progress toward *their* goal. It's shorter than yours on purpose: the villain doesn't need as many wins to spoil things. It fills only when the heroes **fall back to regroup** (you'll learn exactly how in Chapter 5) — and if both boxes fill before the heroes reach their finish, the bad guys win and the Story is lost. The last box is the **climax** — it fills at the final showdown, or if a hero gets knocked out. The two rows side by side are the whole story in miniature: a race between the heroes and the antagonist.
+This is the bad guys' progress toward *their* goal. It's shorter than yours on purpose: the villain doesn't need as many wins to spoil things. It fills only when the heroes **fall back to regroup** (you'll learn exactly how in Chapter 5) — and if both boxes fill before the heroes reach their finish, the bad guys win and the Story Arc is lost. The last box is the **climax** — it fills at the final showdown, or if a hero gets knocked out. The two rows side by side are the whole story in miniature: a race between the heroes and the antagonist.
 
 A quick way to picture a Milestone: it's a *chapter* of your movie, made up of a few **scenes.** Some scenes are over in a single dice roll ("you talk your way past the guard"); others are big enough to play out in detail. Chapters 4 and 5 show you how scenes work — for now, just know each Milestone is a little stretch of story, not one single moment.
 
-> *Part Two has more for Stories — the bigger **Movie** size, chaining Stories into a Season or a whole Series, the full Antagonist Track and the Surge when the bad guys gain ground, a quick "Start a Story Arc" roll that sets how each new adventure opens, and how the scenes inside a Milestone range from a single roll to a full set-piece. For your first game, keep it to one Story, three Milestones, and the two short tracks — and jump straight into the action, as the next section shows.*
+> *Part Two has more for Stories — the bigger **Movie** size, chaining Stories into a Season or a whole Series, the full Antagonist Track and the Surge when the bad guys gain ground, a quick "Start a Story Arc" roll that sets how each new adventure opens, and how the scenes inside a Milestone range from a single roll to a full set-piece. For your first game, keep it to one Story Arc, three Milestones, and the two short tracks — and jump straight into the action, as the next section shows.*
 
 ### Jump In: In Media Res
 

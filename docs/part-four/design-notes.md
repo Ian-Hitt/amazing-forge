@@ -43,7 +43,7 @@ If you're coming from a game where defeating things means grinding down their HP
 
 ---
 
-## The Antagonist Track: A Reserved-Climax Story Clock
+## The Antagonist Track: A Reserved-Climax Story Arc Clock
 
 *(Chapters 8, 9 & 10 — the Recovery Scene and the Antagonist Track)*
 
@@ -51,7 +51,7 @@ The Antagonist Track is a "story clock" in the tradition of *Monster of the Week
 
 - **Its top box is the reserved climax.** Lower boxes fill during play; the final box is taken only at the **Showdown** (or by a hero going Out of Action). That's what *guarantees* the near-miss instead of leaving it to luck: the track is built to fill *up to* one-from-full and stop, so the heroes arrive at the finale with the villain at the door. Emergent clocks scatter — this one is engineered to land.
 - **It surges when the heroes fall back to regroup.** The Antagonist Track advances one box per **Recovery Scene** — recovery you can rely on, ground you give up. Tying the villain's advance to *healing* (rather than a per-roll trade or a flat doom timer) is the whole engine: every breather hands the villain a box, so the quiet/character scenes are where the stakes climb. A small **Mend** lets you patch up *without* surging — that's a tactical choice, not a clock-dodge, which is why it's risky (a Miss costs Readiness) and can't revive a downed hero. Validated in the simulation reference: photo-finish ~93%+, real losses rare (~1–6%).
-- **It's core, not optional, and Out of Action is the loss vector.** Heroes can't die — so the danger isn't death, it's the clock. A knocked-out hero *forces* a regroup, whose Surge can fill the reserved climax box and lose the Story before the finale. That's what keeps Readiness meaningful: it's ammunition against the villain's clock, not a survival meter.
+- **It's core, not optional, and Out of Action is the loss vector.** Heroes can't die — so the danger isn't death, it's the clock. A knocked-out hero *forces* a regroup, whose Surge can fill the reserved climax box and lose the Story Arc before the finale. That's what keeps Readiness meaningful: it's ammunition against the villain's clock, not a survival meter.
 
 ---
 
@@ -61,7 +61,7 @@ The Antagonist Track is a "story clock" in the tradition of *Monster of the Week
 
 The hard design problem with healing is simple: **if heroes can patch up to full whenever they like, nothing else has teeth.** Pay the Price stops mattering, low Readiness stops being scary, and Out of Action becomes a revolving door. An early version made recovery a flat, automatic +3 at any safe lull — and the danger never accumulated.
 
-The fix isn't to make healing *unreliable* — it's to make it *cost the right thing.* The big recovery (the **Recovery Scene**) is fully reliable: fall back and the whole party comes back to full. What it costs is **a Surge on the Antagonist Track** — the villain gains ground while you regroup. So recovery is never a free button; it's a trade against the one clock that can end the Story. That's where the teeth moved: from *will the heal work?* to *can we afford to take it?*
+The fix isn't to make healing *unreliable* — it's to make it *cost the right thing.* The big recovery (the **Recovery Scene**) is fully reliable: fall back and the whole party comes back to full. What it costs is **a Surge on the Antagonist Track** — the villain gains ground while you regroup. So recovery is never a free button; it's a trade against the one clock that can end the Story Arc. That's where the teeth moved: from *will the heal work?* to *can we afford to take it?*
 
 The small **Mend** is the counterweight that keeps Challenges interesting: a quick, risky patch you can take *instead of* pushing the scene. It doesn't surge the villain (so it's not a clock-dodge), but it has a real cost — a **Miss takes 1 Readiness**, and at low Readiness that can knock you Out of Action — so you can't just spam it to limp along. And it can't revive a downed hero: only a full regroup does that, which preserves Out of Action as the loss vector. Two recovery moves, two different decisions — exactly the kind of choice a deliberately light game wants on the table.
 
