@@ -51,7 +51,7 @@ So there's no separate "the monster attacks you back" step, either. When a roll 
 
 Readiness only ever drops in the heat of the action — and there are two ways to get it back, a quick risky one and a big reliable one.
 
-**Mend — a quick patch, mid-Challenge.** On your turn in a Challenge, instead of pushing the scene forward, a hero can **Mend** — patching up yourself *or* a teammate. It's a real choice: press on, or take a beat to bandage up? Describe the care, then roll 2d6 + modifier:
+**Mend — a quick patch, any time.** Whenever there's a beat for it — in a Challenge or in an ordinary scene — a hero can **Mend,** patching up yourself *or* a teammate. (In a Challenge it's a real choice: press on, or spend your turn to bandage up?) Describe the care, then roll 2d6 + modifier:
 
 - **Strong Hit (10+):** recover **+3** Readiness.
 - **Weak Hit (7–9):** recover **+2** Readiness.

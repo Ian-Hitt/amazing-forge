@@ -149,7 +149,7 @@ This is the *only* thing that routinely advances the Antagonist Track. A few thi
 
 - **It's emergent and player-chosen.** Nobody schedules the surges. The villain advances exactly when the heroes decide they're hurt enough to need to fall back — discovered in play, never on a clock.
 - **The regroup is the quiet beat between dangers.** A Recovery Scene is the campfire, the heart-to-heart, the patched wound — **often a B-plot or character scene.** So your character moments are *where the villain gains ground*: taking time for the cast is never free, which gives the slow scenes real stakes.
-- **Keep the climax box free.** The heroes won't *voluntarily* regroup into the top box — that would hand the villain the win. Voluntary Recovery Scenes fill the track up to one-from-full and stop there. (The small in-Challenge **Mend** patches a hero without falling back, and **never** surges — Chapter 9.)
+- **Keep the climax box free.** The heroes won't *voluntarily* regroup into the top box — that would hand the villain the win. Voluntary Recovery Scenes fill the track up to one-from-full and stop there. (The small **Mend** patches a hero without falling back, and **never** surges — Chapter 9.)
 
 ### The Surge: Playing Out a Villain Milestone
 

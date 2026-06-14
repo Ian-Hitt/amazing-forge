@@ -155,7 +155,7 @@ Two boxes in, things get hairy: an alarm gong sounds (a Pay the Price), guards p
 
 **Leo:** "Okay — Snik ducks behind a pillar and gulps an emergency tonic instead of fighting." Snik takes a **Mend** — a quick patch, not a retreat.
 
-> **▶ Rules note — Mend (Chapter 5).** Mend is the in-Challenge gamble: spend your turn to patch up instead of pushing the Challenge. It **doesn't** advance the King. But it's risky — a Miss would *cost* a point. 🎲 Leo rolls a **Weak Hit: +2** → Snik 3 → **5.** Safer footing, no box filled.
+> **▶ Rules note — Mend (Chapter 5).** Mend is the quick gamble — patch up any time there's a beat; here, mid-Challenge, it costs Snik his turn instead of pushing the fight. It **doesn't** advance the King. But it's risky — a Miss would *cost* a point. 🎲 Leo rolls a **Weak Hit: +2** → Snik 3 → **5.** Safer footing, no box filled.
 
 **Maya:** "Now — one more box. Brave makes a desperate play with Cinder." 🎲 A **Strong Hit** — she fills the **final box.** That's the **Showdown:** they snatch the Crystal and ride out through a collapsing tunnel into the daylight.
 

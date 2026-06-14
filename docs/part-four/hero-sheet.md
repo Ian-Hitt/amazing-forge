@@ -84,7 +84,7 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
   </div>
 
   <h3>Readiness</h3>
-  <p class="af-hint">Start at 9. Cross off as it drops — Weak Hit &minus;1, Miss &minus;2. At 0 you're Out of Action and one Asset breaks. <b>Mend</b> (in a Challenge, self or ally): Strong +3 / Weak +2 / Miss &minus;1; no villain surge, can't revive a downed hero. <b>Recovery Scene</b> (fall back to regroup): recover up to your current max — but the villain surges one box, <b>and your max drops by 1</b>. <b>Your max starts at 9 and drops 1 each Recovery Scene</b> (floor 4) — circle it and slide it down; it resets to 9 at <b>Downtime</b> (between Story Arcs), which also restores Broken Assets.</p>
+  <p class="af-hint">Start at 9. Cross off as it drops — Weak Hit &minus;1, Miss &minus;2. At 0 you're Out of Action and one Asset breaks. <b>Mend</b> (any scene, self or ally): Strong +3 / Weak +2 / Miss &minus;1; no villain surge, can't revive a downed hero. <b>Recovery Scene</b> (fall back to regroup): recover up to your current max — but the villain surges one box, <b>and your max drops by 1</b>. <b>Your max starts at 9 and drops 1 each Recovery Scene</b> (floor 4) — circle it and slide it down; it resets to 9 at <b>Downtime</b> (between Story Arcs), which also restores Broken Assets.</p>
   <div class="af-track af-readiness">
     <span class="af-box">0</span>
     <span class="af-box">1</span>

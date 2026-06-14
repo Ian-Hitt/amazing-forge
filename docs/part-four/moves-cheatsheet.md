@@ -64,7 +64,7 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 
       <div class="af-move"><span class="af-mname">Aid Your Ally.</span> Point the roll at a teammate. <b>Strong:</b> ally gets +2. <b>Weak:</b> ally +1, you &minus;1. <b>Miss:</b> nothing, you &minus;2.</div>
 
-      <div class="af-move"><span class="af-mname">Mend.</span> In a Challenge, instead of pushing it &mdash; patch self or an ally. <b>Strong</b> +3 &middot; <b>Weak</b> +2 &middot; <b>Miss</b> &minus;1 Readiness. Never surges the villain; can't revive a downed hero.</div>
+      <div class="af-move"><span class="af-mname">Mend.</span> Any scene, on your turn (in a Challenge, instead of a Challenge Roll) &mdash; patch self or an ally. <b>Strong</b> +3 &middot; <b>Weak</b> +2 &middot; <b>Miss</b> &minus;1 Readiness. No cap; never surges the villain; can't revive a downed hero; heals only up to your current max.</div>
 
       <div class="af-move"><span class="af-mname">Recovery Scene.</span> Fall back &amp; regroup at a lull: party recovers up to its <b>current max</b> &mdash; but the <b>Antagonist Track surges one box</b> <i>and your Readiness max drops by 1</i> (start 9, floor 4). The only thing that advances the villain. Each regroup leaves you a little worse than the last.</div>
 

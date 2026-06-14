@@ -66,19 +66,19 @@ Used this way, Paying the Price becomes the engine of complications that the who
 
 ## Part B — Recovery
 
-Readiness only falls in the heat of the action, and there are three ways it comes back — a quick gamble *during* a Challenge, a **regroup** when the heroes fall back, and a clean slate **between Story Arcs.** And there's a twist that gives a Story Arc its mounting pressure: **your Readiness max drops a little each time you regroup.**
+Readiness only falls in the heat of the action, and there are three ways it comes back — a quick risky **Mend** any time there's a beat for it, a **regroup** when the heroes fall back, and a clean slate **between Story Arcs.** And there's a twist that gives a Story Arc its mounting pressure: **your Readiness max drops a little each time you regroup.**
 
 | Move | When | Heals | The catch |
 |---|---|---|---|
-| **Mend** | On your turn, *during* a Challenge | a little (risky) | a **Miss costs you 1 Readiness**; can't revive a downed hero |
+| **Mend** | Any scene, on your turn | a little (risky) | a **Miss costs you 1 Readiness**; can't revive a downed hero |
 | **Recovery Scene** | Falling back to regroup at a safe lull | the party up to its **current max** | **surges the Antagonist Track**, *and* **lowers your max by 1** |
 | **Downtime** | Between Story Arcs | full reset — **max back to 9** + Broken Assets restored | (none — the Story Arc's over) |
 
 All three use the same core move (Chapter 7) where a roll is called for. Only the Recovery Scene advances the villain — and only it wears down your ceiling.
 
-### Mend — the In-Challenge Gamble
+### Mend — the Quick Gamble
 
-In the thick of a Challenge, on your turn, you can **Mend** instead of pushing the Challenge forward — a fast, risky patch-up of a hurt hero, **yourself or a teammate.** It's the choice that makes Challenges more than a row of progress rolls: *do I press the advantage, or take a beat to patch up?* Describe the care — binding a wound, a quick spell, a swig from a flask, a steadying word — then roll, **+2** if one of your Assets fits the care, else **+1** (doubles upgrade, as always). The hero you tend:
+Any time the fiction gives you a beat — in the thick of a Challenge, *or* in an ordinary scene between them — a hero can **Mend:** a fast, risky patch-up of a hurt hero, **yourself or a teammate.** (A Challenge is just a scene with a track; you can patch up in either.) In a Challenge it's a real tactical choice — *press the advantage, or take a beat to patch up?* — since Mending is your action that turn instead of a Challenge Roll. Describe the care — binding a wound, a quick spell, a swig from a flask, a steadying word — then roll, **+2** if one of your Assets fits the care, else **+1** (doubles upgrade, as always). The hero you tend:
 
 | Roll | Result (for the tended hero) |
 |---|---|
@@ -86,12 +86,12 @@ In the thick of a Challenge, on your turn, you can **Mend** instead of pushing t
 | **Weak Hit (7–9)** | Recover **+2** Readiness. |
 | **Miss (6 or less)** | The patch goes wrong — **lose 1 Readiness.** (A hero already at low Readiness can be knocked **Out of Action** by a missed Mend.) |
 
-Two things keep Mend honest, and neither is a usage cap — it's a gamble, not a ration:
+Mend has **no usage cap** — it's a gamble, not a ration, and two things keep it honest:
 
 - **A Miss costs you.** Recovering is never guaranteed; reach for a patch when you're hurt but steady, not when you're one bad roll from the floor. When you're *that* low, the safe play is to fall back for a Recovery Scene instead.
-- **It costs your turn.** A Mend isn't a Challenge Roll — you didn't fill a box, didn't fend off the threat. The Challenge runs a beat longer because you stopped to patch up.
+- **It only heals up to your current Readiness max** — which sinks each time you regroup (below). So Mend smooths the ride between Recovery Scenes; it can never substitute for one or climb you back to full.
 
-Two more rules: **Mend never advances the Antagonist Track** (it's not a retreat — you stood your ground and bandaged up), and **Mend cannot revive an Out-of-Action hero** (only a Recovery Scene or Downtime brings someone back from 0 — see below). It heals only up to your **current Readiness max** (which drops as you regroup — below).
+Two more rules: **Mend never advances the Antagonist Track** (it's not a retreat — you stood your ground and bandaged up), and **Mend cannot revive an Out-of-Action hero** (only a Recovery Scene or Downtime brings someone back from 0 — see below).
 
 ### The Recovery Scene — Fall Back and Regroup
 
