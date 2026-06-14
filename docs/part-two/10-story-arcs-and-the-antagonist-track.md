@@ -186,7 +186,18 @@ Then let that answer reshape your setting and spark the **next** Story Arc — d
 
 To play past a single story, you **chain Stories together** — you don't run them all at once. Keep **one Story Arc in the spotlight at a time** (the Episode or Movie you're playing now), and let **threads** carry the longer questions between them.
 
-> **Setting up a long game.** Don't draw a giant grid on day one. Name where the whole thing is ultimately headed in a sentence or two — that's your **Series** (*"Master the elements and defeat the Fire Lord"*). Note a medium-term throughline as it sharpens — that's a **Season** (*"Master earthbending"*), tracked as a **thread**. Then just **play Episodes** — and when an Episode genuinely moves the season-long thread, mark a box on it. When a Season's thread is ready to pay off, you play the **Movie** that resolves it: the recurring villain is that Movie's antagonist, and beating them is its Showdown. Seasons end; a new one begins; the Series is the shape they add up to.
+**You don't have to plan a campaign — you grow one.** The only thing you ever set up *before* play is the **Story in front of you** (this Episode or Movie — Goal, Milestones, antagonist, tracks; a few minutes). The bigger shapes are **discovered, not declared:** you never "start a Series," you grow one. So if your group just wants to sit down and see what happens, here's the whole on-ramp:
+
+1. **Play one Episode.** A single sitting, complete on its own. If that's all you wanted, you've told a full story — done.
+2. **Want more? Play another.** Decide how connected it is: same heroes? same world? a villain who got away, a question left hanging?
+3. **When a throughline emerges** — a foe you keep circling, a goal that spans sessions — **name it as a thread.** A **Season** is now taking shape, after the fact.
+4. **Keep going,** and those Seasons add up to a **Series.** You grew a campaign without ever committing to one.
+
+Nothing penalizes you for not planning ahead: each Story **resets at Downtime**, and **threads and Growth are purely additive** — you can start a Season thread the moment you notice it, tracking something that was already building. (One pointer for a first time out: **start with an Episode, not a Movie** — an Episode is one sitting; a Movie is a 2–3 session commitment to a single story.)
+
+> **Coming from D&D — or any campaign game?** You can absolutely tell a long, *structured* epic with this. It just isn't one sprawling, never-resetting arc — it's a **saga built from self-contained stories**, exactly like a film series. *The Lord of the Rings* is a **Series** of three **Movies**; a franchise like the Marvel films is a Series of **Seasons** (its "phases"), each a run of Movies, threaded with character arcs and a big bad who recurs and finally falls in the finale. Same nesting you already know, just bigger — and you still only ever play one Story at a time. The structure comes from the *chaining and the threads*, not from one giant arc you have to plan up front.
+
+> **Setting up a long game.** If you *do* know you want the long haul, don't draw a giant grid on day one. Name where the whole thing is ultimately headed in a sentence or two — that's your **Series** (*"Master the elements and defeat the Fire Lord"*). Note a medium-term throughline as it sharpens — that's a **Season** (*"Master earthbending"*), tracked as a **thread**. Then just **play Episodes** — and when an Episode genuinely moves the season-long thread, mark a box on it. When a Season's thread is ready to pay off, you play the **Movie** that resolves it: the recurring villain is that Movie's antagonist, and beating them is its Showdown. Seasons end; a new one begins; the Series is the shape they add up to.
 
 Three habits keep a long game coherent:
 

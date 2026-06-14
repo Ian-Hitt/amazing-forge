@@ -85,6 +85,8 @@ Then take **Downtime** — the rest between Stories. For your first game it's si
 
 That's a complete adventure — world built, heroes made, Story Arc won. From here you can start a brand-new Story Arc, send these same heroes on another, or hand the dice to someone new.
 
+> **Want to keep going?** You don't have to plan a campaign to have one — just play another Episode next time, and let the connections grow on their own. Part Two (Chapter 10) shows how a string of Episodes quietly becomes a Season, and a long, structured saga, without anyone committing to it up front.
+
 ### When You Don't Know What Happens Next
 
 Sometimes the table goes quiet. A scene wraps up and nobody's sure what comes next, or a question stalls everyone. When that happens, here's how to get unstuck and keep the movie rolling.
