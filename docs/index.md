@@ -20,7 +20,8 @@ your first session.
 - [Start Your Story Arc](part-one/03-start-your-story-arc.md)
 - [The Roll](part-one/04-the-roll.md)
 - [Playing the Game](part-one/05-playing-the-game.md)
-- [Your First Session](part-one/06-your-first-session.md)
+- [When You're Stuck](part-one/06-when-youre-stuck.md)
+- [Your First Session](part-one/07-your-first-session.md)
 
 ## Full reference
 

@@ -1,6 +1,6 @@
-# Chapter 6 — Your First Session in Play
+# Your First Session in Play
 
-The best way to learn *Lights, Camera, Action!* is to watch it happen. What follows is a short example session — two players, no Guide, playing Co-op. The story is in normal text; the boxed notes point out each rule as it comes up, so you can see exactly how the pieces from the last five chapters fit together at a real table.
+The best way to learn *Lights, Camera, Action!* is to watch it happen. What follows is a short example session — two players, no Guide, playing Co-op. The story is in normal text; the boxed notes point out each rule as it comes up, so you can see exactly how the pieces from the previous chapters fit together at a real table.
 
 Our two players are **Maya** and **Leo.**
 

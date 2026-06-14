@@ -2,7 +2,7 @@
 
 Every table hits the same moment sooner or later: the scene resolves, the dice go quiet, and nobody's quite sure what happens next. **Ask the Oracle** is the move for exactly that moment. It's a short ladder of tools — name what you're chasing, do the obvious, or hand the question to the dice — that turns "uh… what now?" back into a scene you can play.
 
-Part One gave you the quick version in Chapter 5. This is the full toolkit: when to reach for it, all three rungs of the ladder, the complete **Story Spark** and **Ask the Dice** tables, and how to keep rolling without spiraling.
+Part One gave you the quick version in Chapter 6. This is the full toolkit: when to reach for it, all three rungs of the ladder, the complete **Story Spark** and **Ask the Dice** tables, and how to keep rolling without spiraling.
 
 > **One tool, two modes.** In **Co-op** play (no Guide), Ask the Oracle isn't a fallback — it's the *engine*. It's how the table generates a story nobody planned. In **Guided** play it's a Guide's best friend too: when you don't know an answer, you don't have to invent one alone — you can roll, or throw the question to the table. Either way, the goal is the same: get back to playing as fast as possible.
 
