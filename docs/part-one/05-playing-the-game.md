@@ -85,7 +85,7 @@ Then take **Downtime** — the rest between Stories. For your first game it's si
 
 That's a complete adventure — world built, heroes made, Story Arc won. From here you can start a brand-new Story Arc, send these same heroes on another, or hand the dice to someone new.
 
-> **Want to keep going?** You don't have to plan a campaign to have one — just play another Episode next time, and let the connections grow on their own. Part Two (Chapter 10) shows how a string of Episodes quietly becomes a Season, and a long, structured saga, without anyone committing to it up front.
+> **Want to keep going?** A string of Episodes can grow into a Season — and a long, structured saga — whether you plan the big arc ahead of time or discover it in play. Either way works, and Part Two (Chapter 10) shows how.
 
 ### When You Don't Know What Happens Next
 
