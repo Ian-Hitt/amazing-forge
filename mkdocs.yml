@@ -83,6 +83,7 @@ nav:
       - 18. Making NPCs: part-three/18-making-npcs.md
   - Part Four — Reference & Tools:
       - Introduction: part-four/00-introduction.md
+      - "The Whole Game — Rules Reference": part-four/rules-reference.md
       - Moves Cheatsheet: part-four/moves-cheatsheet.md
       - Hero Sheet: part-four/hero-sheet.md
       - Story Arc Tracker Sheet: part-four/story-arc-tracker-sheet.md
@@ -94,5 +95,3 @@ nav:
       - The Beat Sheet: part-four/beat-sheet.md
       - Teaching the Game: part-four/teaching-the-game.md
       - Design Notes: part-four/design-notes.md
-      - "Designer Reference — Core Mechanics (WIP)": part-four/reference-core-mechanics.md
-      - "Designer Reference — Math & Balance (WIP)": part-four/reference-math-and-balance.md
