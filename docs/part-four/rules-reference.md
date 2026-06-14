@@ -2,6 +2,8 @@
 
 *Every rule, no examples and no flavor — the complete mechanics, distilled. (Parts One–Three teach all of this in depth, with examples.)*
 
+**What this is.** A **genre-agnostic, zero-prep storytelling game** — the same rules tell *any* kind of story (fantasy, sci-fi, mystery, horror, heist, drama, and on). Nobody writes the adventure ahead of time: you build a world, play the heroes, and **make the story up together as you go**, either with a **Guide** or fully **Co-op** (no Guide at all). The mechanics below are the tools that turn that improvised story into cinematic drama — "prep" *is* play.
+
 ---
 
 ## The Core Roll
