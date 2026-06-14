@@ -19,10 +19,15 @@ Use this whenever your hero tries something risky and you want to find out how i
 
 ## Heroes
 
-Each player makes one hero in about two minutes — a pitch, four things they're great at, and one resource track.
+Each player makes one hero in about two minutes: a Concept, four Assets, and Readiness.
 
-- A **Concept** (one-line pitch) + **four Assets** + **Readiness**.
-- An Asset that fits a roll gives **+2**. The **first Asset is an Attribute** — one broad pick from **Strong / Quick / Clever / Sneaky / Charming** (max one per hero); the other three are specific.
+- **Concept** — a one-line "movie poster" pitch (*an Ice-Dragon Knight*, *a Grumpy Goblin Alchemist*).
+- **Four Assets** — by default, picked by answering four questions (you don't have to, but most heroes are built this way):
+    - ① **What are you best at?** Your **Attribute** — one broad pick from **Strong / Quick / Clever / Sneaky / Charming** (max one per hero).
+    - ② **What did you train in?** A **skill.**
+    - ③ **What's your signature item or companion?**
+    - ④ **One Wild pick** of your own. *(Swap among ②–④ freely if your concept wants.)*
+- An Asset that **fits a roll gives +2**. A good Asset is broad enough to come up often, specific enough that it clearly doesn't cover everything (the Attribute is the one deliberately broad pick).
 - **Readiness** starts at **9** — body, mind, and supplies in one track.
 
 ## Readiness, Pay the Price & Out of Action
@@ -55,6 +60,7 @@ When a moment is a real set-piece — a fight, a chase, a daring escape — play
 
 A Story Arc is the shape of a whole adventure: a race between the heroes' progress and the villain's. Here's how to build one, run the villain's clock, and win or lose it.
 
+- **Set it up:** name the **Goal** (a one-sentence victory condition), a few **Milestones** (concrete, pointable steps — you'll know each the moment it's done), and an **antagonist** (a person, faction, or *force* — a desert, a plague, a deadline; give it a face and a goal). Then draw the two tracks.
 - A **Story Arc** is one spine: a **Story Arc Track** (your progress — one box per **Milestone**) and a short **Antagonist Track** beneath it whose **top box is the reserved climax.**
 - **Sizes (the only two with boxes):** **Episode** = 3 Milestones / **2-box** Antagonist Track (one sitting). **Movie** = 6 Milestones / **3-box** (a ~2-hour feature over 2–3 sessions). **Season** and **Series** are *collections* of Story Arcs, not sizes — you run long by **chaining** Stories.
 - A **Milestone** ≈ 40 minutes of play (a few Scenes, 1–2 of them Challenges); mark a box on significant headway.
