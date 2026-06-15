@@ -83,7 +83,7 @@ Mix and match — a Story Arc can blend shapes (a journey that ends in a heist, 
 
 You've named the Goal, the Milestones, and the antagonist, and drawn the two tracks. One thing's left before the first scene: find out *how* the Story Arc opens. **Start a Story Arc** is the move that does it — a single roll, made once as the Story Arc begins, that hands you the tone of your launch and points you straight at your opening scene.
 
-Roll **2d6 + 1.** No Asset applies here — this isn't a test of any hero's skill; it's the world deciding how things stand as you set out, so you get the same **+1** floor as any off-Asset action. (And **doubles still trigger Oracle's Blessing**, bumping your opening up a tier.)
+Roll **2d6 + 1.** No Asset applies here — this isn't a test of any hero's skill; it's the world deciding how things stand as you set out, so you get the same **+1** floor as any off-Asset action. (And **doubles still trigger Oracle's Blessing**, bumping your opening up a tier — or, if you're already at a 10+, adding an extra stroke of good fortune to your launch.)
 
 Here's the important part: **this is a roll you can't fail.** All three results are good openings — they only differ in how much trouble is already on the heroes when the camera starts rolling.
 

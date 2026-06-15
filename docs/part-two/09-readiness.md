@@ -89,7 +89,7 @@ Any time the fiction gives you a beat — in the thick of a Challenge, *or* in a
 Mend has **no usage cap** — it's a gamble, not a ration, and two things keep it honest:
 
 - **A Miss costs you.** Recovering is never guaranteed; reach for a patch when you're hurt but steady, not when you're one bad roll from the floor. When you're *that* low, the safe play is to fall back for a Recovery Scene instead.
-- **It only heals up to your current Readiness max** — which sinks each time you regroup (below). So Mend smooths the ride between Recovery Scenes; it can never substitute for one or climb you back to full.
+- **It only heals up to your current Readiness max** — which sinks each time you regroup (below). So Mend smooths the ride between Recovery Scenes; it can never substitute for one or climb you back to full. (A hero already *at* their max can't be Mended any higher — patch the hurt, not the healthy. And since a Miss still costs 1, never gamble a Mend you don't need.)
 
 Two more rules: **Mend never advances the Antagonist Track** (it's not a retreat — you stood your ground and bandaged up), and **Mend cannot revive an Out-of-Action hero** (only a Recovery Scene or Downtime brings someone back from 0 — see below).
 
@@ -101,7 +101,7 @@ Whenever the heroes reach a safe lull — **most often between Challenges**, whe
 - **The Antagonist Track surges one box** (Chapter 10) — the villain gains ground while you breathe. The **only** thing that routinely advances the villain.
 - **Your Readiness max drops by 1** for the rest of this Story Arc (never below **4**).
 
-That last point is the engine of a Story Arc's rising pressure. Your max starts at **9.** The first time the party regroups, everyone comes back to **8**; the next time, **7**; and so on. So **each regroup leaves you a little worse off than the last** — recovery never fully bails you out, and the longer a Story Arc runs the more it tightens, pushing the heroes to reach the climax before they're worn too thin. The max **resets to 9 at Downtime**, when the Story Arc ends.
+That last point is the engine of a Story Arc's rising pressure. Your max starts at **9.** The first time the party regroups, everyone comes back to **8**; the next time, **7**; and so on. So **each regroup leaves you a little worse off than the last** — recovery never fully bails you out, and the longer a Story Arc runs the more it tightens, pushing the heroes to reach the climax before they're worn too thin. Once the max reaches its floor of **4** it stops dropping — but a regroup there still works the same way: the party heals back up to 4, and it still surges the villain. (Only the ceiling-drop halts at the floor; the Surge never does.) The max **resets to 9 at Downtime**, when the Story Arc ends.
 
 A Recovery Scene is **gated by the fiction** (you need a genuine safe moment) and **chosen by the players** — you take one when the bleed makes it worth a Surge and a notch off your ceiling. It's the quiet beat between dangers: the campfire, the patched wound, **the character scene.** Because the regroup is *where the villain gains ground,* slowing down for the cast is never free — which is exactly what gives those scenes stakes. (Falling back from a Challenge you're losing — what other games call fleeing — is just a Recovery Scene: you lose the Challenge's progress, the party recovers, the villain surges, the ceiling drops.)
 
@@ -126,7 +126,7 @@ You always start the next Story Arc fresh. Downtime is also where **threads** be
 
 ### Out of Action
 
-If a hero's Readiness hits **0**, they're **Out of Action** — too hurt, too rattled, or too tapped-out to keep going for now. They can't act until they recover. Remember the core promise: **heroes can't die.** Out of Action is the floor, and it's always temporary — but climbing back is exactly where the stakes live.
+If a hero's Readiness hits **0**, they're **Out of Action** — too hurt, too rattled, or too tapped-out to keep going for now. They can't act until they recover. Remember the core promise: **heroes can't die.** Out of Action is the floor, and it's always temporary — but climbing back is exactly where the stakes live. A hit that would carry a hero *past* 0 just stops at **0** — nothing overflows or carries over; Out of Action is as bad as it gets.
 
 **A downed hero can only be brought back by a full Recovery Scene** (the team falls back to get them on their feet) **or by Downtime.** A quick Mend can't do it — clawing someone off the floor takes a real regroup, not a battlefield patch. And that's the sting: getting a downed hero up **forces a Recovery Scene, which surges the villain** — even into the reserved climax box. Near the end of a Story Arc, *that's how you lose* (Chapter 10).
 
