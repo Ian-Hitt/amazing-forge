@@ -53,6 +53,8 @@ The core move has one variant: instead of pointing your action at a problem, you
 
 Aid uses the *exact same math* as any other roll, Pay the Price included — it's the core move aimed at a teammate, not a separate, gentler rule. The Readiness cost on a Weak Hit or Miss isn't a penalty for being generous; it's the same risk every action carries, because reaching out to help is itself an action in the Scene. Doubles upgrade the tier just as they always do (a Weak Hit Aid with doubles becomes a Strong Hit — your ally gets +2 and you pay nothing).
 
+**Aid stacks.** The bonus lands on top of whatever the ally's own roll already gets — including their own Asset's **+2** — and **more than one ally can pile on the same roll.** If two heroes both Aid the same action and both land a Strong Hit, that's **+4** waiting on the ally's next roll, before their own modifier. When several heroes can plausibly help, a well-set-up roll can become a near-sure thing — and that's the point: it's the reward for spending multiple turns to set one hero up for the moment that matters.
+
 Aid is the best use of a turn when the moment isn't in your wheelhouse: the hero whose Assets don't fit sets up the hero whose Assets do. Because a Challenge's popcorn turn order means everyone acts every round anyway, it gives that hero a real, satisfying job instead of a wasted turn.
 
 ### Oracle's Blessing & Outstanding Success

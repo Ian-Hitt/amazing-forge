@@ -55,6 +55,8 @@ The connective tissue of a Season is a **thread** — a B-plot or a character ar
 
 Threads are how a Season feels like more than a list of errands: the recurring rival, the season-long mystery, the romance, the hero's inner change. Give a thread a name and a handful of boxes, and mark one whenever the table agrees it truly advanced.
 
+> **Threads and Growth.** A **shared** thread the whole group is invested in feeds everyone's **Growth** like the main story does. A thread that belongs to **one** character feeds only *that hero's* Growth — a personal arc grows its own hero (Chapter 13).
+
 ### The Headway Rule
 
 Here's the rule that fills the Story Arc Track: **mark a box whenever the table agrees you've made significant headway — a Milestone.** For an Episode that's usually finishing a concrete step ("find the secret entrance"). The same rule fills a thread's boxes — at any turning point that clearly moves *that* thread (a hard-won conversation, a major discovery). If it feels like genuine progress, mark it.

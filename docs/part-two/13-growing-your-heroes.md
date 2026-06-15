@@ -12,7 +12,9 @@ But *Lights, Camera, Action!* grows heroes in an unusual way, and it's worth say
 
 Each hero has their own **Growth Track** — a simple row of boxes on the character sheet. It works like every other track in the game: you fill boxes in.
 
-The rule is one line: **every 3rd Milestone the party marks, each hero fills one box — that's 1 Growth.** Count every Milestone you mark, on *any* Story Arc; a single beat that marks a box on two arcs at once counts each one. The tally is **cumulative across your whole game and never resets** — so a 4-box Episode's leftover Milestone carries toward the next Growth instead of being wasted. Everyone at the table ticks together.
+The rule is one line: **every 3rd Milestone the party marks, each hero fills one box — that's 1 Growth.** Count every Milestone the party marks on the **main story** and on any **shared subplot** — a B-plot the whole group is invested in (Chapter 10). The tally is **cumulative across your whole game and never resets** — so a 4-box Episode's leftover Milestone carries toward the next Growth instead of being wasted. Everyone at the table ticks together.
+
+> **Personal subplots grow their own hero.** A B-plot that belongs to *one* character — their rivalry, their secret, their reckoning — is the exception: its Milestones count toward **that hero's Growth Track only,** not the whole party's. It's both fair and fitting (your personal arc levels *you*), and it's the brake that keeps a table full of personal B-plots from quietly leveling everyone several times over. A *shared* subplot the whole group cares about still feeds everyone, like the main story.
 
 **This ties Growth to how much story you actually play, not how many arcs you finish** — which quietly fixes two things. A long Story Arc you tell start-to-finish (a standalone Movie or Season) pays out *as you go,* so it's never starved waiting for the finish line. And dragging one arc lazily across many sessions earns no more than playing it briskly — there's nothing to game. Roughly: an Episode is 3 Milestones ≈ **1 Growth**, so you'll earn about **1 per session of play.** A Boon costs 2 (≈ every couple of sessions); a New Asset costs 5 (≈ every five).
 
@@ -35,7 +37,7 @@ A **Boon** is the everyday reward — cheap enough to pick up a couple of times 
 
 ### New Assets and the ceiling of six
 
-A hero starts with **four Assets** (Chapter 4) and can grow to **six**. The fifth and sixth are bought the same way — 5 Growth each — and follow all the normal rules for what makes a good Asset (broad enough to come up, specific enough that it clearly doesn't cover everything). One thing you **can't** buy is a second **Attribute** — the broad "Strong / Quick / Clever / Sneaky / Charming" pick is capped at one per hero, on purpose, so that wide **+1 floor** never closes up. New Assets are the specific kind.
+A hero starts with **four Assets** (Chapter 2) and can grow to **six**. The fifth and sixth are bought the same way — 5 Growth each — and follow all the normal rules for what makes a good Asset (broad enough to come up, specific enough that it clearly doesn't cover everything). One thing you **can't** buy is a second **Attribute** — the broad "Strong / Quick / Clever / Sneaky / Charming" pick is capped at one per hero, on purpose, so that wide **+1 floor** never closes up. New Assets are the specific kind.
 
 Six is the hard ceiling. There's a reason: your Assets are your competence, and if a hero had an Asset for *everything*, they'd be +2 on every roll — which is exactly the "Lucky / Good at everything" trap the Asset rules warn against. Six keeps a hero clearly capable without making the +2 meaningless.
 

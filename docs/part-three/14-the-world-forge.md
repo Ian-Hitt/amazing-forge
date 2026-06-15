@@ -1,10 +1,10 @@
 # Chapter 14 — Worldbuilding
 
-Building your world is its own kind of fun — a separate experience from playing the game, which is why it gets its own Part. This is Worldbuilding in full: what a *good* answer to each of the ten questions looks like, what to avoid, how the genre you picked bends every answer after it, how to run it whether the whole table builds it together or a Guide brings a world prepped, and a set of **idea tables** to roll on when you're stuck. Everything about making your world lives here, in one place.
+Building your world is its own kind of fun — a separate experience from playing the game, which is why it gets its own Part. This is Worldbuilding in full: what a *good* answer to each of the ten questions looks like, what to avoid, how the genre you picked bends every answer after it, and how to run it whether the whole table builds it together or a Guide brings a world prepped. Everything about making your world lives here, in one place.
 
 Part One gave you the short version: ten questions, answered out loud, and you're playing. You don't need any of this for your first game. Reach for it when you want a richer world, when an answer isn't sparking anything, or when a Guide wants to prep a setting ahead of time.
 
-> **Just want to roll?** If an answer won't come and you'd rather let the dice spark one, the **idea tables** at the end of this chapter give a quick roll for each of the ten questions. This chapter is about answering the questions *well*; those tables are there for when you're stuck.
+> **Stuck on a question?** Don't force it. Take the first decent answer and move on, or simply say *"we'll find out"* and leave it for play to settle. This chapter is about answering the questions *well* — but a deadlock on any one of them is never worth stalling the table.
 
 ---
 
@@ -37,7 +37,7 @@ This is the most important question, because it colors all nine that follow. The
 
 Then set the **tonal dial:** every genre runs from **playful** (light and a little silly — *Scooby-Doo* spooky) to **serious** (tense, where a loss really lands — *Stranger Things* spooky). Say where you're aiming out loud: *"spooky, but the fun kind, not the nightmares kind."*
 
-- **A good answer** picks a genre and a point on the dial. You can also **blend two** (sci-fi *and* horror) or invent your own feel — the game is genre-agnostic, and the six are just optional toolkits, not a cage. **Chapter 15 has a full Genre Kit for each one**, with character ideas and a genre-pointed take on these very questions.
+- **A good answer** picks a genre and a point on the dial. You can also **blend two** (sci-fi *and* horror) or invent your own feel — the game is genre-agnostic, and the genres are just optional toolkits, not a cage. **Chapter 15 has a full Genre Kit for each one**, with character ideas and a genre-pointed take on these very questions.
 - **Avoid** picking a *setting* here by mistake ("space," "pirates") — that's Question 2. The Genre is the emotional register the setting will be played in. The same pirate ship can host a giddy Adventure or a tense Horror.
 - **How it shapes the rest:** the Genre decides how hard the world bites. Two tables can share every other answer and play completely differently, because the Genre — and the dial — tell you what **Pay the Price** feels like: a cold trail and a slipped secret, or a real and frightening loss (Chapter 9).
 
@@ -138,7 +138,7 @@ This is true in both modes of play. With a Guide, the Guide facilitates — aski
 - **Keep it moving.** Aim for a minute or two per question. If a question sparks a great debate, ride it; if it stalls, take the first decent answer and move on. Momentum matters more than perfection.
 - **Say "yes, and."** Build on the first idea instead of competing with it. The second person's job is to make the first person's idea cooler, not replace it.
 - **Make sure every voice lands at least one answer.** Quieter players often have the most vivid ideas — ask them the questions directly.
-- **If you're stuck, roll.** The idea tables at the end of this chapter exist for exactly this. A roll breaks a deadlock and often sparks something nobody would have chosen on purpose.
+- **If you're stuck, don't force it.** Grab the nearest interesting answer, or say *"we'll find out"* and let play settle it later. A deadlock on one question isn't worth stalling the table — momentum beats a perfect answer.
 - **Write down only what you'll forget.** The vivid stuff sticks on its own. Jot the names and the Threats; trust your memory for the rest.
 
 ### The Alternative: A Guide Preps a World

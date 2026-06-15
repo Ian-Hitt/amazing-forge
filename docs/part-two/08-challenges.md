@@ -22,7 +22,7 @@ When you do draw a track, its length scales with the size of the player group:
 | **Medium** | players **+1** | 3 boxes |
 | **Hard** | players **+2** | 4 boxes |
 
-Bigger groups draw longer tracks so everyone gets to contribute, and harder Challenges eat more of the session (see Pacing, Chapter 13). If real-world time is running short, lean toward Easy; if you want a Scene to feel like a real grind, go Hard. Pick the size when you draw the track, based on how big the moment should feel.
+Bigger groups draw longer tracks so everyone gets to contribute, and harder Challenges eat more of the session (see Pacing, Chapter 12). If real-world time is running short, lean toward Easy; if you want a Scene to feel like a real grind, go Hard. Pick the size when you draw the track, based on how big the moment should feel.
 
 ### Start a Challenge (When You Pick the Fight)
 
@@ -71,8 +71,9 @@ The Challenge ends **the instant the last empty box is filled** — even if that
 When the track fills:
 
 - The obstacle is overcome and the heroes complete whatever this Scene was driving toward.
-- If clearing this Challenge was the payoff of a **Milestone**, check a box on the **Story Arc Track.** (A Milestone may take more than one Scene; a Challenge is sometimes the climactic Scene of a Milestone, not the whole thing — see Chapter 10.)
 - Wipe the scrap-paper Challenge Track clean. It's done its job.
+
+**A Challenge is not a Milestone.** A Challenge is just a Scene with extra camera time — winning one doesn't, by itself, mark a box on the **Story Arc Track.** You mark a **Milestone** when the *story* takes a significant step toward the heroes' goal (Chapter 10). That often coincides with clearing a big Challenge — but it's the *progress* that earns the Milestone, not the Challenge itself, and plenty of Challenges resolve without marking one at all.
 
 ### Falling Back from a Challenge
 

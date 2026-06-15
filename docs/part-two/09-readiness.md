@@ -132,6 +132,12 @@ If a hero's Readiness hits **0**, they're **Out of Action** — too hurt, too ra
 
 So being dropped genuinely **costs** you — it hands the villain ground at the worst possible time. Heroes still can't die, but going down is no longer a free respawn: it's the loss vector. (And it's why Mend can't revive — otherwise a cheap patch would dodge that cost entirely.) Out of Action also leaves a mark that outlasts the Scene, which is the next rule.
 
+**A knockdown doesn't pause the Scene.** When a hero drops to 0 in the middle of a Challenge, the action keeps going — the rest of the party can **push on to finish the Challenge or fall back**, their call. The Recovery Scene that revives the downed hero happens **once the Challenge ends, win or lose** — never mid-Challenge. So a single roll that fills the last box *and* drops its roller to 0 still **wins the Challenge first**; the regroup (and its Surge) follow in the aftermath.
+
+**More than one hero down at once?** It's still **one Recovery Scene and one Surge** — a single regroup gets the whole party back on their feet, however many were on the floor.
+
+**Playing solo?** With only one hero, going Out of Action means there's no one to fight on — that Challenge is **lost.** Pull back, then take the Recovery Scene to get back up.
+
 ### Broken Assets
 
 Going Out of Action breaks something. When a hero hits **0 Readiness, one of their Assets breaks** — the very thing that failed them in the moment they went down. The sword that shattered, the dragon whose wing was hurt, the nerve that finally cracked: name it from the fiction. (The Guide calls which Asset breaks; in Co-op the table agrees — defaulting to whatever the hero was leaning on when they dropped.)
