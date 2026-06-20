@@ -57,14 +57,17 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
   .af-moves { display: block !important; margin-top: 0.5rem; }
   .af-rightcol { display: contents; }
   .af-fam + .af-fam, .af-rightcol .af-fam { margin-top: 0.7rem; }
-  /* Tighten spacing so the card packs onto as few pages as possible. */
+  /* Break the card cleanly: Action Moves on page 1, Progress + Frame on page 2. */
+  .af-fam.af-progress { break-before: page; page-break-before: always; margin-top: 0; }
+  /* Tighten spacing so each half stays on a single page (Progress + Frame + footer
+     must not push a move to a third page). */
   .af-sheet { padding: 0.6rem 0.85rem; }
-  .af-sheet .af-title { font-size: 1.35rem; }
-  .af-legend { font-size: 0.74rem; line-height: 1.36; padding: 0.4rem 0.6rem; }
-  .af-fam .af-famsub { margin-bottom: 0.35rem; }
-  .af-move { font-size: 0.77rem; line-height: 1.32; padding: 0.28rem 0.48rem; margin-bottom: 0.28rem; }
-  .af-tier { margin-top: 0.18rem; }
-  .af-fam h3 { font-size: 0.98rem; margin-bottom: 0.05rem; }
+  .af-sheet .af-title { font-size: 1.3rem; }
+  .af-legend { font-size: 0.72rem; line-height: 1.34; padding: 0.38rem 0.55rem; }
+  .af-fam .af-famsub { font-size: 0.72rem; margin-bottom: 0.3rem; }
+  .af-move { font-size: 0.72rem; line-height: 1.3; padding: 0.26rem 0.46rem; margin-bottom: 0.26rem; }
+  .af-tier { font-size: 0.71rem; margin-top: 0.16rem; }
+  .af-fam h3 { font-size: 0.96rem; margin-bottom: 0.05rem; }
 }
 </style>
 

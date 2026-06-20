@@ -48,7 +48,10 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
   /* Keep each section heading with its content, and never split a block across a page. */
   .af-sheet h3 { break-after: avoid; page-break-after: avoid; }
   .af-line, .af-scale, .af-trackgrid, .af-row, .af-ms, .af-notes, .af-ref { break-inside: avoid; page-break-inside: avoid; }
-  /* Compact the sheet so a whole Story Arc fits on one printed page. */
+  /* Break the sheet cleanly: Goal + Size + Tracks on page 1, Antagonist +
+     Milestones + Notes on page 2. */
+  .af-break { break-before: page; page-break-before: always; }
+  /* Compact each half so it stays on a single page. */
   .af-sheet { padding: 0.65rem 0.9rem; max-width: none; }
   .af-sheet .af-title { font-size: 1.3rem; }
   .af-sheet .af-sub { margin-bottom: 0.4rem; }
@@ -98,7 +101,7 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
   </div>
   <p class="af-hint">Episode: 3 Story Arc / 2 Antagonist boxes (box&nbsp;2 = the &#9733; climax). Movie: 6 Story Arc / 3 Antagonist (box&nbsp;3 = the &#9733; climax). Mark your last villain box as the climax. A villain box fills each time the heroes take a <strong>Recovery Scene</strong> (fall back to regroup); a quick <strong>Mend</strong> never advances it.</p>
 
-  <h3>The Antagonist</h3>
+  <h3 class="af-break">The Antagonist</h3>
   <div class="af-line"><label>Who / what</label><span class="af-fill"></span></div>
   <div class="af-line"><label>What it wants</label><span class="af-fill"></span></div>
   <p class="af-hint">Give it a face &mdash; even a force (a desert, a plague, a deadline) counts. When an Antagonist box fills, play out the Surge: the villain just hit a milestone of their own.</p>

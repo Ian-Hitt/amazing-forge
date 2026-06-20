@@ -19,7 +19,7 @@ See **Making Locations** ([Chapter 17](../part-three/17-making-locations.md)) fo
 .af-sheet .af-sub { text-align: center; font-size: 0.85rem; opacity: 0.7; margin: 0.1rem 0 0.6rem; }
 .af-hint { font-size: 0.8rem; opacity: 0.7; font-style: italic; margin: 0.2rem 0 0.6rem; }
 .af-log { display: grid; grid-template-columns: 1.3fr 1.2fr 1.8fr 0.9fr; border-top: 1.5px solid #555; }
-.af-log .af-h { font-weight: 700; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.03em; padding: 0.35rem 0.5rem; border-bottom: 1.5px solid #555; background: rgba(211,84,0,0.07); }
+.af-log .af-h { font-weight: 700; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.03em; white-space: nowrap; padding: 0.35rem 0.5rem; border-bottom: 1.5px solid #555; background: rgba(211,84,0,0.07); }
 .af-log .af-c { min-height: 1.9rem; border-bottom: 1px solid #ccc; border-right: 1px dashed #ddd; }
 .af-log .af-c:nth-child(4n) { border-right: none; }
 .af-ref { font-size: 0.8rem; opacity: 0.85; border-top: 1px dashed #aaa; margin-top: 1rem; padding-top: 0.6rem; }
@@ -54,8 +54,8 @@ See **Making Locations** ([Chapter 17](../part-three/17-making-locations.md)) fo
 
   <div class="af-log">
     <div class="af-h">Name</div>
-    <div class="af-h">What it is &mdash; its function</div>
-    <div class="af-h">The detail &amp; the open hook</div>
+    <div class="af-h">Function</div>
+    <div class="af-h">Detail &amp; hook</div>
     <div class="af-h">Back?</div>
     <div class="af-c"></div><div class="af-c"></div><div class="af-c"></div><div class="af-c"></div>
     <div class="af-c"></div><div class="af-c"></div><div class="af-c"></div><div class="af-c"></div>

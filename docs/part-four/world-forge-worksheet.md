@@ -33,6 +33,16 @@ The ten Worldbuilding questions with room to write. Fill it in at the table duri
   .af-sheet { box-shadow: none !important; border-color: #000 !important; }
   /* Keep each question (number + prompt + hint + answer line) together on one page. */
   .af-q, .af-ref { break-inside: avoid; page-break-inside: avoid; }
+  /* Force a clean 5/5 split so it is always two pages, even on A4. */
+  .af-break { break-before: page; page-break-before: always; }
+  /* Compact each question so five fit on a page with headroom. */
+  .af-sheet { padding: 0.6rem 0.85rem; max-width: none; }
+  .af-sheet .af-title { font-size: 1.3rem; }
+  .af-sheet .af-sub { margin-bottom: 0.35rem; }
+  .af-q { margin: 0.45rem 0; }
+  .af-q .af-hint { font-size: 0.72rem; margin: 0.08rem 0 0.2rem 1.9rem; }
+  .af-q .af-fill { min-height: 1.2rem; margin: 0.25rem 0 0 1.9rem; }
+  .af-ref { margin-top: 0.5rem; padding-top: 0.4rem; font-size: 0.72rem; }
 }
 </style>
 
@@ -70,7 +80,7 @@ The ten Worldbuilding questions with room to write. Fill it in at the table duri
     <div class="af-fill"></div>
   </div>
 
-  <div class="af-q">
+  <div class="af-q af-break">
     <div class="af-qhead"><span class="af-qnum">6.</span><span><span class="af-qname">The Leadership</span> &mdash; <span class="af-qask">Who's in charge?</span></span></div>
     <p class="af-hint">Name who, and hint how secure. A cracked power structure plays better than a stable one.</p>
     <div class="af-fill"></div>
