@@ -5,11 +5,6 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
 > **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus are hidden automatically, so you'll get just the sheet.
 
 <style>
-@media print {
-  .md-header, .md-tabs, .md-sidebar, .md-footer, .md-content__button, .md-nav { display: none !important; }
-  .md-main__inner, .md-content { margin: 0 !important; }
-  .af-sheet { box-shadow: none !important; border-color: #000 !important; }
-}
 .af-sheet {
   border: 2px solid #d35400;
   border-radius: 8px;
@@ -34,7 +29,7 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
 .af-quest .af-box { border-color: #2e7d32; }
 .af-anta .af-box { border-color: #c0392b; }
 .af-scalebar { display: flex; gap: 0.3rem; font-size: 0.65rem; opacity: 0.7; margin-left: 0; }
-.af-scalebar span { width: 1.55rem; text-align: center; flex: 0 0 auto; }
+.af-scalebar span { width: 1.55rem; text-align: center; flex: 0 0 auto; white-space: nowrap; overflow: visible; }
 .af-ms { display: flex; align-items: flex-end; gap: 0.5rem; margin: 0.3rem 0; font-size: 0.85rem; }
 .af-ms .af-num { font-weight: 700; width: 1.4rem; }
 .af-ms .af-fill { min-height: 1.2rem; }
@@ -42,6 +37,29 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
 .af-notes { border: 1px solid #bbb; border-radius: 6px; min-height: 3.5rem; margin-top: 0.3rem; }
 .af-ref { font-size: 0.8rem; opacity: 0.85; border-top: 1px dashed #aaa; margin-top: 1rem; padding-top: 0.6rem; }
 .af-ref b { color: #d35400; }
+
+@media print {
+  .md-header, .md-tabs, .md-sidebar, .md-footer, .md-content__button, .md-nav { display: none !important; }
+  .md-main__inner, .md-content { margin: 0 !important; }
+  /* Print just the sheet: drop the page heading, intro prose, and printing tip. */
+  .md-content__inner { margin: 0 !important; padding: 0 !important; }
+  .md-content__inner > *:not(.af-sheet) { display: none !important; }
+  .af-sheet { box-shadow: none !important; border-color: #000 !important; }
+  /* Keep each section heading with its content, and never split a block across a page. */
+  .af-sheet h3 { break-after: avoid; page-break-after: avoid; }
+  .af-line, .af-scale, .af-trackgrid, .af-row, .af-ms, .af-notes, .af-ref { break-inside: avoid; page-break-inside: avoid; }
+  /* Compact the sheet so a whole Story Arc fits on one printed page. */
+  .af-sheet { padding: 0.65rem 0.9rem; max-width: none; }
+  .af-sheet .af-title { font-size: 1.3rem; }
+  .af-sheet .af-sub { margin-bottom: 0.4rem; }
+  .af-sheet h3 { margin: 0.5rem 0 0.2rem; font-size: 1.02rem; }
+  .af-hint { font-size: 0.7rem; line-height: 1.3; margin: 0.15rem 0 0.3rem; }
+  .af-line { margin: 0.3rem 0; }
+  .af-scale { gap: 1rem; }
+  .af-ms { margin: 0.22rem 0; }
+  .af-notes { min-height: 2.6rem; }
+  .af-ref { margin-top: 0.5rem; padding-top: 0.4rem; font-size: 0.72rem; }
+}
 </style>
 
 <div class="af-sheet" markdown="0">

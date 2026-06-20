@@ -7,11 +7,6 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 > **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus are hidden automatically, so you'll get just the card.
 
 <style>
-@media print {
-  .md-header, .md-tabs, .md-sidebar, .md-footer, .md-content__button, .md-nav { display: none !important; }
-  .md-main__inner, .md-content { margin: 0 !important; }
-  .af-sheet { box-shadow: none !important; border-color: #000 !important; }
-}
 .af-sheet {
   border: 2px solid #d35400;
   border-radius: 8px;
@@ -40,6 +35,37 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 .af-ref { font-size: 0.78rem; opacity: 0.85; border-top: 1px dashed #aaa; margin-top: 0.9rem; padding-top: 0.55rem; }
 .af-ref b { color: #d35400; }
 @media (max-width: 640px) { .af-moves { grid-template-columns: 1fr; } }
+
+@media print {
+  .md-header, .md-tabs, .md-sidebar, .md-footer, .md-content__button, .md-nav { display: none !important; }
+  .md-main__inner, .md-content { margin: 0 !important; }
+  /* Print just the card: drop the page heading, intro prose, and printing tip. */
+  .md-content__inner { margin: 0 !important; padding: 0 !important; }
+  .md-content__inner > *:not(.af-sheet) { display: none !important; }
+  .af-sheet { box-shadow: none !important; border-color: #000 !important; }
+  /* Never split an individual move, the legend, or the footer across a page. */
+  .af-move, .af-legend, .af-ref { break-inside: avoid; page-break-inside: avoid; }
+  /* Keep a family heading with its first move. */
+  .af-fam h3 { break-after: avoid; page-break-after: avoid; }
+  /* The screen layout is a 2-column grid of two giant cells (all Action in one,
+     Progress+Frame in the other). A grid cell taller than a page fragments
+     unreliably and slices move boxes in half; CSS multi-columns paginate no better,
+     and flattening the wrappers with display:contents trips a Chrome print bug that
+     drops the body text. The robust fix: for print, flow the moves as one linear,
+     full-width column — each box paginates as an atomic block, so a move is never
+     cut across a page. */
+  .af-moves { display: block !important; margin-top: 0.5rem; }
+  .af-rightcol { display: contents; }
+  .af-fam + .af-fam, .af-rightcol .af-fam { margin-top: 0.7rem; }
+  /* Tighten spacing so the card packs onto as few pages as possible. */
+  .af-sheet { padding: 0.6rem 0.85rem; }
+  .af-sheet .af-title { font-size: 1.35rem; }
+  .af-legend { font-size: 0.74rem; line-height: 1.36; padding: 0.4rem 0.6rem; }
+  .af-fam .af-famsub { margin-bottom: 0.35rem; }
+  .af-move { font-size: 0.77rem; line-height: 1.32; padding: 0.28rem 0.48rem; margin-bottom: 0.28rem; }
+  .af-tier { margin-top: 0.18rem; }
+  .af-fam h3 { font-size: 0.98rem; margin-bottom: 0.05rem; }
+}
 </style>
 
 <div class="af-sheet" markdown="0">

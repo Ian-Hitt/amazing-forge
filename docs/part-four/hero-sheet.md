@@ -5,11 +5,6 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
 > **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus and navigation are hidden automatically, so you'll get just the sheet. One sheet per hero.
 
 <style>
-@media print {
-  .md-header, .md-tabs, .md-sidebar, .md-footer, .md-content__button, .md-nav { display: none !important; }
-  .md-main__inner, .md-content { margin: 0 !important; }
-  .af-sheet { box-shadow: none !important; border-color: #000 !important; }
-}
 .af-sheet {
   border: 2px solid #d35400;
   border-radius: 8px;
@@ -38,6 +33,30 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
 .af-notes { border: 1px solid #bbb; border-radius: 6px; min-height: 4.5rem; margin-top: 0.3rem; }
 .af-ref { font-size: 0.8rem; opacity: 0.85; border-top: 1px dashed #aaa; margin-top: 1rem; padding-top: 0.6rem; }
 .af-ref b { color: #d35400; }
+
+@media print {
+  .md-header, .md-tabs, .md-sidebar, .md-footer, .md-content__button, .md-nav { display: none !important; }
+  .md-main__inner, .md-content { margin: 0 !important; }
+  /* Print just the sheet: drop the page heading, intro prose, and printing tip. */
+  .md-content__inner { margin: 0 !important; padding: 0 !important; }
+  .md-content__inner > *:not(.af-sheet) { display: none !important; }
+  .af-sheet { box-shadow: none !important; border-color: #000 !important; }
+  /* Keep each section heading with its content, and never split a block across a page. */
+  .af-sheet h3 { break-after: avoid; page-break-after: avoid; }
+  .af-line, .af-asset, .af-track, .af-notes, .af-ref { break-inside: avoid; page-break-inside: avoid; }
+  /* Compact the sheet so a whole hero fits on one printed page. */
+  .af-sheet { padding: 0.65rem 0.9rem; max-width: none; }
+  .af-sheet .af-title { font-size: 1.3rem; }
+  .af-sheet .af-sub { margin-bottom: 0.4rem; }
+  .af-sheet h3 { margin: 0.55rem 0 0.2rem; font-size: 1.02rem; }
+  .af-hint { font-size: 0.7rem; line-height: 1.3; margin: 0.15rem 0 0.3rem; }
+  .af-line { margin: 0.3rem 0; }
+  .af-assets { gap: 0.4rem 1rem; }
+  .af-asset { padding: 0.35rem 0.5rem; }
+  .af-asset .af-boon { margin-top: 0.25rem; }
+  .af-notes { min-height: 2.6rem; }
+  .af-ref { margin-top: 0.5rem; padding-top: 0.4rem; font-size: 0.72rem; }
+}
 </style>
 
 <div class="af-sheet" markdown="0">

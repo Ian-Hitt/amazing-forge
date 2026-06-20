@@ -5,11 +5,6 @@ The ten Worldbuilding questions with room to write. Fill it in at the table duri
 > **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus are hidden automatically, so you'll get just the worksheet. One sentence per answer is plenty — vivid beats complete, and "we'll find out" is a fine answer.
 
 <style>
-@media print {
-  .md-header, .md-tabs, .md-sidebar, .md-footer, .md-content__button, .md-nav { display: none !important; }
-  .md-main__inner, .md-content { margin: 0 !important; }
-  .af-sheet { box-shadow: none !important; border-color: #000 !important; }
-}
 .af-sheet {
   border: 2px solid #d35400;
   border-radius: 8px;
@@ -28,6 +23,17 @@ The ten Worldbuilding questions with room to write. Fill it in at the table duri
 .af-q .af-fill { border-bottom: 1.5px solid #888; min-height: 1.45rem; margin: 0.35rem 0 0 1.9rem; }
 .af-ref { font-size: 0.8rem; opacity: 0.85; border-top: 1px dashed #aaa; margin-top: 1rem; padding-top: 0.6rem; }
 .af-ref b { color: #d35400; }
+
+@media print {
+  .md-header, .md-tabs, .md-sidebar, .md-footer, .md-content__button, .md-nav { display: none !important; }
+  .md-main__inner, .md-content { margin: 0 !important; }
+  /* Print just the worksheet: drop the page heading, intro prose, and printing tip. */
+  .md-content__inner { margin: 0 !important; padding: 0 !important; }
+  .md-content__inner > *:not(.af-sheet) { display: none !important; }
+  .af-sheet { box-shadow: none !important; border-color: #000 !important; }
+  /* Keep each question (number + prompt + hint + answer line) together on one page. */
+  .af-q, .af-ref { break-inside: avoid; page-break-inside: avoid; }
+}
 </style>
 
 <div class="af-sheet" markdown="0">

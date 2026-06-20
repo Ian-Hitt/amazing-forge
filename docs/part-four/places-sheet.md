@@ -7,11 +7,6 @@ One page to remember everywhere the heroes go. The smugglers' den, the half-floo
 See **Making Locations** ([Chapter 17](../part-three/17-making-locations.md)) for the generator that fills these in.
 
 <style>
-@media print {
-  .md-header, .md-tabs, .md-sidebar, .md-footer, .md-content__button, .md-nav { display: none !important; }
-  .md-main__inner, .md-content { margin: 0 !important; }
-  .af-sheet { box-shadow: none !important; border-color: #000 !important; }
-}
 .af-sheet {
   border: 2px solid #d35400;
   border-radius: 8px;
@@ -29,6 +24,26 @@ See **Making Locations** ([Chapter 17](../part-three/17-making-locations.md)) fo
 .af-log .af-c:nth-child(4n) { border-right: none; }
 .af-ref { font-size: 0.8rem; opacity: 0.85; border-top: 1px dashed #aaa; margin-top: 1rem; padding-top: 0.6rem; }
 .af-ref b { color: #d35400; }
+
+@media print {
+  .md-header, .md-tabs, .md-sidebar, .md-footer, .md-content__button, .md-nav { display: none !important; }
+  .md-main__inner, .md-content { margin: 0 !important; }
+  /* Print just the sheet: drop the page heading, intro prose, chapter link, and printing tip. */
+  .md-content__inner { margin: 0 !important; padding: 0 !important; }
+  .md-content__inner > *:not(.af-sheet) { display: none !important; }
+  .af-sheet { box-shadow: none !important; border-color: #000 !important; }
+  /* Let page breaks fall between rows, never through a cell. */
+  .af-hint { break-after: avoid; page-break-after: avoid; }
+  .af-h, .af-c, .af-ref { break-inside: avoid; page-break-inside: avoid; }
+  /* Compact so the whole log fits on one printed page. */
+  .af-sheet { padding: 0.65rem 0.9rem; max-width: none; }
+  .af-sheet .af-title { font-size: 1.3rem; }
+  .af-sheet .af-sub { margin-bottom: 0.35rem; }
+  .af-hint { font-size: 0.72rem; margin: 0.2rem 0 0.5rem; }
+  .af-log .af-c { min-height: 1.38rem; }
+  .af-log .af-h { padding: 0.28rem 0.5rem; }
+  .af-ref { margin-top: 0.5rem; padding-top: 0.4rem; font-size: 0.72rem; }
+}
 </style>
 
 <div class="af-sheet" markdown="0">
