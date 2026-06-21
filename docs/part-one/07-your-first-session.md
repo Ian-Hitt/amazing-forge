@@ -73,7 +73,7 @@ STORY ARC TRACK:   [X]  [ ]  [ ]
 
 Inside, a vast crack splits the cave floor — a chasm so deep they can't see the bottom, with a freezing updraft howling out of it. This feels big and dangerous, so they agree it deserves to be played out.
 
-> **▶ Rules note — Regular Roll or Challenge? (Chapter 5).** This is a "how much screen time?" call. Crossing the chasm is a set-piece they want to savor, so they make it a **Challenge.** With 2 players, an Easy Challenge is **2 boxes.**
+> **▶ Rules note — Regular Roll or Challenge? (Chapter 5).** This is a "how much screen time?" call. Crossing the chasm is a set-piece they want to savor, so they make it a **Challenge.** It's a real moment, not a quick beat, so they go **Medium** — and with 2 players a Medium Challenge is **2 boxes** (Chapter 8: Easy = players −1, Medium = players, Hard = players +1).
 
 ```
 CHALLENGE TRACK:   [ ]  [ ]

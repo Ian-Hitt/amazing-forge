@@ -17,7 +17,7 @@ How do you choose? Ask the group: *is this a quick blip on the way to something 
 
 When the group decides a moment is big enough to be a Challenge, here's how to run it.
 
-**1. Draw the track.** Draw a row of empty boxes. For your first game, use the easy size: **one box per player.** Three players, three boxes. (Want it tougher? Part Two shows you how to scale difficulty.)
+**1. Draw the track.** Draw a row of empty boxes. For your first game, use this starter size: **one box per player.** Three players, three boxes. (Want it quicker or tougher? Part Two shows you how to scale difficulty up and down.)
 
 ```
 [ ]  [ ]  [ ]

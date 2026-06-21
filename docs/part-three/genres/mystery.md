@@ -65,7 +65,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Story Arc: who poisoned the festival well? (an Episode). First Milestone: find the means. The table sets up an Investigation Challenge — Easy, 3 boxes, the track being the clues that add up to how it was done.*
+> *The Story Arc: who poisoned the festival well? (an Episode). First Milestone: find the means. The table sets up an Investigation Challenge — Easy, 2 boxes, the track being the clues that add up to how it was done.*
 >
 > **Guide:** The herbalist's shop is shut, but the back window's cracked open. You've talked your way to the doorstep of old Maren, who sold remedies at the fair. She's polite, but she keeps glancing at the back room. What do you do?
 > **Player (Devi):** I don't push. I use *A Knack for the Right Question* — I ask her, kindly, whether anyone's bought silverleaf lately, "since it spoils so easily this time of year."

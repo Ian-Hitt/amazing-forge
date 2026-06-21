@@ -77,28 +77,28 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
   <div class="af-assets">
     <div class="af-asset">
       <span class="af-hint" style="display:block;margin-bottom:0.2rem;">1. Attribute (circle one): Strong · Quick · Clever · Sneaky · Charming</span>
-      <span class="af-fill"></span>
+      <div class="af-fill"></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-broken"><span class="af-box"></span> Broken</div>
     </div>
     <div class="af-asset">
       <span class="af-hint" style="display:block;margin-bottom:0.2rem;">2. Skill or Expertise</span>
-      <span class="af-fill"></span>
+      <div class="af-fill"></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-broken"><span class="af-box"></span> Broken</div>
     </div>
     <div class="af-asset">
       <span class="af-hint" style="display:block;margin-bottom:0.2rem;">3. Item, Companion, or Connection</span>
-      <span class="af-fill"></span>
+      <div class="af-fill"></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-broken"><span class="af-box"></span> Broken</div>
     </div>
     <div class="af-asset">
       <span class="af-hint" style="display:block;margin-bottom:0.2rem;">4. Wild (your call — not a 2nd Attribute)</span>
-      <span class="af-fill"></span>
+      <div class="af-fill"></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-broken"><span class="af-box"></span> Broken</div>

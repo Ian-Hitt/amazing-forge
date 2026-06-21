@@ -58,6 +58,13 @@ Rather than pick from a fixed list, you **build** a Boon from two pieces:
 
 You can attach up to **two Boons** to any one Asset.
 
+> **The whole build, in one example.** Say your hero has the Asset *Trick Arrows,* and you want them to be deadly in a fight.
+>
+> 1. **Pick an Effect.** You choose *Upgrade* (bump one result a tier — a Weak shot becomes a Strong one). It's a **Strong** Effect, so on its own it would fire **once per Session.**
+> 2. **Pick a Trigger.** Instead of leaving it open, you lock it to a situation: *in a fight.* Naming a situation bumps a Strong Effect one step more often — so now it fires **once per Scene.**
+>
+> Done. Your Boon is *"**Trick Arrows** — Upgrade, in a fight, once per Scene."* You never had to decide the cadence yourself; the build read it off for you. (This one's common enough it has a name — it's the **In My Element** recipe below.) Every Boon is built exactly this way: **pick an Effect, pick a Trigger, read off how often it fires.**
+
 ### Step 1 — Pick an Effect
 
 | Effect | What it does | Strength |
@@ -82,7 +89,18 @@ Here's the elegant part: **you don't choose how often a Boon fires — the build
 
 So the broadest Trigger — *"any time this Asset applies"* — gives you an Effect at its base cadence. Naming a situation is what *buys* a Strong Effect the right to fire every Scene. That's the trade in one rule: **the narrower the moment, the more often you get to shine in it.** (Mild Effects are already once per Scene, so they don't need a situation — though pinning one on can make for a better story.)
 
-Generic Triggers any hero can grab: *in a fight · on a chase or escape · reading a person or a room · combing a scene for clues · when you're outnumbered or afraid and press on · while protecting someone · working a machine or strange tech · when the plan falls apart · in a heart-to-heart, or standing your ground · scavenging, or making do with nothing.* Your genre's kit will have more, sharper ones.
+**Generic Triggers any hero can grab** — your genre's kit (Chapter 15) will have more, and sharper:
+
+- In a fight
+- On a chase or escape
+- Reading a person or a room
+- Combing a scene for clues
+- When you're outnumbered or afraid and press on
+- While protecting someone
+- Working a machine or strange tech
+- When the plan falls apart
+- In a heart-to-heart, or standing your ground
+- Scavenging, or making do with nothing
 
 ### Recipes
 
@@ -99,7 +117,12 @@ Mixing your own is the power move, but you don't have to. These pre-built combos
 | **Scout** | any time | Free Oracle | once/Scene |
 | **Take the Hit** | any time | Take the Price | once/Session |
 
-Picture them in play. *My Loyal Wolf* + **Take the Price** (*any time*): the trap snaps shut, and the Wolf shoulders you clear and takes the fall instead. *Trick Arrows* + **Upgrade** locked to *in a fight* (that's **In My Element**): a so-so shot (Weak) becomes the perfect ricochet (Strong) the moment the blades come out. *Old Family Sword* + **+1 to the roll** (**Dig Deep**): the blow has to land *right now*, so you put everything behind it (+1) and trust the steel. *Healing Herbs* + **Steady Hands** (**Mender**): the same poultice that patches you up does a little more, and works just as well on the friend bleeding beside you.
+Picture them in play:
+
+- ***My Loyal Wolf*** + **Take the Price** (*any time*) — the trap snaps shut, and the Wolf shoulders you clear and takes the fall instead.
+- ***Trick Arrows*** + **Upgrade** locked to *in a fight* (that's **In My Element**) — a so-so shot (Weak) becomes the perfect ricochet (Strong) the moment the blades come out.
+- ***Old Family Sword*** + **+1 to the roll** (**Dig Deep**) — the blow has to land *right now,* so you put everything behind it (+1) and trust the steel.
+- ***Healing Herbs*** + **Steady Hands** (**Mender**) — the same poultice that patches you up does a little more, and works just as well on the friend bleeding beside you.
 
 ### The two rules behind it all
 
