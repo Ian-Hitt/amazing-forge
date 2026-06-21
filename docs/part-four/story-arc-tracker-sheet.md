@@ -28,10 +28,11 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
 .af-box { display: inline-block; width: 1.55rem; height: 1.55rem; border: 1.5px solid #555; border-radius: 4px; text-align: center; line-height: 1.55rem; font-size: 0.72rem; flex: 0 0 auto; }
 .af-quest .af-box { border-color: #2e7d32; }
 .af-anta .af-box { border-color: #c0392b; }
-.af-scalebar { display: flex; gap: 0.3rem; font-size: 0.65rem; opacity: 0.7; margin-left: 0; }
+.af-scalebar { display: flex; gap: 0.3rem; font-size: 0.6rem; font-weight: 700; opacity: 0.8; margin-left: 0; }
 .af-scalebar span { width: 1.55rem; text-align: center; flex: 0 0 auto; white-space: nowrap; overflow: visible; }
-.af-ms { display: flex; align-items: flex-end; gap: 0.5rem; margin: 0.3rem 0; font-size: 0.85rem; }
-.af-ms .af-num { font-weight: 700; width: 1.4rem; }
+.af-ms { display: flex; align-items: flex-end; gap: 0.45rem; margin: 0.3rem 0; font-size: 0.85rem; }
+.af-ms .af-mschk { width: 1.05rem; height: 1.05rem; border: 1.5px solid #555; border-radius: 3px; display: inline-block; flex: 0 0 auto; margin-bottom: 0.1rem; }
+.af-ms .af-num { font-weight: 700; width: 1.1rem; }
 .af-ms .af-fill { min-height: 1.2rem; }
 .af-mscols { display: grid; grid-template-columns: 1fr 1fr; gap: 0 1.4rem; }
 .af-notes { border: 1px solid #bbb; border-radius: 6px; min-height: 3.5rem; margin-top: 0.3rem; }
@@ -89,14 +90,18 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
       <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span>
       <span class="af-box">4</span><span class="af-box">5</span><span class="af-box">6</span>
     </div>
+    <span class="af-rowlabel"></span>
+    <div class="af-scalebar">
+      <span></span><span></span><span>&#8593;Ep</span>
+      <span></span><span></span><span>&#8593;Movie</span>
+    </div>
     <span class="af-rowlabel">Antagonist</span>
     <div class="af-row af-anta">
       <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span>
     </div>
     <span class="af-rowlabel"></span>
     <div class="af-scalebar">
-      <span></span><span></span><span>&#8593;Ep</span>
-      <span></span><span></span><span>&#8593;Movie</span>
+      <span></span><span>&#8593;Ep</span><span>&#8593;Movie</span>
     </div>
   </div>
   <p class="af-hint">Episode: 3 Story Arc / 2 Antagonist boxes (box&nbsp;2 = the &#9733; climax). Movie: 6 Story Arc / 3 Antagonist (box&nbsp;3 = the &#9733; climax). Mark your last villain box as the climax. A villain box fills each time the heroes take a <strong>Recovery Scene</strong> (fall back to regroup); a quick <strong>Mend</strong> never advances it.</p>
@@ -109,12 +114,12 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
   <h3>Milestones</h3>
   <p class="af-hint">A concrete, pointable step toward the Goal. Number them to match the Story Arc Track boxes above. (Episode uses 1&ndash;3; Movie 1&ndash;6.)</p>
   <div class="af-mscols">
-    <div class="af-ms"><span class="af-num">1.</span><span class="af-fill"></span></div>
-    <div class="af-ms"><span class="af-num">4.</span><span class="af-fill"></span></div>
-    <div class="af-ms"><span class="af-num">2.</span><span class="af-fill"></span></div>
-    <div class="af-ms"><span class="af-num">5.</span><span class="af-fill"></span></div>
-    <div class="af-ms"><span class="af-num">3.</span><span class="af-fill"></span></div>
-    <div class="af-ms"><span class="af-num">6.</span><span class="af-fill"></span></div>
+    <div class="af-ms"><span class="af-mschk"></span><span class="af-num">1.</span><span class="af-fill"></span></div>
+    <div class="af-ms"><span class="af-mschk"></span><span class="af-num">4.</span><span class="af-fill"></span></div>
+    <div class="af-ms"><span class="af-mschk"></span><span class="af-num">2.</span><span class="af-fill"></span></div>
+    <div class="af-ms"><span class="af-mschk"></span><span class="af-num">5.</span><span class="af-fill"></span></div>
+    <div class="af-ms"><span class="af-mschk"></span><span class="af-num">3.</span><span class="af-fill"></span></div>
+    <div class="af-ms"><span class="af-mschk"></span><span class="af-num">6.</span><span class="af-fill"></span></div>
   </div>
 
   <h3>Notes</h3>
