@@ -6,10 +6,11 @@
 # Pipeline:  docs/*.md  --pandoc-->  Typst markup  --(book.typ template)-->  PDF
 #
 # The Markdown in docs/ stays the single source of truth. Re-run this any time
-# the manuscript changes. The 6 HTML form-sheets in Part Four (hero sheet,
-# quest tracker, cast/places sheets, moves cheatsheet, world-forge worksheet)
-# are intentionally EXCLUDED — they are designed printables, best printed from
-# the website. Everything else (Parts 1–3 + prose Part Four) is included.
+# the manuscript changes. The 7 HTML form-sheets in Part Four (moves cheatsheet,
+# hero sheet, story-arc & challenge trackers, world-forge worksheet, cast/places
+# sheets) plus the generated all-printables page are intentionally EXCLUDED —
+# they are designed printables, best printed from the website. Everything else
+# (Parts 1–3 + prose Part Four) is included.
 
 set -euo pipefail
 

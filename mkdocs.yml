@@ -46,6 +46,11 @@ markdown_extensions:
 plugins:
   - search
 
+# Auto-assembles part-four/all-printables.md from the individual printable sheets
+# at build time (each sheet's CSS scoped so they don't collide). See the hook.
+hooks:
+  - hooks/gen_printables.py
+
 nav:
   - Home: index.md
   - Foreword: foreword.md
@@ -85,9 +90,11 @@ nav:
   - Part Four — Reference & Tools:
       - Introduction: part-four/00-introduction.md
       - "The Whole Game — Rules Reference": part-four/rules-reference.md
+      - "Print All Sheets": part-four/all-printables.md
       - Moves Cheatsheet: part-four/moves-cheatsheet.md
       - Hero Sheet: part-four/hero-sheet.md
       - Story Arc Tracker Sheet: part-four/story-arc-tracker-sheet.md
+      - Challenge Tracker Sheet: part-four/challenge-tracker-sheet.md
       - Worldbuilding Worksheet: part-four/world-forge-worksheet.md
       - Cast Sheet: part-four/cast-sheet.md
       - Places Sheet: part-four/places-sheet.md

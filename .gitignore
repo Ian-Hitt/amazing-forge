@@ -24,3 +24,6 @@ TODO.md
 sim_*.py
 count_pages.py
 .claude/
+
+# Generated at build time by hooks/gen_printables.py
+docs/part-four/all-printables.md
