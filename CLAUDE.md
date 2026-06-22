@@ -43,9 +43,15 @@ authoritative**; V3/V4 are older and superseded where they differ.
 
 ## Settled conventions (quick reference — details in the master doc)
 
+> ⚠️ **2026-06-22 REWORK (see [[dice-and-scaling-rework]]) — decision locked, not yet propagated to
+> chapters/printables.** Core roll is now **+0/+1/+2** (pick **2 of 5 stats** = honest +1, **3 Assets** =
+> argued +1); the single broad **Attribute is retired**; the **recovery ratchet is dropped** (Recovery
+> Scene heals fully to 9); **Movie = 6/4-box** (duo Movie = 5); the **"+1 box for 4+" ladder rule is
+> dropped**. The bullets below still describe the OLD rules where noted — trust the rework + Math&Sim §0.
+
 - **Terms:** Guide (never "GM"), Co-op play (never "GMless"), Readiness (never HP/health),
-  Assets, Attribute (the one broad Asset, picked first from Strong/Quick/Clever/Sneaky/Charming;
-  max one/hero), Story / Story Arc (never "Quest"; never bare "Arc"), Story Arc Track (never "Hero
+  Assets, **Stats** (pick **2 of the closed five**: Strong/Quick/Clever/Sneaky/Charming — the
+  most-relevant one is chosen objectively, not argued), Story / Story Arc (never "Quest"; never bare "Arc"), Story Arc Track (never "Hero
   Track"/"Quest Track"), **Episode/Movie** (the two *individual* story sizes), **Season/Series**
   (prose *collection* patterns, not sizes — see [[spine-model]]), Antagonist Track, **Showdown**
   (the climax/reserved top box), Milestone, Scene, Challenge, Pay the Price, **Recovery Scene**
@@ -53,31 +59,28 @@ authoritative**; V3/V4 are older and superseded where they differ.
   (retreat from a Challenge — was "Flee"), Quit the Story Arc, **Thread/B-plot** (lose-clock-free
   subplot), Downtime (between-Stories reset), Ask the Oracle, Growth/Growth Track/Boon/Trade In
   (advancement — use "Growth," never "XP"). Avoid "damage."
-- **Core roll:** 2d6 + **2** (an Asset applies) / **+1** (anything else). 10+ Strong, 7–9
-  Weak, 6− Miss; doubles upgrade a tier (Oracle's Blessing). A Hit = **narrate the change**.
-- **Attribute (DECIDED 2026-06-12):** a hero's **first Asset is an Attribute** — one broad,
-  stat-like pick from a **closed five: Strong/Quick/Clever/Sneaky/Charming** (Starforged's stat
-  *list*, not its separate-stat mechanic; player argues which fits from the described action).
-  It's a normal Asset (+2 when it fits), **capped at one/hero** (can't buy a 2nd with Growth).
-  Reverses the old "no generic traits like Strength" ban — one capped, deadzone-having broad
-  Asset is balance-safe (raises sim `P_PLUS2` 0.80→0.85, trims OoA ~1 pt; Math & Sim §3b). The
-  cap is load-bearing: it preserves the wide **+1 floor** where Miss-tension lives. Other three
-  Assets stay specific.
-- **Readiness:** starts **9**. Weak −1, Miss −2 (always — no dodging). **Recovery = two moves + a
-  declining ceiling.** A **Readiness max** starts at 9 and **drops 1 per Recovery Scene** (floor 4;
-  resets to 9 at Downtime) — the *ratchet* that makes a Story Arc tighten (avg ~8 after the 1st
-  rest, worse each time). **Mend** (small risky any-scene patch, no cap — Strong +3 / Weak +2 / **Miss
-  −1**, self or ally, capped at current max, **no Surge**, can't revive Out of Action; a tactical
-  patch-vs-push choice). **Recovery Scene** (fall back & regroup → party **up to current max**,
-  reliable, **+1 villain Surge** *and* **−1 to the max** — the only villain-advance trigger). Out of
-  Action at 0 **forces a Recovery Scene** whose surge can lose the Story Arc. **Heroes can't die** —
-  Readiness is *ammunition against the villain clock,* not a survival meter. (Movie loss ~7%, Episode
-  ~2%; near the 9-of-10 goal — Math & Sim §0 + TODO #13/#14.)
+- **Core roll (DECIDED 2026-06-22):** 2d6 + a **+0/+1/+2** modifier. You get **+1** if the action's
+  **most-relevant stat** is one of your **2 of 5** (Strong/Quick/Clever/Sneaky/Charming — chosen
+  *objectively*, not argued: a chase is Quick, period); **+1** if any of your **3 specific Assets**
+  applies (these *are* argued — story flexibility); **+2** if both, **+0** if neither (the risk-of-
+  failure floor). 10+ Strong, 7–9 Weak, 6− Miss; doubles upgrade a tier (Oracle's Blessing). A Hit =
+  **narrate the change**. Tuned to stat≈0.55 / asset≈0.85 apply rates → avg mod ≈ 1.40 (was 1.85);
+  this **retires the single broad Attribute** (the closed-five *list* survives; you pick two of it).
+- **Readiness:** starts **9**. Weak −1, Miss −2 (always — no dodging). **No ratchet (DECIDED
+  2026-06-22):** a **Recovery Scene heals the party fully back to 9** every time; max Readiness no
+  longer declines (the old declining ceiling was too harsh and broke Movie scaling). **Mend** (small
+  risky any-scene patch, no cap — Strong +3 / Weak +2 / **Miss −1**, self or ally, capped at 9, **no
+  Surge**, can't revive Out of Action; a tactical patch-vs-push choice). **Recovery Scene** (fall
+  back & regroup → party **back to 9**, reliable, **+1 villain Surge** — the only villain-advance
+  trigger). Out of Action at 0 **forces a Recovery Scene** whose surge can lose the Story Arc.
+  **Heroes can't die** — Readiness is *ammunition against the villain clock,* not a survival meter.
+  (Fresh-party loss ~6% Episode / ~16% Movie at all-Medium; Boons settle Movies toward ~10% — Math &
+  Sim §0.)
 - **Story structure — single nested SPINE (DECIDED 2026-06-13; see [[spine-model]] & Math & Sim
   §0).** Dropped sandbox play. One Story = one spine with a **Story Arc Track** (progress, 1
   box/Milestone → the **Showdown**) and a short **Antagonist Track** whose **top box is the reserved
   climax.** **Two individual sizes (the only ones with machinery): Episode = 3 Milestones / 2-box
-  track; Movie = 6 Milestones / 3-box track.** **Season/Series are prose collection patterns, not
+  track; Movie = 6 Milestones / 4-box track (duo Movie = 5-box).** **Season/Series are prose collection patterns, not
   sizes** (Episode/Movie are individual stories; a Season strings them on a throughline, a Series is
   a run of Seasons). **B-plots are threads** — light progress track, **no Antagonist Track/lose-clock**,
   resolve into the spine's climax. **Nesting is back** (a Season is *made of* Stories).

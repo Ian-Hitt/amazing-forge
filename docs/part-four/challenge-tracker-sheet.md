@@ -67,7 +67,7 @@ See **Challenges** ([Chapter 8](../part-two/08-challenges.md)) for the full proc
     <br>
     <b>EACH ROLL:</b> <b>Strong</b> fill 1 box &middot; <b>Weak</b> fill 1 box, &minus;1 Readiness &middot; <b>Miss</b> no box, &minus;2 Readiness.
     <br>
-    <b>SIZE:</b> Easy = players &minus;1 (min 1) &middot; Medium = players &middot; Hard = players +1 &middot; Very Hard = players +2 (climaxes only) boxes &mdash; <b>4+ players add one box to each</b> (cross out the ones you don't use). The last box can be a <b>Showdown (&#9733;)</b>. Track fills &rarr; Challenge won &mdash; wipe it. A Challenge is <i>not</i> a Milestone. Fall back = a Recovery Scene (lose progress, villain surges).
+    <b>SIZE:</b> Easy = players &minus;1 (min 1) &middot; Medium = players &middot; Hard = players +1 &middot; Very Hard = players +2 (climaxes only) boxes &mdash; cross out the ones you don't use. The last box can be a <b>Showdown (&#9733;)</b>. Track fills &rarr; Challenge won &mdash; wipe it. A Challenge is <i>not</i> a Milestone. Fall back = a Recovery Scene (lose progress, villain surges).
     <br>
     <b>TYPES:</b> Combat &middot; Journey &middot; Stealth &middot; Investigation &middot; Social &mdash; same boxes-and-rolls, only the fiction changes. For each, ask: <i>what's one box, which Assets fit, what's the price on a Weak Hit or Miss?</i>
   </div>

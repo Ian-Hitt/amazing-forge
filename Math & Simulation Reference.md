@@ -13,12 +13,69 @@
 
 ---
 
-## 0. CANONICAL — the spine model (✅ 2026-06-13, `sim_spine.py`)
+## 0. CANONICAL — split stats+assets, no ratchet (✅ 2026-06-22, `sim_spine.py`)
 
-> **This section supersedes the story-structure / antagonist / recovery balance in §1, §3a, §4,
-> and §4b below.** Those are kept for the reasoning trail. The game dropped **sandbox** play (a bag
-> of concurrent fixed-size arcs) for a **single nested spine**, because the old structure could not
-> produce the design goal — a story whose villain ends *one step from winning* (the photo-finish).
+> **This is the current canonical balance model. It supersedes §0-prev (the 2026-06-13 spine model)
+> and §0b (the difficulty ladder) below**, which are kept for the reasoning trail. Three locked
+> changes (memory `dice-and-scaling-rework`; explored in scratchpad `sim_scaling*`/`sim_pair*`):
+
+**1. Core roll is now +0 / +1 / +2 (split stats + assets).** Playtest showed players argue *any* of
+4 specific Assets into fitting, so +2 was near-universal and the +1 floor collapsed. Fix — separate a
+**honest** layer from a **flexible** one:
+- Pick **2 of the 5 stats** (Strong/Quick/Clever/Sneaky/Charming). The action's **most-relevant**
+  stat is chosen *objectively, not argued* (a chase is Quick, period). If it's one of your two → **+1**.
+- **3 specific Assets**, still flexible/argued. If any apply → **+1**.
+- Both → **+2**, one → **+1**, neither → **+0** (the new risk-of-failure floor).
+- Tuned: `P_STAT = 0.55`, `P_ASSET = 0.85` → **avg mod ≈ 1.40** (was 1.85); +2 rate ≈ 47% (was 85%).
+  This **retires the single broad "Attribute"** — you pick two stats instead.
+
+**2. No ratchet.** A Recovery Scene heals the party **fully back to 9** every time; max Readiness no
+longer declines. The old declining ceiling was keyed to *recovery count*, which grows with story
+length — that's what broke Movie scaling (see "Why Movies didn't scale" below). Dropping it makes the
+party durable enough to need only **~3 recoveries per Movie**, which is what makes the 4-box track right.
+
+**3. Tracks & difficulty ladder.**
+
+| Size | Milestones | Antagonist Track | Notes |
+|---|---|---|---|
+| **Episode** | 3 | **2** | unchanged |
+| **Movie** | 6 | **4** (was 3) | **duo = 5** (one extra regroup) |
+
+- Ladder: **Easy/Medium/Hard = players−1 / players / players+1.** The old **"+1 box for 4+" rule is
+  dropped** — on the lower curve it double-penalized; plain `Medium = players` lands party 3 & 4 in band.
+
+**Validation (`sim_spine.py`, all-Medium, fresh party / no Boons):**
+
+| Party | Episode loss | Movie loss (track) | Movie recoveries |
+|---|---|---|---|
+| 2 | 12.5% | 9.6% (5-box) | ~4.1 |
+| 3 | 6.3% | 15.7% (4-box) | ~3.2 |
+| 4 | 6.1% | 12.3% (4-box) | ~3.1 |
+
+**Boons settle a fresh party toward target** (per-roll tier-upgrade chance `BOON_P`): party-3 Movie
+15.7% → **10.7%** at `BOON_P=0.05` → 6.9% at 0.10 — a campaign arc, not a break (the design guard barring
+track-progress / OoA-prevention Boons keeps the curve intact). The slightly-hot fresh baseline is
+intentional headroom for advancement; groups also dial down with Easy encounters. Duo Episodes (12.5%)
+run a touch tense (adding a box over-corrects to ~1.4%); duos lean on the 5-box Movie track, not on
+trivial 1-box "Easy" challenges.
+
+**Why Movies didn't scale (the deep diagnosis — keep, it saves re-deriving).** This is an *attrition*
+model, so loss inherently grows with story length: a Movie compounds attrition over ~2× the runway
+while an Episode ends before danger accrues. **No single uniform rule puts both sizes at 10%** — short
+stories want tightening, long ones cushioning; they pull opposite ways, so the two sizes are tuned
+*individually* (fine — there are only two). The old killer interaction: the ratchet was keyed to
+recovery *count*, which grows with length, so any fix that gave Movies the recovery headroom they
+needed *fed* the ratchet that killed them. Dropping the ratchet broke that coupling. (`sim_scaling.py`
+shows loss flat across length 2–8 only once the ratchet is keyed to progress / removed.)
+
+---
+
+## 0-prev. SUPERSEDED — the declining-ceiling spine model (2026-06-13, `sim_spine.py`)
+
+> **Superseded 2026-06-22 by §0 above** (no ratchet; +0/+1/+2 roll; Movie 6/4). Kept for the
+> reasoning trail. It dropped **sandbox** play (a bag of concurrent fixed-size arcs) for a **single
+> nested spine**, because the old structure could not produce the design goal — a story whose villain
+> ends *one step from winning* (the photo-finish).
 
 **The model.** One Story Arc = one spine with two tracks. The **Story Arc Track** is progress (1 box /
 Milestone; filling it reaches the **Showdown**). The **Antagonist Track** is short, its **top box
@@ -70,6 +127,8 @@ only ratchets *within* an arc — never across a Season/Series.
 ---
 
 ## 0b. CANONICAL — Challenge difficulty ladder & party-size scaling (✅ 2026-06-21, `sim_mix.py`)
+
+> ⚠️ **PARTIALLY SUPERSEDED 2026-06-22:** the "+1 box for groups of 4+" party-size scaling rule below is **dropped** per §0 — the ladder is now a plain Easy/Medium/Hard for all sizes. The rest of this section's reasoning still stands.
 
 > **Re-centers the difficulty ladder.** Difficulty is a **screen-time dial, not a balance knob**
 > (players pick Hard for set-pieces, Easy for quick beats), so a real story *mixes* Easy/Medium/Hard.
@@ -217,6 +276,8 @@ adventure. **They are estimates pending confirmation / recovery of the original 
 ---
 
 ## 3b. Mandatory Attribute Asset — +2-share sweep (2026-06-12)
+
+> ⚠️ **SUPERSEDED 2026-06-22:** the single broad **Attribute** is replaced by a hero picking **2 of the 5 Stats** (Strong/Quick/Clever/Sneaky/Charming), and the **+0/+1/+2** roll model (§0) supersedes the `P_PLUS2 = 0.85` assumption used below. Kept for the reasoning trail.
 
 Every hero's **first Asset is now an Attribute** (Strong / Quick / Clever / Sneaky / Charming) —
 one sanctioned broad Asset, capped at one. This raises the share of rolls made at +2. Modeled

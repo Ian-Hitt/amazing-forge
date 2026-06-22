@@ -1,5 +1,15 @@
 # Lights, Camera, Action! — Core Mechanics Master Reference
 
+> ✅ **Reworked 2026-06-22 to the new model** (see memory `dice-and-scaling-rework` + Math & Sim §0).
+> The text below has been brought into line with these changes:
+> - **Core roll is now +0 / +1 / +2.** You pick **2 of the 5 stats** (most-relevant chosen
+>   objectively → +1) and have **3 specific Assets** (argued → +1); both → +2, neither → +0. The
+>   single broad **"Attribute" mechanic is retired** (the closed-five list survives as Stats — you pick two).
+> - **No recovery ratchet.** A Recovery Scene heals the party **fully to 9**; max Readiness no longer
+>   declines. (Mend, surge-on-Recovery, reserved climax, OoA-as-loss-vector all still hold.)
+> - **Movie = 6 Milestones / 4-box Antagonist Track** (was 3); **duo Movie = 5-box.**
+> - **Difficulty ladder drops the "+1 box for 4+ players" rule** (plain Easy/Medium/Hard = p−1/p/p+1).
+
 > **Purpose of this document.** This is the canonical source of truth for the core
 > mechanics of *Lights, Camera, Action!*. It is a **reference for writing the rest of the book**,
 > not a chapter of the book itself. It merges everything from the source drafts so no
@@ -53,18 +63,17 @@ the book. When reviewing a chapter, treat any deviation as an error to flag.
 | **player** | A person controlling a hero. | — |
 | **character / hero** | A player's in-fiction persona. | PC |
 | **Concept** | The "movie poster" pitch for a character. | backstory (as the mechanic) |
-| **Asset** | One of a character's four "amazing at" things (+2). | skill, stat, trait |
-| **Attribute** | The one broad, stat-like Asset every hero picks first, from a closed list of five — **Strong, Quick, Clever, Sneaky, Charming**. A normal Asset (+2 when it fits), capped at one per hero. | stat, ability score, the five-as-separate-stats |
-| **Broken Asset** | An Asset knocked offline when a hero goes Out of Action — gives no +2 (rolls fall to +1) until **Downtime** restores it. Temporary; never a penalty. | negative Asset, debuff, condition, impact |
-| **Readiness** | The single 0–9 resource track (health + morale + supplies). Its **max declines within a Story Arc** — see Readiness max. | HP, health, hit points, stamina |
-| **Readiness max** | The current recovery ceiling. Starts at **9**; **drops 1 with each Recovery Scene** (floor 4); resets to 9 at **Downtime**. Recovery (Mend or Recovery Scene) can't exceed it. The "ratchet" that makes a Story Arc tighten as it runs. | — |
-| **Mend** | The small, risky **any-scene** patch (in a Challenge, it's your turn instead of a Challenge Roll): recover a little — self or ally, rolled **Strong +3 / Weak +2 / Miss −1 Readiness** (up to the current max). **No cap; does not surge the villain; can't revive Out of Action.** The −1 risk + the declining ceiling (it only heals to the current max) keep it from substituting for a regroup. | heal, Catch Your Breath |
-| **Recovery Scene** | The fall-back-and-regroup move: the party recovers **up to its current Readiness max** — and in return the **Antagonist Track surges one box** *and* the **Readiness max drops by 1.** Reliable; the weighty quiet/B-plot beat. | rest, healing |
-| **Downtime** | The between-Story-Arcs rest: resets the **Readiness max to 9**, heals everyone to full, **restores any Broken Asset**. No Surge. | long rest, Sojourn, victory bump |
+| **Stat** | One of a character's two broad "naturally good at" areas, picked from a closed list of five — **Strong, Quick, Clever, Sneaky, Charming**. The relevant Stat is chosen **objectively** by what the action calls for (never argued); add **+1** when it's one of your two. | Attribute, stat (lowercase), ability score |
+| **Asset** | One of a character's three specific "amazing at" things — a signature talent, tool, or friend; argued via the one-sentence test, **+1** when it fits. | skill, stat, trait |
+| **Broken Asset** | An Asset knocked offline when a hero goes Out of Action — gives no +1 until **Downtime** restores it. Temporary; never a penalty. | negative Asset, debuff, condition, impact |
+| **Readiness** | The single 0–9 resource track (health + morale + supplies). Max stays **9** all game. | HP, health, hit points, stamina |
+| **Mend** | The small, risky **any-scene** patch (in a Challenge, it's your turn instead of a Challenge Roll): recover a little — self or ally, rolled **Strong +3 / Weak +2 / Miss −1 Readiness** (capped at 9). **No usage cap; does not surge the villain; can't revive Out of Action.** The −1 risk keeps it from substituting for a regroup. | heal, Catch Your Breath |
+| **Recovery Scene** | The fall-back-and-regroup move: the party heals **fully back to 9** — and in return the **Antagonist Track surges one box**. Reliable; the only Antagonist-Track advance; the weighty quiet/B-plot beat. | rest, healing |
+| **Downtime** | The between-Story-Arcs rest: heals everyone to full and **restores any Broken Asset**. No Surge. | long rest, Sojourn, victory bump |
 | **Out of Action** | State when Readiness hits 0. | dead, KO'd, defeated |
 | **Story / Story Arc** | One spine — a single central dramatic question — tracked with a **Story Arc Track** (progress) and an **Antagonist Track** (the villain's clock). Sized **Episode** or **Movie** (the only two with box machinery). | Quest, mission, adventure |
 | **Episode** | A complete short Story — **3 Milestones, 2-box Antagonist Track** — told in ~one sitting. | one-shot, session quest |
-| **Movie** | A complete feature Story — **6 Milestones, 3-box Antagonist Track** — told over ~2–3 sessions. | feature film |
+| **Movie** | A complete feature Story — **6 Milestones, 4-box Antagonist Track** (a 2-player duo uses a 5-box track) — told over ~2–3 sessions. | feature film |
 | **Season** | A **collection** pattern (prose, no machinery): a run of Stories sharing a throughline. Not a box size. | arc (as the term), story arc |
 | **Series** | A **collection** pattern (prose): the whole game, a run of Seasons. Always a collection; no box size of its own. | campaign, saga |
 | **Story Arc Track** | A Story's progress track — one box per Milestone; filling it reaches the Showdown. | Hero Track, Quest Track |
@@ -90,7 +99,7 @@ the book. When reviewing a chapter, treat any deviation as an error to flag.
 | **Story Spark** | The small d6 idea table inside Ask the Oracle. | oracle table |
 | **Ask the Dice** | The 1d6 yes/no oracle. | — |
 | **Move** | Any defined procedure you invoke at the table. Every move is an **Action**, **Progress**, or **Frame move**. | maneuver, action (as the mechanic) |
-| **Action move** | A move that *resolves a hero's attempt* — rolled 2d6 + 2/+1 and read Strong/Weak/Miss; the dice **adjudicate** (did you pull it off?). | — |
+| **Action move** | A move that *resolves a hero's attempt* — rolled 2d6 + 0/+1/+2 and read Strong/Weak/Miss; the dice **adjudicate** (did you pull it off?). | — |
 | **Progress move** | A move that *opens or closes a progress track* (a Story Arc or a Challenge). The openers (Start a Story Arc, Start a Challenge) roll generatively to set how things begin; the closers (Fall back, Quit the Story Arc) are deterministic. | — |
 | **Frame move** | A move that *shifts the fiction in the moment* (no track); when it rolls, the dice **generate** a direction rather than judge a hero, so it can never be "failed." | framing move, GM move |
 | **Growth** | The advancement currency; earn 1 every 3 Milestones, spend on Boons/Assets. | XP, experience, levels |
@@ -155,7 +164,7 @@ collaborative questions in Section 3 (Worldbuilding).
 ### Step 2: Create Characters
 
 Create heroes that fit the world you just forged. Each player describes their Concept,
-chooses four Assets, and sets their starting Readiness (Section 4).
+picks two Stats and three Assets, and sets their starting Readiness (Section 4).
 
 ### Step 3: Decide on a Starting Story Arc & Antagonist
 
@@ -224,92 +233,91 @@ Genre examples to inspire kids:
 movie poster, what's their signature action pose, and what are they wearing?"* This
 breathes life into the concept and gets kids describing their actions.
 
-### Step 2: The Four Assets
+### Step 2: Two Stats and Three Assets
 
-Instead of stats, the player chooses **four things their character is amazing at.** These
-are their **Assets** — the signature tools, talents, and relationships the character
-relies on to solve problems.
+A hero is defined by two layers that stack on every roll: **two Stats** (the broad kinds of
+action they're naturally good at) and **three Assets** (the specific tools, talents, and
+relationships they rely on). Pick the Stats first, then the Assets.
 
-- **Backstory & Origin.** When defining an Asset, consider *how* the character got good at
-  it — this instantly builds backstory. (Where did you learn to shoot? Was speaking to
-  animals a gift from a forest spirit?)
-- **Beyond Expertise.** Assets don't have to be skills. They can be gear, magic, or allies:
-  - **Skills & Magic:** Fire Magic, Hacking, Acrobatics, Tracking, Solving Mysteries.
-  - **Magical Items & Gear:** A Hoverboard, a Shield Generator, an Enchanted Sword, a Grappling Hook.
-  - **Companions & Allies:** A Loyal Pet Wolf, a Tiny Repair Drone, a Wise Sprite Companion.
+**Pick 2 Stats.** Choose **two** from a closed list of five. Each is broad — a whole category
+of action — and on a roll you add **+1** whenever the action calls for one of your two.
 
-**Why Assets carry so much weight.** In most games you roll a generic stat (like Strength)
-*plus* a narrow special ability. *Lights, Camera, Action!* folds both into one currency —
-**your four Assets ARE your stats.** They do double duty: areas of raw competence *and*
-signature tricks. One of the four is deliberately the broad, stat-like one (the **Attribute**,
-below); the other three should be specific, or the +2 stops meaning anything and the math
-goes soft.
-
-> ✅ **DECIDED — Attributes (2026-06-12).** Borrowing Starforged's *asset types* idea (the
-> list, not its separate-stat mechanic): a hero's **first Asset is an Attribute** — their
-> natural strong suit, chosen from a closed list of five. It is a normal Asset in every way
-> (+2 when it fits, +1 floor when it doesn't); it is simply *allowed* to be broad. As in
-> Starforged, the **player argues** which Attribute fits from how they describe the action —
-> the system never dictates it. **Max one Attribute per hero** (a creation pick; you can't buy
-> a second with Growth). Reverses the old blanket "no generic traits like Strength" rule,
-> which over-claimed on balance grounds: one capped, deadzone-having broad Asset doesn't break
-> the curve (see sim, `Math & Simulation Reference.md`).
-
-| Attribute | Covers (Starforged analog) |
+| Stat | Covers |
 |---|---|
-| **Strong** | force, might, endurance *(Iron)* |
-| **Quick** | speed, agility, reflexes, precision *(Edge)* |
-| **Clever** | knowledge, reasoning, noticing *(Wits)* |
-| **Sneaky** | stealth, trickery, deception *(Shadow)* |
-| **Charming** | social, courage, empathy, connection *(Heart)* |
+| **Strong** | force, muscle, toughness, staying power |
+| **Quick** | speed, agility, reflexes, a steady aim |
+| **Clever** | knowing things, figuring things out, spotting what others miss |
+| **Sneaky** | stealth, sleight of hand, a convincing bluff |
+| **Charming** | winning people over, courage, heart, rallying friends |
 
-The **max-one cap is load-bearing:** it guarantees every hero keeps a wide **+1 floor** —
-Strong does nothing to notice a clue, charm a guard, or sneak past one — and that floor is
-where the Miss-tension lives. The other three Assets stay specific and personal; that's where
-the character's voice is.
+Picking two means *not* picking the other three: your hero shines when a scene calls for one
+of their Stats and sweats when it calls for the rest. That trade-off is where the drama lives.
 
-> ✅ **DECIDED — recommended creation template (2026-06-12, the "four questions").** To beat
-> the blank-page problem, creation is presented as four ordered questions, a typed loadout in
-> the Starforged-asset-types spirit: **(1)** what are you best at? → **Attribute**; **(2)** what
-> did you train in? → a **Skill/Expertise**; **(3)** what's your signature item or sidekick? →
-> an **Item/Companion** (or a **Connection** — mentor, contact, reputation — for concepts with
-> no gear/buddy); **(4)** one **Wild** pick of the player's choice (anything but a second
-> Attribute). **Only Q1 (the one Attribute) is a hard rule; slots 2–4 are a guiding default the
-> player may rearrange.** Purely a creation-flow scaffold — no mechanical weight, the four are
-> still just Assets — so no balance impact beyond the Attribute itself (§3b sim unchanged).
+> ✅ **DECIDED — 2 Stats + 3 Assets (2026-06-12; revised 2026-06-22).** Borrowing Starforged's
+> *stat list* (the closed five — Strong, Quick, Clever, Sneaky, Charming — **not** its
+> separate-stat mechanic): a hero picks **two Stats** as their natural strong suits plus **three
+> specific Assets.** The single broad **"Attribute" mechanic is retired** (history: 2026-06-12
+> made a hero's first Asset one broad Attribute capped at one; the 2026-06-22 rework split that
+> into an objective **Stat** layer and the flexible **Asset** layer). A Stat is broad but **not
+> universal** — each does nothing for a whole category of action (Strong does nothing to notice
+> a clue, charm a guard, or sneak past one), which is what keeps a wide **+0 floor** where the
+> Miss-tension lives. Unlike an Asset, the relevant Stat is **chosen objectively** by what the
+> action calls for (a chase is Quick, a feat of force is Strong) — never argued. Splitting an
+> objective Stat layer from the argued Asset layer restores the floor that one broad always-on
+> Attribute had eroded (players could bend any of four Assets into fitting, so +2 was
+> near-universal). Balance validated in `Math & Simulation Reference.md` §0.
 
-**What makes a (non-Attribute) Asset good.** Aim for a **domain of competence** — broad
-enough to come up often, specific enough that it clearly *doesn't* cover everything.
+**Pick 3 Assets.** Your **Assets** are the specific signature talents, tools, and friends your
+hero is known for — the things that earn an extra **+1** when they fit the moment. Choose three.
+A blank page is the hard part, so answer three questions:
+
+- **What have they trained in?** A **skill or area of expertise**: Fire Magic · Hacking ·
+  Acrobatics · Tracking · Solving Mysteries · Lockpicking · Healing Herbs.
+- **What's their signature item or sidekick?** A piece of **gear** or a **companion**: An
+  Enchanted Sword · A Hoverboard · A Loyal Pet Wolf · A Tiny Repair Drone. *(No gear or buddy
+  fits? Make it a **connection** — a mentor, a contact in every port, a famous name.)*
+- **One more — your call.** A **Wild** pick: another skill, a quirky talent, a second item —
+  anything that makes the hero yours.
+
+This is the recommended path, not a cage — slots may be rearranged freely. When defining an
+Asset, consider *how* the character got good at it; that instantly builds backstory.
+
+> ✅ **DECIDED — recommended creation template (2026-06-12, the "questions"; revised
+> 2026-06-22).** To beat the blank-page problem, creation is presented as ordered questions:
+> **pick your 2 Stats, then 3 Assets** (trained skill / signature item-or-companion / wild pick;
+> for concepts with no gear or buddy, slot 2 may be a **Connection** — mentor, contact,
+> reputation). The Asset slots are a guiding default the player may rearrange. Purely a
+> creation-flow scaffold — no mechanical weight beyond the Stats and Assets themselves.
+
+**What makes a good Asset.** Aim for a **domain of competence** — broad enough to come up often,
+specific enough that it clearly *doesn't* cover everything. Your *Stats* are the broad layer, so
+let your Assets be pointed.
 
 - ✅ **Good:** Fire Magic · Acrobatics · Fast-Talking · My Loyal Wolf · Grandpa's
   Lockpicks · Piloting · Tracking · Healing Herbs. *(Each has obvious situations where it's
   useless — that's the sign it's well-sized.)*
-- ❌ **Still banned — no-deadzone traits:** "Lucky," "Skilled," "Good at everything."
-  *(These would help on literally **any** roll — even alongside your Attribute — so you'd drift
-  to +2 always. The five Attributes are fine precisely **because** each has a whole category it
-  does nothing for.)*
-- ❌ **Avoid — too narrow:** "Picking brass locks," "Juggling." *(Rarely comes up, so it
+- ❌ **Too broad — avoid:** "Lucky," "Skilled," "Good at everything." *(These would help on
+  literally **any** roll, so they stop meaning anything — that's what your Stats are for.)*
+- ❌ **Too narrow — avoid:** "Picking brass locks," "Juggling." *(Rarely comes up, so it
   almost never helps.)*
-- ❌ **Avoid — "I win" powers:** "Invincible," "Mind Control," "Always Succeeds."
+- ❌ **"I win" powers — avoid:** "Invincible," "Mind Control," "Always Succeeds."
 
-**Rolling with Assets:**
+**Rolling — two questions, each worth +1:**
 
-- **+2 — an Asset applies:** you get +2 when you can say, in *one sentence*, how this exact
-  Asset solves this exact problem, using fiction that's already true. If you have to stretch
-  the sentence, it doesn't apply.
-- **+1 — anything else:** a reasonable action outside all of your Assets. You're a capable
-  hero, so you're never helpless — but this isn't your wheelhouse, so it's riskier.
+- **+1 — a relevant Stat:** ask what the action *calls for* (objectively — a chase is Quick, a
+  feat of force is Strong); if that Stat is one of your two, add +1. You don't argue this.
+- **+1 — a fitting Asset:** you get +1 when you can say, in *one sentence*, how this exact Asset
+  solves this exact problem, using fiction that's already true. This one you do argue.
+- **+2 — both.** **+0 — neither:** you can still always try, but you're rolling the bare dice.
 
-> ⚠️ **NOTE — the math.** With **+2** (acting in your wheelhouse, the common case): ≈42%
-> Strong / 42% Weak / 17% Miss — an ~83% hit rate, a good feel for kids. With **+1** (out of
-> your wheelhouse): ≈28% Strong / 44% Weak / 28% Miss — ~72% hit, riskier but not punishing.
-> The +1 floor (rather than +0) keeps off-niche actions from feeling hopeless, while the
-> doubled Strong-Hit rate (28%→42%) keeps Assets clearly worth having. Because the four
-> Assets *are* the character's competence, most rolls are +2. The mandatory **Attribute**
-> nudges the share of +2 rolls up modestly (the model's `P_PLUS2` moved 0.80 → 0.85), but the
-> lift is small and **uniform across every hero** — sim shows it only trims the Out-of-Action
-> rate ~1–2 pts and adds ~0.1 ending Readiness per Episode, not enough to soften the teeth
-> (`Math & Simulation Reference.md` §1).
+> ⚠️ **NOTE — the math.** Rolls land at **+0 / +1 / +2** depending on how many of the two
+> questions hit. With **+2** (a relevant Stat *and* a fitting Asset): ≈42% Strong / 42% Weak /
+> 17% Miss — an ~83% hit rate. With **+1** (one of the two): ≈28% Strong / 44% Weak / 28% Miss.
+> With **+0** (neither — out of your element): the bare 2d6 curve, a real gamble. The **+0 floor**
+> (replacing the old +1 floor) is the new edge of danger: reaching outside everything you're good
+> at is a genuine risk. Splitting the objective Stat layer from the argued Asset layer keeps the
+> average modifier honest (≈1.40, tuned to stat≈55% / asset≈85% apply) where one always-on broad
+> Attribute had pushed +2 toward near-universal. See `Math & Simulation Reference.md` §0.
 
 ### Step 3: Readiness
 
@@ -332,7 +340,7 @@ recovery and Out of Action work is covered under **Recovery** (Section 7).
 
 > ✅ **DECIDED — character advancement (2026-06-08).** Heroes grow across adventures via a
 > **Growth Track** and a small boon menu. The defining principle is **horizontal growth:
-> heroes gain new tools and signature moves, never bigger numbers** — so the +2/+1 curve and
+> heroes gain new tools and signature moves, never bigger numbers** — so the +0/+1/+2 curve and
 > the max-9 Readiness cap are never touched, and **enemy/Challenge/Antagonist tracks never
 > need rescaling.** The game is exactly as hard for a starting hero as for a campaign veteran;
 > the veteran simply has more options and more spotlight moments.
@@ -350,7 +358,7 @@ recovery and Out of Action work is covered under **Recovery** (Section 7).
   *gamed* (stretching one arc over many sessions earns no more than playing it briskly). Rough
   feel: an Episode (3 boxes) ≈ 1 Growth ≈ one session of play; a Boon lands every ~2 sessions, a
   New Asset every ~5. Growth rate is a pure feel knob — Boons are horizontal (§ below), so faster
-  Growth never rescales the +2/+1 curve or enemy tracks.
+  Growth never rescales the +0/+1/+2 curve or enemy tracks.
 - **Spending Growth:**
 
   | Buy | Cost | Limit |
@@ -375,24 +383,24 @@ recovery and Out of Action work is covered under **Recovery** (Section 7).
     it answers the old once-Scene-vs-Session question by construction.
   - **+1-type effects are temporary one-roll bonuses,** the same safe lever as the Start a Challenge roll
     (sim-cleared, `Math & Simulation Reference.md` §4c) — **never** a permanent modifier, so the
-    +2/+1 curve and enemy tracks still never rescale.
+    +0/+1/+2 curve and enemy tracks still never rescale.
   - **Recipes (pre-built combos, presented by name in the book):** Signature Move (any time +
     Upgrade, Session), In My Element (situation + Upgrade, Scene), Dig Deep (any time + +1 to roll,
     Session), Reliable (any time + Reroll, Scene), Lend a Hand (help an ally + Lend a reroll, Scene),
     Mender (when you Mend + Steady Hands), Scout (any time + Free Oracle, Scene), Take the Hit (any
     time + Take the Price, Session). Each genre kit carries a **d10 Boon-trigger table** (all 7 done).
-- **Asset ceiling: 6.** A hero starts with four Assets and can buy up to two more. Beyond six
+- **Asset ceiling: 6.** A hero starts with three Assets and can buy up to three more. Beyond six
   there are no new slots — buying a seventh means **Trading In** one of the existing six (a
   "your hero outgrew that" story beat); it still costs the full 5 Growth.
 - **"Widen the Domain" was considered and cut.** A boon that broadened an Asset's coverage
   (more +2 frequency) was the lone non-horizontal option — it re-introduced power-creep and
   the "Lucky" problem the Asset rules warn against, and its benefit (broader coverage) is
   already served by buying a **New Asset**. All growth stays horizontal. *(This does not
-  conflict with the **Attribute** at creation: Widen-the-Domain was an unbounded, repeatable,
+  conflict with **Stats** at creation: Widen-the-Domain was an unbounded, repeatable,
   buy-with-Growth broadening of an arbitrary Asset that could stack toward "good at
-  everything." The Attribute is a single, **capped-at-one**, creation-time pick from a closed
-  list, with guaranteed deadzones, and it's uniform across all heroes — so the sim prices it
-  in once and it never creeps.)*
+  everything." Stats are a fixed pair of **creation-time** picks from a closed list, each with
+  guaranteed deadzones, and they're uniform across all heroes — so the sim prices them
+  in once and they never creep.)*
 
 > ✅ **DECIDED — thread/B-plot Growth crediting (Ian, 2026-06-14; `sim_threads.py`).** Threads earn
 > Growth, with one split: **shared B-plots credit the whole party; a character-specific B-plot
@@ -413,7 +421,10 @@ recovery and Out of Action work is covered under **Recovery** (Section 7).
 ## 5. The Core Mechanic
 
 Whenever a player attempts something risky or challenging, roll **2d6** and add the
-modifier (**+2** if one of your Assets applies, **+1** for anything else).
+modifier, built from two questions each worth **+1**: **+1** if the action calls for one of
+your two **Stats** (chosen objectively by what the moment needs), **+1** if one of your three
+**Assets** fits (argued via the one-sentence test). Both → **+2**; neither → **+0** (you can
+still try — you just roll the bare dice).
 
 There are two ways to resolve a roll, depending on the situation:
 
@@ -465,7 +476,7 @@ If a player rolls **matching numbers (doubles)**, their result is upgraded by on
 *Lights, Camera, Action!* runs on a small, fixed set of **moves** — every time you pick up the dice to
 settle something, you're making one. They fall into three families by **what they do:**
 
-- **Action moves** *resolve a hero's attempt* at something risky — **2d6 + 2/+1**, read
+- **Action moves** *resolve a hero's attempt* at something risky — **2d6 + 0/+1/+2**, read
   Strong/Weak/Miss. The dice **adjudicate** (did you pull it off?).
 - **Progress moves** *open or close a progress track* — a Story Arc or a Challenge. The openers
   (Start a Story Arc, Start a Challenge) roll generatively to set how things begin; the closers
@@ -475,15 +486,15 @@ settle something, you're making one. They fall into three families by **what the
 
 Each move is defined in full in the chapter noted; this list is the authoritative roster.
 
-**Action moves — resolve a hero's attempt (2d6 + 2/+1):**
+**Action moves — resolve a hero's attempt (2d6 + 0/+1/+2):**
 
 | Move | What it does | Chapter |
 |---|---|---|
 | **The Roll** | The core move; handles any risky action, run as a **Regular Roll** (no track) or a **Challenge Roll** (marks a track). Every other move is shaped from it. | Ch.7 |
 | **Aid Your Ally** | The core move pointed at a teammate — on a Hit, hand them +2/+1; same Pay the Price as any roll (Strong: ally +2; Weak: ally +1, aider −1; Miss: nothing, aider −2). | Ch.7/8 |
-| **Mend** | A quick patch in any scene (in a Challenge, it's your turn instead of a Challenge Roll): self or ally, **Strong +3 / Weak +2 / Miss −1 Readiness**, up to current max, **no Surge**, can't revive an Out-of-Action hero. | Ch.9 |
-| **Recovery Scene** | Fall back and regroup: recover **up to the current Readiness max**; **surges the Antagonist Track one box** *and* **lowers the max by 1** (start 9, floor 4). Reliable; the quiet/B-plot beat. | Ch.9 |
-| **Downtime** | The between-Story-Arcs rest: resets the Readiness max to 9, heals to full, restores any Broken Asset (no Surge). | Ch.9 |
+| **Mend** | A quick patch in any scene (in a Challenge, it's your turn instead of a Challenge Roll): self or ally, **Strong +3 / Weak +2 / Miss −1 Readiness**, capped at 9, **no Surge**, can't revive an Out-of-Action hero. | Ch.9 |
+| **Recovery Scene** | Fall back and regroup: the party heals **fully back to 9**; **surges the Antagonist Track one box**. Reliable; the only Antagonist-Track advance; the quiet/B-plot beat. | Ch.9 |
+| **Downtime** | The between-Story-Arcs rest: heals to full, restores any Broken Asset (no Surge). | Ch.9 |
 | **Showdown** *(the climax)* | The last-box roll when the heroes reach the climax (Story Arc Track full); decides the Story's outcome. A Miss escalates rather than ending it outright. | Ch.8/10 |
 
 **Progress moves — open or close a progress track:**
@@ -524,7 +535,7 @@ with their own box machinery:
 | Size | Story Arc Track | Antagonist Track | Feels like |
 |---|---|---|---|
 | **Episode** | **3 Milestones** | **2** (1 surge + the climax) | one TV episode, told in one sitting |
-| **Movie** | **6 Milestones** | **3** (2 surges + the climax) | a feature film, over ~2–3 sessions |
+| **Movie** | **6 Milestones** | **4** (3 surges + the climax; a 2-player duo uses **5**) | a feature film, over ~2–3 sessions |
 
 The box counts are defaults, not locks — a meaty Episode can stretch a Milestone or two. The
 Antagonist Track is always **short**, sized so its surges land the villain *one step from winning*
@@ -552,7 +563,8 @@ connective tissue of a Season: the slow-burn relationship, the rival, the season
 > each with an equal-length Antagonist Track, advanced by fleeing + an optional tick). That
 > structure was a Starforged inheritance and **could not produce the game's goal** — a story whose
 > villain ends *one step from winning*. The new model: **one Story = one spine**, two individual
-> sizes with machinery (**Episode 3/2, Movie 6/3**), Season/Series as prose collection patterns,
+> sizes with machinery (**Episode 3/2, Movie 6/4** — duo Movie 6/5; revised 2026-06-22, was 6/3),
+> Season/Series as prose collection patterns,
 > B-plots as lose-clock-free threads. Recovery is **two moves** — a small risky **Mend** (no surge,
 > the in-Challenge tactical choice) and the full-reset **Recovery Scene** (which surges the villain).
 > Validated in `Math & Simulation Reference.md` (the new
@@ -719,11 +731,6 @@ The number of boxes scales with the size of the player group:
 - **Very Hard Challenge** *(optional — reach for it only at a climax, and only if you want to)* —
   boxes = number of players **+2.** (2 players = 4 boxes)
 
-> **Big groups (4+ players) add one box to every Challenge** — so Easy = players, Medium =
-> players +1, Hard = players +2, Very Hard = players +3. A larger party has more Readiness and more
-> Aid to spend, so it needs slightly longer tracks to keep the villain's clock advancing and the
-> climax tight.
->
 > **Very Hard (DECIDED 2026-06-21):** an optional top rung for the Showdown — the *finale itself*,
 > not an extra obstacle before it, so its length raises the stakes of the climax without bleeding
 > attrition into a later scene. Validated as a gentle, safe escalation: making a Movie's finale Very
@@ -736,9 +743,10 @@ The number of boxes scales with the size of the player group:
 > story *mixes* difficulties, and the balance must hold for a mix, not for all-Easy play. The old
 > ladder (Easy = players) was tuned to the *floor* of the range, so any realistic mix overshot the
 > loss target badly (a story-shaped mix pushed the canonical 3-player Movie to ~18% loss vs. the
-> ~7–10% goal). Centering **Medium** on the balance point — and giving 4+ groups a box back —
-> lands every party size of 2–6 in a healthy ~5–13% Movie-loss band on a mixed story. See
-> `Math & Simulation Reference.md` §0b.
+> ~7–10% goal). Centering **Medium** on the balance point lands every party size of 2–6 in a
+> healthy Movie-loss band on a mixed story. See `Math & Simulation Reference.md` §0b. *(Revised
+> 2026-06-22: the old "groups of 4+ add one box to every tier" rule was dropped — the ladder is
+> now plain Easy/Medium/Hard = p−1/p/p+1 for all group sizes.)*
 
 ### 2. The Turn Loop
 
@@ -778,8 +786,8 @@ The Challenge ends the moment the last empty box is filled.
 **A variant of the core move** (the book defines it in **Ch.7 — The Roll**, not in the
 Challenge chapter; it's general teamwork, usable in or out of a Challenge). On your turn,
 instead of acting against a problem yourself, you can help a teammate. Describe how you
-assist, then roll 2d6 + modifier (use **+2** if one of your Assets fits the help, **+1**
-otherwise):
+assist, then roll 2d6 + modifier (the usual **+0/+1/+2** — +1 if a relevant Stat fits the
+help, +1 if a fitting Asset does):
 
 - **Strong Hit:** your ally gets **+2** on their next roll.
 - **Weak Hit:** your ally gets **+1** on their next roll, and **you Pay the Price (−1
@@ -846,7 +854,7 @@ is running dangerously low and grinding out the remaining boxes isn't worth the 
 group may **fall back** and regroup. Falling back is resolved as a **Recovery Scene** (Section 9):
 
 - **You lose the Challenge's progress.** Wipe the track; those boxes don't count.
-- **The party regroups up to its current Readiness max** (which then drops by 1 — see §9) — the point of pulling back.
+- **The party heals fully back to 9** — the point of pulling back.
 - **The Antagonist Track surges one box** — the bad guys gain ground because the heroes gave it.
   Play out the **Surge** (Section 6).
 
@@ -861,47 +869,43 @@ valve; quitting is the whole-Story version.
 
 ### Recovery (Mend & the Recovery Scene)
 
-> ✅ **DECIDED — two recovery moves + a declining recovery ceiling (2026-06-13).** Recovery is
-> **two moves**, governed by a **Readiness max that starts at 9 and drops 1 per Recovery Scene**
-> (floor 4; resets at Downtime). The **Recovery Scene** (fall back and regroup) restores the party
-> **up to its current max**, **surges the villain one box**, *and* **lowers the max by 1** — so each
-> regroup leaves the party a little worse than the last (the ratchet that makes a Story Arc tighten;
-> Ian's "average ~8 after the first rest"). Reliable; player-chosen; the only thing that advances
-> the Antagonist Track. **Mend** is a small, risky **any-scene** patch that **does not surge** — in a
-> Challenge it's a *tactical choice* (patch vs. push). Mend can't be the surge-trigger (a small heal
-> that surges death-spirals — `sim_spine.py`) and **must cost on a Miss (−1)**. **It needs no usage
-> cap:** the −1 risk *and* the declining ceiling (Mend only heals to the current, sinking max) keep
-> it from substituting for a regroup — validated ungated in `Math & Simulation Reference.md` §0
-> (1st-rest avg 8, Episode loss ~2.5%, Movie ~7%; surge frequency unchanged vs. gated).
+> ✅ **DECIDED — two recovery moves (2026-06-13; ratchet removed 2026-06-22).** Recovery is
+> **two moves**, and the **Readiness max stays 9 all game** (the old declining-ceiling "ratchet"
+> was removed). The **Recovery Scene** (fall back and regroup) heals the party **fully back to
+> 9** and **surges the villain one box** — reliable; player-chosen; the only thing that advances
+> the Antagonist Track. **Mend** is a small, risky **any-scene** patch that **does not surge** —
+> in a Challenge it's a *tactical choice* (patch vs. push). Mend can't be the surge-trigger (a
+> small heal that surges death-spirals — `sim_spine.py`) and **must cost on a Miss (−1)**. **It
+> needs no usage cap:** the −1 risk keeps it from substituting for a regroup. Balance validated in
+> `Math & Simulation Reference.md` §0 (fresh party, all-Medium: Episode ~6%, Movie ~16% at party
+> 3, settling toward ~10% as Boons land; win-9-of-10 goal).
 
 **Mend (the any-scene patch).** Any time the fiction gives a beat — in a Challenge (*instead of* a
 Challenge Roll) or in an ordinary scene — a hero may **Mend** (self or a teammate) to recover a
-little. Roll **2d6 + modifier** (+2 if an Asset fits the care, else +1; doubles upgrade):
+little. Roll **2d6 + modifier** (the usual +0/+1/+2 — +1 for a relevant Stat, +1 for a fitting
+Asset; doubles upgrade):
 
 - **Strong (10+):** +3 Readiness. · **Weak (7–9):** +2. · **Miss (6−):** **−1 Readiness** (the
   patch goes wrong) — and a Miss *can* drop a hero to Out of Action.
 
-Mend **never surges the villain** and has **no usage cap.** Its limits are the **−1 risk** and that
-it only heals **up to your current (declining) max** — so it smooths the ride between regroups but
-can never substitute for one or climb you back to full. It's the quick gamble to stay on your feet — when
-you're truly low, the safer play is to fall back for a full Recovery Scene instead.
+Mend **never surges the villain** and has **no usage cap**, but it's **capped at 9.** Its limit is
+the **−1 risk** — so it smooths the ride between regroups but can't substitute for one. It's the
+quick gamble to stay on your feet; when you're truly low, the safer play is to fall back for a full
+Recovery Scene instead.
 
 **The Recovery Scene (fall back and regroup).** When the bleed isn't worth it — or the party simply
 needs to breathe at a safe lull (most often **between Challenges**) — they **fall back** and
-regroup. It **restores the whole party up to its current Readiness max** (reliable, no roll),
-**surges the Antagonist Track one box** (Section 6), and **lowers the Readiness max by 1** for the
-rest of the Story Arc (floor 4). The max starts at 9, so the first regroup brings everyone to 8,
-the next to 7, and so on — **each regroup heals a little less than the last,** tightening the Story
-Arc toward its climax. It is **gated by the fiction** (no safe beat, no regroup) and **player-chosen**,
-*discovered in play, never on a schedule.* The heroes won't *voluntarily* surge into the reserved
-climax box. Because the regroup is the quiet beat — **often a B-plot or character scene** (the
-campfire, the heart-to-heart) — **taking time for the cast is never free**: character scenes are
-where the villain gains ground, which gives the slow scenes real stakes.
+regroup. It **heals the whole party fully back to 9** (reliable, no roll) and **surges the
+Antagonist Track one box** (Section 6). It is **gated by the fiction** (no safe beat, no regroup)
+and **player-chosen**, *discovered in play, never on a schedule.* The heroes won't *voluntarily*
+surge into the reserved climax box. Because the regroup is the quiet beat — **often a B-plot or
+character scene** (the campfire, the heart-to-heart) — **taking time for the cast is never free**:
+character scenes are where the villain gains ground, which gives the slow scenes real stakes.
 
-**Downtime (between Story Arcs).** Finishing a Story Arc **resets the Readiness max to 9**, heals
-everyone to full, and **restores any Broken Asset** — **no Surge** (the Story Arc is resolved). It's the *slow down and
-roleplay* breather between adventures (optionally a d6 prompt: gearing up, good company, loved
-ones, a beat for the heart). Heroes always start the next Story fresh.
+**Downtime (between Story Arcs).** Finishing a Story Arc heals everyone to full and **restores any
+Broken Asset** — **no Surge** (the Story Arc is resolved). It's the *slow down and roleplay*
+breather between adventures (optionally a d6 prompt: gearing up, good company, loved ones, a beat
+for the heart). Heroes always start the next Story fresh.
 
 **Out of Action (the loss vector).** A hero at 0 Readiness can't act. **Mend cannot revive them** —
 only a full **Recovery Scene** (or Downtime) brings a hero back from 0, so getting them up **forces
@@ -927,17 +931,17 @@ meaningful — **ammunition spent against the villain's clock**, not a survival 
 
 **Broken Assets (DECIDED 2026-06-09).** Going Out of Action also breaks **one Asset** — the one
 that failed the hero in the moment they went down (Guide calls it; Co-op table agrees, defaulting
-to whatever they were leaning on). A **broken Asset gives no +2:** any roll it would have covered
-is made at **+1**, exactly like acting off-Asset. It is *never* a penalty — it only removes the
-bonus, so the **+1 floor is preserved** with zero new math (this is why we break an existing Asset
+to whatever they were leaning on). A **broken Asset gives no +1:** any roll it would have covered
+drops that Asset's +1, exactly like acting off-Asset. It is *never* a penalty — it only removes the
+bonus, so the **+0 floor is preserved** with zero new math (this is why we break an existing Asset
 rather than add a negative-modifier one). Only **Downtime (finishing a Story) restores a Broken
 Asset** — a mid-Story Recovery Scene heals Readiness but can't un-break an Asset. Going down again
 before the Story ends breaks a second Asset. This is the *durable* teeth layer (Starforged
 "impacts") that a full-restoring Readiness track lacks; scoped to Out of Action only for now.
 Distinct from advancement's **Trade In** (a break is temporary, free, and involuntary; a Trade In
 is permanent, costs Growth, and is chosen — §4 / Ch.13). Optional flavor: a Guide may write a
-one-off **condition** (*Broken Spirit, Rattled*) that behaves identically (cancels the +2 → roll
-+1, clears at Downtime, never a flat penalty) when the hurt doesn't map to a single Asset.
+one-off **condition** (*Broken Spirit, Rattled*) that behaves identically (cancels an Asset's +1,
+clears at Downtime, never a flat penalty) when the hurt doesn't map to a single Asset.
 
 **The teeth aren't the Readiness pool — they're the Surge.** A Recovery Scene restores you fully,
 so the party rarely *stays* worn down; the cost is that every regroup hands the villain a box, and
@@ -1090,7 +1094,8 @@ Everyone is a player, sharing the directing duties equally.
 > entries: **sandbox play is dropped.** Several decisions logged below are now obsolete and are
 > retained only for the reasoning trail — the canonical rules are §6/§7/§9 above. Specifically
 > superseded: *"Four Story Arc types + unified headway rule"* (now **two individual sizes** —
-> Episode 3/2, Movie 6/3 — with Season/Series as **prose collection patterns**); *"Antagonist
+> Episode 3/2, Movie 6/4 (duo 6/5; revised 2026-06-22) — with Season/Series as **prose collection
+> patterns**); *"Antagonist
 > Track flee-primary + optional telling-failure tick"* (now advances **only on a Recovery
 > Scene**, with a **reserved climax box**); *"rolled SF-C recovery"* (now **two moves**: a small
 > risky **Mend** — Strong +3 / Weak +2 / **Miss −1**, no surge, an any-scene tactical patch —
@@ -1112,8 +1117,8 @@ Everyone is a player, sharing the directing duties equally.
 > §4 DECIDED note). **(8) Fully-stacking Aid is balance-safe** — the opportunity cost makes it
 > self-defeating to farm (`sim_aid.py`; §7 Aid note). Both modeled and closed 2026-06-14.
 > **(9) Micro-clarifications** (derivable defaults, folded into the chapters): Mend on a hero
-> already at max does nothing (and still risks the −1 — don't); at the Readiness-max floor of 4
-> the ceiling stops dropping but a regroup still heals-to-4 and still surges; a loss past 0 stops
+> already at 9 does nothing (and still risks the −1 — don't); a Recovery Scene always heals to a
+> full 9 and still surges (no declining ceiling — ratchet removed 2026-06-22); a loss past 0 stops
 > at 0 (no overflow; OoA is the worst case); a generative roll (Start a Story Arc / Start a
 > Challenge) that rolls doubles on an already-10+ result takes the top result **plus** a small
 > extra edge.
@@ -1220,9 +1225,11 @@ fifth Core Principle, and the *Amazing Tales* **starter-backdrop** option.
   rejected.
 - ✅ **Multiple Story Arcs can run at once** — the old "one active adventure" rule is dropped.
 
-- ✅ **Asset modifier — +2 / +1.** +2 when an Asset applies, +1 for anything else. The +1
-  floor (not +0) keeps off-niche actions from feeling hopeless; this is the scheme all the
-  balance/simulation work and the max-9 target assumed.
+- ✅ **Roll modifier — +0 / +1 / +2 (revised 2026-06-22, was +2 / +1).** +1 for a relevant
+  **Stat** (one of your two, chosen objectively), +1 for a fitting **Asset** (one of your three,
+  argued); both → +2, neither → +0. The **+0 floor** (replacing the old always-on +1 floor) is the
+  edge of danger — acting outside your Stats and Assets is a real gamble. This is the scheme the
+  current balance/simulation work and the max-9 target assume.
 
 - ✅ **Character advancement (2026-06-08)** — **horizontal** growth via a per-hero **Growth
   Track**: earn 1 **Growth** every 3 Milestones (cumulative, never resets per arc); spend **2** on a **Boon** (a once-per-

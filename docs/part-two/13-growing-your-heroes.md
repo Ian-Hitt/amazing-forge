@@ -2,7 +2,7 @@
 
 A hero who slays the dragon in Episode One shouldn't feel like the same hero by the season finale. They've earned scars, signature moves, and a reputation. This chapter is how that shows up on the sheet.
 
-But *Lights, Camera, Action!* grows heroes in an unusual way, and it's worth saying up front: **your heroes get more tools, never bigger numbers.** A starting hero and a veteran both roll the same 2d6 and add the same +2. The veteran just has *more* — more signature tricks, more Assets, more ways to bend a scene their way. I call this **horizontal growth**, and it's the secret that keeps the game working over a long game (more on why at the end of the chapter).
+But *Lights, Camera, Action!* grows heroes in an unusual way, and it's worth saying up front: **your heroes get more tools, never bigger numbers.** A starting hero and a veteran both roll the same 2d6 and add the same +0 to +2. The veteran just has *more* — more signature tricks, more Assets, more ways to bend a scene their way. I call this **horizontal growth**, and it's the secret that keeps the game working over a long game (more on why at the end of the chapter).
 
 > **One-shots can skip this entirely.** If you're playing a single **Episode** in an afternoon, there's little to do here — one sitting earns about 1 Growth, not enough to buy anything yet. Advancement is for **Season** and **Series** play, where the same heroes return episode after episode. Come back when your group decides to keep going.
 
@@ -37,9 +37,9 @@ A **Boon** is the everyday reward — cheap enough to pick up a couple of times 
 
 ### New Assets and the ceiling of six
 
-A hero starts with **four Assets** (Chapter 2) and can grow to **six**. The fifth and sixth are bought the same way — 5 Growth each — and follow all the normal rules for what makes a good Asset (broad enough to come up, specific enough that it clearly doesn't cover everything). One thing you **can't** buy is a second **Attribute** — the broad "Strong / Quick / Clever / Sneaky / Charming" pick is capped at one per hero, on purpose, so that wide **+1 floor** never closes up. New Assets are the specific kind.
+A hero starts with **three Assets** (Chapter 2) and can grow to **six**. The fourth, fifth, and sixth are bought the same way — 5 Growth each — and follow all the normal rules for what makes a good Asset (broad enough to come up, specific enough that it clearly doesn't cover everything). One thing you **can't** buy with Growth is a **Stat** — you pick your two Stats once, at creation (Chapter 2), and that broad "Strong / Quick / Clever / Sneaky / Charming" layer never changes. Growth only ever adds *Assets* and the *Boons* attached to them — never a bigger number on the roll. That's what keeps the wide **+0 floor** open, where the danger lives.
 
-Six is the hard ceiling. There's a reason: your Assets are your competence, and if a hero had an Asset for *everything*, they'd be +2 on every roll — which is exactly the "Lucky / Good at everything" trap the Asset rules warn against. Six keeps a hero clearly capable without making the +2 meaningless.
+Six is the hard ceiling. There's a reason: your Assets are your competence, and if a hero had an Asset for *everything*, one would fit every roll — a guaranteed **+1** on top of whatever your Stats give, which is exactly the "Lucky / Good at everything" trap the Asset rules warn against. Six keeps a hero clearly capable without erasing the rolls where no Asset fits.
 
 So once a hero has six Assets, they can't simply add a seventh. Instead they **Trade In**: retire one Asset they've outgrown and replace it with the new one. It still costs the full 5 Growth, and it's a great story beat — *the young thief sets down "Grandpa's Lockpicks" and picks up "Captain of the Free Companies."* Narrate what changed.
 
@@ -49,7 +49,7 @@ So once a hero has six Assets, they can't simply add a seventh. Instead they **T
 
 ## Building a Boon
 
-A **Boon** is a signature move attached to one of your Assets. The key thing about a Boon: **it never raises your everyday roll.** Your baseline is always 2d6 + 2 (or +1), from your first session to your last — a Boon doesn't nudge that number up. What it gives you is a *thing you can do* in the moments your Asset applies.
+A **Boon** is a signature move attached to one of your Assets. The key thing about a Boon: **it never raises your everyday roll.** Your baseline is always 2d6 + 0 to +2, from your first session to your last — a Boon doesn't nudge that number up. What it gives you is a *thing you can do* in the moments your Asset applies.
 
 Rather than pick from a fixed list, you **build** a Boon from two pieces:
 

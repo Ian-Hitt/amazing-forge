@@ -1,6 +1,6 @@
 # Chapter 5 — Playing the Game
 
-You now know the one move that runs everything: roll 2d6, add +2 or +1, read the result. This chapter shows you how that move plays out at the table across a whole adventure — the two sizes of moment you'll roll for, how to retreat when a scene turns against you, how your heroes patch up and recover, and how you win.
+You now know the one move that runs everything: roll 2d6, add +0 to +2, read the result. This chapter shows you how that move plays out at the table across a whole adventure — the two sizes of moment you'll roll for, how to retreat when a scene turns against you, how your heroes patch up and recover, and how you win.
 
 ### Regular Rolls vs. Challenges
 
@@ -23,7 +23,7 @@ When the group decides a moment is big enough to be a Challenge, here's how to r
 [ ]  [ ]  [ ]
 ```
 
-**2. Take turns.** Go around the group. On your turn, describe what your hero does about the obstacle, then roll 2d6 + your modifier (+2 if an Asset fits, +1 otherwise). Everyone gets a turn before anyone goes again, so the spotlight keeps moving and no one hero hogs the scene.
+**2. Take turns.** Go around the group. On your turn, describe what your hero does about the obstacle, then roll 2d6 + your modifier (+1 for a fitting Stat, +1 for a fitting Asset, +2 for both, +0 for neither). Everyone gets a turn before anyone goes again, so the spotlight keeps moving and no one hero hogs the scene.
 
 **3. Read the result and mark the track:**
 
@@ -61,13 +61,12 @@ A Mend is a gamble — it can backfire, and it costs you your turn (you didn't f
 
 **The Recovery Scene — fall back and regroup.** Whenever the heroes reach a safe lull — **usually between Challenges**, when the action pauses and they can catch their breath — they can take a **Recovery Scene.** This is the big, reliable recovery, and it's where the slower character beats live:
 
-- **The party recovers** — patch up, regroup, breathe — but *not all the way* (see below).
+- **The party recovers fully** — patch up, regroup, breathe. Everyone goes back up to **9 Readiness.**
 - **The bad guys gain ground** — mark **one box on the Antagonist Track.** While you rested, the villain moved.
-- **Your Readiness max drops by 1.** It starts at **9**; after your first Recovery Scene you can only get back up to **8**, then **7**, and so on.
 
-That last part is the squeeze: a Recovery Scene always works, but each one hands the villain a box *and* leaves you a little worse off than last time — so the longer a Story Arc runs, the more it tightens, pushing you to reach the end before you're worn too thin. (The Antagonist Track is only **two boxes** long, too, so you can only regroup so often before the bad guys are at the door.) It's also the quiet, character beat between dangers — which is exactly why it costs you. Everything resets to full when you finish the Story Arc.
+That's the squeeze: a Recovery Scene always works and heals you all the way, but each one hands the villain a box — so the longer a Story Arc runs, the more ground the bad guys cover, pushing you to reach the end before they're at the door. (The Antagonist Track is only **two boxes** long, too, so you can only regroup so often before they win.) It's also the quiet, character beat between dangers — which is exactly why it costs you a box.
 
-You can also take a Recovery Scene to **bail out of a Challenge** that's grinding you down — pull back instead of finishing it. Same deal (recover, the villain gains a box, your max drops), and you additionally **give up that Challenge's progress** — wipe its track. That's your escape hatch when a fight isn't worth the cost.
+You can also take a Recovery Scene to **bail out of a Challenge** that's grinding you down — pull back instead of finishing it. Same deal (heal to full, the villain gains a box), and you additionally **give up that Challenge's progress** — wipe its track. That's your escape hatch when a fight isn't worth the cost.
 
 **Quitting the Story Arc.** If things go really badly — the Antagonist Track fills, or the group simply decides this one isn't winnable — you **Quit the Story Arc.** The bad guys win this round, and that's okay: no penalty, just dust yourselves off. A lost Story Arc is a great springboard — ask *"how did the world change now that the villains got what they wanted?"* and let that shape your next adventure.
 

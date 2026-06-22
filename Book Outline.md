@@ -46,8 +46,8 @@
 **Your Concept**
 *Purpose: The [Adjective/Species] + [Class/Role] formula and the Golden Question. Fast, evocative, no wrong answers. A few examples across genres.*
 
-**Your Four Assets**
-*Purpose: What an Asset is, why you have exactly four, and the quick good/bad list. The one-sentence trigger rule. The **first Asset is an Attribute** — the one broad pick from a closed five (Strong/Quick/Clever/Sneaky/Charming, max one), used as the anchor that makes the rest of the hero fall into place. Enough to make four solid Assets without needing Part Two's full guidance.*
+**Your Stats and Assets** *(revised 2026-06-22)*
+*Purpose: A hero is **two Stats + three Assets**. The **two Stats** are a pick from a closed five (Strong/Quick/Clever/Sneaky/Charming) — the broad layer, decided objectively by what an action calls for (not argued). The **three Assets** are specific signature talents/tools/friends, each with the one-sentence trigger rule and the quick good/bad list. (Retires the old single broad "Attribute" — the closed five survives as the Stat list.) Enough to make a solid hero without needing Part Two's full guidance.*
 
 **Your Readiness**
 *Purpose: You start at 9. It goes down when things go wrong. At 0 you're Out of Action. That's all a first-game player needs — recovery details are in Chapter 5.*
@@ -76,8 +76,8 @@
 
 ### Chapter 4 — The Roll
 
-**How to Roll**
-*Purpose: 2d6 + modifier. +2 if one of your Assets applies; +1 for anything else. Three outcomes: Strong Hit (10+), Weak Hit (7–9), Miss (6−).*
+**How to Roll** *(revised 2026-06-22)*
+*Purpose: 2d6 + modifier. **+1** if the action's relevant Stat is one of your two Stats; **+1** if one of your three Assets applies; **+2** if both; **+0** if neither (you can still try — out of your element is a real gamble). Three outcomes: Strong Hit (10+), Weak Hit (7–9), Miss (6−).*
 
 **The Outcomes**
 *Purpose: The core result table — what each outcome means in plain language. Strong = you did it clean. Weak = you did it, but Pay the Price. Miss = it failed, and Pay the Price.*
@@ -149,8 +149,8 @@
 **Oracle's Blessing / Outstanding Success**
 *Purpose: Full doubles rule. Outstanding Success: on Strong + doubles, the player adds a narrative bonus of their choice — spell out examples of what that might look like.*
 
-**Design Note: Why +2/+1 Instead of Stats**
-*Purpose: Explain the math briefly. Four Assets do double duty — they're your stats and your special moves. The +1 floor keeps off-Asset actions from feeling hopeless. The gap between +2 and +1 is meaningful but not punishing.*
+**Design Note: Why +0/+1/+2 (Stats and Assets)** *(revised 2026-06-22)*
+*Purpose: Explain the math briefly. Two layers stack: an **objective Stat layer** (decided by what the action calls for, not argued) and a **flexible Asset layer** (argued via the one-sentence test). Either alone is +1; both is +2; neither is +0 — the +0 floor makes acting out of your element a real gamble. Splitting the layers restores the floor that a single argued layer eroded.*
 
 ---
 
@@ -159,8 +159,8 @@
 **When to Draw a Track**
 *Purpose: The group story call. "How much screen time does this moment deserve?" No mechanical reward for rushing — the only question is which choice tells the better story.*
 
-**Setting Difficulty**
-*Purpose: Easy = players −1 (min 1), Medium = players, Hard = players +1, **Very Hard = players +2 (optional, climaxes only)**; **4+ players add one box to every tier.** Difficulty is a screen-time dial, so stories mix tiers — the ladder is centered on Medium so a mix stays balanced. How to calibrate to session pacing.*
+**Setting Difficulty** *(revised 2026-06-22)*
+*Purpose: Easy = players −1 (min 1), Medium = players, Hard = players +1, **Very Hard = players +2 (optional, climaxes only)**. A plain ladder for all sizes (the old "4+ players add one box to every tier" rule is dropped). Difficulty is a screen-time dial, so stories mix tiers — the ladder is centered on Medium so a mix stays balanced. How to calibrate to session pacing.*
 
 **The Turn Loop**
 *Purpose: Popcorn-style round-robin. No initiative. Everyone acts once before anyone acts twice. How to handle spotlight sharing.*
@@ -206,17 +206,14 @@
 
 #### Part B — Recovery
 
-**Mend (the Quick Patch)**
-*Purpose: A small, risky patch available in ANY scene (a Challenge is just a scene with a track — in one, Mending is your turn instead of a Challenge Roll). Self or ally: Strong +3 / Weak +2 / Miss −1 Readiness, up to your current max. Does NOT surge the villain; no usage cap; can't revive someone Out of Action. What keeps it honest: the −1 risk, and that it only heals to your current (declining) max — so it smooths the ride between regroups but can't substitute for one. A Miss can knock you Out of Action.*
+**Mend (the Quick Patch)** *(revised 2026-06-22)*
+*Purpose: A small, risky patch available in ANY scene (a Challenge is just a scene with a track — in one, Mending is your turn instead of a Challenge Roll). Self or ally: Strong +3 / Weak +2 / Miss −1 Readiness, capped at 9. Does NOT surge the villain; no usage cap; can't revive someone Out of Action. What keeps it honest: the −1 risk — a tactical patch-vs-push choice. A Miss can knock you Out of Action.*
 
-**The Recovery Scene (Fall Back and Regroup)**
-*Purpose: Recovery is fiction-gated (a safe lull, most often between Challenges) and player-chosen — never scheduled. A Recovery Scene restores the WHOLE party up to its current Readiness max, reliably (no roll) — and in return the Antagonist Track surges one box (Ch10) AND the Readiness max drops by 1. It's the quiet/B-plot beat, so character scenes are where the villain gains ground. Won't voluntarily surge the reserved climax box. The only thing that advances the villain.*
+**The Recovery Scene (Fall Back and Regroup)** *(revised 2026-06-22)*
+*Purpose: Recovery is fiction-gated (a safe lull, most often between Challenges) and player-chosen — never scheduled. A Recovery Scene heals the WHOLE party fully back to 9, reliably (no roll) — and in return the Antagonist Track surges one box (Ch10). It no longer lowers any max; Readiness max stays 9 all game (no declining ceiling). It's the quiet/B-plot beat, so character scenes are where the villain gains ground. Won't voluntarily surge the reserved climax box. The only thing that advances the villain.*
 
-**The Declining Recovery Ceiling (the ratchet)**
-*Purpose: The Readiness max starts at 9 and drops 1 with each Recovery Scene (floor 4), resetting at Downtime. So each regroup leaves the party a little worse than the last (avg ~8 after the first) — recovery never fully bails you out, and a Story Arc tightens as it runs, pushing the heroes to the climax. This is why you go LONG by chaining Story Arcs (each resets), not by bloating one. (Teach it plainly: "you come back a little less each time you fall back.")*
-
-**Downtime (Between Story Arcs)**
-*Purpose: Finishing a Story Arc resets the Readiness max to 9, heals everyone to full, and restores any Broken Asset — no Surge. The slow-down-and-roleplay breather between adventures (optional d6 prompt). You always start the next Story Arc fresh.*
+**Downtime (Between Story Arcs)** *(revised 2026-06-22)*
+*Purpose: Finishing a Story Arc heals everyone to full and restores any Broken Asset — no Surge. The slow-down-and-roleplay breather between adventures (optional d6 prompt). You always start the next Story Arc fresh.*
 
 **Out of Action: the Loss Vector**
 *Purpose: A hero at 0 forces a Recovery Scene to get them up — and that forced Surge can fill the reserved climax box, losing the Story before the Showdown. Readiness is ammunition against the villain's clock, not a survival meter. Also breaks an Asset until the between-Stories Downtime restores it.*
@@ -225,10 +222,10 @@
 *Purpose: At 0 Readiness, a hero can't act — and climbing back is a roll that can fail, so it has teeth. They return by being Mended at a safe lull (self or ally; exempt from the per-Milestone cap, but can whiff), the party's next Downtime, or an ally's Aid Your Ally rescue mid-Scene (+3). Never permanent (heroes can't die), but being dropped costs a turn or a Scene.*
 
 **Broken Assets**
-*Purpose: The durable-teeth layer (Starforged "impacts"). Going Out of Action breaks one Asset — the one that failed you (Guide/table names it). A broken Asset gives no +2 (rolls fall to +1), never a penalty (preserves the +1 floor, zero new math — we break an existing Asset, not add a negative one). Only Downtime restores one, per rest. Going down again breaks a second. Scoped to Out of Action only. Distinct from advancement's Trade In (temporary/free/involuntary vs. permanent/Growth/chosen — Ch.13). Optional: free-floating conditions (Broken Spirit) that work the same. Cross-refs Ch.7 (+2 rule) and the hero sheet (Broken checkbox).*
+*Purpose: The durable-teeth layer (Starforged "impacts"). Going Out of Action breaks one Asset — the one that failed you (Guide/table names it). A broken Asset gives no +1 (a roll that would have been +2 falls to +1; an Asset-only roll falls to +0 — your Stats are untouched), never a penalty (zero new math — we break an existing Asset, not add a negative one). Only Downtime restores one, per rest. Going down again breaks a second. Scoped to Out of Action only. Distinct from advancement's Trade In (temporary/free/involuntary vs. permanent/Growth/chosen — Ch.13). Optional: free-floating conditions (Broken Spirit) that work the same. Cross-refs Ch.7 (the roll) and the hero sheet (Broken checkbox). (revised 2026-06-22)*
 
 **Design Note: Why Recovery Is Rolled, Gated, and Can Whiff**
-*Purpose: On-demand reliable healing flattens all tension (sim showed it). Fix borrowed from Starforged: make recovery infrequent + unreliable (Mend once/Milestone, can whiff) so Pay the Price and Out of Action keep teeth — but never cross into downward damage on a failed heal. Cap 9 keeps choices accumulating.*
+*Purpose: On-demand reliable healing flattens all tension (sim showed it). Fix borrowed from Starforged: keep the small patch (Mend) unreliable — it can whiff (Miss −1) — so Pay the Price and Out of Action keep teeth, without crossing into downward damage as a rule. Mend is any-scene (no usage cap); its risk, not a cap, is the brake. Cap 9 keeps choices accumulating. (revised 2026-06-22)*
 
 ---
 
@@ -241,8 +238,8 @@
 **Story Arc Structure**
 *Purpose: A Story Arc has a Goal (victory condition), Milestones (steps toward it), and a Story Arc Track (boxes to check) paired with the Antagonist Track. Full treatment of how to construct these.*
 
-**Two Story Sizes: Episode and Movie**
-*Purpose: A Story is one spine with two tracks. Only two sizes carry box machinery — Episode (3 Milestones / 2-box Antagonist Track, one sitting) and Movie (6 Milestones / 3-box Antagonist Track, one complete feature over ~2–3 sessions). Pick with one question ("a single sitting, or a feature?"). The Antagonist Track is short and sized so the villain lands one step from winning at the climax. Box counts are defaults you can stretch.*
+**Two Story Sizes: Episode and Movie** *(revised 2026-06-22)*
+*Purpose: A Story is one spine with two tracks. Only two sizes carry box machinery — Episode (3 Milestones / 2-box Antagonist Track, one sitting) and Movie (6 Milestones / 4-box Antagonist Track, one complete feature over ~2–3 sessions). **Duos (2 players) use a 5-box Antagonist Track for the Movie** (one extra regroup); Episode is unchanged. Pick with one question ("a single sitting, or a feature?"). The Antagonist Track is short and sized so the villain lands one step from winning at the climax. Box counts are defaults you can stretch.*
 
 **Seasons and Series Are Collections, Not Sizes**
 *Purpose: Episode and Movie are individual stories; Season and Series describe how you string them together over a long game — prose patterns, no new machinery. A Season is usually a collection of Episodes/Movies sharing a throughline (recurring villain, a season-long question carried by a B-plot thread); occasionally a single long serialized spine (just a big Movie). A Series is always a collection — the whole game, a run of Seasons. How to plan and connect them.*
@@ -264,8 +261,8 @@
 **What It Is**
 *Purpose: The Antagonist Track is the losing side of the same Story Arc — not a separate arc, its other end — running in parallel, a core part of every arc (not optional). The race between the two tracks. Why it's mandatory: it's the backbone of the flee/stay-alive system.*
 
-**Drawing the Track (with a Reserved Climax Box)**
-*Purpose: Short — Episode 2 / Movie 3 boxes. The TOP box is the reserved climax (the Showdown): lower boxes fill during play, the top only at the finale. Mark the climax box visibly. Each lower box is the villain gaining ground while the heroes regroup.*
+**Drawing the Track (with a Reserved Climax Box)** *(revised 2026-06-22)*
+*Purpose: Short — Episode 2 / Movie 4 boxes (Movie is 5 for a duo). The TOP box is the reserved climax (the Showdown): lower boxes fill during play, the top only at the finale. Mark the climax box visibly. Each lower box is the villain gaining ground while the heroes regroup.*
 
 **Characterize Your Antagonist**
 *Purpose: The antagonist can be a person, faction, or a force (a desert, a plague, a deadline). Give it a face — name what it wants and what "winning" looks like — so every Surge is a concrete beat (surge the desert → a sandstorm).*
@@ -375,7 +372,7 @@
 
 *Purpose: How heroes grow across a campaign — earning Growth and spending it on Boons and new Assets. Required for Season/Series multi-session play. Settled 2026-06-08 (Growth rule revised 2026-06-12); see `Core Mechanics - Master Reference.md` Section 4, Step 4.*
 
-> ✅ **DECIDED — horizontal advancement.** Heroes grow by gaining **tools and signature moves, never bigger numbers**, so the +2/+1 curve and max-9 Readiness are never touched and enemy tracks never rescale. Written (`docs/part-two/13-growing-your-heroes.md`).
+> ✅ **DECIDED — horizontal advancement.** Heroes grow by gaining **tools and signature moves, never bigger numbers**, so the +0/+1/+2 curve and max-9 Readiness are never touched and enemy tracks never rescale. Written (`docs/part-two/13-growing-your-heroes.md`).
 
 **The Growth Track**
 *Purpose: Each hero tracks their own Growth on a simple row of boxes. Every 3rd Milestone the party marks (on any Story Arc), each hero earns 1 Growth — cumulative, never resets per arc, all heroes tick together. Ties Growth to headway actually played, not arcs finished (~1 per session): a standalone Movie/Season can't be starved and a stretched arc can't be gamed. Why a track, not per-Milestone upgrades: avoids bloat.*
@@ -467,17 +464,17 @@
 **The Moves at a Glance — Moves Cheatsheet** ✅ *Built (`docs/part-four/moves-cheatsheet.md`).*
 *Purpose: The full roster on one printable card, grouped by family — **Action Moves** (resolve a hero's attempt: The Roll, Aid Your Ally, Mend, Downtime, Showdown) and **Frame Moves** (establish/shift the situation: Start a Story Arc, Ask the Oracle, Pay the Price, Flee, Quit the Story Arc). One line each: what it does, what you roll, plus the core-roll legend. Designed to print and sit in the middle of the table. Mirrors "The Moves (Master List)" in the mechanics reference. (**Action move** / **Frame move** are now canonical Standard Vocabulary, locked 2026-06-09.)*
 
-**The Roll**
-*Purpose: Outcomes table (Strong Hit / Weak Hit / Miss), modifier rules (+2/+1), Oracle's Blessing. One page.*
+**The Roll** *(revised 2026-06-22)*
+*Purpose: Outcomes table (Strong Hit / Weak Hit / Miss), modifier rules (+0/+1/+2 — Stat, Asset, both, or neither), Oracle's Blessing. One page.*
 
 **Challenges**
 *Purpose: Difficulty scaling, turn structure, outcome table, ending a Challenge. One page.*
 
-**Readiness & Recovery**
-*Purpose: Readiness loss, the two rolled recovery moves (Mend +2/+3 self-or-ally, Downtime +6/+7), Out of Action rules, cap (9).*
+**Readiness & Recovery** *(revised 2026-06-22)*
+*Purpose: Readiness loss, Mend (Strong +3 / Weak +2 / Miss −1, capped at 9, no Surge), the Recovery Scene (full heal to 9 + one Surge, no declining ceiling), Downtime (full heal), Out of Action rules, cap (9).*
 
-**Story Arcs**
-*Purpose: Track sizes (3/4/5), what a Milestone is, finishing a Story Arc.*
+**Story Arcs** *(revised 2026-06-22)*
+*Purpose: Story Arc Track lengths (Episode 3 Milestones / Movie 6) and Antagonist Track sizes (Episode 2 / Movie 4, or 5 for a duo), what a Milestone is, finishing a Story Arc.*
 
 **Ask the Oracle**
 *Purpose: The three steps (name next Milestone → do the obvious / Story Spark / Ask the Dice).*
@@ -489,8 +486,8 @@
 
 ### Blank Sheets
 
-**Hero Sheet**
-*Purpose: Concept line, four Asset boxes, Readiness track (numbered 0–9), space for Story Arc notes. Designed to be photocopied or printed.*
+**Hero Sheet** *(revised 2026-06-22)*
+*Purpose: Concept line, two Stat picks, three Asset boxes, Readiness track (numbered 0–9), space for Story Arc notes. Designed to be photocopied or printed.*
 
 **Story Arc & Challenge Track Sheet**
 *Purpose: A grid of blank track boxes, labeled so players can draw Story Arc Tracks, the Antagonist Track (paired, same length), and Challenge Tracks on one sheet.*

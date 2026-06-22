@@ -105,7 +105,7 @@ The full ladder — name the Milestone, do the obvious, Story Spark, Ask the Dic
 
 Falling back to regroup (Chapter 8/9) is always a **group decision**, and in Co-op there's no Guide to frame the moment — so the table has to notice it together.
 
-The question to ask out loud is simple: **"Is the Readiness bleed still worth it — or do we fall back, heal up, and let the villain gain ground?"** That framing matters, because **falling back is a tactic, not a failure.** You trade *story ground* (the Challenge's lost progress, plus a Surge on the **Antagonist Track**, plus a notch off your Readiness max) for *recovery* (the whole party heals back up). A party that never regroups isn't braver — it's just one bad Challenge away from going **Out of Action** for no reason.
+The question to ask out loud is simple: **"Is the Readiness bleed still worth it — or do we fall back, heal up, and let the villain gain ground?"** That framing matters, because **falling back is a tactic, not a failure.** You trade *story ground* (the Challenge's lost progress, plus a Surge on the **Antagonist Track**) for *recovery* (the whole party heals back up to a full 9). A party that never regroups isn't braver — it's just one bad Challenge away from going **Out of Action** for no reason.
 
 Make it a shared call, and make it a *story* beat, not a punishment: narrate the pull-back, play out the **Surge** (Chapter 10) as the antagonist gains ground, and keep going. And remember the floor — because the Antagonist Track is short with a reserved climax box, you can only regroup so many times before the villain is one step from winning. That's what makes each retreat a real decision instead of a free reset.
 

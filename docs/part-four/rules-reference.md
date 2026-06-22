@@ -10,15 +10,15 @@
 
 ## Heroes
 
-Each player makes one hero in about two minutes: a Concept, four Assets, and Readiness.
+Each player makes one hero in about two minutes: a Concept, two Stats, three Assets, and Readiness.
 
 - **Concept** — a one-line "movie poster" pitch (*an Ice-Dragon Knight*, *a Grumpy Goblin Alchemist*).
-- **Four Assets** — by default, picked by answering four questions (you don't have to, but most heroes are built this way):
-    - ① **What are you best at?** Your **Attribute** — one broad pick from **Strong / Quick / Clever / Sneaky / Charming** (max one per hero).
-    - ② **What did you train in?** A **skill.**
-    - ③ **What's your signature item or companion?**
-    - ④ **One Wild pick** of your own. *(Swap among ②–④ freely if your concept wants.)*
-- An Asset that **fits a roll gives +2**. A good Asset is broad enough to come up often, specific enough that it clearly doesn't cover everything (the Attribute is the one deliberately broad pick).
+- **Two Stats** — pick two from the closed five: **Strong** (force, toughness) · **Quick** (speed, reflexes, aim) · **Clever** (knowing, figuring out, spotting) · **Sneaky** (stealth, sleight of hand, a bluff) · **Charming** (winning people over, heart, rallying). They're the broad kinds of action your hero is built for; a fitting Stat adds **+1**. You don't argue a Stat — you ask what the action calls for.
+- **Three Assets** — by default, picked by answering three questions (you don't have to, but most heroes are built this way):
+    - ① **What did you train in?** A **skill.**
+    - ② **What's your signature item or companion?**
+    - ③ **One Wild pick** of your own. *(Swap among them freely if your concept wants.)*
+- An Asset that **fits a roll gives +1** (a fitting Stat *and* a fitting Asset stack to +2). A good Asset is broad enough to come up often, specific enough that it clearly doesn't cover everything — the broad layer is your Stats.
 - **Readiness** starts at **9** — one track for body, mind, and supplies, and your hero's only resource (how it rises and falls is its own system, below).
 
 ## Story Arcs & Milestones
@@ -27,7 +27,7 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 
 - **Set one up:** name the **Goal** (a one-sentence victory condition), a few **Milestones** (concrete, pointable steps — you'll know each the moment it's done), and an **antagonist** (a person, faction, or *force* — a desert, a plague, a deadline; give it a face and a goal). Then draw the two tracks.
 - **The two tracks:** a **Story Arc Track** (your progress — one box per Milestone) and, beneath it, a short **Antagonist Track** whose **top box is the reserved climax.** Fill your track to reach the climax and win it; if the Antagonist Track fills first, you lose. *(How the villain's track advances is part of the recovery system — see below.)*
-- **Sizes (the only two with boxes):** **Episode** = 3 Milestones / **2-box** Antagonist Track (one sitting). **Movie** = 6 Milestones / **3-box** (a ~2-hour feature over 2–3 sessions). **Season** and **Series** are *collections* of Story Arcs, not sizes — run long by **chaining** Stories (plan the big arc up front, or let it emerge from play — either works).
+- **Sizes (the only two with boxes):** **Episode** = 3 Milestones / **2-box** Antagonist Track (one sitting). **Movie** = 6 Milestones / **4-box** (a ~2-hour feature over 2–3 sessions); a **2-player** Movie uses a **5-box** Antagonist Track (one extra regroup). **Season** and **Series** are *collections* of Story Arcs, not sizes — run long by **chaining** Stories (plan the big arc up front, or let it emerge from play — either works).
 - A **Milestone** ≈ 40 minutes of play (a few Scenes, 1–2 of them Challenges); mark a box on significant headway.
 - **Win** by reaching the last Milestone and winning the **Showdown** (below), then take **Downtime.** **Lose** if the Antagonist Track fills, or if you **Quit the Story Arc** (give it up — no penalty; the loss seeds the next Story).
 - **B-plots & character arcs are threads:** a light progress track with **no Antagonist Track / no lose-clock**; they resolve into the spine's climax.
@@ -37,10 +37,10 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 
 Play happens in **Scenes.** This is how a hero acts in one — and how you find out what happens.
 
-- **The Core Roll:** roll **2d6 + 2** if one of your Assets fits, **+ 1** if none does. **10+** Strong Hit (clean success) · **7–9** Weak Hit (success, but **Pay the Price**) · **6−** Miss (fails, and **Pay the Price**). **Doubles = Oracle's Blessing:** bump up one tier. On a Hit, **you narrate** what happens.
+- **The Core Roll:** roll **2d6**, **+1** if the action calls for one of your Stats, **+1** if one of your Assets fits — so **+2** when both apply, **+0** when neither does (you can still try; you just roll the bare dice). **10+** Strong Hit (clean success) · **7–9** Weak Hit (success, but **Pay the Price**) · **6−** Miss (fails, and **Pay the Price**). **Doubles = Oracle's Blessing:** bump up one tier. On a Hit, **you narrate** what happens.
 - **Aid Your Ally:** spend your roll to help a teammate — **Strong** they get +2 · **Weak** they get +1, you −1 · **Miss** nothing, you −2.
 - **Regular Roll vs. Challenge:** a small risk is one **Regular Roll** (no track). A big set-piece — a fight, a chase, an escape — is a **Challenge**, played out over a row of boxes.
-- **Running a Challenge:** **Easy = players −1** (min 1) · **Medium = players** · **Hard = players +1** · **Very Hard = players +2** *(climaxes only)*; **4+ players add one box to each.** Take turns (everyone acts before anyone repeats). Each roll: **Strong** fill a box · **Weak** fill a box + Pay the Price · **Miss** no box + Pay the Price. **Fill the track = the obstacle is beaten** — enemies have *no stats*, the track *is* the enemy.
+- **Running a Challenge:** **Easy = players −1** (min 1) · **Medium = players** · **Hard = players +1** · **Very Hard = players +2** *(climaxes only)*. Take turns (everyone acts before anyone repeats). Each roll: **Strong** fill a box · **Weak** fill a box + Pay the Price · **Miss** no box + Pay the Price. **Fill the track = the obstacle is beaten** — enemies have *no stats*, the track *is* the enemy.
 - **Start a Challenge** *(only when you choose to open one):* roll **2d6 + 1** for a one-time **±1 to the first roll** — **10+** +1 · **7–9** 0 · **6−** −1.
 - **Fall back:** bail out of a Challenge — lose its progress and take a **Recovery Scene** (the party heals up; the villain surges — below).
 - **Showdown** *(the finishing move for a last box — a Challenge's, or a Story Arc's climax):* one charged roll — **Strong** win + a bonus · **Weak** win + Pay the Price · **Miss** add a box and escalate (never an outright loss; never advances the villain).
@@ -54,12 +54,11 @@ Your single resource, how it comes back, and the villain clock that recovery fee
 - **Pay the Price** on a Weak Hit (**−1**) or Miss (**−2**) — always — by narrating the most fitting complication, then docking the Readiness. (Stuck? Roll a d10 for a prompt.)
 - **Out of Action** at 0: you can't act, and **one Asset breaks** (gives no +2 until Downtime). Recoverable — heroes can't die.
 
-**Recovery (three moves) & the declining ceiling**
+**Recovery (three moves)**
 
-- **Mend** — *any scene, on your turn:* patch yourself or an ally. **Strong +3 / Weak +2 / Miss −1.** No usage cap; **never advances the villain;** can't revive an Out-of-Action hero; heals only to current max.
-- **Recovery Scene** — *fall back & regroup at a safe lull:* the whole party recovers **up to current max**, the **Antagonist Track surges one box**, and your **max drops 1.**
-- **Downtime** — *between Story Arcs:* reset max to **9**, heal everyone to full, restore Broken Assets. No surge.
-- **The declining ceiling:** your Readiness max starts at **9** and drops **1 each Recovery Scene** (floor **4**), resetting at Downtime — so each regroup leaves the party a little worse than the last, and a Story tightens the longer it runs.
+- **Mend** — *any scene, on your turn:* patch yourself or an ally. **Strong +3 / Weak +2 / Miss −1.** No usage cap; **never advances the villain;** can't revive an Out-of-Action hero; capped at 9.
+- **Recovery Scene** — *fall back & regroup at a safe lull:* the whole party heals **fully back to 9**, and the **Antagonist Track surges one box.** Reliable; it's the only thing that advances the villain.
+- **Downtime** — *between Story Arcs:* heal everyone to full **9**, restore Broken Assets. No surge.
 
 **The Antagonist Track (the villain's clock)**
 

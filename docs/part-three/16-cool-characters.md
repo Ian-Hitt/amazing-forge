@@ -1,10 +1,10 @@
 # Chapter 16 — Building a Cool Hero
 
-Back in [Chapter 2](../part-one/02-create-your-hero.md) you learned the fast way to make a hero: a **Concept**, four **Assets**, and 9 Readiness. That's all you ever need to play. This chapter is for when you want *more* — when you want a hero who isn't just fun to roll dice for, but a real character with a voice, a drive, and a flaw that gets them into wonderful trouble.
+Back in [Chapter 2](../part-one/02-create-your-hero.md) you learned the fast way to make a hero: a **Concept**, two **Stats**, three **Assets**, and 9 Readiness. That's all you ever need to play. This chapter is for when you want *more* — when you want a hero who isn't just fun to roll dice for, but a real character with a voice, a drive, and a flaw that gets them into wonderful trouble.
 
 There's one tool that does more of that work than any other, and it's the heart of this chapter: the **archetype.**
 
-> **You don't need this for your first game.** A Concept and four Assets already make a great hero. Come here when you want help dreaming one up, when the table wants a cast of clearly different personalities, or when you just want your hero to feel like the lead in a movie.
+> **You don't need this for your first game.** A Concept, two Stats, and three Assets already make a great hero. Come here when you want help dreaming one up, when the table wants a cast of clearly different personalities, or when you just want your hero to feel like the lead in a movie.
 
 ### What an Archetype Does for You
 
@@ -117,7 +117,7 @@ Here's the whole recipe, start to finish. Say you're playing a serious-leaning [
 
 1. **Pick an archetype.** You grab **the Maverick** — you like the "learns to trust the team" arc.
 2. **Build a Concept around it** ([Chapter 2](../part-one/02-create-your-hero.md)). *A Disgraced Ex-Pilot Living in the Cargo Bay.* You answer the Golden Question: leather jacket, arms crossed, refusing to look at the camera.
-3. **Choose four Assets** — maybe pulled from the Sci-Fi kit's d100 table. *Crack Piloting · A Hidden Sidearm · Reading People's Tells · A Beat-Up Maintenance Drone.*
+3. **Pick two Stats, then three Assets** — the Assets maybe pulled from the Sci-Fi kit's d100 table. Stats: **Quick** (the pilot's reflexes) and **Clever**. Assets: *A Hidden Sidearm · Reading People's Tells · A Beat-Up Maintenance Drone.*
 4. **Add the two questions.** Bond: *the drone is the only "person" you trust.* Want vs. need: you *want* to be left alone; you *need* a crew.
 5. **Play the flaw.** When the Captain (a Ruler, played by your friend) gives an order, your first instinct is to ignore it and do it your own way — and that friction *is* the story.
 

@@ -14,13 +14,13 @@ Our two players are **Maya** and **Leo.**
 
 **The heroes.** They each build a character in about two minutes.
 
-Maya plays **Brave, an Ice-Dragon Knight.** Her four Assets — Attribute first: ***Strong*** · *Ice Magic · My Dragon, Cinder · Dragon-Scale Armor.*
+Maya plays **Brave, an Ice-Dragon Knight.** Her two Stats: ***Strong + Charming.*** Her three Assets: *Ice Magic · My Dragon, Cinder · Dragon-Scale Armor.*
 
-Leo plays **Snik, a Grumpy Goblin Alchemist** who left the tunnels years ago. His four Assets — Attribute first: ***Clever*** · *Explosive Potions · Tinkering & Gadgets · I Know Goblin Secrets.*
+Leo plays **Snik, a Grumpy Goblin Alchemist** who left the tunnels years ago. His two Stats: ***Clever + Sneaky.*** His three Assets: *Explosive Potions · Tinkering & Gadgets · I Know Goblin Secrets.*
 
 Both heroes start at **9 Readiness.**
 
-> **▶ Rules note — Heroes (Chapter 2).** Each hero is just a Concept, four Assets, and 9 Readiness. The first Asset is an **Attribute** — the one broad pick (Brave is **Strong**, Snik is **Clever**). Notice Snik's *I Know Goblin Secrets* — a perfect, well-sized Asset for this particular Story Arc, and a built-in bit of backstory.
+> **▶ Rules note — Heroes (Chapter 2).** Each hero is just a Concept, two Stats, three Assets, and 9 Readiness. The Stats are the broad layer (Brave is **Strong + Charming**, Snik is **Clever + Sneaky**) and the Assets are the pointed signature picks. Notice Snik's *I Know Goblin Secrets* — a perfect, well-sized Asset for this particular Story Arc, and a built-in bit of backstory.
 
 **The Story Arc.** Their **Goal:** *get the Sun Crystal back and return it to the village.* For a first game they name exactly **three Milestones:**
 
@@ -45,15 +45,15 @@ They start **in media res** — no packing, no tavern. Brave and Snik are alread
 
 **Maya:** "I send Cinder up along the cliff and ride her so I can spot the entrance from above."
 
-> **▶ Rules note — does an Asset apply?** Maya says it in one sentence: *My Dragon, Cinder* lets her search from the air. That fits → she rolls at **+2.** This is a single moment of risk, so it's a **Regular Roll** — no track.
+> **▶ Rules note — building the modifier.** Two questions. *What does the action call for?* Spotting a hidden door is **Clever** — and Clever isn't one of Brave's Stats, so no Stat point. *Does an Asset fit?* Maya says it in one sentence: *My Dragon, Cinder* lets her search from the air. That fits → **+1.** One layer applies, so she rolls at **+1.** This is a single moment of risk, so it's a **Regular Roll** — no track.
 
-🎲 Maya rolls **5 + 4 = 9**, plus 2 = **11.** → **Strong Hit.**
+🎲 Maya rolls **4 + 6 = 10**, plus 1 = **11.** → **Strong Hit.**
 
 She narrates it: from the air she spots a thin crack in the rock, hidden behind a frozen waterfall. Clean success — no price.
 
 **Leo:** "I climb down to the crack. It's sealed with old goblin runes, but I know these — I press the right ones in order to open it."
 
-> **▶ Rules note.** *I Know Goblin Secrets* clearly applies → **+2**, another Regular Roll.
+> **▶ Rules note.** Two layers stack here. Reading and working old goblin runes is a **Clever** task — one of Snik's Stats (+1) — *and* *I Know Goblin Secrets* clearly applies (+1). Both → **+2.** Another Regular Roll.
 
 🎲 Leo rolls **3 + 4 = 7**, plus 2 = **9.** → **Weak Hit.**
 
@@ -81,9 +81,9 @@ CHALLENGE TRACK:   [ ]  [ ]
 
 **Maya goes first:** "Cinder flies me across, and as we go I use my Ice Magic to freeze a line of floating stepping-stones in the air for Snik to follow."
 
-> **▶ Rules note.** *My Dragon, Cinder* applies → **+2.**
+> **▶ Rules note.** Crossing the chasm calls for **Quick** — not one of Brave's Stats — but *My Dragon, Cinder* applies, so the Asset layer gives her **+1.**
 
-🎲 Maya rolls **5 + 5 = 10**, plus 2 = **12.** → **Strong Hit — and doubles!**
+🎲 Maya rolls **5 + 5 = 10**, plus 1 = **11.** → **Strong Hit — and doubles!**
 
 > **▶ Rules note — Oracle's Blessing (Chapter 4).** Matching dice upgrade the result one tier. A Strong Hit with doubles becomes an **Outstanding Success.** Maya fills a box *and* adds a narrative bonus: her ice-bridge is so solid it will make the crossing easier for Snik.
 
@@ -95,9 +95,9 @@ CHALLENGE TRACK:   [X]  [ ]
 
 **Leo's turn:** "I don't trust the magic ice — I'll just take a running jump across the narrowest part."
 
-> **▶ Rules note.** Snik ignores the ice bridge and relies on a daring leap. None of his Assets really fit a raw jump → he rolls at **+1.**
+> **▶ Rules note — the +0 floor.** Snik ignores the ice bridge and relies on a daring leap. A running jump calls for **Quick** — and Snik is **Clever + Sneaky**, *not* Quick, so no Stat point. None of his Assets fit a raw jump either → no Asset point. That's **+0:** he can still try, but he's reaching outside everything he's good at, so he rolls the bare dice and hopes. This is exactly the gamble the floor is meant to be.
 
-🎲 Leo rolls **1 + 3 = 4**, plus 1 = **5.** → **Miss.**
+🎲 Leo rolls **1 + 3 = 4**, plus 0 = **4.** → **Miss.**
 
 Ouch. No box, and Snik **Pays the Price — lose 2 Readiness.** Leo narrates the obvious disaster: he misjudges the jump, slams into the far ledge, and his whole bag of **Explosive Potions tumbles into the chasm.** **Snik 8 → 6**, and he's clinging to the edge.
 
@@ -107,7 +107,7 @@ Both heroes have now acted, so the round resets and anyone can go again.
 
 **Maya again:** "I won't let him fall — I dive Cinder down, grab Snik, and carry him the rest of the way."
 
-🎲 Maya rolls **3 + 4 = 7**, plus 2 (*My Dragon, Cinder*) = **9.** → **Weak Hit.**
+🎲 Maya rolls **3 + 5 = 8**, plus 1 (*My Dragon, Cinder*; the dive calls for Quick, which Brave lacks) = **9.** → **Weak Hit.**
 
 She fills the **last box** — but a Weak Hit means she Pays the Price too. Cinder strains under the extra weight and clips a stalactite; **Brave loses 1 Readiness (9 → 8).** Still, the box is filled.
 
@@ -131,7 +131,7 @@ Safe on the far side, the heroes find a sheltered hollow out of the wind. Snik i
 
 **Leo:** "Snik repacks what gear he's got left and brews a little camp tea." **Maya:** "Brave checks Cinder's wing where she clipped the rock, then bandages her own scrapes."
 
-> **▶ Rules note — the Recovery Scene & the Surge (Chapter 5).** Falling back to regroup is the reliable recovery: the whole party comes back up — but **not all the way.** Their Readiness max drops from 9 to **8**, so Brave and Snik both come back to **8**, not 9. And it isn't free — **the Goblin King's track surges one box.** Each regroup will leave them a little lower than the last; the screws are tightening.
+> **▶ Rules note — the Recovery Scene & the Surge (Chapter 5).** Falling back to regroup is the reliable recovery: the whole party comes back up **all the way**, so Brave and Snik are both restored to **9.** But it isn't free — **the Goblin King's track surges one box.** That's the trade: a full heal in exchange for handing the villain ground.
 
 **The Surge.** They play it out: the horn from Milestone 1 paid off — the King has had time to **double the guard on the throne and seal the lower tunnels.** The way out just got harder.
 
@@ -145,7 +145,7 @@ ANTAGONIST TRACK:   [X]  [ ]            (one box from winning — the climax is 
 
 ### Milestone 3 — The Goblin King, and Escape
 
-Refreshed — though capped at 8 now, not 9 — the heroes press on to the throne cavern, where the **Goblin King** has the **Sun Crystal** mounted above his throne. They agree this is the climax and run it as one more **Challenge** — Snik's *I Know Goblin Secrets* lets him work the crowd while Brave's *Ice Magic* and *Dragon-Scale Armor* keep the doubled guard at bay.
+Back to full at **9** apiece, the heroes press on to the throne cavern, where the **Goblin King** has the **Sun Crystal** mounted above his throne. They agree this is the climax and run it as one more **Challenge** — Snik's *I Know Goblin Secrets* lets him work the crowd while Brave's *Ice Magic* and *Dragon-Scale Armor* keep the doubled guard at bay.
 
 Two boxes in, things get hairy: an alarm gong sounds (a Pay the Price), guards press in, and after a couple of Misses both heroes are down around 3 Readiness with one box left to fill.
 

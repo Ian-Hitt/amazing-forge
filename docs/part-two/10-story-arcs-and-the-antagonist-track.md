@@ -18,7 +18,7 @@ A Story Arc has three parts:
 
 ```
 STORY ARC TRACK:    [ ]  [ ]  [ ]
-ANTAGONIST TRACK:   [ ]  [ ][★]      ★ = the reserved climax box
+ANTAGONIST TRACK:   [ ]  [★]          ★ = the reserved climax box  (an Episode)
 ```
 
 You don't plan *how* each Milestone gets done — that's what play discovers. You only name the Goal, the Milestones, and the antagonist, draw the two rows, and start in the middle of the action.
@@ -30,7 +30,9 @@ A Story Arc comes in one of two sizes, and these are the only two with their own
 | Size | Story Arc Track | Antagonist Track | Feels like |
 |---|---|---|---|
 | **Episode** | **3 Milestones** | **2 boxes** (1 surge + the climax) | one TV episode, told in a single sitting |
-| **Movie** | **6 Milestones** | **3 boxes** (2 surges + the climax) | a feature film, told over ~2–3 sessions |
+| **Movie** | **6 Milestones** | **4 boxes** (3 surges + the climax) | a feature film, told over ~2–3 sessions |
+
+> **Two-player Movies get one more box.** A duo has fewer heroes to spread the strain across, so a Movie run by **two players** uses a **5-box** Antagonist Track — one extra regroup before the villain is one step from winning. The Episode is unchanged at any size.
 
 Pick the size with one question: **a single sitting, or a feature?** An **Episode** is the short, complete story you finish tonight (your first games use only this). A **Movie** is the bigger self-contained story you tell start-to-finish over a couple of sessions — *the heroes are trapped on a space station spiraling into its sun, with until dawn to get everyone off alive.*
 
@@ -83,7 +85,7 @@ Mix and match — a Story Arc can blend shapes (a journey that ends in a heist, 
 
 You've named the Goal, the Milestones, and the antagonist, and drawn the two tracks. One thing's left before the first scene: find out *how* the Story Arc opens. **Start a Story Arc** is the move that does it — a single roll, made once as the Story Arc begins, that hands you the tone of your launch and points you straight at your opening scene.
 
-Roll **2d6 + 1.** No Asset applies here — this isn't a test of any hero's skill; it's the world deciding how things stand as you set out, so you get the same **+1** floor as any off-Asset action. (And **doubles still trigger Oracle's Blessing**, bumping your opening up a tier — or, if you're already at a 10+, adding an extra stroke of good fortune to your launch.)
+Roll **2d6.** No Stat or Asset applies here — this isn't a test of any hero's skill; it's the world deciding how things stand as you set out, so you roll the bare dice. (And **doubles still trigger Oracle's Blessing**, bumping your opening up a tier — or, if you're already at a 10+, adding an extra stroke of good fortune to your launch.)
 
 Here's the important part: **this is a roll you can't fail.** All three results are good openings — they only differ in how much trouble is already on the heroes when the camera starts rolling.
 
@@ -129,7 +131,7 @@ Each lower box is one of the villain's *own* milestones — the dragon spreading
 
 ### Drawing the Track
 
-Draw the Antagonist Track as a short row beneath the Story Arc Track — **Episode: 2 boxes. Movie: 3 boxes.** **Mark the top box clearly as the climax** (a star, a different color) so everyone can see it's reserved. You don't have to spell out the villain's milestones in advance; you'll decide what each filled box *means* when it happens (see the Surge).
+Draw the Antagonist Track as a short row beneath the Story Arc Track — **Episode: 2 boxes. Movie: 4 boxes** (a two-player Movie uses **5**). **Mark the top box clearly as the climax** (a star, a different color) so everyone can see it's reserved. You don't have to spell out the villain's milestones in advance; you'll decide what each filled box *means* when it happens (see the Surge).
 
 ### Characterize Your Antagonist
 

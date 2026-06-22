@@ -6,12 +6,19 @@ You only roll when there's real doubt and something at stake. If a hero wants to
 
 ### How to Roll
 
-When a hero attempts something risky, **roll two six-sided dice (2d6), add them together, and add your modifier.** Your modifier depends on whether one of your Assets fits what you're doing:
+When a hero attempts something risky, **roll two six-sided dice (2d6), add them together, and add your modifier.** Your modifier is built from two separate questions, each worth **+1**:
 
-- **+2 — an Asset applies.** Use the one-sentence test from Chapter 2: if you can say in a single sentence how one of your exact Assets solves this exact problem, you're in your wheelhouse. Add **+2.**
-- **+1 — anything else.** Trying something reasonable that none of your Assets cover? You're still a capable hero, so you're never helpless — you just add **+1.** It's riskier, but you can always try.
+**Question 1 — does this call for one of your Stats?** First ask what the action *needs.* A chase or a dodge calls for **Quick.** Shoving a door off its hinges calls for **Strong.** Recalling a fact calls for **Clever**, a quiet break-in for **Sneaky**, winning someone over for **Charming.** You don't argue this — you just name what the moment demands. **If that Stat is one of your two, add +1.**
 
-You're never stuck below that. Even right out of your wheelhouse, you roll at +1 and have a real shot.
+**Question 2 — does one of your Assets fit?** Use the one-sentence test from Chapter 2: if you can say in a single sentence how one of your exact Assets solves this exact problem, it fits. **If so, add +1.**
+
+Add them up:
+
+- **+2 — both.** The action is right in your wheelhouse *and* you've got the perfect Asset for it.
+- **+1 — one of the two.** Either the right Stat or a fitting Asset (but not both).
+- **+0 — neither.** The moment calls for something you're not built for, and no Asset covers it. You can still try — you just roll the bare dice and hope. Heroes are never *forbidden* from acting; they're just on their own here.
+
+That **+0** is the new edge of danger: when a hero reaches outside everything they're good at, the dice get a lot scarier. It's also why your two Stats matter — they decide which kinds of moments your hero shines in, and which ones make them sweat.
 
 ### The Outcomes
 
@@ -55,6 +62,6 @@ Doubles are always good news. Watch for those matching numbers — when they lan
 
 ### That's the Whole Engine
 
-Roll 2d6, add +2 or +1, read Strong Hit / Weak Hit / Miss, and narrate it. That single move carries the entire game. Next you'll see the two ways it shows up at the table — quick one-off rolls, and bigger action scenes called Challenges — plus how your heroes patch up and recover.
+Roll 2d6, add **+0 to +2** (a point for a fitting Stat, a point for a fitting Asset), read Strong Hit / Weak Hit / Miss, and narrate it. That single move carries the entire game. Next you'll see the two ways it shows up at the table — quick one-off rolls, and bigger action scenes called Challenges — plus how your heroes patch up and recover.
 
 **Next up:** playing the game — Regular Rolls, Challenges, and Recovery. Turn to Chapter 5.

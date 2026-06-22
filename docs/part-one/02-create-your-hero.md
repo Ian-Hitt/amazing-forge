@@ -1,6 +1,6 @@
 # Chapter 2 — Create Your Hero
 
-Now that you've built a world, it's time to create the hero you'll play in it. This takes about two minutes. There's no math, no long list of stats to fill in — just three quick steps: pick who your hero is, choose four things they're amazing at, and note how much fight they've got in them.
+Now that you've built a world, it's time to create the hero you'll play in it. This takes about two minutes. There's no math and no long list to fill in — just three quick steps: pick who your hero is, choose what they're great at (two **Stats** and three **Assets**), and note how much fight they've got in them.
 
 Make a hero that fits the world your group just built. If you built a floating city in the clouds, a deep-sea diver doesn't quite belong — but a sky-pirate or a runaway cloud-guard absolutely does.
 
@@ -25,13 +25,13 @@ There are no wrong answers. Pick something that makes you grin and that fits the
 
 Answer it out loud. Maybe your Ice-Dragon Knight stands on a frozen cliff with frost curling off her blade. Maybe your Goblin Alchemist is mid-sneeze, surrounded by bubbling green bottles. This one question turns a tidy phrase into a living character everyone can already picture — and it gets you describing your hero in action, which is exactly what you'll be doing all game.
 
-### Step 2: Your Four Assets
+### Step 2: Your Stats and Assets
 
-Instead of stats, your hero has **four things they're amazing at.** These are your **Assets** — the signature talents, tools, and friends your hero leans on to get out of trouble. You choose exactly four, and they do a lot of work, so choose them well.
+Your hero is defined by two layers that work together on every roll: **two Stats** (the broad kinds of action they're naturally good at) and **three Assets** (the specific talents, tools, and friends they lean on). Pick the Stats first — they're your anchor — then the Assets.
 
-**The easy way: answer four questions.** Staring at a blank page is the hardest part of any character. So don't — just answer these four, in order, and you'll have a hero. Each answer makes the next one easier.
+#### Pick 2 Stats
 
-**1. What's your hero best at?** This is your **Attribute** — the one broad thing they've just *got.* Pick the one that fits your Concept:
+Choose **two** of these five. They're the broad strokes of what your hero is made for — and on a roll, you add **+1** whenever the action calls for one of them.
 
 | | |
 |---|---|
@@ -41,32 +41,36 @@ Instead of stats, your hero has **four things they're amazing at.** These are yo
 | **Sneaky** | stealth, sleight of hand, a convincing bluff |
 | **Charming** | winning people over, courage, heart, rallying friends |
 
-You get **exactly one** Attribute — it's the only Asset allowed to be this broad. Lock it in first and it becomes your anchor: once you know your hero is **Quick** or **Clever**, the rest almost suggests itself.
+Pick the two that fit your Concept. A sky-pirate captain might be **Quick + Charming**; a goblin alchemist, **Clever + Sneaky.** Here's the important part: you're picking what you're good at, which means you're also choosing what you're *not.* Your hero will shine when a scene calls for one of their two Stats — and sweat when it calls for one of the other three. That trade-off is where the drama lives, so don't try to cover everything.
 
-**2. What have they trained in?** A **skill or area of expertise** — something they learned or practiced. *Fire Magic · Hacking · Acrobatics · Tracking · Solving Mysteries · Lockpicking · Healing Herbs.*
+#### Pick 3 Assets
 
-**3. What's their signature item or sidekick?** The cool thing or loyal friend they're never without — every movie hero has one. A piece of **gear**, or a **companion**: *An Enchanted Sword · A Hoverboard · A Shield Generator · A Loyal Pet Wolf · A Tiny Repair Drone · A Wise Sprite Companion.* (No gear or buddy fits your concept? Make it a **connection** instead — a trusted mentor, a contact in every port, a famous name.)
+Your **Assets** are the specific signature talents, tools, and friends your hero is known for — the things that earn an extra **+1** when they fit the moment. Choose three. A blank page is the hardest part, so just answer these three questions:
 
-**4. One more — your call.** A **Wild** pick: anything that makes your hero *yours.* Another skill, a quirky talent, a knack, a second item — whatever you like, with one limit: it can't be a second Attribute.
+**1. What have they trained in?** A **skill or area of expertise** — something they learned or practiced. *Fire Magic · Hacking · Acrobatics · Tracking · Solving Mysteries · Lockpicking · Healing Herbs.*
 
-> **This is the recommended path, not a cage.** If your concept wants two skills and no sword, or a companion instead of expertise, swap questions 2–4 around freely. Only question 1 — your one Attribute — is fixed.
+**2. What's their signature item or sidekick?** The cool thing or loyal friend they're never without. A piece of **gear** or a **companion**: *An Enchanted Sword · A Hoverboard · A Loyal Pet Wolf · A Tiny Repair Drone.* (No gear or buddy fits? Make it a **connection** — a trusted mentor, a contact in every port, a famous name.)
 
-A nice trick on any of these: ask yourself *how* your hero got it. Where did you learn to fly? Was talking to animals a gift from a forest spirit? You don't have to answer, but if you do, you've just built your backstory for free.
+**3. One more — your call.** A **Wild** pick: anything that makes your hero *yours.* Another skill, a quirky talent, a knack, a second item — whatever you like.
 
-**What makes a good Asset (the other three).** Aim for something **broad enough to come up often, but specific enough that it clearly doesn't cover everything.** The easy test: a good Asset has obvious moments where it's useless. That's how you know it's the right size. (Your Attribute is the one exception — it's *meant* to be broad. But even it has whole moments where it's no help: **Strong** won't spot a hidden clue or talk a guard down.)
+> **This is the recommended path, not a cage.** If your concept wants two skills and no sword, swap these around freely.
+
+A nice trick on any of these: ask yourself *how* your hero got it. Where did you learn to fly? You don't have to answer, but if you do, you've just built your backstory for free.
+
+**What makes a good Asset.** Aim for something **broad enough to come up often, but specific enough that it clearly doesn't cover everything.** The easy test: a good Asset has obvious moments where it's useless. That's how you know it's the right size — your *Stats* are the broad layer, so let your Assets be pointed.
 
 - ✅ **Good:** Fire Magic · Acrobatics · Fast-Talking · My Loyal Wolf · Grandpa's Lockpicks · Piloting · Tracking · Healing Herbs
-- ❌ **Too broad — avoid:** "Lucky," "Skilled," "Good at everything." *(These would help on almost **any** roll — even on top of your Attribute — so they stop meaning anything.)*
+- ❌ **Too broad — avoid:** "Lucky," "Skilled," "Good at everything." *(These would help on almost **any** roll, so they stop meaning anything — that's what your Stats are for.)*
 - ❌ **Too narrow — avoid:** "Picking brass locks," "Juggling." *(They almost never come up.)*
 - ❌ **Too powerful — avoid:** "Invincible," "Mind Control," "Always Wins." *(No fun for anyone, including you.)*
 
-**The one-sentence test.** Your Assets matter because they give your hero an edge whenever one of them fits what you're trying to do (you'll see exactly how in Chapter 4 — The Roll). So how do you know if an Asset fits? Use this rule:
+**The one-sentence test.** So how do you know if an Asset fits a moment? Use this rule:
 
 > *You can use an Asset's edge if you can say, in **one sentence**, how this exact Asset solves this exact problem.*
 
-If the sentence comes out naturally — "I use my **Grappling Hook** to swing across the gap" — it fits. If you have to stretch and twist to make it sound right, it doesn't fit this time, and that's fine. Your hero is still capable; this just isn't their special moment. Either way you can always act. You're never stuck just because none of your Assets fit.
+If the sentence comes out naturally — "I use my **Grappling Hook** to swing across the gap" — it fits, and that's your extra +1. If you have to stretch to make it sound right, it doesn't fit this time, and that's fine. (Stats are different: you don't argue those — you just ask what the action calls for. Chapter 4 shows exactly how the two layers stack.)
 
-> *Part Two has deeper guidance on sizing Assets just right, plus the design reasons behind the four-Asset system. For your first game, four good Assets and the one-sentence test are all you need.*
+> *Part Two has deeper guidance on sizing Assets, choosing Stats, and the design reasons behind the two-layer system. For your first game, two Stats, three good Assets, and the one-sentence test are all you need.*
 
 ### Step 3: Your Readiness
 
@@ -88,6 +92,6 @@ If your Readiness ever hits **0**, your hero is **Out of Action** — too hurt, 
 
 ### That's a Hero
 
-A Concept, four Assets, and 9 Readiness — that's your whole character. Jot it on a scrap of paper and you're ready to adventure. With your world built and your heroes made, it's time to point them at something worth doing.
+A Concept, two Stats, three Assets, and 9 Readiness — that's your whole character. Jot it on a scrap of paper and you're ready to adventure. With your world built and your heroes made, it's time to point them at something worth doing.
 
 **Next up:** start your Story Arc. Turn to Chapter 3.

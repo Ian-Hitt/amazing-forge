@@ -1,6 +1,6 @@
 ## Hero Sheet
 
-Everything a hero needs fits on one page. Print or photocopy this sheet, or just copy the layout onto a scrap of paper — a Concept, four Assets, your Readiness, and a Growth Track is the whole character.
+Everything a hero needs fits on one page. Print or photocopy this sheet, or just copy the layout onto a scrap of paper — a Concept, two Stats, three Assets, your Readiness, and a Growth Track is the whole character.
 
 > **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus and navigation are hidden automatically, so you'll get just the sheet. One sheet per hero.
 
@@ -19,6 +19,8 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
 .af-line label { font-weight: 700; white-space: nowrap; }
 .af-fill { flex: 1; border-bottom: 1.5px solid #888; min-height: 1.4rem; }
 .af-hint { font-size: 0.8rem; opacity: 0.7; font-style: italic; }
+.af-stats { display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; font-weight: 700; }
+.af-stats .af-stat { border: 1.5px solid #555; border-radius: 999px; padding: 0.2rem 0.85rem; font-size: 0.9rem; }
 .af-assets { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem 1.2rem; }
 .af-asset { border: 1px solid #bbb; border-radius: 6px; padding: 0.5rem 0.6rem; }
 .af-asset .af-fill { min-height: 1.5rem; }
@@ -72,32 +74,31 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
   <div class="af-line"><span class="af-fill"></span></div>
   <p class="af-hint">[An Adjective, Species, or Twist] + [a Class, Job, or Role] — your hero's one-line movie-poster pitch.</p>
 
+  <h3>Stats</h3>
+  <p class="af-hint">Circle <b>two</b> of the five. They're the broad kinds of action your hero is built for — when the moment calls for one of them, add <b>+1</b>. You don't argue Stats; you just ask what the action calls for.</p>
+  <div class="af-stats">
+    <span class="af-stat">Strong</span><span class="af-stat">Quick</span><span class="af-stat">Clever</span><span class="af-stat">Sneaky</span><span class="af-stat">Charming</span>
+  </div>
+
   <h3>Assets</h3>
-  <p class="af-hint">Four things your hero is amazing at. An Asset that fits a roll adds +2. Build a hero by answering four questions in order: your <b>Attribute</b> (the one broad pick — <b>Strong · Quick · Clever · Sneaky · Charming</b>, max one), a <b>Skill</b>, a signature <b>Item/Companion</b>, and a <b>Wild</b> pick. Swap 2&ndash;4 freely if your concept wants. Spend 2 Growth on a Boon (a signature move on an Asset, max 2 each). Check <b>Broken</b> when an Asset is knocked out at 0 Readiness — it gives no +2 until Downtime restores it.</p>
+  <p class="af-hint">Three specific things your hero is amazing at. An Asset that fits a roll adds <b>+1</b> (a fitting Stat <i>and</i> a fitting Asset = +2). Build them by answering three questions: a <b>Skill</b>, a signature <b>Item/Companion</b>, and a <b>Wild</b> pick. Swap freely if your concept wants. Spend 2 Growth on a Boon (a signature move on an Asset, max 2 each). Check <b>Broken</b> when an Asset is knocked out at 0 Readiness — it gives no +1 until Downtime restores it.</p>
   <div class="af-assets">
     <div class="af-asset">
-      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">1. Attribute (circle one): Strong · Quick · Clever · Sneaky · Charming</span>
+      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">1. Skill or Expertise</span>
       <div class="af-fill"></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-broken"><span class="af-box"></span> Broken</div>
     </div>
     <div class="af-asset">
-      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">2. Skill or Expertise</span>
+      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">2. Item, Companion, or Connection</span>
       <div class="af-fill"></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-broken"><span class="af-box"></span> Broken</div>
     </div>
     <div class="af-asset">
-      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">3. Item, Companion, or Connection</span>
-      <div class="af-fill"></div>
-      <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
-      <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
-      <div class="af-broken"><span class="af-box"></span> Broken</div>
-    </div>
-    <div class="af-asset">
-      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">4. Wild (your call — not a 2nd Attribute)</span>
+      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">3. Wild (your call)</span>
       <div class="af-fill"></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
@@ -106,7 +107,7 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
   </div>
 
   <h3 class="af-break">Readiness</h3>
-  <p class="af-hint">Start at 9. Cross off as it drops — Weak Hit &minus;1, Miss &minus;2. At 0 you're Out of Action and one Asset breaks. <b>Mend</b> (any scene, self or ally): Strong +3 / Weak +2 / Miss &minus;1; no villain surge, can't revive a downed hero. <b>Recovery Scene</b> (fall back to regroup): recover up to your current max — but the villain surges one box, <b>and your max drops by 1</b>. <b>Your max starts at 9 and drops 1 each Recovery Scene</b> (floor 4) — circle it and slide it down; it resets to 9 at <b>Downtime</b> (between Story Arcs), which also restores Broken Assets.</p>
+  <p class="af-hint">Start at 9; it stays your max all game. Cross off as it drops — Weak Hit &minus;1, Miss &minus;2. At 0 you're Out of Action and one Asset breaks. <b>Mend</b> (any scene, self or ally): Strong +3 / Weak +2 / Miss &minus;1; capped at 9, no villain surge, can't revive a downed hero. <b>Recovery Scene</b> (fall back to regroup): the party heals fully back to <b>9</b> — but the villain surges one box. <b>Downtime</b> (between Story Arcs) also heals everyone to full and restores Broken Assets.</p>
   <div class="af-track af-readiness">
     <span class="af-box">0</span>
     <span class="af-box">1</span>
@@ -134,5 +135,5 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
   <h3>Story Arc Notes</h3>
   <div class="af-notes"></div>
 
-  <p class="af-ref"><b>The Roll:</b> 2d6, +2 if an Asset fits / +1 otherwise. &nbsp; <b>10+</b> Strong Hit &middot; <b>7&ndash;9</b> Weak Hit &middot; <b>6&minus;</b> Miss. &nbsp; Doubles upgrade one tier (Oracle's Blessing). A Hit means you narrate the change.</p>
+  <p class="af-ref"><b>The Roll:</b> 2d6, +1 if a fitting Stat &middot; +1 if a fitting Asset (+2 for both, +0 for neither). &nbsp; <b>10+</b> Strong Hit &middot; <b>7&ndash;9</b> Weak Hit &middot; <b>6&minus;</b> Miss. &nbsp; Doubles upgrade one tier (Oracle's Blessing). A Hit means you narrate the change.</p>
 </div>

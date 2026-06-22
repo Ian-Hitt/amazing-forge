@@ -77,7 +77,7 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
   <h3>Size</h3>
   <div class="af-scale">
     <span><span class="af-chk"></span> Episode &mdash; 3 Milestones / 2-box villain (one sitting)</span>
-    <span><span class="af-chk"></span> Movie &mdash; 6 Milestones / 3-box villain (2&ndash;3 sessions)</span>
+    <span><span class="af-chk"></span> Movie &mdash; 6 Milestones / 4-box villain (2&ndash;3 sessions; <b>2 players: 5-box</b>)</span>
   </div>
   <div class="af-line"><label>Thread(s) alongside</label><span class="af-fill"></span></div>
   <p class="af-hint">B-plots / character arcs running beside this Story Arc &mdash; they have their own progress but <em>no</em> villain track. (Chain Stories like this one into a Season or Series &mdash; see Ch.10.)</p>
@@ -97,14 +97,14 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
     </div>
     <span class="af-rowlabel">Antagonist</span>
     <div class="af-row af-anta">
-      <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span>
+      <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span><span class="af-box">4</span><span class="af-box">5</span>
     </div>
     <span class="af-rowlabel"></span>
     <div class="af-scalebar">
-      <span></span><span>&#8593;Ep</span><span>&#8593;Movie</span>
+      <span></span><span>&#8593;Ep</span><span></span><span>&#8593;Movie</span><span>&#8593;Duo</span>
     </div>
   </div>
-  <p class="af-hint">Episode: 3 Story Arc / 2 Antagonist boxes (box&nbsp;2 = the &#9733; climax). Movie: 6 Story Arc / 3 Antagonist (box&nbsp;3 = the &#9733; climax). Mark your last villain box as the climax. A villain box fills each time the heroes take a <strong>Recovery Scene</strong> (fall back to regroup); a quick <strong>Mend</strong> never advances it.</p>
+  <p class="af-hint">Episode: 3 Story Arc / 2 Antagonist boxes (box&nbsp;2 = the &#9733; climax). Movie: 6 Story Arc / 4 Antagonist (box&nbsp;4 = the &#9733; climax); a <b>2-player</b> Movie uses 5 boxes (box&nbsp;5 = the &#9733; climax). Cross out the boxes you don't use and mark your last villain box as the climax. A villain box fills each time the heroes take a <strong>Recovery Scene</strong> (fall back to regroup); a quick <strong>Mend</strong> never advances it.</p>
 
   <h3 class="af-break">The Antagonist</h3>
   <div class="af-line"><label>Who / what</label><span class="af-fill"></span></div>

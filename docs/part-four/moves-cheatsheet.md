@@ -76,28 +76,28 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
   <p class="af-sub">Moves Cheatsheet</p>
 
   <div class="af-legend">
-    <b>THE ROLL:</b> 2d6 &mdash; <b>+2</b> if an Asset fits, <b>+1</b> otherwise.
+    <b>THE ROLL:</b> 2d6 &mdash; <b>+1</b> if a fitting Stat, <b>+1</b> if a fitting Asset (<b>+2</b> both, <b>+0</b> neither).
     &nbsp;&middot;&nbsp; <b>10+</b> Strong Hit &nbsp; <b>7&ndash;9</b> Weak Hit &nbsp; <b>6&minus;</b> Miss.
     &nbsp;&middot;&nbsp; <b>Doubles</b> upgrade one tier (Oracle's Blessing).
     &nbsp;&middot;&nbsp; A Hit means you <b>narrate the change</b>.
     <br>
-    <b>READINESS</b> (max starts 9, drops 1 each Recovery Scene &mdash; floor 4, resets at Downtime): Weak Hit <b>&minus;1</b>, Miss <b>&minus;2</b> &mdash; always. At <b>0</b> you're Out of Action and one Asset breaks until Downtime.
+    <b>READINESS</b> (starts at 9, your max all game): Weak Hit <b>&minus;1</b>, Miss <b>&minus;2</b> &mdash; always. At <b>0</b> you're Out of Action and one Asset breaks until Downtime.
   </div>
 
   <div class="af-moves">
     <div class="af-fam af-action">
       <h3>Action Moves</h3>
-      <p class="af-famsub">Resolve a hero's attempt &mdash; roll 2d6 +2/+1, read Strong / Weak / Miss.</p>
+      <p class="af-famsub">Resolve a hero's attempt &mdash; roll 2d6 +0/+1/+2, read Strong / Weak / Miss.</p>
 
       <div class="af-move"><span class="af-mname">The Roll.</span> The core move &mdash; any risky action. Run it with <b>no track</b> (a Regular Roll) or to <b>mark a track</b> (a Challenge Roll). Every other move grows from it.</div>
 
       <div class="af-move"><span class="af-mname">Aid Your Ally.</span> Point the roll at a teammate. <b>Strong:</b> ally gets +2. <b>Weak:</b> ally +1, you &minus;1. <b>Miss:</b> nothing, you &minus;2.</div>
 
-      <div class="af-move"><span class="af-mname">Mend.</span> Any scene, on your turn (in a Challenge, instead of a Challenge Roll) &mdash; patch self or an ally. <b>Strong</b> +3 &middot; <b>Weak</b> +2 &middot; <b>Miss</b> &minus;1 Readiness. No cap; never surges the villain; can't revive a downed hero; heals only up to your current max.</div>
+      <div class="af-move"><span class="af-mname">Mend.</span> Any scene, on your turn (in a Challenge, instead of a Challenge Roll) &mdash; patch self or an ally. <b>Strong</b> +3 &middot; <b>Weak</b> +2 &middot; <b>Miss</b> &minus;1 Readiness. Capped at 9; never surges the villain; can't revive a downed hero.</div>
 
-      <div class="af-move"><span class="af-mname">Recovery Scene.</span> Fall back &amp; regroup at a lull: party recovers up to its <b>current max</b> &mdash; but the <b>Antagonist Track surges one box</b> <i>and your Readiness max drops by 1</i> (start 9, floor 4). The only thing that advances the villain. Each regroup leaves you a little worse than the last.</div>
+      <div class="af-move"><span class="af-mname">Recovery Scene.</span> Fall back &amp; regroup at a lull: the party heals fully back to <b>9</b> &mdash; but the <b>Antagonist Track surges one box</b>. The only thing that advances the villain.</div>
 
-      <div class="af-move"><span class="af-mname">Downtime.</span> Between Story Arcs: Readiness max resets to <b>9</b>, everyone heals to full, Broken Assets restored. No Surge.</div>
+      <div class="af-move"><span class="af-mname">Downtime.</span> Between Story Arcs: everyone heals to full <b>9</b>, Broken Assets restored. No Surge.</div>
 
       <div class="af-move"><span class="af-mname">Showdown.</span> The finishing move &mdash; a climactic last-box roll that ends a Challenge or a Story Arc. A <b>Miss</b> escalates the story instead of ending it &mdash; never an outright loss, never advances the Antagonist Track.</div>
     </div>
@@ -115,7 +115,7 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 
       <div class="af-move"><span class="af-mname">Start a Challenge.</span> When you <i>choose</i> to open a Challenge, one <b>2d6 + 1</b> roll (no Asset; generative) sets the jump &mdash; a one-time edge on the <b>first roll</b> only. <b>10+</b> +1 (you got the drop) &middot; <b>7&ndash;9</b> 0 (even) &middot; <b>6&minus;</b> &minus;1 (they beat you to it). Skip it if trouble is thrust on you.</div>
 
-      <div class="af-move"><span class="af-mname">Fall back.</span> Retreat from a Challenge (lose its progress) and take a Recovery Scene &mdash; party recovers up to its current max, villain surges one box, your max drops 1. The stay-alive valve.</div>
+      <div class="af-move"><span class="af-mname">Fall back.</span> Retreat from a Challenge (lose its progress) and take a Recovery Scene &mdash; the party heals fully back to 9, villain surges one box. The stay-alive valve.</div>
 
       <div class="af-move"><span class="af-mname">Quit the Story Arc.</span> The terminal fall back &mdash; give up the whole Story Arc. No penalty and no bonus; the loss seeds your next Story Arc.</div>
     </div>

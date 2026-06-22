@@ -23,8 +23,6 @@ When you do draw a track, its length scales with the size of the player group:
 | **Hard** | players **+1** | 4 boxes |
 | **Very Hard** *(climaxes only)* | players **+2** | 5 boxes |
 
-**Big groups (4 or more players) add one box to every Challenge** — so Easy becomes players, Medium players +1, Hard players +2, Very Hard players +3. A larger party has more Readiness to spend and more ways to help each other, so it needs a slightly longer track to feel the same pressure.
-
 **Very Hard** is an optional top rung you reach for *only at a climax,* and only if you want to — a Showdown you want to feel truly daunting. It's the finale itself, not an extra hurdle before it, so the longer track just makes the big moment bigger. Don't use it for ordinary scenes; Easy through Hard cover everything else.
 
 Difficulty is a **screen-time dial,** not a balance setting: you pick Hard for the set-piece everyone came for and Easy for a quick beat on the way there. A good Story *mixes* all three — so don't reach for Easy by default. Medium is the everyday size; reserve Easy for the scenes you want over quickly and Hard for the ones worth a real grind (see Pacing, Chapter 12). If real-world time is running short, lean toward Easy. Pick the size when you draw the track, based on how big the moment should feel.
@@ -33,7 +31,7 @@ Difficulty is a **screen-time dial,** not a balance setting: you pick Hard for t
 
 When the heroes **choose to start** a Challenge — they pick the fight, breach the vault, decide to ford the rapids *now* — make one quick roll to see how the opening breaks. This is **Start a Challenge,** the Challenge-sized cousin of Start a Story Arc (Chapter 10).
 
-Roll **2d6 + 1.** No Asset applies — this isn't a test of any one hero's skill, it's the dice setting the scene — but **doubles still trigger Oracle's Blessing** (bump the result up one tier — and if you roll doubles on a result that's *already* a 10+, take the top result **plus** a small extra edge of your choice). You can't fail it; it just decides who has the jump as the Scene begins:
+Roll **2d6** flat — no modifier. This isn't a test of any one hero's Stats or Assets, it's the dice setting the scene — but **doubles still trigger Oracle's Blessing** (bump the result up one tier — and if you roll doubles on a result that's *already* a 10+, take the top result **plus** a small extra edge of your choice). You can't fail it; it just decides who has the jump as the Scene begins:
 
 | Roll | Opening | Effect |
 |---|---|---|
@@ -85,7 +83,7 @@ When the track fills:
 Heroes are never trapped in a Challenge they're losing. At any point — usually when Readiness is running dangerously low and grinding out the last boxes isn't worth the cost — the group may **fall back and regroup.** This is resolved as a **Recovery Scene** (Chapter 9), and it ends the Challenge immediately:
 
 - **You lose the Challenge's progress.** Wipe the track; the boxes filled so far don't count. In the fiction, the heroes pull back, take another route, live to fight another day.
-- **The whole party recovers** up to its current Readiness max — falling back always works (though that max drops 1 each regroup; Chapter 9).
+- **The whole party recovers** back to full Readiness — falling back always works (Chapter 9).
 - **The Antagonist Track surges one box.** The villain gains ground while the heroes catch their breath. Play out the resulting **Surge** (Chapter 10) — the villains' plan moves forward off-screen, and the world tightens.
 
 Falling back is a **group decision** — in Co-op, made together; with a Guide, the Guide honors the table's call to retreat. It is the heroes' deliberate escape valve, and a weighty one: because the Antagonist Track is short and its top box is the reserved climax, you can only regroup so many times before the villain is one step from winning. Every retreat is a real choice, never a free reset.
