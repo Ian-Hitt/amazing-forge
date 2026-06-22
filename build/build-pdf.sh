@@ -37,7 +37,7 @@ FRONT=( foreword.md )
 PART1=( part-one/00-introduction.md part-one/01-build-your-world.md \
         part-one/02-create-your-hero.md part-one/03-start-your-story-arc.md \
         part-one/04-the-roll.md part-one/05-playing-the-game.md \
-        part-one/06-your-first-session.md )
+        part-one/06-when-youre-stuck.md part-one/07-your-first-session.md )
 PART2=( part-two/00-introduction.md part-two/07-the-roll.md \
         part-two/08-challenges.md part-two/09-readiness.md \
         part-two/10-story-arcs-and-the-antagonist-track.md part-two/11-ask-the-oracle.md \
@@ -103,6 +103,11 @@ sed -i '' \
   "$CONTENT"
 
 echo "→ compiling PDF with Typst"
-"$TYPST" compile --root "$ROOT" ${MODE_INPUT[@]+"${MODE_INPUT[@]}"} "$BUILD/book.typ" "$OUT"
+# Hermetic fonts: embed ONLY the OFL/commercially-licensed fonts vendored in
+# build/fonts/ (Montserrat, Source Serif 4, DejaVu Sans + their LICENSE-*.txt).
+# --ignore-system-fonts guarantees no unlicensed macOS system font (e.g. Avenir
+# Next, Iowan Old Style, Apple Color Emoji) can sneak into the embedded PDF.
+"$TYPST" compile --root "$ROOT" --font-path "$BUILD/fonts" --ignore-system-fonts \
+  ${MODE_INPUT[@]+"${MODE_INPUT[@]}"} "$BUILD/book.typ" "$OUT"
 
 echo "✓ built $OUT"

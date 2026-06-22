@@ -9,6 +9,14 @@
 // printer classifies the interior as black-ink (the cheap tier), not color.
 #let print-mode = sys.inputs.at("mode", default: "color") == "print"
 
+// ---- font stacks -----------------------------------------------------------
+// All OFL/commercially-embeddable (see build/fonts/ + its LICENSE-*.txt). The
+// DejaVu Sans tail covers arrows (→ ← ↔), the Showdown star (★) and ✓/✗ marks
+// so the build never silently falls back to a system (Apple) font for a glyph.
+// Built hermetically via --ignore-system-fonts, so only build/fonts/ is used.
+#let sans  = ("Montserrat", "DejaVu Sans")          // display: headings, heads, tables
+#let serif = ("Source Serif 4", "DejaVu Sans")      // body text
+
 #let accent     = if print-mode { rgb("#111111") } else { rgb("#cf4b1a") }  // deep orange
 #let ink        = rgb("#1a1a1a")
 #let soft       = rgb("#6b6b6b")                                            // gray (B&W-safe)
@@ -36,11 +44,11 @@
   set page(header: none, footer: none)
   v(2.6in)
   align(center)[
-    #text(font: "Avenir Next", size: 12pt, weight: 600, fill: soft, tracking: 0.3em)[#upper(kicker)]
+    #text(font: sans, size: 12pt, weight: 600, fill: soft, tracking: 0.3em)[#upper(kicker)]
     #v(0.5em)
     #line(length: 1.4in, stroke: 1.5pt + accent)
     #v(0.6em)
-    #text(font: "Avenir Next", size: 30pt, weight: 800, fill: accent)[#title]
+    #text(font: sans, size: 30pt, weight: 800, fill: accent)[#title]
   ]
   pagebreak(weak: true)
 }
