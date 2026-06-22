@@ -128,8 +128,10 @@ authoritative**; V3/V4 are older and superseded where they differ.
   Chapter numbers are now final: 7–10 rules, 11 Ask the Oracle, 12 Running the Game, 13 Growing
   Your Heroes, 14 Worldbuilding — all Part One through Part Three chapters now written.
 - **Reference/design files stay in the repo root** (this file, the Master Reference, Book
-  Outline, Math & Simulation, `sim_*.py`). They are **gitignored** — local only, NOT published
-  to the public repo and NOT backed up to GitHub.
+  Outline, Math & Simulation, `sim_*.py`). As of 2026-06-22 they are **tracked and pushed to
+  the public repo** (backed up there) — *not* gitignored anymore. The plan is to make the repo
+  **private before the book goes on sale** (and publish a free SRD/PDF instead); only `.claude/`
+  stays local.
 - **Publishing:** the book is a MkDocs Material site on GitHub Pages —
   https://ian-hitt.github.io/amazing-forge/ (repo `Ian-Hitt/amazing-forge`, public).
   **Sync = push:** committing to `main` auto-builds (`mkdocs build --strict`) and deploys in
