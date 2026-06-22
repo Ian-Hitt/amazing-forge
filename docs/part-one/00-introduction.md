@@ -14,7 +14,7 @@
 
 I'll often shorten the name to **LCA!** — same game, fewer syllables — and you'll see it that way throughout the book.
 
-That's the feel I'm going for. A lot of tabletop games play like a video game you say out loud — lots of stats, careful tactics, working out exactly what your character can and can't do. *Lights, Camera, Action!* isn't that. Here, the question is never "what are my numbers?" It's "what's the most exciting thing my hero does next?" You're an actor and a co-writer first, and the rules stay light and quick so the story never has to stop and wait for them.
+That's the feel I'm going for. A lot of tabletop games play like a video game you say out loud — long stat sheets, careful tactics, working out exactly what your character can and can't do. *Lights, Camera, Action!* isn't that. Your hero has just two simple Stats and a few Assets, so the question is rarely "what are my numbers?" It's "what's the most exciting thing my hero does next?" You're an actor and a co-writer first, and the rules stay light and quick so the story never has to stop and wait for them.
 
 It's a **tabletop roleplaying game**, which means there's no board and no screen. The whole game happens in your imaginations, out loud, with a couple of dice to settle the exciting moments. You describe what your hero does, and the dice decide whether it goes smoothly, goes sideways, or goes wrong in an interesting way.
 
