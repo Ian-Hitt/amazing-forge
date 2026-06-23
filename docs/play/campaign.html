@@ -227,7 +227,29 @@
     return out;
   }
   function blankCampaign(name) {
-    return { id: uid("g"), name: name || "New Campaign", heroes: [], arcs: [], challenges: [] };
+    return { id: uid("g"), name: name || "New Campaign",
+      world: ["", "", "", "", "", "", "", "", "", ""], heroes: [], arcs: [], challenges: [], places: [], cast: [] };
+  }
+  function blankPlace() { return { name: "", fn: "", detail: "", back: false }; }
+  function blankNpc() { return { name: "", star: false, role: "", detail: "", lastSeen: "" }; }
+  var WORLD_Q = [
+    ["The Genre", "What's the mood of our story?", "A feeling, not a setting — what movie or show should this feel like?"],
+    ["The Setting", "Where and when does it happen?", "One strong image with a twist."],
+    ["The Denizens", "Who lives here?", "Two or three kinds — this is also what your heroes can be."],
+    ["Magic", "How does it work, if at all?", "How common, and what it costs. \"None at all\" is a great answer."],
+    ["Technology", "What level are we at?", "Pick a level and add texture."],
+    ["The Leadership", "Who's in charge?", "Name who, and hint how secure — a cracked power structure plays better."],
+    ["The Enforcement", "How do they stay in charge?", "The muscle behind the power — it becomes Challenges, not stat blocks."],
+    ["The Threats", "The two or three biggest dangers right now?", "Different scales and kinds — make at least one concrete enough to be your Antagonist."],
+    ["The Forbidden", "One place, object, or action that's off-limits?", "Specific and tempting — a Story Arc waiting to happen."],
+    ["The Reputation", "When people see a group like yours, what do they think?", "An outside opinion with an edge."]
+  ];
+  function normalize(c) {
+    if (!c) return c;
+    if (!Array.isArray(c.world)) c.world = [];
+    while (c.world.length < 10) c.world.push("");
+    ["heroes", "arcs", "challenges", "places", "cast"].forEach(function (k) { if (!Array.isArray(c[k])) c[k] = []; });
+    return c;
   }
 
   function loadAll() { try { return JSON.parse(localStorage.getItem(LS_CAMPS)) || []; } catch (e) { return []; } }
@@ -360,7 +382,10 @@
       }),
       c: g.challenges.map(function (ch) {
         return { n: ch.name, e: ch.note, x: ch.max, f: ch.current, s: ch.showdown ? 1 : 0 };
-      })
+      }),
+      w: g.world,
+      p: (g.places || []).map(function (p) { return { n: p.name, f: p.fn, d: p.detail, b: p.back ? 1 : 0 }; }),
+      e: (g.cast || []).map(function (x) { return { n: x.name, s: x.star ? 1 : 0, r: x.role, d: x.detail, l: x.lastSeen }; })
     };
   }
   function encode() {
@@ -397,11 +422,16 @@
       x.name = ch.n || ""; x.note = ch.e || ""; x.max = clamp(ch.x, 1, 12, 4); x.current = clamp(ch.f, 0, x.max, 0); x.showdown = !!ch.s;
       return x;
     });
+    g.world = Array.isArray(c.w) ? c.w.slice(0, 10).map(function (s) { return s || ""; }) : [];
+    while (g.world.length < 10) g.world.push("");
+    g.places = (c.p || []).map(function (p) { return { name: p.n || "", fn: p.f || "", detail: p.d || "", back: !!p.b }; });
+    g.cast = (c.e || []).map(function (x) { return { name: x.n || "", star: !!x.s, role: x.r || "", detail: x.d || "", lastSeen: x.l || "" }; });
     return g;
   }
 
   // ============================================================ RENDER
   function render() {
+    if (camp) normalize(camp);
     renderCampSel();
     var app = $("app");
     app.innerHTML = "";
@@ -426,7 +456,8 @@
 
     // tabs
     var tabs = el("div", "tabs");
-    [["heroes", "Characters", camp.heroes.length], ["arcs", "Story Arcs", camp.arcs.length], ["challenges", "Challenges", camp.challenges.length]].forEach(function (t) {
+    [["heroes", "Characters", camp.heroes.length], ["arcs", "Story Arcs", camp.arcs.length], ["challenges", "Challenges", camp.challenges.length],
+     ["world", "World", camp.world.filter(Boolean).length], ["places", "Places", camp.places.length], ["cast", "Cast", camp.cast.length]].forEach(function (t) {
       var b = el("div", "tab" + (ui.tab === t[0] ? " on" : "")); b.innerHTML = t[1] + ' <span class="count">' + t[2] + "</span>";
       b.onclick = function () { ui.tab = t[0]; render(); };
       tabs.appendChild(b);
@@ -436,7 +467,10 @@
     var body = el("div", "print-all");
     if (ui.tab === "heroes") renderHeroes(body);
     else if (ui.tab === "arcs") renderArcs(body);
-    else renderChallenges(body);
+    else if (ui.tab === "challenges") renderChallenges(body);
+    else if (ui.tab === "world") renderWorld(body);
+    else if (ui.tab === "places") renderPlaces(body);
+    else renderCast(body);
     app.appendChild(body);
 
     var fn = el("p", "footnote");
@@ -702,6 +736,74 @@
     });
 
     root.appendChild(el("p", "ref", "Each roll: Strong = fill 1 · Weak = fill 1, −1 Readiness · Miss = no box, −2 Readiness. Track fills → Challenge won. Size: Easy = players−1 · Medium = players · Hard = players+1."));
+  }
+
+  // ============================================================ WORLD (10 questions)
+  function renderWorld(root) {
+    root.appendChild(el("div", "hint", "The ten Worldbuilding questions — one world per campaign. Answer in order; a sentence each is plenty, and \"we'll find out\" is a fine answer."));
+    var card = el("div", "card");
+    WORLD_Q.forEach(function (q, i) {
+      var b = el("div"); b.style.margin = i ? "1.1rem 0 0" : "0";
+      var h = el("div");
+      h.innerHTML = '<span style="font-weight:800;color:var(--orange);margin-right:.45rem;">' + (i + 1) + ".</span><b>" + q[0] + '</b> <span style="color:var(--muted);">— ' + q[1] + "</span>";
+      b.appendChild(h);
+      b.appendChild(el("p", "hint", q[2]));
+      var ta = el("textarea"); ta.value = camp.world[i] || ""; ta.style.minHeight = "2.6rem"; ta.placeholder = "…";
+      ta.oninput = function () { camp.world[i] = ta.value; persist(); };
+      b.appendChild(ta);
+      card.appendChild(b);
+    });
+    root.appendChild(card);
+  }
+
+  // ============================================================ PLACES
+  function renderPlaces(root) {
+    var head = el("div"); head.style.cssText = "display:flex;justify-content:space-between;align-items:center;gap:.5rem;flex-wrap:wrap;margin-bottom:.3rem;";
+    head.appendChild(el("div", "hint", "Everywhere worth a return trip. Note what it's for, one striking detail + the open hook, and tick Return? for places to come back to."));
+    var add = el("button", "sm", "+ Add Place"); add.onclick = function () { camp.places.push(blankPlace()); persist(); render(); };
+    head.appendChild(add); root.appendChild(head);
+    if (!camp.places.length) { root.appendChild(el("div", "empty", "No places logged yet — add one the heroes might revisit.")); return; }
+    camp.places.forEach(function (p) {
+      var card = el("div", "card");
+      var ch = el("div", "card-head");
+      var nameIn = el("input"); nameIn.type = "text"; nameIn.value = p.name || ""; nameIn.placeholder = "Name this place…"; nameIn.style.cssText = "font-weight:800;flex:1;";
+      nameIn.oninput = function () { p.name = nameIn.value; persist(); };
+      var actions = el("div", "actions");
+      var back = el("label"); back.style.cssText = "display:flex;align-items:center;gap:.3rem;font-size:.78rem;color:var(--muted);";
+      var bchk = el("input"); bchk.type = "checkbox"; bchk.checked = !!p.back; bchk.onchange = function () { p.back = bchk.checked; persist(); };
+      back.appendChild(bchk); back.appendChild(document.createTextNode(" Return?"));
+      var del = el("button", "danger sm icon", "✕"); del.title = "Delete place"; del.onclick = function () { camp.places = camp.places.filter(function (x) { return x !== p; }); persist(); render(); };
+      actions.appendChild(back); actions.appendChild(del);
+      ch.appendChild(nameIn); ch.appendChild(actions); card.appendChild(ch);
+      card.appendChild(labeled("Function — why the story comes here", textField(p, "fn", "Smugglers' den · the half-flooded archive · the festival")));
+      card.appendChild(labeled("Detail & hook", textField(p, "detail", "One striking detail + the thread still hanging")));
+      root.appendChild(card);
+    });
+  }
+
+  // ============================================================ CAST (NPCs)
+  function renderCast(root) {
+    var head = el("div"); head.style.cssText = "display:flex;justify-content:space-between;align-items:center;gap:.5rem;flex-wrap:wrap;margin-bottom:.3rem;";
+    head.appendChild(el("div", "hint", "Everyone the heroes meet. A Role (why they're in the story), one memorable detail, and where you left them. Tap ★ for the ones who matter."));
+    var add = el("button", "sm", "+ Add NPC"); add.onclick = function () { camp.cast.push(blankNpc()); persist(); render(); };
+    head.appendChild(add); root.appendChild(head);
+    if (!camp.cast.length) { root.appendChild(el("div", "empty", "No one in the cast yet — add the first face the heroes meet.")); return; }
+    camp.cast.forEach(function (n) {
+      var card = el("div", "card");
+      var ch = el("div", "card-head");
+      var star = el("button", "ghost sm icon", n.star ? "★" : "☆"); star.title = "Mark as important";
+      star.style.color = n.star ? "var(--orange)" : "var(--muted)";
+      star.onclick = function () { n.star = !n.star; persist(); render(); };
+      var nameIn = el("input"); nameIn.type = "text"; nameIn.value = n.name || ""; nameIn.placeholder = "Name…"; nameIn.style.cssText = "font-weight:800;flex:1;";
+      nameIn.oninput = function () { n.name = nameIn.value; persist(); };
+      var del = el("button", "danger sm icon", "✕"); del.title = "Delete NPC"; del.onclick = function () { camp.cast = camp.cast.filter(function (x) { return x !== n; }); persist(); render(); };
+      var actions = el("div", "actions"); actions.appendChild(del);
+      ch.appendChild(star); ch.appendChild(nameIn); ch.appendChild(actions); card.appendChild(ch);
+      card.appendChild(labeled("Role — why they're in the story", textField(n, "role", "Helper · Obstacle · Source · Rival · Authority · Wildcard · Hidden Hand…")));
+      card.appendChild(labeled("The one detail", textField(n, "detail", "The unforgettable thing about them")));
+      card.appendChild(labeled("Last seen", textField(n, "lastSeen", "Where / how you left things")));
+      root.appendChild(card);
+    });
   }
 
   // ---------- track widget ----------
