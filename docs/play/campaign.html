@@ -69,6 +69,14 @@
   .camp-name:focus { outline: none; border-bottom-color: var(--orange); }
   .camp-meta { color: var(--muted); font-size: .85rem; margin: .1rem 0 0; }
 
+  /* online bar */
+  .onlinebar { display: flex; align-items: center; gap: .5rem; flex-wrap: wrap; margin-bottom: 1rem;
+    padding: .5rem .7rem; border: 1px solid var(--line); border-radius: 10px; background: var(--card); }
+  .onlinebar .pill { display: inline-flex; align-items: center; gap: .45rem; font-size: .85rem; font-weight: 700; margin-right: auto; }
+  .onlinebar .pill b { color: var(--orange); }
+  .onlinebar .dot { width: .62rem; height: .62rem; border-radius: 50%; display: inline-block; }
+  button:disabled { opacity: .45; cursor: not-allowed; }
+
   /* ---- cards ---- */
   .card {
     background: var(--card); border: 1.5px solid var(--line); border-radius: 12px;
@@ -230,37 +238,141 @@
   var isImport = false;   // loaded from a share link, not yet saved here
   var ui = { tab: "heroes", openHero: null, openArc: null };
 
+  // live sync (Cloudflare Worker)
+  var WORKER_URL = "https://lca-campaign.fasdrummer.workers.dev";
+  var online = null;          // { code, version } when connected to a live game
+  var syncStatus = "off";     // off | live | syncing | error
+  var pushTimer = null, pollTimer = null;
+
   function persist() {
     if (!camp || isImport) return;
     var i = camps.findIndex(function (c) { return c.id === camp.id; });
     if (i >= 0) camps[i] = camp; else camps.push(camp);
     saveAll();
     try { localStorage.setItem(LS_ACTIVE, camp.id); } catch (e) {}
+    if (online) schedulePush();
   }
 
-  // ---------- share codec (URL hash; never sent to the server) ----------
-  function encode() {
-    var c = {
-      n: camp.name,
-      h: camp.heroes.map(function (h) {
+  // ---------- live sync ----------
+  function setStatus(s) { syncStatus = s; var b = $("onlineBar"); if (b) fillOnlineBar(b); }
+  function inviteLink() { return online ? location.origin + location.pathname + "#g=" + online.code : ""; }
+
+  function goOnline() {
+    if (!camp) return;
+    setStatus("syncing");
+    fetch(WORKER_URL + "/new", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ campaign: toWire(camp) }) })
+      .then(function (r) { return r.json(); })
+      .then(function (d) {
+        if (!d.code) throw new Error("no code");
+        online = { code: d.code, version: d.version };
+        history.replaceState(null, "", location.pathname + location.search + "#g=" + d.code);
+        setStatus("live"); startPolling(); render();
+        copy(inviteLink()).then(function (ok) { toast(ok ? "You're live! Invite link copied — share it with your players." : "You're live! Game code: " + d.code); });
+      })
+      .catch(function () { setStatus("error"); toast("Couldn't start the shared game — check your connection."); });
+  }
+
+  function joinGame(code) {
+    code = (code || "").trim().toUpperCase(); if (!code) return;
+    setStatus("syncing");
+    fetch(WORKER_URL + "/c/" + encodeURIComponent(code))
+      .then(function (r) { if (!r.ok) throw new Error("not found"); return r.json(); })
+      .then(function (d) {
+        camp = fromWire(d.campaign || {}); isImport = false;
+        camps.push(camp); saveAll();
+        try { localStorage.setItem(LS_ACTIVE, camp.id); } catch (e) {}
+        online = { code: code, version: d.version };
+        history.replaceState(null, "", location.pathname + location.search + "#g=" + code);
+        ui = { tab: "heroes", openHero: null, openArc: null };
+        setStatus("live"); startPolling(); render();
+        toast("Joined game " + code + ".");
+      })
+      .catch(function () { setStatus("error"); toast("Couldn't find game \"" + code + "\" — double-check the code."); render(); });
+  }
+
+  function leaveOnline() {
+    stopPolling(); online = null; setStatus("off");
+    history.replaceState(null, "", location.pathname + location.search);
+    render(); toast("Went offline. Your copy stays saved on this device.");
+  }
+
+  function schedulePush() { if (!online) return; setStatus("syncing"); clearTimeout(pushTimer); pushTimer = setTimeout(pushNow, 1200); }
+  function pushNow() {
+    if (!online) return;
+    fetch(WORKER_URL + "/c/" + online.code, { method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ campaign: toWire(camp) }) })
+      .then(function (r) { return r.json(); })
+      .then(function (d) { if (d.version) online.version = d.version; setStatus("live"); })
+      .catch(function () { setStatus("error"); });
+  }
+
+  function startPolling() { stopPolling(); pollTimer = setInterval(pollTick, 3000); }
+  function stopPolling() { if (pollTimer) clearInterval(pollTimer); pollTimer = null; }
+  function isEditing() { var a = document.activeElement; return !!a && (a.tagName === "INPUT" || a.tagName === "TEXTAREA"); }
+  function pollTick() {
+    if (!online) return;
+    fetch(WORKER_URL + "/c/" + online.code + "/version")
+      .then(function (r) { if (!r.ok) throw new Error("gone"); return r.json(); })
+      .then(function (d) {
+        if (d.version === online.version) { if (syncStatus !== "live") setStatus("live"); return null; }
+        if (isEditing()) return null; // don't yank the screen mid-type; caught next tick
+        return fetch(WORKER_URL + "/c/" + online.code).then(function (r) { return r.json(); }).then(function (full) {
+          var id = camp.id;
+          camp = fromWire(full.campaign || {}); camp.id = id;
+          online.version = full.version;
+          var i = camps.findIndex(function (c) { return c.id === id; });
+          if (i >= 0) camps[i] = camp; else camps.push(camp);
+          saveAll(); setStatus("live"); render();
+        });
+      })
+      .catch(function () { setStatus("error"); });
+  }
+
+  function buildOnlineBar() { var b = el("div"); b.id = "onlineBar"; b.className = "onlinebar"; fillOnlineBar(b); return b; }
+  function fillOnlineBar(bar) {
+    bar.innerHTML = "";
+    var colors = { off: "var(--muted)", live: "var(--good)", syncing: "var(--orange)", error: "var(--bad)" };
+    var labels = { off: "Offline — saved on this device only", live: "Live", syncing: "Syncing…", error: "Connection problem" };
+    var pill = el("span", "pill");
+    pill.innerHTML = '<span class="dot" style="background:' + colors[syncStatus] + '"></span>' + labels[syncStatus] + (online ? ' · game <b>' + online.code + "</b>" : "");
+    bar.appendChild(pill);
+    if (online) {
+      var cp = el("button", "ghost sm", "Copy invite link"); cp.onclick = function () { copy(inviteLink()).then(function (ok) { toast(ok ? "Invite link copied!" : inviteLink()); }); };
+      var lv = el("button", "ghost sm", "Go offline"); lv.onclick = leaveOnline;
+      bar.appendChild(cp); bar.appendChild(lv);
+    } else {
+      var go = el("button", "sm", "&#128279; Start shared game"); go.innerHTML = "&#128279; Start shared game"; go.disabled = !camp; go.onclick = goOnline;
+      var jn = el("button", "ghost sm", "Join with code"); jn.onclick = function () { var c = prompt("Enter the game code your Guide shared:"); if (c) joinGame(c); };
+      bar.appendChild(go); bar.appendChild(jn);
+    }
+  }
+
+  // ---------- share codec (compact wire form; used by both URL hash and live sync) ----------
+  function toWire(g) {
+    return {
+      n: g.name,
+      h: g.heroes.map(function (h) {
         return { n: h.name, p: h.player, c: h.concept, x: h.notes, s: h.stats, r: h.rdy, g: h.grow,
           a: h.assets.map(function (a) { return { n: a.name, b: a.boons, k: a.broken ? 1 : 0 }; }) };
       }),
-      k: camp.arcs.map(function (a) {
+      k: g.arcs.map(function (a) {
         return { g: a.goal, z: a.size[0], q: a.arc, t: a.anta, an: a.antaName, aw: a.antaWants,
           m: a.milestones.map(function (m) { return { d: m.done ? 1 : 0, t: m.text }; }) };
       }),
-      c: camp.challenges.map(function (ch) {
+      c: g.challenges.map(function (ch) {
         return { n: ch.name, e: ch.note, x: ch.max, f: ch.current, s: ch.showdown ? 1 : 0 };
       })
     };
-    var b64 = btoa(unescape(encodeURIComponent(JSON.stringify(c))));
+  }
+  function encode() {
+    var b64 = btoa(unescape(encodeURIComponent(JSON.stringify(toWire(camp)))));
     return b64.replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
   }
   function sizeFromCode(code) { return code === "m" ? "movie" : code === "d" ? "duo" : "episode"; }
   function decode(str) {
     var b64 = str.replace(/-/g, "+").replace(/_/g, "/"); while (b64.length % 4) b64 += "=";
-    var c = JSON.parse(decodeURIComponent(escape(atob(b64))));
+    return fromWire(JSON.parse(decodeURIComponent(escape(atob(b64)))));
+  }
+  function fromWire(c) {
     var g = blankCampaign(c.n || "Shared Campaign");
     g.heroes = (c.h || []).map(function (h) {
       var hero = blankHero();
@@ -293,6 +405,7 @@
     renderCampSel();
     var app = $("app");
     app.innerHTML = "";
+    app.appendChild(buildOnlineBar());
 
     if (!camp) { app.appendChild(welcome()); return; }
 
@@ -667,6 +780,8 @@
     $("btnDeleteCamp").onclick = deleteCampaign;
     $("campSel").onchange = function (e) { if (e.target.value && e.target.value !== "__import") loadCampaign(e.target.value); };
 
+    var gm = (location.hash || "").match(/[#&]g=([^&]+)/);
+    if (gm) { setStatus("syncing"); render(); joinGame(gm[1]); return; }
     var m = (location.hash || "").match(/[#&]c=([^&]+)/);
     if (m) { try { camp = decode(m[1]); isImport = true; } catch (e) { camp = null; } }
     if (!camp) {
