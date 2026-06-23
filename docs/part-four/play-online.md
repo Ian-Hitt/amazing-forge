@@ -17,17 +17,17 @@ One page gathers everything a campaign needs:
 
 ## Two ways to use it
 
-Tap the **menu** (☰, top-right) for all of this. Switch between Heroes, Story Arcs, Challenges, World, Places, and Cast using the **bar of tabs along the bottom** (it sits at the top on a wide screen).
+Tap the **menu** (☰, top-left) to switch between sections (Heroes, Story Arcs, Challenges, World, Places, Cast) and to reach the **Manage & Share** page, where everything below lives.
 
-**Live shared game (recommended for a group).** Menu → **Start shared game**. You'll get a short **game code** (like `K7QM2X`) and an **invite link** copied to your clipboard. Send that link to your players — when they open it, they see the *same* campaign, and everyone's changes sync automatically every few seconds. No refreshing, no re-sending links. To join an existing game, menu → **Join game** and type the code. This works across the country — it doesn't matter where anyone is.
+**Live shared game (recommended for a group).** ☰ → **Manage & Share** → **Start shared game**. You'll get a short **game code** (like `K7QM2X`) and an **invite link** copied to your clipboard. Send that link to your players — when they open it, they see the *same* campaign, and everyone's changes sync automatically every few seconds. No refreshing, no re-sending links. To join an existing game, ☰ → **Manage & Share** → **Join game** and type the code. This works across the country — it doesn't matter where anyone is.
 
-**Solo / offline.** If you don't go online, everything still works and saves locally in your browser — great for prep, or for a one-person game. You can hand a one-off **snapshot** to someone via menu → **Copy backup link** (a link that carries the whole campaign as it looked at that moment).
+**Solo / offline.** If you don't go online, everything still works and saves locally in your browser — great for prep, or for a one-person game. You can hand a one-off **snapshot** to someone via Manage & Share → **Copy backup link** (a link that carries the whole campaign as it looked at that moment).
 
 ## Good to know
 
 - **No accounts, ever** — for you *or* your players. The game code is the only key.
 - **Live edits sync in a few seconds.** If two people happen to edit the *exact same thing* at the same instant, the last save wins — in practice this almost never comes up at tabletop pace.
-- **Offline copies live in your browser.** A campaign you haven't put online is saved only on that device/browser, so for those, use menu → **Copy backup link** now and then and paste it somewhere safe.
+- **Offline copies live in your browser.** A campaign you haven't put online is saved only on that device/browser, so for those, use Manage & Share → **Copy backup link** now and then and paste it somewhere safe.
 - **A game code lasts ~4 months** of inactivity before it's cleaned up; any change resets that clock, so an active campaign never expires.
 
 !!! tip "Keep the invite link"

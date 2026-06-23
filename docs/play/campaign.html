@@ -53,53 +53,38 @@
   button.sm { padding: .25rem .55rem; font-size: .82rem; border-radius: 6px; }
   button.icon { padding: .25rem .5rem; font-size: .9rem; }
 
-  .wrap { max-width: 860px; margin: 0 auto; padding: .8rem 1rem 6.5rem; }
-  .page-title { font-size: 1.2rem; font-weight: 800; margin: .1rem 0 .7rem; }
+  .wrap { max-width: 820px; margin: 0 auto; padding: .8rem 1rem 3rem; }
+  .page-title { font-size: 1.25rem; font-weight: 800; margin: .1rem 0 .8rem; }
 
-  /* ---- bottom nav (mobile) / pill row (desktop) ---- */
-  .bottomnav {
-    position: fixed; left: 0; right: 0; bottom: 0; z-index: 30; display: flex;
-    background: var(--paper); border-top: 1px solid var(--line);
-    padding: .2rem .15rem; padding-bottom: calc(.2rem + env(safe-area-inset-bottom, 0px));
-  }
-  .navitem {
-    flex: 1 1 0; min-width: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .14rem;
-    border: none; background: transparent; color: var(--muted); cursor: pointer; border-radius: 10px;
-    padding: .35rem .1rem; font-size: .6rem; font-weight: 700; line-height: 1.05; text-align: center;
-  }
-  .navitem .ico { font-size: 1.2rem; line-height: 1; }
-  .navitem .badge { opacity: .7; font-weight: 600; }
-  .navitem.on { color: var(--orange); }
-  @media (min-width: 760px) {
-    .bottomnav { position: static; border-top: none; border-bottom: 1px solid var(--line);
-      justify-content: center; gap: .3rem; padding: .55rem .6rem; flex-wrap: wrap; }
-    .navitem { flex: 0 0 auto; flex-direction: row; gap: .4rem; font-size: .9rem; border-radius: 999px;
-      padding: .42rem .95rem; border: 1.5px solid var(--line); color: var(--ink); }
-    .navitem:hover { border-color: var(--orange); }
-    .navitem .ico { font-size: 1rem; }
-    .navitem.on { background: var(--orange); border-color: var(--orange); color: #fff; }
-    .wrap { padding-bottom: 4rem; }
-  }
+  /* ---- slide-in nav drawer ---- */
+  .drawer-overlay { position: fixed; inset: 0; z-index: 50; background: rgba(0,0,0,.45);
+    opacity: 0; pointer-events: none; transition: opacity .2s; }
+  .drawer-overlay.show { opacity: 1; pointer-events: auto; }
+  .drawer { position: fixed; top: 0; left: 0; bottom: 0; z-index: 51; width: 82vw; max-width: 300px;
+    background: var(--paper); border-right: 1px solid var(--line); box-shadow: 6px 0 30px rgba(0,0,0,.28);
+    transform: translateX(-102%); transition: transform .24s ease; display: flex; flex-direction: column;
+    padding: .5rem .45rem calc(.6rem + env(safe-area-inset-bottom, 0px)); overflow-y: auto; }
+  .drawer.show { transform: translateX(0); }
+  .drawer .dtitle { font-weight: 800; font-size: 1rem; padding: .5rem .55rem .3rem; display: flex; align-items: center; }
+  .drawer .dtitle .x { margin-left: auto; }
+  .drawer .dhead { font-weight: 700; font-size: .64rem; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); padding: .85rem .7rem .25rem; }
+  .navitem { display: flex; align-items: center; gap: .7rem; width: 100%; border: none; background: transparent;
+    color: var(--ink); cursor: pointer; border-radius: 10px; padding: .68rem .7rem; font: inherit; font-weight: 700; text-align: left; }
+  .navitem:hover { background: rgba(127,127,127,.12); }
+  .navitem.on { background: var(--orange); color: #fff; }
+  .navitem .ico { font-size: 1.2rem; width: 1.6rem; text-align: center; flex: 0 0 auto; }
+  .navitem .lbl { flex: 1; }
+  .navitem .badge { font-size: .82rem; font-weight: 700; opacity: .6; }
+  .navitem.on .badge { opacity: .9; }
 
-  /* ---- menu sheet ---- */
-  .mnu-overlay { position: fixed; inset: 0; z-index: 50; background: rgba(0,0,0,.45); display: none; }
-  .mnu-overlay.show { display: block; }
-  .mnu { position: absolute; left: 0; right: 0; bottom: 0; background: var(--paper);
-    border-radius: 16px 16px 0 0; padding: .8rem 1rem; padding-bottom: calc(1rem + env(safe-area-inset-bottom, 0px));
-    max-height: 86vh; overflow: auto; box-shadow: 0 -10px 34px rgba(0,0,0,.3); }
-  .mnu .grip { width: 2.4rem; height: .28rem; border-radius: 999px; background: var(--line); margin: 0 auto .7rem; }
-  .mnu h4 { margin: .95rem 0 .45rem; font-size: .68rem; text-transform: uppercase; letter-spacing: .09em; color: var(--muted); }
-  .mnu h4:first-of-type { margin-top: .2rem; }
-  .mnu .row { display: flex; gap: .5rem; flex-wrap: wrap; align-items: center; }
-  .mnu .row button { flex: 1 1 auto; }
-  .mnu select { width: 100%; max-width: none; margin-bottom: .55rem; }
-  .mnu .status { font-size: .9rem; font-weight: 700; margin-bottom: .55rem; display: flex; align-items: center; gap: .4rem; }
-  .mnu .status b { color: var(--orange); }
-  @media (min-width: 760px) {
-    .mnu { left: auto; right: .8rem; bottom: auto; top: 3rem; width: 340px; border-radius: 14px;
-      max-height: 80vh; box-shadow: var(--shadow); border: 1px solid var(--line); }
-    .mnu .grip { display: none; }
-  }
+  /* ---- manage page ---- */
+  .mblock { background: var(--card); border: 1.5px solid var(--line); border-radius: 12px; padding: 1rem 1.1rem; margin: .85rem 0; }
+  .mblock h3 { margin: 0 0 .55rem; font-size: .95rem; border-bottom: 2px solid var(--orange); padding-bottom: .22rem; }
+  .mblock .row { display: flex; gap: .5rem; flex-wrap: wrap; align-items: center; }
+  .mblock .row button { flex: 1 1 auto; }
+  .mblock select { width: 100%; max-width: none; margin-bottom: .55rem; }
+  .mblock .status { font-size: .92rem; font-weight: 700; margin-bottom: .5rem; display: flex; align-items: center; gap: .4rem; }
+  .mblock .status b { color: var(--orange); }
   button:disabled { opacity: .45; cursor: not-allowed; }
 
   /* ---- cards ---- */
@@ -192,7 +177,7 @@
   .sizepick { display: flex; gap: .4rem; flex-wrap: wrap; align-items: center; }
 
   @media print {
-    .topbar, .bottomnav, .mnu-overlay, .banner, .toast, .footnote, .no-print { display: none !important; }
+    .topbar, .drawer, .drawer-overlay, .banner, .toast, .footnote, .no-print { display: none !important; }
     body { background: #fff; color: #000; }
     .wrap { max-width: none; padding: 0; }
     .card { border-color: #999; box-shadow: none; break-inside: avoid; page-break-inside: avoid; }
@@ -204,15 +189,15 @@
 <body>
 
 <header class="topbar">
+  <button id="menuBtn" class="iconbtn" aria-label="Open menu" title="Menu">&#9776;</button>
   <input id="campName" class="camp-name" type="text" placeholder="Campaign" aria-label="Campaign name" autocomplete="off">
   <span id="syncDot" class="dot" title=""></span>
-  <button id="menuBtn" class="iconbtn" aria-label="Menu and settings" title="Menu">&#9776;</button>
 </header>
-<nav class="bottomnav" id="nav"></nav>
 
 <main class="wrap" id="app"></main>
 
-<div class="mnu-overlay" id="mnuOverlay"><div class="mnu" id="mnu"></div></div>
+<div class="drawer-overlay" id="drawerOverlay"></div>
+<aside class="drawer" id="drawer"></aside>
 <div class="toast" id="toast"></div>
 
 <script>
@@ -300,7 +285,7 @@
   }
 
   // ---------- live sync ----------
-  function setStatus(s) { syncStatus = s; updateHeader(); if ($("mnuOverlay").classList.contains("show")) fillMenu(); }
+  function setStatus(s) { syncStatus = s; updateHeader(); if (ui.tab === "manage" && !isEditing()) render(); }
   function inviteLink() { return online ? location.origin + location.pathname + "#g=" + online.code : ""; }
 
   function goOnline() {
@@ -353,7 +338,7 @@
 
   function startPolling() { stopPolling(); pollTimer = setInterval(pollTick, 3000); }
   function stopPolling() { if (pollTimer) clearInterval(pollTimer); pollTimer = null; }
-  function isEditing() { var a = document.activeElement; return !!a && (a.tagName === "INPUT" || a.tagName === "TEXTAREA"); }
+  function isEditing() { var a = document.activeElement; return !!a && (a.tagName === "INPUT" || a.tagName === "TEXTAREA" || a.tagName === "SELECT"); }
   function pollTick() {
     if (!online) return;
     fetch(WORKER_URL + "/c/" + online.code + "/version")
@@ -373,12 +358,12 @@
       .catch(function () { setStatus("error"); });
   }
 
-  // ---------- chrome: header, bottom nav, menu sheet ----------
+  // ---------- chrome: header + slide-in drawer ----------
   var NAV = [
-    ["heroes", "Heroes", "🦸"], ["arcs", "Arcs", "🎬"], ["challenges", "Challenges", "🎯"],
+    ["heroes", "Heroes", "🦸"], ["arcs", "Story Arcs", "🎬"], ["challenges", "Challenges", "🎯"],
     ["world", "World", "🌍"], ["places", "Places", "📍"], ["cast", "Cast", "👥"]
   ];
-  var TITLES = { heroes: "Heroes", arcs: "Story Arcs", challenges: "Challenges", world: "World", places: "Places", cast: "Cast" };
+  var TITLES = { heroes: "Heroes", arcs: "Story Arcs", challenges: "Challenges", world: "World", places: "Places", cast: "Cast", manage: "Manage & Share" };
 
   function updateHeader() {
     var nameIn = $("campName"), dot = $("syncDot");
@@ -386,67 +371,37 @@
     nameIn.style.display = ""; dot.style.display = "";
     if (document.activeElement !== nameIn) nameIn.value = camp.name || "";
     var colors = { off: "var(--muted)", live: "var(--good)", syncing: "var(--orange)", error: "var(--bad)" };
-    var titles = { off: "Offline — saved on this device", live: "Live" + (online ? " · " + online.code : ""), syncing: "Syncing…", error: "Connection problem — open the menu" };
+    var titles = { off: "Offline — saved on this device", live: "Live" + (online ? " · " + online.code : ""), syncing: "Syncing…", error: "Connection problem" };
     dot.style.background = colors[syncStatus]; dot.title = titles[syncStatus];
   }
 
-  function buildNav() {
-    var nav = $("nav"); nav.innerHTML = "";
-    if (!camp) { nav.style.display = "none"; return; }
-    nav.style.display = "";
-    var counts = { heroes: camp.heroes.length, arcs: camp.arcs.length, challenges: camp.challenges.length,
-      world: camp.world.filter(Boolean).length, places: camp.places.length, cast: camp.cast.length };
-    NAV.forEach(function (n) {
-      var b = el("button", "navitem" + (ui.tab === n[0] ? " on" : ""));
-      var c = counts[n[0]];
-      b.innerHTML = '<span class="ico">' + n[2] + '</span><span class="lbl">' + n[1] + (c ? ' <span class="badge">' + c + "</span>" : "") + "</span>";
-      b.onclick = function () { if (ui.tab !== n[0]) { ui.tab = n[0]; ui.openHero = null; render(); try { window.scrollTo(0, 0); } catch (e) {} } };
-      nav.appendChild(b);
-    });
-  }
+  function openDrawer() { $("drawer").classList.add("show"); $("drawerOverlay").classList.add("show"); }
+  function closeDrawer() { $("drawer").classList.remove("show"); $("drawerOverlay").classList.remove("show"); }
+  function go(tab) { ui.tab = tab; ui.openHero = null; closeDrawer(); render(); try { window.scrollTo(0, 0); } catch (e) {} }
 
-  function openMenu() { fillMenu(); $("mnuOverlay").classList.add("show"); }
-  function closeMenu() { $("mnuOverlay").classList.remove("show"); }
-  function fillMenu() {
-    var m = $("mnu"); m.innerHTML = "";
-    m.appendChild(el("div", "grip"));
-
-    m.appendChild(el("h4", null, "Campaign"));
-    if (camps.length || isImport) {
-      var sel = el("select");
-      if (isImport && camp) { var oi = el("option"); oi.value = "__import"; oi.textContent = "★ " + (camp.name || "Imported") + " (unsaved)"; sel.appendChild(oi); }
-      camps.forEach(function (c) { var o = el("option"); o.value = c.id; o.textContent = c.name || "Untitled campaign"; sel.appendChild(o); });
-      sel.value = isImport ? "__import" : (camp ? camp.id : "");
-      sel.onchange = function (e) { if (e.target.value && e.target.value !== "__import") { closeMenu(); loadCampaign(e.target.value); } };
-      m.appendChild(sel);
-    }
-    var rowC = el("div", "row");
-    var nb = el("button", "ghost sm", "+ New campaign"); nb.onclick = function () { closeMenu(); newCampaign(); };
-    rowC.appendChild(nb);
-    if (!online) { var jn = el("button", "ghost sm", "Join game"); jn.onclick = function () { closeMenu(); var c = prompt("Enter the game code your Guide shared:"); if (c) joinGame(c); }; rowC.appendChild(jn); }
-    if (isImport && camp) { var sb = el("button", "sm", "Save to this device"); sb.onclick = function () { closeMenu(); importSave(); }; rowC.appendChild(sb); }
-    m.appendChild(rowC);
+  function buildDrawer() {
+    var d = $("drawer"); d.innerHTML = "";
+    var t = el("div", "dtitle"); t.appendChild(el("span", null, "Menu"));
+    var x = el("button", "iconbtn x", "✕"); x.title = "Close"; x.onclick = closeDrawer; t.appendChild(x);
+    d.appendChild(t);
 
     if (camp) {
-      m.appendChild(el("h4", null, "Shared game (live)"));
-      if (online) {
-        var st = el("div", "status"); st.innerHTML = '<span class="dot" style="background:var(--good)"></span> Live · game <b>' + online.code + "</b>"; m.appendChild(st);
-        var rowO = el("div", "row");
-        var cp = el("button", "sm", "Copy invite link"); cp.onclick = function () { closeMenu(); copy(inviteLink()).then(function (ok) { toast(ok ? "Invite link copied!" : inviteLink()); }); };
-        var lv = el("button", "ghost sm", "Go offline"); lv.onclick = function () { closeMenu(); leaveOnline(); };
-        rowO.appendChild(cp); rowO.appendChild(lv); m.appendChild(rowO);
-      } else {
-        var go = el("button", "sm", "\u{1F517} Start shared game"); go.style.width = "100%"; go.onclick = function () { closeMenu(); goOnline(); }; m.appendChild(go);
-      }
-
-      m.appendChild(el("h4", null, "This campaign"));
-      var rowB = el("div", "row");
-      var sh = el("button", "ghost sm", "Copy backup link"); sh.onclick = function () { closeMenu(); shareLink(); };
-      var pr = el("button", "ghost sm", "Print"); pr.onclick = function () { closeMenu(); window.print(); };
-      rowB.appendChild(sh); rowB.appendChild(pr); m.appendChild(rowB);
-      var del = el("button", "danger sm", "Delete this campaign"); del.style.cssText = "margin-top:.5rem;width:100%;";
-      del.onclick = function () { closeMenu(); deleteCampaign(); }; m.appendChild(del);
+      d.appendChild(el("div", "dhead", "Sections"));
+      var counts = { heroes: camp.heroes.length, arcs: camp.arcs.length, challenges: camp.challenges.length,
+        world: camp.world.filter(Boolean).length, places: camp.places.length, cast: camp.cast.length };
+      NAV.forEach(function (n) {
+        var b = el("button", "navitem" + (ui.tab === n[0] ? " on" : ""));
+        var c = counts[n[0]];
+        b.innerHTML = '<span class="ico">' + n[2] + '</span><span class="lbl">' + n[1] + "</span>" + (c ? '<span class="badge">' + c + "</span>" : "");
+        b.onclick = function () { go(n[0]); };
+        d.appendChild(b);
+      });
+      d.appendChild(el("div", "dhead", "Game"));
     }
+    var mb = el("button", "navitem" + (ui.tab === "manage" ? " on" : ""));
+    mb.innerHTML = '<span class="ico">⚙️</span><span class="lbl">Manage &amp; Share</span>' + (online ? '<span class="badge">live</span>' : "");
+    mb.onclick = function () { go("manage"); };
+    d.appendChild(mb);
   }
 
   // ---------- share codec (compact wire form; used by both URL hash and live sync) ----------
@@ -514,15 +469,15 @@
   function render() {
     if (camp) normalize(camp);
     updateHeader();
-    buildNav();
+    buildDrawer();
     var app = $("app");
     app.innerHTML = "";
 
-    if (!camp) { app.appendChild(welcome()); return; }
+    if (!camp && ui.tab !== "manage") { app.appendChild(welcome()); return; }
 
     if (isImport) {
       var b = el("div", "banner");
-      var p = el("p"); p.innerHTML = "<b>Loaded from a share link.</b> It lives only in this link until you save it — open the menu (&#9776;) → <b>Save to this device</b>.";
+      var p = el("p"); p.innerHTML = "<b>Loaded from a share link.</b> It lives only in this link until you save it — open the menu (&#9776;) → <b>Manage &amp; Share</b> → <b>Save to this device</b>.";
       var save = el("button", "sm", "Save"); save.onclick = importSave;
       b.appendChild(p); b.appendChild(save); app.appendChild(b);
     }
@@ -535,7 +490,8 @@
     else if (ui.tab === "challenges") renderChallenges(body);
     else if (ui.tab === "world") renderWorld(body);
     else if (ui.tab === "places") renderPlaces(body);
-    else renderCast(body);
+    else if (ui.tab === "cast") renderCast(body);
+    else renderManage(body);
     app.appendChild(body);
 
     var fn = el("p", "footnote");
@@ -546,9 +502,12 @@
   function welcome() {
     var w = el("div", "empty");
     w.appendChild(el("h3", null, "Start a Campaign"));
-    var p = el("p", null, "Make a campaign to gather your heroes, Story Arcs, and Challenges in one place — saved right here in your browser, shareable by link. No account, no sign-in.");
+    var p = el("p", null, "Gather your heroes, Story Arcs, World, and more in one place — saved right here in your browser, shareable by link. No account, no sign-in.");
+    w.appendChild(p);
+    var row = el("div"); row.style.cssText = "display:flex;gap:.5rem;justify-content:center;flex-wrap:wrap;";
     var b = el("button", null, "+ Start a Campaign"); b.onclick = function () { newCampaign(); };
-    w.appendChild(p); w.appendChild(b);
+    var j = el("button", "ghost", "Join a game"); j.onclick = function () { var c = prompt("Enter the game code your Guide shared:"); if (c) joinGame(c); };
+    row.appendChild(b); row.appendChild(j); w.appendChild(row);
     return w;
   }
 
@@ -862,6 +821,57 @@
     });
   }
 
+  // ============================================================ MANAGE & SHARE
+  function renderManage(root) {
+    // --- Campaign ---
+    var b1 = el("div", "mblock");
+    b1.appendChild(el("h3", null, "Campaign"));
+    if (camps.length || isImport) {
+      var sel = el("select");
+      if (isImport && camp) { var oi = el("option"); oi.value = "__import"; oi.textContent = "★ " + (camp.name || "Imported") + " (unsaved)"; sel.appendChild(oi); }
+      camps.forEach(function (c) { var o = el("option"); o.value = c.id; o.textContent = c.name || "Untitled campaign"; sel.appendChild(o); });
+      sel.value = isImport ? "__import" : (camp ? camp.id : "");
+      sel.onchange = function (e) { if (e.target.value && e.target.value !== "__import") loadCampaign(e.target.value); };
+      b1.appendChild(sel);
+    }
+    var r1 = el("div", "row");
+    var nb = el("button", "ghost sm", "+ New campaign"); nb.onclick = newCampaign; r1.appendChild(nb);
+    if (!online) { var jn = el("button", "ghost sm", "Join game"); jn.onclick = function () { var c = prompt("Enter the game code your Guide shared:"); if (c) joinGame(c); }; r1.appendChild(jn); }
+    if (isImport && camp) { var sb = el("button", "sm", "Save to this device"); sb.onclick = importSave; r1.appendChild(sb); }
+    b1.appendChild(r1);
+    root.appendChild(b1);
+
+    if (!camp) return;
+
+    // --- Shared game ---
+    var b2 = el("div", "mblock");
+    b2.appendChild(el("h3", null, "Shared game (live)"));
+    if (online) {
+      var st = el("div", "status"); st.innerHTML = '<span class="dot" style="background:var(--good)"></span> Live · game <b>' + online.code + "</b>"; b2.appendChild(st);
+      b2.appendChild(el("p", "hint", "Anyone with the invite link sees this campaign update live. The same link rejoins next session."));
+      var r2 = el("div", "row");
+      var cp = el("button", "sm", "Copy invite link"); cp.onclick = function () { copy(inviteLink()).then(function (ok) { toast(ok ? "Invite link copied!" : inviteLink()); }); };
+      var lv = el("button", "ghost sm", "Go offline"); lv.onclick = leaveOnline;
+      r2.appendChild(cp); r2.appendChild(lv); b2.appendChild(r2);
+    } else {
+      b2.appendChild(el("p", "hint", "Put this campaign online so your whole table sees it update live — no accounts, just share the link."));
+      var go2 = el("button", "sm", "🔗 Start shared game"); go2.style.width = "100%"; go2.onclick = goOnline; b2.appendChild(go2);
+    }
+    root.appendChild(b2);
+
+    // --- This campaign ---
+    var b3 = el("div", "mblock");
+    b3.appendChild(el("h3", null, "This campaign"));
+    b3.appendChild(el("p", "hint", "A backup link carries the whole campaign exactly as it looks now — paste it somewhere safe in case this browser is cleared."));
+    var r3 = el("div", "row");
+    var sh = el("button", "ghost sm", "Copy backup link"); sh.onclick = shareLink;
+    var pr = el("button", "ghost sm", "Print"); pr.onclick = function () { window.print(); };
+    r3.appendChild(sh); r3.appendChild(pr); b3.appendChild(r3);
+    var del = el("button", "danger sm", "Delete this campaign"); del.style.cssText = "margin-top:.6rem;width:100%;"; del.onclick = deleteCampaign;
+    b3.appendChild(del);
+    root.appendChild(b3);
+  }
+
   // ---------- track widget ----------
   // tapping the topmost filled box clears it (down one); tapping any other sets to that value.
   function trackRow(label, cls, count, value, onSet, opts) {
@@ -935,8 +945,9 @@
 
   // ---------- init ----------
   function init() {
-    $("menuBtn").onclick = openMenu;
-    $("mnuOverlay").onclick = function (e) { if (e.target === $("mnuOverlay")) closeMenu(); };
+    $("menuBtn").onclick = openDrawer;
+    $("drawerOverlay").onclick = closeDrawer;
+    document.addEventListener("keydown", function (e) { if (e.key === "Escape") closeDrawer(); });
     var nameIn = $("campName");
     nameIn.oninput = function () { if (camp) { camp.name = nameIn.value; persist(); } };
 
