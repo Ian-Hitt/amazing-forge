@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Campaign Tracker — Lights, Camera, Action!</title>
+<style>
+  :root {
+    --orange: #d35400; --orange-dark: #b8490a;
+    --ink: #1c1a18; --paper: #fbf8f3; --card: #ffffff; --line: #d8cfc4; --muted: #6f665d;
+    --good: #2e7d32; --bad: #c0392b;
+    --shadow: 0 1px 2px rgba(0,0,0,.06), 0 4px 16px rgba(0,0,0,.06);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ink: #ece7e1; --paper: #15130f; --card: #211d18; --line: #3a342c; --muted: #a59a8d;
+      --shadow: 0 1px 2px rgba(0,0,0,.3), 0 4px 18px rgba(0,0,0,.35);
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--ink); background: var(--paper); line-height: 1.5; -webkit-text-size-adjust: 100%;
+  }
+  a { color: var(--orange); }
+
+  /* ---- top bar ---- */
+  .bar {
+    position: sticky; top: 0; z-index: 30; background: var(--paper);
+    border-bottom: 1px solid var(--line); padding: .55rem 1rem;
+    display: flex; align-items: center; gap: .55rem .9rem; flex-wrap: wrap;
+  }
+  .bar .brand { font-weight: 800; letter-spacing: .03em; font-size: .9rem; line-height: 1.1; }
+  .bar .brand small { display: block; font-weight: 600; font-size: .64rem; color: var(--muted); letter-spacing: .12em; text-transform: uppercase; }
+  .bar .spacer { flex: 1; }
+  select, .num-input { font: inherit; padding: .38rem .55rem; border-radius: 7px; border: 1px solid var(--line); background: var(--card); color: var(--ink); }
+  select { max-width: 42vw; }
+  button {
+    font: inherit; font-weight: 700; cursor: pointer; border-radius: 7px;
+    border: 1.5px solid var(--orange); background: var(--orange); color: #fff;
+    padding: .42rem .8rem; transition: background .12s, border-color .12s, opacity .12s; white-space: nowrap;
+  }
+  button:hover { background: var(--orange-dark); border-color: var(--orange-dark); }
+  button.ghost { background: transparent; color: var(--orange); }
+  button.ghost:hover { background: rgba(211,84,0,.08); }
+  button.danger { border-color: var(--bad); background: transparent; color: var(--bad); }
+  button.danger:hover { background: rgba(192,57,43,.1); }
+  button.sm { padding: .25rem .55rem; font-size: .82rem; border-radius: 6px; }
+  button.icon { padding: .25rem .5rem; font-size: .9rem; }
+
+  .wrap { max-width: 860px; margin: 0 auto; padding: 1rem 1rem 5rem; }
+
+  /* ---- tabs ---- */
+  .tabs { display: flex; gap: .4rem; margin: .9rem 0 1.1rem; flex-wrap: wrap; }
+  .tab {
+    font-weight: 700; cursor: pointer; border: 1.5px solid var(--line); background: var(--card); color: var(--ink);
+    border-radius: 999px; padding: .4rem 1rem; font-size: .9rem; user-select: none;
+  }
+  .tab:hover { border-color: var(--orange); }
+  .tab.on { background: var(--orange); border-color: var(--orange); color: #fff; }
+  .tab .count { opacity: .7; font-weight: 600; }
+  .tab.on .count { opacity: .85; }
+
+  /* ---- campaign name ---- */
+  .camp-name { font-size: 1.5rem; font-weight: 800; width: 100%; border: none; background: transparent;
+    color: var(--ink); border-bottom: 2px dashed transparent; padding: .1rem 0; }
+  .camp-name:hover { border-bottom-color: var(--line); }
+  .camp-name:focus { outline: none; border-bottom-color: var(--orange); }
+  .camp-meta { color: var(--muted); font-size: .85rem; margin: .1rem 0 0; }
+
+  /* ---- cards ---- */
+  .card {
+    background: var(--card); border: 1.5px solid var(--line); border-radius: 12px;
+    box-shadow: var(--shadow); padding: 1rem 1.1rem; margin: .85rem 0;
+  }
+  .card.accent { border-color: var(--orange); border-width: 2px; }
+  .card-head { display: flex; align-items: center; gap: .6rem; flex-wrap: wrap; }
+  .card-head .title { font-weight: 800; font-size: 1.05rem; flex: 1; min-width: 140px; }
+  .card-head .title .dim { color: var(--muted); font-weight: 600; font-size: .9rem; }
+  .card-head .actions { display: flex; gap: .35rem; }
+
+  h2.sec { font-size: .95rem; margin: 1.1rem 0 .45rem; padding-bottom: .22rem; border-bottom: 2px solid var(--orange); letter-spacing: .02em; }
+  .hint { font-size: .8rem; color: var(--muted); font-style: italic; margin: .1rem 0 .55rem; }
+  label.fld { display: block; font-weight: 700; font-size: .8rem; margin-bottom: .2rem; }
+  input[type=text], textarea {
+    font: inherit; width: 100%; color: var(--ink); background: transparent;
+    border: none; border-bottom: 1.5px solid var(--line); padding: .32rem .1rem; border-radius: 0;
+  }
+  input[type=text]:focus, textarea:focus { outline: none; border-bottom-color: var(--orange); }
+  textarea { border: 1.5px solid var(--line); border-radius: 8px; padding: .5rem .6rem; min-height: 4rem; resize: vertical; }
+  textarea:focus { border-color: var(--orange); }
+  .row { display: flex; gap: 1rem; flex-wrap: wrap; }
+  .row > div { flex: 1; min-width: 170px; }
+
+  /* chips (stats) */
+  .chips { display: flex; flex-wrap: wrap; gap: .45rem; }
+  .chip { border: 1.5px solid var(--line); background: var(--card); color: var(--ink);
+    border-radius: 999px; padding: .3rem .85rem; font-weight: 700; font-size: .85rem; cursor: pointer; user-select: none; transition: all .12s; }
+  .chip:hover { border-color: var(--orange); }
+  .chip.on { background: var(--orange); border-color: var(--orange); color: #fff; }
+  .chip.lock { opacity: .42; cursor: not-allowed; }
+  .chip.lock:hover { border-color: var(--line); }
+
+  /* assets */
+  .asset { border: 1px solid var(--line); border-radius: 10px; padding: .6rem .7rem; margin: .5rem 0; }
+  .asset .kind { font-size: .68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .07em; color: var(--muted); }
+  .asset.broken { opacity: .6; border-style: dashed; }
+  .boons { margin-top: .45rem; display: grid; gap: .3rem; }
+  .boon { display: flex; align-items: center; gap: .4rem; }
+  .boon .bx { font-size: .68rem; color: var(--muted); white-space: nowrap; }
+  .asset-foot { display: flex; align-items: center; gap: .4rem; margin-top: .45rem; font-size: .78rem; color: var(--muted); }
+  .asset-foot input { width: 1rem; height: 1rem; accent-color: var(--bad); }
+
+  /* tracks */
+  .track { display: flex; flex-wrap: wrap; gap: .3rem; align-items: center; }
+  .box { width: 1.9rem; height: 1.9rem; border: 1.5px solid var(--line); border-radius: 6px;
+    display: inline-flex; align-items: center; justify-content: center; font-size: .7rem; font-weight: 700;
+    cursor: pointer; user-select: none; color: var(--muted); background: var(--card); transition: all .1s; flex: 0 0 auto; }
+  .box:hover { border-color: var(--orange); }
+  .rdy .box.fill { background: var(--good); border-color: var(--good); color: #fff; }
+  .rdy .box.start { border-color: var(--orange); border-width: 2.5px; }
+  .grow .box.fill { background: var(--orange); border-color: var(--orange); color: #fff; }
+  .arc .box.fill { background: var(--good); border-color: var(--good); color: #fff; }
+  .arc .box { border-color: #6aa56d; }
+  .anta .box { border-color: #cf7a72; }
+  .anta .box.fill { background: var(--bad); border-color: var(--bad); color: #fff; }
+  .anta .box.climax { border-width: 2.5px; }
+  .chal .box.fill { background: var(--orange); border-color: var(--orange); color: #fff; }
+  .chal .box.show { border-color: var(--orange); border-width: 2.5px; color: var(--orange); }
+  .chal .box.show.fill { color: #fff; }
+  .readout { font-weight: 800; font-size: .95rem; margin-left: .15rem; }
+  .readout small { font-weight: 600; color: var(--muted); }
+  .tracklabel { font-weight: 700; font-size: .78rem; width: 5.4rem; flex: 0 0 auto; color: var(--muted); }
+  .trackrow { display: flex; align-items: center; gap: .5rem; margin: .35rem 0; flex-wrap: wrap; }
+
+  /* milestones */
+  .ms { display: flex; align-items: center; gap: .5rem; margin: .3rem 0; }
+  .ms .mschk { width: 1.15rem; height: 1.15rem; flex: 0 0 auto; accent-color: var(--good); }
+  .ms .num { font-weight: 700; color: var(--muted); width: 1.2rem; flex: 0 0 auto; }
+  .ms input[type=text] { flex: 1; }
+  .ms.done input[type=text] { text-decoration: line-through; opacity: .6; }
+
+  /* banner / toast / empty */
+  .banner { border: 1.5px solid var(--orange); background: rgba(211,84,0,.08); border-radius: 9px;
+    padding: .7rem .9rem; margin-bottom: 1rem; display: flex; gap: .7rem; align-items: center; flex-wrap: wrap; }
+  .banner.hidden { display: none; }
+  .banner p { margin: 0; flex: 1; min-width: 220px; font-size: .88rem; }
+  .empty { text-align: center; color: var(--muted); padding: 2.5rem 1rem; }
+  .empty h3 { color: var(--ink); }
+  .toast { position: fixed; left: 50%; bottom: 1.4rem; transform: translateX(-50%) translateY(2rem);
+    background: var(--ink); color: var(--paper); padding: .6rem 1.1rem; border-radius: 999px;
+    font-size: .88rem; font-weight: 600; opacity: 0; pointer-events: none; transition: all .25s; z-index: 60; max-width: 90vw; }
+  .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+  .ref { font-size: .78rem; color: var(--muted); border-top: 1px dashed var(--line); margin-top: 1rem; padding-top: .6rem; }
+  .ref b { color: var(--orange); }
+  .footnote { text-align: center; font-size: .8rem; color: var(--muted); margin-top: 1.6rem; }
+  .sizepick { display: flex; gap: .4rem; flex-wrap: wrap; align-items: center; }
+
+  @media print {
+    .bar, .tabs, .banner, .toast, .footnote, .no-print { display: none !important; }
+    body { background: #fff; color: #000; }
+    .wrap { max-width: none; padding: 0; }
+    .card { border-color: #999; box-shadow: none; break-inside: avoid; page-break-inside: avoid; }
+    .box { cursor: default; }
+    .print-all > * { display: block !important; }
+  }
+</style>
+</head>
+<body>
+
+<div class="bar">
+  <div class="brand">CAMPAIGN<small>Lights, Camera, Action!</small></div>
+  <div class="spacer"></div>
+  <select id="campSel" title="Your campaigns on this device" aria-label="Saved campaigns"></select>
+  <button class="ghost sm" id="btnNewCamp">+ New</button>
+  <button class="sm" id="btnShare">&#128279; Share link</button>
+  <button class="ghost sm no-print" id="btnPrint">&#128424; Print</button>
+  <button class="danger sm" id="btnDeleteCamp" title="Delete this campaign from this device">Delete</button>
+</div>
+
+<div class="wrap" id="app"></div>
+<div class="toast" id="toast"></div>
+
+<script>
+(function () {
+  "use strict";
+
+  var STATS = ["Strong", "Quick", "Clever", "Sneaky", "Charming"];
+  var ASSET_KINDS = ["Skill or Expertise", "Item, Companion, or Connection", "Wild (your call)"];
+  var LS_CAMPS = "lca_campaigns_v1";
+  var LS_ACTIVE = "lca_active_campaign_v1";
+  var SIZES = { episode: { label: "Episode", ms: 3, anta: 2 }, movie: { label: "Movie", ms: 6, anta: 4 }, duo: { label: "Movie (2 players)", ms: 6, anta: 5 } };
+
+  // ---------- helpers ----------
+  var $ = function (id) { return document.getElementById(id); };
+  function uid(p) { return (p || "x") + Math.random().toString(36).slice(2, 8) + Date.now().toString(36).slice(-3); }
+  function clamp(v, lo, hi, dflt) { v = parseInt(v, 10); if (isNaN(v)) return dflt; return Math.max(lo, Math.min(hi, v)); }
+  function el(tag, cls, txt) { var e = document.createElement(tag); if (cls) e.className = cls; if (txt != null) e.textContent = txt; return e; }
+  function esc(s) { return (s || "").replace(/[&<>]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]; }); }
+
+  // ---------- model ----------
+  function blankHero() {
+    return { id: uid("h"), name: "", player: "", concept: "", notes: "", stats: [],
+      assets: [ { name: "", boons: ["", ""], broken: false }, { name: "", boons: ["", ""], broken: false }, { name: "", boons: ["", ""], broken: false } ],
+      rdy: 9, grow: 0 };
+  }
+  function blankArc() {
+    return { id: uid("a"), goal: "", size: "episode", arc: 0, anta: 0, antaName: "", antaWants: "",
+      milestones: makeMilestones("episode", []) };
+  }
+  function blankChallenge() {
+    return { id: uid("c"), name: "", note: "", max: 4, current: 0, showdown: false };
+  }
+  function makeMilestones(size, existing) {
+    var n = SIZES[size].ms, out = [];
+    for (var i = 0; i < n; i++) out.push(existing[i] || { done: false, text: "" });
+    return out;
+  }
+  function blankCampaign(name) {
+    return { id: uid("g"), name: name || "New Campaign", heroes: [], arcs: [], challenges: [] };
+  }
+
+  function loadAll() { try { return JSON.parse(localStorage.getItem(LS_CAMPS)) || []; } catch (e) { return []; } }
+  function saveAll() { try { localStorage.setItem(LS_CAMPS, JSON.stringify(camps)); } catch (e) {} }
+
+  var camps = loadAll();
+  var camp = null;        // active campaign
+  var isImport = false;   // loaded from a share link, not yet saved here
+  var ui = { tab: "heroes", openHero: null, openArc: null };
+
+  function persist() {
+    if (!camp || isImport) return;
+    var i = camps.findIndex(function (c) { return c.id === camp.id; });
+    if (i >= 0) camps[i] = camp; else camps.push(camp);
+    saveAll();
+    try { localStorage.setItem(LS_ACTIVE, camp.id); } catch (e) {}
+  }
+
+  // ---------- share codec (URL hash; never sent to the server) ----------
+  function encode() {
+    var c = {
+      n: camp.name,
+      h: camp.heroes.map(function (h) {
+        return { n: h.name, p: h.player, c: h.concept, x: h.notes, s: h.stats, r: h.rdy, g: h.grow,
+          a: h.assets.map(function (a) { return { n: a.name, b: a.boons, k: a.broken ? 1 : 0 }; }) };
+      }),
+      k: camp.arcs.map(function (a) {
+        return { g: a.goal, z: a.size[0], q: a.arc, t: a.anta, an: a.antaName, aw: a.antaWants,
+          m: a.milestones.map(function (m) { return { d: m.done ? 1 : 0, t: m.text }; }) };
+      }),
+      c: camp.challenges.map(function (ch) {
+        return { n: ch.name, e: ch.note, x: ch.max, f: ch.current, s: ch.showdown ? 1 : 0 };
+      })
+    };
+    var b64 = btoa(unescape(encodeURIComponent(JSON.stringify(c))));
+    return b64.replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+  }
+  function sizeFromCode(code) { return code === "m" ? "movie" : code === "d" ? "duo" : "episode"; }
+  function decode(str) {
+    var b64 = str.replace(/-/g, "+").replace(/_/g, "/"); while (b64.length % 4) b64 += "=";
+    var c = JSON.parse(decodeURIComponent(escape(atob(b64))));
+    var g = blankCampaign(c.n || "Shared Campaign");
+    g.heroes = (c.h || []).map(function (h) {
+      var hero = blankHero();
+      hero.name = h.n || ""; hero.player = h.p || ""; hero.concept = h.c || ""; hero.notes = h.x || "";
+      hero.stats = Array.isArray(h.s) ? h.s.slice(0, 2) : [];
+      hero.rdy = clamp(h.r, 0, 9, 9); hero.grow = clamp(h.g, 0, 18, 0);
+      if (Array.isArray(h.a)) {
+        hero.assets = h.a.slice(0, 3).map(function (a) { return { name: a.n || "", boons: [(a.b && a.b[0]) || "", (a.b && a.b[1]) || ""], broken: !!a.k }; });
+        while (hero.assets.length < 3) hero.assets.push({ name: "", boons: ["", ""], broken: false });
+      }
+      return hero;
+    });
+    g.arcs = (c.k || []).map(function (a) {
+      var arc = blankArc();
+      arc.size = sizeFromCode(a.z); arc.goal = a.g || ""; arc.antaName = a.an || ""; arc.antaWants = a.aw || "";
+      arc.milestones = makeMilestones(arc.size, (a.m || []).map(function (m) { return { done: !!m.d, text: m.t || "" }; }));
+      arc.arc = clamp(a.q, 0, SIZES[arc.size].ms, 0); arc.anta = clamp(a.t, 0, SIZES[arc.size].anta, 0);
+      return arc;
+    });
+    g.challenges = (c.c || []).map(function (ch) {
+      var x = blankChallenge();
+      x.name = ch.n || ""; x.note = ch.e || ""; x.max = clamp(ch.x, 1, 12, 4); x.current = clamp(ch.f, 0, x.max, 0); x.showdown = !!ch.s;
+      return x;
+    });
+    return g;
+  }
+
+  // ============================================================ RENDER
+  function render() {
+    renderCampSel();
+    var app = $("app");
+    app.innerHTML = "";
+
+    if (!camp) { app.appendChild(welcome()); return; }
+
+    if (isImport) {
+      var b = el("div", "banner");
+      var p = el("p"); p.innerHTML = "<b>Loaded from a share link.</b> It lives only in this link until you save it on this device.";
+      var save = el("button", null, "Save a copy to this device"); save.onclick = importSave;
+      b.appendChild(p); b.appendChild(save); app.appendChild(b);
+    }
+
+    // campaign name
+    var nameIn = el("input", "camp-name"); nameIn.type = "text"; nameIn.value = camp.name; nameIn.placeholder = "Name this campaign…";
+    nameIn.oninput = function () { camp.name = nameIn.value; persist(); renderCampSel(); };
+    app.appendChild(nameIn);
+    app.appendChild(el("p", "camp-meta", camp.heroes.length + " hero" + (camp.heroes.length === 1 ? "" : "es") + " · " +
+      camp.arcs.length + " Story Arc" + (camp.arcs.length === 1 ? "" : "s") + " · " +
+      camp.challenges.length + " active Challenge" + (camp.challenges.length === 1 ? "" : "s")));
+
+    // tabs
+    var tabs = el("div", "tabs");
+    [["heroes", "Characters", camp.heroes.length], ["arcs", "Story Arcs", camp.arcs.length], ["challenges", "Challenges", camp.challenges.length]].forEach(function (t) {
+      var b = el("div", "tab" + (ui.tab === t[0] ? " on" : "")); b.innerHTML = t[1] + ' <span class="count">' + t[2] + "</span>";
+      b.onclick = function () { ui.tab = t[0]; render(); };
+      tabs.appendChild(b);
+    });
+    app.appendChild(tabs);
+
+    var body = el("div", "print-all");
+    if (ui.tab === "heroes") renderHeroes(body);
+    else if (ui.tab === "arcs") renderArcs(body);
+    else renderChallenges(body);
+    app.appendChild(body);
+
+    var fn = el("p", "footnote");
+    fn.innerHTML = 'Saved in this browser only — no account needed. <b>Share link</b> copies a link carrying the whole campaign; open it anywhere to load a copy. ' +
+      '<span class="no-print"><a href="../index.html">&larr; Back to the book</a></span>';
+    app.appendChild(fn);
+  }
+
+  function welcome() {
+    var w = el("div", "empty");
+    w.appendChild(el("h3", null, "Start a Campaign"));
+    var p = el("p", null, "Make a campaign to gather your heroes, Story Arcs, and Challenges in one place — saved right here in your browser, shareable by link. No account, no sign-in.");
+    var b = el("button", null, "+ Start a Campaign"); b.onclick = function () { newCampaign(); };
+    w.appendChild(p); w.appendChild(b);
+    return w;
+  }
+
+  function renderCampSel() {
+    var sel = $("campSel"); sel.innerHTML = "";
+    if (isImport && camp) { var o = el("option"); o.value = "__import"; o.textContent = "★ " + (camp.name || "Imported") + " (unsaved)"; sel.appendChild(o); sel.value = "__import"; }
+    camps.forEach(function (c) { var o = el("option"); o.value = c.id; o.textContent = c.name || "Untitled campaign"; sel.appendChild(o); });
+    if (!isImport && camp) sel.value = camp.id;
+    if (!camps.length && !isImport) { var o2 = el("option"); o2.textContent = "(no campaigns yet)"; o2.disabled = true; o2.selected = true; sel.appendChild(o2); }
+  }
+
+  // ---------- shared field binder (no re-render on keystroke) ----------
+  function textField(obj, key, placeholder, onAfter) {
+    var i = el("input"); i.type = "text"; i.placeholder = placeholder || ""; i.value = obj[key] || "";
+    i.oninput = function () { obj[key] = i.value; persist(); if (onAfter) onAfter(); };
+    return i;
+  }
+  function labeled(labelTxt, node) { var d = el("div"); d.appendChild(el("label", "fld", labelTxt)); d.appendChild(node); return d; }
+
+  // ============================================================ HEROES
+  function renderHeroes(root) {
+    var head = el("div"); head.style.cssText = "display:flex;justify-content:space-between;align-items:center;gap:.5rem;flex-wrap:wrap;margin-bottom:.3rem;";
+    head.appendChild(el("div", "hint", "Everyone playing in this campaign. Tap a hero to open the full sheet."));
+    var add = el("button", "sm", "+ Add Hero"); add.onclick = function () { var h = blankHero(); camp.heroes.push(h); ui.openHero = h.id; persist(); render(); };
+    head.appendChild(add); root.appendChild(head);
+
+    if (!camp.heroes.length) { root.appendChild(el("div", "empty", "No heroes yet — add one to get started.")); return; }
+
+    camp.heroes.forEach(function (h) {
+      var card = el("div", "card");
+      var ch = el("div", "card-head");
+      var title = el("div", "title");
+      title.innerHTML = esc(h.name || "Unnamed hero") + (h.concept ? ' <span class="dim">— ' + esc(h.concept) + "</span>" : "");
+      title.style.cursor = "pointer";
+      title.onclick = function () { ui.openHero = (ui.openHero === h.id) ? null : h.id; render(); };
+      var meta = el("div", "title"); meta.style.flex = "0 0 auto";
+      meta.innerHTML = '<span class="dim">' + (h.stats.join(" · ") || "no Stats") + " · Rdy " + h.rdy + "/9</span>";
+      var actions = el("div", "actions");
+      var openBtn = el("button", "ghost sm", ui.openHero === h.id ? "Close" : "Open"); openBtn.onclick = function () { ui.openHero = (ui.openHero === h.id) ? null : h.id; render(); };
+      var del = el("button", "danger sm icon", "✕"); del.title = "Remove hero"; del.onclick = function () { confirmDel("Remove \"" + (h.name || "this hero") + "\"?", function () { camp.heroes = camp.heroes.filter(function (x) { return x !== h; }); persist(); render(); }); };
+      actions.appendChild(openBtn); actions.appendChild(del);
+      ch.appendChild(title); ch.appendChild(meta); ch.appendChild(actions);
+      card.appendChild(ch);
+      if (ui.openHero === h.id) card.appendChild(heroEditor(h));
+      root.appendChild(card);
+    });
+  }
+
+  function heroEditor(h) {
+    var box = el("div"); box.style.marginTop = ".7rem";
+
+    var row = el("div", "row");
+    row.appendChild(labeled("Hero Name", textField(h, "name", "Captain Vesper Quill", function () { /* keep summary in sync on close */ })));
+    row.appendChild(labeled("Player", textField(h, "player", "Your name")));
+    box.appendChild(row);
+
+    box.appendChild(el("h2", "sec", "Concept"));
+    box.appendChild(el("p", "hint", "[An Adjective, Species, or Twist] + [a Class, Job, or Role]."));
+    box.appendChild(textField(h, "concept", "A Renegade Robot Pilot"));
+
+    box.appendChild(el("h2", "sec", "Stats"));
+    box.appendChild(el("p", "hint", "Pick two of the five. A fitting Stat adds +1 on a roll."));
+    var chips = el("div", "chips");
+    STATS.forEach(function (s) {
+      var on = h.stats.indexOf(s) >= 0, atMax = h.stats.length >= 2;
+      var c = el("div", "chip" + (on ? " on" : (atMax ? " lock" : "")), s);
+      c.onclick = function () {
+        if (h.stats.indexOf(s) >= 0) h.stats = h.stats.filter(function (x) { return x !== s; });
+        else if (h.stats.length < 2) h.stats.push(s);
+        else { toast("Pick just two Stats — tap one off first."); return; }
+        persist(); render();
+      };
+      chips.appendChild(c);
+    });
+    box.appendChild(chips);
+
+    box.appendChild(el("h2", "sec", "Assets"));
+    box.appendChild(el("p", "hint", "Three specific things your hero is amazing at — a fitting Asset adds +1 (Stat + Asset = +2). Tick Broken when knocked out at 0 Readiness."));
+    h.assets.forEach(function (a, idx) {
+      var ac = el("div", "asset" + (a.broken ? " broken" : ""));
+      ac.appendChild(el("div", "kind", (idx + 1) + ". " + ASSET_KINDS[idx]));
+      ac.appendChild(textField(a, "name", "Name this Asset…"));
+      var boons = el("div", "boons");
+      [0, 1].forEach(function (bi) {
+        var line = el("div", "boon"); line.appendChild(el("span", "bx", "Boon " + (bi + 1)));
+        var bin = el("input"); bin.type = "text"; bin.placeholder = "(optional signature move)"; bin.value = a.boons[bi] || "";
+        bin.oninput = function () { a.boons[bi] = bin.value; persist(); };
+        line.appendChild(bin); boons.appendChild(line);
+      });
+      ac.appendChild(boons);
+      var foot = el("label", "asset-foot");
+      var chk = el("input"); chk.type = "checkbox"; chk.checked = !!a.broken;
+      chk.onchange = function () { a.broken = chk.checked; persist(); render(); };
+      foot.appendChild(chk); foot.appendChild(document.createTextNode(" Broken (no +1 until Downtime)"));
+      ac.appendChild(foot);
+      box.appendChild(ac);
+    });
+
+    box.appendChild(el("h2", "sec", "Readiness"));
+    box.appendChild(el("p", "hint", "Starts at 9 (your max). Tap to set where you are now. A Recovery Scene heals fully to 9 (villain surges)."));
+    box.appendChild(trackRow(null, "rdy", 9, h.rdy, function (n) { h.rdy = n; persist(); render(); }, { start: 9, labels: true }));
+    box.appendChild(readout("Readiness: ", h.rdy, " / 9"));
+
+    box.appendChild(el("h2", "sec", "Growth Track"));
+    box.appendChild(el("p", "hint", "Every 3rd Milestone the party marks, each hero earns 1. Spend 2 on a Boon, 5 on a New Asset (ceiling 6)."));
+    box.appendChild(trackRow(null, "grow", 18, h.grow, function (n) { h.grow = n; persist(); render(); }, {}));
+    box.appendChild(readout("Growth earned: ", h.grow, ""));
+
+    box.appendChild(el("h2", "sec", "Notes"));
+    var ta = el("textarea"); ta.value = h.notes || ""; ta.placeholder = "Backstory, bonds, anything to remember…";
+    ta.oninput = function () { h.notes = ta.value; persist(); };
+    box.appendChild(ta);
+
+    var ref = el("p", "ref");
+    ref.innerHTML = "<b>The Roll:</b> 2d6, +1 if a fitting Stat · +1 if a fitting Asset (+2 both, +0 neither). <b>10+</b> Strong · <b>7–9</b> Weak · <b>6−</b> Miss. Doubles upgrade a tier.";
+    box.appendChild(ref);
+    return box;
+  }
+
+  // ============================================================ STORY ARCS
+  function renderArcs(root) {
+    var head = el("div"); head.style.cssText = "display:flex;justify-content:space-between;align-items:center;gap:.5rem;flex-wrap:wrap;margin-bottom:.3rem;";
+    head.appendChild(el("div", "hint", "Fill the Story Arc Track to reach the Showdown; you lose if the Antagonist Track fills first (its top box is the reserved climax)."));
+    var add = el("button", "sm", "+ Add Story Arc"); add.onclick = function () { var a = blankArc(); camp.arcs.push(a); ui.openArc = a.id; persist(); render(); };
+    head.appendChild(add); root.appendChild(head);
+
+    if (!camp.arcs.length) { root.appendChild(el("div", "empty", "No Story Arcs yet — add one when your heroes pick a Goal.")); return; }
+
+    camp.arcs.forEach(function (a) {
+      var sz = SIZES[a.size];
+      var card = el("div", "card");
+      var ch = el("div", "card-head");
+      var title = el("div", "title");
+      title.innerHTML = esc(a.goal || "Untitled Story Arc") + ' <span class="dim">— ' + sz.label + " · " + a.arc + "/" + sz.ms + " ▸ villain " + a.anta + "/" + sz.anta + "</span>";
+      var actions = el("div", "actions");
+      var del = el("button", "danger sm icon", "✕"); del.title = "Delete Story Arc"; del.onclick = function () { confirmDel("Delete this Story Arc?", function () { camp.arcs = camp.arcs.filter(function (x) { return x !== a; }); persist(); render(); }); };
+      actions.appendChild(del);
+      ch.appendChild(title); ch.appendChild(actions);
+      card.appendChild(ch);
+      card.appendChild(arcEditor(a));
+      root.appendChild(card);
+    });
+  }
+
+  function arcEditor(a) {
+    var sz = SIZES[a.size];
+    var box = el("div"); box.style.marginTop = ".6rem";
+
+    box.appendChild(labeled("The Goal", textField(a, "goal", "Recover the stolen Sun Crystal", function () { /* */ })));
+
+    // size picker
+    var sp = el("div", "sizepick"); sp.style.margin = ".7rem 0 .2rem";
+    sp.appendChild(el("label", "fld", "Size")); sp.querySelector(".fld").style.margin = "0 .3rem 0 0";
+    Object.keys(SIZES).forEach(function (key) {
+      var c = el("div", "chip" + (a.size === key ? " on" : ""), SIZES[key].label + " (" + SIZES[key].ms + "/" + SIZES[key].anta + ")");
+      c.onclick = function () {
+        a.size = key; a.milestones = makeMilestones(key, a.milestones);
+        a.arc = Math.min(a.arc, SIZES[key].ms); a.anta = Math.min(a.anta, SIZES[key].anta);
+        persist(); render();
+      };
+      sp.appendChild(c);
+    });
+    box.appendChild(sp);
+
+    // tracks
+    var tr = el("div"); tr.style.margin = ".7rem 0";
+    var r1 = el("div", "trackrow"); r1.appendChild(el("span", "tracklabel", "Story Arc"));
+    r1.appendChild(trackRow(null, "arc", sz.ms, a.arc, function (n) { a.arc = n; persist(); render(); }, { labels: true }));
+    tr.appendChild(r1);
+    var r2 = el("div", "trackrow"); r2.appendChild(el("span", "tracklabel", "Antagonist"));
+    r2.appendChild(trackRow(null, "anta", sz.anta, a.anta, function (n) { a.anta = n; persist(); render(); }, { labels: true, climax: sz.anta }));
+    tr.appendChild(r2);
+    box.appendChild(tr);
+    box.appendChild(el("p", "hint", "A villain box fills each time the heroes take a Recovery Scene. The ★ top box is the reserved climax — only the Showdown (or a hero going Out of Action) fills it."));
+
+    var row = el("div", "row");
+    row.appendChild(labeled("Antagonist — who / what", textField(a, "antaName", "The Shadow Baron")));
+    row.appendChild(labeled("What it wants", textField(a, "antaWants", "To blot out the sun")));
+    box.appendChild(row);
+
+    box.appendChild(el("h2", "sec", "Milestones"));
+    box.appendChild(el("p", "hint", "A concrete, pointable step toward the Goal. Checking one fills its Story Arc box."));
+    a.milestones.forEach(function (m, i) {
+      var ms = el("div", "ms" + (m.done ? " done" : ""));
+      var chk = el("input"); chk.type = "checkbox"; chk.className = "mschk"; chk.checked = m.done;
+      chk.onchange = function () {
+        m.done = chk.checked;
+        a.arc = a.milestones.filter(function (x) { return x.done; }).length;
+        persist(); render();
+      };
+      ms.appendChild(chk); ms.appendChild(el("span", "num", (i + 1) + "."));
+      var t = el("input"); t.type = "text"; t.value = m.text || ""; t.placeholder = "Milestone " + (i + 1) + "…";
+      t.oninput = function () { m.text = t.value; persist(); };
+      ms.appendChild(t); box.appendChild(ms);
+    });
+    return box;
+  }
+
+  // ============================================================ CHALLENGES
+  function renderChallenges(root) {
+    var head = el("div"); head.style.cssText = "display:flex;justify-content:space-between;align-items:center;gap:.5rem;flex-wrap:wrap;margin-bottom:.3rem;";
+    head.appendChild(el("div", "hint", "Scratch clocks for fights, chases, and tense scenes. Fill the track to win — then delete it. These are meant to come and go."));
+    var add = el("button", "sm", "+ Add Challenge"); add.onclick = function () { camp.challenges.push(blankChallenge()); persist(); render(); };
+    head.appendChild(add); root.appendChild(head);
+
+    if (!camp.challenges.length) { root.appendChild(el("div", "empty", "No active Challenges. Add one when a fight or obstacle kicks off.")); return; }
+
+    var done = camp.challenges.filter(function (c) { return c.current >= c.max; });
+    if (done.length) {
+      var clr = el("button", "ghost sm", "Clear " + done.length + " finished"); clr.style.marginBottom = ".4rem";
+      clr.onclick = function () { camp.challenges = camp.challenges.filter(function (c) { return c.current < c.max; }); persist(); render(); };
+      root.appendChild(clr);
+    }
+
+    camp.challenges.forEach(function (c) {
+      var won = c.current >= c.max;
+      var card = el("div", "card" + (won ? "" : " accent"));
+      if (won) card.style.opacity = ".7";
+      var ch = el("div", "card-head");
+      var title = el("div", "title");
+      var nameIn = el("input"); nameIn.type = "text"; nameIn.value = c.name || ""; nameIn.placeholder = "Name this Challenge…"; nameIn.style.fontWeight = "800";
+      nameIn.oninput = function () { c.name = nameIn.value; persist(); };
+      title.appendChild(nameIn);
+      var actions = el("div", "actions");
+      var del = el("button", "danger sm icon", "✕"); del.title = "Delete Challenge"; del.onclick = function () { camp.challenges = camp.challenges.filter(function (x) { return x !== c; }); persist(); render(); };
+      actions.appendChild(del);
+      ch.appendChild(title); ch.appendChild(actions); card.appendChild(ch);
+
+      // size controls
+      var ctl = el("div", "trackrow"); ctl.style.marginTop = ".5rem";
+      ctl.appendChild(el("span", "tracklabel", "Boxes"));
+      var minus = el("button", "ghost sm icon", "−"); minus.onclick = function () { if (c.max > 1) { c.max--; c.current = Math.min(c.current, c.max); persist(); render(); } };
+      var cnt = el("span"); cnt.style.cssText = "font-weight:800;min-width:1.4rem;text-align:center;"; cnt.textContent = c.max;
+      var plus = el("button", "ghost sm icon", "+"); plus.onclick = function () { if (c.max < 12) { c.max++; persist(); render(); } };
+      ctl.appendChild(minus); ctl.appendChild(cnt); ctl.appendChild(plus);
+      var shLbl = el("label"); shLbl.style.cssText = "display:flex;align-items:center;gap:.35rem;font-size:.8rem;color:var(--muted);margin-left:.6rem;";
+      var sh = el("input"); sh.type = "checkbox"; sh.checked = !!c.showdown; sh.onchange = function () { c.showdown = sh.checked; persist(); render(); };
+      shLbl.appendChild(sh); shLbl.appendChild(document.createTextNode(" last box = Showdown ★"));
+      ctl.appendChild(shLbl);
+      card.appendChild(ctl);
+
+      // track
+      var tr = el("div", "trackrow"); tr.appendChild(el("span", "tracklabel", won ? "Won! ✓" : "Progress"));
+      tr.appendChild(trackRow(null, "chal", c.max, c.current, function (n) { c.current = n; persist(); render(); }, { showdown: c.showdown ? c.max : 0, labels: true }));
+      card.appendChild(tr);
+
+      card.appendChild(labeled("A box = (optional)", textField(c, "note", "one thug down / one block closer")));
+      root.appendChild(card);
+    });
+
+    root.appendChild(el("p", "ref", "Each roll: Strong = fill 1 · Weak = fill 1, −1 Readiness · Miss = no box, −2 Readiness. Track fills → Challenge won. Size: Easy = players−1 · Medium = players · Hard = players+1."));
+  }
+
+  // ---------- track widget ----------
+  // tapping the topmost filled box clears it (down one); tapping any other sets to that value.
+  function trackRow(label, cls, count, value, onSet, opts) {
+    opts = opts || {};
+    var t = el("div", "track " + cls);
+    for (var i = 1; i <= count; i++) {
+      (function (n) {
+        var b = el("span", "box");
+        var filled = n <= value;
+        if (filled) b.classList.add("fill");
+        if (opts.start && n === opts.start) b.classList.add("start");
+        if (opts.climax && n === opts.climax) { b.classList.add("climax"); b.textContent = "★"; }
+        else if (opts.showdown && n === opts.showdown) { b.classList.add("show"); b.textContent = "★"; }
+        else if (opts.labels) b.textContent = n;
+        b.onclick = function () { onSet(value === n ? n - 1 : n); };
+        t.appendChild(b);
+      })(i);
+    }
+    return t;
+  }
+  function readout(pre, val, post) { var p = el("p", "readout"); p.innerHTML = pre + "<span>" + val + "</span>" + (post ? '<small>' + post + "</small>" : ""); return p; }
+
+  // ---------- actions ----------
+  function newCampaign() {
+    var name = prompt("Name your campaign:", "Our Campaign");
+    if (name === null) { if (!camp && !camps.length) render(); return; }
+    camp = blankCampaign(name.trim() || "New Campaign"); isImport = false; ui = { tab: "heroes", openHero: null, openArc: null };
+    history.replaceState(null, "", location.pathname + location.search);
+    persist(); render();
+  }
+  function loadCampaign(id) {
+    var c = camps.find(function (x) { return x.id === id; }); if (!c) return;
+    camp = c; isImport = false; ui = { tab: "heroes", openHero: null, openArc: null };
+    try { localStorage.setItem(LS_ACTIVE, id); } catch (e) {}
+    render();
+  }
+  function shareLink() {
+    if (!camp) return;
+    var url = location.origin + location.pathname + "#c=" + encode();
+    copy(url).then(function (ok) { toast(ok ? "Share link copied!" : "Couldn't copy — link is in the address bar."); history.replaceState(null, "", url); });
+  }
+  function copy(text) {
+    if (navigator.clipboard && navigator.clipboard.writeText) return navigator.clipboard.writeText(text).then(function () { return true; }, function () { return false; });
+    try { var ta = el("textarea"); ta.value = text; ta.style.position = "fixed"; ta.style.opacity = "0"; document.body.appendChild(ta); ta.select();
+      var ok = document.execCommand("copy"); document.body.removeChild(ta); return Promise.resolve(ok); } catch (e) { return Promise.resolve(false); }
+  }
+  function importSave() {
+    isImport = false;
+    if (!camps.some(function (c) { return c.id === camp.id; })) camps.push(camp);
+    saveAll(); try { localStorage.setItem(LS_ACTIVE, camp.id); } catch (e) {}
+    history.replaceState(null, "", location.pathname + location.search);
+    render(); toast("Saved to this device.");
+  }
+  function deleteCampaign() {
+    if (isImport) { toast("Nothing to delete — this one isn't saved here."); return; }
+    if (!camp) return;
+    confirmDel("Delete campaign \"" + (camp.name || "") + "\" from this device? This can't be undone.", function () {
+      camps = camps.filter(function (c) { return c.id !== camp.id; }); saveAll();
+      camp = camps[camps.length - 1] || null;
+      try { localStorage.setItem(LS_ACTIVE, camp ? camp.id : ""); } catch (e) {}
+      render(); toast("Deleted.");
+    });
+  }
+  function confirmDel(msg, fn) { if (confirm(msg)) fn(); }
+
+  var toastTimer;
+  function toast(msg) { var t = $("toast"); t.textContent = msg; t.classList.add("show"); clearTimeout(toastTimer); toastTimer = setTimeout(function () { t.classList.remove("show"); }, 2200); }
+
+  // ---------- init ----------
+  function init() {
+    $("btnNewCamp").onclick = newCampaign;
+    $("btnShare").onclick = shareLink;
+    $("btnPrint").onclick = function () { window.print(); };
+    $("btnDeleteCamp").onclick = deleteCampaign;
+    $("campSel").onchange = function (e) { if (e.target.value && e.target.value !== "__import") loadCampaign(e.target.value); };
+
+    var m = (location.hash || "").match(/[#&]c=([^&]+)/);
+    if (m) { try { camp = decode(m[1]); isImport = true; } catch (e) { camp = null; } }
+    if (!camp) {
+      var activeId = null; try { activeId = localStorage.getItem(LS_ACTIVE); } catch (e) {}
+      camp = (activeId && camps.find(function (c) { return c.id === activeId; })) || camps[camps.length - 1] || null;
+      isImport = false;
+    }
+    render();
+  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init); else init();
+})();
+</script>
+</body>
+</html>

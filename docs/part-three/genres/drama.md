@@ -160,6 +160,17 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 | 97–99 | Everyone in the room wants something from someone else in the room, and nobody is saying so. |
 | 100 | **Roll again** |
 
+### The Stats in Drama
+
+Drama is social warfare, so **Charming, Clever, and Sneaky** carry most scenes — but every Stat has a seat:
+
+- **Charming** — the engine: persuade, confess, rally, own the room.
+- **Clever** — read the room, catch the lie, scheme three moves ahead, know who's hiding what.
+- **Sneaky** — the honeyed lie, the kept secret, the overheard conversation, the poker face.
+- **Quick** — quieter, but real: snatch the letter before they see it, the slap, the exit timed to land.
+- **Strong** — here it's *force of personality*: intimidate, dominate the room, refuse to be moved.
+- *Composure under all this pressure isn't a roll — it's your Readiness draining.*
+
 ### Archetypes
 
 *Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit.*

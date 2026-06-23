@@ -157,6 +157,18 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). **Set the dial first** — 
 | 97–99 | Whatever woke here is patient; it isn't rushing, and that's the worst part. |
 | 100 | **Roll again** |
 
+### The Stats in Horror
+
+Horror is survival and dread. The Stats are how you *act* against the threat — your *nerve* is something else (see the note below):
+
+- **Clever** — figure out what it is, what wards it off, spot what's wrong before anyone else.
+- **Quick** — run, dodge, slam the door, get out before it reaches you.
+- **Sneaky** — hide, hold your breath, move silently past it.
+- **Charming** — calm a panicking friend, hold the group together, keep someone from bolting.
+- **Strong** — barricade the door, stand between it and someone, hold the thing back.
+
+> *Keeping your nerve isn't a roll — it's your **Readiness.** Fear drains it; when it runs out you break (Out of Action). You don't test composure, you spend it.*
+
 ### Archetypes
 
 *Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit.*

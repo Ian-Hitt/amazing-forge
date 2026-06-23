@@ -159,6 +159,16 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 | 97–99 | The quarantine was lifted too soon — or possibly too late — and a ship carrying returning colonists is requesting dock clearance. |
 | 100 | **Roll again** |
 
+### The Stats in Sci-Fi
+
+Sci-Fi's signature competence — tech, science, hacking, repair, astrogation — nearly all runs on **Clever**, so it's the genre's spine. The other four still give every hero a lane:
+
+- **Clever** — hack the system, fix the reactor, run the science, plot the jump, read the alien readout.
+- **Quick** — fly the ship, dogfight, shoot straight, spacewalk, react when the hull breaches.
+- **Sneaky** — slip past security drones, slice a lock unseen, forge credentials, work the underlevels.
+- **Charming** — rally a frightened crew, talk past a checkpoint, win over a turned officer.
+- **Strong** — close-quarters muscle, force a sealed bulkhead, intimidate a dock boss.
+
 ### Archetypes
 
 *Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit.*

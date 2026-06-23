@@ -156,6 +156,16 @@ Genre-pointed nudges for the ten Worldbuilding questions (Chapter 14). Answer *t
 | 97–99 | The person everyone suspects is protecting someone else, and is willing to be convicted to do it. |
 | 100 | **Roll again** |
 
+### The Stats in Mystery
+
+Mystery runs on **Clever, Charming, and Sneaky** — but the physical Stats still bite:
+
+- **Clever** — the spine: read the scene, deduce, spot the detail, catch the tell, know the records.
+- **Charming** — work a witness, coax the tight-lipped, win trust, charm your way in.
+- **Sneaky** — tail a suspect, eavesdrop, search a room unseen, pick a lock.
+- **Strong** — *force of personality*: lean on a witness, intimidate a suspect, force a stuck door.
+- **Quick** — when you tip your hand: the chase, grabbing the fleeing suspect, snatching the evidence.
+
 ### Archetypes
 
 *Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit.*

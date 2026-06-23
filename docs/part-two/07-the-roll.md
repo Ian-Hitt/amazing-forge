@@ -6,15 +6,22 @@ One move runs all of *Lights, Camera, Action!*: roll **2d6**, add your modifier,
 
 When a hero does something risky or uncertain, roll 2d6 and build your modifier from two separate questions, each worth **+1.** The two questions come from your hero's two layers — your **two Stats** and your **three Assets** (Chapter 2) — and they work differently on purpose.
 
-**Question 1 — does this call for one of your Stats?** First ask what the action *needs.* This is decided **objectively, by the fiction** — you don't argue it, you just name what the moment demands and check your sheet:
+**Question 1 — does this call for one of your Stats?** First ask what the action *needs.* This is decided **objectively, by the fiction** — you don't argue it, you name what the moment demands and check your sheet:
 
-- A chase or a dodge calls for **Quick.**
-- Shoving a door off its hinges, or holding a gate shut, calls for **Strong.**
-- Recalling a fact or piecing a puzzle together calls for **Clever.**
-- A quiet break-in, a sleight of hand, a bluff calls for **Sneaky.**
-- Winning someone over, or steadying a frightened crowd, calls for **Charming.**
+- **Strong** — force *and* force of personality: overpower it, hold the line, outlast it, or *make someone yield* (intimidation).
+- **Quick** — agility, speed, reflexes, aim: dodge, chase, climb, pilot, shoot, or any deft move out in the open.
+- **Clever** — knowledge, reasoning, observation: know it, figure it out, spot the detail, read a person.
+- **Sneaky** — stealth, deception, thievery: move unseen, tell a convincing lie, disguise, pick a lock, lift a key.
+- **Charming** — winning people over: persuade, rally, comfort, inspire, perform.
 
-The five Stats divide up the whole space of actions, so almost any action points cleanly at one of them. **If that Stat is one of your two, add +1.** If it isn't, you get nothing here — that's the kind of moment your hero wasn't built for.
+The five divide up the whole space of action, so almost anything points cleanly at one. **If that Stat is one of your two, add +1.** If it isn't, you get nothing here — that's the kind of moment your hero wasn't built for.
+
+**When two Stats both seem to fit, two quick tests decide it:**
+
+- **Strong or Quick?** Power, leverage, and endurance are **Strong**; finesse, speed, and precision are **Quick.** (Bashing the door is Strong; picking its lock is Sneaky; vaulting the wall beside it is Quick.)
+- **Working on a person?** *Win them over* so they want to help → **Charming.** *Make them afraid* so they yield → **Strong.** *Deceive* them into believing something false → **Sneaky.** Just *reading* them → **Clever.**
+
+> **Why there's no "willpower" Stat.** Holding your nerve, keeping composure, not breaking under fear or pressure is real — and central to genres like Horror and Drama — but it's **reactive**: something you *endure*, not something you *do.* So it lives in your **Readiness** (you spend Readiness when you're rattled; going Out of Action *is* the moment you break), not in a Stat. Stats are for the proactive thing you *attempt* — which is exactly why *intimidating* someone is Strong, while *withstanding* intimidation is just your Readiness holding.
 
 **Question 2 — does one of your Assets fit?** This layer you *do* argue, with the one-sentence test from Chapter 2: if you can say, in a single natural sentence, how *this exact Asset* solves *this exact problem* using fiction that's already true, it applies. ("I use my *Grappling Hook* to swing across the gap.") If you have to stretch the sentence to make it work, it doesn't apply this time. **If an Asset fits, add +1.**
 

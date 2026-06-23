@@ -35,11 +35,11 @@ Choose **two** of these five. They're the broad strokes of what your hero is mad
 
 | | |
 |---|---|
-| **Strong** | force, muscle, toughness, staying power |
-| **Quick** | speed, agility, reflexes, a steady aim |
-| **Clever** | knowing things, figuring things out, spotting what others miss |
-| **Sneaky** | stealth, sleight of hand, a convincing bluff |
-| **Charming** | winning people over, courage, heart, rallying friends |
+| **Strong** | force *and* force of personality — muscle, toughness, endurance, intimidation |
+| **Quick** | agility, reflexes, speed, aim — dodging, climbing, piloting, deft hands in the open |
+| **Clever** | knowledge, reasoning, observation — knowing, figuring out, noticing, reading people |
+| **Sneaky** | stealth, deception, thievery — moving unseen, lying, disguise, sleight of hand, picking locks |
+| **Charming** | winning people over — persuading, rallying, comforting, inspiring, performing |
 
 Pick the two that fit your Concept. A sky-pirate captain might be **Quick + Charming**; a goblin alchemist, **Clever + Sneaky.** Here's the important part: you're picking what you're good at, which means you're also choosing what you're *not.* Your hero will shine when a scene calls for one of their two Stats — and sweat when it calls for one of the other three. That trade-off is where the drama lives, so don't try to cover everything.
 

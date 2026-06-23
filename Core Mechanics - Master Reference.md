@@ -63,7 +63,7 @@ the book. When reviewing a chapter, treat any deviation as an error to flag.
 | **player** | A person controlling a hero. | — |
 | **character / hero** | A player's in-fiction persona. | PC |
 | **Concept** | The "movie poster" pitch for a character. | backstory (as the mechanic) |
-| **Stat** | One of a character's two broad "naturally good at" areas, picked from a closed list of five — **Strong, Quick, Clever, Sneaky, Charming**. The relevant Stat is chosen **objectively** by what the action calls for (never argued); add **+1** when it's one of your two. | Attribute, stat (lowercase), ability score |
+| **Stat** | One of a character's two broad "naturally good at" areas, from a closed five — **Strong** (force & force of personality, incl. intimidation), **Quick** (overt dexterity — agility, speed, aim), **Clever** (knowledge, reasoning, observation), **Sneaky** (stealth, deception, thievery), **Charming** (winning people over). The relevant Stat is chosen **objectively** by what the action calls for (never argued); add **+1** when it's one of your two. | Attribute, stat (lowercase), ability score |
 | **Asset** | One of a character's three specific "amazing at" things — a signature talent, tool, or friend; argued via the one-sentence test, **+1** when it fits. | skill, stat, trait |
 | **Broken Asset** | An Asset knocked offline when a hero goes Out of Action — gives no +1 until **Downtime** restores it. Temporary; never a penalty. | negative Asset, debuff, condition, impact |
 | **Readiness** | The single 0–9 resource track (health + morale + supplies). Max stays **9** all game. | HP, health, hit points, stamina |
@@ -244,14 +244,28 @@ of action — and on a roll you add **+1** whenever the action calls for one of 
 
 | Stat | Covers |
 |---|---|
-| **Strong** | force, muscle, toughness, staying power |
-| **Quick** | speed, agility, reflexes, a steady aim |
-| **Clever** | knowing things, figuring things out, spotting what others miss |
-| **Sneaky** | stealth, sleight of hand, a convincing bluff |
-| **Charming** | winning people over, courage, heart, rallying friends |
+| **Strong** | force *and* force of personality — muscle, toughness, endurance, intimidation |
+| **Quick** | agility, reflexes, speed, aim — dodging, climbing, piloting, deft hands in the open |
+| **Clever** | knowledge, reasoning, observation — knowing, figuring out, noticing, reading people |
+| **Sneaky** | stealth, deception, thievery — moving unseen, lying, disguise, sleight of hand, picking locks |
+| **Charming** | winning people over — persuading, rallying, comforting, inspiring, performing |
 
 Picking two means *not* picking the other three: your hero shines when a scene calls for one
 of their Stats and sweats when it calls for the rest. That trade-off is where the drama lives.
+
+**Resolving overlaps (objective tiebreakers).** When two Stats both seem to fit, two tests keep
+the choice objective rather than argued:
+- **Strong vs. Quick** — power, leverage, and endurance are **Strong**; finesse, speed, and
+  precision are **Quick.** (Bash the door = Strong; pick its lock = Sneaky; vault the wall = Quick.)
+- **Acting on a person** — *win them over* so they want to help = **Charming**; *make them afraid*
+  so they yield = **Strong** (force of personality); *deceive* them into believing something false
+  = **Sneaky**; merely *reading* them = **Clever.**
+
+**Why there is no "willpower" Stat.** Holding your nerve, keeping composure, not breaking under
+fear — real, and central to Horror/Drama — but **reactive**: something you *endure*, not something
+you *do.* It therefore lives in **Readiness** (you spend Readiness when rattled; Out of Action is
+the break), never a Stat. Stats are for the proactive thing a hero *attempts* — which is why
+*intimidation* (acting on someone) is Strong, while *resisting* intimidation is just Readiness.
 
 > ✅ **DECIDED — 2 Stats + 3 Assets (2026-06-12; revised 2026-06-22).** Borrowing Starforged's
 > *stat list* (the closed five — Strong, Quick, Clever, Sneaky, Charming — **not** its

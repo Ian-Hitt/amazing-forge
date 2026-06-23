@@ -158,6 +158,17 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 | 97–99 | The collapse event — the war, the plague, the shutdown — has a clear anniversary coming, and something has been quietly building toward it. |
 | 100 | **Roll again** |
 
+### The Stats in Post-Apocalypse
+
+The wasteland leans on **Clever and Charming**, but every Stat earns its keep:
+
+- **Clever** — the spine: scavenge, jury-rig a fix, hotwire the dead truck, read the tracks, know which plant heals.
+- **Charming** — barter for a fair trade, talk down a twitchy gunman, rally a frightened camp.
+- **Strong** — hold the line against raiders, haul the load, force the rusted door, intimidate a scavenger.
+- **Sneaky** — hide the camp, slip past a war-band, run a barter-bluff.
+- **Quick** — the firefight, trapping game, the grab-and-run when a deal turns.
+- *Surviving the cold or stretching the rations isn't usually a roll — it's the world grinding on, and your Readiness wearing down.*
+
 ### Archetypes
 
 *Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit.*

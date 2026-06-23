@@ -156,6 +156,16 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 | 97–99 | The job is almost too easy, and the crew can't figure out why the mark *wants* them to come in. |
 | 100 | **Roll again** |
 
+### The Stats in Caper
+
+A caper runs on **Sneaky and Clever**, with **Charming** close behind — and the Sneaky/Charming line is the one to get right:
+
+- **Sneaky** — the spine: slip past guards, crack a safe, sleight of hand, the switcheroo, a disguise, a flat-out lie. *Deceiving* someone (they don't know they're being played) is always Sneaky.
+- **Clever** — case the target, read the floor plan, hack the cameras, plan three moves ahead.
+- **Charming** — *winning a mark over* in the open (they know you're working them, and they like it): talk past a door, work the room, sell the cover story with warmth.
+- **Quick** — drive the getaway, fast hands in the open, vault the fence when it goes loud.
+- **Strong** — the muscle: force a vault, the breakout, lean on a guard who won't budge.
+
 ### Archetypes
 
 *Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit.*

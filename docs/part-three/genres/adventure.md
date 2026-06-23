@@ -160,6 +160,16 @@ Genre-pointed nudges for the ten Worldbuilding questions (Chapter 14). Answer *t
 | 97–99 | An impossible structure has appeared in the wilderness overnight: a tower, a bridge, a carved archway leading nowhere anyone recognizes. |
 | 100 | **Roll again** |
 
+### The Stats in Adventure
+
+Adventure is the most balanced genre — every Stat gets the spotlight:
+
+- **Strong** — trade blows, hold the line, haul the wounded, stare down a beast.
+- **Quick** — the chase, the leap, the climb, the bowshot, the narrow escape.
+- **Clever** — old lore and ruins, reading the land, navigation, spotting the trap.
+- **Sneaky** — scout ahead, slip past the guardian, pick the lock, lift the key.
+- **Charming** — rally the party when it's grim, parley with a chieftain, talk past the gate.
+
 ### Archetypes
 
 *These wear swords-and-sorcery by default — the party you'd expect in a fantasy quest. Reskin any of them for your flavor: the Knight becomes a ship's duelist for a pirate tale, the Mage a relic-cursed professor for a pulp expedition. Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit your hero.*
