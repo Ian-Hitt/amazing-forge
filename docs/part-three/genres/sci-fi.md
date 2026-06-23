@@ -171,56 +171,62 @@ Sci-Fi's signature competence — tech, science, hacking, repair, astrogation �
 
 ### Archetypes
 
-*Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit.*
+*An Archetype is a ready-made build — two Stats and three Assets. Play one straight, swap any Asset, or mix bricks from different builds into something new.*
 
-- **The Hotshot Pilot** — flies anything, lands nothing gently, lives for the edge. *Ace Piloting · Quick Reflexes · A Beat-Up Starfighter · Grace Under Fire.*
-- **The Tinkerer** — fixes the unfixable with spare parts and stubbornness. *Jury-Rig Anything · A Multi-Tool · Knows Every System · A Loyal Repair Drone.*
-- **The Curious Scientist** — has to know how it works, even when she shouldn't touch it. *Strange Biology · A Portable Scanner · Sharp Deduction · A Lab in a Backpack.*
-- **The Synthetic** — a robot or AI figuring out who they are. *A Built-In Database · Doesn't Need to Breathe · Lightning Calculation · Interfaces With Machines.*
-- **The Streetwise Survivor** — grew up in the station's underbelly; knows every dodge. *Knows the Underlevels · A Hidden Blaster · Reads a Crowd · A Network of Contacts.*
-- **The Comms Specialist** — talks to ships, systems, and the things you shouldn't. *Slices Any System · Reads Any Signal · A Silver Tongue on Open Channels · An Encrypted Datapad.*
-- **The Medic** — patches people and aliens alike, far from any hospital. *Field Surgery · Xeno-Medicine · A Med-Kit That's Seen Things · A Steady Bedside Manner.*
+- **The Hotshot Pilot** — flies anything, lands nothing gently, lives for the edge. *Quick + Charming · Ace Pilot · Gunner · Navigator.*
+- **The Tinkerer** — fixes the unfixable with spare parts and stubbornness. *Clever + Quick · Mechanic · Engineer · Roboticist.*
+- **The Curious Scientist** — has to know how it works, even when she shouldn't touch it. *Clever + Sneaky · Xenobiologist · Physicist · Sensor Operator.*
+- **The Synthetic** — a machine mind figuring out who they are. *Strong + Clever · Synthetic · Hacker · Roboticist.*
+- **The Streetwise Survivor** — grew up in the station's underbelly; knows every dodge. *Sneaky + Charming · Smuggler · Fixer · Con Artist.*
+- **The Comms Specialist** — talks to ships, systems, and the things you shouldn't. *Clever + Charming · Comms Specialist · Hacker · Linguist.*
+- **The Medic** — patches people and aliens alike, far from any hospital. *Clever + Charming · Ship's Medic · Field Surgeon · Xeno-Medic.*
 
 ### The Sci-Fi Asset table (d100)
 
-*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds, and a roll of **100** just means roll again. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise (over 80, roll again), or skim and grab the ones that make you grin. Every entry shares the same odds. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
-| d100 | Asset |
-|---|---|
-| 1–3 | A Jury-Rigged Blaster |
-| 4–6 | A Multi-Tool |
-| 7–9 | A Portable Scanner |
-| 10–12 | A Universal Translator |
-| 13–15 | An Encrypted Comm-Link |
-| 16–18 | A Med-Kit That's Seen Things |
-| 19–21 | A Vacuum-Rated Hardsuit |
-| 22–24 | Anti-Grav Boots |
-| 25–27 | A Beat-Up Starfighter |
-| 28–30 | A Loyal Repair Drone |
-| 31–33 | A Sarcastic AI Companion |
-| 34–36 | A Trained Alien Pet |
-| 37–39 | Ace Piloting |
-| 40–42 | Astrogation *(plotting jumps)* |
-| 43–45 | Zero-G Maneuvering |
-| 46–48 | Slicing *(hacking)* Systems |
-| 49–51 | Interfacing With Machines |
-| 52–54 | Jury-Rig Anything |
-| 55–57 | Rerouting Power |
-| 58–60 | Strange Biology *(xeno-life)* |
-| 61–63 | Field Surgery |
-| 64–66 | Deep-Space Lore |
-| 67–69 | Reading Alien Languages |
-| 70–72 | Surviving Hostile Atmospheres |
-| 73–75 | Spacewalking *(EVA)* Calm |
-| 76–78 | Quick Reflexes |
-| 79–81 | Doesn't Need to Breathe |
-| 82–84 | Lightning Calculation |
-| 85–87 | A Silver Tongue on Open Channels |
-| 88–90 | Knows the Underlevels |
-| 91–93 | A Network of Contacts |
-| 94–96 | Forged Credentials |
-| 97–99 | A Strange Artifact You Don't Get |
-| 100 | **Roll again** |
+| d100 | Asset | You add +1 when… |
+|---|---|---|
+| 1–2 | Ace Pilot | you fly or dodge through a tight, dangerous run. |
+| 3–4 | Navigator | you plot a course, a jump, or a way through. |
+| 5–6 | Gunner | you man a ship's weapons in a dogfight. |
+| 7–8 | Starship Captain | you command your crew and hold a tense bridge. |
+| 9–10 | Spacewalker | you work in EVA, zero-G, or open vacuum. |
+| 11–12 | Sensor Operator | you scan, sweep, or spot what's out there. |
+| 13–14 | Engineer | you keep the reactor, drives, or life-support alive. |
+| 15–16 | Mechanic | you fix or jury-rig a broken machine. |
+| 17–18 | Hacker | you slice a system, door, or network. |
+| 19–20 | Roboticist | you build, repair, or reprogram a drone or bot. |
+| 21–22 | Cyberneticist | you work with implants, prosthetics, or wetware. |
+| 23–24 | Drone Pilot | you send a drone where you can't go yourself. |
+| 25–26 | Comms Specialist | you read, jam, or work a signal or channel. |
+| 27–28 | Demolitionist | you breach, blast, or rig a charge. |
+| 29–30 | Xenobiologist | you study strange life — how it lives and kills. |
+| 31–32 | Physicist | you face an anomaly, radiation, or exotic phenomenon. |
+| 33–34 | Xeno-Archaeologist | you examine precursor ruins, artifacts, or dead tech. |
+| 35–36 | Linguist | you read or speak an alien tongue or code. |
+| 37–38 | Salvager | you strip a wreck or hulk for what's worth taking. |
+| 39–40 | Ship's Medic | you treat the wounded far from a hospital. |
+| 41–42 | Field Surgeon | you handle a grievous wound with what's on hand. |
+| 43–44 | Xeno-Medic | you treat non-human or hybrid biology. |
+| 45–46 | Marine | you fight with a blaster and armor on the ground. |
+| 47–48 | Gunslinger | you draw fast in a standoff. |
+| 49–50 | Mech Pilot | you fight in a walker or battle-mech. |
+| 51–52 | Tactician | you plan a fight or call the winning move. |
+| 53–54 | Survivalist | you survive a hostile world — heat, cold, toxic air. |
+| 55–56 | Saboteur | you wreck an enemy's systems, ship, or gear from within. |
+| 57–58 | Diplomat | you broker peace or make first contact. |
+| 59–60 | Negotiator | you cut a deal with a corp, cartel, or warlord. |
+| 61–62 | Con Artist | you sell a fake ID, a sweet lie, or a bluff. |
+| 63–64 | Fixer | you tap a contact for gear, a berth, or a favor. |
+| 65–66 | Smuggler | you hide cargo or slip past customs and patrols. |
+| 67–68 | Corporate Spy | you steal secrets, IDs, or data from inside. |
+| 69–70 | Scout | you range ahead into the unknown and unmapped. |
+| 71–72 | Bounty Hunter | you track and bring in a mark across worlds. |
+| 73–74 | Synthetic | you push past a human limit: no fear, fatigue, or breath. |
+| 75–76 | A Sarcastic AI Companion | your AI cracks a system, runs the numbers, or watches your back. |
+| 77–78 | A Loyal Repair Drone | your drone fixes, fetches, or scouts a tight spot. |
+| 79–80 | A Trained Alien Pet | your pet sniffs out danger or does what no human can. |
 
 ### Sci-Fi Boon triggers (d10)
 

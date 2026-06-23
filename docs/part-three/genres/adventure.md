@@ -172,56 +172,74 @@ Adventure is the most balanced genre — every Stat gets the spotlight:
 
 ### Archetypes
 
-*These wear swords-and-sorcery by default — the party you'd expect in a fantasy quest. Reskin any of them for your flavor: the Knight becomes a ship's duelist for a pirate tale, the Mage a relic-cursed professor for a pulp expedition. Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit your hero.*
+*An Archetype is a classic build — two Stats and three Assets that snap together into a hero you'll recognize. They're starting points, not cages: swap any Asset, or **mix bricks from different builds** to make something new — a greatsword-swinging Healer, a beast-shaping Berserker. Reskin the flavor freely too: the Knight becomes a ship's duelist for a pirate tale, the Wizard a relic-cursed professor for a pulp expedition.*
 
-- **The Knight** — the sworn sword-and-shield warrior who stands at the front and means it. *A Trusty Sword · A Great Tower Shield · Well-Worn Travel Leathers · A Loyal Warhorse.*
-- **The Mage** — rare, hard-won magic and a head full of old lore; wonder kept on a short leash. *A Spellbook of Small Wonders · Knowledge of Ruins & Relics · A Mentor's Voice in Your Head · A Charm That Glows Near Danger.*
-- **The Rogue** — locks, shadows, and sleight of hand; in and out before anyone blinks. *A Set of Lockpicks · Moving Quietly · Sleight of Hand · A Sharp Hunting Knife.*
-- **The Ranger** — the party's eyes in the wild: bow, trail-sense, and a animal companion. *A Trusty Bow & Quiver · Tracking · Wilderness Survival · A Faithful Hunting Hawk.*
-- **The Healer** — herbs, steady hands, and the heart that keeps everyone standing. *Knowledge of Healing Herbs · A Steady Hand for Stitching Wounds · Inspiring Courage · A Worn Healer's Charm.*
-- **The Bard** — charm, tall tales, and a knack for talking the party into (and out of) anything. *Travelers' Tales · A Commanding Voice · A Knack for Languages · Bartering & Haggling.*
-- **The Powerhouse** — raw strength and stubborn endurance; carries the wounded and the wagon both. *An Iron Grip · Tireless Stamina · A Battle-Cry That Turns Heads · Nerves of Steel.*
+- **The Knight** — the sworn sword-and-shield warrior who stands at the front and means it. *Strong + Charming · Swordmaster · Shield-Bearer · Warhorse.*
+- **The Paladin** — holy warrior: smites the wicked, shields the weak, mends the fallen. *Strong + Charming · Templar · Healer · Ironclad.*
+- **The Barbarian** — raw fury and stubborn endurance; the storm that breaks the line. *Strong + Quick · Berserker · Reaver · Tracker.*
+- **The Wizard** — hard-won arcane power and a head full of old lore. *Clever + Quick · Battle-Mage · Enchanter · Diviner.*
+- **The Druid** — nature's shape and the wild's allies. *Clever + Strong · Skinchanger · Beastmaster · Herbalist.*
+- **The Cleric** — faith made manifest: healing hands and holy wrath. *Charming + Clever · Healer · Templar · Loremaster.*
+- **The Rogue** — locks, shadows, and a blade from behind. *Sneaky + Quick · Assassin · Locksmith · Acrobat.*
+- **The Ranger** — the party's eyes in the wild: bow, trail-sense, and a loyal beast. *Quick + Clever · Archer · Tracker · Faithful Companion.*
+- **The Bard** — charm, tall tales, and a touch of magic. *Charming + Clever · Enchanter · Loremaster · Diplomat.*
 
 ### The Adventure Asset table (d100)
 
-*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds, and a roll of **100** just means roll again. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
-| d100 | Asset |
-|---|---|
-| 1–3 | A Trusty Sword *(or the weapon you favor)* |
-| 4–6 | A Trusty Bow & Quiver |
-| 7–9 | A Sharp Hunting Knife |
-| 10–12 | A Great Tower Shield |
-| 13–15 | A Grappling Hook & Rope |
-| 16–18 | A Lantern That Burns in the Wind |
-| 19–21 | A Surprisingly Roomy Backpack |
-| 22–24 | A Half-Finished Treasure Map |
-| 25–27 | A Set of Lockpicks |
-| 28–30 | A Loyal Warhorse |
-| 31–33 | A Loyal Dog with a Good Nose |
-| 34–36 | A Faithful Hunting Hawk |
-| 37–39 | Acrobatic & Sure-Footed |
-| 40–42 | An Iron Grip |
-| 43–45 | Wilderness Survival |
-| 46–48 | Tracking |
-| 49–51 | Navigation by the Stars |
-| 52–54 | Animal Handling |
-| 55–57 | A Convincing Bluff |
-| 58–60 | Bartering & Haggling |
-| 61–63 | A Commanding Voice |
-| 64–66 | Spotting a Liar |
-| 67–69 | Travelers' Tales *(a story for every place)* |
-| 70–72 | Knowledge of Ruins & Relics |
-| 73–75 | Moving Quietly |
-| 76–78 | Sleight of Hand |
-| 79–81 | First Aid & Field Medicine |
-| 82–84 | A Clever Homemade Gadget |
-| 85–87 | Nerves of Steel |
-| 88–90 | A Mentor's Voice in Your Head |
-| 91–93 | A Charm That Glows Near Danger |
-| 94–96 | A Debt Owed by Someone Powerful |
-| 97–99 | A Small Dragon Hatchling *(a handful)* |
-| 100 | **Roll again** |
+| d100 | Asset | You add +1 when… |
+|---|---|---|
+| 1–2 | Swordmaster | you fight with a sword and shield in close combat. |
+| 3–4 | Duelist | you face a single opponent one-on-one with a light blade. |
+| 5–6 | Reaver | you swing a heavy two-handed weapon to overpower a foe. |
+| 7–8 | Spearman | you fight with a spear or polearm — reach, or holding a line. |
+| 9–10 | Archer | you shoot a bow at a target, near or far. |
+| 11–12 | Knife-Fighter | you fight close with knives, or throw a blade. |
+| 13–14 | Brawler | you fight unarmed — fists, grapples, or improvised weapons. |
+| 15–16 | Berserker | you throw yourself into a reckless, all-out attack. |
+| 17–18 | Shield-Bearer | you guard yourself or an ally behind your shield. |
+| 19–20 | Ironclad | you stand firm in heavy armor and weather an assault. |
+| 21–22 | Slayer | you fight a monster or beast and go for its weak point. |
+| 23–24 | Cavalier | you fight, charge, or maneuver while mounted. |
+| 25–26 | Assassin | you strike a target who never sees it coming. |
+| 27–28 | Commander | you direct allies in a fight or out-maneuver a foe. |
+| 29–30 | Battle-Mage | you blast a foe with offensive magic. |
+| 31–32 | Elementalist | you shape fire, ice, wind, stone, or weather. |
+| 33–34 | Healer | you mend a wound or cure an ailment with magic. |
+| 35–36 | Skinchanger | you fight, flee, or hunt in the shape of your one chosen beast. |
+| 37–38 | Necromancer | you command the dead, decay, or dark magic. |
+| 39–40 | Summoner | you call a spirit or creature to act for you. |
+| 41–42 | Enchanter | you magically charm, frighten, or cloud a mind. |
+| 43–44 | Illusionist | you conjure a false sight, sound, or face. |
+| 45–46 | Diviner | you seek a hidden truth or glimpse what's to come. |
+| 47–48 | Templar | you smite an unholy foe or ward against dark power. |
+| 49–50 | Ritualist | you take time to work a ward, rune, circle, or binding. |
+| 51–52 | Tracker | you follow a trail or read tracks and sign. |
+| 53–54 | Pathfinder | you survive, forage, or find a route through the wild. |
+| 55–56 | Navigator | you find your way by star, map, or reckoning. |
+| 57–58 | Locksmith | you open a lock, latch, or sealed door. |
+| 59–60 | Trapsmith | you find, disarm, or set a trap. |
+| 61–62 | Acrobat | you climb, tumble, balance, or make a daring leap. |
+| 63–64 | Scout | you slip ahead unseen to learn what lies in wait. |
+| 65–66 | Beastmaster | you calm, command, or work alongside an animal. |
+| 67–68 | Loremaster | you recall lore — history, ruins, relics, old tongues. |
+| 69–70 | Herbalist | you use plants to heal, poison, or brew a remedy. |
+| 71–72 | Field Medic | you treat a wound without magic — bind, splint, stitch. |
+| 73–74 | Alchemist | you brew or use a potion, acid, or alchemical fire. |
+| 75–76 | Tinker | you build, rig, or repair a mechanism or device. |
+| 77–78 | Winged | you take to the air — crossing a gap, escaping, or striking from above. |
+| 79–80 | Merchant | you appraise a thing's worth or haggle a price. |
+| 81–82 | Diplomat | you negotiate terms, broker peace, or defuse a standoff. |
+| 83–84 | Escape Artist | you slip free of bonds, cells, manacles, or a tight corner. |
+| 85–86 | Smuggler | you hide contraband or slip goods past a search. |
+| 87–88 | Spy | you work undercover behind a false identity to reach what's hidden. |
+| 89–90 | Sunderer | you batter through a door, wall, shield, or bonds. |
+| 91–92 | Exorcist | you banish or turn an undead, demon, or unclean spirit. |
+| 93–94 | Sailor | you handle a ship, its rigging, or rough water. |
+| 95–96 | Warhorse | your mount carries you into a fight, a chase, or hard travel. |
+| 97–98 | Hunting Hawk | your hawk scouts from the air or strikes from above. |
+| 99–100 | Faithful Companion | your loyal animal aids you in its way — tracking, scouting, guarding, or fighting. |
 
 ### Adventure Boon triggers (d10)
 

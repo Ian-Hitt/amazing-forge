@@ -47,28 +47,31 @@ Pick the two that fit your Concept. A sky-pirate captain might be **Quick + Char
 
 Your **Assets** are the specific signature talents, tools, and friends your hero is known for — the things that earn an extra **+1** when they fit the moment. Choose three. A blank page is the hardest part, so just answer these three questions:
 
-**1. What have they trained in?** A **skill or area of expertise** — something they learned or practiced. *Fire Magic · Hacking · Acrobatics · Tracking · Solving Mysteries · Lockpicking · Healing Herbs.*
+**1. What are they known for?** A **role or signature skill** — the thing people call them for. Aim for one tight word or two that names *who your hero is*, the way "Ace Pilot" instantly paints a person. *Ace Pilot · Fire-Mage · Tracker · Field Medic · Cat Burglar · Locksmith · Bard.*
 
-**2. What's their signature item or sidekick?** The cool thing or loyal friend they're never without. A piece of **gear** or a **companion**: *An Enchanted Sword · A Hoverboard · A Loyal Pet Wolf · A Tiny Repair Drone.* (No gear or buddy fits? Make it a **connection** — a trusted mentor, a contact in every port, a famous name.)
+**2. What's the one thing they're never without?** A signature **item, companion, or connection** — but make it one that could only be *yours.* *Grandpa's Lockpicks · A Loyal Pet Wolf · A Half-Finished Treasure Map · A Debt Owed by a Crime Boss.* The quick test: *would this be the same in anyone's hands?* If so, it's just kit — pick something loaded with a story instead. (Nothing comes to mind? Make it another role.)
 
-**3. One more — your call.** A **Wild** pick: anything that makes your hero *yours.* Another skill, a quirky talent, a knack, a second item — whatever you like.
+**3. One more — your call.** A **Wild** pick: anything that makes your hero *yours.* Another role, a quirky talent, a knack, a second signature thing — whatever you like.
 
 > **This is the recommended path, not a cage.** If your concept wants two skills and no sword, swap these around freely.
 
 A nice trick on any of these: ask yourself *how* your hero got it. Where did you learn to fly? You don't have to answer, but if you do, you've just built your backstory for free.
 
-**What makes a good Asset.** Aim for something **broad enough to come up often, but specific enough that it clearly doesn't cover everything.** The easy test: a good Asset has obvious moments where it's useless. That's how you know it's the right size — your *Stats* are the broad layer, so let your Assets be pointed.
+**What makes a good Asset.** The quickest test is to finish the sentence **"You add +1 when…"** — if you can complete it cleanly with something that **comes up in ordinary play**, it's a good Asset. That catches both traps at once: too vague to finish the sentence (it's really a Stat), or so specific the moment almost never arrives. Two more checks: **does it tell you who your hero is?** ("Ace Pilot" paints a person; "a sturdy backpack" doesn't), and is it **pointed** — clearly *not* covering everything, with obvious moments where it's useless? Your Stats are the broad layer, so let your Assets be pointed and personal.
 
-- ✅ **Good:** Fire Magic · Acrobatics · Fast-Talking · My Loyal Wolf · Grandpa's Lockpicks · Piloting · Tracking · Healing Herbs
+- ✅ **Good:** Ace Pilot · Fire-Mage · Cat Burglar · Grifter · My Loyal Wolf · Grandpa's Lockpicks · Tracker · Field Medic
+- ❌ **Just a Stat, reworded — avoid:** "Moving Quietly" *(that's Sneaky)* · "An Iron Grip" *(Strong)* · "Quick Reflexes" *(Quick)* · "Effortless Charm" *(Charming)*. *(Your Stats already cover these, so they'd never switch off — and they don't tell anyone who you are.)*
+- ❌ **Just a prop — avoid:** "A Sturdy Backpack," "A Flashlight." *(It'd be the same in anyone's hands. Load it with a story — whose, and why does it matter? — or pick a role instead.)*
+- ❌ **The genre's premise — avoid:** if *every* hero in the genre already is one, it's too broad to mean anything. In a mystery everyone's a "Detective" — so that's your **Concept**, not an Asset. Pick the *specialty* within it instead (Forensic Analyst, Interrogator, Codebreaker).
 - ❌ **Too broad — avoid:** "Lucky," "Skilled," "Good at everything." *(These would help on almost **any** roll, so they stop meaning anything — that's what your Stats are for.)*
-- ❌ **Too narrow — avoid:** "Picking brass locks," "Juggling." *(They almost never come up.)*
+- ❌ **Too narrow — avoid:** "Picking Brass Locks," "Arson Investigation." *(If the trigger only fires in a rare, specific scenario, the Asset sits dead most of the game.)*
 - ❌ **Too powerful — avoid:** "Invincible," "Mind Control," "Always Wins." *(No fun for anyone, including you.)*
 
 **The one-sentence test.** So how do you know if an Asset fits a moment? Use this rule:
 
 > *You can use an Asset's edge if you can say, in **one sentence**, how this exact Asset solves this exact problem.*
 
-If the sentence comes out naturally — "I use my **Grappling Hook** to swing across the gap" — it fits, and that's your extra +1. If you have to stretch to make it sound right, it doesn't fit this time, and that's fine. (Stats are different: you don't argue those — you just ask what the action calls for. Chapter 4 shows exactly how the two layers stack.)
+If the sentence comes out naturally — "I'm a **Tracker**, so I follow the raider's trail" — it fits, and that's your extra +1. If you have to stretch to make it sound right, it doesn't fit this time, and that's fine. (Stats are different: you don't argue those — you just ask what the action calls for. Chapter 4 shows exactly how the two layers stack.)
 
 > *Part Two has deeper guidance on sizing Assets, choosing Stats, and the design reasons behind the two-layer system. For your first game, two Stats, three good Assets, and the one-sentence test are all you need.*
 

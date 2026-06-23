@@ -171,56 +171,56 @@ Horror is survival and dread. The Stats are how you *act* against the threat —
 
 ### Archetypes
 
-*Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit.*
+*An Archetype is a ready-made build — two Stats and three Assets. Play one straight, swap any Asset, or mix bricks from different builds into something new.*
 
-- **The Skeptic** — insists there's a rational explanation, right up until there isn't. *Logical Explanations · A Steady Hand · A Bright Flashlight · Stubborn Disbelief.*
-- **The Believer** — knew something was wrong all along, and nobody listened. *Knowledge of Folklore · A Sixth Sense for Danger · A Grandmother's Warding Charm · Reads Forbidden Books.*
-- **The Brave-but-Scared Kid** — terrified, and goes in anyway, because someone has to. *Pushes Through Fear · Quick Feet · A Loyal Best Friend · A Lucky Pocketknife.*
-- **The One Who's Seen It Before** — old scars and older knowledge; the reluctant guide. *Been Here Before · Knows What Works · A Weathered Journal · A Hard-Won Calm.*
-- **The Fierce Protector** — stands between the dark and everyone they love. *Stands Their Ground · A Heavy Wrench · Pulls Others to Safety · A Watchful Eye.*
-- **The Sensitive** — feels the wrongness before it arrives; gifted and burdened. *Senses What's Coming · A Soothing Presence · Strange Dreams · A Calm Voice in the Dark.*
-- **The Practical Survivor** — no powers, just preparation, nerve, and a full backpack. *A Well-Packed Bag · First Aid Under Pressure · Improvises Anything · Knows the Way Out.*
+- **The Skeptic** — insists there's a rational explanation, right up until there isn't. *Clever + Charming · Detective · Doctor · Reporter.*
+- **The Believer** — knew something was wrong all along, and nobody listened. *Clever + Sneaky · Folklorist · Occultist · Second Sight.*
+- **The Brave-but-Scared Kid** — terrified, and goes in anyway, because someone has to. *Quick + Sneaky · Scout · Scavenger · Escape Artist.*
+- **The One Who's Seen It Before** — old scars and older knowledge; the reluctant guide. *Clever + Strong · Monster Hunter · Cult Survivor · Occultist.*
+- **The Fierce Protector** — stands between the dark and everyone they love. *Strong + Charming · Soldier · Bruiser · Carpenter.*
+- **The Sensitive** — feels the wrongness before it arrives; gifted and burdened. *Clever + Charming · Medium · Second Sight · Prophetic Dreams.*
+- **The Practical Survivor** — no powers, just preparation, nerve, and a full backpack. *Clever + Quick · Scavenger · Nurse · Mechanic.*
 
 ### The Horror Asset table (d100)
 
-*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds, and a roll of **100** just means roll again. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise (over 68, roll again), or skim and grab the ones that make you grin. Every entry shares the same odds. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
-| d100 | Asset |
-|---|---|
-| 1–3 | A Bright Flashlight *(extra batteries)* |
-| 4–6 | A Can of Salt |
-| 7–9 | A Grandmother's Warding Charm |
-| 10–12 | A Dog-Eared Journal |
-| 13–15 | A Walkie-Talkie Set |
-| 16–18 | A Loyal Dog That Senses Things |
-| 19–21 | Stays Calm in the Dark |
-| 22–24 | Pushes Through Fear |
-| 25–27 | Knows When to Run |
-| 28–30 | Moves Silently |
-| 31–33 | Hides Well |
-| 34–36 | Boards Up a Door Fast |
-| 37–39 | Senses What's Coming |
-| 40–42 | Spots the Thing That's "Off" |
-| 43–45 | Sharp Hearing in the Dark |
-| 46–48 | Knowledge of Folklore |
-| 49–51 | Reads Forbidden Books |
-| 52–54 | Knows What Wards It Off |
-| 55–57 | Field Medicine Under Pressure |
-| 58–60 | Calms a Panicking Friend |
-| 61–63 | Stands Their Ground |
-| 64–66 | Never Leaves Anyone Behind |
-| 67–69 | Been Here Before |
-| 70–72 | An Old Scar That Aches Near It |
-| 73–75 | A Map of the Safe Routes |
-| 76–78 | A Hidden Bunker Only You Know |
-| 79–81 | Dreams That Show the Future |
-| 82–84 | An Imaginary Friend *(that's real?)* |
-| 85–87 | A Mirror That Shows the Truth |
-| 88–90 | A Photo That Shouldn't Exist |
-| 91–93 | A Bell That Drives It Back |
-| 94–96 | A Name It Answers To |
-| 97–99 | A Reason to Survive |
-| 100 | **Roll again** |
+| d100 | Asset | You add +1 when… |
+|---|---|---|
+| 1–2 | Nurse | you keep someone alive with whatever's on hand. |
+| 3–4 | Doctor | you diagnose an injury, an illness, or what's wrong here. |
+| 5–6 | Mechanic | you coax a dead car, generator, or radio back to life. |
+| 7–8 | Electrician | you deal with power, wiring, or the failing lights. |
+| 9–10 | Locksmith | you get through a locked door — or bar one shut. |
+| 11–12 | Carpenter | you board up, barricade, or build a defense. |
+| 13–14 | Hunter | you track, shoot, or field-dress — turned on worse game. |
+| 15–16 | Park Ranger | you rely on knowing these woods, trails, and back-country. |
+| 17–18 | Sheriff | you lean on authority, a sidearm, or the town's trust. |
+| 19–20 | Librarian | you find the one book or record that explains it. |
+| 21–22 | Reporter | you dig up the town's buried history. |
+| 23–24 | Detective | you piece together the disappearances. |
+| 25–26 | Escape Artist | you slip ropes, cuffs, a locked room, or a trap. |
+| 27–28 | Soldier | you fall back on combat training and discipline under fire. |
+| 29–30 | Bruiser | you smash through, hold a door, or hit back hard. |
+| 31–32 | Scout | you slip through the dark to find a way out. |
+| 33–34 | Scavenger | you scrounge supplies, batteries, or a working anything. |
+| 35–36 | Caretaker | you use your knowledge of this place's rooms and hidden ways. |
+| 37–38 | Mortician | you handle the dead and the rites that keep them down. |
+| 39–40 | Priest | you stand against the unholy with faith and rite. |
+| 41–42 | Occultist | you work out the sigil, rule, or rite that binds the thing. |
+| 43–44 | Exorcist | you drive out what's possessing a person or place. |
+| 45–46 | Medium | you reach the dead or the in-between. |
+| 47–48 | Witch | you work hedge-craft, a charm, or small protective magic. |
+| 49–50 | Folklorist | you recall the old story that turns out to be true. |
+| 51–52 | Paranormal Investigator | you use gear and recordings to prove what's there. |
+| 53–54 | Cryptozoologist | you hunt the thing science says isn't real. |
+| 55–56 | Monster Hunter | you know a creature's bane and how to end it. |
+| 57–58 | Cult Survivor | you face a cult and know how they think. |
+| 59–60 | Second Sight | you glimpse the dead, or the thing about to happen. |
+| 61–62 | Prophetic Dreams | your nightmares show you what's coming. |
+| 63–64 | A Healer's Touch | you mend a wound or sickness with a laying-on of hands. |
+| 65–66 | Wardcrafter | you drive back a spirit with salt, charm, or rite. |
+| 67–68 | A Loyal Dog That Senses Things | your dog growls before you see it. |
 
 ### Horror Boon triggers (d10)
 

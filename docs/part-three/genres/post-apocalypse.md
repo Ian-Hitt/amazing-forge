@@ -171,56 +171,58 @@ The wasteland leans on **Clever and Charming**, but every Stat earns its keep:
 
 ### Archetypes
 
-*Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit.*
+*An Archetype is a ready-made build — two Stats and three Assets. Play one straight, swap any Asset, or mix bricks from different builds into something new.*
 
-- **The Scavenger** — lives by what they can find and fix; reads the ruins like a map of what's still useful. *An Eye for Useful Scrap · Knows Where to Scavenge · A Loaded Shopping Cart · Jury-Rigging Anything.*
-- **The Medic** — keeps the group alive with a dwindling kit and steady hands. *A Pre-Collapse Medical Kit · Field-Dressing a Wound · Knowing Which Plants Heal · A Trustworthy Face Among Strangers.*
-- **The Mechanic** — if it has an engine, they can coax it back to life one more time. *Patching an Engine With Junk · Hotwiring an Engine · A Trusty Multi-Tool · A Rust-Bucket Pickup Truck.*
-- **The Guardian** — stands between the camp and the wasteland; the muscle who protects, not the kind who takes. *Holding Firm When Outnumbered · A Salvaged Riot Shield · Covering a Retreat · A Loyal Guard Dog.*
-- **The Grower** — feeds the group from a dead world and quietly plants the future. *Foraging Safe Food · Trapping Small Game · Knowing Which Plants Kill · A Tin of Heirloom Seeds.*
-- **The Wanderer** — the lone traveler who knows the roads, the camps, and the safe way through. *Knows the Safe Settlements · A Compass & a Hand-Drawn Map · Reading Tracks & Trails · A Patched-Together Motorbike.*
-- **The Keeper** — carries the old world's knowledge, and the faith that it's worth saving. *A Book of Old-World Know-How · A Working Radio (and a Voice Out There) · Rallying a Frightened Group · A Reason to Keep Going.*
+- **The Scavenger** — lives by what they can find and fix; reads the ruins like a map of what's still useful. *Clever + Sneaky · Tinkerer · Tracker · Demolitionist.*
+- **The Medic** — keeps the group alive with a dwindling kit and steady hands. *Clever + Charming · Medic · Doctor · Herbalist.*
+- **The Mechanic** — if it has an engine, they can coax it back to life one more time. *Clever + Strong · Mechanic · Engineer · Distiller.*
+- **The Guardian** — stands between the camp and the wasteland; the muscle who protects, not the kind who takes. *Strong + Quick · Guardian · Sharpshooter · Beast-Hunter.*
+- **The Grower** — feeds the group from a dead world and quietly plants the future. *Clever + Strong · Farmer · Forager · Cook.*
+- **The Wanderer** — the lone traveler who knows the roads, the camps, and the safe way through. *Quick + Clever · Scout · Pathfinder · Rider.*
+- **The Keeper** — carries the old world's knowledge, and the faith that it's worth saving. *Clever + Charming · Keeper · Radio Operator · Leader.*
 
 ### The Post-Apocalypse Asset table (d100)
 
-*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds, and a roll of **100** just means roll again. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise (over 72, roll again), or skim and grab the ones that make you grin. Every entry shares the same odds. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
-| d100 | Asset |
-|---|---|
-| 1–3 | A Crossbow That Reuses Its Bolts |
-| 4–6 | A Salvaged Riot Shield |
-| 7–9 | A Battered Gas Mask |
-| 10–12 | A Water Filter That Still Works |
-| 13–15 | A Clicking Geiger Counter |
-| 16–18 | A Compass & a Hand-Drawn Map |
-| 19–21 | A Patched-Together Motorbike |
-| 22–24 | A Rust-Bucket Pickup Truck |
-| 25–27 | A Loaded Shopping Cart |
-| 28–30 | Foraging Safe Food |
-| 31–33 | Purifying Water |
-| 34–36 | Field-Dressing a Wound |
-| 37–39 | Knowing Which Plants Heal |
-| 40–42 | Knowing Which Plants Kill |
-| 43–45 | Rationing to the Last Crumb |
-| 46–48 | Reading Tracks & Trails |
-| 49–51 | Hiding a Camp From Raiders |
-| 52–54 | An Eye for Useful Scrap |
-| 55–57 | Jury-Rigging Anything |
-| 58–60 | Hotwiring an Engine |
-| 61–63 | Knows Where to Scavenge |
-| 64–66 | Distilling Fuel From Scraps |
-| 67–69 | Holding Firm When Outnumbered |
-| 70–72 | Covering a Retreat |
-| 73–75 | Bartering for a Fair Trade |
-| 76–78 | Talking Down a Twitchy Gunman |
-| 79–81 | Rallying a Frightened Group |
-| 82–84 | Knows the Safe Settlements |
-| 85–87 | A Loyal Guard Dog |
-| 88–90 | A Working Radio *(and a Voice Out There)* |
-| 91–93 | A Pre-Collapse Medical Kit |
-| 94–96 | A Tin of Heirloom Seeds |
-| 97–99 | A Beat-Up Guitar *(and the Heart to Play It)* |
-| 100 | **Roll again** |
+| d100 | Asset | You add +1 when… |
+|---|---|---|
+| 1–2 | Forager | you find safe food or water in a dead land. |
+| 3–4 | Hunter | you stalk and bring down game for meat. |
+| 5–6 | Herbalist | you use plants to heal, or to poison. |
+| 7–8 | Tracker | you read a trail: who passed, when, how many. |
+| 9–10 | Cook | you turn scavenged, questionable food into a safe meal. |
+| 11–12 | Distiller | you make fuel, alcohol, or clean water from junk. |
+| 13–14 | Farmer | you coax crops from poisoned soil. |
+| 15–16 | Beast-Tamer | you tame a wasteland creature into a mount or guard. |
+| 17–18 | Medic | you patch a wound with a dwindling kit. |
+| 19–20 | Doctor | you handle surgery, triage, or real sickness. |
+| 21–22 | Mechanic | you bring a dead engine back for one more run. |
+| 23–24 | Engineer | you fix a pump, turbine, or pre-collapse machine. |
+| 25–26 | Tinkerer | you jury-rig gear from scrap and wire. |
+| 27–28 | Electrician | you wire up power, batteries, or salvaged tech. |
+| 29–30 | Gunsmith | you repair a weapon or reload spent brass. |
+| 31–32 | Demolitionist | you breach, clear rubble, or drop a structure with explosives. |
+| 33–34 | Quartermaster | you ration, stretch, or manage the group's scarce supplies. |
+| 35–36 | Sharpshooter | you take a shot at long range. |
+| 37–38 | Raider | you hit hard and fast to take what's needed. |
+| 39–40 | Guardian | you stand between the camp and the wasteland. |
+| 41–42 | Brawler | you fight close with fists or whatever's at hand. |
+| 43–44 | Bodyguard | you keep one person alive through anything. |
+| 45–46 | Beast-Hunter | you hunt the wasteland's mutated, dangerous creatures. |
+| 47–48 | Driver | you push a vehicle through wreck-choked roads. |
+| 49–50 | Rider | you cross the open waste by bike or horse. |
+| 51–52 | Scout | you range ahead into unknown territory. |
+| 53–54 | Pathfinder | you pick the safe route past the killing grounds. |
+| 55–56 | Trader | you barter a fair deal across settlements. |
+| 57–58 | Negotiator | you talk down a twitchy gunman or a warlord. |
+| 59–60 | Smuggler | you move contraband or people past a checkpoint. |
+| 61–62 | Leader | you rally a frightened group to hold together. |
+| 63–64 | Keeper | you draw on the old world's knowledge and how-to. |
+| 65–66 | Radio Operator | you work the airwaves to reach the living. |
+| 67–68 | A Friend in Every Camp | you need a place to trade, rest, or hide. |
+| 69–70 | A Loyal Guard Dog | your dog warns of danger, tracks, or fights. |
+| 71–72 | A Pack Mule | your mule hauls what no one else can. |
 
 ### Post-Apocalypse Boon triggers (d10)
 

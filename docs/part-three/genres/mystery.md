@@ -168,56 +168,68 @@ Mystery runs on **Clever, Charming, and Sneaky** — but the physical Stats stil
 
 ### Archetypes
 
-*Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit.*
+*An Archetype is a ready-made build — two Stats and three Assets. Play one straight, swap any Asset, or mix bricks from different builds into something new.*
 
-- **The Sharp-Eyed Outsider** — sees the place clearly *because* they don't belong, and misses nothing. *An Eye for Detail · A Reporter's Notebook · A Photographic Memory · A Stubborn Streak.*
-- **The Connected Insider** — knows everyone, every family, every grudge going back years. *Knows Everyone in Town · A Nose for Gossip · Old Family Ties · A Trustworthy Face.*
-- **The Skeptic** — tests every claim, believes nothing without proof, and is usually right to. *Spotting a Liar · Logical Deduction · A Magnifying Glass · A Cool Head Under Suspicion.*
-- **The Charmer** — gets people talking who swore they'd say nothing. *A Disarming Smile · A Way With Words · A Shoulder to Cry On · A Knack for the Right Question.*
-- **The Specialist** — the lab, the lore, the locks: the technical edge the case needs. *Forensic Know-How · Obscure Local History · Picking Locks · A Field Kit.*
-- **The Tagalong with the Gift** — underestimated (a kid, a clerk, a cleaner) but notices what grown-ups ignore. *Overlooked & Underestimated · A Curious Mind · Small Enough to Slip Through · A Pet That Goes Anywhere.*
-- **The Inside Source** — works within the very thing they're investigating, and it's eating at them. *Access to the Archives · Reads Body Language · Knows the Building's Routines · A Secret to Protect.*
+- **The Sharp-Eyed Outsider** — sees the place clearly *because* they don't belong, and misses nothing. *Clever + Sneaky · Cold-Reader · Crime-Scene Tech · Ballistics Expert.*
+- **The Connected Insider** — knows everyone, every family, every grudge going back years. *Charming + Clever · Gossip · Fixer · Bartender.*
+- **The Skeptic** — tests every claim, believes nothing without proof. *Clever + Quick · Forensic Analyst · Document Examiner · Codebreaker.*
+- **The Charmer** — gets people talking who swore they'd say nothing. *Charming + Clever · Confidant · Negotiator · Interrogator.*
+- **The Specialist** — the lab, the lore, the locks: the technical edge the case needs. *Clever + Sneaky · Forensic Analyst · Hacker · Locksmith.*
+- **The Tagalong with the Gift** — underestimated, but notices what grown-ups ignore. *Sneaky + Quick · Shadow · Pickpocket · Cold-Reader.*
+- **The Inside Source** — works within the very thing they're investigating. *Clever + Charming · Archivist · Forensic Accountant · Surveillance Expert.*
 
 ### The Mystery Asset table (d100)
 
-*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds, and a roll of **100** just means roll again. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise (over 92, roll again), or skim and grab the ones that make you grin. Every entry shares the same odds. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
-| d100 | Asset |
-|---|---|
-| 1–3 | A Magnifying Glass |
-| 4–6 | A Reporter's Notebook |
-| 7–9 | A Forensic Field Kit |
-| 10–12 | A Ring of Skeleton Keys |
-| 13–15 | A Trench Coat With Many Pockets |
-| 16–18 | A Trusty Bloodhound |
-| 19–21 | A Watchful Pet Crow |
-| 22–24 | An Eye for Detail |
-| 25–27 | A Photographic Memory |
-| 28–30 | Spotting a Liar |
-| 31–33 | Connecting Distant Dots |
-| 34–36 | Eavesdropping Unnoticed |
-| 37–39 | Tailing Someone Quietly |
-| 40–42 | Cracking Codes & Ciphers |
-| 43–45 | Lip-Reading |
-| 46–48 | A Knack for the Right Question |
-| 49–51 | A Disarming Smile |
-| 52–54 | A Shoulder to Cry On |
-| 55–57 | Playing Dumb on Purpose |
-| 58–60 | Knows Everyone in Town |
-| 61–63 | A Reliable Informant |
-| 64–66 | Access to the Archives |
-| 67–69 | Knowledge of Poisons |
-| 70–72 | Knowledge of Forgery & Fakes |
-| 73–75 | Following the Money |
-| 76–78 | A Cool Head Under Suspicion |
-| 79–81 | Overlooked & Underestimated |
-| 82–84 | A Convincing Disguise |
-| 85–87 | Reading a Crime Scene |
-| 88–90 | Reconstructing What Happened |
-| 91–93 | A Sixth Sense for Trouble |
-| 94–96 | A Half-Burned Letter You Kept |
-| 97–99 | A Mysterious Key You Can't Place |
-| 100 | **Roll again** |
+| d100 | Asset | You add +1 when… |
+|---|---|---|
+| 1–2 | Ballistics Expert | you examine a gun, a bullet, or a shot's trajectory. |
+| 3–4 | Stage Magician | you work out how a trick or "impossible" crime was faked. |
+| 5–6 | Forensic Analyst | you read physical evidence: blood, fibers, residue. |
+| 7–8 | Coroner | you examine a body for cause, time, or manner of death. |
+| 9–10 | Crime-Scene Tech | you work a scene for prints, traces, and what's missing. |
+| 11–12 | Toxicologist | you detect a poison or drug, and how it was given. |
+| 13–14 | Document Examiner | you check papers for forgery or tampering. |
+| 15–16 | Codebreaker | you crack a cipher, code, or hidden message. |
+| 17–18 | Hacker | you dig through records, cameras, or devices. |
+| 19–20 | Profiler | you predict a culprit's pattern or next move. |
+| 21–22 | Psychologist | you read a disturbed, traumatized, or lying mind. |
+| 23–24 | Cold-Reader | you size up a stranger from their clothes, hands, and tells. |
+| 25–26 | Interrogator | you press a reluctant suspect for the truth. |
+| 27–28 | Investigative Reporter | you chase a story through sources and paper trails. |
+| 29–30 | Archivist | you find the one file in a mountain of records. |
+| 31–32 | Historian | you uncover old grudges, family lines, and buried events. |
+| 33–34 | Linguist | you read lips, accents, dead languages, or slang. |
+| 35–36 | Sketch Artist | you turn a witness's words into a face. |
+| 37–38 | Photographer | you catch the shot that proves it. |
+| 39–40 | Lawyer | you use the law, rights, or leverage to your advantage. |
+| 41–42 | Beat Cop | you lean on street knowledge, procedure, or a fellow cop. |
+| 43–44 | Forensic Accountant | you follow dirty money through books and fronts. |
+| 45–46 | Gossip | you dig up rumors, grudges, and who's hiding what. |
+| 47–48 | Confidant | you get someone to confide a secret they're guarding. |
+| 49–50 | Negotiator | you talk down a cornered, dangerous person. |
+| 51–52 | Bartender | you work the bar for rumors, regulars, and who drank alone. |
+| 53–54 | Cabbie | you know the city's streets, or who went where and when. |
+| 55–56 | Bookie | you know who's in debt, desperate, or gambling deep. |
+| 57–58 | Pawnbroker | you trace stolen goods or appraise a thing's true worth. |
+| 59–60 | Fixer | you tap the underworld for a contact or a favor. |
+| 61–62 | Blackmailer | you hold a secret someone will pay to keep buried. |
+| 63–64 | A Reliable Informant | you tap a street contact for a lead. |
+| 65–66 | A Friend on the Force | you call in a cop to pull a file or look the other way. |
+| 67–68 | Occult Investigator | you face a case that brushes the cursed or unexplained. |
+| 69–70 | Disguise Artist | you pass as someone who belongs where you don't. |
+| 71–72 | Undercover Operative | you live a false identity to get inside. |
+| 73–74 | Shadow | you tail a mark for hours without being spotted. |
+| 75–76 | Pickpocket | you lift a key, wallet, or phone off someone. |
+| 77–78 | Burglar | you break into a guarded building unseen. |
+| 79–80 | Locksmith | you open a lock, safe, or sealed door. |
+| 81–82 | Surveillance Expert | you watch a target unseen — bugs, lenses, a stakeout. |
+| 83–84 | Tracker | you follow a physical trail to where someone went. |
+| 85–86 | Bounty Hunter | you hunt down someone who doesn't want to be found. |
+| 87–88 | Bodyguard | you protect a client or witness under threat. |
+| 89–90 | A Loyal Bloodhound | your hound follows a scent anywhere. |
+| 91–92 | A Watchful Crow | your crow goes where you can't, and watches. |
 
 ### Mystery Boon triggers (d10)
 

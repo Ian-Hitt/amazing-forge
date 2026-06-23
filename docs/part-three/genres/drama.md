@@ -173,56 +173,51 @@ Drama is social warfare, so **Charming, Clever, and Sneaky** carry most scenes �
 
 ### Archetypes
 
-*Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit.*
+*An Archetype is a ready-made build — two Stats and three Assets. Play one straight, swap any Asset, or mix bricks from different builds into something new.*
 
-- **The Golden One** — admired, envied, watched by everyone; the bar the others measure against. *Effortless Charisma · Always Says the Right Thing · A Devoted Following · Grace Under Scrutiny.*
-- **The Outsider** — clawing their way in, seeing the whole game clearly *because* they're new. *Reads the Room Fast · Nothing to Lose · A Sharp Tongue · An Unlikely Ally.*
-- **The Loyal Best Friend** — the heart of the group; holds everyone's secrets and their hands. *A Shoulder to Cry On · Fierce Loyalty · Knows Everyone's Heart · A Calming Word.*
-- **The Schemer** — three moves ahead, collecting favors and secrets for the long game. *Knows Everyone's Secrets · A Web of Favors · A Honeyed Lie · Patience for a Slow Plan.*
-- **The Heart-on-Sleeve Romantic** — feels everything loudly; love is their whole engine. *Wears Their Heart Openly · A Way With Heartfelt Words · A Grand Romantic Gesture · Reads Emotions.*
-- **The Rival** — your equal and your opposite; pushes you to be sharper. *A Cutting Wit · Refuses to Lose · A Reputation to Match Yours · Knows Your Weak Spot.*
-- **The Wallflower with Depths** — overlooked, underestimated, and quietly the most observant person in the room. *Goes Completely Unnoticed · Overhears Everything · A Hidden Talent · A Surprising Secret.*
+- **The Golden One** — admired, envied, watched by everyone; the bar the others measure against. *Charming + Clever · Socialite · Ringleader · Tastemaker.*
+- **The Outsider** — clawing their way in, seeing the whole game clearly *because* they're new. *Clever + Sneaky · Social Climber · Instigator · Critic.*
+- **The Loyal Best Friend** — the heart of the group; holds everyone's secrets and their hands. *Charming + Strong · Confidant · Peacemaker · A Loyal Best Friend.*
+- **The Schemer** — three moves ahead, collecting favors and secrets for the long game. *Clever + Charming · Schemer · Manipulator · Knows Everyone's Secrets.*
+- **The Heart-on-Sleeve Romantic** — feels everything loudly; love is their whole engine. *Charming + Quick · Romantic · Confidant · An Old Flame.*
+- **The Rival** — your equal and your opposite; pushes you to be sharper. *Charming + Clever · Critic · Saboteur · Manipulator.*
+- **The Wallflower with Depths** — overlooked, underestimated, and quietly the most observant person in the room. *Sneaky + Clever · Wallflower · Gossip · Knows Everyone's Secrets.*
 
 ### The Drama Asset table (d100)
 
-*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds, and a roll of **100** just means roll again. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise (over 58, roll again), or skim and grab the ones that make you grin. Every entry shares the same odds. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
-| d100 | Asset |
-|---|---|
-| 1–3 | A Way With Words |
-| 4–6 | Effortless Charm |
-| 7–9 | A Cutting Wit |
-| 10–12 | A Honeyed Lie |
-| 13–15 | A Heartfelt Apology |
-| 16–18 | A Grand Romantic Gesture |
-| 19–21 | Reads People Like a Book |
-| 22–24 | Knows When to Stay Quiet |
-| 25–27 | Never Forgets a Favor |
-| 28–30 | Knows Everyone's Secrets |
-| 31–33 | A Web of Favors Owed |
-| 34–36 | Friends in Every Clique |
-| 37–39 | A Spy in the Other Camp |
-| 40–42 | Always Hears It First |
-| 43–45 | Fierce Loyalty |
-| 46–48 | A Shoulder to Cry On |
-| 49–51 | Keeps a Secret to the Grave |
-| 52–54 | Grace Under Scrutiny |
-| 55–57 | Owns a Room on Entry |
-| 58–60 | A Devoted Following |
-| 61–63 | Three Moves Ahead |
-| 64–66 | Turns the Crowd in a Sentence |
-| 67–69 | A Dazzling Talent *(music, sport)* |
-| 70–72 | Always Looks the Part |
-| 73–75 | A Powerful Patron |
-| 76–78 | A Surprising Secret of Your Own |
-| 79–81 | A Letter You Weren't Meant to Read |
-| 82–84 | Goes Completely Unnoticed |
-| 85–87 | Overhears Everything |
-| 88–90 | Plays Innocent Perfectly |
-| 91–93 | Defuses a Scene With Humor |
-| 94–96 | The Courage to Say How You Feel |
-| 97–99 | A Reputation You'd Die to Protect |
-| 100 | **Roll again** |
+| d100 | Asset | You add +1 when… |
+|---|---|---|
+| 1–2 | Socialite | you work a party, a gala, or the room that matters. |
+| 3–4 | Ringleader | you lead the group that everyone else follows. |
+| 5–6 | Tastemaker | you set the trend, the look, or what's cool. |
+| 7–8 | Social Climber | you work your way up — ingratiating, leveraging, rising. |
+| 9–10 | Confidant | someone trusts you with a secret they tell no one else. |
+| 11–12 | Peacemaker | you defuse a fight and get two sides talking. |
+| 13–14 | Mentor | you guide someone younger through a hard season. |
+| 15–16 | Gossip | you know who did what to whom, and when. |
+| 17–18 | Schemer | you play the long game of favors, leverage, and patience. |
+| 19–20 | Manipulator | you get someone to choose what you wanted all along. |
+| 21–22 | Negotiator | you broker a deal or a truce nobody else can. |
+| 23–24 | Fixer | you make a problem quietly disappear — a debt, a scandal. |
+| 25–26 | Spin Doctor | you control the story when a scandal breaks. |
+| 27–28 | Instigator | you light the fuse and stir the pot on purpose. |
+| 29–30 | Critic | you cut someone down, publicly and memorably. |
+| 31–32 | Saboteur | you undermine a rival's plans from inside. |
+| 33–34 | Journalist | you chase the story behind the scandal. |
+| 35–36 | Wallflower | you go unnoticed and overhear what others miss. |
+| 37–38 | Class Clown | you defuse tension or win a room with humor. |
+| 39–40 | Romantic | you wear your heart openly, or make the grand gesture. |
+| 41–42 | Prodigy | you show off a dazzling talent: music, art, or science. |
+| 43–44 | Athlete | you face the big game, match, or physical contest. |
+| 45–46 | A Powerful Patron | you call on an influential backer for support. |
+| 47–48 | A Web of Favors Owed | you call in a debt from across town. |
+| 49–50 | A Loyal Best Friend | you need someone to lie, fight, or cover for you. |
+| 51–52 | An Old Flame | you turn to a past love who still answers. |
+| 53–54 | A Spy in the Other Camp | you need eyes inside a rival's circle. |
+| 55–56 | Knows Everyone's Secrets | you hold leverage over someone who matters. |
+| 57–58 | Family Money | you throw money, lawyers, or status at a problem. |
 
 ### Drama Boon triggers (d10)
 

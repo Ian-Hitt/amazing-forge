@@ -168,56 +168,58 @@ A caper runs on **Sneaky and Clever**, with **Charming** close behind — and th
 
 ### Archetypes
 
-*Play one straight, or remix freely. Suggested starting Assets in italics — swap any that don't fit.*
+*An Archetype is a ready-made build — two Stats and three Assets. Play one straight, swap any Asset, or mix bricks from different builds into something new.*
 
-- **The Mastermind** — sees the whole board, three moves ahead; the plan is theirs. *A Talent for Plans · Reads the Angles · Improvises Under Pressure · Knows a Guy for Everything.*
-- **The Face** — all charm and confidence; talks through any door. *Effortless Charm · A Convincing Lie · A Wardrobe of Disguises · Reads People Instantly.*
-- **The Safecracker** — locks, vaults, and security systems are a love language. *Cracks Any Lock · A Roll of Picks · Defeats Alarm Systems · A Delicate Touch.*
-- **The Tech** — slices cameras and codes from a van full of screens. *Hacks Any System · Loops the Cameras · A Bag of Gadgets · Eyes on Every Feed.*
-- **The Inside Contact** — already works there, and knows exactly where the bodies are. *Knows the Building's Routines · An Employee Badge · Friends Among the Staff · A Master Key.*
-- **The Wildcard** — nobody, including the crew, can predict them; pure improvisation. *Improvises When It All Goes Wrong · Sleight of Hand · A Knack for Being Underestimated · Always Has an Out.*
-- **The Wheelman** — gets the crew out, fast, whatever it takes. *A Fast Getaway Car · Drives Anything · Knows Every Backstreet · Ice in the Veins.*
+- **The Mastermind** — sees the whole board, three moves ahead; the plan is theirs. *Clever + Charming · Mastermind · Tactician · Improviser.*
+- **The Face** — all charm and confidence; talks through any door. *Charming + Sneaky · Face · Grifter · Impersonator.*
+- **The Safecracker** — locks, vaults, and security systems are a love language. *Clever + Quick · Safecracker · Lockpick · Alarm Specialist.*
+- **The Tech** — slices cameras and codes from a van full of screens. *Clever + Sneaky · Hacker · Surveillance Tech · Electrician.*
+- **The Inside Contact** — already works there, and knows exactly where the bodies are. *Charming + Clever · Inside Man · Forger · Scout.*
+- **The Wildcard** — nobody, including the crew, can predict them; pure improvisation. *Quick + Sneaky · Improviser · Sleight-of-Hand Artist · Pickpocket.*
+- **The Wheelman** — gets the crew out, fast, whatever it takes. *Quick + Strong · Wheelman · Getaway Pilot · Cleaner.*
 
 ### The Caper Asset table (d100)
 
-*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds, and a roll of **100** just means roll again. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise (over 72, roll again), or skim and grab the ones that make you grin. Every entry shares the same odds. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
-| d100 | Asset |
-|---|---|
-| 1–3 | A Roll of Lockpicks |
-| 4–6 | A Bag of Gadgets |
-| 7–9 | A Forged ID Badge |
-| 10–12 | A Wardrobe of Disguises |
-| 13–15 | A Concealed Earpiece |
-| 16–18 | A Van Full of Screens |
-| 19–21 | A Fast Getaway Car |
-| 22–24 | Sleight of Hand |
-| 25–27 | The Switcheroo *(swapping things)* |
-| 28–30 | Cracks Any Lock |
-| 31–33 | Defeats Alarm Systems |
-| 34–36 | Hacks Any System |
-| 37–39 | Loops the Security Cameras |
-| 40–42 | Reads a Floor Plan at a Glance |
-| 43–45 | Timing a Window Perfectly |
-| 46–48 | Moving Silently |
-| 49–51 | Squeezing Through Vents |
-| 52–54 | Hiding in Plain Sight |
-| 55–57 | A Convincing Lie |
-| 58–60 | Effortless Charm |
-| 61–63 | Reads People Instantly |
-| 64–66 | Bluffing With Total Confidence |
-| 67–69 | Ice in the Veins |
-| 70–72 | A Talent for Plans |
-| 73–75 | Thinks Three Moves Ahead |
-| 76–78 | Improvises When It Goes Wrong |
-| 79–81 | Forging a Signature |
-| 82–84 | Knows a Fence for Anything |
-| 85–87 | A Contact in the Security Office |
-| 88–90 | The Boss's Private Schedule |
-| 91–93 | A Master Key |
-| 94–96 | A Safehouse Nobody Knows |
-| 97–99 | A Knack for Being Underestimated |
-| 100 | **Roll again** |
+| d100 | Asset | You add +1 when… |
+|---|---|---|
+| 1–2 | Mastermind | you build the plan and think three moves ahead. |
+| 3–4 | Fixer | you line up the crew, the gear, or the buyer. |
+| 5–6 | Tactician | you call the next move live, under the clock. |
+| 7–8 | Improviser | you turn a blown plan into the new plan on the spot. |
+| 9–10 | Grifter | you run a long con behind a false identity. |
+| 11–12 | Roper | you draw a mark in and keep them hooked. |
+| 13–14 | Impersonator | you pass as one specific real person. |
+| 15–16 | Face | you bluff past a guard or checkpoint by acting like you belong. |
+| 17–18 | Negotiator | you talk a guard, rival, or hostage-taker down. |
+| 19–20 | Safecracker | you crack a vault, safe, or combination lock. |
+| 21–22 | Lockpick | you pick a door, padlock, or pair of cuffs. |
+| 23–24 | Hacker | you defeat a camera, network, or electronic lock. |
+| 25–26 | Alarm Specialist | you beat a sensor, trip, or alarm system. |
+| 27–28 | Surveillance Tech | you plant bugs or watch every room from the van. |
+| 29–30 | Electrician | you cut the power, reroute it, or kill the lights. |
+| 31–32 | Demolitionist | you blow a wall, door, or safe — precisely. |
+| 33–34 | Forger | you fake a document, badge, seal, or banknote. |
+| 35–36 | Tunneler | you dig in from below: sewers, basements, the vault floor. |
+| 37–38 | Cat Burglar | you climb in high and silent where there's no door. |
+| 39–40 | Acrobat | you cross vents, ledges, laser-grids, and tight squeezes. |
+| 41–42 | Pickpocket | you lift a keycard, wallet, or phone unnoticed. |
+| 43–44 | Sleight-of-Hand Artist | you make the swap, the palm, the switch. |
+| 45–46 | Infiltrator | you walk in like you belong, then vanish. |
+| 47–48 | Disguise Artist | you change your face and look on the fly. |
+| 49–50 | Diversionist | you stage the distraction that clears the room. |
+| 51–52 | Scout | you case a target: routines, guards, blind spots. |
+| 53–54 | Lookout | you read the room and call the heat early. |
+| 55–56 | Cleaner | you erase the crew's traces — no prints, no trail. |
+| 57–58 | Quartermaster | you source the weapons, kit, and tools for the job. |
+| 59–60 | Launderer | you wash the take so it can actually be spent. |
+| 61–62 | Wheelman | you drive the getaway through any chase. |
+| 63–64 | Getaway Pilot | you fly the exit: chopper, boat, or plane. |
+| 65–66 | Hitter | you handle the muscle when talk won't do. |
+| 67–68 | Bodyguard | you keep the crew (or the mark) alive. |
+| 69–70 | Fence | you move the score to a buyer, no questions. |
+| 71–72 | Inside Man | you work there already and know its weak points. |
 
 ### Caper Boon triggers (d10)
 

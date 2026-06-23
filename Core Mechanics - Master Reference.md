@@ -285,13 +285,16 @@ the break), never a Stat. Stats are for the proactive thing a hero *attempts* �
 hero is known for — the things that earn an extra **+1** when they fit the moment. Choose three.
 A blank page is the hard part, so answer three questions:
 
-- **What have they trained in?** A **skill or area of expertise**: Fire Magic · Hacking ·
-  Acrobatics · Tracking · Solving Mysteries · Lockpicking · Healing Herbs.
-- **What's their signature item or sidekick?** A piece of **gear** or a **companion**: An
-  Enchanted Sword · A Hoverboard · A Loyal Pet Wolf · A Tiny Repair Drone. *(No gear or buddy
-  fits? Make it a **connection** — a mentor, a contact in every port, a famous name.)*
-- **One more — your call.** A **Wild** pick: another skill, a quirky talent, a second item —
-  anything that makes the hero yours.
+- **What are they known for?** A **role or signature skill** — the thing people call them for, a
+  tight title that names *who they are*: Ace Pilot · Fire-Mage · Tracker · Field Medic ·
+  Cat Burglar · Locksmith. *(Lead with this. A good Asset answers "who is this hero?", the
+  way "Ace Pilot" does and "a sturdy backpack" doesn't.)*
+- **What's the one thing they're never without?** A signature **item, companion, or connection**
+  — but one that could only be *theirs*: Grandpa's Lockpicks · A Loyal Pet Wolf · A Debt Owed by
+  a Crime Boss. The test: *would this be the same in anyone's hands?* If yes, it's interchangeable
+  kit — pick something loaded with story instead.
+- **One more — your call.** A **Wild** pick: another role, a quirky talent, a second signature
+  thing — anything that makes the hero yours.
 
 This is the recommended path, not a cage — slots may be rearranged freely. When defining an
 Asset, consider *how* the character got good at it; that instantly builds backstory.
@@ -303,17 +306,35 @@ Asset, consider *how* the character got good at it; that instantly builds backst
 > reputation). The Asset slots are a guiding default the player may rearrange. Purely a
 > creation-flow scaffold — no mechanical weight beyond the Stats and Assets themselves.
 
-**What makes a good Asset.** Aim for a **domain of competence** — broad enough to come up often,
-specific enough that it clearly *doesn't* cover everything. Your *Stats* are the broad layer, so
-let your Assets be pointed.
+**What makes a good Asset.** The master test is the **trigger**: finish *"You add +1 when…"* —
+a good Asset completes it cleanly with a situation that **comes up in ordinary play.** That
+single test catches both failure modes: too vague to finish the sentence (it's a Stat), or so
+specific the trigger almost never fires (e.g. "Arson Investigator"). Two supporting checks:
+**it tells you who the hero is** ("Ace Pilot" paints a person; "a sturdy backpack" doesn't), and
+it's **pointed** — clearly *doesn't* cover everything, with obvious moments where it's useless.
+Genre Asset tables present each entry *as* its trigger (`Asset | You add +1 when…`). Assets are
+**facet-identities** — one mastery/role each (Swordmaster, Healer, Locksmith), the bricks that
+build the broader **Archetypes** (Paladin = Templar + Healer + Ironclad). Your *Stats* are the
+broad layer, so let Assets be pointed and identity-bearing.
 
-- ✅ **Good:** Fire Magic · Acrobatics · Fast-Talking · My Loyal Wolf · Grandpa's
-  Lockpicks · Piloting · Tracking · Healing Herbs. *(Each has obvious situations where it's
+- ✅ **Good:** Ace Pilot · Fire-Mage · Cat Burglar · Tracker · My Loyal Wolf · Grandpa's
+  Lockpicks · Field Medic. *(Each names a person, and each has obvious situations where it's
   useless — that's the sign it's well-sized.)*
+- ❌ **Just a Stat, reworded — avoid:** "Moving Quietly" (that's Sneaky), "An Iron Grip"
+  (Strong), "Quick Reflexes" (Quick), "Effortless Charm" (Charming). *(These restate the Stat
+  layer, so they never switch off — they fail the sizing test and define nothing.)*
+- ❌ **Just a prop — avoid:** "A Sturdy Backpack," "A Flashlight." *(Interchangeable kit;
+  it'd be the same in anyone's hands and tells you nothing about the hero. Load it with story —
+  whose backpack, and why does it matter? — or pick a role instead.)*
+- ❌ **The genre's premise — avoid:** if *every* hero in the genre already is one, it's too
+  broad to mean anything (it would apply to most rolls — the old always-on-+1 problem). In a
+  mystery everyone's a "Detective"; in a wasteland everyone's a "Scavenger" — those are
+  **Concepts**, not Assets. Pick the *specialty* within (Forensic Analyst, Interrogator;
+  Mechanic, Demolitionist). Genre Asset tables must list specializations, never the premise.
 - ❌ **Too broad — avoid:** "Lucky," "Skilled," "Good at everything." *(These would help on
   literally **any** roll, so they stop meaning anything — that's what your Stats are for.)*
-- ❌ **Too narrow — avoid:** "Picking brass locks," "Juggling." *(Rarely comes up, so it
-  almost never helps.)*
+- ❌ **Too narrow — avoid:** "Picking brass locks," "Arson Investigation." *(If the trigger
+  only fires in a rare, specific scenario, the Asset sits dead most of the game.)*
 - ❌ **"I win" powers — avoid:** "Invincible," "Mind Control," "Always Succeeds."
 
 **Rolling — two questions, each worth +1:**
