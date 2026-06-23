@@ -38,6 +38,10 @@
     padding: .4rem .55rem; cursor: pointer; border-radius: 8px; }
   .iconbtn:hover { background: rgba(127,127,127,.14); }
   .dot { width: .7rem; height: .7rem; border-radius: 50%; flex: 0 0 auto; display: inline-block; }
+  .iconbtn svg { width: 1.45rem; height: 1.45rem; display: block; }
+  .ico { display: inline-flex; align-items: center; justify-content: center; }
+  .ico svg { width: 1.3rem; height: 1.3rem; }
+  button.icon svg { width: 1.1rem; height: 1.1rem; display: block; }
   select, .num-input { font: inherit; padding: .38rem .55rem; border-radius: 7px; border: 1px solid var(--line); background: var(--card); color: var(--ink); }
   select { max-width: 42vw; }
   button {
@@ -217,6 +221,24 @@
   function el(tag, cls, txt) { var e = document.createElement(tag); if (cls) e.className = cls; if (txt != null) e.textContent = txt; return e; }
   function esc(s) { return (s || "").replace(/[&<>]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]; }); }
 
+  // ---------- inline icons (Lucide, MIT-licensed) ----------
+  var ICONS = {
+    menu: '<line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="18" y2="18"/>',
+    x: '<path d="M18 6 6 18"/><path d="m6 6 12 12"/>',
+    users: '<path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>',
+    userRound: '<circle cx="12" cy="8" r="5"/><path d="M20 21a8 8 0 0 0-16 0"/>',
+    film: '<rect width="18" height="18" x="3" y="3" rx="2"/><path d="M7 3v18"/><path d="M3 7.5h4"/><path d="M3 12h18"/><path d="M3 16.5h4"/><path d="M17 3v18"/><path d="M17 7.5h4"/><path d="M17 16.5h4"/>',
+    target: '<circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/>',
+    globe: '<circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/>',
+    pin: '<path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/>',
+    settings: '<path d="M20 7h-9"/><path d="M14 17H5"/><circle cx="17" cy="17" r="3"/><circle cx="7" cy="7" r="3"/>',
+    star: '<polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>'
+  };
+  function icon(name, fill) {
+    return '<svg viewBox="0 0 24 24" fill="' + (fill || "none") + '" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' + (ICONS[name] || "") + "</svg>";
+  }
+  function delBtn() { var b = el("button", "danger sm icon"); b.innerHTML = icon("x"); return b; }
+
   // ---------- model ----------
   function blankHero() {
     return { id: uid("h"), name: "", player: "", concept: "", notes: "", stats: [],
@@ -360,8 +382,8 @@
 
   // ---------- chrome: header + slide-in drawer ----------
   var NAV = [
-    ["heroes", "Heroes", "🦸"], ["arcs", "Story Arcs", "🎬"], ["challenges", "Challenges", "🎯"],
-    ["world", "World", "🌍"], ["places", "Places", "📍"], ["cast", "Cast", "👥"]
+    ["heroes", "Heroes", "users"], ["arcs", "Story Arcs", "film"], ["challenges", "Challenges", "target"],
+    ["world", "World", "globe"], ["places", "Places", "pin"], ["cast", "Cast", "userRound"]
   ];
   var TITLES = { heroes: "Heroes", arcs: "Story Arcs", challenges: "Challenges", world: "World", places: "Places", cast: "Cast", manage: "Manage & Share" };
 
@@ -382,7 +404,7 @@
   function buildDrawer() {
     var d = $("drawer"); d.innerHTML = "";
     var t = el("div", "dtitle"); t.appendChild(el("span", null, "Menu"));
-    var x = el("button", "iconbtn x", "✕"); x.title = "Close"; x.onclick = closeDrawer; t.appendChild(x);
+    var x = el("button", "iconbtn x"); x.innerHTML = icon("x"); x.title = "Close"; x.onclick = closeDrawer; t.appendChild(x);
     d.appendChild(t);
 
     if (camp) {
@@ -392,14 +414,14 @@
       NAV.forEach(function (n) {
         var b = el("button", "navitem" + (ui.tab === n[0] ? " on" : ""));
         var c = counts[n[0]];
-        b.innerHTML = '<span class="ico">' + n[2] + '</span><span class="lbl">' + n[1] + "</span>" + (c ? '<span class="badge">' + c + "</span>" : "");
+        b.innerHTML = '<span class="ico">' + icon(n[2]) + '</span><span class="lbl">' + n[1] + "</span>" + (c ? '<span class="badge">' + c + "</span>" : "");
         b.onclick = function () { go(n[0]); };
         d.appendChild(b);
       });
       d.appendChild(el("div", "dhead", "Game"));
     }
     var mb = el("button", "navitem" + (ui.tab === "manage" ? " on" : ""));
-    mb.innerHTML = '<span class="ico">⚙️</span><span class="lbl">Manage &amp; Share</span>' + (online ? '<span class="badge">live</span>' : "");
+    mb.innerHTML = '<span class="ico">' + icon("settings") + '</span><span class="lbl">Manage &amp; Share</span>' + (online ? '<span class="badge">live</span>' : "");
     mb.onclick = function () { go("manage"); };
     d.appendChild(mb);
   }
@@ -539,7 +561,7 @@
       meta.innerHTML = '<span class="dim">' + (h.stats.join(" · ") || "no Stats") + " · Rdy " + h.rdy + "/9</span>";
       var actions = el("div", "actions");
       var openBtn = el("button", "ghost sm", ui.openHero === h.id ? "Close" : "Open"); openBtn.onclick = function () { ui.openHero = (ui.openHero === h.id) ? null : h.id; render(); };
-      var del = el("button", "danger sm icon", "✕"); del.title = "Remove hero"; del.onclick = function () { confirmDel("Remove \"" + (h.name || "this hero") + "\"?", function () { camp.heroes = camp.heroes.filter(function (x) { return x !== h; }); persist(); render(); }); };
+      var del = delBtn(); del.title = "Remove hero"; del.onclick = function () { confirmDel("Remove \"" + (h.name || "this hero") + "\"?", function () { camp.heroes = camp.heroes.filter(function (x) { return x !== h; }); persist(); render(); }); };
       actions.appendChild(openBtn); actions.appendChild(del);
       ch.appendChild(title); ch.appendChild(meta); ch.appendChild(actions);
       card.appendChild(ch);
@@ -635,7 +657,7 @@
       var title = el("div", "title");
       title.innerHTML = esc(a.goal || "Untitled Story Arc") + ' <span class="dim">— ' + sz.label + " · " + a.arc + "/" + sz.ms + " ▸ villain " + a.anta + "/" + sz.anta + "</span>";
       var actions = el("div", "actions");
-      var del = el("button", "danger sm icon", "✕"); del.title = "Delete Story Arc"; del.onclick = function () { confirmDel("Delete this Story Arc?", function () { camp.arcs = camp.arcs.filter(function (x) { return x !== a; }); persist(); render(); }); };
+      var del = delBtn(); del.title = "Delete Story Arc"; del.onclick = function () { confirmDel("Delete this Story Arc?", function () { camp.arcs = camp.arcs.filter(function (x) { return x !== a; }); persist(); render(); }); };
       actions.appendChild(del);
       ch.appendChild(title); ch.appendChild(actions);
       card.appendChild(ch);
@@ -724,7 +746,7 @@
       nameIn.oninput = function () { c.name = nameIn.value; persist(); };
       title.appendChild(nameIn);
       var actions = el("div", "actions");
-      var del = el("button", "danger sm icon", "✕"); del.title = "Delete Challenge"; del.onclick = function () { camp.challenges = camp.challenges.filter(function (x) { return x !== c; }); persist(); render(); };
+      var del = delBtn(); del.title = "Delete Challenge"; del.onclick = function () { camp.challenges = camp.challenges.filter(function (x) { return x !== c; }); persist(); render(); };
       actions.appendChild(del);
       ch.appendChild(title); ch.appendChild(actions); card.appendChild(ch);
 
@@ -787,7 +809,7 @@
       var back = el("label"); back.style.cssText = "display:flex;align-items:center;gap:.3rem;font-size:.78rem;color:var(--muted);";
       var bchk = el("input"); bchk.type = "checkbox"; bchk.checked = !!p.back; bchk.onchange = function () { p.back = bchk.checked; persist(); };
       back.appendChild(bchk); back.appendChild(document.createTextNode(" Return?"));
-      var del = el("button", "danger sm icon", "✕"); del.title = "Delete place"; del.onclick = function () { camp.places = camp.places.filter(function (x) { return x !== p; }); persist(); render(); };
+      var del = delBtn(); del.title = "Delete place"; del.onclick = function () { camp.places = camp.places.filter(function (x) { return x !== p; }); persist(); render(); };
       actions.appendChild(back); actions.appendChild(del);
       ch.appendChild(nameIn); ch.appendChild(actions); card.appendChild(ch);
       card.appendChild(labeled("Function — why the story comes here", textField(p, "fn", "Smugglers' den · the half-flooded archive · the festival")));
@@ -806,12 +828,13 @@
     camp.cast.forEach(function (n) {
       var card = el("div", "card");
       var ch = el("div", "card-head");
-      var star = el("button", "ghost sm icon", n.star ? "★" : "☆"); star.title = "Mark as important";
+      var star = el("button", "ghost sm icon"); star.title = "Mark as important";
+      star.innerHTML = icon("star", n.star ? "currentColor" : "none");
       star.style.color = n.star ? "var(--orange)" : "var(--muted)";
       star.onclick = function () { n.star = !n.star; persist(); render(); };
       var nameIn = el("input"); nameIn.type = "text"; nameIn.value = n.name || ""; nameIn.placeholder = "Name…"; nameIn.style.cssText = "font-weight:800;flex:1;";
       nameIn.oninput = function () { n.name = nameIn.value; persist(); };
-      var del = el("button", "danger sm icon", "✕"); del.title = "Delete NPC"; del.onclick = function () { camp.cast = camp.cast.filter(function (x) { return x !== n; }); persist(); render(); };
+      var del = delBtn(); del.title = "Delete NPC"; del.onclick = function () { camp.cast = camp.cast.filter(function (x) { return x !== n; }); persist(); render(); };
       var actions = el("div", "actions"); actions.appendChild(del);
       ch.appendChild(star); ch.appendChild(nameIn); ch.appendChild(actions); card.appendChild(ch);
       card.appendChild(labeled("Role — why they're in the story", textField(n, "role", "Helper · Obstacle · Source · Rival · Authority · Wildcard · Hidden Hand…")));
@@ -855,7 +878,7 @@
       r2.appendChild(cp); r2.appendChild(lv); b2.appendChild(r2);
     } else {
       b2.appendChild(el("p", "hint", "Put this campaign online so your whole table sees it update live — no accounts, just share the link."));
-      var go2 = el("button", "sm", "🔗 Start shared game"); go2.style.width = "100%"; go2.onclick = goOnline; b2.appendChild(go2);
+      var go2 = el("button", "sm", "Start shared game"); go2.style.width = "100%"; go2.onclick = goOnline; b2.appendChild(go2);
     }
     root.appendChild(b2);
 
@@ -945,6 +968,7 @@
 
   // ---------- init ----------
   function init() {
+    $("menuBtn").innerHTML = icon("menu");
     $("menuBtn").onclick = openDrawer;
     $("drawerOverlay").onclick = closeDrawer;
     document.addEventListener("keydown", function (e) { if (e.key === "Escape") closeDrawer(); });
