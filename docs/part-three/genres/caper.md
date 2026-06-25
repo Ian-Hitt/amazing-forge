@@ -58,7 +58,7 @@ In practice:
 
 - **Sell the score first.** Establish the prize and why it's "impossible" — the unbreakable vault, the guarded gala, the one-night-only window. The harder it sounds, the sweeter it plays.
 - **Plans are made to break.** Don't demand a perfect plan up front. Let the heroes set up a few advantages, then throw a wrench in — the fun is the *recovery*, not the blueprint.
-- **Caper Challenges are Stealth, Social, and clever problem-solving** (Chapter 8): "get past the lobby," "crack the vault," "keep the mark talking," "make the swap." A filled box is a step of the job pulled off clean (or clean *enough*).
+- **Caper Challenges are Stealth, Social, and clever problem-solving** (Chapter 8) — plus the **chase and the getaway** when a job goes loud: "get past the lobby," "crack the vault," "keep the mark talking," "make the swap," "lose the tail." A filled box is a step of the job pulled off clean (or clean *enough*).
 - **Reward style and teamwork.** The Face distracts while the Tech slices the lock while the Wildcard improvises — Aid Your Ally (Chapter 7) shines here. **Ask the Oracle** (Chapter 11) for what the heroes couldn't have planned — *is the night guard the one who owes us a favor?* — and let the dice deal the table a break or a curveball.
 - **Pace the heat.** Let it run smoothly just long enough for everyone to relax — *then* spring the complication. The fun is the swing from "we've got this" to "improvise, **now**" and back to a clean exit.
 - **The trap to avoid:** grinding it into a simulation. Don't bog down in floor plans and exact timings. Caper runs on rule-of-cool and momentum — if it'd look great in the movie, lean toward letting it happen.

@@ -4,7 +4,7 @@ The very first Worldbuilding question (Chapter 14) asks for your **Genre** — t
 
 A genre isn't *what happens* in your story — it's *how it feels.* The same floating city can be the backdrop for a thrilling adventure, a creeping horror, or a gossip-soaked drama, and it plays completely differently each time. That's the whole point of this chapter: **the rules never change — only the feeling does.** Pick a genre and the kind of scenes you play, the way a setback stings, and even the heroes you'd want to make all snap into focus.
 
-> **You don't need this for your first game.** Part One's Worldbuilding already had you name a mood out loud, and that's plenty to play. Come here when you want to lean *hard* into a particular feel, when you want help making characters that fit it, or when the table wants to try a genre that's new to them.
+> **You don't strictly *need* this for your first game — but it's worth a look even then.** Part One's Worldbuilding already had you name a mood out loud, and that's plenty to start. But the kit for your genre holds some of the most useful stuff in the book: what your Challenges tend to be, what a Story Arc looks like, what a setback *feels* like, and ready-made heroes and Assets to grab. Read your genre's kit before you play, or at least keep it open and reference it as you go — five minutes here will make almost any table's session better.
 
 ---
 

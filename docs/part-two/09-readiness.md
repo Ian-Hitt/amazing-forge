@@ -25,7 +25,7 @@ Two principles keep this on track:
 - **Fiction first, number second.** Don't say "you lose 1 Readiness" and stop. Say "the rope snaps and you slam back down onto the ledge, knocking the wind out of you — that's 1 Readiness." The loss should always be attached to something that *happened*.
 - **Make it a setback, not a fee.** A good price feels like a complication in a film — a door slamming, an alarm tripping, a friend cut off from the group. A bad price feels like a parking ticket. If the price doesn't change the Scene in some way, reach for a more interesting one.
 
-Remember what Readiness represents (Chapter 2): body, mind, *and* supplies. That gives you three flavors of price to draw from. The cost of a Miss can be a physical knock, a hit to morale or nerve, *or* lost and broken gear — whichever the moment makes most sense of. A ghost's shriek that rattles a hero drains Readiness exactly like a fall does.
+A simple way to land it: ask **"what does this cost the hero *right now*?"** Body (health, stamina), mind (nerve, composure), or supplies (gear lost or broken) — Readiness covers all three (Chapter 2), so a ghost's shriek that rattles a hero drains it exactly like a fall does. When a Scene has nothing physical to take, the cost is almost always **stress** — the mounting pressure of a closing deadline, a tightening net, an enemy gaining ground, all of it wearing on the hero's nerve. That's why Readiness fits a tense investigation as snugly as a fight: as the walls inch in, what's slipping away is the hero's composure, and the track counts it down just the same. Whatever just got lost, *that's* the Readiness.
 
 ### The d10 Table
 
@@ -54,7 +54,7 @@ The art of a good price is making it **push the story forward** rather than simp
 
 - **Aim the price at the plot, not just the hero.** "You take 2 Readiness" is bookkeeping. "The bridge you crossed collapses behind you — now the only way out is *forward*, deeper in" is a price that *moves the movie.* The best complications close off easy options and open dramatic ones.
 - **Escalate what's already tense.** Look at what the Scene is about and turn that dial. In a chase, the price tightens the gap. In a stealth Scene, it edges the alarm closer. In a social Scene, it turns the room against you. The price should feel inevitable in hindsight.
-- **Vary the three flavors.** If every price has been a physical knock, make the next one a hit to morale or a lost piece of gear. Rotating between body, mind, and supplies keeps Readiness loss from feeling repetitive and keeps all three meanings of the track alive.
+- **Vary the flavors.** If every price has been a physical knock, make the next one a hit to nerve — the stress of a tightening deadline or a foe gaining position — or a lost piece of gear. Rotating between body, mind, and supplies keeps Readiness loss from feeling repetitive and keeps all three meanings of the track alive.
 - **Match the size of the moment.** A Miss in a tense climax can warrant the dramatic, table-flipping version (entry 10 territory). A Weak Hit on a small Scene wants a light, quick complication. Don't spend a huge consequence on a minor beat, or vice versa.
 - **Never make it feel like a punishment for trying.** The price answers *what goes wrong*, not *you shouldn't have done that*. Heroes are supposed to attempt bold things and sometimes pay for them — that's the genre. Keep the tone "ooh, that's bad!" excitement, not "gotcha."
 

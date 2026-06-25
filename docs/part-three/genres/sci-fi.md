@@ -58,7 +58,7 @@ In practice:
 
 - **Lead with a "what if."** Pick one big idea — a thinking machine, a faster-than-light gate, a planet that dreams — and let the story explore its edges. The setting is an argument about that idea.
 - **Make the tech a character.** Gadgets, ships, and AIs should have quirks and limits. The duct-taped engine, the AI that's *technically* honest, the blaster that overheats — limits create drama.
-- **Challenges span the whole toolkit** (Chapter 8): a tense Stealth past security drones, an Investigation into a derelict, a Journey across a hostile planet, a fight with a malfunctioning machine. Boxes can be "reroute the power," "decode the signal," "survive the vacuum."
+- **Like Adventure, Sci-Fi's bread-and-butter Challenges are fights and perilous journeys** (Chapter 8) — a dogfight or boarding action, a crossing of hostile space or a deadly world — and it borrows the rest of the toolkit when the story calls: a tense Stealth past security drones, an Investigation into a derelict. Boxes can be "reroute the power," "decode the signal," "survive the vacuum."
 - **The frontier has owners.** Someone profits from the tech and someone pays for it. Corporations, governments, and AIs make great forces (antagonists with a face — Chapter 10) without a single mustache-twirling villain. **Ask the Oracle** (Chapter 11) for what the unknown holds — *is the signal a warning or a lure?*
 - **Pace wonder and cost.** Open on the marvel, then let the price arrive. Sci-Fi runs on *"isn't that amazing"* followed a beat later by *"...oh no."*
 - **The trap to avoid:** technobabble as a solution. Don't let "I reverse the polarity" win a scene. Tie rolls to clear fiction the table can picture — *what* you do and *why* it might fail.

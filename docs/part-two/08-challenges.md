@@ -6,11 +6,11 @@ Everything here runs on the core move from Chapter 7. A Challenge doesn't add ne
 
 ### When to Draw a Track
 
-Most risky moments are **Regular Rolls** — one roll and the story moves on. You only draw a Challenge Track when a Scene is big enough to be worth playing out in detail. Deciding which is which is a **group call** (in Co-op play, made together — not by one player), and it is **purely a story question, never a tactical one.**
+Most risky moments are **Regular Rolls** — one roll and the story moves on. You reach for a Challenge Track when a Scene looks like it'll take **more than a roll or two.** That's the whole test: *will a couple of rolls settle this, or does it want several?* A monster fight, a chase, a long trek, a tense infiltration tend to run long on their own — nothing in the fiction tells you when they're *done* until you've played them out, so a track gives them a finish line and a shape.
 
-The question to ask is always the same: **"How much screen time does this Scene deserve? Is this a big, fun moment worth savoring — or just a blip on the way to the next big thing?"** Another way to put it: *how much of the movie should this be?*
+But a track is a **tool, not a rule — and there's no wrong answer.** It's there to help you focus and shape a longer Scene; it is never required. Plenty of Scenes that *could* be Challenges play just fine as a handful of rolls, and you lose nothing by skipping the track — nor does drawing one ever cost you anything. So don't let the table stall on the decision: if you think it'll run long, draw one; if you're unsure, draw one anyway or just wing it. Both work, and you'll get more or less the same Scene either way.
 
-Crucially, **there is no mechanical reward for rushing.** You don't win the Story Arc faster, take less harm, or gain any edge by skipping a Challenge Track and resolving something in one roll. So the *only* thing that should decide it is which choice tells the better story. If the dragon fight is the moment everyone came for, draw the track and savor it. If the group would rather blow past a minor scuffle to reach the real climax, one Regular Roll is completely legitimate.
+The call is **always a story question, never a tactical one** (in Co-op, made by the group, not one player), because **there is no mechanical reward for rushing** — you don't win the Story Arc faster or take less harm by resolving something in one roll. And it swings both ways: a set-piece dragon fight wants a track so you can savor it, but a quick scuffle with some hallway goons can be two rolls and done. Even a fight doesn't *have* to be a Challenge if you want it short.
 
 ### Setting the Difficulty
 

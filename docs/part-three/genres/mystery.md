@@ -56,6 +56,7 @@ In practice:
 
 ### Telling Mystery stories
 
+- **Your natural Challenges are investigations and chases.** Those are the Mystery Scenes that run long enough to want a track (Chapter 8) — a single question, a hunch, or a quick search is just a roll or two, but combing a crime scene or running down a fleeing suspect wants several. When in doubt, an investigation is always a fine candidate to draw one.
 - **Clues are an Investigation Challenge** (Chapter 8): each box is a real clue or a fresh lead, and the full track adds up to the answer. Build it like any other Challenge; only the fiction changes.
 - **Layer the lies.** The first answer should be wrong or incomplete. Almost everyone has a secret; most are unrelated to the case — which is exactly what makes the real one hard to spot.
 - **Make legwork social.** The best clues come from *people*, so reward charm and patience as much as a magnifying glass. A nervous witness is more fun than a footprint.
