@@ -131,7 +131,7 @@ Safe on the far side, the heroes find a sheltered hollow out of the wind. Snik i
 
 **Leo:** "Snik repacks what gear he's got left and brews a little camp tea." **Maya:** "Brave checks Cinder's wing where she clipped the rock, then bandages her own scrapes."
 
-> **▶ Rules note — the Recovery Scene (Chapter 5).** Falling back to regroup is the reliable recovery: the whole party comes back up **all the way**, so Brave and Snik are both restored to **9.** And it's completely **free** — no roll, no cost, and it **never advances the Goblin King.** Catching your breath is always safe; it's just the quiet beat between dangers.
+> **▶ Rules note — the Recovery Scene (Chapter 5).** Falling back to regroup is the reliable recovery: the whole party comes back up **all the way**, so Brave and Snik are both restored to **9.** And it's **automatic** — no roll, no cost. Catching your breath is always safe; it's just the quiet beat between dangers.
 
 Back at full and ready, the heroes look at the King's track — still empty. They haven't handed him anything yet. But the horn from Milestone 1 is still ringing somewhere below: the throne cavern won't be quiet.
 

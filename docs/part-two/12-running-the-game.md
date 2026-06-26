@@ -105,9 +105,9 @@ The full ladder — name the Milestone, do the obvious, Story Spark, Ask the Dic
 
 Falling back to regroup (Chapter 8/9) is always a **group decision**, and in Co-op there's no Guide to frame the moment — so the table has to notice it together.
 
-The question to ask out loud is simple: **"Are we battered enough that it's time to fall back and heal up?"** Falling back is **free and always safe** — the whole party heals back to a full 9, and it **never advances the antagonist.** So it's a tactic, never a failure, and never something to dread: the only thing a Recovery Scene costs is the camera, the time it takes to step out of the action and play a quieter beat. (If you fall back *out of a Challenge* you're losing, you also give up that Challenge's progress — but the antagonist still gains nothing.)
+The question to ask out loud is simple: **"Are we battered enough that it's time to fall back and heal up?"** Falling back **always works** — the whole party heals back to a full 9. So it's a tactic, never a failure, and never something to dread: the only thing a Recovery Scene costs is the camera, the time it takes to step out of the action and play a quieter beat. (If you fall back *out of a Challenge* you're losing, you also give up that Challenge's progress.)
 
-So the real decision isn't *can we afford to rest* — it's *do we want to break the tension to do it.* A party that never regroups isn't braver; it's just one bad Challenge away from going **Out of Action** — which *does* hand the antagonist a box. Make falling back a shared call and a *story* beat: narrate the pull-back, play the quiet scene, and come back whole. The antagonist's clock climbs from the gambles you take (the **Devil's Bargain**), the dice turning against you (doubles on a Miss), and heroes going down — not from catching your breath.
+So the real decision isn't *can we afford to rest* — it's *do we want to break the tension to do it.* A party that never regroups isn't braver; it's just one bad Challenge away from going **Out of Action** — which *does* hand the antagonist a box. Make falling back a shared call and a *story* beat: narrate the pull-back, play the quiet scene, and come back whole. The antagonist's clock climbs from the gambles you take (the **Devil's Bargain**), the dice turning against you (doubles on a Miss), and heroes going down.
 
 ---
 

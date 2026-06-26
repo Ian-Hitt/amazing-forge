@@ -104,7 +104,7 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
       <span></span><span></span><span></span><span></span><span>&#8593;Ep</span><span></span><span></span><span></span><span>&#8593;Movie</span>
     </div>
   </div>
-  <p class="af-hint">Episode: 3 Story Arc / 5 Antagonist boxes (Attacks on 1&middot;3&middot;5; box&nbsp;5 = the antagonist's win). Movie: 6 Story Arc / 9 Antagonist (Attacks on 1&middot;3&middot;5&middot;7&middot;9; box&nbsp;9 = the win) &mdash; same at <b>any party size</b>. Cross out the boxes you don't use. An antagonist box fills three ways: a hero takes the <strong>Devil's Bargain</strong>, a <strong>Miss shows doubles</strong>, or a hero goes <strong>Out of Action</strong>. Recovery is <strong>free</strong> &mdash; falling back never advances it.</p>
+  <p class="af-hint">Episode: 3 Story Arc / 5 Antagonist boxes (Attacks on 1&middot;3&middot;5; box&nbsp;5 = the antagonist's win). Movie: 6 Story Arc / 9 Antagonist (Attacks on 1&middot;3&middot;5&middot;7&middot;9; box&nbsp;9 = the win) &mdash; same at <b>any party size</b>. Cross out the boxes you don't use. An antagonist box fills three ways &mdash; and no other: a hero takes the <strong>Devil's Bargain</strong>, a <strong>Miss shows doubles</strong>, or a hero goes <strong>Out of Action</strong>.</p>
 
   <h3 class="af-break">The Antagonist</h3>
   <div class="af-line"><label>Who / what</label><span class="af-fill"></span></div>
@@ -125,5 +125,5 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
   <h3>Notes</h3>
   <div class="af-notes"></div>
 
-  <p class="af-ref"><b>Win:</b> reach the climax (Story Arc Track full) and win the Showdown &mdash; then Downtime resets the party to full Readiness. &nbsp; <b>Lose:</b> the Antagonist Track fills (a hero going Out of Action near the end can fill its last box), or you Quit the Story Arc &mdash; no penalty; ask "how did the world change?" and seed the next Story Arc. &nbsp; <b>Antagonist advances</b> one box three ways: a <b>Devil's Bargain</b>, a <b>Miss on doubles</b>, or a hero going <b>Out of Action</b>. Recovery is free &mdash; never on a Mend or a Recovery Scene.</p>
+  <p class="af-ref"><b>Win:</b> reach the climax (Story Arc Track full) and win the Showdown &mdash; then Downtime resets the party to full Readiness. &nbsp; <b>Lose:</b> the Antagonist Track fills (a hero going Out of Action near the end can fill its last box), or you Quit the Story Arc &mdash; no penalty; ask "how did the world change?" and seed the next Story Arc. &nbsp; <b>Antagonist advances</b> one box three ways: a <b>Devil's Bargain</b>, a <b>Miss on doubles</b>, or a hero going <b>Out of Action</b> &mdash; and no other way.</p>
 </div>

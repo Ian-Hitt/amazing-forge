@@ -789,7 +789,7 @@
     });
 
     box.appendChild(el("h2", "sec", "Readiness"));
-    box.appendChild(el("p", "hint", "Starts at 9 (your max). Tap to set where you are now. A Recovery Scene heals fully to 9 — free; the antagonist never advances."));
+    box.appendChild(el("p", "hint", "Starts at 9 (your max). Tap to set where you are now. A Recovery Scene heals fully to 9 — no roll, automatic."));
     box.appendChild(trackRow(null, "rdy", 9, h.rdy, function (n) { h.rdy = n; persist(); render(); }, { start: 9, labels: true }));
     box.appendChild(readout("Readiness: ", h.rdy, " / 9"));
 
@@ -863,7 +863,7 @@
     r2.appendChild(trackRow(null, "anta", sz.anta, a.anta, function (n) { a.anta = n; persist(); render(); }, { labels: true, attacks: true, climax: sz.anta }));
     tr.appendChild(r2);
     box.appendChild(tr);
-    box.appendChild(el("p", "hint", "An antagonist box fills on a Devil's Bargain, a Miss showing doubles, or a hero going Out of Action — never on a Recovery Scene (recovery is free). Odd boxes are the antagonist's Attacks; the last box is their victory."));
+    box.appendChild(el("p", "hint", "An antagonist box fills on a Devil's Bargain, a Miss showing doubles, or a hero going Out of Action — and no other way. Odd boxes are the antagonist's Attacks; the last box is their victory."));
 
     var row = el("div", "row");
     row.appendChild(labeled("Antagonist — who / what", textField(a, "antaName", "The Shadow Baron")));

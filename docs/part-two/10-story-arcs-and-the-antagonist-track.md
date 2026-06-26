@@ -155,9 +155,9 @@ The Antagonist Track advances **one box** in exactly three ways — and *not* wh
 
 A few things follow:
 
-- **Resting is free.** A Recovery Scene never advances the antagonist (Chapter 9) — the old trap of "healing costs you ground" is gone. Fall back as often as the fiction allows.
+- **Recovery isn't on the list.** Healing up is always available — fall back for a Recovery Scene as often as the fiction allows.
 - **The pressure is player-authored.** Most of the antagonist's climb comes from Devil's Bargains — choices the heroes make under fire. The clock is a mirror of how hard they've been pushing their luck.
-- **It can't be gamed to zero.** Even a cautious party that never bargains still faces doubles-Misses and the odd knockdown, so the antagonist always creeps. A party that bargains freely sees the clock race — which is exactly the tense story they're choosing to tell. (The small **Mend** patches a hero without ever advancing the antagonist — Chapter 9.)
+- **It can't be gamed to zero.** Even a cautious party that never bargains still faces doubles-Misses and the odd knockdown, so the antagonist always creeps. A party that bargains freely sees the clock race — which is exactly the tense story they're choosing to tell.
 
 ### The Attack: Playing Out an Antagonist Beat
 
@@ -172,7 +172,7 @@ An Attack is an open invitation to bend the plot — the cost of all that pushin
 
 ### Losing Before the Climax (Out of Action)
 
-The surest way to hand the antagonist ground you didn't *choose* to give is to go **Out of Action.** A hero dropping to 0 Readiness advances the antagonist a box on the spot (Chapter 9) — and near the end of a Story Arc, that box can be the antagonist's last, losing the Story *before* the heroes reach their Showdown. Heroes still can't die — but Readiness is now the resource standing between the party and an *unchosen* step toward defeat, which is exactly why falling back to recover (free!) is the smart play when you're battered. (It's also why you can't take a Devil's Bargain on a knockout roll — you can't buy your way out of going down. Chapter 9.)
+The surest way to hand the antagonist ground you didn't *choose* to give is to go **Out of Action.** A hero dropping to 0 Readiness advances the antagonist a box on the spot (Chapter 9) — and near the end of a Story Arc, that box can be the antagonist's last, losing the Story *before* the heroes reach their Showdown. Heroes still can't die — but Readiness is now the resource standing between the party and an *unchosen* step toward defeat, which is exactly why falling back to recover is the smart play when you're battered. (It's also why you can't take a Devil's Bargain on a knockout roll — you can't buy your way out of going down. Chapter 9.)
 
 ---
 

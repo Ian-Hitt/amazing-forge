@@ -86,11 +86,11 @@ Heroes are never trapped in a Challenge they're losing. At any point — usually
 
 - **You lose the Challenge's progress.** Wipe the track; the boxes filled so far don't count. In the fiction, the heroes pull back, take another route, live to fight another day.
 - **The whole party recovers** back to full Readiness — falling back always works (Chapter 9).
-- **The antagonist gains nothing.** Recovery is free: regrouping costs you the Challenge's progress and the time it takes, never a step on the Antagonist Track.
+- **The only cost is the progress and the time.** Regrouping wipes the boxes you'd filled and takes a beat to play out — nothing more.
 
-Falling back is a **group decision** — in Co-op, made together; with a Guide, the Guide honors the table's call to retreat. It's the heroes' escape valve, and you can use it as often as the fiction allows — there's no penalty for catching your breath. The pressure on the heroes isn't *whether they rest;* it's the **Devil's Bargains** they take to win and the dice that turn against them (Chapter 10).
+Falling back is a **group decision** — in Co-op, made together; with a Guide, the Guide honors the table's call to retreat. It's the heroes' escape valve, and you can use it as often as the fiction allows. The real pressure in a Story Arc comes from the **Devil's Bargains** you take to win and the dice that turn against you (Chapter 10).
 
-So a Challenge Roll *can* move the antagonist — when a hero takes a **Devil's Bargain** or **Misses on doubles** — but pulling back to recover never does. (The terminal case, giving up the whole Story Arc, is **Quitting the Story Arc;** see Chapter 10.)
+So a Challenge Roll *can* move the antagonist — when a hero takes a **Devil's Bargain** or **Misses on doubles.** (The terminal case, giving up the whole Story Arc, is **Quitting the Story Arc;** see Chapter 10.)
 
 ### The Showdown — the Finishing Move
 
