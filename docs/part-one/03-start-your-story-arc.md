@@ -26,7 +26,7 @@ Notice each Milestone is a clear win you can point at — not a vague "keep goin
 
 Every good story needs something pushing back. Before you start, decide on your **antagonist** — the main force trying to stop the heroes from reaching their Goal. Knowing two things is enough: *what do we want*, and *who's going to make it hard?*
 
-An antagonist is often a villain — the Goblin King, a rival treasure-hunter, a haunting ghost. But it doesn't have to be a person at all. The thing standing in your way can be almost anything:
+An antagonist is often a person — the Goblin King, a rival treasure-hunter, a haunting ghost. But it doesn't have to be a person at all. The thing standing in your way can be almost anything:
 
 - On a long trek across a frozen wasteland, the antagonist might be **the weather and the land itself.**
 - In a race against time, it might be **the ticking clock** before the volcano erupts.
@@ -50,7 +50,7 @@ Then draw a second, longer row right underneath — **five boxes** — for the *
 ANTAGONIST TRACK:   [ ]  [ ]  [ ]  [ ]  [ ]
 ```
 
-This is the bad guys' progress toward *their* goal. It fills one box at a time as the villain gains ground (you'll learn exactly how in Chapter 5) — and if it fills all the way before the heroes reach their finish, the bad guys win and the Story Arc is lost. The two rows side by side are the whole story in miniature: a race between the heroes and the antagonist.
+This is the bad guys' progress toward *their* goal. It fills one box at a time as the antagonist gains ground (you'll learn exactly how in Chapter 5) — and if it fills all the way before the heroes reach their finish, the bad guys win and the Story Arc is lost. The two rows side by side are the whole story in miniature: a race between the heroes and the antagonist.
 
 A quick way to picture a Milestone: it's a *chapter* of your movie, made up of a few **scenes.** Some scenes are over in a single dice roll ("you talk your way past the guard"); others are big enough to play out in detail. Chapters 4 and 5 show you how scenes work — for now, just know each Milestone is a little stretch of story, not one single moment.
 

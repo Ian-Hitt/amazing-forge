@@ -65,7 +65,7 @@
 *Purpose: Decide who/what stands in the way. The antagonist can be a person OR anything (weather, a ticking clock, a buried secret). You just need to know the Goal and who opposes it.*
 
 **Draw the Tracks**
-*Purpose: Draw 3 boxes for the Story Arc Track (when all 3 are checked, you win). Then draw a second row of 3 — the Antagonist Track (core rule, same length). If the villain's track fills first, you lose. Brief mention that fleeing/quitting (Ch5) is how it advances.*
+*Purpose: Draw 3 boxes for the Story Arc Track (when all 3 are checked, you win). Then draw a second row of 3 — the Antagonist Track (core rule, same length). If the antagonist's track fills first, you lose. Brief mention that fleeing/quitting (Ch5) is how it advances.*
 
 **Jump In: In Media Res**
 *Purpose: Don't start in a tavern. Open in the middle of the action. The Guide (or the group) describes the opening scene, and you ask "what do you do?" Play starts.*
@@ -106,7 +106,7 @@
 > *Note: Part Two has the full Challenge rules: difficulty scaling, the popcorn turn rule, Aid Your Ally, the Showdown, falling back in depth, and guidance for different Challenge types.*
 
 **Recovery (First Game Version)**
-*Purpose: When the heroes are hurt and the fiction gives a safe lull, they can take a Recovery Scene — fall back and regroup. The whole party returns to full Readiness, and in return the Antagonist Track surges one box (the villain gains ground while you catch your breath). At 0 Readiness you're Out of Action; getting you back up forces a Recovery Scene, whose surge can lose the Story.*
+*Purpose: When the heroes are hurt and the fiction gives a safe lull, they can take a Recovery Scene — fall back and regroup. The whole party returns to full Readiness, and in return the Antagonist Track surges one box (the antagonist gains ground while you catch your breath). At 0 Readiness you're Out of Action; getting you back up forces a Recovery Scene, whose surge can lose the Story.*
 
 > *Note: Part Two covers the Recovery Scene and the Surge in depth, Out of Action as the loss vector, and Downtime — the between-Stories reset.*
 
@@ -202,24 +202,24 @@
 **Guide Guidance: Making It Hurt Right**
 *Purpose: The price should push the story, not just drain a number. Tips on framing complications as plot beats rather than bookkeeping.*
 
-*Note: Paying the Price NEVER advances the Antagonist Track — that only happens when the heroes flee a Challenge (Ch8/Ch10). The price and the villain clock are fully separate; a one-line clarifying pointer is enough here.*
+*Note: Paying the Price NEVER advances the Antagonist Track — that only happens when the heroes flee a Challenge (Ch8/Ch10). The price and the antagonist clock are fully separate; a one-line clarifying pointer is enough here.*
 
 #### Part B — Recovery
 
 **Mend (the Quick Patch)** *(revised 2026-06-22)*
-*Purpose: A small, risky patch available in ANY scene (a Challenge is just a scene with a track — in one, Mending is your turn instead of a Challenge Roll). Self or ally: Strong +3 / Weak +2 / Miss −1 Readiness, capped at 9. Does NOT surge the villain; no usage cap; can't revive someone Out of Action. What keeps it honest: the −1 risk — a tactical patch-vs-push choice. A Miss can knock you Out of Action.*
+*Purpose: A small, risky patch available in ANY scene (a Challenge is just a scene with a track — in one, Mending is your turn instead of a Challenge Roll). Self or ally: Strong +3 / Weak +2 / Miss −1 Readiness, capped at 9. Does NOT surge the antagonist; no usage cap; can't revive someone Out of Action. What keeps it honest: the −1 risk — a tactical patch-vs-push choice. A Miss can knock you Out of Action.*
 
 **The Recovery Scene (Fall Back and Regroup)** *(revised 2026-06-22)*
-*Purpose: Recovery is fiction-gated (a safe lull, most often between Challenges) and player-chosen — never scheduled. A Recovery Scene heals the WHOLE party fully back to 9, reliably (no roll) — and in return the Antagonist Track surges one box (Ch10). It no longer lowers any max; Readiness max stays 9 all game (no declining ceiling). It's the quiet/B-plot beat, so character scenes are where the villain gains ground. Won't voluntarily surge the reserved climax box. The only thing that advances the villain.*
+*Purpose: Recovery is fiction-gated (a safe lull, most often between Challenges) and player-chosen — never scheduled. A Recovery Scene heals the WHOLE party fully back to 9, reliably (no roll) — and in return the Antagonist Track surges one box (Ch10). It no longer lowers any max; Readiness max stays 9 all game (no declining ceiling). It's the quiet/B-plot beat, so character scenes are where the antagonist gains ground. Won't voluntarily surge the reserved climax box. The only thing that advances the antagonist.*
 
 **Downtime (Between Story Arcs)** *(revised 2026-06-22)*
 *Purpose: Finishing a Story Arc heals everyone to full and restores any Broken Asset — no Surge. The slow-down-and-roleplay breather between adventures (optional d6 prompt). You always start the next Story Arc fresh.*
 
 **Out of Action: the Loss Vector**
-*Purpose: A hero at 0 forces a Recovery Scene to get them up — and that forced Surge can fill the reserved climax box, losing the Story before the Showdown. Readiness is ammunition against the villain's clock, not a survival meter. Also breaks an Asset until the between-Stories Downtime restores it.*
+*Purpose: A hero at 0 forces a Recovery Scene to get them up — and that forced Surge can fill the reserved climax box, losing the Story before the Showdown. Readiness is ammunition against the antagonist's clock, not a survival meter. Also breaks an Asset until the between-Stories Downtime restores it.*
 
 **Out of Action**
-*Purpose: At 0 Readiness, a hero can't act. They return only when the team falls back to get them up — which forces a Recovery Scene (and its villain Surge) — or at the party's next Downtime. A quick Mend CAN'T revive a downed hero (that would dodge the loss vector). Never permanent (heroes can't die), but being dropped hands the villain ground at the worst time — it's the loss vector. (revised 2026-06-22)*
+*Purpose: At 0 Readiness, a hero can't act. They return only when the team falls back to get them up — which forces a Recovery Scene (and its antagonist Surge) — or at the party's next Downtime. A quick Mend CAN'T revive a downed hero (that would dodge the loss vector). Never permanent (heroes can't die), but being dropped hands the antagonist ground at the worst time — it's the loss vector. (revised 2026-06-22)*
 
 **Broken Assets**
 *Purpose: The durable-teeth layer (Starforged "impacts"). Going Out of Action breaks one Asset — the one that failed you (Guide/table names it). A broken Asset gives no +1 (a roll that would have been +2 falls to +1; an Asset-only roll falls to +0 — your Stats are untouched), never a penalty (zero new math — we break an existing Asset, not add a negative one). Only Downtime restores one, per rest. Going down again breaks a second. Scoped to Out of Action only. Distinct from advancement's Trade In (temporary/free/involuntary vs. permanent/Growth/chosen — Ch.13). Optional: free-floating conditions (Broken Spirit) that work the same. Cross-refs Ch.7 (the roll) and the hero sheet (Broken checkbox). (revised 2026-06-22)*
@@ -239,10 +239,10 @@
 *Purpose: A Story Arc has a Goal (victory condition), Milestones (steps toward it), and a Story Arc Track (boxes to check) paired with the Antagonist Track. Full treatment of how to construct these.*
 
 **Two Story Sizes: Episode and Movie** *(revised 2026-06-22)*
-*Purpose: A Story is one spine with two tracks. Only two sizes carry box machinery — Episode (3 Milestones / 2-box Antagonist Track, one sitting) and Movie (6 Milestones / 4-box Antagonist Track, one complete feature over ~2–3 sessions). **Duos (2 players) use a 5-box Antagonist Track for the Movie** (one extra regroup); Episode is unchanged. Pick with one question ("a single sitting, or a feature?"). The Antagonist Track is short and sized so the villain lands one step from winning at the climax. Box counts are defaults you can stretch.*
+*Purpose: A Story is one spine with two tracks. Only two sizes carry box machinery — Episode (3 Milestones / 2-box Antagonist Track, one sitting) and Movie (6 Milestones / 4-box Antagonist Track, one complete feature over ~2–3 sessions). **Duos (2 players) use a 5-box Antagonist Track for the Movie** (one extra regroup); Episode is unchanged. Pick with one question ("a single sitting, or a feature?"). The Antagonist Track is short and sized so the antagonist lands one step from winning at the climax. Box counts are defaults you can stretch.*
 
 **Seasons and Series Are Collections, Not Sizes**
-*Purpose: Episode and Movie are individual stories; Season and Series describe how you string them together over a long game — prose patterns, no new machinery. A Season is usually a collection of Episodes/Movies sharing a throughline (recurring villain, a season-long question carried by a B-plot thread); occasionally a single long serialized spine (just a big Movie). A Series is always a collection — the whole game, a run of Seasons. How to plan and connect them.*
+*Purpose: Episode and Movie are individual stories; Season and Series describe how you string them together over a long game — prose patterns, no new machinery. A Season is usually a collection of Episodes/Movies sharing a throughline (recurring antagonist, a season-long question carried by a B-plot thread); occasionally a single long serialized spine (just a big Movie). A Series is always a collection — the whole game, a run of Seasons. How to plan and connect them.*
 
 **The Headway Rule, and B-plot Threads**
 *Purpose: Mark a Story Arc Track box on significant headway (a Milestone). B-plots and character arcs are threads riding alongside the spine — a light progress track, NO Antagonist Track / no lose-clock; they resolve into or beside the spine's climax. Threads are the connective tissue of a Season.*
@@ -262,27 +262,27 @@
 *Purpose: The Antagonist Track is the losing side of the same Story Arc — not a separate arc, its other end — running in parallel, a core part of every arc (not optional). The race between the two tracks. Why it's mandatory: it's the backbone of the flee/stay-alive system.*
 
 **Drawing the Track (with a Reserved Climax Box)** *(revised 2026-06-22)*
-*Purpose: Short — Episode 2 / Movie 4 boxes (Movie is 5 for a duo). The TOP box is the reserved climax (the Showdown): lower boxes fill during play, the top only at the finale. Mark the climax box visibly. Each lower box is the villain gaining ground while the heroes regroup.*
+*Purpose: Short — Episode 2 / Movie 4 boxes (Movie is 5 for a duo). The TOP box is the reserved climax (the Showdown): lower boxes fill during play, the top only at the finale. Mark the climax box visibly. Each lower box is the antagonist gaining ground while the heroes regroup.*
 
 **Characterize Your Antagonist**
 *Purpose: The antagonist can be a person, faction, or a force (a desert, a plague, a deadline). Give it a face — name what it wants and what "winning" looks like — so every Surge is a concrete beat (surge the desert → a sandstorm).*
 
 **How It Fills: The Surge on a Recovery Scene**
-*Purpose: The villain advances one box each time the heroes fall back to regroup (take a Recovery Scene, Ch9) — buying recovery costs ground. Emergent and player-chosen, never scheduled. The regroup is the quiet/B-plot beat, so character scenes are where the villain gains — taking time for the cast has stakes. Heroes won't voluntarily surge the climax box. Cross-ref Ch9's Recovery Scene.*
+*Purpose: The antagonist advances one box each time the heroes fall back to regroup (take a Recovery Scene, Ch9) — buying recovery costs ground. Emergent and player-chosen, never scheduled. The regroup is the quiet/B-plot beat, so character scenes are where the antagonist gains — taking time for the cast has stakes. Heroes won't voluntarily surge the climax box. Cross-ref Ch9's Recovery Scene.*
 
-**The Surge: Playing Out a Villain Milestone**
-*Purpose: When a Recovery Scene fills a box, stop and play it out. What did the villain accomplish while the heroes regrouped? How does it tighten things? A filled box is an open invitation to bend the plot.*
+**The Surge: Playing Out an Antagonist Milestone**
+*Purpose: When a Recovery Scene fills a box, stop and play it out. What did the antagonist accomplish while the heroes regrouped? How does it tighten things? A filled box is an open invitation to bend the plot.*
 
 **Losing Before the Climax (Out of Action)**
-*Purpose: A hero taken Out of Action forces a Recovery Scene, whose Surge can fill even the reserved climax box — the villain wins before the Showdown. The real risk; why Readiness is ammunition against the clock, not a survival meter (heroes can't die).*
+*Purpose: A hero taken Out of Action forces a Recovery Scene, whose Surge can fill even the reserved climax box — the antagonist wins before the Showdown. The real risk; why Readiness is ammunition against the clock, not a survival meter (heroes can't die).*
 
 **Design Note: the Photo-Finish**
-*Purpose: Why the reserved climax box + surge-on-regroup makes "villain one step from winning at the finale" the default ending (the sim result), and why this replaced the old sandbox clock.*
+*Purpose: Why the reserved climax box + surge-on-regroup makes "antagonist one step from winning at the finale" the default ending (the sim result), and why this replaced the old sandbox clock.*
 
 #### Part C — Losing, Quitting & Running Long
 
 **Losing & Quitting a Story Gracefully**
-*Purpose: If the villain takes the climax box, or the heroes Quit the Story (the terminal fall back), the Story is lost — and that's okay. No mechanical penalty or bonus. A loss is a story beat: ask "how did the world change now that the antagonists won?", reshape the setting, write a new Story born from this defeat.*
+*Purpose: If the antagonist takes the climax box, or the heroes Quit the Story (the terminal fall back), the Story is lost — and that's okay. No mechanical penalty or bonus. A loss is a story beat: ask "how did the world change now that the antagonists won?", reshape the setting, write a new Story born from this defeat.*
 
 **Running Long: Seasons and Series**
 *Purpose: How to chain individual Stories into a Season (a throughline + connecting threads) and Seasons into a Series. One Story in the spotlight at a time; threads (B-plots) carry the season-long questions between them. Keeping a long game coherent without juggling concurrent lose-clocks.*
@@ -346,7 +346,7 @@
 *Purpose: Ask the Oracle isn't a fallback in Co-op — it's the primary "what happens next" tool. How to use it proactively, not reactively.*
 
 **Deciding to Flee Without a Guide**
-*Purpose: In Co-op, the group decides together when to flee a Challenge (and when to Quit the Story Arc). The question to ask: "Is the Readiness bleed still worth it, or do we cut our losses and let the villain gain ground?" Make it a shared story decision, not a punishment.*
+*Purpose: In Co-op, the group decides together when to flee a Challenge (and when to Quit the Story Arc). The question to ask: "Is the Readiness bleed still worth it, or do we cut our losses and let the antagonist gain ground?" Make it a shared story decision, not a punishment.*
 
 #### Part C — Shared Tools (Both Modes)
 
@@ -424,7 +424,7 @@
 
 ### Chapter 16 — Building a Cool Hero (Complete) ✅ (2026-06-09)
 
-*Written (`docs/part-three/16-cool-characters.md`). The creative/protagonist side of character-making, companion to the Worldbuilding — fulfils the protagonist half of TODO #7. Spine: pick a **classic story archetype** to know *how to roleplay* and to spread distinct personalities across the table. Adds **zero mechanics** (no bonus, no number) — a pure roleplay lens, consistent with horizontal growth. Reconciles with Ch.15: genre-kit archetypes are "costumes" (flavored Concept ideas); these are "engines" (personality) you lay over any costume. Also folds in TODO #7's "movie-protagonist structure" lightly: an optional **Bond** + **Want vs. Need** beat, and the **flaw-as-story-engine** framing. Ends with a full worked recipe (archetype → Concept → Assets → Bond → play the flaw). **Antagonists handled here too (2026-06-09):** a lean closing section — *no second toolkit*; a villain is one of the same seven archetypes "whose flaw won" (want/fear unchanged, brakes off), best built as a **dark mirror** of a party hero; force antagonists need only a *want*. Ch.10's "Characterize Your Antagonist" gets a one-line pointer here. (Decided with Ian: same personality tool for heroes and villains, not a parallel system.)*
+*Written (`docs/part-three/16-cool-characters.md`). The creative/protagonist side of character-making, companion to the Worldbuilding — fulfils the protagonist half of TODO #7. Spine: pick a **classic story archetype** to know *how to roleplay* and to spread distinct personalities across the table. Adds **zero mechanics** (no bonus, no number) — a pure roleplay lens, consistent with horizontal growth. Reconciles with Ch.15: genre-kit archetypes are "costumes" (flavored Concept ideas); these are "engines" (personality) you lay over any costume. Also folds in TODO #7's "movie-protagonist structure" lightly: an optional **Bond** + **Want vs. Need** beat, and the **flaw-as-story-engine** framing. Ends with a full worked recipe (archetype → Concept → Assets → Bond → play the flaw). **Antagonists handled here too (2026-06-09):** a lean closing section — *no second toolkit*; an antagonist is one of the same seven archetypes "whose flaw won" (want/fear unchanged, brakes off), best built as a **dark mirror** of a party hero; force antagonists need only a *want*. Ch.10's "Characterize Your Antagonist" gets a one-line pointer here. (Decided with Ian: same personality tool for heroes and antagonists, not a parallel system.)*
 
 **Archetype set — DECIDED (2026-06-09):** the **seven classic story archetypes** (Rebel, Caregiver, Everyman, Scholar, Ruler, Innocent, Maverick), each with Vibe / Core Motivation / Flaw — *plus a one-line "What they fear" beat per archetype.* Ian considered the **Enneagram's nine types**; rejected because the game's north star is Fate-like (simple, genre-agnostic, fiction-first), and story archetypes are story-native handles a reader pictures instantly, where the Enneagram imports a real-world *personality typology* (abstract labels, pulls toward self-diagnosis, extra system to teach). We **borrowed the Enneagram's one real strength** — pairing motivation with a *basic fear* — as the "What they fear" line, without adopting the system.
 

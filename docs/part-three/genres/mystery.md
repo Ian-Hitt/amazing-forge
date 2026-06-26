@@ -161,7 +161,7 @@ Genre-pointed nudges for the ten Worldbuilding questions (Chapter 14). Answer *t
 
 Mystery runs on **Clever, Charming, and Sneaky** — but the physical Stats still bite:
 
-- **Clever** — the spine: read the scene, deduce, spot the detail, catch the tell, know the records.
+- **Clever** — the backbone: read the scene, deduce, spot the detail, catch the tell, know the records.
 - **Charming** — work a witness, coax the tight-lipped, win trust, charm your way in.
 - **Sneaky** — tail a suspect, eavesdrop, search a room unseen, pick a lock.
 - **Strong** — *force of personality*: lean on a witness, intimidate a suspect, force a stuck door.

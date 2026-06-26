@@ -160,7 +160,7 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 
 A caper runs on **Sneaky and Clever**, with **Charming** close behind — and the Sneaky/Charming line is the one to get right:
 
-- **Sneaky** — the spine: slip past guards, crack a safe, sleight of hand, the switcheroo, a disguise, a flat-out lie. *Deceiving* someone (they don't know they're being played) is always Sneaky.
+- **Sneaky** — the backbone: slip past guards, crack a safe, sleight of hand, the switcheroo, a disguise, a flat-out lie. *Deceiving* someone (they don't know they're being played) is always Sneaky.
 - **Clever** — case the target, read the floor plan, hack the cameras, plan three moves ahead.
 - **Charming** — *winning a mark over* in the open (they know you're working them, and they like it): talk past a door, work the room, sell the cover story with warmth.
 - **Quick** — drive the getaway, fast hands in the open, vault the fence when it goes loud.

@@ -79,14 +79,14 @@ Aid uses the *exact same math* as any other roll, Pay the Price included — it'
 
 Aid is the best use of a turn when the moment isn't in your wheelhouse: the hero the scene doesn't suit sets up the hero it does. Because a Challenge's popcorn turn order means everyone acts every round anyway, it gives that hero a real, satisfying job instead of a wasted turn.
 
-### Doubles: Oracle's Blessing or the Villain's Opening
+### Doubles: Oracle's Blessing or the Antagonist's Opening
 
 If your two dice come up **matching (doubles)** — two 2s, two 6s, any pair — fate swings *hard.* Which way it swings depends on whether you hit:
 
 - On a **Hit, doubles swing your way** (Oracle's Blessing): a **Weak Hit** becomes a **Strong Hit** (clean success, no price), and a **Strong Hit** becomes an **Outstanding Success** — you succeed *and* add an extra narrative bonus of your choice.
-- On a **Miss, doubles swing against you:** the roll stays a Miss, and the **Antagonist Track advances one box** (Chapter 10). You stumbled and the villain seized the opening. You still Pay the Price as a Miss (or take the **Devil's Bargain** — Chapter 9); the doubles don't rescue the roll, they hand the bad guys a step.
+- On a **Miss, doubles swing against you:** the roll stays a Miss, and the **Antagonist Track advances one box** (Chapter 10). You stumbled and the antagonist seized the opening. You still Pay the Price as a Miss (or take the **Devil's Bargain** — Chapter 9); the doubles don't rescue the roll, they hand the bad guys a step.
 
-That's the whole double edge: *the dice swing hard, for good or ill.* When you're winning, doubles are a treat; when you're not, they're how the villain gains ground.
+That's the whole double edge: *the dice swing hard, for good or ill.* When you're winning, doubles are a treat; when you're not, they're how the antagonist gains ground.
 
 An Outstanding Success means more than "you did it well." The player gets to bend the Scene in their favor — spend a moment dreaming up what that looks like. A few examples:
 

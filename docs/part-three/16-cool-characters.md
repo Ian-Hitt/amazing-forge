@@ -30,7 +30,7 @@ Here's the full cast. Read down the list and notice which one makes you grin —
 | **The Everyman** | "I didn't ask for any of this." | To find safety, belonging, and get back to normal life. | Easily intimidated; can lack ambition or pass up big opportunities. |
 | **The Scholar** | "Knowledge is the ultimate weapon." | To uncover secrets, solve mysteries, and understand the world. | Can be detached, arrogant, or fixate on details over survival. |
 | **The Ruler** | "Follow my lead." | To take charge, create order, and lead the group to victory. | Can become bossy, controlling, or unable to delegate. |
-| **The Innocent** | "There is always a better way." | To keep hope alive and believe in the good of others. | Naive; easily tricked by deceptive villains. |
+| **The Innocent** | "There is always a better way." | To keep hope alive and believe in the good of others. | Naive; easily tricked by deceptive antagonists. |
 | **The Maverick** | "I work alone. Usually." | To prove their self-reliance and complete the mission. | Stubborn; struggles to accept help or trust the team. |
 
 Below, each one gets a closer look: how it feels at the table, **what they fear**, **famous characters who fit the mold**, and a few Concepts across different genres to spark ideas. That last bit matters most — every archetype is driven by a want *and* a fear, and the fear is the more useful of the two. Knowing what your hero is *afraid* of tells you exactly when they'll dig in, lash out, freeze, or do something rash — which is the whole engine of playing them. (The Concepts are just examples — bend them to your world.)
@@ -74,7 +74,7 @@ Below, each one gets a closer look: how it feels at the table, **what they fear*
 
 - ***You've seen them:*** Luke Skywalker, Snow White, Paddington Bear, Aang (*Avatar*), Steven Universe.
 - ***What they fear:*** that the world is truly as cruel as the cynics say — and that their faith was foolish all along.
-- ***Play the flaw:*** let them take a villain at their word, walk into an obvious trap because they assumed the best, or be genuinely shocked that someone would lie.
+- ***Play the flaw:*** let them take an antagonist at their word, walk into an obvious trap because they assumed the best, or be genuinely shocked that someone would lie.
 - ***Concepts:*** A Hopeful Squire on a First Story Arc · A Wide-Eyed Android Learning to Feel · A Small-Town Kid Sure Their Lost Friend Is Still Alive.
 
 **The Maverick.** The lone wolf who *says* they work alone — right up until the team grows on them. Mavericks are self-reliant, capable, and a little prickly, with a soft center they'd never admit to. Play them cool and independent, slowly learning to trust the people around them (that arc is the whole point).
@@ -123,9 +123,9 @@ Here's the whole recipe, start to finish. Say you're playing a serious-leaning [
 
 One archetype turned a blank sheet into a hero with a voice, a drive, a soft spot, and a clear way to play every scene. That's the whole point.
 
-### The Same Tool Builds Your Villains
+### The Same Tool Builds Your Antagonists
 
-A villain isn't a different *kind* of character — it's one of these same seven archetypes whose **flaw won.** Everything above works just as well for the people standing in the heroes' way, so you don't need a second toolkit.
+An antagonist isn't a different *kind* of character — it's one of these same seven archetypes whose **flaw won.** Everything above works just as well for the people standing in the heroes' way, so you don't need a second toolkit.
 
 To dream up an antagonist, pick an archetype and ask: *what if this one never learned to manage their flaw?* The want and the fear stay exactly the same — only the brakes come off:
 
@@ -134,8 +134,8 @@ To dream up an antagonist, pick an archetype and ask: *what if this one never le
 - A **Scholar** who must know would **burn the world** for one last secret and feel justified doing it.
 - A **Rebel** who tears down what's broken **can't stop tearing down** — even what's worth keeping.
 
-That's why the best villains are **dark mirrors of the heroes:** same engine, opposite outcome. Build your antagonist from the same archetype as one of the party's heroes and you hand that player their most personal fight — they're staring down what they could become.
+That's why the best antagonists are **dark mirrors of the heroes:** same engine, opposite outcome. Build your antagonist from the same archetype as one of the party's heroes and you hand that player their most personal fight — they're staring down what they could become.
 
 And if your antagonist is a **force** rather than a person — a desert, a plague, a closing deadline — it needs no personality at all. It just needs a **want** (the desert wants to wear you down and swallow you whole). That's exactly what [Chapter 10](../part-two/10-story-arcs-and-the-antagonist-track.md) asks you to give it when you draw the Antagonist Track.
 
-**Next up:** when your hero has lived through a Story Arc or two and is ready to grow, turn to [Chapter 13 — Growing Your Heroes](../part-two/13-growing-your-heroes.md). And whenever you need a fresh face — a hero worth playing or a villain worth beating — you now have everything you need to make one.
+**Next up:** when your hero has lived through a Story Arc or two and is ready to grow, turn to [Chapter 13 — Growing Your Heroes](../part-two/13-growing-your-heroes.md). And whenever you need a fresh face — a hero worth playing or an antagonist worth beating — you now have everything you need to make one.

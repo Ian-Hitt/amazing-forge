@@ -25,7 +25,7 @@
 
 **The core change.** The Antagonist Track is no longer fed by recovery (the old "Surge per Recovery
 Scene"). **Recovery is FREE** — a Recovery Scene heals the party to 9 with no roll and **never**
-advances the villain. Readiness is decoupled from loss: the only loss vector is the villain filling
+advances the antagonist. Readiness is decoupled from loss: the only loss vector is the antagonist filling
 the track before the heroes finish their last Milestone. This kills the resource-attrition economy
 (grim, choiceless, and hyper-sensitive to challenge pacing — at realistic pacing the old model
 collapsed to ~0% loss) and replaces it with a player-authored **Faustian gamble.**
@@ -36,27 +36,27 @@ stats (objective, +1); 3 specific Assets (argued, +1); both → +2, one → +1, 
 
 **2. The three antagonist triggers.** The Antagonist Track advances **one box** in exactly three ways:
 - **Devil's Bargain (player choice).** On a **Miss**, a hero *may* forgo the Readiness loss **and**
-  upgrade the result to a **Strong Hit**, in exchange for the villain **+1.** Pushes both clocks at
-  once — the engine, and the in-fiction source of the villain's story beats. Always optional.
+  upgrade the result to a **Strong Hit**, in exchange for the antagonist **+1.** Pushes both clocks at
+  once — the engine, and the in-fiction source of the antagonist's story beats. Always optional.
   **Can't be taken on a knockout roll** (a Miss whose loss would take the hero to 0) — so OoA stays a
   genuine stake, and players bargain *preemptively* around the ~4-Readiness danger zone, which means
   even cautious play feeds the clock.
-- **Matches (random).** A **Miss showing doubles** advances the villain **+1** regardless
+- **Matches (random).** A **Miss showing doubles** advances the antagonist **+1** regardless
   (~5.7%/roll). Doubles on a *Hit* stays Oracle's Blessing (upgrade a tier); on a Miss they feed the
-  villain instead of upgrading Miss→Weak. The disciplinarian that makes riding to the brink risky. A
+  antagonist instead of upgrading Miss→Weak. The disciplinarian that makes riding to the brink risky. A
   doubles-Miss the hero *also* bargains = **+2** (they stack).
-- **Out of Action (structural).** A hero hitting **0** advances the villain **+1** (on top of breaking
-  an Asset). Numerically minor under free recovery, but it's what makes OoA matter to the villain.
+- **Out of Action (structural).** A hero hitting **0** advances the antagonist **+1** (on top of breaking
+  an Asset). Numerically minor under free recovery, but it's what makes OoA matter to the antagonist.
 
 **3. Track sizes & narration (tick decoupled from beat).** The *tick* (frequent, bursty) is decoupled
-from the *narrated villain beat* (paced): narrate the villain only on the **odd "Attack" boxes**; even
-boxes are silent pressure. The track must be **odd** so the top box is itself an Attack (the villain's
+from the *narrated antagonist beat* (paced): narrate the antagonist only on the **odd "Attack" boxes**; even
+boxes are silent pressure. The track must be **odd** so the top box is itself an Attack (the antagonist's
 winning blow *is* their final attack).
 
 | Size | Milestones | Antagonist Track | Attacks (narrated beats) |
 |---|---|---|---|
-| **Episode** | 3 | **5 boxes** | 1 · 3 · 5 → box 5 = villain win |
-| **Movie** | 6 | **9 boxes** | 1 · 3 · 5 · 7 · 9 → box 9 = villain win |
+| **Episode** | 3 | **5 boxes** | 1 · 3 · 5 → box 5 = antagonist win |
+| **Movie** | 6 | **9 boxes** | 1 · 3 · 5 · 7 · 9 → box 9 = antagonist win |
 
 **Same track size at any party size** — the duo/two-player special case (and the whole "Playing as a
 Pair" subsystem) is **deleted.**
@@ -71,14 +71,14 @@ Party-**independent**: a fixed-size track takes ~the same number of rolls regard
 so **total rolls per Story become party-independent → the clock needs no scaling.** One difficulty
 table, one clock table, **zero party-size rules** (this is what removes the duo special case).
 
-**5. Loss is a tail, not a target.** The dramatic deliverable is the **photo-finish** (villain ends
+**5. Loss is a tail, not a target.** The dramatic deliverable is the **photo-finish** (antagonist ends
 *one box from winning*); loss is the rare *earned* overrun. We tune for photo-finish frequency and let
 loss fall where it may — earlier loss-rate targeting (the 10% goal) is abandoned. Every advance is
 narratable: you cut a corner (bargain), fate swung (matches), or you fell (OoA).
 
 **Validation (`sim_devils.py` / `sim_devils2.py`):** rule = can't-bargain-knockout + OoA ticks;
 recovery at Readiness ~4; Option B fixed sizing (Easy 2 / Med 3 / Hard 4, party-independent).
-Photo-finish % = villain ends one box from winning; loss % = villain overruns. Three table
+Photo-finish % = antagonist ends one box from winning; loss % = antagonist overruns. Three table
 temperaments by bargaining appetite:
 
 | Story | cautious | realistic | reckless |
@@ -91,7 +91,7 @@ temperaments by bargaining appetite:
   more real peril at its climax. Losses are uncommon and always self-inflicted by pushing the bargain.
 - **The photo-finish is player-authored:** a pushing player rides to one-box-away *by design*; track
   length sets the *stakes* of pushing, not its frequency. Rational players self-regulate (keep a
-  buffer) because matches/OoA can tip a brink-sitting villain over.
+  buffer) because matches/OoA can tip a brink-sitting antagonist over.
 
 **Why the old recovery-surge model was wrong (keep — saves re-deriving).** Tying the clock to Recovery
 Scenes (a Surge per regroup) made the game a defensive **attrition economy** (ration your heals — grim
@@ -169,7 +169,7 @@ is now a photo-finish tail, not an attrition curve.)*
 
 > **Superseded 2026-06-22 by §0 above** (no ratchet; +0/+1/+2 roll; Movie 6/4). Kept for the
 > reasoning trail. It dropped **sandbox** play (a bag of concurrent fixed-size arcs) for a **single
-> nested spine**, because the old structure could not produce the design goal — a story whose villain
+> nested spine**, because the old structure could not produce the design goal — a story whose antagonist
 > ends *one step from winning* (the photo-finish).
 
 **The model.** One Story Arc = one spine with two tracks. The **Story Arc Track** is progress (1 box /
@@ -178,7 +178,7 @@ reserved as the climax**. Recovery is **two moves + a declining ceiling**:
 - A **Readiness max** that starts at **9** and **drops 1 per Recovery Scene** (floor 4; resets to 9
   at Downtime). The ratchet that makes a Story Arc tighten as it runs.
 - **Recovery Scene** (fall back and regroup) → restores the party **up to the current max**,
-  reliable; **+1 villain Surge**; **lowers the max by 1.** The only thing that advances the
+  reliable; **+1 antagonist Surge**; **lowers the max by 1.** The only thing that advances the
   Antagonist Track. Emergent/player-chosen; won't voluntarily surge the climax box.
 - **Mend** — a small risky **any-scene** patch (Strong +3 / Weak +2 / **Miss −1**, capped at the
   current max), **no Surge**, can't revive Out of Action, **no usage cap.** The −1 risk + the
@@ -208,7 +208,7 @@ only ratchets *within* an arc — never across a Season/Series.
   gating forced revives barely move it — the ratchet *is* the pressure.
 - **Mend works ungated** (any scene, no per-Milestone cap). The declining ceiling caps how high Mend
   can take you, so it can't substitute for a regroup — Recovery-Scene frequency is unchanged vs.
-  gated (~2/Movie), the villain still surges, and it *lowers* loss: Movie **~7%** (gated was ~16%),
+  gated (~2/Movie), the antagonist still surges, and it *lowers* loss: Movie **~7%** (gated was ~16%),
   photo-finish ~92%. So ungated is both simpler and closer to the ~10% goal.
 - **Movie loss lands ~7%** (Episode ~1.6%) — in the 9-of-10 zone, a touch *under* the 10% goal.
   Nudging it exactly to 10% is structural (TODO #13), and "ceiling carries across a Season"
@@ -248,7 +248,7 @@ on the canonical spine showed any realistic mix overshoots the loss target — t
 was centered wrong: loss is convex (tail-driven) and the declining-ceiling ratchet amplifies it, so
 all the error pushed one way. **Centering Medium on the balance point** makes Easy scenes bank slack
 and Hard scenes spend it, so a mix nets to target. The **+1 box for 4+** keeps big parties (more
-Readiness + Aid) regrouping enough to advance the villain — restoring climax tension that pure
+Readiness + Aid) regrouping enough to advance the antagonist — restoring climax tension that pure
 recentering let sag.
 
 **Validation** (`sim_mix.py`, canonical config, 40/40/20 mix, 80k stories/cell):
@@ -305,13 +305,13 @@ all-Easy *floor*; expected play sits at the §0b numbers above.
 | Pay the Price — Weak Hit | **−1** Readiness |
 | Pay the Price — Miss | **−2** Readiness (unless a Devil's Bargain is taken — §0) |
 | Devil's Bargain | on a **Miss**: refuse the Readiness loss + upgrade to Strong Hit, in exchange for **Antagonist Track +1**; optional; **not allowed on a knockout roll** *(§0)* |
-| Mend (any-scene patch, ungated) | **+3** Strong / **+2** Weak / **−1** Miss Readiness (capped at 9); **never advances the villain**; can't revive Out of Action *(§0)* |
+| Mend (any-scene patch, ungated) | **+3** Strong / **+2** Weak / **−1** Miss Readiness (capped at 9); **never advances the antagonist**; can't revive Out of Action *(§0)* |
 | Recovery Scene (fall back & regroup) | restores party **fully to 9**, reliable, **FREE — never advances the Antagonist Track** *(§0)* |
-| Downtime (between Story Arcs) | heals to full, restores a Broken Asset; free; villain's clock resets |
+| Downtime (between Story Arcs) | heals to full, restores a Broken Asset; free; antagonist's clock resets |
 | Out of Action | Readiness = **0** (recoverable; not death); **advances the Antagonist Track +1** + breaks an Asset (loss vector) *(§0)* |
 | Challenge length — Easy / Medium / Hard / Very Hard | **2 / 3 / 4 / 5 boxes — fixed, party-independent ("Option B")** *(Very Hard = climaxes only; §0)* |
 | Story Arc Track length — Episode / Movie | **3 / 6** Milestones *(§0; Season/Series are prose collections, no box machinery)* |
-| Antagonist Track length — Episode / Movie | **5 / 9** boxes — same at any party size; odd boxes are narrated Attacks; last box = villain wins *(§0)* |
+| Antagonist Track length — Episode / Movie | **5 / 9** boxes — same at any party size; odd boxes are narrated Attacks; last box = antagonist wins *(§0)* |
 
 > 🔁 **SUPERSEDED by §0 (2026-06-13).** The four-type / equal-length-Antagonist-Track structure
 > below is replaced by the spine model (Episode 3/2, Movie 6/3; Season/Series are prose
@@ -412,7 +412,7 @@ into the teeth-dulling 0.90+ range, which is why it stays banned.
 ## 3a. Rolled-recovery simulation (`sim_recovery.py`, 2026-06-09) — 🔁 SUPERSEDED by §0
 
 > The rolled Mend/Downtime economy modeled here is replaced by the single full-top-up Recovery
-> Scene whose cost is the villain Surge (§0). Kept for the reasoning trail.
+> Scene whose cost is the antagonist Surge (§0). Kept for the reasoning trail.
 
 100k simulated Episodes; party 3, defaults from §3 (p(+2)=0.80, Oracle on). A Mend
 Miss injects one Easy Challenge (3 boxes); heroes rest at a safe lull when Out of Action
@@ -531,7 +531,7 @@ Milestone):
 *No change applied to the book yet — awaiting Ian's pick of SF-C vs A′ (and the Downtime call).*
 
 > **SUPERSEDED (2026-06-06).** This per-Miss "trade" model was explored and rejected (it was a
-> near-free safety button). The adopted design is in **§4b** (villain advances only on *fleeing
+> near-free safety button). The adopted design is in **§4b** (antagonist advances only on *fleeing
 > a Challenge*), now canonical in the Master Reference §6/§7. This section is kept for the
 > reasoning trail.
 
@@ -549,7 +549,7 @@ See memory `project_antagonist_track_open` and Master Reference §6 (🚧 note).
 Readiness. **TRADE** = a hero may trade a threatened Miss (Readiness ≤ 4) for an Antagonist
 box, per a stated policy. "OoA" = at least one hero hit 0 Readiness during the Story Arc.
 
-| Scenario | Story Arc-loss | ≥1 hero OoA | Mean trades | Mean villain boxes | Mean end Readiness |
+| Scenario | Story Arc-loss | ≥1 hero OoA | Mean trades | Mean antagonist boxes | Mean end Readiness |
 |---|---|---|---|---|---|
 | **Baseline** (1 rest) | 0% | **9.7%** | — | — | 4.80 |
 | **Trade — conservative** (keep 1-box margin) | 0% | **1.0%** | 0.45 | 0.45 / 3 | 5.09 |
@@ -563,7 +563,7 @@ box, per a stated policy. "OoA" = at least one hero hit 0 Readiness during the S
 - **The trade does not "run away."** Because the Antagonist Track is short and filling it
   loses the Story Arc, the option is self-limiting — players physically can't spam it. Good.
 - **But played sensibly it is nearly a free "don't go down" button.** With a 1-box safety
-  margin, the trade cuts Out-of-Action from ~9.7% to ~1% while advancing the villain only
+  margin, the trade cuts Out-of-Action from ~9.7% to ~1% while advancing the antagonist only
   ~0.45 boxes — almost no story cost. It largely *removes* the Readiness/OoA tension rather
   than trading against it.
 - **A real cost only appears with aggressive trading** (quest-loss climbs to ~19%). So under
@@ -585,52 +585,52 @@ box, per a stated policy. "OoA" = at least one hero hit 0 Readiness during the S
 
 ---
 
-## 4b. Revised proposal: villain advances on FLEE (recommended direction) — 🔁 SUPERSEDED by §0
+## 4b. Revised proposal: antagonist advances on FLEE (recommended direction) — 🔁 SUPERSEDED by §0
 
 > The flee-as-sole-trigger model with an equal-length Antagonist Track is replaced by the spine
-> model (§0): the villain surges on a Recovery Scene, the track is short with a reserved climax
+> model (§0): the antagonist surges on a Recovery Scene, the track is short with a reserved climax
 > box, and the antagonist track length no longer equals the Story Arc Track. Kept for the trail.
 
 **Model (Ian, 2026-06-06).** Misses **always** cost Readiness (clean baseline — no per-Miss
 trade). The Antagonist Track advances **only when the heroes flee a Challenge**: fleeing ends
-the Challenge, its progress is lost, and the villain gains one box. Short track (Episode = 3)
+the Challenge, its progress is lost, and the antagonist gains one box. Short track (Episode = 3)
 makes it self-limiting; filling it loses the Story Arc (= "quit the Story Arc"). Script:
 `sim_flee_retreat.py`.
 
 > **Note (2026-06-08): this remains the modeled floor.** The Master Reference now also allows an
 > *optional* Antagonist tick on a telling failure (via Pay the Price), and the new Season/Series
 > scales. Neither is modeled here: the optional tick is table-discretionary (not automatic), so the
-> flee-only numbers below are the **lower bound** on villain advance at Episode scale; tables that
-> opt in will see villain boxes accrue somewhat faster. Season/Series tracks are longer (8/12) and
+> flee-only numbers below are the **lower bound** on antagonist advance at Episode scale; tables that
+> opt in will see antagonist boxes accrue somewhat faster. Season/Series tracks are longer (8/12) and
 > advance mainly via the optional telling-failure tick (not per-Challenge flees), so they are far
 > less sensitive to per-Challenge flee rate. Re-sim only if
 > the optional tick is ever made automatic.
 
-| Scenario (party 3, Easy) | Story Arc-loss | ≥1 hero OoA | Flees | Villain boxes | End Readiness |
+| Scenario (party 3, Easy) | Story Arc-loss | ≥1 hero OoA | Flees | Antagonist boxes | End Readiness |
 |---|---|---|---|---|---|
 | **Baseline, 1 rest** (no flee) | 0% | 9.6% | — | — | 4.80 |
 | Flee @ Readiness ≤ 2, 1 rest | 0% | **6.3%** | 0.34 | 0.34 / 3 | 4.96 |
 | **Flee @ Readiness ≤ 4, 1 rest** | 0% | **1.5%** | 1.10 | 1.10 / 3 | 5.41 |
-| Flee ≤ 4 **+ rest also advances villain**, 1 rest | **30.9%** ⚠️ | 1.1% | 0.97 | 1.97 / 3 | 5.22 |
+| Flee ≤ 4 **+ rest also advances antagonist**, 1 rest | **30.9%** ⚠️ | 1.1% | 0.97 | 1.97 / 3 | 5.22 |
 | Baseline, 0 rests (no flee) | 0% | 31.7% | — | — | 2.08 |
 | Flee @ Readiness ≤ 4, 0 rests | 0% | 12.6% | 1.87 | 1.87 / 3 | 3.33 |
 
 **Findings.**
 
 - **It holds.** The flee valve is self-limiting and never loses a Story Arc under rational play
-  (players keep a 1-box margin). Villain advances a visible but modest ~1 box per Story Arc — a
+  (players keep a 1-box margin). Antagonist advances a visible but modest ~1 box per Story Arc — a
   *real* cost, unlike the near-free per-Miss trade in §4.
 - **Tunable to "pretty low" OoA.** Fleeing at Readiness ≤ 4 with one rest lands **any-hero
   Out-of-Action at ~1.5% per Story Arc** — rare but not impossible (heroes can still go OoA on a
   regular roll, which has no flee option). That matches the "pretty low" target.
-- **⚠️ Don't double-count the villain trigger.** If Recovery Scenes *also* advance the villain
+- **⚠️ Don't double-count the antagonist trigger.** If Recovery Scenes *also* advance the antagonist
   (the current Master Reference §7 rule) on this short track, Story Arc-loss spikes to **~31%** —
   the two triggers fight over a 3-box budget. **Recommendation: make fleeing the *sole*
-  Antagonist-advance trigger** and drop "a Recovery Scene marks a villain box." Recovery's cost
+  Antagonist-advance trigger** and drop "a Recovery Scene marks an antagonist box." Recovery's cost
   becomes purely tempo / world-pressure.
 - **Rests still dominate** the baseline OoA rate; confirm rest frequency (§3).
 
-**Recommended ruling (pending Ian's confirmation):** adopt the flee model; villain advances
+**Recommended ruling (pending Ian's confirmation):** adopt the flee model; antagonist advances
 only on flee; keep the Antagonist Track length = Story Arc Track (works fine here); add an official
 **Quit the Story Arc** as the terminal flee. Misses go back to always costing Readiness.
 
@@ -651,7 +651,7 @@ With Oracle on, the opening tiers are Strong 33.3% / Weak 44.4% / Miss 22.2%, so
 200k Episodes, §3 defaults, harness mirrors `sim_flee_retreat.py` (flee @ R≤4, 1 rest).
 `danger%` = ≥1 hero pushed to Readiness ≤2.
 
-| Config | anyOoA | danger% | min R | end R | villain | rolls/chal |
+| Config | anyOoA | danger% | min R | end R | antagonist | rolls/chal |
 |---|---|---|---|---|---|---|
 | Baseline (no Start a Challenge) | 1.45% | 27.4% | 3.11 | 5.42 | 1.10 | 2.97 |
 | **+ Start a Challenge** | 1.47% | 27.1% | 3.13 | 5.44 | 1.08 | 2.98 |
@@ -659,7 +659,7 @@ With Oracle on, the opening tiers are Strong 33.3% / Weak 44.4% / Miss 22.2%, so
 | **+ Start a Challenge** — stress | 31.1% | 89.1% | 0.86 | 2.14 | — | 3.45 |
 
 **Finding (✅ CLEARED for adoption, 2026-06-09).** Every metric moves <0.5pp — the move does
-**not** materially change attrition, danger, pacing, or villain advance. It is a small,
+**not** materially change attrition, danger, pacing, or antagonist advance. It is a small,
 mostly-flavor nudge, **slightly hero-favorable** (the generative `2d6+1` skews toward Strong, so
 +1 outweighs −1). A one-roll temporary modifier never rescales the +2/+1 curve or the win-rate
 targets — the same reason a PbtA "forward" doesn't break PbtA. Confirms a temporary ±1 to a single

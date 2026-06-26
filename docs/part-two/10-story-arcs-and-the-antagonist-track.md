@@ -1,6 +1,6 @@
 # Chapter 10 — Story Arcs & the Antagonist Track
 
-A **Story Arc** is the engine that gives an adventure shape: a goal worth chasing, the steps to get there, and a villain racing you for it. Every Story Arc is **one spine** — a single central dramatic question — and this chapter is the complete guide to setting one up and running it: the **Story Arc Track**, the **Antagonist Track** that runs alongside it as the villain's own race, how to build good Milestones, the three ways the villain gains ground, what happens when you win, lose, or quit, and how to chain Stories into a Season or a whole Series.
+A **Story Arc** is the engine that gives an adventure shape: a goal worth chasing, the steps to get there, and an antagonist racing you for it. Every Story Arc poses **one central dramatic question** — and this chapter is the complete guide to setting one up and running it: the **Story Arc Track**, the **Antagonist Track** that runs alongside it as the antagonist's own race, how to build good Milestones, the three ways the antagonist gains ground, what happens when you win, lose, or quit, and how to chain Stories into a Season or a whole Series.
 
 Everything here builds on tools from earlier chapters: Milestones are made of **Scenes** (Chapter 8), the heroes win or lose by filling tracks, and the Antagonist Track moves through the **Devil's Bargain,** doubles on a Miss, and going **Out of Action** (Chapters 7 and 9) — never by resting.
 
@@ -18,7 +18,7 @@ A Story Arc has three parts:
 
 ```
 STORY ARC TRACK:    [ ]  [ ]  [ ]
-ANTAGONIST TRACK:   [▲] [ ] [▲] [ ] [▲]    ▲ = a villain Attack (narrated); last box = the villain wins  (an Episode)
+ANTAGONIST TRACK:   [▲] [ ] [▲] [ ] [▲]    ▲ = an antagonist Attack (narrated); last box = the antagonist wins  (an Episode)
 ```
 
 You don't plan *how* each Milestone gets done — that's what play discovers. You only name the Goal, the Milestones, and the antagonist, draw the two rows, and start in the middle of the action.
@@ -36,24 +36,24 @@ A Story Arc comes in one of two sizes, and these are the only two with their own
 
 Pick the size with one question: **a single sitting, or a feature?** An **Episode** is the short, complete story you finish tonight (your first games use only this). A **Movie** is the bigger self-contained story you tell start-to-finish over a couple of sessions — *the heroes are trapped on a space station spiraling into its sun, with until dawn to get everyone off alive.*
 
-The Story Arc Track is one box per Milestone. The **Antagonist Track is longer** and fills a box at a time as the villain gains ground (Part B). Its **odd boxes are the villain's Attacks** — the beats where you cut away and show the bad guys winning something off-screen — and its **last box is their victory.** Sized this way, the villain's clock tends to end up *near* full as the heroes reach their finale — the photo-finish a good climax wants — without the heroes ever being railroaded there.
+The Story Arc Track is one box per Milestone. The **Antagonist Track is longer** and fills a box at a time as the antagonist gains ground (Part B). Its **odd boxes are the antagonist's Attacks** — the beats where you cut away and show the bad guys winning something off-screen — and its **last box is their victory.** Sized this way, the antagonist's clock tends to end up *near* full as the heroes reach their finale — the photo-finish a good climax wants — without the heroes ever being railroaded there.
 
 ### Seasons and Series: Collections, Not Sizes
 
-Episode and Movie are *individual* stories — one spine each. But your game can be far bigger than a single story. Think of your favorite show: a **Series** is made of **Seasons**, and a Season is made of **Episodes** (with the occasional feature-length one). *Lights, Camera, Action!* builds a long game the same way — by **stringing individual Stories together**, not by inventing bigger machinery.
+Episode and Movie are *individual* stories — one Story Arc each. But your game can be far bigger than a single story. Think of your favorite show: a **Series** is made of **Seasons**, and a Season is made of **Episodes** (with the occasional feature-length one). *Lights, Camera, Action!* builds a long game the same way — by **stringing individual Stories together**, not by inventing bigger machinery.
 
-- A **Season** is a **collection of Stories** that share a throughline — a recurring villain, a season-long question, a slow-building relationship. You play a run of Episodes (and usually a climactic Movie to close it), connected by a **thread** (below).
+- A **Season** is a **collection of Stories** that share a throughline — a recurring antagonist, a season-long question, a slow-building relationship. You play a run of Episodes (and usually a climactic Movie to close it), connected by a **thread** (below).
 - A **Series** is **always a collection** — the whole game, a run of Seasons, building to one final reckoning. A Series has no track of its own; it's the shelf all your Seasons sit on.
 
-Neither a Season nor a Series has its own paired Antagonist Track. They're not stories you "play" directly — they're the shape made by the individual Episodes and Movies you *do* play. The recurring villain shows up as the antagonist of those individual Stories along the way, and the Season pays off when you play the **Movie** where beating them is the Showdown.
+Neither a Season nor a Series has its own paired Antagonist Track. They're not stories you "play" directly — they're the shape made by the individual Episodes and Movies you *do* play. The recurring antagonist shows up across those individual Stories along the way, and the Season pays off when you play the **Movie** where beating them is the Showdown.
 
-Look at **Avatar: The Last Airbender.** The whole show is a **Series** (master the elements, stop the Fire Lord). Each Book — Water, Earth, Fire — is a **Season**: a run of Episodes building to a finale. And each week's adventure is an **Episode** with its own little spine. You play the Episodes; the Season and the Series are the shape they add up to.
+Look at **Avatar: The Last Airbender.** The whole show is a **Series** (master the elements, stop the Fire Lord). Each Book — Water, Earth, Fire — is a **Season**: a run of Episodes building to a finale. And each week's adventure is an **Episode** with its own little Story Arc. You play the Episodes; the Season and the Series are the shape they add up to.
 
 ### Threads: B-plots & Character Arcs
 
 The connective tissue of a Season is a **thread** — a B-plot or a character arc that runs *alongside* the Stories you play. A thread has its **own little progress track**, but **no Antagonist Track and no lose-clock.** It isn't a race; it's a slow burn that advances whenever the fiction genuinely moves it, and **resolves into or beside a Story Arc's climax.**
 
-> *Kaya learns to forgive the brother who betrayed her* is a thread. It has a few progress boxes and no villain track — the only thing standing in Kaya's way is her own grief. It ticks at the beats that genuinely move it, usually *inside* an Episode about something else, and it pays off when she changes — often woven into the climax of the Story Arc she's in.
+> *Kaya learns to forgive the brother who betrayed her* is a thread. It has a few progress boxes and no antagonist track — the only thing standing in Kaya's way is her own grief. It ticks at the beats that genuinely move it, usually *inside* an Episode about something else, and it pays off when she changes — often woven into the climax of the Story Arc she's in.
 
 Threads are how a Season feels like more than a list of errands: the recurring rival, the season-long mystery, the romance, the hero's inner change. Give a thread a name and a handful of boxes, and mark one whenever the table agrees it truly advanced.
 
@@ -109,13 +109,13 @@ Same Milestone, three different heats. Roll, read the temperature, paint the pic
 
 ### Finishing a Story Arc: the Showdown
 
-Fill the last box of the Story Arc Track and the heroes reach the **climax — the Showdown:** the final confrontation, played as one last roll. By now the Antagonist Track has usually climbed near its top, so the villain is often *one step from winning* too — and this roll lands with everything on the line. Play the closing Milestone as one roll:
+Fill the last box of the Story Arc Track and the heroes reach the **climax — the Showdown:** the final confrontation, played as one last roll. By now the Antagonist Track has usually climbed near its top, so the antagonist is often *one step from winning* too — and this roll lands with everything on the line. Play the closing Milestone as one roll:
 
 - **Strong Hit:** the Story Arc is won, gloriously — add a narrative bonus.
 - **Weak Hit:** won, but Pay the Price on the way out.
-- **Miss:** *you thought it was over, but it wasn't.* Add **one extra Milestone box** to the Story Arc Track and drop a climactic twist — the villain's true plan surfaces, an ally turns, the prize is a fake. Complete that new Milestone, then attempt the Showdown again. (A missed Showdown is a Miss like any other: doubles still advance the villain, and the Devil's Bargain is still on the table — the ultimate gamble.)
+- **Miss:** *you thought it was over, but it wasn't.* Add **one extra Milestone box** to the Story Arc Track and drop a climactic twist — the antagonist's true plan surfaces, an ally turns, the prize is a fake. Complete that new Milestone, then attempt the Showdown again. (A missed Showdown is a Miss like any other: doubles still advance the antagonist, and the Devil's Bargain is still on the table — the ultimate gamble.)
 
-The twist gives the heroes *more story to play,* not the villain a free win — but with the villain's clock often near full, finishing before they do is the whole tension of the moment. When the heroes win, play out the victory: finishing a Story Arc is **Downtime** (Chapter 9), so each hero resets to full Readiness and any Broken Asset is restored before the next Story Arc.
+The twist gives the heroes *more story to play,* not the antagonist a free win — but with the antagonist's clock often near full, finishing before they do is the whole tension of the moment. When the heroes win, play out the victory: finishing a Story Arc is **Downtime** (Chapter 9), so each hero resets to full Readiness and any Broken Asset is restored before the next Story Arc.
 
 ---
 
@@ -123,15 +123,15 @@ The twist gives the heroes *more story to play,* not the villain a free win — 
 
 ### What It Is
 
-Every Story Arc is a **race between two tracks.** The Story Arc Track is the heroes' progress; the **Antagonist Track** is the villain's progress toward *their* goal, running in parallel. It is **the losing side of the same Story Arc** — not a separate arc, but this Story Arc's other end — and a **core part of every Story Arc,** never optional.
+Every Story Arc is a **race between two tracks.** The Story Arc Track is the heroes' progress; the **Antagonist Track** is the antagonist's progress toward *their* goal, running in parallel. It is **the losing side of the same Story Arc** — not a separate arc, but this Story Arc's other end — and a **core part of every Story Arc,** never optional.
 
-The villain fills it a box at a time as they gain ground during play. Its **odd boxes are Attacks** — you stop and show the villain winning something off-screen — and its **last box is their victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. The whole design points at one ending: the heroes reaching their finale with the villain's clock *near* full — the **photo-finish.** But nobody is steered there; where the villain ends up is the sum of the gambles the heroes took and the luck of the dice (below).
+The antagonist fills it a box at a time as they gain ground during play. Its **odd boxes are Attacks** — you stop and show the antagonist winning something off-screen — and its **last box is their victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. The whole design points at one ending: the heroes reaching their finale with the antagonist's clock *near* full — the **photo-finish.** But nobody is steered there; where the antagonist ends up is the sum of the gambles the heroes took and the luck of the dice (below).
 
-Each box is one of the villain's *own* milestones — the dragon spreading its fire, the rival crew closing on the same treasure, the storm marching toward the city.
+Each box is one of the antagonist's *own* milestones — the dragon spreading its fire, the rival crew closing on the same treasure, the storm marching toward the city.
 
 ### Drawing the Track
 
-Draw the Antagonist Track as a row beneath the Story Arc Track — **Episode: 5 boxes. Movie: 9 boxes** (the same at any party size). **Mark the odd boxes as Attacks** (a different color, a little ▲) so everyone can see which ticks you'll stop and play out. You don't spell out the villain's milestones in advance; you decide what each Attack *means* when it happens (see The Attack, below).
+Draw the Antagonist Track as a row beneath the Story Arc Track — **Episode: 5 boxes. Movie: 9 boxes** (the same at any party size). **Mark the odd boxes as Attacks** (a different color, a little ▲) so everyone can see which ticks you'll stop and play out. You don't spell out the antagonist's milestones in advance; you decide what each Attack *means* when it happens (see The Attack, below).
 
 ### Characterize Your Antagonist
 
@@ -143,36 +143,36 @@ Before you can play "the bad guys gaining ground," you need to know **who the ba
 
 Naming this turns every Attack into a concrete story beat instead of an abstract counter. You're not "marking box three of five" — *the sandstorm hits.*
 
-> *To make a *person* antagonist into a memorable **character,** see [Chapter 16](../part-three/16-cool-characters.md), which builds villains from the same archetypes as heroes.*
+> *To make a *person* antagonist into a memorable **character,** see [Chapter 16](../part-three/16-cool-characters.md), which builds antagonists from the same archetypes as heroes.*
 
 ### How It Fills: Three Triggers
 
 The Antagonist Track advances **one box** in exactly three ways — and *not* when the heroes rest:
 
-1. **A Devil's Bargain (Chapter 9).** On a Miss, a hero can refuse the price and turn the Miss into a Strong Hit in exchange for advancing the villain one box. This is the main engine: the heroes feed the villain by buying their own successes. The villain gains ground because the heroes *decided* a win-now was worth a step toward defeat.
-2. **Doubles on a Miss (Chapter 7).** When a Miss comes up doubles, the dice swing against the heroes and the villain advances one box. This is the part nobody controls — the random pressure that makes riding the clock to its edge genuinely risky.
-3. **A hero going Out of Action (Chapter 9).** Drop to 0 Readiness and the villain seizes the moment — one box, on top of the broken Asset. The catastrophe trigger.
+1. **A Devil's Bargain (Chapter 9).** On a Miss, a hero can refuse the price and turn the Miss into a Strong Hit in exchange for advancing the antagonist one box. This is the main engine: the heroes feed the antagonist by buying their own successes. The antagonist gains ground because the heroes *decided* a win-now was worth a step toward defeat.
+2. **Doubles on a Miss (Chapter 7).** When a Miss comes up doubles, the dice swing against the heroes and the antagonist advances one box. This is the part nobody controls — the random pressure that makes riding the clock to its edge genuinely risky.
+3. **A hero going Out of Action (Chapter 9).** Drop to 0 Readiness and the antagonist seizes the moment — one box, on top of the broken Asset. The catastrophe trigger.
 
 A few things follow:
 
-- **Resting is free.** A Recovery Scene never advances the villain (Chapter 9) — the old trap of "healing costs you ground" is gone. Fall back as often as the fiction allows.
-- **The pressure is player-authored.** Most of the villain's climb comes from Devil's Bargains — choices the heroes make under fire. The clock is a mirror of how hard they've been pushing their luck.
-- **It can't be gamed to zero.** Even a cautious party that never bargains still faces doubles-Misses and the odd knockdown, so the villain always creeps. A party that bargains freely sees the clock race — which is exactly the tense story they're choosing to tell. (The small **Mend** patches a hero without ever advancing the villain — Chapter 9.)
+- **Resting is free.** A Recovery Scene never advances the antagonist (Chapter 9) — the old trap of "healing costs you ground" is gone. Fall back as often as the fiction allows.
+- **The pressure is player-authored.** Most of the antagonist's climb comes from Devil's Bargains — choices the heroes make under fire. The clock is a mirror of how hard they've been pushing their luck.
+- **It can't be gamed to zero.** Even a cautious party that never bargains still faces doubles-Misses and the odd knockdown, so the antagonist always creeps. A party that bargains freely sees the clock race — which is exactly the tense story they're choosing to tell. (The small **Mend** patches a hero without ever advancing the antagonist — Chapter 9.)
 
-### The Attack: Playing Out a Villain Beat
+### The Attack: Playing Out an Antagonist Beat
 
-You don't narrate a villain beat on *every* box — only on the **odd "Attack" boxes** (1, 3, 5, and on a Movie 7, 9). The even boxes are silent pressure: the music tightening, the walls inching in, no scene needed. This keeps the villain's *story* beats paced even when boxes fill in a rush — two bargains in one fight just slide the clock along, and you play the Attack when the next odd box lands.
+You don't narrate an antagonist beat on *every* box — only on the **odd "Attack" boxes** (1, 3, 5, and on a Movie 7, 9). The even boxes are silent pressure: the music tightening, the walls inching in, no scene needed. This keeps the antagonist's *story* beats paced even when boxes fill in a rush — two bargains in one fight just slide the clock along, and you play the Attack when the next odd box lands.
 
 When an **Attack box** fills, **stop and play it out:**
 
-1. **Envision what the villain did off-screen.** The cult finished the first ritual; the warlord seized the bridge; the flood reached the lower town; the **sandstorm** rolled in and buried the trail.
+1. **Envision what the antagonist did off-screen.** The cult finished the first ritual; the warlord seized the bridge; the flood reached the lower town; the **sandstorm** rolled in and buried the trail.
 2. **Bring it on-screen as a complication.** A new obstacle, an escalated threat, an ally captured, the deadline jumped closer. The world visibly tightens.
 
-An Attack is an open invitation to bend the plot — the cost of all that pushing made flesh. (And because you **characterized your antagonist,** you always know whose face to put on it — even when the "villain" is a desert.) The **last Attack box is the villain's victory:** if it fills before the heroes finish, play it as the bad guys winning the whole Story (Part C).
+An Attack is an open invitation to bend the plot — the cost of all that pushing made flesh. (And because you **characterized your antagonist,** you always know whose face to put on it — even when the "antagonist" is a desert.) The **last Attack box is the antagonist's victory:** if it fills before the heroes finish, play it as the bad guys winning the whole Story (Part C).
 
 ### Losing Before the Climax (Out of Action)
 
-The surest way to hand the villain ground you didn't *choose* to give is to go **Out of Action.** A hero dropping to 0 Readiness advances the villain a box on the spot (Chapter 9) — and near the end of a Story Arc, that box can be the villain's last, losing the Story *before* the heroes reach their Showdown. Heroes still can't die — but Readiness is now the resource standing between the party and an *unchosen* step toward defeat, which is exactly why falling back to recover (free!) is the smart play when you're battered. (It's also why you can't take a Devil's Bargain on a knockout roll — you can't buy your way out of going down. Chapter 9.)
+The surest way to hand the antagonist ground you didn't *choose* to give is to go **Out of Action.** A hero dropping to 0 Readiness advances the antagonist a box on the spot (Chapter 9) — and near the end of a Story Arc, that box can be the antagonist's last, losing the Story *before* the heroes reach their Showdown. Heroes still can't die — but Readiness is now the resource standing between the party and an *unchosen* step toward defeat, which is exactly why falling back to recover (free!) is the smart play when you're battered. (It's also why you can't take a Devil's Bargain on a knockout roll — you can't buy your way out of going down. Chapter 9.)
 
 ---
 
@@ -203,7 +203,7 @@ The play itself is identical either way — **one Story at a time, invented scen
 
 > **Coming from D&D — or any campaign game?** You can absolutely tell a long, *structured* epic with this. It just isn't one sprawling, never-resetting arc — it's a **saga built from self-contained stories**, exactly like a film series. *The Lord of the Rings* is a **Series** of three **Movies**; a franchise like the Marvel films is a Series of **Seasons** (its "phases"), each a run of Movies, threaded with character arcs and a big bad who recurs and finally falls in the finale. Same nesting you already know, just bigger — and you still only ever play one Story at a time. The structure comes from the *chaining and the threads*, not from one giant arc you have to plan up front.
 
-> **Tracking the bigger arcs (either way).** However you got here — planned or grown — keep the bookkeeping light. Once you have a destination, name it in a sentence or two: that's your **Series** (*"Master the elements and defeat the Fire Lord"*). Note a medium-term throughline as it sharpens — that's a **Season** (*"Master earthbending"*), tracked as a **thread**. Then just **play Episodes** — and when one genuinely moves the season-long thread, mark a box on it. When a Season's thread is ready to pay off, you play the **Movie** that resolves it: the recurring villain is that Movie's antagonist, and beating them is its Showdown. Seasons end; a new one begins; the Series is the shape they add up to.
+> **Tracking the bigger arcs (either way).** However you got here — planned or grown — keep the bookkeeping light. Once you have a destination, name it in a sentence or two: that's your **Series** (*"Master the elements and defeat the Fire Lord"*). Note a medium-term throughline as it sharpens — that's a **Season** (*"Master earthbending"*), tracked as a **thread**. Then just **play Episodes** — and when one genuinely moves the season-long thread, mark a box on it. When a Season's thread is ready to pay off, you play the **Movie** that resolves it: the recurring antagonist takes center stage in that Movie, and beating them is its Showdown. Seasons end; a new one begins; the Series is the shape they add up to.
 
 Three habits keep a long game coherent:
 

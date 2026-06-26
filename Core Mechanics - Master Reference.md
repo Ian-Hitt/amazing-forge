@@ -9,20 +9,20 @@
 > - **No recovery ratchet** (2026-06-22). A Recovery Scene heals the party **fully to 9**; max Readiness
 >   no longer declines.
 > - **Antagonist-clock rework — the Devil's Bargain spine (DECIDED 2026-06-25).** **Recovery is now
->   FREE** — a Recovery Scene heals to 9 and **never advances the villain.** The old "surge on the
+>   FREE** — a Recovery Scene heals to 9 and **never advances the antagonist.** The old "surge on the
 >   Recovery Scene," the term **"Surge,"** and the **"reserved climax box"** are all **RETIRED.** The
 >   Antagonist Track advances **one box in exactly three ways:** a **Devil's Bargain** (on a Miss, a
->   hero may refuse the Readiness loss *and* upgrade the Miss to a Strong Hit, for villain +1 — never
->   on a knockout roll), a **Miss showing doubles** (villain +1; doubles now upgrade *only* a Hit), and
->   going **Out of Action** (villain +1 + an Asset breaks). The narrated villain beat is an **Attack**
->   on the track's **odd boxes;** the **last box = the villain wins.**
+>   hero may refuse the Readiness loss *and* upgrade the Miss to a Strong Hit, for antagonist +1 — never
+>   on a knockout roll), a **Miss showing doubles** (antagonist +1; doubles now upgrade *only* a Hit), and
+>   going **Out of Action** (antagonist +1 + an Asset breaks). The narrated antagonist beat is an **Attack**
+>   on the track's **odd boxes;** the **last box = the antagonist wins.**
 > - **Track sizes (2026-06-25): Episode = 5 boxes, Movie = 9 boxes — the SAME at any party size**
 >   (the duo/two-player special case is GONE).
 > - **Challenge difficulty is fixed by difficulty, not party size (2026-06-25, "Option B"):**
 >   **Easy 2 / Medium 3 / Hard 4 / Very Hard 5** — party-independent, no party-size rules anywhere.
 >   (Supersedes the 2026-06-22 plain p−1/p/p+1 ladder.)
 > - **Loss is no longer a tuning target** — it's a rare earned tail; the tuned metric is the
->   **photo-finish** (villain one box from winning at the climax). Validated by `sim_devils.py` /
+>   **photo-finish** (antagonist one box from winning at the climax). Validated by `sim_devils.py` /
 >   `sim_devils2.py`.
 
 > **Purpose of this document.** This is the canonical source of truth for the core
@@ -82,22 +82,22 @@ the book. When reviewing a chapter, treat any deviation as an error to flag.
 | **Asset** | One of a character's three specific "amazing at" things — a signature talent, tool, or friend; argued via the one-sentence test, **+1** when it fits. | skill, stat, trait |
 | **Broken Asset** | An Asset knocked offline when a hero goes Out of Action — gives no +1 until **Downtime** restores it. Temporary; never a penalty. | negative Asset, debuff, condition, impact |
 | **Readiness** | The single 0–9 resource track (health + morale + supplies). Max stays **9** all game. | HP, health, hit points, stamina |
-| **Mend** | The small, risky **any-scene** patch (in a Challenge, it's your turn instead of a Challenge Roll): recover a little — self or ally, rolled **Strong +3 / Weak +2 / Miss −1 Readiness** (capped at 9). **No usage cap; never advances the villain; can't revive Out of Action.** The −1 risk keeps it from substituting for a regroup. | heal, Catch Your Breath |
-| **Recovery Scene** | The fall-back-and-regroup move: the party heals **fully back to 9** — **free** (no roll, no cost to the villain's clock). Reliable; the quiet/B-plot beat. **Recovery never advances the Antagonist Track.** | rest, healing |
-| **Downtime** | The between-Story-Arcs rest: heals everyone to full and **restores any Broken Asset**. Free; the villain's clock resets. | long rest, Sojourn, victory bump |
+| **Mend** | The small, risky **any-scene** patch (in a Challenge, it's your turn instead of a Challenge Roll): recover a little — self or ally, rolled **Strong +3 / Weak +2 / Miss −1 Readiness** (capped at 9). **No usage cap; never advances the antagonist; can't revive Out of Action.** The −1 risk keeps it from substituting for a regroup. | heal, Catch Your Breath |
+| **Recovery Scene** | The fall-back-and-regroup move: the party heals **fully back to 9** — **free** (no roll, no cost to the antagonist's clock). Reliable; the quiet/B-plot beat. **Recovery never advances the Antagonist Track.** | rest, healing |
+| **Downtime** | The between-Story-Arcs rest: heals everyone to full and **restores any Broken Asset**. Free; the antagonist's clock resets. | long rest, Sojourn, victory bump |
 | **Out of Action** | State when Readiness hits 0. | dead, KO'd, defeated |
-| **Story / Story Arc** | One spine — a single central dramatic question — tracked with a **Story Arc Track** (progress) and an **Antagonist Track** (the villain's clock). Sized **Episode** or **Movie** (the only two with box machinery). | Quest, mission, adventure |
+| **Story / Story Arc** | One spine — a single central dramatic question — tracked with a **Story Arc Track** (progress) and an **Antagonist Track** (the antagonist's clock). Sized **Episode** or **Movie** (the only two with box machinery). | Quest, mission, adventure |
 | **Episode** | A complete short Story — **3 Milestones, 5-box Antagonist Track** (Attacks on 1·3·5) — told in ~one sitting. Same track size at any party count. | one-shot, session quest |
 | **Movie** | A complete feature Story — **6 Milestones, 9-box Antagonist Track** (Attacks on 1·3·5·7·9) — told over ~2–3 sessions. Same track size at any party count. | feature film |
 | **Season** | A **collection** pattern (prose, no machinery): a run of Stories sharing a throughline. Not a box size. | arc (as the term), story arc |
 | **Series** | A **collection** pattern (prose): the whole game, a run of Seasons. Always a collection; no box size of its own. | campaign, saga |
 | **Story Arc Track** | A Story's progress track — one box per Milestone; filling it reaches the Showdown. | Hero Track, Quest Track |
-| **Antagonist Track** | The losing side of the same Story: the villain's clock — **Episode 5 boxes / Movie 9 boxes** (same at any party size). Advances **one box** in exactly three ways: a **Devil's Bargain,** a **Miss showing doubles,** or a hero going **Out of Action.** Its **odd boxes are Attacks** (narrated villain beats); even boxes are silent pressure; the **last box loses the Story.** | enemy clock, doom track |
-| **Devil's Bargain** | On a **Miss,** a hero *may* refuse the Readiness loss **and** upgrade the Miss to a **Strong Hit** — in exchange for advancing the Antagonist Track **one box.** Always optional; **never allowed on a roll that would knock the hero Out of Action.** The main engine of the villain's climb. | — |
-| **Attack** | The narrated villain beat played out when an **odd box** of the Antagonist Track fills (1·3·5, plus 7·9 on a Movie): cut away and show the bad guys gaining ground on-screen. Even boxes pass silently. The **last Attack box is the villain's victory.** | the Surge |
-| **Showdown** | The climax — reached when the heroes fill the Story Arc Track, played as one last roll. The Story's outcome is decided here, usually with the villain's clock near its last box. | finale, boss fight |
+| **Antagonist Track** | The losing side of the same Story: the antagonist's clock — **Episode 5 boxes / Movie 9 boxes** (same at any party size). Advances **one box** in exactly three ways: a **Devil's Bargain,** a **Miss showing doubles,** or a hero going **Out of Action.** Its **odd boxes are Attacks** (narrated antagonist beats); even boxes are silent pressure; the **last box loses the Story.** | enemy clock, doom track |
+| **Devil's Bargain** | On a **Miss,** a hero *may* refuse the Readiness loss **and** upgrade the Miss to a **Strong Hit** — in exchange for advancing the Antagonist Track **one box.** Always optional; **never allowed on a roll that would knock the hero Out of Action.** The main engine of the antagonist's climb. | — |
+| **Attack** | The narrated antagonist beat played out when an **odd box** of the Antagonist Track fills (1·3·5, plus 7·9 on a Movie): cut away and show the bad guys gaining ground on-screen. Even boxes pass silently. The **last Attack box is the antagonist's victory.** | the Surge |
+| **Showdown** | The climax — reached when the heroes fill the Story Arc Track, played as one last roll. The Story's outcome is decided here, usually with the antagonist's clock near its last box. | finale, boss fight |
 | **Thread (B-plot)** | A subplot/character arc riding alongside the spine: a light progress track, **no Antagonist Track / no lose-clock**; resolves into or beside the spine's climax. | side quest, B-arc |
-| **Fall back** | Retreating from a losing Challenge (losing its progress) to regroup — handled as a **Recovery Scene** (full heal, **free**, no villain advance). | Flee, retreat (as the mechanic) |
+| **Fall back** | Retreating from a losing Challenge (losing its progress) to regroup — handled as a **Recovery Scene** (full heal, **free**, no antagonist advance). | Flee, retreat (as the mechanic) |
 | **Quit the Story Arc** | Giving up a Story entirely — the terminal fall back; the bad guys win. | forfeit, surrender |
 | **Start a Story Arc** | The opening roll made once when a Story Arc begins (2d6 + 1, **generative** — no failure): sets how it opens — *Clear purpose* / *More questions than answers* / *Trouble finds you first*. | Swear an Iron Vow |
 | **Milestone** | A chapter of the story (a collection of Scenes); checks one Story Arc Track box. Every 3rd Milestone earns each hero 1 Growth. | objective, step |
@@ -493,7 +493,7 @@ There are two ways to resolve a roll, depending on the situation:
 | **6 or less** | **Miss** | Failure — your action fails and things get worse. **Pay the Price** (lose **2** Readiness). | Mark **no Progress** AND **Pay the Price** (lose **2** Readiness). |
 
 A Weak Hit and a Miss cost Readiness exactly as shown — unless the hero takes a **Devil's Bargain**
-(below), which trades the Miss's loss for a villain advance. The **Antagonist Track** never advances
+(below), which trades the Miss's loss for an antagonist advance. The **Antagonist Track** never advances
 *silently* on a roll; it moves only via the three named triggers — a **Devil's Bargain,** a **Miss
 showing doubles,** or a hero going **Out of Action** (Sections 6/9). **Resting never advances it.**
 
@@ -522,8 +522,8 @@ If a player rolls **matching numbers (doubles)** on a **Hit**, their result is u
   spectacularly and add an extra narrative bonus of your choice.
 
 **Doubles on a Miss do *not* upgrade it.** Instead, the dice swing against the heroes and the
-**Antagonist Track advances one box** (Section 6) — the random leg of the villain's clock. (If the
-hero *also* takes a Devil's Bargain on that Miss, the two stack: the villain advances two boxes.)
+**Antagonist Track advances one box** (Section 6) — the random leg of the antagonist's clock. (If the
+hero *also* takes a Devil's Bargain on that Miss, the two stack: the antagonist advances two boxes.)
 
 ### The Moves (Master List)
 
@@ -546,9 +546,9 @@ Each move is defined in full in the chapter noted; this list is the authoritativ
 |---|---|---|
 | **The Roll** | The core move; handles any risky action, run as a **Regular Roll** (no track) or a **Challenge Roll** (marks a track). Every other move is shaped from it. | Ch.7 |
 | **Aid Your Ally** | The core move pointed at a teammate — on a Hit, hand them +2/+1; same Pay the Price as any roll (Strong: ally +2; Weak: ally +1, aider −1; Miss: nothing, aider −2). | Ch.7/8 |
-| **Mend** | A quick patch in any scene (in a Challenge, it's your turn instead of a Challenge Roll): self or ally, **Strong +3 / Weak +2 / Miss −1 Readiness**, capped at 9, **never advances the villain**, can't revive an Out-of-Action hero. | Ch.9 |
-| **Recovery Scene** | Fall back and regroup: the party heals **fully back to 9** — **free** (no roll, no villain advance). Reliable; the quiet/B-plot beat. | Ch.9 |
-| **Downtime** | The between-Story-Arcs rest: heals to full, restores any Broken Asset; free, the villain's clock resets. | Ch.9 |
+| **Mend** | A quick patch in any scene (in a Challenge, it's your turn instead of a Challenge Roll): self or ally, **Strong +3 / Weak +2 / Miss −1 Readiness**, capped at 9, **never advances the antagonist**, can't revive an Out-of-Action hero. | Ch.9 |
+| **Recovery Scene** | Fall back and regroup: the party heals **fully back to 9** — **free** (no roll, no antagonist advance). Reliable; the quiet/B-plot beat. | Ch.9 |
+| **Downtime** | The between-Story-Arcs rest: heals to full, restores any Broken Asset; free, the antagonist's clock resets. | Ch.9 |
 | **Showdown** *(the climax)* | The last-box roll when the heroes reach the climax (Story Arc Track full); decides the Story's outcome. A Miss escalates rather than ending it outright. | Ch.8/10 |
 
 **Progress moves — open or close a progress track:**
@@ -557,7 +557,7 @@ Each move is defined in full in the chapter noted; this list is the authoritativ
 |---|---|---|
 | **Start a Story Arc** | Sets how a new Story Arc opens — *Clear purpose* / *More questions than answers* / *Trouble finds you first* (Ch.10). | 2d6 + 1, generative |
 | **Start a Challenge** | Sets the opening of a Challenge the heroes *deliberately initiate*: a one-time **±1 to the first roll** (Strong +1 *you got the drop* / Weak 0 *even footing* / Miss −1 *they beat you to it*). Skipped when trouble is thrust on the heroes (Ch.8). | 2d6 + 1, generative |
-| **Fall back** | Retreat from a losing Challenge (lose its progress) to regroup — resolved as a **Recovery Scene** (full heal, free, no villain advance) (Ch.8/9). | none |
+| **Fall back** | Retreat from a losing Challenge (lose its progress) to regroup — resolved as a **Recovery Scene** (full heal, free, no antagonist advance) (Ch.8/9). | none |
 | **Quit the Story Arc** | The terminal fall back — give up a Story; no penalty or bonus; the loss seeds a new Story (Ch.10). | none |
 
 **Frame moves — shift the fiction in the moment:**
@@ -596,8 +596,8 @@ The Story Arc Track box count is a default, not a lock — a meaty Episode can s
 two. The **Antagonist Track is the same size at any party count** (no duo/large-group special case):
 because Challenges are sized by difficulty alone (Section 7), total rolls per Story stay about the
 same whatever the table size, so the clock fills at about the same rate for everyone. Its **odd boxes
-are Attacks** (narrated villain beats); the **last box is the villain's victory.** Sized this way, the
-villain's clock tends to end up *near* full as the heroes reach their finale — the **photo-finish** —
+are Attacks** (narrated antagonist beats); the **last box is the antagonist's victory.** Sized this way, the
+antagonist's clock tends to end up *near* full as the heroes reach their finale — the **photo-finish** —
 without anyone being railroaded there (below).
 
 **Seasons and Series are collections, not sizes.** Episode and Movie are *individual* stories.
@@ -621,7 +621,7 @@ connective tissue of a Season: the slow-burn relationship, the rival, the season
 > 2026-06-25).** Replaces the sandbox model (concurrent independent arcs in four fixed sizes —
 > Episode 3 / Movie 8 / Season 8 / Series 12 — each with an equal-length Antagonist Track, advanced
 > by fleeing + an optional tick). That structure was a Starforged inheritance and **could not produce
-> the game's goal** — a story whose villain ends *one step from winning*. The model: **one Story =
+> the game's goal** — a story whose antagonist ends *one step from winning*. The model: **one Story =
 > one spine**, two individual sizes with machinery (**Episode 3 Milestones / 5-box Antagonist Track,
 > Movie 6 / 9** — the same at any party size; the old duo special case is gone), Season/Series as
 > prose collection patterns, B-plots as lose-clock-free threads. The Antagonist Track advances via
@@ -674,55 +674,55 @@ Milestone**. First games (Part One) skip the roll and simply open in media res (
 
 The Antagonist Track is **the losing side of the same Story** — not a separate arc, but this
 Story's other end. It is **Episode 5 boxes / Movie 9 boxes** (same at any party size). Its boxes fill
-as the antagonist gains ground during play; its **odd boxes are Attacks** (narrated villain beats),
-its even boxes are silent pressure, and its **last box is the villain's victory** — fill it before the
+as the antagonist gains ground during play; its **odd boxes are Attacks** (narrated antagonist beats),
+its even boxes are silent pressure, and its **last box is the antagonist's victory** — fill it before the
 heroes finish their Story Arc Track and the bad guys win. The Story is a race: arrive at your Showdown
-with the villain **one step from winning** — the **photo-finish** — or fall before you reach it.
+with the antagonist **one step from winning** — the **photo-finish** — or fall before you reach it.
 
 > ✅ **DECIDED — how the Antagonist Track advances: the Devil's Bargain spine (2026-06-25).**
-> The villain advances **one box** in exactly **three ways** — *not* when the heroes rest:
+> The antagonist advances **one box** in exactly **three ways** — *not* when the heroes rest:
 > 1. **A Devil's Bargain.** On a **Miss,** a hero may refuse the Readiness loss **and** upgrade the
->    Miss to a **Strong Hit,** in exchange for advancing the villain one box (Section 9). Always
+>    Miss to a **Strong Hit,** in exchange for advancing the antagonist one box (Section 9). Always
 >    optional; **never allowed on a roll that would knock the hero Out of Action.** This is the main
->    engine — the heroes feed the villain by buying their own successes.
+>    engine — the heroes feed the antagonist by buying their own successes.
 > 2. **A Miss showing doubles.** When a Miss comes up doubles, the dice swing against the heroes and
->    the villain advances one box (Section 5). Doubles now upgrade *only* a Hit (Oracle's Blessing);
->    on a Miss they feed the villain instead. The random leg nobody controls. (A doubles-Miss the
->    hero *also* bargains advances the villain **two** boxes — they stack.)
-> 3. **A hero going Out of Action.** Drop to 0 Readiness and the villain seizes the moment — one box,
+>    the antagonist advances one box (Section 5). Doubles now upgrade *only* a Hit (Oracle's Blessing);
+>    on a Miss they feed the antagonist instead. The random leg nobody controls. (A doubles-Miss the
+>    hero *also* bargains advances the antagonist **two** boxes — they stack.)
+> 3. **A hero going Out of Action.** Drop to 0 Readiness and the antagonist seizes the moment — one box,
 >    on top of the broken Asset (Section 9). The structural/catastrophe trigger.
 >
 > This **retires the 2026-06-13 recovery-surge model** (a Surge per Recovery Scene), the term
 > **"Surge,"** and the **reserved climax box.** Recovery is now **free** — falling back to regroup
-> never advances the villain. Validated in `Math & Simulation Reference.md` §0 (`sim_devils.py` /
+> never advances the antagonist. Validated in `Math & Simulation Reference.md` §0 (`sim_devils.py` /
 > `sim_devils2.py`): the photo-finish is the tuned deliverable; loss is a rare earned tail.
 
-- **The Attack (what an odd box means).** You narrate a villain beat only on the **odd "Attack"
+- **The Attack (what an odd box means).** You narrate an antagonist beat only on the **odd "Attack"
   boxes** (1·3·5, plus 7·9 on a Movie); the even boxes are silent pressure (the music tightening, the
   walls inching in — no scene needed). When an Attack box fills, **stop and play it out:** envision
-  what the villain did off-screen, then **bring it on-screen as a complication** — a new obstacle, an
+  what the antagonist did off-screen, then **bring it on-screen as a complication** — a new obstacle, an
   escalation, an ally captured, the deadline jumps closer. The world visibly tightens. This keeps the
-  villain's *story* beats paced even when boxes fill in a rush (two bargains in one fight just slide
+  antagonist's *story* beats paced even when boxes fill in a rush (two bargains in one fight just slide
   the clock; you play the Attack when the next odd box lands).
-- **The pressure is player-authored.** Most of the villain's climb comes from Devil's Bargains —
+- **The pressure is player-authored.** Most of the antagonist's climb comes from Devil's Bargains —
   choices the heroes make under fire. The clock is a mirror of how hard they've pushed their luck.
 - **It can't be gamed to zero.** Even a cautious party that never bargains still faces doubles-Misses
-  and the odd knockdown, so the villain always creeps. (Recovery is free — fall back as often as the
-  fiction allows; the small **Mend** also never advances the villain.)
+  and the odd knockdown, so the antagonist always creeps. (Recovery is free — fall back as often as the
+  fiction allows; the small **Mend** also never advances the antagonist.)
 - **Characterize the antagonist.** The antagonist may be a person, a faction, or a **force** (a
   harsh desert, a plague, a deadline). Name what it *wants* and what "winning" looks like, so every
   Attack is a concrete beat: the desert's clock fills → a sandstorm hits.
-- **Losing before the climax (the loss vector).** A hero taken **Out of Action** advances the villain
-  a box on the spot (Section 9) — and near the end of a Story Arc, that box can be the villain's last,
+- **Losing before the climax (the loss vector).** A hero taken **Out of Action** advances the antagonist
+  a box on the spot (Section 9) — and near the end of a Story Arc, that box can be the antagonist's last,
   losing the Story *before* the heroes reach their Showdown. This is the real risk that keeps
   Readiness meaningful — it is no longer a survival meter (heroes can't die) but **ammunition spent
-  against the villain's clock.** (It is also why you can't take a Devil's Bargain on a knockout roll —
+  against the antagonist's clock.** (It is also why you can't take a Devil's Bargain on a knockout roll —
   you can't buy your way out of going down.)
 
 **Quitting a Story Arc (the official lose).** Heroes are never forced to grind a Story Arc to a
 deadly end. At any point the group may simply **give up the Story Arc** — the terminal version of
 fleeing. There is **no mechanical penalty or bonus** for quitting: no special heal, no carry-
-over. The heroes lick their wounds, the villains win this one, and the table moves on to a new
+over. The heroes lick their wounds, the antagonists win this one, and the table moves on to a new
 Story Arc. Quitting (or losing) exists precisely so a low-Readiness party can stay alive instead of
 being ground down.
 
@@ -907,7 +907,7 @@ Roll 2d6 + modifier for that last box:
   before attempting the Showdown again), and the situation escalates — a new wrinkle, a
   fresh danger. A missed Showdown is **delay and drama, never outright defeat.**
 
-(A missed Showdown is a Miss like any other: doubles on it still advance the villain, and the
+(A missed Showdown is a Miss like any other: doubles on it still advance the antagonist, and the
 **Devil's Bargain is still on the table** — the ultimate gamble. Otherwise a Showdown is about
 *finishing*, not regrouping.)
 
@@ -915,10 +915,10 @@ Roll 2d6 + modifier for that last box:
 Track* a Showdown too — one last roll as the heroes go to complete the closing Milestone.
 On a Strong or Weak Hit the Story Arc is won (Weak = Pay the Price on the way out). On a **Miss**,
 *you thought it was over, but it wasn't:* **add one extra Milestone box to the Story Arc Track** and
-introduce a climactic twist — the villain's true plan surfaces, an ally betrays you, the prize
+introduce a climactic twist — the antagonist's true plan surfaces, an ally betrays you, the prize
 isn't what it seemed. The heroes must complete that new Milestone before they can attempt the
 Story Arc Showdown again. Importantly, **the twist itself adds no box to the Antagonist Track** — it
-gives the heroes *more to do*, not the villains a free win (though with the villain's clock often
+gives the heroes *more to do*, not the antagonists a free win (though with the antagonist's clock often
 near full, finishing before they do is the whole tension of the moment). Like all
 Showdowns it's optional, and it's a wonderful way to make the end of a Story Arc land with a
 cinematic surprise.
@@ -934,12 +934,12 @@ group may **fall back** and regroup. Falling back is resolved as a **Recovery Sc
 
 - **You lose the Challenge's progress.** Wipe the track; those boxes don't count.
 - **The party heals fully back to 9** — the point of pulling back.
-- **The villain gains nothing.** Recovery is **free** — falling back never advances the Antagonist
+- **The antagonist gains nothing.** Recovery is **free** — falling back never advances the Antagonist
   Track. You simply live to fight another day.
 
 Falling back is a **group decision** (in Co-op, made together). It's always safe and always available
 at a genuine lull — so when you're battered, regrouping is the smart play, *not* a gamble. (The
-pressure that climbs the villain's clock comes from the choices you make *under fire* — Devil's
+pressure that climbs the antagonist's clock comes from the choices you make *under fire* — Devil's
 Bargains and the dice — never from catching your breath.)
 
 If the heroes decide a Story simply isn't winnable or worth the cost, they may **Quit the Story
@@ -951,10 +951,10 @@ scene-level valve; quitting is the whole-Story version.
 > ✅ **DECIDED — recovery is free (2026-06-13; ratchet removed 2026-06-22; surge retired 2026-06-25).**
 > Recovery is **two moves**, the **Readiness max stays 9 all game**, and **recovery is FREE.** The
 > **Recovery Scene** (fall back and regroup) heals the party **fully back to 9** — no roll, **no cost
-> to the villain's clock.** **Mend** is a small, risky **any-scene** patch that likewise never advances
-> the villain — in a Challenge it's a *tactical choice* (patch vs. push), and **must cost on a Miss
+> to the antagonist's clock.** **Mend** is a small, risky **any-scene** patch that likewise never advances
+> the antagonist — in a Challenge it's a *tactical choice* (patch vs. push), and **must cost on a Miss
 > (−1)**, which keeps it from substituting for a regroup (no usage cap needed). The old "Surge on the
-> Recovery Scene" is **retired** — the villain advances only via the Devil's Bargain, doubles-Misses,
+> Recovery Scene" is **retired** — the antagonist advances only via the Devil's Bargain, doubles-Misses,
 > and Out of Action (Section 6). Recovery becomes a pure pacing signal (*when am I battered enough to
 > fall back?*), not a loss vector. Balance validated in `Math & Simulation Reference.md` §0
 > (`sim_devils.py` / `sim_devils2.py`): photo-finish is the tuned deliverable; loss is a rare tail.
@@ -967,7 +967,7 @@ Asset; doubles upgrade):
 - **Strong (10+):** +3 Readiness. · **Weak (7–9):** +2. · **Miss (6−):** **−1 Readiness** (the
   patch goes wrong) — and a Miss *can* drop a hero to Out of Action.
 
-Mend **never advances the villain** and has **no usage cap**, but it's **capped at 9.** Its limit is
+Mend **never advances the antagonist** and has **no usage cap**, but it's **capped at 9.** Its limit is
 the **−1 risk** — so it smooths the ride between regroups but can't substitute for one. It's the
 quick gamble to stay on your feet; when you're truly low, the safer play is to fall back for a full
 Recovery Scene instead.
@@ -979,32 +979,32 @@ advances the Antagonist Track** (Section 6). It is **gated by the fiction** (no 
 regroup) and **player-chosen**, *discovered in play, never on a schedule.* What it costs is the
 camera, not the clock: a regroup means stepping out of the action — the campfire, the heart-to-heart,
 the **character scene.** Falling back is always safe and always available, so you never ration or
-dread it; the villain's clock climbs from the gambles you take under fire, not from resting.
+dread it; the antagonist's clock climbs from the gambles you take under fire, not from resting.
 
 **Downtime (between Story Arcs).** Finishing a Story Arc heals everyone to full and **restores any
-Broken Asset** — free; the villain's clock resets (the Story Arc is resolved). It's the *slow down
+Broken Asset** — free; the antagonist's clock resets (the Story Arc is resolved). It's the *slow down
 and roleplay* breather between adventures (optionally a d6 prompt: gearing up, good company, loved
 ones, a beat for the heart). Heroes always start the next Story fresh.
 
 **Out of Action (the loss vector).** A hero at 0 Readiness can't act. **Going Out of Action advances
 the Antagonist Track one box** on the spot (Section 6) — you fell, and the bad guys seized the moment
-— and near the climax that box can be the villain's last, losing the Story *before* the heroes reach
+— and near the climax that box can be the antagonist's last, losing the Story *before* the heroes reach
 their Showdown. **Mend cannot revive a downed hero** — only a full **Recovery Scene** (or Downtime,
 both free) brings someone back from 0. So going down is no longer survival-neutral — near the climax
 it is *how you lose*. (This, plus the fact that you **can't take a Devil's Bargain on a knockout
 roll,** is why a battered party's smart play is to fall back for a free Recovery Scene rather than
-gamble.) Heroes still can't die; the cost is the villain's box, a Broken Asset, and the regroup. This
-is what keeps Readiness meaningful — **ammunition spent against the villain's clock**, not a survival
+gamble.) Heroes still can't die; the cost is the antagonist's box, a Broken Asset, and the regroup. This
+is what keeps Readiness meaningful — **ammunition spent against the antagonist's clock**, not a survival
 meter.
 
-> ✅ **DECIDED — Out-of-Action timing & edge cases (Ian, 2026-06-14; surge → villain box, 2026-06-25).**
+> ✅ **DECIDED — Out-of-Action timing & edge cases (Ian, 2026-06-14; surge → antagonist box, 2026-06-25).**
 > - **A knockdown never pauses the Scene.** When a hero drops to 0 mid-Challenge, the action
 >   continues — the rest of the party may **push on to finish the Challenge or fall back**, their
 >   call. The Recovery Scene that revives the downed hero happens **once the Challenge ends, win or
 >   lose** — never in the middle of it. So a single roll that **both fills the last box and drops its
->   roller to 0 wins the Challenge first**; the regroup follows in the aftermath. (The villain still
+>   roller to 0 wins the Challenge first**; the regroup follows in the aftermath. (The antagonist still
 >   gains their box from the knockdown.)
-> - **Multiple heroes down at once.** Each hero who goes down advances the villain **one box** and
+> - **Multiple heroes down at once.** Each hero who goes down advances the antagonist **one box** and
 >   breaks one of their Assets — going down is always individually costly. A single Recovery Scene
 >   then gets the whole party back on their feet at once.
 > - **Solo play:** with one hero, going Out of Action means there's no one to fight on — that
@@ -1025,11 +1025,11 @@ is permanent, costs Growth, and is chosen — §4 / Ch.13). Optional flavor: a G
 one-off **condition** (*Broken Spirit, Rattled*) that behaves identically (cancels an Asset's +1,
 clears at Downtime, never a flat penalty) when the hurt doesn't map to a single Asset.
 
-**The teeth aren't the Readiness pool — they're the villain's clock.** A Recovery Scene restores you
+**The teeth aren't the Readiness pool — they're the antagonist's clock.** A Recovery Scene restores you
 fully and for free, so the party rarely *stays* worn down; the pressure is the Antagonist Track, fed
 by the gambles you take (Devil's Bargains), the dice that betray you (doubles-Misses), and the
 knockdowns that cost you a box and a **Broken Asset** until the Story ends. Readiness is ammunition
-against that clock, not a dwindling survival pool — the pressure is the villain, not attrition.
+against that clock, not a dwindling survival pool — the pressure is the antagonist, not attrition.
 
 ---
 
@@ -1071,7 +1071,7 @@ Readiness. If stuck, roll a **d10** or pick from the table.
 > is a Readiness loss plus an in-scene complication — nothing more. The Antagonist Track advances only
 > via a **Devil's Bargain,** a **Miss showing doubles,** or going **Out of Action** (Sections 5/6/9).
 > (A Devil's Bargain is taken *instead of* paying the price — refuse the Readiness loss, upgrade the
-> Miss to a Strong Hit, and advance the villain a box — so it's the one way a failed roll touches the
+> Miss to a Strong Hit, and advance the antagonist a box — so it's the one way a failed roll touches the
 > clock, and it's the hero's choice.)
 
 | d10 | The Price | How It Looks (Example) |
@@ -1186,7 +1186,7 @@ Everyone is a player, sharing the directing duties equally.
 > showing doubles, or going Out of Action — with **odd-box Attacks** and **no reserved climax box;
 > recovery is free**); *"rolled SF-C recovery"* (now **two free moves**: a small risky **Mend** —
 > Strong +3 / Weak +2 / **Miss −1**, an any-scene tactical patch — plus the full-reset **Recovery
-> Scene**, neither of which advances the villain; Downtime is the between-Stories reset); and
+> Scene**, neither of which advances the antagonist; Downtime is the between-Stories reset); and
 > *"multiple concurrent arcs / no feed-up"* (now **one nested spine**, with B-plots as lose-clock-free
 > threads). New model validated in `Math & Simulation Reference.md` §0 (`sim_devils.py` /
 > `sim_devils2.py`).
@@ -1197,8 +1197,8 @@ Everyone is a player, sharing the directing duties equally.
 > independently. **(2) Out-of-Action timing** — a knockdown never pauses a Challenge; the
 > Recovery Scene that revives the downed hero fires after it ends (win or lose), and a roll that both
 > wins and drops you wins first. **(3) Multiple heroes down at once** — each knockdown advances the
-> villain one box and breaks one Asset; a single Recovery Scene then revives the whole party (timing
-> per 2026-06-14; the per-knockdown villain box is the 2026-06-25 model). **(4) Solo OoA** →
+> antagonist one box and breaks one Asset; a single Recovery Scene then revives the whole party (timing
+> per 2026-06-14; the per-knockdown antagonist box is the 2026-06-25 model). **(4) Solo OoA** →
 > the lone hero loses that Challenge, then regroups (solo is supported, not a target). **(5) Aid
 > fully stacks** — with the Asset and across multiple helpers, self-limited by each helper's Pay
 > the Price. **(6) Genre count corrected to seven** (Post-Apocalypse). **(7) Threads earn Growth**
@@ -1214,20 +1214,20 @@ Everyone is a player, sharing the directing duties equally.
 
 > ✅ **DECIDED — the Devil's Bargain antagonist-clock rework (2026-06-25).** The defining rework of the
 > Antagonist Track, propagated through the whole book. **(1) Recovery is FREE** — a Recovery Scene heals
-> the party to 9 with no roll and **never** advances the villain; the **"Surge"** term and the
+> the party to 9 with no roll and **never** advances the antagonist; the **"Surge"** term and the
 > **"reserved climax box"** are retired. **(2) The Antagonist Track advances one box in exactly three
 > ways:** a **Devil's Bargain** (on a Miss, a hero may refuse the Readiness loss *and* upgrade the Miss
-> to a Strong Hit, for villain +1 — optional, never on a knockout roll); a **Miss showing doubles**
-> (villain +1 — doubles now upgrade *only* a Hit; on a Miss they feed the villain instead of upgrading
-> Miss→Weak); and going **Out of Action** (villain +1 + an Asset breaks). A doubles-Miss that is *also*
-> bargained advances the villain two boxes (they stack). **(3) The narrated villain beat is an Attack**
+> to a Strong Hit, for antagonist +1 — optional, never on a knockout roll); a **Miss showing doubles**
+> (antagonist +1 — doubles now upgrade *only* a Hit; on a Miss they feed the antagonist instead of upgrading
+> Miss→Weak); and going **Out of Action** (antagonist +1 + an Asset breaks). A doubles-Miss that is *also*
+> bargained advances the antagonist two boxes (they stack). **(3) The narrated antagonist beat is an Attack**
 > on the track's **odd boxes** (Episode 1·3·5; Movie 1·3·5·7·9); even boxes are silent pressure; the
-> **last box is the villain's victory.** **(4) Track sizes: Episode = 5 boxes, Movie = 9 boxes — the
+> **last box is the antagonist's victory.** **(4) Track sizes: Episode = 5 boxes, Movie = 9 boxes — the
 > SAME at any party size** (the duo/two-player special case is removed). **(5) Challenge difficulty is
 > fixed by difficulty, not party size — Option B:** Easy 2 / Medium 3 / Hard 4 / Very Hard 5,
 > party-independent (no party-size rules anywhere; supersedes the 2026-06-21 party-scaled ladder and its
 > 2026-06-22 revision). **(6) Design philosophy:** loss is no longer a tuning target — it's a rare
-> earned tail; the tuned metric is the **photo-finish** (villain one box from winning at the climax).
+> earned tail; the tuned metric is the **photo-finish** (antagonist one box from winning at the climax).
 > Validated by `sim_devils.py` / `sim_devils2.py` (Episode realistic ~20% photo-finish / ~6.5% loss;
 > Movie ~21% / ~11%; party-independent; see `Math & Simulation Reference.md` §0). **Supersedes** the
 > 2026-06-13 recovery-surge/reserved-climax model and the party-scaled difficulty ladder; also deletes
@@ -1255,9 +1255,9 @@ fifth Core Principle, and the *Amazing Tales* **starter-backdrop** option.
   *Avatar: The Last Airbender* (Episode / Season / Series) (Section 6).
 - **Antagonist Track is CORE; flee-primary, table-discretion-broadened (2026-06-06 / -06-08).**
   Mandatory on every Story Arc. **Fleeing a Challenge** is the always-on trigger (lose its progress +
-  advance the villain). Broadened 2026-06-08: on a **telling failure** the table *may* also mark a
+  advance the antagonist). Broadened 2026-06-08: on a **telling failure** the table *may* also mark a
   box via **Pay the Price** (narrate the antagonist's gain) — never automatic, the main way
-  Season/Series villains advance. Not advanced by ordinary Weak/Miss or Recovery. Added
+  Season/Series antagonists advance. Not advanced by ordinary Weak/Miss or Recovery. Added
   **characterize-your-antagonist** (the foe can be a force, e.g. a desert). Added **Quit the
   Story Arc** (terminal flee, no penalty/bonus) and "losing seeds a new Story Arc." Flee-only floor
   modeled in `Math & Simulation Reference.md` §4b; optional tick is discretionary/unmodeled

@@ -12,7 +12,7 @@ Eerie and tense — the slow, creeping fear of what you can't quite see. Safety 
 
 The dial matters more here than in any other genre, so set it first and out loud:
 
-- **Playful Horror** is the spooky-fun romp: *Goosebumps*, *Scooby-Doo* — chills and giggles, a rubber-mask villain, meddling kids who save the day by lunch. Scary like a haunted hayride, never like a nightmare.
+- **Playful Horror** is the spooky-fun romp: *Goosebumps*, *Scooby-Doo* — chills and giggles, a rubber-mask antagonist, meddling kids who save the day by lunch. Scary like a haunted hayride, never like a nightmare.
 - **Serious Horror** lets the dread bite: *Stranger Things*, *Coraline* — real fear, real stakes, a threat you can't just unmask. Losses linger; the dark stays dark.
 
 Because this is a game for all ages, agree on where the dial sits *before* you start — and keep the conversation open as you play.

@@ -65,7 +65,7 @@ See **Challenges** ([Chapter 8](../part-two/08-challenges.md)) for the full proc
   <div class="af-legend">
     <b>START A CHALLENGE</b> (only when you pick the fight): roll <b>2d6 + 1</b> &rarr; <b>10+</b> +1 &middot; <b>7&ndash;9</b> 0 &middot; <b>6&minus;</b> &minus;1 &mdash; a one-time edge on your <b>first roll</b> only.
     <br>
-    <b>EACH ROLL:</b> <b>Strong</b> fill 1 box &middot; <b>Weak</b> fill 1 box, &minus;1 Readiness &middot; <b>Miss</b> no box, &minus;2 Readiness <i>or</i> take the <b>Devil's Bargain</b> (upgrade to a Strong Hit, refuse the loss &rarr; villain +1 box; not if it would knock you Out of Action). A <b>Miss on doubles</b> also advances the villain.
+    <b>EACH ROLL:</b> <b>Strong</b> fill 1 box &middot; <b>Weak</b> fill 1 box, &minus;1 Readiness &middot; <b>Miss</b> no box, &minus;2 Readiness <i>or</i> take the <b>Devil's Bargain</b> (upgrade to a Strong Hit, refuse the loss &rarr; antagonist +1 box; not if it would knock you Out of Action). A <b>Miss on doubles</b> also advances the antagonist.
     <br>
     <b>SIZE</b> (the same at any party size): Easy = <b>2</b> &middot; Medium = <b>3</b> &middot; Hard = <b>4</b> &middot; Very Hard = <b>5</b> (climaxes only) boxes &mdash; cross out the ones you don't use. The last box can be a <b>Showdown (&#9733;)</b>. Track fills &rarr; Challenge won &mdash; wipe it. A Challenge is <i>not</i> a Milestone. Fall back = a Recovery Scene (lose progress; recovery is <b>free</b>).
     <br>

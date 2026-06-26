@@ -162,7 +162,7 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 
 The wasteland leans on **Clever and Charming**, but every Stat earns its keep:
 
-- **Clever** — the spine: scavenge, jury-rig a fix, hotwire the dead truck, read the tracks, know which plant heals.
+- **Clever** — the backbone: scavenge, jury-rig a fix, hotwire the dead truck, read the tracks, know which plant heals.
 - **Charming** — barter for a fair trade, talk down a twitchy gunman, rally a frightened camp.
 - **Strong** — hold the line against raiders, haul the load, force the rusted door, intimidate a scavenger.
 - **Sneaky** — hide the camp, slip past a war-band, run a barter-bluff.

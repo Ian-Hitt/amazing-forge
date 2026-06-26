@@ -42,7 +42,7 @@ The two Story Arc sizes (Chapter 10) map onto it like this:
 
 Chain several of these together and you've got a **Season** (a long cold war with the system) or a whole **Series** (*free the colony from the corporation that owns its air*) — collections of Stories, not bigger tracks (Chapter 10).
 
-The **Antagonist Track** (always present, Chapter 10) is rarely a single villain — it's a *force with a logo*: the corporation, the rogue AI, the unforgiving physics of the place, the thing in the cargo hold. It advances when the heroes **strike a Devil's Bargain** (buy a win on a Miss and let the system gain — the main driver), when a **Miss comes up doubles,** or when a hero goes **Out of Action** (Chapters 9–10) — never when you fall back to regroup, which is free. Its odd boxes are the force's **Attacks** (narrate them — a deck venting, a firewall closing); its **last box** is the AI winning, the corp seizing control, the derelict claiming you, seeding the next Story Arc. The drama is the photo-finish — the system near control as you reach the exit. Give the force a face (a smug exec, a too-calm AI voice) so each Attack is concrete.
+The **Antagonist Track** (always present, Chapter 10) is rarely a single person — it's a *force with a logo*: the corporation, the rogue AI, the unforgiving physics of the place, the thing in the cargo hold. It advances when the heroes **strike a Devil's Bargain** (buy a win on a Miss and let the system gain — the main driver), when a **Miss comes up doubles,** or when a hero goes **Out of Action** (Chapters 9–10) — never when you fall back to regroup, which is free. Its odd boxes are the force's **Attacks** (narrate them — a deck venting, a firewall closing); its **last box** is the AI winning, the corp seizing control, the derelict claiming you, seeding the next Story Arc. The drama is the photo-finish — the system near control as you reach the exit. Give the force a face (a smug exec, a too-calm AI voice) so each Attack is concrete.
 
 ### Tempo
 
@@ -59,7 +59,7 @@ In practice:
 - **Lead with a "what if."** Pick one big idea — a thinking machine, a faster-than-light gate, a planet that dreams — and let the story explore its edges. The setting is an argument about that idea.
 - **Make the tech a character.** Gadgets, ships, and AIs should have quirks and limits. The duct-taped engine, the AI that's *technically* honest, the blaster that overheats — limits create drama.
 - **Like Adventure, Sci-Fi's bread-and-butter Challenges are fights and perilous journeys** (Chapter 8) — a dogfight or boarding action, a crossing of hostile space or a deadly world — and it borrows the rest of the toolkit when the story calls: a tense Stealth past security drones, an Investigation into a derelict. Boxes can be "reroute the power," "decode the signal," "survive the vacuum."
-- **The frontier has owners.** Someone profits from the tech and someone pays for it. Corporations, governments, and AIs make great forces (antagonists with a face — Chapter 10) without a single mustache-twirling villain. **Ask the Oracle** (Chapter 11) for what the unknown holds — *is the signal a warning or a lure?*
+- **The frontier has owners.** Someone profits from the tech and someone pays for it. Corporations, governments, and AIs make great forces (antagonists with a face — Chapter 10) without a single mustache-twirling bad guy. **Ask the Oracle** (Chapter 11) for what the unknown holds — *is the signal a warning or a lure?*
 - **Pace wonder and cost.** Open on the marvel, then let the price arrive. Sci-Fi runs on *"isn't that amazing"* followed a beat later by *"...oh no."*
 - **The trap to avoid:** technobabble as a solution. Don't let "I reverse the polarity" win a scene. Tie rolls to clear fiction the table can picture — *what* you do and *why* it might fail.
 
@@ -161,7 +161,7 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 
 ### The Stats in Sci-Fi
 
-Sci-Fi's signature competence — tech, science, hacking, repair, astrogation — nearly all runs on **Clever**, so it's the genre's spine. The other four still give every hero a lane:
+Sci-Fi's signature competence — tech, science, hacking, repair, astrogation — nearly all runs on **Clever**, so it's the genre's backbone. The other four still give every hero a lane:
 
 - **Clever** — hack the system, fix the reactor, run the science, plot the jump, read the alien readout.
 - **Quick** — fly the ship, dogfight, shoot straight, spacewalk, react when the hull breaches.

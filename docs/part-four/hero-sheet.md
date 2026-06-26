@@ -107,7 +107,7 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
   </div>
 
   <h3 class="af-break">Readiness</h3>
-  <p class="af-hint">Start at 9; it stays your max all game. Cross off as it drops — Weak Hit &minus;1, Miss &minus;2. At 0 you're Out of Action and one Asset breaks (and the villain advances). On a Miss you may take the <b>Devil's Bargain</b>: upgrade to a Strong Hit and refuse the loss &rarr; the villain advances one box (not if it would knock you Out of Action). <b>Mend</b> (any scene, self or ally): Strong +3 / Weak +2 / Miss &minus;1; capped at 9, never advances the villain, can't revive a downed hero. <b>Recovery Scene</b> (fall back to regroup): the party heals fully back to <b>9</b> — free, the villain gains nothing. <b>Downtime</b> (between Story Arcs) also heals everyone to full and restores Broken Assets.</p>
+  <p class="af-hint">Start at 9; it stays your max all game. Cross off as it drops — Weak Hit &minus;1, Miss &minus;2. At 0 you're Out of Action and one Asset breaks (and the antagonist advances). On a Miss you may take the <b>Devil's Bargain</b>: upgrade to a Strong Hit and refuse the loss &rarr; the antagonist advances one box (not if it would knock you Out of Action). <b>Mend</b> (any scene, self or ally): Strong +3 / Weak +2 / Miss &minus;1; capped at 9, never advances the antagonist, can't revive a downed hero. <b>Recovery Scene</b> (fall back to regroup): the party heals fully back to <b>9</b> — free, the antagonist gains nothing. <b>Downtime</b> (between Story Arcs) also heals everyone to full and restores Broken Assets.</p>
   <div class="af-track af-readiness">
     <span class="af-box">0</span>
     <span class="af-box">1</span>

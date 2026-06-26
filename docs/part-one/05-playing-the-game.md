@@ -57,20 +57,20 @@ Readiness only ever drops in the heat of the action — and there are two ways t
 - **Weak Hit (7–9):** recover **+2** Readiness.
 - **Miss (6 or less):** the patch goes wrong — **lose 1 Readiness** (and if you were very low, that can knock you Out of Action).
 
-A Mend is a gamble — it can backfire, and it costs you your turn (you didn't fill a box). So reach for it when you're hurt but steady, not when you're one bad roll from the floor. A Mend **never helps the villain.**
+A Mend is a gamble — it can backfire, and it costs you your turn (you didn't fill a box). So reach for it when you're hurt but steady, not when you're one bad roll from the floor. A Mend **never helps the antagonist.**
 
 **The Recovery Scene — fall back and regroup.** Whenever the heroes reach a safe lull — **usually between Challenges**, when the action pauses and they can catch their breath — they can take a **Recovery Scene.** This is the big, reliable recovery, and it's where the slower character beats live:
 
 - **The party recovers fully** — patch up, regroup, breathe. Everyone goes back up to **9 Readiness.**
-- **It's completely free.** No roll, no cost — and it **never advances the villain.** Falling back to catch your breath is always safe.
+- **It's completely free.** No roll, no cost — and it **never advances the antagonist.** Falling back to catch your breath is always safe.
 
 So a Recovery Scene always works and heals you all the way, with nothing owed for it — it's just the quiet, character beat between dangers. The only thing it costs is the camera: you step out of the action to regroup, so tables won't stop the movie to rest after every scratch, but it's always there when you're battered.
 
-You can also take a Recovery Scene to **bail out of a Challenge** that's grinding you down — pull back instead of finishing it. Same free heal to full, and you simply **give up that Challenge's progress** — wipe its track. That's your escape hatch when a fight isn't worth the cost; the villain gains nothing from it.
+You can also take a Recovery Scene to **bail out of a Challenge** that's grinding you down — pull back instead of finishing it. Same free heal to full, and you simply **give up that Challenge's progress** — wipe its track. That's your escape hatch when a fight isn't worth the cost; the antagonist gains nothing from it.
 
-**Quitting the Story Arc.** If things go really badly — the Antagonist Track fills, or the group simply decides this one isn't winnable — you **Quit the Story Arc.** The bad guys win this round, and that's okay: no penalty, just dust yourselves off. A lost Story Arc is a great springboard — ask *"how did the world change now that the villains got what they wanted?"* and let that shape your next adventure.
+**Quitting the Story Arc.** If things go really badly — the Antagonist Track fills, or the group simply decides this one isn't winnable — you **Quit the Story Arc.** The bad guys win this round, and that's okay: no penalty, just dust yourselves off. A lost Story Arc is a great springboard — ask *"how did the world change now that the antagonists got what they wanted?"* and let that shape your next adventure.
 
-**Out of Action.** If a hero hits **0 Readiness**, they're **Out of Action** — too hurt or worn down to act for now. They're never gone for good (heroes can't die). But going down **hands the villain a box on the Antagonist Track** — you fell, and the bad guys seized the moment. A quick Mend can't bring you back, either; the team has to **fall back and regroup** to get you on your feet (that part's free). So getting knocked out near the end of a Story Arc — when that box might be the villain's last — is how you *lose* it. That's why Readiness matters: it's what stands between you and a step toward defeat you didn't choose.
+**Out of Action.** If a hero hits **0 Readiness**, they're **Out of Action** — too hurt or worn down to act for now. They're never gone for good (heroes can't die). But going down **hands the antagonist a box on the Antagonist Track** — you fell, and the bad guys seized the moment. A quick Mend can't bring you back, either; the team has to **fall back and regroup** to get you on your feet (that part's free). So getting knocked out near the end of a Story Arc — when that box might be the antagonist's last — is how you *lose* it. That's why Readiness matters: it's what stands between you and a step toward defeat you didn't choose.
 
 > *Part Two covers the full picture: the Recovery Scene in depth, why going Out of Action is the real danger, and **Downtime** — the between-Stories rest.*
 

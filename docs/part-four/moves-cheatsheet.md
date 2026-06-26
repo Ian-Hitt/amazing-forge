@@ -95,13 +95,13 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 
       <div class="af-move"><span class="af-mname">Devil's Bargain.</span> On a <b>Miss</b> only: refuse the Readiness loss <i>and</i> upgrade the Miss to a <b>Strong Hit</b> &mdash; in exchange for the <b>Antagonist Track +1 box</b>. Always optional. <b>Not</b> allowed on a Miss that would knock you Out of Action.</div>
 
-      <div class="af-move"><span class="af-mname">Mend.</span> Any scene, on your turn (in a Challenge, instead of a Challenge Roll) &mdash; patch self or an ally. <b>Strong</b> +3 &middot; <b>Weak</b> +2 &middot; <b>Miss</b> &minus;1 Readiness. Capped at 9; never advances the villain; can't revive a downed hero.</div>
+      <div class="af-move"><span class="af-mname">Mend.</span> Any scene, on your turn (in a Challenge, instead of a Challenge Roll) &mdash; patch self or an ally. <b>Strong</b> +3 &middot; <b>Weak</b> +2 &middot; <b>Miss</b> &minus;1 Readiness. Capped at 9; never advances the antagonist; can't revive a downed hero.</div>
 
-      <div class="af-move"><span class="af-mname">Recovery Scene.</span> Fall back &amp; regroup at a lull: the party heals fully back to <b>9</b> &mdash; <b>free</b>, the villain gains nothing. Falling back is always safe.</div>
+      <div class="af-move"><span class="af-mname">Recovery Scene.</span> Fall back &amp; regroup at a lull: the party heals fully back to <b>9</b> &mdash; <b>free</b>, the antagonist gains nothing. Falling back is always safe.</div>
 
       <div class="af-move"><span class="af-mname">Downtime.</span> Between Story Arcs: everyone heals to full <b>9</b>, Broken Assets restored. Free.</div>
 
-      <div class="af-move"><span class="af-mname">Showdown.</span> The finishing move &mdash; a climactic last-box roll that ends a Challenge or a Story Arc. A <b>Miss</b> escalates the story instead of ending it &mdash; never an outright loss (still a Miss: doubles advance the villain, and the Devil's Bargain is on the table).</div>
+      <div class="af-move"><span class="af-mname">Showdown.</span> The finishing move &mdash; a climactic last-box roll that ends a Challenge or a Story Arc. A <b>Miss</b> escalates the story instead of ending it &mdash; never an outright loss (still a Miss: doubles advance the antagonist, and the Devil's Bargain is on the table).</div>
     </div>
 
     <div class="af-rightcol">
@@ -117,7 +117,7 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 
       <div class="af-move"><span class="af-mname">Start a Challenge.</span> When you <i>choose</i> to open a Challenge, one <b>2d6 + 1</b> roll (no Asset; generative) sets the jump &mdash; a one-time edge on the <b>first roll</b> only. <b>10+</b> +1 (you got the drop) &middot; <b>7&ndash;9</b> 0 (even) &middot; <b>6&minus;</b> &minus;1 (they beat you to it). Skip it if trouble is thrust on you.</div>
 
-      <div class="af-move"><span class="af-mname">Fall back.</span> Retreat from a Challenge (lose its progress) and take a Recovery Scene &mdash; the party heals fully back to 9, free. The villain gains nothing. The stay-alive valve.</div>
+      <div class="af-move"><span class="af-mname">Fall back.</span> Retreat from a Challenge (lose its progress) and take a Recovery Scene &mdash; the party heals fully back to 9, free. The antagonist gains nothing. The stay-alive valve.</div>
 
       <div class="af-move"><span class="af-mname">Quit the Story Arc.</span> The terminal fall back &mdash; give up the whole Story Arc. No penalty and no bonus; the loss seeds your next Story Arc.</div>
     </div>
@@ -128,7 +128,7 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 
       <div class="af-move"><span class="af-mname">Ask the Oracle.</span> Stuck on what's next? Name the next Milestone &rarr; do the obvious thing, or roll the <b>Story Spark</b> (d6 idea table) or <b>Ask the Dice</b> (1d6 yes/no).</div>
 
-      <div class="af-move"><span class="af-mname">Pay the Price.</span> Turn a Weak Hit or Miss into a fiction complication + the Readiness loss. The villain advances only via a <b>Devil's Bargain</b>, a <b>Miss on doubles</b>, or a hero going <b>Out of Action</b> &mdash; never from resting.</div>
+      <div class="af-move"><span class="af-mname">Pay the Price.</span> Turn a Weak Hit or Miss into a fiction complication + the Readiness loss. The antagonist advances only via a <b>Devil's Bargain</b>, a <b>Miss on doubles</b>, or a hero going <b>Out of Action</b> &mdash; never from resting.</div>
     </div>
     </div>
   </div>

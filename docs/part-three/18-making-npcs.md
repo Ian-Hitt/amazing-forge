@@ -69,4 +69,4 @@ Lean on **Ask the Oracle** ([Chapter 11](../part-two/11-ask-the-oracle.md)) for 
 
 Role, detail, want. That's a character the table will remember and a scene that's secretly ticking.
 
-> **When an NPC starts to matter, promote them.** Most NPCs never need more than a role and a detail. But when one keeps showing up — a recurring ally, the rival who becomes *the* rival — give them a real personality by laying one of the seven **archetypes** over them ([Chapter 16](16-cool-characters.md)). The role says what they do for the story; the archetype says how they *act* while they do it. That's also exactly how you build a villain — see Chapter 16.
+> **When an NPC starts to matter, promote them.** Most NPCs never need more than a role and a detail. But when one keeps showing up — a recurring ally, the rival who becomes *the* rival — give them a real personality by laying one of the seven **archetypes** over them ([Chapter 16](16-cool-characters.md)). The role says what they do for the story; the archetype says how they *act* while they do it. That's also exactly how you build an antagonist — see Chapter 16.

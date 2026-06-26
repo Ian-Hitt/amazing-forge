@@ -23,7 +23,7 @@ When you draw a track, its length is set by **difficulty alone** — not by how 
 | **Hard** | **4** |
 | **Very Hard** *(climaxes only)* | **5** |
 
-These hold at **any party size.** A small group fills a Medium in about two rolls each; a big group fills the same Medium in about one roll each — the scene runs roughly the same length either way, because a table naturally takes more turns per person when there are fewer of them. (That's also why the villain's clock needs no party-size rules — Chapter 10.) Bigger groups who want a meatier set-piece simply reach for **Hard** or **Very Hard.**
+These hold at **any party size.** A small group fills a Medium in about two rolls each; a big group fills the same Medium in about one roll each — the scene runs roughly the same length either way, because a table naturally takes more turns per person when there are fewer of them. (That's also why the antagonist's clock needs no party-size rules — Chapter 10.) Bigger groups who want a meatier set-piece simply reach for **Hard** or **Very Hard.**
 
 **Very Hard** is an optional top rung you reach for *only at a climax,* and only if you want to — a Showdown you want to feel truly daunting. It's the finale itself, not an extra hurdle before it, so the longer track just makes the big moment bigger. Don't use it for ordinary scenes; Easy through Hard cover everything else.
 
@@ -65,7 +65,7 @@ Each Challenge Roll resolves on the standard outcomes, with the result marked on
 | **Weak Hit (7–9)** | Fill **1 box**, and **Pay the Price** (−1 Readiness). |
 | **Miss (6 or less)** | Fill **no box**, and **Pay the Price** (−2 Readiness) — *or* take the **Devil's Bargain.** |
 
-A Weak Hit and a Miss cost Readiness — but on a Miss you have a choice: take the price, **or** strike a **Devil's Bargain** (Chapter 9), refusing the Readiness loss and filling the box as if you'd hit, in exchange for **advancing the Antagonist Track one box.** And watch the dice — a **Miss showing doubles advances the villain** whatever you choose (Chapter 7). Those are the roll-time ways the villain's clock moves; otherwise the **Antagonist Track** (Chapter 10) is untouched by a roll, and **falling back to regroup is free.**
+A Weak Hit and a Miss cost Readiness — but on a Miss you have a choice: take the price, **or** strike a **Devil's Bargain** (Chapter 9), refusing the Readiness loss and filling the box as if you'd hit, in exchange for **advancing the Antagonist Track one box.** And watch the dice — a **Miss showing doubles advances the antagonist** whatever you choose (Chapter 7). Those are the roll-time ways the antagonist's clock moves; otherwise the **Antagonist Track** (Chapter 10) is untouched by a roll, and **falling back to regroup is free.**
 
 As always, every roll turns back into fiction (Chapter 7, Narrate the Change): say what filling the box *looks* like, and on a Miss, what the price *looks* like.
 
@@ -86,11 +86,11 @@ Heroes are never trapped in a Challenge they're losing. At any point — usually
 
 - **You lose the Challenge's progress.** Wipe the track; the boxes filled so far don't count. In the fiction, the heroes pull back, take another route, live to fight another day.
 - **The whole party recovers** back to full Readiness — falling back always works (Chapter 9).
-- **The villain gains nothing.** Recovery is free: regrouping costs you the Challenge's progress and the time it takes, never a step on the Antagonist Track.
+- **The antagonist gains nothing.** Recovery is free: regrouping costs you the Challenge's progress and the time it takes, never a step on the Antagonist Track.
 
 Falling back is a **group decision** — in Co-op, made together; with a Guide, the Guide honors the table's call to retreat. It's the heroes' escape valve, and you can use it as often as the fiction allows — there's no penalty for catching your breath. The pressure on the heroes isn't *whether they rest;* it's the **Devil's Bargains** they take to win and the dice that turn against them (Chapter 10).
 
-So a Challenge Roll *can* move the villain — when a hero takes a **Devil's Bargain** or **Misses on doubles** — but pulling back to recover never does. (The terminal case, giving up the whole Story Arc, is **Quitting the Story Arc;** see Chapter 10.)
+So a Challenge Roll *can* move the antagonist — when a hero takes a **Devil's Bargain** or **Misses on doubles** — but pulling back to recover never does. (The terminal case, giving up the whole Story Arc, is **Quitting the Story Arc;** see Chapter 10.)
 
 ### The Showdown — the Finishing Move
 
@@ -100,9 +100,9 @@ Roll 2d6 + modifier for that last box:
 
 - **Strong Hit:** triumphant victory — you win and add a narrative bonus of your choice.
 - **Weak Hit:** you win, but it costs you — **Pay the Price** as normal.
-- **Miss:** you don't finish *yet*. **Add one extra box to the track** — you must fill it before you can attempt the Showdown again — and the situation escalates (a new danger, a fresh wrinkle). A missed Showdown is **delay and drama, never an outright loss** in itself. (It's still a Miss, though: doubles advance the villain, and you can take the Devil's Bargain to seize the finish — Chapters 7 and 9.)
+- **Miss:** you don't finish *yet*. **Add one extra box to the track** — you must fill it before you can attempt the Showdown again — and the situation escalates (a new danger, a fresh wrinkle). A missed Showdown is **delay and drama, never an outright loss** in itself. (It's still a Miss, though: doubles advance the antagonist, and you can take the Devil's Bargain to seize the finish — Chapters 7 and 9.)
 
-**A Story Arc's climax is always its Showdown.** When the heroes fill the last box of the Story Arc Track, that closing Milestone is the Showdown — the final confrontation, with the villain one step from winning (Chapter 10). A Miss here adds a Milestone and drops a climactic twist — the villain's real plan surfaces, a trusted ally turns, the prize is a fake — then the heroes push for the Showdown again.
+**A Story Arc's climax is always its Showdown.** When the heroes fill the last box of the Story Arc Track, that closing Milestone is the Showdown — the final confrontation, with the antagonist one step from winning (Chapter 10). A Miss here adds a Milestone and drops a climactic twist — the antagonist's real plan surfaces, a trusted ally turns, the prize is a fake — then the heroes push for the Showdown again.
 
 **For a Challenge, use a Showdown when the Scene is a true climax.** A routine Challenge can still end the instant its last box fills — no need to make every small obstacle a set-piece. Save the Showdown roll for the moments that have earned the extra tension.
 

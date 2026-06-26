@@ -149,7 +149,7 @@ Back to full at **9** apiece, the heroes press on to the throne cavern, where th
 
 Two boxes in, things get hairy: an alarm gong sounds (a Pay the Price), guards press in, and a couple of bad rolls bite. On one of them Snik **Misses — and the dice come up doubles.**
 
-> **▶ Rules note — the villain gains ground (Chapter 5).** A Miss showing **doubles** is one of the ways the King's track fills: the dice swung against the heroes, so **mark one box** on the Antagonist Track. (The fiction: while Snik's potion fizzles, the King's lieutenant rallies the line.) This is pressure nobody chose — the random kind that makes a long fight risky.
+> **▶ Rules note — the antagonist gains ground (Chapter 5).** A Miss showing **doubles** is one of the ways the King's track fills: the dice swung against the heroes, so **mark one box** on the Antagonist Track. (The fiction: while Snik's potion fizzles, the King's lieutenant rallies the line.) This is pressure nobody chose — the random kind that makes a long fight risky.
 
 ```
 ANTAGONIST TRACK:   [X]  [ ]  [ ]  [ ]  [ ]   ← the King takes his first box
@@ -182,7 +182,7 @@ The Sun Crystal goes back above the village square, light and warmth return, and
 
 ### What This Showed You
 
-In one short session, Maya and Leo used **every rule in Part One:** they built a world, made heroes, named a Story Arc and an antagonist, drew both tracks, made **Regular Rolls** and ran **Challenges**, hit a **Strong Hit, a Weak Hit, a Miss, and an Outstanding Success**, **Paid the Price** more than once, **fell back to regroup** (a free **Recovery Scene**), watched the villain gain a box off a **doubles-Miss**, weighed a **Devil's Bargain** and turned it down, risked a mid-fight **Mend**, and rode it out to **win the Story Arc** with the villain barely off the start line. That's the whole game.
+In one short session, Maya and Leo used **every rule in Part One:** they built a world, made heroes, named a Story Arc and an antagonist, drew both tracks, made **Regular Rolls** and ran **Challenges**, hit a **Strong Hit, a Weak Hit, a Miss, and an Outstanding Success**, **Paid the Price** more than once, **fell back to regroup** (a free **Recovery Scene**), watched the antagonist gain a box off a **doubles-Miss**, weighed a **Devil's Bargain** and turned it down, risked a mid-fight **Mend**, and rode it out to **win the Story Arc** with the antagonist barely off the start line. That's the whole game.
 
 Notice what they *didn't* do: look up a spell, calculate any enemy's hit points, or roll for initiative. They just described what their heroes did, rolled 2d6, and told the story together.
 

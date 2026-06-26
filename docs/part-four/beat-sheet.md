@@ -28,7 +28,7 @@ Read it as a menu, not a recipe. Hit the beats that serve tonight's story; skip 
 
 **8. Fun and Games.** The "promise of the premise" — the cool stuff you came for. The heist montage, the training, the monster-of-the-week wins. *At the table:* this is the heroes filling early Story Arc Track boxes. Strong Hits, momentum, the story going *their* way. Let them shine here.
 
-**9. Midpoint.** A false victory or a false defeat that raises the stakes and spins the story. *At the table:* a big swing on one of the tracks. A hard tick of the **Antagonist Track** right in the middle — a **Devil's Bargain** the heroes take to win the moment, or a Miss that comes up doubles, landing an **Attack** box: the villain reveals their real plan — or a Story Arc box that turns out to cost more than expected. The mood shifts from "we've got this" to "oh, this is bigger than we thought."
+**9. Midpoint.** A false victory or a false defeat that raises the stakes and spins the story. *At the table:* a big swing on one of the tracks. A hard tick of the **Antagonist Track** right in the middle — a **Devil's Bargain** the heroes take to win the moment, or a Miss that comes up doubles, landing an **Attack** box: the antagonist reveals their real plan — or a Story Arc box that turns out to cost more than expected. The mood shifts from "we've got this" to "oh, this is bigger than we thought."
 
 **10. Bad Guys Close In.** The pressure mounts. The walls come in. Things get worse. *At the table:* the **Antagonist Track** climbing — **Attacks** playing out as the heroes' bargains and the dice feed it, complications from Pay the Price compounding, Readiness draining faster than it refills. The opposition line is now climbing fast.
 

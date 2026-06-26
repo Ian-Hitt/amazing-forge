@@ -789,7 +789,7 @@
     });
 
     box.appendChild(el("h2", "sec", "Readiness"));
-    box.appendChild(el("p", "hint", "Starts at 9 (your max). Tap to set where you are now. A Recovery Scene heals fully to 9 — free; the villain never advances."));
+    box.appendChild(el("p", "hint", "Starts at 9 (your max). Tap to set where you are now. A Recovery Scene heals fully to 9 — free; the antagonist never advances."));
     box.appendChild(trackRow(null, "rdy", 9, h.rdy, function (n) { h.rdy = n; persist(); render(); }, { start: 9, labels: true }));
     box.appendChild(readout("Readiness: ", h.rdy, " / 9"));
 
@@ -804,7 +804,7 @@
     box.appendChild(ta);
 
     var ref = el("p", "ref");
-    ref.innerHTML = "<b>The Roll:</b> 2d6, +1 if a fitting Stat · +1 if a fitting Asset (+2 both, +0 neither). <b>10+</b> Strong · <b>7–9</b> Weak · <b>6−</b> Miss. Doubles upgrade a Hit; a Miss on doubles advances the villain. On a Miss you may take a <b>Devil's Bargain</b> — forgo the damage, fill the box, +1 villain.";
+    ref.innerHTML = "<b>The Roll:</b> 2d6, +1 if a fitting Stat · +1 if a fitting Asset (+2 both, +0 neither). <b>10+</b> Strong · <b>7–9</b> Weak · <b>6−</b> Miss. Doubles upgrade a Hit; a Miss on doubles advances the antagonist. On a Miss you may take a <b>Devil's Bargain</b> — forgo the damage, fill the box, +1 antagonist.";
     box.appendChild(ref);
     return box;
   }
@@ -812,7 +812,7 @@
   // ============================================================ STORY ARCS
   function renderArcs(root) {
     var head = el("div"); head.style.cssText = "display:flex;justify-content:space-between;align-items:center;gap:.5rem;flex-wrap:wrap;margin-bottom:.3rem;";
-    head.appendChild(el("div", "hint", "Fill the Story Arc Track to reach the Showdown; you lose if the Antagonist Track fills first (its last box is the villain's victory)."));
+    head.appendChild(el("div", "hint", "Fill the Story Arc Track to reach the Showdown; you lose if the Antagonist Track fills first (its last box is the antagonist's victory)."));
     var add = el("button", "sm", "+ Add Story Arc"); add.onclick = function () { var a = blankArc(); camp.arcs.push(a); ui.openArc = a.id; persist(); render(); };
     head.appendChild(add); root.appendChild(head);
 
@@ -823,7 +823,7 @@
       var card = el("div", "card");
       var ch = el("div", "card-head");
       var title = el("div", "title");
-      title.innerHTML = esc(a.goal || "Untitled Story Arc") + ' <span class="dim">— ' + sz.label + " · " + a.arc + "/" + sz.ms + " ▸ villain " + a.anta + "/" + sz.anta + "</span>";
+      title.innerHTML = esc(a.goal || "Untitled Story Arc") + ' <span class="dim">— ' + sz.label + " · " + a.arc + "/" + sz.ms + " ▸ antagonist " + a.anta + "/" + sz.anta + "</span>";
       var actions = el("div", "actions");
       var del = delBtn(); del.title = "Delete Story Arc"; del.onclick = function () { confirmDel("Delete this Story Arc?", function () { camp.arcs = camp.arcs.filter(function (x) { return x !== a; }); persist(); render(); }); };
       actions.appendChild(del);
@@ -863,7 +863,7 @@
     r2.appendChild(trackRow(null, "anta", sz.anta, a.anta, function (n) { a.anta = n; persist(); render(); }, { labels: true, attacks: true, climax: sz.anta }));
     tr.appendChild(r2);
     box.appendChild(tr);
-    box.appendChild(el("p", "hint", "A villain box fills on a Devil's Bargain, a Miss showing doubles, or a hero going Out of Action — never on a Recovery Scene (recovery is free). Odd boxes are the villain's Attacks; the last box is their victory."));
+    box.appendChild(el("p", "hint", "An antagonist box fills on a Devil's Bargain, a Miss showing doubles, or a hero going Out of Action — never on a Recovery Scene (recovery is free). Odd boxes are the antagonist's Attacks; the last box is their victory."));
 
     var row = el("div", "row");
     row.appendChild(labeled("Antagonist — who / what", textField(a, "antaName", "The Shadow Baron")));

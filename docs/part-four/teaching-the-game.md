@@ -19,7 +19,7 @@ About two minutes, in this order. That's everything anyone needs to make their f
 
 > **Don't explain anything else yet.** No tracks, no recovery, no falling back, no Oracle. Open in the middle of the action — a door already breaking down, a chase already on — and ask *"what do you do?"* The first roll teaches more than any paragraph.
 
-**One quiet bit of setup:** before you start, name the **Goal**, three **Milestones**, and draw the **Story Arc Track** (the heroes' progress — one box per Milestone) with a shorter **Antagonist Track** beneath it (the bad guys'). You don't have to explain the Antagonist Track's rules now. Just say *"that bottom row is the villain's progress — I'll explain how it fills if it ever comes up,"* and move on.
+**One quiet bit of setup:** before you start, name the **Goal**, three **Milestones**, and draw the **Story Arc Track** (the heroes' progress — one box per Milestone) with a shorter **Antagonist Track** beneath it (the bad guys'). You don't have to explain the Antagonist Track's rules now. Just say *"that bottom row is the antagonist's progress — I'll explain how it fills if it ever comes up,"* and move on.
 
 ---
 
@@ -34,9 +34,9 @@ Keep this sheet next to you. Each rule below has a **trigger** — the moment in
 | A moment feels **big and dangerous** — a real set-piece | **Challenges & tracks** | *"This one's a big scene. Let's draw a few boxes and fill them together, one roll at a time, until it's done."* |
 | A player wants to **help** instead of act | **Aid Your Ally** | *"Spend your turn helping them — roll, and on a hit your friend gets a bonus on theirs."* |
 | Someone asks *"I'm low — **how do I get Readiness back?**"* | **Mend** (recovery) | *"On your turn you can patch up instead of pushing the scene — roll to Mend, hit and you get a little back. But a miss costs you a point, so don't gamble it when you're nearly out."* |
-| The group is **getting hammered** and wonders if they can bail | **Fall back** (the **Recovery Scene**) | *"You can fall back and regroup — lose this scene's progress, but everyone heals all the way back to 9. It's free; resting never helps the villain. What hands them ground is the gambles you take, the dice, and anyone going down."* |
-| A hero **Misses** and wants the win anyway | **Devil's Bargain** & the **Antagonist Track** | *"You can take the win — turn that Miss into a clean success and dodge the cost — but the villain marks a box on their track. If it ever fills, they win. Worth it?"* |
-| A hero hits **0 Readiness** | **Out of Action** & a **Broken Asset** | *"You're down — and going down hands the villain a box. You're out of this scene until the team falls back to get you up (that regroup itself is free). And one of your Assets breaks until you get a proper rest between Stories."* |
+| The group is **getting hammered** and wonders if they can bail | **Fall back** (the **Recovery Scene**) | *"You can fall back and regroup — lose this scene's progress, but everyone heals all the way back to 9. It's free; resting never helps the antagonist. What hands them ground is the gambles you take, the dice, and anyone going down."* |
+| A hero **Misses** and wants the win anyway | **Devil's Bargain** & the **Antagonist Track** | *"You can take the win — turn that Miss into a clean success and dodge the cost — but the antagonist marks a box on their track. If it ever fills, they win. Worth it?"* |
+| A hero hits **0 Readiness** | **Out of Action** & a **Broken Asset** | *"You're down — and going down hands the antagonist a box. You're out of this scene until the team falls back to get you up (that regroup itself is free). And one of your Assets breaks until you get a proper rest between Stories."* |
 | The table goes quiet — *"**what happens now?**"* | **Ask the Oracle** | *"When none of us knows what's next: name what your hero's trying to do, then do the obvious thing — or we roll the dice and let them surprise us."* |
 | You reach the **final, climactic box** | **Showdown** | *"This last one's the big finish — one charged roll ends the Challenge or the whole Story Arc."* |
 | They **finish the Story Arc**, or rest between Stories | **Downtime** | *"You did it. Take a rest between Stories — everyone's back to full, and any broken Assets come back."* |

@@ -11,37 +11,37 @@ The original Miss+Doubles writeup (the lineage that led here) is retained below 
 
 The Antagonist Track advances from **three triggers** — two player-facing, one structural — and
 **Recovery is free** (no surge). Readiness is decoupled from loss; the only loss vector is the
-villain filling the track before the heroes finish their last Milestone.
+antagonist filling the track before the heroes finish their last Milestone.
 
 ### The three triggers
 
 1. **Devil's Bargain (player choice).** On a **Miss**, a hero *may* forgo the Readiness damage
    **and** upgrade the result to a **Strong Hit**, in exchange for advancing the Antagonist Track
-   **+1.** A bargain pushes *both* clocks: it fills the hero's challenge box *and* feeds the villain
-   — a live "am I closer to my finish than the villain is to theirs?" gamble. It is always optional
-   ("you never have to use it"). It is the engine, and it is the in-fiction source of the villain's
+   **+1.** A bargain pushes *both* clocks: it fills the hero's challenge box *and* feeds the antagonist
+   — a live "am I closer to my finish than the antagonist is to theirs?" gamble. It is always optional
+   ("you never have to use it"). It is the engine, and it is the in-fiction source of the antagonist's
    story beats, so the mechanic *is* in service of the story.
    - **Can't bargain the knockout roll.** You may **not** bargain a Miss whose damage would knock
      you **Out of Action.** The bargain keeps you fighting; it can't save you from defeat. This makes
      OoA a genuine stake and pushes players to bargain *preemptively* around the danger zone (~4
      Readiness) to avoid being cornered — so cautious play feeds the clock too.
-2. **Matches (random).** A Miss showing **doubles** advances the villain **+1** regardless (doubles
+2. **Matches (random).** A Miss showing **doubles** advances the antagonist **+1** regardless (doubles
    on a *Hit* stays Oracle's Blessing). ~5.7%/roll. This is the **disciplinarian**: it makes riding
    to the brink risky, so rational players keep a buffer. A doubles-Miss you *also* bargain = **+2**
    (the scary case — ruling: they stack).
-3. **Out of Action (structural).** A hero hitting **0** advances the villain **+1** (on top of
+3. **Out of Action (structural).** A hero hitting **0** advances the antagonist **+1** (on top of
    breaking an Asset). Ties the clock lightly back to the true catastrophe. Numerically minor under
-   free recovery, but it's what makes OoA *matter to the villain*.
+   free recovery, but it's what makes OoA *matter to the antagonist*.
 
 ### Track sizes & narration (decoupled)
 
-The **tick** (frequent, bursty) is decoupled from the **narrated villain beat** (paced) — so
-back-to-back ticks never cram multiple villain scenes into one fight. Narrate the villain getting
+The **tick** (frequent, bursty) is decoupled from the **narrated antagonist beat** (paced) — so
+back-to-back ticks never cram multiple antagonist scenes into one fight. Narrate the antagonist getting
 ahead only on the **odd "attack" boxes**; even boxes are pure pressure (a visible countdown).
 
-- **Episode = 5 boxes.** Attacks on **1 · 3 · 5** → **3 villain beats.** Box 5 = climax / villain win.
-- **Movie = 9 boxes.** Attacks on **1 · 3 · 5 · 7 · 9** → **5 villain beats.** Box 9 = climax / win.
-- The track **must be odd** so the top box is itself an attack (the villain's winning blow *is* their
+- **Episode = 5 boxes.** Attacks on **1 · 3 · 5** → **3 antagonist beats.** Box 5 = climax / antagonist win.
+- **Movie = 9 boxes.** Attacks on **1 · 3 · 5 · 7 · 9** → **5 antagonist beats.** Box 9 = climax / win.
+- The track **must be odd** so the top box is itself an attack (the antagonist's winning blow *is* their
   final attack). That's why Movie is 9, not 10. **9 is the max for a Movie.**
 
 ### Why this model
@@ -54,7 +54,7 @@ ahead only on the **odd "attack" boxes**; even boxes are pure pressure (a visibl
   It is technically a second resource to balance, which is the point of calling it a devil's bargain.
 - **Recovery is free.** Readiness becomes a pacing signal ("battered → fall back") and a resource you
   weigh against the clock — no longer a loss vector by itself.
-- **Loss is a tail, not a target.** The dramatic deliverable is the **photo-finish** (villain one box
+- **Loss is a tail, not a target.** The dramatic deliverable is the **photo-finish** (antagonist one box
   from winning); loss is the rare *earned* overrun. We tune for photo-finish frequency and let loss
   fall where it may. Earlier loss-rate targeting is abandoned — the goal is the tensest story, not a
   win/lose ratio.
@@ -63,7 +63,7 @@ ahead only on the **odd "attack" boxes**; even boxes are pure pressure (a visibl
 
 `sim_devils.py` / `sim_devils2.py`: rule = can't-bargain-knockout + OoA ticks; recovery at Readiness
 ~4; **Option B fixed-difficulty sizing** (Easy 2 / Medium 3 / Hard 4 / Very Hard 5, party-independent).
-Photo-finish % = villain ends one box from winning; loss % = villain overruns. Three table
+Photo-finish % = antagonist ends one box from winning; loss % = antagonist overruns. Three table
 temperaments (cautious / realistic / reckless bargaining):
 
 | Story | cautious | realistic | reckless |
@@ -77,13 +77,13 @@ temperaments (cautious / realistic / reckless bargaining):
   more real peril at its climax. Losses are uncommon and always self-inflicted by pushing the bargain.
 - **The photo-finish is player-authored:** a pushing player rides to one-box-away *by design*; track
   length sets the *stakes* of pushing, not its frequency. Rational players self-regulate (keep a
-  buffer) because matches/OoA can tip a brink-sitting villain over.
+  buffer) because matches/OoA can tip a brink-sitting antagonist over.
 
 ### Open / to propagate
 
 - Same big propagation surface as the original (Ch.8–10 + all 7 genre kits + Three-Act / Beat Sheet
   / Story Engine all reference the old recovery-surge model and Option-A party-scaled difficulty).
-- Reframe the "reserved climax box" language — here the top *odd* box is the villain's final attack.
+- Reframe the "reserved climax box" language — here the top *odd* box is the antagonist's final attack.
 - Sequence against the un-propagated 2026-06-22 dice rework (+0/+1/+2, retired Attribute) so the
   chapter rewrites land together.
 - Audit Boons/Mend/Downtime for anything that keyed off recovery-surge.
@@ -118,33 +118,33 @@ and forces a free Recovery.
 - **Automated & player-indirect** — can't be gamed to zero (the property we wanted from the recovery tie).
 - **Not resource management** — the property we wanted to *lose*.
 - **Faithful to Monster of the Week** (the inspiration): a Miss is when the GM advances the countdown.
-- **Story-serving**: a Miss becomes *"you stumbled and the villain pounced,"* not "−2 Readiness."
+- **Story-serving**: a Miss becomes *"you stumbled and the antagonist pounced,"* not "−2 Readiness."
 - **Calculable**: P(Miss ∧ doubles) = **5.74% per roll (~1 in 17)**.
 - **Loseable in ALL play styles** — light play still ~5% (the recovery model collapsed to ~0%).
-- **Doubles flip from pure-good to double-edged**: Oracle's Blessing on a hit, villain Surge on a
+- **Doubles flip from pure-good to double-edged**: Oracle's Blessing on a hit, antagonist Surge on a
   Miss. *"The dice swing hard, for good or ill."*
 
 ## The dice rule
 - Roll **2d6 + mod** (+0/+1/+2). **10+ Strong, 7–9 Weak, 6− Miss.**
 - **Doubles on a HIT** → Oracle's Blessing (upgrade a tier), as now.
-- **Doubles on a MISS** → stays a Miss **and the villain advances one box** (no upgrade).
+- **Doubles on a MISS** → stays a Miss **and the antagonist advances one box** (no upgrade).
   The Miss still costs Readiness.
 
-## Readiness (same job, decoupled from the villain)
+## Readiness (same job, decoupled from the antagonist)
 - Starts **9**. Weak −1, Miss −2.
 - **Recovery Scene**: fall back, heal to 9, **free** (no Surge). Its job is to push you into
   regroup / character beats — narrative pacing, not a resource.
 - **Out of Action** (0 Readiness): forces a free Recovery **and breaks an Asset** (lost until
   Downtime). This is the durable sting that keeps Readiness meaningful.
 - **Emergent coupling (free flavor):** broken Asset → fewer +2s → more Misses → more
-  Miss+doubles → villain creeps faster. Soft, fiction-first; mechanically minor (~0.2 pts).
+  Miss+doubles → antagonist creeps faster. Soft, fiction-first; mechanically minor (~0.2 pts).
 
 ## Clock sizes — grounded in the doubles math
-Villain advances ≈ 5.74% × (rolls in the story):
+Antagonist advances ≈ 5.74% × (rolls in the story):
 - **Episode** (~16–25 rolls): ~**1** advance.
 - **Movie** (~32–51 rolls): ~**2.4** advances.
 
-Set the clock ~2× the typical advance so the villain usually ends *one short* (the near-miss /
+Set the clock ~2× the typical advance so the antagonist usually ends *one short* (the near-miss /
 photo-finish) and overrunning is the tail. Sim results (party 3, broken-Asset coupling live):
 
 | Clock | balanced loss | near-miss | light | action |
@@ -193,9 +193,9 @@ track, no 12-box hero sheet.
   *near-miss*; the structure delivers this robustly, so the math is a **sanity check, not a dial.**
 
 ## Reserved climax box — needs reframing
-With no voluntary control over the fill, "villain one step away" emerges *statistically* rather
+With no voluntary control over the fill, "antagonist one step away" emerges *statistically* rather
 than being mechanically guaranteed (the old reserve worked because voluntary recovery stopped
-one short). Top box = the Showdown; the villain overrunning into it before you reach your last
+one short). Top box = the Showdown; the antagonist overrunning into it before you reach your last
 Milestone = loss. Decide whether to keep "reserved" language or simplify.
 
 ## Open questions for tomorrow
