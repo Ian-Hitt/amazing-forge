@@ -74,20 +74,20 @@ Three named moves bracket the action:
 
 - **Aid Your Ally** — spend your roll to help a teammate instead: **Strong** gives them +2 · **Weak** gives them +1 and you −1 · **Miss** gives nothing and you −2.
 - **Start a Challenge** *(when you choose to open one):* roll **2d6 + 1** for a one-time nudge to the first roll — **10+** +1 · **7–9** 0 · **6−** −1.
-- **Fall back** — bail out of a Challenge: lose its progress and take a **Recovery Scene** (the party heals up; recovery is **free** — the antagonist gains nothing).
+- **Fall back** — bail out of a Challenge: lose its progress and take a **Recovery Scene** (the party heals up). Falling back is always safe.
 
 **Showdown** *(the finishing move on a last box — a Challenge's, or a Story Arc's climax):* one charged roll — **Strong** win plus a bonus · **Weak** win but Pay the Price · **Miss** add a box and escalate (never an outright loss; it's still a Miss, so doubles advance the antagonist and the Devil's Bargain is on the table).
 
 ## Readiness, Recovery & the Antagonist Track
 
-Readiness, how it comes back, and the antagonist's clock are one connected system. Readiness isn't a survival meter (heroes can't die) — it's **ammunition spent against the antagonist's clock.** Recovery is **free**, because that clock is driven by the choices you make under fire, not by whether you rest.
+Readiness, how it comes back, and the antagonist's clock are one connected system. Readiness isn't a survival meter — **heroes can't die** — it's the energy you spend pushing through trouble, and it refills whenever the action lets up. The antagonist's clock is the real threat; it advances only through the choices laid out below.
 
 **Paying the Price.** On a Weak Hit you lose **1** Readiness, on a Miss you lose **2** — always. Narrate the most fitting complication, then dock the Readiness. (Stuck for one? Roll a d10 for a prompt.) Two things can happen around a Miss:
 
 - **Devil's Bargain** *(on a Miss, optional):* refuse the Readiness loss **and** turn the Miss into a **Strong Hit** — in exchange for **advancing the Antagonist Track one box.** Not allowed on a Miss whose price would knock you Out of Action; you can't buy your way out of going down.
 - **Out of Action** at 0 Readiness: you can't act, and **one Asset breaks** (no +1 from it until Downtime). Always recoverable — heroes can't die.
 
-**Recovery — three moves, all free** (none of them ever advances the antagonist):
+**Recovery — three ways Readiness comes back:**
 
 - **Mend** — *any scene, on your turn:* patch yourself or an ally. **Strong +3 / Weak +2 / Miss −1.** No usage cap; can't revive an Out-of-Action hero; capped at 9.
 - **Recovery Scene** — *fall back and regroup at a safe lull:* the whole party heals **fully back to 9.** No roll, fully reliable. Falling back is always safe.
@@ -99,7 +99,7 @@ Readiness, how it comes back, and the antagonist's clock are one connected syste
 2. A **Miss comes up doubles** — doubles upgrade a *Hit*, but on a Miss they feed the antagonist instead.
 3. A hero goes **Out of Action.**
 
-Nothing else moves it — recovery is free, and neither Mend nor a plain Pay the Price touches it. Its **odd boxes are Attacks** (stop and play out the antagonist gaining ground), and its **last box is the antagonist's victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. Going Out of Action near the end can fill that last box and **lose the Story before the Showdown** — which is exactly why falling back to recover (free!) is the smart play when you're battered.
+Nothing else moves it — not paying a price, not recovering. Its **odd boxes are Attacks** (stop and play out the antagonist gaining ground), and its **last box is the antagonist's victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. Going Out of Action near the end can fill that last box and **lose the Story before the Showdown** — which is exactly why falling back to recover is the smart play when you're battered.
 
 ## Ask the Oracle
 
