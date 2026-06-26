@@ -37,7 +37,7 @@ When the group decides a moment is big enough to be a Challenge, here's how to r
 
 That's the whole loop: describe, roll, mark a box (or pay the price), pass the dice, repeat until the track is full.
 
-> *Part Two has the complete Challenge rules: scaling difficulty up, the full turn order, turning a final box into a dramatic last-roll Showdown, and tips for different kinds of scenes. For your first game, the loop above is all you need.*
+> *Part Two has the complete Challenge rules: scaling difficulty up, the full turn order, and tips for different kinds of scenes. For your first game, the loop above is all you need.*
 
 ### What About Combat?
 

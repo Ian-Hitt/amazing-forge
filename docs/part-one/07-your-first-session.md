@@ -163,18 +163,18 @@ After another exchange both heroes are down around 3 Readiness with one box left
 
 **Leo:** "Snik ducks behind a pillar and gulps an emergency tonic instead of fighting." Snik takes a **Mend** — a quick patch, not a retreat.
 
-> **▶ Rules note — Mend (Chapter 5).** Mend is the quick gamble — patch up any time there's a beat; here, mid-Challenge, it costs Snik his turn instead of pushing the fight. It **never** advances the King. But it's risky — a Miss would *cost* a point. 🎲 Leo rolls a **Weak Hit: +2** → Snik 3 → **5.** Safer footing, no box filled.
+> **▶ Rules note — Mend (Chapter 5).** Mend is the quick gamble — patch up any time there's a beat; here, mid-Challenge, it costs Snik his turn instead of pushing the fight. But it's risky — a Miss would *cost* a point. 🎲 Leo rolls a **Weak Hit: +2** → Snik 3 → **5.** Safer footing, no box filled.
 
-**Maya:** "Now — one more box. Brave makes a desperate play with Cinder." 🎲 A **Strong Hit** — she fills the **final box.** That's the **Showdown:** they snatch the Crystal and ride out through a collapsing tunnel into the daylight, the King's track stalled at one.
+**Maya:** "Now — one more box. Brave makes a desperate play with Cinder." 🎲 A **Strong Hit** — she fills the **final box** and completes the last Milestone: they snatch the Crystal and ride out through a collapsing tunnel into the daylight, the King's track stalled at one.
 
 **Milestone 3 complete — the Story Arc is won.**
 
 ```
-STORY ARC TRACK:    [X]  [X]  [X]   ← Story Arc won at the Showdown!
+STORY ARC TRACK:    [X]  [X]  [X]   ← last Milestone complete — Story Arc won!
 ANTAGONIST TRACK:   [X]  [ ]  [ ]  [ ]  [ ]   ← the King only ever got one box
 ```
 
-> **▶ Rules note — finishing the Story Arc (Chapter 5).** Reaching the last Milestone is the climax — the Showdown. The Goblin King climbed only one box — a clean run — but a single doubles-Miss showed how he gains ground without anyone choosing it. Finishing is **Downtime:** everyone resets to full Readiness, ready for the next Story Arc.
+> **▶ Rules note — finishing the Story Arc (Chapter 5).** Reaching the last Milestone is the climax and the win. The Goblin King climbed only one box — a clean run — but a single doubles-Miss showed how he gains ground without anyone choosing it. Finishing is **Downtime:** everyone resets to full Readiness, ready for the next Story Arc.
 
 The Sun Crystal goes back above the village square, light and warmth return, and the elders hail two unlikely heroes — a knight on a dragon and a grumpy goblin who came home just long enough to save the day.
 

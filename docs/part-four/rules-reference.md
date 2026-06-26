@@ -52,7 +52,7 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 *An **Attack** is a beat you stop and play out when that box fills; the last box is always the antagonist's victory.* **Season** and **Series** are *collections* of Story Arcs, not lengths — run long by **chaining** Stories (plan the big arc up front, or let it emerge from play — either works).
 
 - A **Milestone** ≈ 40 minutes of play (a few Scenes, 1–2 of them Challenges); mark a box on significant headway.
-- **Win** by reaching the last Milestone and winning the **Showdown** (below), then take **Downtime.** **Lose** if the Antagonist Track fills, or if you **Quit the Story Arc** (give it up — no penalty; the loss seeds the next Story).
+- **Win** by completing the last Milestone — filling the Story Arc Track — then take **Downtime.** (The closing Milestone is usually a climactic **Hard** or **Very Hard** Challenge; finishing its track wins the Story.) **Lose** if the Antagonist Track fills, or if you **Quit the Story Arc** (give it up — no penalty; the loss seeds the next Story).
 - **B-plots & character arcs are threads:** a light progress track with **no Antagonist Track / no lose-clock**; they resolve into the Story Arc's climax.
 - **Start a Story Arc** *(the opening roll):* when one begins, roll **2d6 + 1** (generative — you can't fail it) to set the opening — **10+** clear purpose · **7–9** one complication already in play · **6−** trouble finds you first.
 
@@ -76,7 +76,7 @@ Three named moves bracket the action:
 - **Start a Challenge** *(when you choose to open one):* roll **2d6 + 1** for a one-time nudge to the first roll — **10+** +1 · **7–9** 0 · **6−** −1.
 - **Fall back** — bail out of a Challenge: lose its progress and take a **Recovery Scene** (the party heals up). Falling back is always safe.
 
-**Showdown** *(the finishing move on a last box — a Challenge's, or a Story Arc's climax):* one charged roll — **Strong** win plus a bonus · **Weak** win but Pay the Price · **Miss** add a box and escalate (never an outright loss; it's still a Miss, so doubles advance the antagonist and the Devil's Bargain is on the table).
+The **climax** is just the final, often **Very Hard** Challenge — there's no special finishing move. Filling its last box (or the Story Arc Track's) wins the scene or the Story like any other.
 
 ## Readiness, Recovery & the Antagonist Track
 
@@ -99,7 +99,7 @@ Readiness, how it comes back, and the antagonist's clock are one connected syste
 2. A **Miss comes up doubles** — doubles upgrade a *Hit*, but on a Miss they feed the antagonist instead.
 3. A hero goes **Out of Action.**
 
-Nothing else moves it — not paying a price, not recovering. Its **odd boxes are Attacks** (stop and play out the antagonist gaining ground), and its **last box is the antagonist's victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. Going Out of Action near the end can fill that last box and **lose the Story before the Showdown** — which is exactly why falling back to recover is the smart play when you're battered.
+Nothing else moves it — not paying a price, not recovering. Its **odd boxes are Attacks** (stop and play out the antagonist gaining ground), and its **last box is the antagonist's victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. Going Out of Action near the end can fill that last box and **lose the Story before you finish your final Milestone** — which is exactly why falling back to recover is the smart play when you're battered.
 
 ## Ask the Oracle
 

@@ -83,7 +83,7 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
   <p class="af-hint">B-plots / character arcs running beside this Story Arc &mdash; they have their own progress but <em>no</em> antagonist track. (Chain Stories like this one into a Season or Series &mdash; see Ch.10.)</p>
 
   <h3>The Tracks</h3>
-  <p class="af-hint">Heroes win by filling the Story Arc Track and winning the Showdown; they lose if the Antagonist Track fills first. The antagonist's <strong>odd boxes (&#9650;) are Attacks</strong> &mdash; stop and play out the bad guys gaining ground &mdash; and the <strong>last box is their victory</strong>.</p>
+  <p class="af-hint">Heroes win by filling the Story Arc Track (completing the last Milestone); they lose if the Antagonist Track fills first. The antagonist's <strong>odd boxes (&#9650;) are Attacks</strong> &mdash; stop and play out the bad guys gaining ground &mdash; and the <strong>last box is their victory</strong>.</p>
   <div class="af-trackgrid">
     <span class="af-rowlabel">Story Arc</span>
     <div class="af-row af-quest">
@@ -125,5 +125,5 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
   <h3>Notes</h3>
   <div class="af-notes"></div>
 
-  <p class="af-ref"><b>Win:</b> reach the climax (Story Arc Track full) and win the Showdown &mdash; then Downtime resets the party to full Readiness. &nbsp; <b>Lose:</b> the Antagonist Track fills (a hero going Out of Action near the end can fill its last box), or you Quit the Story Arc &mdash; no penalty; ask "how did the world change?" and seed the next Story Arc. &nbsp; <b>Antagonist advances</b> one box three ways: a <b>Devil's Bargain</b>, a <b>Miss on doubles</b>, or a hero going <b>Out of Action</b> &mdash; and no other way.</p>
+  <p class="af-ref"><b>Win:</b> complete the last Milestone (Story Arc Track full) &mdash; then Downtime resets the party to full Readiness. &nbsp; <b>Lose:</b> the Antagonist Track fills (a hero going Out of Action near the end can fill its last box), or you Quit the Story Arc &mdash; no penalty; ask "how did the world change?" and seed the next Story Arc. &nbsp; <b>Antagonist advances</b> one box three ways: a <b>Devil's Bargain</b>, a <b>Miss on doubles</b>, or a hero going <b>Out of Action</b> &mdash; and no other way.</p>
 </div>

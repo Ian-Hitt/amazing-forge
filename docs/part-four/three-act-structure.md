@@ -28,7 +28,7 @@ This is the long middle, and it has two halves. **First** comes the fun — the 
 
 The heroes find their footing, face the thing they've been avoiding, and throw everything into the final confrontation. Then it's over — and we get one last look at how they've changed. This act is short and sharp; it doesn't linger except for the very last breath.
 
-*At the table:* stand the heroes back up (a **Recovery Scene** or **Downtime** gives them the reason), then make the last box a **Showdown** — one charged roll for the climax. When it's won, spend a single closing scene on the world remade. That final image is what turns "we won" into "the end."
+*At the table:* stand the heroes back up (a **Recovery Scene** or **Downtime** gives them the reason), then play the last Milestone as a **climactic Challenge** — reach for **Very Hard** to make it land. Filling its last box wins the Story. When it's won, spend a single closing scene on the world remade. That final image is what turns "we won" into "the end."
 
 ---
 

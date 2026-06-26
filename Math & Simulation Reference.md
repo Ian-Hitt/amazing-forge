@@ -173,7 +173,7 @@ is now a photo-finish tail, not an attrition curve.)*
 > ends *one step from winning* (the photo-finish).
 
 **The model.** One Story Arc = one spine with two tracks. The **Story Arc Track** is progress (1 box /
-Milestone; filling it reaches the **Showdown**). The **Antagonist Track** is short, its **top box
+Milestone; filling it wins the Story). The **Antagonist Track** is short, its **top box
 reserved as the climax**. Recovery is **two moves + a declining ceiling**:
 - A **Readiness max** that starts at **9** and **drops 1 per Recovery Scene** (floor 4; resets to 9
   at Downtime). The ratchet that makes a Story Arc tighten as it runs.
@@ -267,8 +267,8 @@ on the same mix (3-player 18%, 2-player 29%) or pure recenter without the 4+ box
 keeps its error on the *tension* side rather than the *too-safe* side (Ian's call — 4+ over 5+).
 
 **Very Hard climax (optional top rung), `sim_climax.py`.** Easy→Hard spans only ~2 boxes at a
-3-player table, so **Very Hard = players + 2** was added as a deliberate lever for the **Showdown** —
-the *finale itself*, not a pre-finale obstacle, so its extra length can't bleed attrition into a
+3-player table, so **Very Hard = players + 2** was added as a deliberate lever for the **climactic
+Challenge** — the *finale itself*, not a pre-finale obstacle, so its extra length can't bleed attrition into a
 later scene (the only risk is an OoA *during* the finale, softened by the "fill the last box wins
 first" ruling). Modeled by making a Movie's last Challenge Very Hard vs. drawn-from-mix:
 

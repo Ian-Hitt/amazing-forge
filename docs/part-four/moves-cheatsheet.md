@@ -100,8 +100,6 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
       <div class="af-move"><span class="af-mname">Recovery Scene.</span> Fall back &amp; regroup at a lull: the party heals fully back to <b>9</b> &mdash; no roll, automatic. Falling back is always safe.</div>
 
       <div class="af-move"><span class="af-mname">Downtime.</span> Between Story Arcs: everyone heals to full <b>9</b>, Broken Assets restored. Free.</div>
-
-      <div class="af-move"><span class="af-mname">Showdown.</span> The finishing move &mdash; a climactic last-box roll that ends a Challenge or a Story Arc. A <b>Miss</b> escalates the story instead of ending it &mdash; never an outright loss (still a Miss: doubles advance the antagonist, and the Devil's Bargain is on the table).</div>
     </div>
 
     <div class="af-rightcol">
@@ -133,5 +131,5 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
     </div>
   </div>
 
-  <p class="af-ref"><b>Full rules:</b> The Roll &amp; Aid Your Ally &mdash; Ch.7. &nbsp; Challenges, Start a Challenge, Fall back &amp; Showdown &mdash; Ch.8. &nbsp; Readiness, Mend, Recovery Scene, Downtime &amp; Pay the Price &mdash; Ch.9. &nbsp; Story Arcs, Start a Story Arc &amp; Quit the Story Arc &mdash; Ch.10. &nbsp; Ask the Oracle &mdash; Ch.11.</p>
+  <p class="af-ref"><b>Full rules:</b> The Roll &amp; Aid Your Ally &mdash; Ch.7. &nbsp; Challenges, Start a Challenge &amp; Fall back &mdash; Ch.8. &nbsp; Readiness, Mend, Recovery Scene, Downtime &amp; Pay the Price &mdash; Ch.9. &nbsp; Story Arcs, Start a Story Arc &amp; Quit the Story Arc &mdash; Ch.10. &nbsp; Ask the Oracle &mdash; Ch.11.</p>
 </div>

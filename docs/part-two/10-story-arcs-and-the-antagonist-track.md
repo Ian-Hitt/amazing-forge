@@ -45,7 +45,7 @@ Episode and Movie are *individual* stories — one Story Arc each. But your game
 - A **Season** is a **collection of Stories** that share a throughline — a recurring antagonist, a season-long question, a slow-building relationship. You play a run of Episodes (and usually a climactic Movie to close it), connected by a **thread** (below).
 - A **Series** is **always a collection** — the whole game, a run of Seasons, building to one final reckoning. A Series has no track of its own; it's the shelf all your Seasons sit on.
 
-Neither a Season nor a Series has its own paired Antagonist Track. They're not stories you "play" directly — they're the shape made by the individual Episodes and Movies you *do* play. The recurring antagonist shows up across those individual Stories along the way, and the Season pays off when you play the **Movie** where beating them is the Showdown.
+Neither a Season nor a Series has its own paired Antagonist Track. They're not stories you "play" directly — they're the shape made by the individual Episodes and Movies you *do* play. The recurring antagonist shows up across those individual Stories along the way, and the Season pays off when you play the **Movie** where beating them is the climax.
 
 Look at **Avatar: The Last Airbender.** The whole show is a **Series** (master the elements, stop the Fire Lord). Each Book — Water, Earth, Fire — is a **Season**: a run of Episodes building to a finale. And each week's adventure is an **Episode** with its own little Story Arc. You play the Episodes; the Season and the Series are the shape they add up to.
 
@@ -107,15 +107,11 @@ Same Milestone, three different heats. Roll, read the temperature, paint the pic
 
 > **First games skip this roll.** Part One (Chapter 3) just has you open in the middle of the action — no roll needed. The opening roll is a Part Two tool for when you want the dice to surprise you with how a new Story Arc begins.
 
-### Finishing a Story Arc: the Showdown
+### Finishing a Story Arc
 
-Fill the last box of the Story Arc Track and the heroes reach the **climax — the Showdown:** the final confrontation, played as one last roll. By now the Antagonist Track has usually climbed near its top, so the antagonist is often *one step from winning* too — and this roll lands with everything on the line. Play the closing Milestone as one roll:
+The last Milestone **is** the climax. Fill the final box of the Story Arc Track and the heroes win the Story — there's no separate finishing roll. In practice that closing Milestone is almost always a **climactic Challenge** (reach for **Hard** or **Very Hard** to make it land — Chapter 8), the final confrontation the whole arc has been building toward; the instant its track fills, the Story Arc is won.
 
-- **Strong Hit:** the Story Arc is won, gloriously — add a narrative bonus.
-- **Weak Hit:** won, but Pay the Price on the way out.
-- **Miss:** *you thought it was over, but it wasn't.* Add **one extra Milestone box** to the Story Arc Track and drop a climactic twist — the antagonist's true plan surfaces, an ally turns, the prize is a fake. Complete that new Milestone, then attempt the Showdown again. (A missed Showdown is a Miss like any other: doubles still advance the antagonist, and the Devil's Bargain is still on the table — the ultimate gamble.)
-
-The twist gives the heroes *more story to play,* not the antagonist a free win — but with the antagonist's clock often near full, finishing before they do is the whole tension of the moment. When the heroes win, play out the victory: finishing a Story Arc is **Downtime** (Chapter 9), so each hero resets to full Readiness and any Broken Asset is restored before the next Story Arc.
+By now the Antagonist Track has usually climbed near its top, so the heroes are racing to complete that last Milestone before the antagonist fills the last box of *theirs.* That race — finishing first, with both clocks near full — is the whole tension of the ending. When the heroes win, play out the victory: finishing a Story Arc is **Downtime** (Chapter 9), so each hero resets to full Readiness and any Broken Asset is restored before the next Story Arc.
 
 ---
 
@@ -172,7 +168,7 @@ An Attack is an open invitation to bend the plot — the cost of all that pushin
 
 ### Losing Before the Climax (Out of Action)
 
-The surest way to hand the antagonist ground you didn't *choose* to give is to go **Out of Action.** A hero dropping to 0 Readiness advances the antagonist a box on the spot (Chapter 9) — and near the end of a Story Arc, that box can be the antagonist's last, losing the Story *before* the heroes reach their Showdown. Heroes still can't die — but Readiness is now the resource standing between the party and an *unchosen* step toward defeat, which is exactly why falling back to recover is the smart play when you're battered. (It's also why you can't take a Devil's Bargain on a knockout roll — you can't buy your way out of going down. Chapter 9.)
+The surest way to hand the antagonist ground you didn't *choose* to give is to go **Out of Action.** A hero dropping to 0 Readiness advances the antagonist a box on the spot (Chapter 9) — and near the end of a Story Arc, that box can be the antagonist's last, losing the Story *before* the heroes complete their final Milestone. Heroes still can't die — but Readiness is now the resource standing between the party and an *unchosen* step toward defeat, which is exactly why falling back to recover is the smart play when you're battered. (It's also why you can't take a Devil's Bargain on a knockout roll — you can't buy your way out of going down. Chapter 9.)
 
 ---
 
@@ -180,7 +176,7 @@ The surest way to hand the antagonist ground you didn't *choose* to give is to g
 
 ### Losing & Quitting a Story Arc Gracefully
 
-If the Antagonist Track fills before the heroes reach their Showdown, the bad guys win and the **Story Arc is lost.** The heroes can also choose to **Quit the Story Arc** outright at any time — the terminal version of falling back, when the group decides this one simply isn't winnable or worth the cost.
+If the Antagonist Track fills before the heroes complete their final Milestone, the bad guys win and the **Story Arc is lost.** The heroes can also choose to **Quit the Story Arc** outright at any time — the terminal version of falling back, when the group decides this one simply isn't winnable or worth the cost.
 
 Losing carries **no mechanical penalty and no bonus.** The heroes just step away, battered but alive, and the world moves on without their win.
 
@@ -203,7 +199,7 @@ The play itself is identical either way — **one Story at a time, invented scen
 
 > **Coming from D&D — or any campaign game?** You can absolutely tell a long, *structured* epic with this. It just isn't one sprawling, never-resetting arc — it's a **saga built from self-contained stories**, exactly like a film series. *The Lord of the Rings* is a **Series** of three **Movies**; a franchise like the Marvel films is a Series of **Seasons** (its "phases"), each a run of Movies, threaded with character arcs and a big bad who recurs and finally falls in the finale. Same nesting you already know, just bigger — and you still only ever play one Story at a time. The structure comes from the *chaining and the threads*, not from one giant arc you have to plan up front.
 
-> **Tracking the bigger arcs (either way).** However you got here — planned or grown — keep the bookkeeping light. Once you have a destination, name it in a sentence or two: that's your **Series** (*"Master the elements and defeat the Fire Lord"*). Note a medium-term throughline as it sharpens — that's a **Season** (*"Master earthbending"*), tracked as a **thread**. Then just **play Episodes** — and when one genuinely moves the season-long thread, mark a box on it. When a Season's thread is ready to pay off, you play the **Movie** that resolves it: the recurring antagonist takes center stage in that Movie, and beating them is its Showdown. Seasons end; a new one begins; the Series is the shape they add up to.
+> **Tracking the bigger arcs (either way).** However you got here — planned or grown — keep the bookkeeping light. Once you have a destination, name it in a sentence or two: that's your **Series** (*"Master the elements and defeat the Fire Lord"*). Note a medium-term throughline as it sharpens — that's a **Season** (*"Master earthbending"*), tracked as a **thread**. Then just **play Episodes** — and when one genuinely moves the season-long thread, mark a box on it. When a Season's thread is ready to pay off, you play the **Movie** that resolves it: the recurring antagonist takes center stage in that Movie, and beating them is its climax. Seasons end; a new one begins; the Series is the shape they add up to.
 
 Three habits keep a long game coherent:
 

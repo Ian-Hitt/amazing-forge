@@ -103,7 +103,7 @@
 **Fleeing & Quitting (First Game Version)**
 *Purpose: The escape valve. If a Challenge is bleeding too much Readiness, the group can Flee: end the Challenge (lose its progress) and mark one box on the Antagonist Track — the bad guys gain ground. If the Antagonist Track fills (or you give up entirely), you Quit the Story Arc and lose — and that's okay, it sets up the next adventure. This is how heroes stay alive when low.*
 
-> *Note: Part Two has the full Challenge rules: difficulty scaling, the popcorn turn rule, Aid Your Ally, the Showdown, falling back in depth, and guidance for different Challenge types.*
+> *Note: Part Two has the full Challenge rules: difficulty scaling, the popcorn turn rule, Aid Your Ally, falling back in depth, and guidance for different Challenge types.*
 
 **Recovery (First Game Version)**
 *Purpose: When the heroes are hurt and the fiction gives a safe lull, they can take a Recovery Scene — fall back and regroup. The whole party returns to full Readiness, and in return the Antagonist Track surges one box (the antagonist gains ground while you catch your breath). At 0 Readiness you're Out of Action; getting you back up forces a Recovery Scene, whose surge can lose the Story.*
@@ -111,7 +111,7 @@
 > *Note: Part Two covers the Recovery Scene and the Surge in depth, Out of Action as the loss vector, and Downtime — the between-Stories reset.*
 
 **Finishing the Story Arc**
-*Purpose: Reach the climax (last Story Arc box) and play the Showdown → the Story is complete. Describe the victory. Finishing resets the party to full Readiness (Downtime). Celebrate, then decide what comes next.*
+*Purpose: Reach the climax (complete the last Story Arc box) → the Story is complete. Describe the victory. Finishing resets the party to full Readiness (Downtime). Celebrate, then decide what comes next.*
 
 **When You Don't Know What Happens Next**
 *Purpose: Brief intro to Ask the Oracle. Do the obvious next thing, or roll the Story Spark (d6 table, reprinted here), or use Ask the Dice (1d6 yes/no). Enough to keep the first session moving.*
@@ -176,9 +176,6 @@
 **Fleeing a Challenge (The Escape Valve)**
 *Purpose: The group may abandon a Challenge to stop the Readiness bleed — lose its progress, mark one Antagonist box (the bad guys gain ground), no further loss. The sole trigger that advances the Antagonist Track. Self-limiting (short track → only so many flees before you lose the Story Arc). Cross-reference Ch10. This is the core stay-alive valve.*
 
-**The Showdown (Optional)**
-*Purpose: For true climaxes, filling the last box requires one final roll. Strong = triumph + bonus. Weak = success at a cost. Miss = add a box + escalate — never outright defeat. Never advances the Antagonist Track. Applies to a Challenge Track OR the Story Arc Track: the **Story Arc Showdown** turns the final Milestone into a roll — a Miss adds a Milestone box and a climactic plot twist ("you thought it was over, but it wasn't"). Reserve for moments that deserve the tension.*
-
 **Running Different Challenge Types**
 `💡 Idea: Short guidance (half a page each) on how the same mechanic serves different scene types. Combat, Journey, Stealth/Infiltration, Investigation, Social Confrontation. What does "filling a box" look like in each? What kinds of Assets shine? What's a good Pay the Price for each type?`
 
@@ -216,7 +213,7 @@
 *Purpose: Finishing a Story Arc heals everyone to full and restores any Broken Asset — no Surge. The slow-down-and-roleplay breather between adventures (optional d6 prompt). You always start the next Story Arc fresh.*
 
 **Out of Action: the Loss Vector**
-*Purpose: A hero at 0 forces a Recovery Scene to get them up — and that forced Surge can fill the reserved climax box, losing the Story before the Showdown. Readiness is ammunition against the antagonist's clock, not a survival meter. Also breaks an Asset until the between-Stories Downtime restores it.*
+*Purpose: A hero at 0 forces a Recovery Scene to get them up — and that forced advance can fill the antagonist's last box, losing the Story before the heroes finish. Readiness is ammunition against the antagonist's clock, not a survival meter. Also breaks an Asset until the between-Stories Downtime restores it.*
 
 **Out of Action**
 *Purpose: At 0 Readiness, a hero can't act. They return only when the team falls back to get them up — which forces a Recovery Scene (and its antagonist Surge) — or at the party's next Downtime. A quick Mend CAN'T revive a downed hero (that would dodge the loss vector). Never permanent (heroes can't die), but being dropped hands the antagonist ground at the worst time — it's the loss vector. (revised 2026-06-22)*
@@ -253,8 +250,8 @@
 **Start a Story Arc: The Opening Roll**
 *Purpose: One 2d6+1 roll made when a Story Arc begins to set how it opens — a **Frame move** (modeled on Swear an Iron Vow, minus momentum), generative not pass/fail. Three tiers: Clear purpose (10+, front foot) / More questions than answers (7–9, one complication) / Trouble finds you first (6−, open in the thick of it). Give players interpretation guidance — how to turn each result into the first scene (same Milestone, different "temperature"); non-strong tiers hand off to Ask the Oracle. Part One skips this roll. Cross-ref Ch.5/Ch.11.*
 
-**Finishing a Story Arc (and the optional Story Arc Showdown)**
-*Purpose: Filling the last Story Arc box wins (finishing prompts Downtime, Ch9). Optionally make that last box a Story Arc Showdown (Ch8): a Miss adds a Milestone box + a climactic twist instead of ending.*
+**Finishing a Story Arc**
+*Purpose: Filling the last Story Arc box wins (finishing prompts Downtime, Ch9). The closing Milestone is usually a climactic Challenge (Hard or Very Hard); completing it wins the Story — there's no separate finishing roll.*
 
 #### Part B — The Antagonist Track (Core Rule)
 
@@ -262,7 +259,7 @@
 *Purpose: The Antagonist Track is the losing side of the same Story Arc — not a separate arc, its other end — running in parallel, a core part of every arc (not optional). The race between the two tracks. Why it's mandatory: it's the backbone of the flee/stay-alive system.*
 
 **Drawing the Track (with a Reserved Climax Box)** *(revised 2026-06-22)*
-*Purpose: Short — Episode 2 / Movie 4 boxes (Movie is 5 for a duo). The TOP box is the reserved climax (the Showdown): lower boxes fill during play, the top only at the finale. Mark the climax box visibly. Each lower box is the antagonist gaining ground while the heroes regroup.*
+*Purpose: Short — Episode 2 / Movie 4 boxes (Movie is 5 for a duo). The TOP box is the reserved climax: lower boxes fill during play, the top only at the finale. Mark the climax box visibly. Each lower box is the antagonist gaining ground while the heroes regroup.*
 
 **Characterize Your Antagonist**
 *Purpose: The antagonist can be a person, faction, or a force (a desert, a plague, a deadline). Give it a face — name what it wants and what "winning" looks like — so every Surge is a concrete beat (surge the desert → a sandstorm).*
@@ -274,7 +271,7 @@
 *Purpose: When a Recovery Scene fills a box, stop and play it out. What did the antagonist accomplish while the heroes regrouped? How does it tighten things? A filled box is an open invitation to bend the plot.*
 
 **Losing Before the Climax (Out of Action)**
-*Purpose: A hero taken Out of Action forces a Recovery Scene, whose Surge can fill even the reserved climax box — the antagonist wins before the Showdown. The real risk; why Readiness is ammunition against the clock, not a survival meter (heroes can't die).*
+*Purpose: A hero taken Out of Action forces a Recovery Scene, whose forced advance can fill even the antagonist's last box — the antagonist wins before the heroes finish. The real risk; why Readiness is ammunition against the clock, not a survival meter (heroes can't die).*
 
 **Design Note: the Photo-Finish**
 *Purpose: Why the reserved climax box + surge-on-regroup makes "antagonist one step from winning at the finale" the default ending (the sim result), and why this replaced the old sandbox clock.*
@@ -462,7 +459,7 @@
 ### Quick Reference
 
 **The Moves at a Glance — Moves Cheatsheet** ✅ *Built (`docs/part-four/moves-cheatsheet.md`).*
-*Purpose: The full roster on one printable card, grouped by family — **Action Moves** (resolve a hero's attempt: The Roll, Aid Your Ally, Mend, Downtime, Showdown) and **Frame Moves** (establish/shift the situation: Start a Story Arc, Ask the Oracle, Pay the Price, Flee, Quit the Story Arc). One line each: what it does, what you roll, plus the core-roll legend. Designed to print and sit in the middle of the table. Mirrors "The Moves (Master List)" in the mechanics reference. (**Action move** / **Frame move** are now canonical Standard Vocabulary, locked 2026-06-09.)*
+*Purpose: The full roster on one printable card, grouped by family — **Action Moves** (resolve a hero's attempt: The Roll, Aid Your Ally, Mend, Downtime) and **Frame Moves** (establish/shift the situation: Start a Story Arc, Ask the Oracle, Pay the Price, Flee, Quit the Story Arc). One line each: what it does, what you roll, plus the core-roll legend. Designed to print and sit in the middle of the table. Mirrors "The Moves (Master List)" in the mechanics reference. (**Action move** / **Frame move** are now canonical Standard Vocabulary, locked 2026-06-09.)*
 
 **The Roll** *(revised 2026-06-22)*
 *Purpose: Outcomes table (Strong Hit / Weak Hit / Miss), modifier rules (+0/+1/+2 — Stat, Asset, both, or neither), Oracle's Blessing. One page.*
@@ -512,7 +509,6 @@
 - ✅ Narrate the Change (Ch. 7)
 - ✅ Challenges — full loop (Ch. 5 brief, Ch. 8 full)
 - ✅ Aid Your Ally (Ch. 7; used most often inside a Challenge, cross-ref Ch. 8)
-- ✅ Showdown — Challenge & Story Arc (Ch. 8)
 - ✅ Fleeing a Challenge / Quit the Story Arc (Ch. 5 brief, Ch. 8 + Ch. 10 full)
 - ✅ Pay the Price — table (Ch. 4 brief, Ch. 9 full)
 - ✅ Recovery — Mend + Downtime, rolled, SF-C (Ch. 5 brief, Ch. 9 full)

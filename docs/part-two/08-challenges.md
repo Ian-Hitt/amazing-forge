@@ -25,7 +25,7 @@ When you draw a track, its length is set by **difficulty alone** — not by how 
 
 These hold at **any party size.** A small group fills a Medium in about two rolls each; a big group fills the same Medium in about one roll each — the scene runs roughly the same length either way, because a table naturally takes more turns per person when there are fewer of them. (That's also why the antagonist's clock needs no party-size rules — Chapter 10.) Bigger groups who want a meatier set-piece simply reach for **Hard** or **Very Hard.**
 
-**Very Hard** is an optional top rung you reach for *only at a climax,* and only if you want to — a Showdown you want to feel truly daunting. It's the finale itself, not an extra hurdle before it, so the longer track just makes the big moment bigger. Don't use it for ordinary scenes; Easy through Hard cover everything else.
+**Very Hard** is an optional top rung you reach for *only at a climax,* and only if you want the finale to feel truly daunting. It's the climactic Challenge itself, not an extra hurdle before it, so the longer track just makes the big moment bigger. Don't use it for ordinary scenes; Easy through Hard cover everything else.
 
 Difficulty is a **screen-time dial,** not a balance setting: you pick Hard for the set-piece everyone came for and Easy for a quick beat on the way there. A good Story *mixes* all three — so don't reach for Easy by default. Medium is the everyday size; reserve Easy for the scenes you want over quickly and Hard for the ones worth a real grind (see Pacing, Chapter 12). If real-world time is running short, lean toward Easy. Pick the size when you draw the track, based on how big the moment should feel.
 
@@ -71,7 +71,7 @@ As always, every roll turns back into fiction (Chapter 7, Narrate the Change): s
 
 ### Ending a Challenge
 
-The Challenge ends **the instant the last empty box is filled** — even if that was a Weak Hit. There's no separate "finishing blow" required (unless you opt into a Showdown, below).
+The Challenge ends **the instant the last empty box is filled** — even if that was a Weak Hit. There's no separate "finishing blow" required; filling the track *is* the win.
 
 When the track fills:
 
@@ -91,20 +91,6 @@ Heroes are never trapped in a Challenge they're losing. At any point — usually
 Falling back is a **group decision** — in Co-op, made together; with a Guide, the Guide honors the table's call to retreat. It's the heroes' escape valve, and you can use it as often as the fiction allows. The real pressure in a Story Arc comes from the **Devil's Bargains** you take to win and the dice that turn against you (Chapter 10).
 
 So a Challenge Roll *can* move the antagonist — when a hero takes a **Devil's Bargain** or **Misses on doubles.** (The terminal case, giving up the whole Story Arc, is **Quitting the Story Arc;** see Chapter 10.)
-
-### The Showdown — the Finishing Move
-
-The **Showdown** is the move that *ends* a Challenge or a Story Arc: the final, climactic roll for the last box. Rather than the last box filling as quiet bookkeeping, the Showdown makes finishing a charged moment — one roll that decides how the win lands.
-
-Roll 2d6 + modifier for that last box:
-
-- **Strong Hit:** triumphant victory — you win and add a narrative bonus of your choice.
-- **Weak Hit:** you win, but it costs you — **Pay the Price** as normal.
-- **Miss:** you don't finish *yet*. **Add one extra box to the track** — you must fill it before you can attempt the Showdown again — and the situation escalates (a new danger, a fresh wrinkle). A missed Showdown is **delay and drama, never an outright loss** in itself. (It's still a Miss, though: doubles advance the antagonist, and you can take the Devil's Bargain to seize the finish — Chapters 7 and 9.)
-
-**A Story Arc's climax is always its Showdown.** When the heroes fill the last box of the Story Arc Track, that closing Milestone is the Showdown — the final confrontation, with the antagonist one step from winning (Chapter 10). A Miss here adds a Milestone and drops a climactic twist — the antagonist's real plan surfaces, a trusted ally turns, the prize is a fake — then the heroes push for the Showdown again.
-
-**For a Challenge, use a Showdown when the Scene is a true climax.** A routine Challenge can still end the instant its last box fills — no need to make every small obstacle a set-piece. Save the Showdown roll for the moments that have earned the extra tension.
 
 ### Running Different Challenge Types
 

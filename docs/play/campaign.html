@@ -150,8 +150,6 @@
   .anta .box.climax { border-width: 2.5px; }
   .anta .box.attack { border-width: 2px; color: var(--bad); }
   .chal .box.fill { background: var(--orange); border-color: var(--orange); color: #fff; }
-  .chal .box.show { border-color: var(--orange); border-width: 2.5px; color: var(--orange); }
-  .chal .box.show.fill { color: #fff; }
   .readout { font-weight: 800; font-size: .95rem; margin-left: .15rem; }
   .readout small { font-weight: 600; color: var(--muted); }
   .tracklabel { font-weight: 700; font-size: .78rem; width: 5.4rem; flex: 0 0 auto; color: var(--muted); }
@@ -252,7 +250,7 @@
       milestones: makeMilestones("episode", []) };
   }
   function blankChallenge() {
-    return { id: uid("c"), name: "", note: "", max: 4, current: 0, showdown: false };
+    return { id: uid("c"), name: "", note: "", max: 4, current: 0 };
   }
   function makeMilestones(size, existing) {
     var n = SIZES[size].ms, out = [];
@@ -499,7 +497,7 @@
           m: a.milestones.map(function (m) { return { d: m.done ? 1 : 0, t: m.text }; }) };
       }),
       c: g.challenges.map(function (ch) {
-        return { i: ch.id, n: ch.name, e: ch.note, x: ch.max, f: ch.current, s: ch.showdown ? 1 : 0 };
+        return { i: ch.id, n: ch.name, e: ch.note, x: ch.max, f: ch.current };
       }),
       w: (g.world || []).slice(0, 10),
       p: (g.places || []).map(function (p) { return { i: p.id, n: p.name, f: p.fn, d: p.detail, b: p.back ? 1 : 0 }; }),
@@ -631,7 +629,7 @@
     });
     g.challenges = content.c.map(function (ch) {
       var x = blankChallenge(); if (ch.i) x.id = ch.i;
-      x.name = ch.n || ""; x.note = ch.e || ""; x.max = clamp(ch.x, 1, 12, 4); x.current = clamp(ch.f, 0, x.max, 0); x.showdown = !!ch.s;
+      x.name = ch.n || ""; x.note = ch.e || ""; x.max = clamp(ch.x, 1, 12, 4); x.current = clamp(ch.f, 0, x.max, 0);
       return x;
     });
     g.world = content.w.slice(0, 10).map(function (s) { return s || ""; });
@@ -812,7 +810,7 @@
   // ============================================================ STORY ARCS
   function renderArcs(root) {
     var head = el("div"); head.style.cssText = "display:flex;justify-content:space-between;align-items:center;gap:.5rem;flex-wrap:wrap;margin-bottom:.3rem;";
-    head.appendChild(el("div", "hint", "Fill the Story Arc Track to reach the Showdown; you lose if the Antagonist Track fills first (its last box is the antagonist's victory)."));
+    head.appendChild(el("div", "hint", "Fill the Story Arc Track to win the Story (complete the last Milestone); you lose if the Antagonist Track fills first (its last box is the antagonist's victory)."));
     var add = el("button", "sm", "+ Add Story Arc"); add.onclick = function () { var a = blankArc(); camp.arcs.push(a); ui.openArc = a.id; persist(); render(); };
     head.appendChild(add); root.appendChild(head);
 
@@ -925,15 +923,11 @@
       var cnt = el("span"); cnt.style.cssText = "font-weight:800;min-width:1.4rem;text-align:center;"; cnt.textContent = c.max;
       var plus = el("button", "ghost sm icon", "+"); plus.onclick = function () { if (c.max < 12) { c.max++; persist(); render(); } };
       ctl.appendChild(minus); ctl.appendChild(cnt); ctl.appendChild(plus);
-      var shLbl = el("label"); shLbl.style.cssText = "display:flex;align-items:center;gap:.35rem;font-size:.8rem;color:var(--muted);margin-left:.6rem;";
-      var sh = el("input"); sh.type = "checkbox"; sh.checked = !!c.showdown; sh.onchange = function () { c.showdown = sh.checked; persist(); render(); };
-      shLbl.appendChild(sh); shLbl.appendChild(document.createTextNode(" last box = Showdown ★"));
-      ctl.appendChild(shLbl);
       card.appendChild(ctl);
 
       // track
       var tr = el("div", "trackrow"); tr.appendChild(el("span", "tracklabel", won ? "Won! ✓" : "Progress"));
-      tr.appendChild(trackRow(null, "chal", c.max, c.current, function (n) { c.current = n; persist(); render(); }, { showdown: c.showdown ? c.max : 0, labels: true }));
+      tr.appendChild(trackRow(null, "chal", c.max, c.current, function (n) { c.current = n; persist(); render(); }, { labels: true }));
       card.appendChild(tr);
 
       card.appendChild(labeled("A box = (optional)", textField(c, "note", "one thug down / one block closer")));
@@ -1076,7 +1070,6 @@
         if (opts.start && n === opts.start) b.classList.add("start");
         if (opts.climax && n === opts.climax) { b.classList.add("climax"); b.textContent = "★"; }
         else if (opts.attacks && n % 2 === 1) { b.classList.add("attack"); b.textContent = "▲"; }
-        else if (opts.showdown && n === opts.showdown) { b.classList.add("show"); b.textContent = "★"; }
         else if (opts.labels) b.textContent = n;
         b.onclick = function () { onSet(value === n ? n - 1 : n); };
         t.appendChild(b);

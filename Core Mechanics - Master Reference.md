@@ -91,11 +91,10 @@ the book. When reviewing a chapter, treat any deviation as an error to flag.
 | **Movie** | A complete feature Story — **6 Milestones, 9-box Antagonist Track** (Attacks on 1·3·5·7·9) — told over ~2–3 sessions. Same track size at any party count. | feature film |
 | **Season** | A **collection** pattern (prose, no machinery): a run of Stories sharing a throughline. Not a box size. | arc (as the term), story arc |
 | **Series** | A **collection** pattern (prose): the whole game, a run of Seasons. Always a collection; no box size of its own. | campaign, saga |
-| **Story Arc Track** | A Story's progress track — one box per Milestone; filling it reaches the Showdown. | Hero Track, Quest Track |
+| **Story Arc Track** | A Story's progress track — one box per Milestone; filling it (completing the last Milestone) wins the Story. | Hero Track, Quest Track |
 | **Antagonist Track** | The losing side of the same Story: the antagonist's clock — **Episode 5 boxes / Movie 9 boxes** (same at any party size). Advances **one box** in exactly three ways: a **Devil's Bargain,** a **Miss showing doubles,** or a hero going **Out of Action.** Its **odd boxes are Attacks** (narrated antagonist beats); even boxes are silent pressure; the **last box loses the Story.** | enemy clock, doom track |
 | **Devil's Bargain** | On a **Miss,** a hero *may* refuse the Readiness loss **and** upgrade the Miss to a **Strong Hit** — in exchange for advancing the Antagonist Track **one box.** Always optional; **never allowed on a roll that would knock the hero Out of Action.** The main engine of the antagonist's climb. | — |
 | **Attack** | The narrated antagonist beat played out when an **odd box** of the Antagonist Track fills (1·3·5, plus 7·9 on a Movie): cut away and show the bad guys gaining ground on-screen. Even boxes pass silently. The **last Attack box is the antagonist's victory.** | the Surge |
-| **Showdown** | The climax — reached when the heroes fill the Story Arc Track, played as one last roll. The Story's outcome is decided here, usually with the antagonist's clock near its last box. | finale, boss fight |
 | **Thread (B-plot)** | A subplot/character arc riding alongside the spine: a light progress track, **no Antagonist Track / no lose-clock**; resolves into or beside the spine's climax. | side quest, B-arc |
 | **Fall back** | Retreating from a losing Challenge (losing its progress) to regroup — handled as a **Recovery Scene** (full heal, **free**, no antagonist advance). | Flee, retreat (as the mechanic) |
 | **Quit the Story Arc** | Giving up a Story entirely — the terminal fall back; the bad guys win. | forfeit, surrender |
@@ -549,7 +548,6 @@ Each move is defined in full in the chapter noted; this list is the authoritativ
 | **Mend** | A quick patch in any scene (in a Challenge, it's your turn instead of a Challenge Roll): self or ally, **Strong +3 / Weak +2 / Miss −1 Readiness**, capped at 9, **never advances the antagonist**, can't revive an Out-of-Action hero. | Ch.9 |
 | **Recovery Scene** | Fall back and regroup: the party heals **fully back to 9** — **free** (no roll, no antagonist advance). Reliable; the quiet/B-plot beat. | Ch.9 |
 | **Downtime** | The between-Story-Arcs rest: heals to full, restores any Broken Asset; free, the antagonist's clock resets. | Ch.9 |
-| **Showdown** *(the climax)* | The last-box roll when the heroes reach the climax (Story Arc Track full); decides the Story's outcome. A Miss escalates rather than ending it outright. | Ch.8/10 |
 
 **Progress moves — open or close a progress track:**
 
@@ -581,8 +579,9 @@ The story is a race between the Heroes and the Antagonist.
 
 A **Story** is one spine — a single central dramatic question — tracked with two paired rows of
 boxes. The **Story Arc Track** is the heroes' progress: **mark a box whenever the table agrees you
-made significant headway — a Milestone.** Fill the track and the heroes reach the **climax** (the
-**Showdown**), where the Story's outcome is decided.
+made significant headway — a Milestone.** Fill the track — completing the last Milestone — and the
+heroes **win the Story** at its **climax** (there's no separate finishing roll; the closing Milestone
+is simply the final, usually climactic, Challenge).
 
 **Two story sizes — Episode and Movie.** A Story is one of two sizes, and these are the *only* two
 with their own box machinery:
@@ -676,8 +675,8 @@ The Antagonist Track is **the losing side of the same Story** — not a separate
 Story's other end. It is **Episode 5 boxes / Movie 9 boxes** (same at any party size). Its boxes fill
 as the antagonist gains ground during play; its **odd boxes are Attacks** (narrated antagonist beats),
 its even boxes are silent pressure, and its **last box is the antagonist's victory** — fill it before the
-heroes finish their Story Arc Track and the bad guys win. The Story is a race: arrive at your Showdown
-with the antagonist **one step from winning** — the **photo-finish** — or fall before you reach it.
+heroes finish their Story Arc Track and the bad guys win. The Story is a race: complete your final
+Milestone with the antagonist **one step from winning** — the **photo-finish** — or fall before you reach it.
 
 > ✅ **DECIDED — how the Antagonist Track advances: the Devil's Bargain spine (2026-06-25).**
 > The antagonist advances **one box** in exactly **three ways** — *not* when the heroes rest:
@@ -714,7 +713,7 @@ with the antagonist **one step from winning** — the **photo-finish** — or fa
   Attack is a concrete beat: the desert's clock fills → a sandstorm hits.
 - **Losing before the climax (the loss vector).** A hero taken **Out of Action** advances the antagonist
   a box on the spot (Section 9) — and near the end of a Story Arc, that box can be the antagonist's last,
-  losing the Story *before* the heroes reach their Showdown. This is the real risk that keeps
+  losing the Story *before* the heroes complete their final Milestone. This is the real risk that keeps
   Readiness meaningful — it is no longer a survival meter (heroes can't die) but **ammunition spent
   against the antagonist's clock.** (It is also why you can't take a Devil's Bargain on a knockout roll —
   you can't buy your way out of going down.)
@@ -820,8 +819,8 @@ These are the same at any table — **no party-size scaling, no party-size rules
 > 2026-06-22 revision. Validated in `Math & Simulation Reference.md` §0 (`sim_devils.py` /
 > `sim_devils2.py`): photo-finish and loss are flat across party sizes 2–6.
 >
-> **Very Hard** remains an optional top rung reserved for the **Showdown** — the finale itself, not a
-> pre-finale obstacle — so its extra length raises the climax's stakes without bleeding attrition into a
+> **Very Hard** remains an optional top rung reserved for the **climactic Challenge** — the finale itself,
+> not a pre-finale obstacle — so its extra length raises the climax's stakes without bleeding attrition into a
 > later scene.
 
 ### 2. The Turn Loop
@@ -856,7 +855,7 @@ The Challenge ends the moment the last empty box is filled.
 - Immediately check off 1 box on the Story Arc Track.
 - Wipe the scrap paper clean of the Challenge Track.
 
-(For a climactic Challenge, you can make filling that last box a **Showdown** — see below.)
+There is no separate "finishing blow." Filling the last box *is* the win — even the climactic Challenge that ends a Story Arc ends the instant its track fills.
 
 ### 5. Aid Your Ally
 
@@ -887,46 +886,10 @@ moment.
 > the loss curve** (`sim_aid.py`, 2026-06-14): a 2-helper stack takes one roll to ~99% success,
 > but the *opportunity cost* — two spent turns = one box-attempt that round instead of three —
 > makes leaning on it in a Challenge strictly *worse* (Movie loss 7%→27% at the climax, →69% if
-> spammed). It can't be farmed; where it's strong (a lone Showdown/clutch roll) it costs turns +
-> Readiness and only buys drama-insurance, since a missed Showdown isn't the loss vector.
+> spammed). It can't be farmed; where it's strong (a lone clutch/climax roll) it costs turns +
+> Readiness and only buys drama-insurance, since a single decisive roll isn't the loss vector.
 
-### 6. The Showdown (Optional Climax)
-
-By default, filling the last box of a track completes it automatically — clean and fast,
-which keeps the story flowing. But for a moment the group has decided is a *true climax*
-(the same "how big is this moment?" question used to draw a Challenge), you can make it a
-**Showdown**: filling the final box requires one last roll. A Showdown can cap either a
-**Challenge Track** (the climax of a scene) or the **Story Arc Track** (the climax of the whole
-Story Arc — see below).
-
-Roll 2d6 + modifier for that last box:
-
-- **Strong Hit:** triumphant victory — you win and add a narrative bonus of your choice.
-- **Weak Hit:** you win, but it costs you — **Pay the Price** as normal.
-- **Miss:** you don't finish *yet*. **Add one extra box to the track** (you must fill it
-  before attempting the Showdown again), and the situation escalates — a new wrinkle, a
-  fresh danger. A missed Showdown is **delay and drama, never outright defeat.**
-
-(A missed Showdown is a Miss like any other: doubles on it still advance the antagonist, and the
-**Devil's Bargain is still on the table** — the ultimate gamble. Otherwise a Showdown is about
-*finishing*, not regrouping.)
-
-**Story Arc Showdown — the plot twist (optional).** You can make the *final box of the Story Arc
-Track* a Showdown too — one last roll as the heroes go to complete the closing Milestone.
-On a Strong or Weak Hit the Story Arc is won (Weak = Pay the Price on the way out). On a **Miss**,
-*you thought it was over, but it wasn't:* **add one extra Milestone box to the Story Arc Track** and
-introduce a climactic twist — the antagonist's true plan surfaces, an ally betrays you, the prize
-isn't what it seemed. The heroes must complete that new Milestone before they can attempt the
-Story Arc Showdown again. Importantly, **the twist itself adds no box to the Antagonist Track** — it
-gives the heroes *more to do*, not the antagonists a free win (though with the antagonist's clock often
-near full, finishing before they do is the whole tension of the moment). Like all
-Showdowns it's optional, and it's a wonderful way to make the end of a Story Arc land with a
-cinematic surprise.
-
-Reserve Showdowns for moments that deserve the tension; everyday Challenges (and Story Arcs) should
-still end the instant their last box fills.
-
-### 7. Falling Back from a Challenge (The Escape Valve)
+### 6. Falling Back from a Challenge (The Escape Valve)
 
 Heroes are never trapped in a Challenge they're losing. At any point — usually when Readiness
 is running dangerously low and grinding out the remaining boxes isn't worth the cost — the
@@ -988,8 +951,8 @@ ones, a beat for the heart). Heroes always start the next Story fresh.
 
 **Out of Action (the loss vector).** A hero at 0 Readiness can't act. **Going Out of Action advances
 the Antagonist Track one box** on the spot (Section 6) — you fell, and the bad guys seized the moment
-— and near the climax that box can be the antagonist's last, losing the Story *before* the heroes reach
-their Showdown. **Mend cannot revive a downed hero** — only a full **Recovery Scene** (or Downtime,
+— and near the climax that box can be the antagonist's last, losing the Story *before* the heroes complete
+their final Milestone. **Mend cannot revive a downed hero** — only a full **Recovery Scene** (or Downtime,
 both free) brings someone back from 0. So going down is no longer survival-neutral — near the climax
 it is *how you lose*. (This, plus the fact that you **can't take a Devil's Bargain on a knockout
 roll,** is why a battered party's smart play is to fall back for a free Recovery Scene rather than
@@ -1289,10 +1252,10 @@ fifth Core Principle, and the *Amazing Tales* **starter-backdrop** option.
 - **Victory bump folded into Downtime (2026-06-09).** Completing a Story Arc *prompts* Downtime
   (the +6-each heal now lives there, rolled), still enabling **multiple ongoing Story Arcs** (no
   clean start/stop) (Section 7).
-- **Showdown** added — optional climactic last-box roll; a miss adds a box + escalates,
-  never an outright loss; never advances the Antagonist Track. Applies to a Challenge Track
-  **or** the Story Arc Track — the **Story Arc Showdown** (2026-06-06) turns the final Milestone into a
-  roll whose Miss adds a Milestone box + a plot twist ("you thought it was over…") (Section 7).
+- **Showdown removed (2026-06-26).** The optional climactic last-box roll (added 2026-06-06,
+  including the Story Arc Showdown twist) was cut as redundant: the climax is simply the final,
+  usually **Very Hard**, Challenge, and **completing the last Milestone *is* the win** — no separate
+  finishing roll. A Challenge (and a Story Arc) ends the instant its last box fills.
 - **Ask the Oracle** added — the Co-op "what happens next" move: name the next Milestone
   first, then do the obvious thing / roll the **Story Spark** d6 / roll the **Ask the Dice**
   yes/no (Section 10).

@@ -64,8 +64,9 @@ authoritative**; V3/V4 are older and superseded where they differ.
   Track"/"Quest Track"), **Episode/Movie** (the two *individual* story sizes), **Season/Series**
   (prose *collection* patterns, not sizes — see [[spine-model]]), **antagonist** (the umbrella
   term for the adversary — default to it; **never "villain,"** which is only *one type* of
-  antagonist — it can also be a force: a desert, a plague), Antagonist Track, **Showdown**
-  (the climax — the heroes' final roll), Milestone, Scene, Challenge, Pay the Price, **Devil's Bargain**
+  antagonist — it can also be a force: a desert, a plague), Antagonist Track, **climax**
+  (the final, usually Very Hard, Challenge — the last Milestone simply *is* the win; the separate
+  **"Showdown" roll was retired 2026-06-26**, no extra finishing roll), Milestone, Scene, Challenge, Pay the Price, **Devil's Bargain**
   (buy a win on a Miss for a antagonist box), **Attack** (narrated antagonist beat on an odd Antagonist box;
   "Surge" retired), **Recovery Scene** (the fall-back-and-regroup move — now **free**), **Fall back**
   (retreat from a Challenge — was "Flee"), Quit the Story Arc, **Thread/B-plot** (lose-clock-free
@@ -88,7 +89,7 @@ authoritative**; V3/V4 are older and superseded where they differ.
   tail, not a target — Math & Sim §0.)
 - **Story structure — single nested SPINE (DECIDED 2026-06-13; see [[spine-model]] & Math & Sim
   §0).** Dropped sandbox play. One Story = one spine with a **Story Arc Track** (progress, 1
-  box/Milestone → the **Showdown**) and an **Antagonist Track** (the antagonist's race; three triggers
+  box/Milestone → the **climax**) and an **Antagonist Track** (the antagonist's race; three triggers
   below). **Two individual sizes: Episode = 3 Milestones / 5-box Antagonist Track (Attacks on 1·3·5);
   Movie = 6 Milestones / 9-box (Attacks on 1·3·5·7·9) — same at any party size.** **Season/Series are prose collection patterns, not
   sizes** (Episode/Movie are individual stories; a Season strings them on a throughline, a Series is
@@ -99,7 +100,7 @@ authoritative**; V3/V4 are older and superseded where they differ.
   on a knockout roll — the main, player-authored driver), a **Miss on doubles** (random), and **Out
   of Action** (catastrophe). **Recovery never advances it** (free). **Odd boxes are Attacks** — the
   narrated antagonist beat (cut to the bad guys winning off-screen); even boxes are silent pressure; the
-  **last box = antagonist wins** → lose the Story before the Showdown (loss vector). The antagonist may
+  **last box = antagonist wins** → lose the Story before the heroes finish (loss vector). The antagonist may
   be a **force** (a desert, a plague) — characterize it so each Attack is concrete. **Quit the Story
   Arc** = terminal give-up; a lost Story seeds a new one. Loss is a rare earned tail; the metric is
   the **photo-finish.** (Validation: `Math & Simulation Reference.md` §0, `sim_devils.py`/`sim_devils2.py`.)
