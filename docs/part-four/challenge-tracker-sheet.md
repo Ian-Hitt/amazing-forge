@@ -65,9 +65,9 @@ See **Challenges** ([Chapter 8](../part-two/08-challenges.md)) for the full proc
   <div class="af-legend">
     <b>START A CHALLENGE</b> (only when you pick the fight): roll <b>2d6 + 1</b> &rarr; <b>10+</b> +1 &middot; <b>7&ndash;9</b> 0 &middot; <b>6&minus;</b> &minus;1 &mdash; a one-time edge on your <b>first roll</b> only.
     <br>
-    <b>EACH ROLL:</b> <b>Strong</b> fill 1 box &middot; <b>Weak</b> fill 1 box, &minus;1 Readiness &middot; <b>Miss</b> no box, &minus;2 Readiness.
+    <b>EACH ROLL:</b> <b>Strong</b> fill 1 box &middot; <b>Weak</b> fill 1 box, &minus;1 Readiness &middot; <b>Miss</b> no box, &minus;2 Readiness <i>or</i> take the <b>Devil's Bargain</b> (upgrade to a Strong Hit, refuse the loss &rarr; villain +1 box; not if it would knock you Out of Action). A <b>Miss on doubles</b> also advances the villain.
     <br>
-    <b>SIZE:</b> Easy = players &minus;1 (min 1) &middot; Medium = players &middot; Hard = players +1 &middot; Very Hard = players +2 (climaxes only) boxes &mdash; cross out the ones you don't use. The last box can be a <b>Showdown (&#9733;)</b>. Track fills &rarr; Challenge won &mdash; wipe it. A Challenge is <i>not</i> a Milestone. Fall back = a Recovery Scene (lose progress, villain surges).
+    <b>SIZE</b> (the same at any party size): Easy = <b>2</b> &middot; Medium = <b>3</b> &middot; Hard = <b>4</b> &middot; Very Hard = <b>5</b> (climaxes only) boxes &mdash; cross out the ones you don't use. The last box can be a <b>Showdown (&#9733;)</b>. Track fills &rarr; Challenge won &mdash; wipe it. A Challenge is <i>not</i> a Milestone. Fall back = a Recovery Scene (lose progress; recovery is <b>free</b>).
     <br>
     <b>TYPES:</b> Combat &middot; Journey &middot; Stealth &middot; Investigation &middot; Social &mdash; same boxes-and-rolls, only the fiction changes. For each, ask: <i>what's one box, which Assets fit, what's the price on a Weak Hit or Miss?</i>
   </div>
@@ -78,7 +78,7 @@ See **Challenges** ([Chapter 8](../part-two/08-challenges.md)) for the full proc
       <span class="af-diff">Size:<span class="af-chk"></span>Easy<span class="af-chk"></span>Med<span class="af-chk"></span>Hard</span>
     </div>
     <div class="af-chal-track">
-      <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span><span class="af-box">4</span><span class="af-box">5</span><span class="af-box">6</span><span class="af-box">7</span><span class="af-box af-show">&#9733;</span>
+      <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span><span class="af-box">4</span><span class="af-box">5</span><span class="af-box af-show">&#9733;</span>
       <label class="af-boxlabel">A box =</label><span class="af-fill"></span>
     </div>
   </div>
@@ -89,7 +89,7 @@ See **Challenges** ([Chapter 8](../part-two/08-challenges.md)) for the full proc
       <span class="af-diff">Size:<span class="af-chk"></span>Easy<span class="af-chk"></span>Med<span class="af-chk"></span>Hard</span>
     </div>
     <div class="af-chal-track">
-      <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span><span class="af-box">4</span><span class="af-box">5</span><span class="af-box">6</span><span class="af-box">7</span><span class="af-box af-show">&#9733;</span>
+      <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span><span class="af-box">4</span><span class="af-box">5</span><span class="af-box af-show">&#9733;</span>
       <label class="af-boxlabel">A box =</label><span class="af-fill"></span>
     </div>
   </div>
@@ -100,7 +100,7 @@ See **Challenges** ([Chapter 8](../part-two/08-challenges.md)) for the full proc
       <span class="af-diff">Size:<span class="af-chk"></span>Easy<span class="af-chk"></span>Med<span class="af-chk"></span>Hard</span>
     </div>
     <div class="af-chal-track">
-      <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span><span class="af-box">4</span><span class="af-box">5</span><span class="af-box">6</span><span class="af-box">7</span><span class="af-box af-show">&#9733;</span>
+      <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span><span class="af-box">4</span><span class="af-box">5</span><span class="af-box af-show">&#9733;</span>
       <label class="af-boxlabel">A box =</label><span class="af-fill"></span>
     </div>
   </div>
@@ -111,7 +111,7 @@ See **Challenges** ([Chapter 8](../part-two/08-challenges.md)) for the full proc
       <span class="af-diff">Size:<span class="af-chk"></span>Easy<span class="af-chk"></span>Med<span class="af-chk"></span>Hard</span>
     </div>
     <div class="af-chal-track">
-      <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span><span class="af-box">4</span><span class="af-box">5</span><span class="af-box">6</span><span class="af-box">7</span><span class="af-box af-show">&#9733;</span>
+      <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span><span class="af-box">4</span><span class="af-box">5</span><span class="af-box af-show">&#9733;</span>
       <label class="af-boxlabel">A box =</label><span class="af-fill"></span>
     </div>
   </div>
@@ -122,7 +122,7 @@ See **Challenges** ([Chapter 8](../part-two/08-challenges.md)) for the full proc
       <span class="af-diff">Size:<span class="af-chk"></span>Easy<span class="af-chk"></span>Med<span class="af-chk"></span>Hard</span>
     </div>
     <div class="af-chal-track">
-      <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span><span class="af-box">4</span><span class="af-box">5</span><span class="af-box">6</span><span class="af-box">7</span><span class="af-box af-show">&#9733;</span>
+      <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span><span class="af-box">4</span><span class="af-box">5</span><span class="af-box af-show">&#9733;</span>
       <label class="af-boxlabel">A box =</label><span class="af-fill"></span>
     </div>
   </div>
@@ -133,7 +133,7 @@ See **Challenges** ([Chapter 8](../part-two/08-challenges.md)) for the full proc
       <span class="af-diff">Size:<span class="af-chk"></span>Easy<span class="af-chk"></span>Med<span class="af-chk"></span>Hard</span>
     </div>
     <div class="af-chal-track">
-      <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span><span class="af-box">4</span><span class="af-box">5</span><span class="af-box">6</span><span class="af-box">7</span><span class="af-box af-show">&#9733;</span>
+      <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span><span class="af-box">4</span><span class="af-box">5</span><span class="af-box af-show">&#9733;</span>
       <label class="af-boxlabel">A box =</label><span class="af-fill"></span>
     </div>
   </div>

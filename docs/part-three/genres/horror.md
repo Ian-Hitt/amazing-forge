@@ -42,7 +42,7 @@ The two Story Arc sizes (Chapter 10) map onto a nightmare like this:
 
 Chain several frights together and you've got a **Season** (a town under a lengthening shadow) or a whole **Series** (*undo the old wrong that woke it*) — collections of Stories, not bigger tracks (Chapter 10).
 
-The **Antagonist Track** (always present, Chapter 10) is the dread itself closing in — *the thing getting nearer, the dark getting deeper.* It's short, topped by the **climax** box, and it **surges each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — and falling back feels *great* in Horror, the right and human choice, even as it lets the dread gain. Filling it is genuinely frightening: the thing reaches you, the night is lost, the place claims another. That loss seeds the next chapter. Characterize the dread so each Surge is something you can show: "the humming in the walls is louder now, and it's coming from your room."
+The **Antagonist Track** (always present, Chapter 10) is the dread itself closing in — *the thing getting nearer, the dark getting deeper.* It advances when the heroes **strike a Devil's Bargain** (buy survival on a Miss and let the dread gain — the main driver), when a **Miss comes up doubles,** or when a hero goes **Out of Action** (Chapters 9–10) — never when you fall back to regroup. That matters in Horror: falling back to breathe feels *great,* the right and human choice, and it's genuinely free — the dread only gains when you gamble, when the dice betray you, or when someone goes down. Its odd boxes are the thing's **Attacks** (show them on-screen); its **last box** is genuinely frightening — the thing reaches you, the night is lost, the place claims another, seeding the next chapter. The drama is the photo-finish — the dread almost upon you at the end. Characterize the dread so each Attack is something you can show: "the humming in the walls is louder now, and it's coming from your room."
 
 ### Tempo
 
@@ -65,7 +65,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Story Arc: survive the night in the cabin (an Episode). Second Milestone: find the one thing that holds it back. The table sets up a tense Challenge — "search the cellar before the lantern dies," Medium, 4 boxes.*
+> *The Story Arc: survive the night in the cabin (an Episode). Second Milestone: find the one thing that holds it back. The table sets up a tense Challenge — "search the cellar before the lantern dies," Hard, 4 boxes.*
 >
 > **Guide:** The lantern's guttering — maybe a minute of light left. The cellar's full of your grandmother's old things, and somewhere down here is the salt-iron bell she swore by. Scratching starts, slow, on the far wall. What do you do?
 > **Player (Sam):** I'm not panicking. I use *Stays Calm in the Dark* — I picture exactly where she'd keep something that mattered, by the old preserves, and go straight there instead of searching wild.

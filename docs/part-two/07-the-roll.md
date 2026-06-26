@@ -79,13 +79,14 @@ Aid uses the *exact same math* as any other roll, Pay the Price included — it'
 
 Aid is the best use of a turn when the moment isn't in your wheelhouse: the hero the scene doesn't suit sets up the hero it does. Because a Challenge's popcorn turn order means everyone acts every round anyway, it gives that hero a real, satisfying job instead of a wasted turn.
 
-### Oracle's Blessing & Outstanding Success
+### Doubles: Oracle's Blessing or the Villain's Opening
 
-If your two dice come up **matching (doubles)** — two 2s, two 6s, any pair — fate tips in your favor and your result is **upgraded by one tier:**
+If your two dice come up **matching (doubles)** — two 2s, two 6s, any pair — fate swings *hard.* Which way it swings depends on whether you hit:
 
-- A **Miss** with doubles becomes a **Weak Hit.** You scrape through after all (you still Pay the Price as a Weak Hit, but you get what you wanted).
-- A **Weak Hit** with doubles becomes a **Strong Hit.** Clean success, no price.
-- A **Strong Hit** with doubles is an **Outstanding Success.** You succeed *and* add an extra narrative bonus of your choice.
+- On a **Hit, doubles swing your way** (Oracle's Blessing): a **Weak Hit** becomes a **Strong Hit** (clean success, no price), and a **Strong Hit** becomes an **Outstanding Success** — you succeed *and* add an extra narrative bonus of your choice.
+- On a **Miss, doubles swing against you:** the roll stays a Miss, and the **Antagonist Track advances one box** (Chapter 10). You stumbled and the villain seized the opening. You still Pay the Price as a Miss (or take the **Devil's Bargain** — Chapter 9); the doubles don't rescue the roll, they hand the bad guys a step.
+
+That's the whole double edge: *the dice swing hard, for good or ill.* When you're winning, doubles are a treat; when you're not, they're how the villain gains ground.
 
 An Outstanding Success means more than "you did it well." The player gets to bend the Scene in their favor — spend a moment dreaming up what that looks like. A few examples:
 
@@ -94,7 +95,7 @@ An Outstanding Success means more than "you did it well." The player gets to ben
 - You don't just win the crowd over — a key NPC is now an ally who'll show up again.
 - In a Challenge, an Outstanding Success might fill its box *and* hand a teammate a small edge, or set up the next box so it's easier.
 
-Keep the bonus proportional and let the table enjoy it — doubles are a treat, not a loophole. Oracle's Blessing is technically optional, but it's so much fun that most groups keep it on from game one.
+Keep the bonus proportional and let the table enjoy it — the Hit side of doubles is a treat, not a loophole. And because the *Miss* side feeds the Antagonist Track, the doubles rule isn't a bolt-on bonus you can take or leave — it's the core engine that makes every roll's luck cut both ways.
 
 ---
 

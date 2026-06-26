@@ -42,7 +42,7 @@ The two Story Arc sizes (Chapter 10) map cleanly onto a case:
 
 Chain several cases together and you've got a **Season** (a detective's long run) or a whole **Series** (*expose the rot at the very top*) — collections of Stories, not bigger tracks (Chapter 10).
 
-The **Antagonist Track** (always present, Chapter 10) is whoever benefits from the truth staying buried — racing to cover tracks, discredit you, or make the evidence disappear. It's short, topped by the **climax** box, and it **surges each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — the guilty party buries something while you regroup. Fill it and the truth is lost or the culprit walks — which seeds the next case. Name your antagonist so a Surge is concrete: "the file you needed is ash in the grate."
+The **Antagonist Track** (always present, Chapter 10) is whoever benefits from the truth staying buried — racing to cover tracks, discredit you, or make the evidence disappear. It advances when the heroes **strike a Devil's Bargain** (force a clue on a Miss and let the guilty party bury something — the main driver), when a **Miss comes up doubles,** or when a hero goes **Out of Action** (Chapters 9–10) — never when you fall back to regroup, which is free. Its odd boxes are the culprit's **Attacks** (narrate them — evidence vanishing, a witness frightened off); its **last box** means the truth is lost or the culprit walks, seeding the next case. The drama is the photo-finish — the cover-up near complete as you close in. Name your antagonist so each Attack is concrete: "the file you needed is ash in the grate."
 
 ### Tempo
 

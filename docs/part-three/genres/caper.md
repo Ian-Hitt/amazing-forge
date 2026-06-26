@@ -42,7 +42,7 @@ The two Story Arc sizes (Chapter 10) map onto it neatly:
 
 Chain several jobs together and you've got a **Season** (a crew working its way up) or a whole **Series** (*run the long con that dismantles the syndicate*) — collections of Stories, not bigger tracks (Chapter 10).
 
-The **Antagonist Track** (always present, Chapter 10) is the opposition closing in: the security tightening, the rival crew gaining, the mark starting to *suspect*. It's short, topped by the **climax** box, and it **surges each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — the heat gains while you catch your breath. Fill it and the job's blown: caught, beaten to the prize, or made. A blown job stings but seeds the next one (now it's personal). Give the opposition a face so each Surge lands.
+The **Antagonist Track** (always present, Chapter 10) is the opposition closing in: the security tightening, the rival crew gaining, the mark starting to *suspect*. It advances when the heroes **strike a Devil's Bargain** (buy a win on a Miss and let the heat rise — the main driver), when a **Miss comes up doubles,** or when a hero goes **Out of Action** (Chapters 9–10) — never when you fall back to regroup, which is free. Its odd boxes are the opposition's **Attacks** (narrate them — an alarm armed, a guard rotation tightened); its **last box** means the job's blown: caught, beaten to the prize, or made. A blown job stings but seeds the next one (now it's personal). The drama is the photo-finish — the heat near boiling as you make the exit. Give the opposition a face so each Attack lands.
 
 ### Tempo
 
@@ -65,7 +65,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Story Arc: lift the Star of the Sea from the gala (an Episode). Second Milestone: make the swap unseen. The table sets up a Social/Stealth Challenge — Medium, 4 boxes, the floor's watchful security as the antagonist.*
+> *The Story Arc: lift the Star of the Sea from the gala (an Episode). Second Milestone: make the swap unseen. The table sets up a Social/Stealth Challenge — Hard, 4 boxes, the floor's watchful security as the antagonist.*
 >
 > **Guide:** The Star's in a case under glass, and the curator is standing *right there*, beaming at guests. Your replica is in your jacket. The lights are about to dim for the auction — your one window. What do you do?
 > **Player (Lex):** I send the Face over to pull the curator into a conversation she can't politely escape — gushing about the *provenance*, demanding a tour — while I drift to the case. I'm using *The Switcheroo* the second her back's turned.

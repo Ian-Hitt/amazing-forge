@@ -42,7 +42,7 @@ The two Story Arc sizes (Chapter 10) map onto survival like this:
 
 Chain several of these together and you've got a **Season** (the long fight to hold a haven) or a whole **Series** (*relight a piece of the old world*) — collections of Stories, not bigger tracks (Chapter 10).
 
-The **Antagonist Track** (always present, Chapter 10) is whatever's grinding the survivors down: the raider warlord, the rival enclave, the failing land, the long winter, the sickness with no cure. It's short, topped by the **climax** box, and it **surges each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — the threat gains ground while you catch your breath. Fill it and you lose the haven, the harvest, the people — which seeds the next Story Arc, because in a ruined world a loss is just the start of the next fight. A **force** antagonist (the drought, the cold) works perfectly here; characterize it so each Surge is concrete: "the well's gone brackish, and the next one's two days out."
+The **Antagonist Track** (always present, Chapter 10) is whatever's grinding the survivors down: the raider warlord, the rival enclave, the failing land, the long winter, the sickness with no cure. It advances when the heroes **strike a Devil's Bargain** (buy a win on a Miss and let the threat gain — the main driver), when a **Miss comes up doubles,** or when a hero goes **Out of Action** (Chapters 9–10) — never when you fall back to regroup, which is free. Its odd boxes are the threat's **Attacks** (narrate them — a raid, a frost, a well gone dry); its **last box** means you lose the haven, the harvest, the people — seeding the next Story Arc, because in a ruined world a loss is just the start of the next fight. The drama is the photo-finish — the threat nearly on top of you as you secure the foothold. A **force** antagonist (the drought, the cold) works perfectly here; characterize it so each Attack is concrete: "the well's gone brackish, and the next one's two days out."
 
 ### Tempo
 
@@ -65,7 +65,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Story Arc: cross the dead city to the water cache (an Episode). First Milestone: get past the raider tollgate. The table sets up a Social Challenge — Medium, 4 boxes, the wary raiders as the obstacle.*
+> *The Story Arc: cross the dead city to the water cache (an Episode). First Milestone: get past the raider tollgate. The table sets up a Social Challenge — Hard, 4 boxes, the wary raiders as the obstacle.*
 >
 > **Guide:** The off-ramp into the city is chained shut, and three raiders lounge around an oil-drum fire. They've already clocked your truck. The big one stands, grinning, and holds out a hand: "Toll's half your gas, friend." What do you do?
 > **Player (Bex):** A fight we'd lose, so I deal instead. I use *Bartering for a Fair Trade* — I offer them something better than gas: a working radio battery, plus the location of a stash. I don't mention I already cleaned that stash out.

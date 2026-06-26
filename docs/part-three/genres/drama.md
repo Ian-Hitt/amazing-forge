@@ -43,7 +43,7 @@ The two Story Arc sizes (Chapter 10) map cleanly onto Drama:
 
 Chain several of these together and you've got a **Season** (a year of shifting alliances) or a whole **Series** (*take your family's seat back at the high table*) — collections of Stories, not bigger tracks (Chapter 10).
 
-And the **Antagonist Track** (always present, Chapter 10) is just as real without a monster: it's your **rival's rising influence**, or a **scandal creeping toward exposure**. It's short, topped by the **climax** box, and it **surges each time you fall back to regroup** (a **Recovery Scene**, Chapter 9) — ground given while you recover your composure. Fill it and you've lost *this* one — the rival wins the seat, the secret breaks — which seeds the next Story Arc. Name your antagonist as a person or a looming event so a Surge is always something you can narrate: "the Duchess smiles; she just locked in the vote you needed."
+And the **Antagonist Track** (always present, Chapter 10) is just as real without a monster: it's your **rival's rising influence**, or a **scandal creeping toward exposure**. It advances when you **strike a Devil's Bargain** (force the moment on a Miss and give the rival ground — the main driver), when a **Miss comes up doubles,** or when a hero goes **Out of Action** (Chapters 9–10) — never when you fall back to recover your composure, which is free. Its odd boxes are the rival's **Attacks** (narrate them — a whisper spread, an ally peeled away); its **last box** means you've lost *this* one — the rival wins the seat, the secret breaks — seeding the next Story Arc. The drama is the photo-finish — the rival nearly on top as the vote lands. Name your antagonist as a person or a looming event so each Attack is always something you can narrate: "the Duchess smiles; she just locked in the vote you needed."
 
 ### Tempo
 
@@ -67,7 +67,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Story Arc: win back Mara, the friend you betrayed (a Season). First Milestone: get her to actually talk to you. The table sets up a Social Confrontation — Medium, 4 boxes, the track being Mara's willingness to hear you out.*
+> *The Story Arc: win back Mara, the friend you betrayed (a Season). First Milestone: get her to actually talk to you. The table sets up a Social Confrontation — Hard, 4 boxes, the track being Mara's willingness to hear you out.*
 >
 > **Guide:** Mara's at her locker, and she's already seen you coming. Her face closes like a door. What do you do?
 > **Player (Jule):** I don't lead with sorry — she's heard sorry. I hold up the notebook she lost last year, the one I found. "You left this in the music room. I kept meaning to give it back." I'm using *Knows Everyone's Heart* — I know how much it means to her.

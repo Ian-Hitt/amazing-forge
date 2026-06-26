@@ -42,7 +42,7 @@ The two Story Arc sizes (Chapter 10) map onto it like this:
 
 Chain several of these together and you've got a **Season** (a long cold war with the system) or a whole **Series** (*free the colony from the corporation that owns its air*) — collections of Stories, not bigger tracks (Chapter 10).
 
-The **Antagonist Track** (always present, Chapter 10) is rarely a single villain — it's a *force with a logo*: the corporation, the rogue AI, the unforgiving physics of the place, the thing in the cargo hold. It's short, topped by the **climax** box, and it **surges each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — the system gains while you regroup. Fill it and the AI wins, the corp seizes control, the derelict claims you — which seeds the next Story Arc. Give the force a face (a smug exec, a too-calm AI voice) so each Surge is concrete.
+The **Antagonist Track** (always present, Chapter 10) is rarely a single villain — it's a *force with a logo*: the corporation, the rogue AI, the unforgiving physics of the place, the thing in the cargo hold. It advances when the heroes **strike a Devil's Bargain** (buy a win on a Miss and let the system gain — the main driver), when a **Miss comes up doubles,** or when a hero goes **Out of Action** (Chapters 9–10) — never when you fall back to regroup, which is free. Its odd boxes are the force's **Attacks** (narrate them — a deck venting, a firewall closing); its **last box** is the AI winning, the corp seizing control, the derelict claiming you, seeding the next Story Arc. The drama is the photo-finish — the system near control as you reach the exit. Give the force a face (a smug exec, a too-calm AI voice) so each Attack is concrete.
 
 ### Tempo
 
@@ -65,7 +65,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Story Arc: escape the derelict before it falls into the star (an Episode). First Milestone: restore main power. The table sets up a Challenge — "get the reactor online," Medium, 4 boxes, the failing ship itself as the antagonist.*
+> *The Story Arc: escape the derelict before it falls into the star (an Episode). First Milestone: restore main power. The table sets up a Challenge — "get the reactor online," Hard, 4 boxes, the failing ship itself as the antagonist.*
 >
 > **Guide:** The reactor room's dark except for one red emergency strip. The main coupling's fried — but there's a salvage drone clamped to the wall, dormant, that could bridge the gap if you can wake it. The deck's already warming under your boots. What do you do?
 > **Player (Iko):** I jack into the drone and try to wake it gently — I don't want it dumping its logs and rebooting, we don't have time. *Interfaces With Machines.*

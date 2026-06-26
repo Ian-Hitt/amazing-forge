@@ -67,7 +67,7 @@ When you want a surprise, or when nobody can name the next beat, roll **1d6** on
 **"Bend toward the Milestone" is the whole trick.** The Spark gives you a *shape*; you supply the *content*, and the content is always pointed at what the heroes are chasing. The same roll means different things depending on where the story is:
 
 - Chasing a Milestone of **"reach the smugglers' den"** and you roll **1 (A new face)?** A dockhand who knows the way in — for a price. Same roll, Milestone **"clear your name with the council"?** A council member's aide slips you a warning in the hall.
-- Roll **3 (The threat closes in)?** This is your cue to advance the **Antagonist** in the fiction — the desert sends a sandstorm; the rival captain reaches port first. (This is a story beat, not a track move — the Antagonist Track only surges when the heroes take a Recovery Scene, Chapter 10.)
+- Roll **3 (The threat closes in)?** This is your cue to advance the **Antagonist** in the fiction — the desert sends a sandstorm; the rival captain reaches port first. (This is a story beat, not a track move — the Antagonist Track only fills through the Devil's Bargain, doubles on a Miss, and going Out of Action, Chapter 10.)
 - Roll **5 (A cost surfaces)?** Something the heroes were counting on is gone, broken, or guarded. Roll **Pay the Price** if you want the specifics handed to you.
 
 A Spark is a prompt, not a command. If the roll genuinely doesn't fit, treat it as inspiration and take the nearest thing that does — but give it a real chance first. The off-angle results are often the ones that make the story surprising.

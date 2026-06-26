@@ -1,8 +1,8 @@
 # Chapter 10 — Story Arcs & the Antagonist Track
 
-A **Story Arc** is the engine that gives an adventure shape: a goal worth chasing, the steps to get there, and a villain racing you for it. Every Story Arc is **one spine** — a single central dramatic question — and this chapter is the complete guide to setting one up and running it: the **Story Arc Track**, the **Antagonist Track** that runs alongside it with its **climax held in reserve**, how to build good Milestones, how the villain surges, what happens when you win, lose, or quit, and how to chain Stories into a Season or a whole Series.
+A **Story Arc** is the engine that gives an adventure shape: a goal worth chasing, the steps to get there, and a villain racing you for it. Every Story Arc is **one spine** — a single central dramatic question — and this chapter is the complete guide to setting one up and running it: the **Story Arc Track**, the **Antagonist Track** that runs alongside it as the villain's own race, how to build good Milestones, the three ways the villain gains ground, what happens when you win, lose, or quit, and how to chain Stories into a Season or a whole Series.
 
-Everything here builds on tools from earlier chapters: Milestones are made of **Scenes** (Chapter 8), the heroes win or lose by filling tracks, and the Antagonist Track moves when the heroes **fall back to regroup** — a **Recovery Scene** (Chapter 9).
+Everything here builds on tools from earlier chapters: Milestones are made of **Scenes** (Chapter 8), the heroes win or lose by filling tracks, and the Antagonist Track moves through the **Devil's Bargain,** doubles on a Miss, and going **Out of Action** (Chapters 7 and 9) — never by resting.
 
 ---
 
@@ -18,7 +18,7 @@ A Story Arc has three parts:
 
 ```
 STORY ARC TRACK:    [ ]  [ ]  [ ]
-ANTAGONIST TRACK:   [ ]  [★]          ★ = the reserved climax box  (an Episode)
+ANTAGONIST TRACK:   [▲] [ ] [▲] [ ] [▲]    ▲ = a villain Attack (narrated); last box = the villain wins  (an Episode)
 ```
 
 You don't plan *how* each Milestone gets done — that's what play discovers. You only name the Goal, the Milestones, and the antagonist, draw the two rows, and start in the middle of the action.
@@ -29,14 +29,14 @@ A Story Arc comes in one of two sizes, and these are the only two with their own
 
 | Size | Story Arc Track | Antagonist Track | Feels like |
 |---|---|---|---|
-| **Episode** | **3 Milestones** | **2 boxes** (1 surge + the climax) | one TV episode, told in a single sitting |
-| **Movie** | **6 Milestones** | **4 boxes** (3 surges + the climax) | a feature film, told over ~2–3 sessions |
+| **Episode** | **3 Milestones** | **5 boxes** (attacks on 1 · 3 · 5) | one TV episode, told in a single sitting |
+| **Movie** | **6 Milestones** | **9 boxes** (attacks on 1 · 3 · 5 · 7 · 9) | a feature film, told over ~2–3 sessions |
 
-> **Two-player Movies get one more box.** A duo has fewer heroes to spread the strain across, so a Movie run by **two players** uses a **5-box** Antagonist Track — one extra regroup before the villain is one step from winning. The Episode is unchanged at any size.
+> **Antagonist sizes don't change with party count.** Five boxes for an Episode and nine for a Movie at *any* table size. Because Challenges are sized by difficulty alone (Chapter 8), the total rolls per Story stay about the same whether two heroes are rolling or six — so the clock fills at about the same rate for everyone. No special rules for big or small groups.
 
 Pick the size with one question: **a single sitting, or a feature?** An **Episode** is the short, complete story you finish tonight (your first games use only this). A **Movie** is the bigger self-contained story you tell start-to-finish over a couple of sessions — *the heroes are trapped on a space station spiraling into its sun, with until dawn to get everyone off alive.*
 
-The box counts are defaults, not locks — a meaty Episode can stretch a Milestone or two. The important part is that the **Antagonist Track is short**, and its **top box is the climax** — sized so the villain ends up *one step from winning* right as the heroes reach their finale (Part B).
+The Story Arc Track is one box per Milestone. The **Antagonist Track is longer** and fills a box at a time as the villain gains ground (Part B). Its **odd boxes are the villain's Attacks** — the beats where you cut away and show the bad guys winning something off-screen — and its **last box is their victory.** Sized this way, the villain's clock tends to end up *near* full as the heroes reach their finale — the photo-finish a good climax wants — without the heroes ever being railroaded there.
 
 ### Seasons and Series: Collections, Not Sizes
 
@@ -109,13 +109,13 @@ Same Milestone, three different heats. Roll, read the temperature, paint the pic
 
 ### Finishing a Story Arc: the Showdown
 
-Fill the last box of the Story Arc Track and the heroes reach the **climax — the Showdown.** This is the reserved top box of the Antagonist Track made flesh: the final confrontation, with the villain *one step from winning.* Play the closing Milestone as one last roll:
+Fill the last box of the Story Arc Track and the heroes reach the **climax — the Showdown:** the final confrontation, played as one last roll. By now the Antagonist Track has usually climbed near its top, so the villain is often *one step from winning* too — and this roll lands with everything on the line. Play the closing Milestone as one roll:
 
 - **Strong Hit:** the Story Arc is won, gloriously — add a narrative bonus.
 - **Weak Hit:** won, but Pay the Price on the way out.
-- **Miss:** *you thought it was over, but it wasn't.* Add **one extra Milestone box** to the Story Arc Track and drop a climactic twist — the villain's true plan surfaces, an ally turns, the prize is a fake. Complete that new Milestone, then attempt the Showdown again.
+- **Miss:** *you thought it was over, but it wasn't.* Add **one extra Milestone box** to the Story Arc Track and drop a climactic twist — the villain's true plan surfaces, an ally turns, the prize is a fake. Complete that new Milestone, then attempt the Showdown again. (A missed Showdown is a Miss like any other: doubles still advance the villain, and the Devil's Bargain is still on the table — the ultimate gamble.)
 
-A missed Showdown **never** fills the reserved Antagonist box on its own — the twist gives the heroes *more story to play,* not the villain a free win. When the heroes win, play out the victory: finishing a Story Arc is **Downtime** (Chapter 9), so each hero resets to full Readiness and any Broken Asset is restored before the next Story Arc.
+The twist gives the heroes *more story to play,* not the villain a free win — but with the villain's clock often near full, finishing before they do is the whole tension of the moment. When the heroes win, play out the victory: finishing a Story Arc is **Downtime** (Chapter 9), so each hero resets to full Readiness and any Broken Asset is restored before the next Story Arc.
 
 ---
 
@@ -125,13 +125,13 @@ A missed Showdown **never** fills the reserved Antagonist box on its own — the
 
 Every Story Arc is a **race between two tracks.** The Story Arc Track is the heroes' progress; the **Antagonist Track** is the villain's progress toward *their* goal, running in parallel. It is **the losing side of the same Story Arc** — not a separate arc, but this Story Arc's other end — and a **core part of every Story Arc,** never optional.
 
-It is **short**, and its **top box is the climax — held in reserve.** The lower boxes fill as the villain gains ground during play; the top box is taken only at the very end — either when the heroes reach their Showdown (and the Story Arc's outcome is decided there), or when the heroes are overwhelmed before they get there (below). The whole design points at one ending: **arrive at the climax with the villain one step from winning** — the photo-finish.
+The villain fills it a box at a time as they gain ground during play. Its **odd boxes are Attacks** — you stop and show the villain winning something off-screen — and its **last box is their victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. The whole design points at one ending: the heroes reaching their finale with the villain's clock *near* full — the **photo-finish.** But nobody is steered there; where the villain ends up is the sum of the gambles the heroes took and the luck of the dice (below).
 
-Each lower box is one of the villain's *own* milestones — the dragon spreading its fire, the rival crew closing on the same treasure, the storm marching toward the city.
+Each box is one of the villain's *own* milestones — the dragon spreading its fire, the rival crew closing on the same treasure, the storm marching toward the city.
 
 ### Drawing the Track
 
-Draw the Antagonist Track as a short row beneath the Story Arc Track — **Episode: 2 boxes. Movie: 4 boxes** (a two-player Movie uses **5**). **Mark the top box clearly as the climax** (a star, a different color) so everyone can see it's reserved. You don't have to spell out the villain's milestones in advance; you'll decide what each filled box *means* when it happens (see the Surge).
+Draw the Antagonist Track as a row beneath the Story Arc Track — **Episode: 5 boxes. Movie: 9 boxes** (the same at any party size). **Mark the odd boxes as Attacks** (a different color, a little ▲) so everyone can see which ticks you'll stop and play out. You don't spell out the villain's milestones in advance; you decide what each Attack *means* when it happens (see The Attack, below).
 
 ### Characterize Your Antagonist
 
@@ -141,34 +141,38 @@ Before you can play "the bad guys gaining ground," you need to know **who the ba
 - Racing a sickness through the village? The **plague** is the antagonist; each box is another street it reaches.
 - Up against a scheming duke? Easy — *he's* the antagonist, and each box is a move in his plan.
 
-Naming this turns every Surge into a concrete story beat instead of an abstract counter. You're not "marking box two of three" — *the sandstorm hits.*
+Naming this turns every Attack into a concrete story beat instead of an abstract counter. You're not "marking box three of five" — *the sandstorm hits.*
 
 > *To make a *person* antagonist into a memorable **character,** see [Chapter 16](../part-three/16-cool-characters.md), which builds villains from the same archetypes as heroes.*
 
-### How It Fills: the Surge on a Recovery Scene
+### How It Fills: Three Triggers
 
-The Antagonist Track advances **one box each time the heroes fall back to regroup** — that is, whenever they take a **Recovery Scene** (Chapter 9). Pulling back to lick your wounds and catch your breath buys the party recovery, but it costs **ground**: while the heroes regroup, the villain moves. That advance is the **Surge.**
+The Antagonist Track advances **one box** in exactly three ways — and *not* when the heroes rest:
 
-This is the *only* thing that routinely advances the Antagonist Track. A few things follow from that:
+1. **A Devil's Bargain (Chapter 9).** On a Miss, a hero can refuse the price and turn the Miss into a Strong Hit in exchange for advancing the villain one box. This is the main engine: the heroes feed the villain by buying their own successes. The villain gains ground because the heroes *decided* a win-now was worth a step toward defeat.
+2. **Doubles on a Miss (Chapter 7).** When a Miss comes up doubles, the dice swing against the heroes and the villain advances one box. This is the part nobody controls — the random pressure that makes riding the clock to its edge genuinely risky.
+3. **A hero going Out of Action (Chapter 9).** Drop to 0 Readiness and the villain seizes the moment — one box, on top of the broken Asset. The catastrophe trigger.
 
-- **It's emergent and player-chosen.** Nobody schedules the surges. The villain advances exactly when the heroes decide they're hurt enough to need to fall back — discovered in play, never on a clock.
-- **The regroup is the quiet beat between dangers.** A Recovery Scene is the campfire, the heart-to-heart, the patched wound — **often a B-plot or character scene.** So your character moments are *where the villain gains ground*: taking time for the cast is never free, which gives the slow scenes real stakes.
-- **Keep the climax box free.** The heroes won't *voluntarily* regroup into the top box — that would hand the villain the win. Voluntary Recovery Scenes fill the track up to one-from-full and stop there. (The small **Mend** patches a hero without falling back, and **never** surges — Chapter 9.)
+A few things follow:
 
-### The Surge: Playing Out a Villain Milestone
+- **Resting is free.** A Recovery Scene never advances the villain (Chapter 9) — the old trap of "healing costs you ground" is gone. Fall back as often as the fiction allows.
+- **The pressure is player-authored.** Most of the villain's climb comes from Devil's Bargains — choices the heroes make under fire. The clock is a mirror of how hard they've been pushing their luck.
+- **It can't be gamed to zero.** Even a cautious party that never bargains still faces doubles-Misses and the odd knockdown, so the villain always creeps. A party that bargains freely sees the clock race — which is exactly the tense story they're choosing to tell. (The small **Mend** patches a hero without ever advancing the villain — Chapter 9.)
 
-When a Recovery Scene fills a box, **stop and play it out** — this beat is the **Surge.** The villain just gained ground while the heroes caught their breath, so:
+### The Attack: Playing Out a Villain Beat
 
-1. **Envision what that looks like for them off-screen.** The cult finished the first ritual; the warlord seized the bridge; the flood reached the lower town; the **sandstorm** rolled in and buried the trail.
-2. **Bring it on-screen as a complication.** A new obstacle appears, a threat escalates, an ally is captured, the deadline jumps closer. The world should visibly tighten.
+You don't narrate a villain beat on *every* box — only on the **odd "Attack" boxes** (1, 3, 5, and on a Movie 7, 9). The even boxes are silent pressure: the music tightening, the walls inching in, no scene needed. This keeps the villain's *story* beats paced even when boxes fill in a rush — two bargains in one fight just slide the clock along, and you play the Attack when the next odd box lands.
 
-A Surge is an open invitation to bend the plot — the payoff that makes the breather *feel* costly even though it saved the party. (And because you **characterized your antagonist,** you always know whose face to put on it — even when the "villain" is a desert.)
+When an **Attack box** fills, **stop and play it out:**
+
+1. **Envision what the villain did off-screen.** The cult finished the first ritual; the warlord seized the bridge; the flood reached the lower town; the **sandstorm** rolled in and buried the trail.
+2. **Bring it on-screen as a complication.** A new obstacle, an escalated threat, an ally captured, the deadline jumped closer. The world visibly tightens.
+
+An Attack is an open invitation to bend the plot — the cost of all that pushing made flesh. (And because you **characterized your antagonist,** you always know whose face to put on it — even when the "villain" is a desert.) The **last Attack box is the villain's victory:** if it fills before the heroes finish, play it as the bad guys winning the whole Story (Part C).
 
 ### Losing Before the Climax (Out of Action)
 
-There's one more way the villain can take a box — and it's the real risk. A hero taken **Out of Action** (Readiness 0) has to be brought back on their feet, and that **forces a Recovery Scene** — whose Surge advances the villain **even into the reserved climax box.** If that fills it, the villain wins *before* the heroes reach their Showdown: the Story Arc is **lost early.**
-
-So going down is no longer a survival-neutral hiccup. Near the end of a Story Arc, getting knocked Out of Action is *how you lose.* Heroes still can't die — but Readiness has become **ammunition spent against the villain's clock,** not a meter that just refills. (This is also why the quick Mend can't revive an Out-of-Action hero — Chapter 9 — otherwise a cheap patch would dodge the loss vector entirely.)
+The surest way to hand the villain ground you didn't *choose* to give is to go **Out of Action.** A hero dropping to 0 Readiness advances the villain a box on the spot (Chapter 9) — and near the end of a Story Arc, that box can be the villain's last, losing the Story *before* the heroes reach their Showdown. Heroes still can't die — but Readiness is now the resource standing between the party and an *unchosen* step toward defeat, which is exactly why falling back to recover (free!) is the smart play when you're battered. (It's also why you can't take a Devil's Bargain on a knockout roll — you can't buy your way out of going down. Chapter 9.)
 
 ---
 

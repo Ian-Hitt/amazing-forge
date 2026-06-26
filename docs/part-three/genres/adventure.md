@@ -43,7 +43,7 @@ The two Story Arc sizes (Chapter 10) map straight onto it:
 
 Chain several of these together and you've got a **Season** (a run of expeditions sharing a rival) or a whole **Series** (*topple the Sky-Tyrant and free the floating cities*) — those are collections of Stories, not bigger tracks (Chapter 10).
 
-The **Antagonist Track** (always present, Chapter 10) is the thing *racing* you: the rival crew, the waking beast, the marching tyrant, the closing storm-season. It's short, and its top box is the **climax.** It **surges one box each time the heroes fall back to regroup** (a **Recovery Scene**, Chapter 9) — the rival pulls ahead while you catch your breath. Fill it and they get there first, seeding the next Story Arc. Give your antagonist a face so every Surge is something you can narrate.
+The **Antagonist Track** (always present, Chapter 10) is the thing *racing* you: the rival crew, the waking beast, the marching tyrant, the closing storm-season. It advances when the heroes **strike a Devil's Bargain** (buy a win on a Miss and hand the rival a step — the main driver), when a **Miss comes up doubles,** or when a hero goes **Out of Action** (Chapters 9–10) — never when you fall back to regroup, which is free. Its odd boxes are the rival's **Attacks** (narrate them — the rival pulls ahead, on-screen); its **last box** is the rival getting there first, seeding the next Story Arc. The drama is the photo-finish — the rival near full as you reach the finale. Give your antagonist a face so every Attack is something you can narrate.
 
 ### Tempo
 
@@ -67,7 +67,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Story Arc: reach the lost temple (an Episode). First Milestone: cross the Saltglass Waste. The table sets up a Journey Challenge — Medium, 4 boxes, the track being the desert itself.*
+> *The Story Arc: reach the lost temple (an Episode). First Milestone: cross the Saltglass Waste. The table sets up a Journey Challenge — Hard, 4 boxes, the track being the desert itself.*
 >
 > **Guide:** Three days into the Waste and the wind kicks up — a wall of stinging dust rolling in fast. The only cover is a ridge a hard sprint away. What do you do?
 > **Player (Rook):** I grab the rope and lash us together so nobody gets lost in it, then lead us for the ridge. I've got *Wilderness Survival* — I know how these storms move.

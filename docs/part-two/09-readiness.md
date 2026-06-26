@@ -6,9 +6,9 @@ A quick orientation before the details:
 
 - Readiness only ever **falls during action**, on a Weak Hit (−1) or a Miss (−2). Its max is always **9** — it never sinks.
 - It comes back through **three** moves: a quick, risky **Mend** *during* a Challenge; a **Recovery Scene** when the heroes fall back to regroup; and **Downtime** between Stories.
-- **Mend** is the gamble — a little healing now (Strong +3 / Weak +2), but a **Miss costs you 1 Readiness.** It's a tactical choice on your turn, and it does **not** advance the villain.
-- The **Recovery Scene** is the reliable one — the whole party back up to a full **9** — but it **surges the Antagonist Track one box** (Chapter 10). Recovery you can count on; ground you give up.
-- The pressure in a Story Arc isn't a sinking ceiling — it's the **Antagonist Track.** Every regroup heals you completely *but* hands the villain a box, and that track is short with its top box reserved for the climax. Readiness isn't a survival meter (heroes can't die) — it's **ammunition against the villain's clock.**
+- **Mend** is the gamble — a little healing now (Strong +3 / Weak +2), but a **Miss costs you 1 Readiness.** A tactical choice on your turn.
+- The **Recovery Scene** is the reliable one — the whole party back up to a full **9**, no roll and **no cost.** Falling back to regroup is always safe; it's the quiet beat between dangers, not a resource you ration.
+- **Readiness doesn't decide whether you lose** — the **Antagonist Track** does (Chapter 10), and that clock is driven by the **Devil's Bargain,** doubles on a Miss, and going **Out of Action** — *not* by resting. Readiness is your pacing signal — *when am I battered enough to fall back?* — and a resource you weigh against the bargain, never a survival meter. Heroes can't die.
 
 ---
 
@@ -60,25 +60,38 @@ The art of a good price is making it **push the story forward** rather than simp
 
 Used this way, Paying the Price becomes the engine of complications that the whole adventure runs on: every Weak Hit and Miss is a little gift of new trouble to play with.
 
-> **A clarifying note on the Antagonist Track:** Paying the Price and the **Antagonist Track** (Chapter 10) are completely separate. A Weak Hit or Miss costs Readiness and nothing else — it never advances the villain. The bad guys gain ground only when the heroes take a **Recovery Scene** (fall back to regroup, below). Don't conflate the two: the price is what a roll costs *you*; the villain clock moves only when you choose to pull back and recover.
+### The Devil's Bargain — Turn the Stumble into a Win
+
+On a **Miss**, you don't have to take the price lying down. You can strike a **Devil's Bargain:** refuse the Readiness loss *and* turn the Miss into a **Strong Hit** — you get exactly what you reached for — in exchange for **advancing the Antagonist Track one box** (Chapter 10). You buy success now by handing the villain a step toward their goal.
+
+It's a real gamble, and the heart of a Story Arc's pressure:
+
+- **It pushes both clocks at once.** A bargain fills your Challenge box *and* the villain's track. You're betting you're closer to your finish than they are to theirs.
+- **It's always optional.** That's why it's a *bargain* — you never have to take it. Eat the price and stay clean, or buy the win and owe the future.
+- **You can't bargain your way out of defeat.** You may **not** take the Bargain on a Miss whose price would knock you **Out of Action** (below). The Bargain keeps you fighting; it can't save you once you're going down. (So when you're one bad roll from the floor, the safe play is to fall back for a Recovery Scene — not to gamble.)
+- **The villain's advance is a story beat.** Whenever a bargain fills an Antagonist box, that's the villain gaining ground off-screen — play it out (Chapter 10).
+
+Because the Bargain is the main way the villain advances, it's the main source of *tension you author yourself:* every Miss becomes a question — **pay, or deal?**
+
+> **A clarifying note on what moves the villain.** Otherwise, Paying the Price and the **Antagonist Track** (Chapter 10) are separate: a Weak Hit or a plain Miss costs Readiness and nothing else. The villain gains ground in exactly three ways — you take a **Devil's Bargain,** you **Miss with doubles** (Chapter 7), or a hero goes **Out of Action** (below). **Recovery never advances the villain** — falling back to regroup is free.
 
 ---
 
 ## Part B — Recovery
 
-Readiness only falls in the heat of the action, and there are three ways it comes back — a quick risky **Mend** any time there's a beat for it, a **regroup** when the heroes fall back, and a clean slate **between Story Arcs.** What gives a Story Arc its mounting pressure isn't your healing — it's the cost of that healing: **every regroup hands the villain a box.**
+Readiness only falls in the heat of the action, and there are three ways it comes back — a quick risky **Mend** any time there's a beat for it, a **regroup** when the heroes fall back, and a clean slate **between Story Arcs.** None of them costs you the villain's clock: **recovery is free.** A Story Arc's mounting pressure comes from the choices you make under fire — the Devil's Bargains you take, the doubles that turn against you — not from the price of catching your breath.
 
 | Move | When | Heals | The catch |
 |---|---|---|---|
 | **Mend** | Any scene, on your turn | a little (risky) | a **Miss costs you 1 Readiness**; can't revive a downed hero |
-| **Recovery Scene** | Falling back to regroup at a safe lull | the party back to full **9** | **surges the Antagonist Track one box** |
+| **Recovery Scene** | Falling back to regroup at a safe lull | the party back to full **9** | **free** — no roll, no cost to the villain's clock |
 | **Downtime** | Between Story Arcs | full heal + Broken Assets restored | (none — the Story Arc's over) |
 
-All three use the same core move (Chapter 7) where a roll is called for. Only the Recovery Scene advances the villain.
+Only **Mend** is a roll (Chapter 7); the Recovery Scene and Downtime are automatic. **None of them advances the villain** — recovery is always safe.
 
 ### Mend — the Quick Gamble
 
-Any time the fiction gives you a beat — in the thick of a Challenge, *or* in an ordinary scene between them — a hero can **Mend:** a fast, risky patch-up of a hurt hero, **yourself or a teammate.** (A Challenge is just a scene with a track; you can patch up in either.) In a Challenge it's a real tactical choice — *press the advantage, or take a beat to patch up?* — since Mending is your action that turn instead of a Challenge Roll. Describe the care — binding a wound, a quick spell, a swig from a flask, a steadying word — then roll, building the modifier the usual two-layer way against the care you're giving: **+1** if it calls for one of your Stats (a steadying word leans on **Charming**, field surgery on **Clever**), **+1** if one of your Assets fits, **+0** if neither (doubles upgrade, as always). The hero you tend:
+Any time the fiction gives you a beat — in the thick of a Challenge, *or* in an ordinary scene between them — a hero can **Mend:** a fast, risky patch-up of a hurt hero, **yourself or a teammate.** (A Challenge is just a scene with a track; you can patch up in either.) In a Challenge it's a real tactical choice — *press the advantage, or take a beat to patch up?* — since Mending is your action that turn instead of a Challenge Roll. Describe the care — binding a wound, a quick spell, a swig from a flask, a steadying word — then roll, building the modifier the usual two-layer way against the care you're giving: **+1** if it calls for one of your Stats (a steadying word leans on **Charming**, field surgery on **Clever**), **+1** if one of your Assets fits, **+0** if neither (doubles upgrade a Hit, as always — and Mend never advances the villain, so a missed Mend just costs you, below). The hero you tend:
 
 | Roll | Result (for the tended hero) |
 |---|---|
@@ -89,26 +102,23 @@ Any time the fiction gives you a beat — in the thick of a Challenge, *or* in a
 Mend has **no usage cap** — it's a gamble, not a ration, and two things keep it honest:
 
 - **A Miss costs you.** Recovering is never guaranteed; reach for a patch when you're hurt but steady, not when you're one bad roll from the floor. When you're *that* low, the safe play is to fall back for a Recovery Scene instead.
-- **It only heals up to 9.** A hero already *at* 9 can't be Mended any higher — patch the hurt, not the healthy. And since a Miss still costs 1, never gamble a Mend you don't need. Mend smooths the ride mid-fight; it just tops you off without handing the villain a box, where a Recovery Scene heals fully but surges.
+- **It only heals up to 9.** A hero already *at* 9 can't be Mended any higher — patch the hurt, not the healthy. And since a Miss still costs 1, never gamble a Mend you don't need. Mend smooths the ride mid-fight; it tops you off on the spot, where a Recovery Scene heals fully but means falling back and slowing the camera.
 
 Two more rules: **Mend never advances the Antagonist Track** (it's not a retreat — you stood your ground and bandaged up), and **Mend cannot revive an Out-of-Action hero** (only a Recovery Scene or Downtime brings someone back from 0 — see below).
 
 ### The Recovery Scene — Fall Back and Regroup
 
-Whenever the heroes reach a safe lull — **most often between Challenges**, when the action pauses and they can catch their breath — they can **fall back and regroup:** a **Recovery Scene.** This is the reliable recovery, and the weighty one. The party pulls back, and:
+Whenever the heroes reach a safe lull — **most often between Challenges**, when the action pauses and they can catch their breath — they can **fall back and regroup:** a **Recovery Scene.** This is the reliable recovery. The party pulls back, and **everyone recovers all the way back to 9** — no roll, no whiff, **no cost.** Falling back *works,* and it works completely.
 
-- **Everyone recovers all the way back to 9** — no roll, no whiff. Falling back *works,* and it works completely.
-- **The Antagonist Track surges one box** (Chapter 10) — the villain gains ground while you breathe. The **only** thing that routinely advances the villain.
+That's deliberate: **recovery is free and safe.** It doesn't advance the villain and it doesn't cost you anything but the time it takes — so you never ration it or dread it. What it *does* cost is the camera: a Recovery Scene means stepping out of the action to regroup. Its real job isn't bookkeeping — it's **pacing.** It's the quiet beat between dangers: the campfire, the patched wound, **the character scene.** Tables won't reach for one after every scratch — nobody wants to stop the movie to rest — but when the party's battered, falling back to breathe and play a character beat is always available and always safe.
 
-That second point is the engine of a Story Arc's rising pressure. Healing is total — the cost is the *clock.* The Antagonist Track is short and its top box is the reserved climax, so each regroup brings the villain one box closer to winning before the heroes can mount their Showdown. So a Recovery Scene never leaves you weaker, but it never comes free either: you buy a full heal with a step toward defeat. The longer the heroes lean on it, the tighter the squeeze — which pushes them to reach the climax before they've spent the villain's track down to its last box.
+A Recovery Scene is **gated by the fiction** (you need a genuine safe moment) and **chosen by the players.** (Falling back from a Challenge you're losing — what other games call fleeing — is just a Recovery Scene: you lose the Challenge's progress and the party heals to full. The villain doesn't gain anything; you simply live to fight another day.)
 
-A Recovery Scene is **gated by the fiction** (you need a genuine safe moment) and **chosen by the players** — you take one when the bleed makes it worth a Surge. It's the quiet beat between dangers: the campfire, the patched wound, **the character scene.** Because the regroup is *where the villain gains ground,* slowing down for the cast is never free — which is exactly what gives those scenes stakes. (Falling back from a Challenge you're losing — what other games call fleeing — is just a Recovery Scene: you lose the Challenge's progress, the party heals to full, the villain surges.)
-
-Heroes won't *voluntarily* regroup into the villain's last, reserved box (that would hand them the win) — so a Recovery Scene fills the track up to one-from-full and then the party has to tough it out to the climax (Chapter 10).
+So the rhythm of a Story Arc is: push, get battered, fall back and breathe, push again — with the villain's clock ticking up not when you *rest,* but when you *gamble* (a Devil's Bargain), when the dice betray you (doubles on a Miss), or when a hero goes down (below).
 
 ### Downtime — Between Stories
 
-When a Story Arc ends — won or lost — the heroes take **Downtime:** the game's long rest and its standing invitation to **slow down.** It **heals everyone to full** and **restores every Broken Asset** (below) — no roll, no Surge; the Story Arc is resolved, so the villain's clock resets and the heroes start the next one whole. Spend real time here in dialogue and narration; the slower character beats live in Downtime.
+When a Story Arc ends — won or lost — the heroes take **Downtime:** the game's long rest and its standing invitation to **slow down.** It **heals everyone to full** and **restores every Broken Asset** (below) — no roll, no villain advance; the Story Arc is resolved, so the villain's clock resets and the heroes start the next one whole. Spend real time here in dialogue and narration; the slower character beats live in Downtime.
 
 What does it look like? Whatever fits your hero — if you're stuck, roll or pick a d6:
 
@@ -125,15 +135,18 @@ You always start the next Story Arc fresh. Downtime is also where **threads** be
 
 ### Out of Action
 
-If a hero's Readiness hits **0**, they're **Out of Action** — too hurt, too rattled, or too tapped-out to keep going for now. They can't act until they recover. Remember the core promise: **heroes can't die.** Out of Action is the floor, and it's always temporary — but climbing back is exactly where the stakes live. A hit that would carry a hero *past* 0 just stops at **0** — nothing overflows or carries over; Out of Action is as bad as it gets.
+If a hero's Readiness hits **0**, they're **Out of Action** — too hurt, too rattled, or too tapped-out to keep going for now. They can't act until they recover. Remember the core promise: **heroes can't die.** Out of Action is the floor, and it's always temporary — but going down genuinely *costs* you. A hit that would carry a hero *past* 0 just stops at **0** — nothing overflows; Out of Action is as bad as it gets.
 
-**A downed hero can only be brought back by a full Recovery Scene** (the team falls back to get them on their feet) **or by Downtime.** A quick Mend can't do it — clawing someone off the floor takes a real regroup, not a battlefield patch. And that's the sting: getting a downed hero up **forces a Recovery Scene, which surges the villain** — even into the reserved climax box. Near the end of a Story Arc, *that's how you lose* (Chapter 10).
+Two things happen when a hero drops:
 
-So being dropped genuinely **costs** you — it hands the villain ground at the worst possible time. Heroes still can't die, but going down is no longer a free respawn: it's the loss vector. (And it's why Mend can't revive — otherwise a cheap patch would dodge that cost entirely.) Out of Action also leaves a mark that outlasts the Scene, which is the next rule.
+- **The villain gains ground.** Going Out of Action **advances the Antagonist Track one box** (Chapter 10) — you fell, and the bad guys seized the moment. It's one of the three ways the villain's clock ticks, and the only one you can't choose. Near the end of a Story Arc, a knockdown can be the box that tips the villain into their final attack — *that's how going down can lose you the Story.*
+- **An Asset breaks.** One of the hero's Assets breaks until Downtime — the next rule.
 
-**A knockdown doesn't pause the Scene.** When a hero drops to 0 in the middle of a Challenge, the action keeps going — the rest of the party can **push on to finish the Challenge or fall back**, their call. The Recovery Scene that revives the downed hero happens **once the Challenge ends, win or lose** — never mid-Challenge. So a single roll that fills the last box *and* drops its roller to 0 still **wins the Challenge first**; the regroup (and its Surge) follow in the aftermath.
+**A downed hero is brought back by a Recovery Scene** (the team falls back to get them on their feet) **or by Downtime** — both free. A quick Mend can't do it; clawing someone off the floor takes a real regroup, not a battlefield patch. (That's also why you **can't take a Devil's Bargain on a knockout roll**, and why Mend can't revive — neither lets you dodge the cost of going down.)
 
-**More than one hero down at once?** It's still **one Recovery Scene and one Surge** — a single regroup gets the whole party back on their feet, however many were on the floor.
+**A knockdown doesn't pause the Scene.** When a hero drops to 0 in the middle of a Challenge, the action keeps going — the rest of the party can **push on to finish the Challenge or fall back**, their call. The Recovery Scene that revives the downed hero happens **once the Challenge ends, win or lose** — never mid-Challenge. So a single roll that fills the last box *and* drops its roller to 0 still **wins the Challenge first**; the regroup follows in the aftermath. (The villain still gains their box from the knockdown.)
+
+**More than one hero down at once?** Each hero who goes down **advances the villain one box** and breaks one of their Assets — going down is always individually costly. A single Recovery Scene then gets the whole party back on their feet at once.
 
 **Playing solo?** With only one hero, going Out of Action means there's no one to fight on — that Challenge is **lost.** Pull back, then take the Recovery Scene to get back up.
 

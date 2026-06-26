@@ -1,6 +1,6 @@
 ## Story Arc Tracker Sheet
 
-One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Track** with its short **Antagonist Track** (the top box is the reserved climax), room to name your **antagonist**, and numbered lines to jot each **Milestone**.
+One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Track** with its **Antagonist Track** (the villain's odd boxes are Attacks; the last box is their victory), room to name your **antagonist**, and numbered lines to jot each **Milestone**.
 
 > **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus are hidden automatically, so you'll get just the sheet.
 
@@ -76,14 +76,14 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
 
   <h3>Size</h3>
   <div class="af-scale">
-    <span><span class="af-chk"></span> Episode &mdash; 3 Milestones / 2-box villain (one sitting)</span>
-    <span><span class="af-chk"></span> Movie &mdash; 6 Milestones / 4-box villain (2&ndash;3 sessions; <b>2 players: 5-box</b>)</span>
+    <span><span class="af-chk"></span> Episode &mdash; 3 Milestones / 5-box villain (one sitting)</span>
+    <span><span class="af-chk"></span> Movie &mdash; 6 Milestones / 9-box villain (2&ndash;3 sessions)</span>
   </div>
   <div class="af-line"><label>Thread(s) alongside</label><span class="af-fill"></span></div>
   <p class="af-hint">B-plots / character arcs running beside this Story Arc &mdash; they have their own progress but <em>no</em> villain track. (Chain Stories like this one into a Season or Series &mdash; see Ch.10.)</p>
 
   <h3>The Tracks</h3>
-  <p class="af-hint">Heroes win by filling the Story Arc Track and winning the Showdown; they lose if the Antagonist Track fills first. The villain's <strong>top box (&#9733;) is the reserved climax</strong> &mdash; only the Showdown (or a hero going Out of Action) fills it.</p>
+  <p class="af-hint">Heroes win by filling the Story Arc Track and winning the Showdown; they lose if the Antagonist Track fills first. The villain's <strong>odd boxes (&#9650;) are Attacks</strong> &mdash; stop and play out the bad guys gaining ground &mdash; and the <strong>last box is their victory</strong>.</p>
   <div class="af-trackgrid">
     <span class="af-rowlabel">Story Arc</span>
     <div class="af-row af-quest">
@@ -97,19 +97,19 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
     </div>
     <span class="af-rowlabel">Antagonist</span>
     <div class="af-row af-anta">
-      <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span><span class="af-box">4</span><span class="af-box">5</span>
+      <span class="af-box">&#9650;</span><span class="af-box">2</span><span class="af-box">&#9650;</span><span class="af-box">4</span><span class="af-box">&#9650;</span><span class="af-box">6</span><span class="af-box">&#9650;</span><span class="af-box">8</span><span class="af-box">&#9650;</span>
     </div>
     <span class="af-rowlabel"></span>
     <div class="af-scalebar">
-      <span></span><span>&#8593;Ep</span><span></span><span>&#8593;Movie</span><span>&#8593;Duo</span>
+      <span></span><span></span><span></span><span></span><span>&#8593;Ep</span><span></span><span></span><span></span><span>&#8593;Movie</span>
     </div>
   </div>
-  <p class="af-hint">Episode: 3 Story Arc / 2 Antagonist boxes (box&nbsp;2 = the &#9733; climax). Movie: 6 Story Arc / 4 Antagonist (box&nbsp;4 = the &#9733; climax); a <b>2-player</b> Movie uses 5 boxes (box&nbsp;5 = the &#9733; climax). Cross out the boxes you don't use and mark your last villain box as the climax. A villain box fills each time the heroes take a <strong>Recovery Scene</strong> (fall back to regroup); a quick <strong>Mend</strong> never advances it.</p>
+  <p class="af-hint">Episode: 3 Story Arc / 5 Antagonist boxes (Attacks on 1&middot;3&middot;5; box&nbsp;5 = the villain's win). Movie: 6 Story Arc / 9 Antagonist (Attacks on 1&middot;3&middot;5&middot;7&middot;9; box&nbsp;9 = the win) &mdash; same at <b>any party size</b>. Cross out the boxes you don't use. A villain box fills three ways: a hero takes the <strong>Devil's Bargain</strong>, a <strong>Miss shows doubles</strong>, or a hero goes <strong>Out of Action</strong>. Recovery is <strong>free</strong> &mdash; falling back never advances it.</p>
 
   <h3 class="af-break">The Antagonist</h3>
   <div class="af-line"><label>Who / what</label><span class="af-fill"></span></div>
   <div class="af-line"><label>What it wants</label><span class="af-fill"></span></div>
-  <p class="af-hint">Give it a face &mdash; even a force (a desert, a plague, a deadline) counts. When an Antagonist box fills, play out the Surge: the villain just hit a milestone of their own.</p>
+  <p class="af-hint">Give it a face &mdash; even a force (a desert, a plague, a deadline) counts. When an Attack box (&#9650;) fills, play it out: the villain just hit a milestone of their own.</p>
 
   <h3>Milestones</h3>
   <p class="af-hint">A concrete, pointable step toward the Goal. Number them to match the Story Arc Track boxes above. (Episode uses 1&ndash;3; Movie 1&ndash;6.)</p>
@@ -125,5 +125,5 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
   <h3>Notes</h3>
   <div class="af-notes"></div>
 
-  <p class="af-ref"><b>Win:</b> reach the climax (Story Arc Track full) and win the Showdown &mdash; then Downtime resets the party to full Readiness. &nbsp; <b>Lose:</b> the Antagonist Track fills (incl. a forced Recovery Scene when a hero is Out of Action), or you Quit the Story Arc &mdash; no penalty; ask "how did the world change?" and seed the next Story Arc. &nbsp; <b>Antagonist advances:</b> one box each time the heroes take a <b>Recovery Scene</b> (fall back to regroup). Never on a Mend, never automatic on a bad roll.</p>
+  <p class="af-ref"><b>Win:</b> reach the climax (Story Arc Track full) and win the Showdown &mdash; then Downtime resets the party to full Readiness. &nbsp; <b>Lose:</b> the Antagonist Track fills (a hero going Out of Action near the end can fill its last box), or you Quit the Story Arc &mdash; no penalty; ask "how did the world change?" and seed the next Story Arc. &nbsp; <b>Antagonist advances</b> one box three ways: a <b>Devil's Bargain</b>, a <b>Miss on doubles</b>, or a hero going <b>Out of Action</b>. Recovery is free &mdash; never on a Mend or a Recovery Scene.</p>
 </div>

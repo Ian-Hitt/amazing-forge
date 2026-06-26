@@ -28,14 +28,14 @@ Both heroes start at **9 Readiness.**
 2. Cross the Bottomless Chasm inside.
 3. Get the Crystal back from the Goblin King and escape.
 
-Their **antagonist** is the **Goblin King.** They draw the **Story Arc Track** (three boxes, one per Milestone) and, beneath it, the shorter **Antagonist Track** (two boxes) for the King — and they're ready.
+Their **antagonist** is the **Goblin King.** They draw the **Story Arc Track** (three boxes, one per Milestone) and, beneath it, the longer **Antagonist Track** (five boxes) for the King — and they're ready.
 
 ```
 STORY ARC TRACK:    [ ]  [ ]  [ ]
-ANTAGONIST TRACK:   [ ]  [ ]            (2nd box = the climax)
+ANTAGONIST TRACK:   [ ]  [ ]  [ ]  [ ]  [ ]
 ```
 
-> **▶ Rules note — The Story Arc (Chapter 3).** Goal, three Milestones, a named antagonist, and the two tracks. The heroes win by reaching the end of the top row; the Goblin King wins if his two-box row fills first. His row advances only when the heroes **fall back to regroup** (Chapter 5) — and his last box is the **climax,** filled at the final showdown or if a hero is knocked out.
+> **▶ Rules note — The Story Arc (Chapter 3).** Goal, three Milestones, a named antagonist, and the two tracks. The heroes win by reaching the end of the top row; the Goblin King wins if his five-box row fills first. His row advances one box at a time as he gains ground — most often when a hero goes **Out of Action** (Chapter 5).
 
 ---
 
@@ -71,9 +71,9 @@ STORY ARC TRACK:   [X]  [ ]  [ ]
 
 ### Milestone 2 — Cross the Bottomless Chasm
 
-Inside, a vast crack splits the cave floor — a chasm so deep they can't see the bottom, with a freezing updraft howling out of it. This feels big and dangerous, so they agree it deserves to be played out.
+Inside, a vast crack splits the cave floor — a chasm so deep they can't see the bottom, with a freezing updraft howling out of it. This feels dangerous enough to play out rather than settle on one roll, so they agree to make a quick Challenge of it.
 
-> **▶ Rules note — Regular Roll or Challenge? (Chapter 5).** This is a "how much screen time?" call. Crossing the chasm is a set-piece they want to savor, so they make it a **Challenge.** It's a real moment, not a quick beat, so they go **Medium** — and with 2 players a Medium Challenge is **2 boxes** (Chapter 8: Easy = players −1, Medium = players, Hard = players +1).
+> **▶ Rules note — Regular Roll or Challenge? (Chapter 5).** This is a "how much screen time?" call. Crossing the chasm is a beat they want to play out, so they make it a **Challenge.** It's a real moment but not the climax, so they keep it small and go **Easy** — a **2-box** track (Chapter 8: Easy = 2, Medium = 3, Hard = 4, the same at any party size).
 
 ```
 CHALLENGE TRACK:   [ ]  [ ]
@@ -131,42 +131,50 @@ Safe on the far side, the heroes find a sheltered hollow out of the wind. Snik i
 
 **Leo:** "Snik repacks what gear he's got left and brews a little camp tea." **Maya:** "Brave checks Cinder's wing where she clipped the rock, then bandages her own scrapes."
 
-> **▶ Rules note — the Recovery Scene & the Surge (Chapter 5).** Falling back to regroup is the reliable recovery: the whole party comes back up **all the way**, so Brave and Snik are both restored to **9.** But it isn't free — **the Goblin King's track surges one box.** That's the trade: a full heal in exchange for handing the villain ground.
+> **▶ Rules note — the Recovery Scene (Chapter 5).** Falling back to regroup is the reliable recovery: the whole party comes back up **all the way**, so Brave and Snik are both restored to **9.** And it's completely **free** — no roll, no cost, and it **never advances the Goblin King.** Catching your breath is always safe; it's just the quiet beat between dangers.
 
-**The Surge.** They play it out: the horn from Milestone 1 paid off — the King has had time to **double the guard on the throne and seal the lower tunnels.** The way out just got harder.
+Back at full and ready, the heroes look at the King's track — still empty. They haven't handed him anything yet. But the horn from Milestone 1 is still ringing somewhere below: the throne cavern won't be quiet.
 
 ```
-ANTAGONIST TRACK:   [X]  [ ]            (one box from winning — the climax is next)
+ANTAGONIST TRACK:   [ ]  [ ]  [ ]  [ ]  [ ]   (still empty — regrouping cost them nothing)
 ```
 
-> **▶ Rules note.** The King is now **one box from winning** — and that last box is the **climax.** From here, falling back *again* would hand him the win, so the heroes will have to push through the finale on what they've got. (For a smaller patch that *doesn't* help the villain, there's **Mend** — coming up.)
+> **▶ Rules note.** The Goblin King's track only fills when the heroes **gamble (a Devil's Bargain), the dice betray them (doubles on a Miss), or a hero goes Out of Action** — *not* when they rest (Chapter 5; the full set of triggers is in Part Two). So a regroup is a clean reset, and the way to lose ground is in the throne cavern ahead, not here.
 
 ---
 
 ### Milestone 3 — The Goblin King, and Escape
 
-Back to full at **9** apiece, the heroes press on to the throne cavern, where the **Goblin King** has the **Sun Crystal** mounted above his throne. They agree this is the climax and run it as one more **Challenge** — Snik's *I Know Goblin Secrets* lets him work the crowd while Brave's *Ice Magic* and *Dragon-Scale Armor* keep the doubled guard at bay.
+Back to full at **9** apiece, the heroes press on to the throne cavern, where the **Goblin King** has the **Sun Crystal** mounted above his throne — and the guard he's massed since the horn. They agree this is the climax and run it as one more **Challenge** — Snik's *I Know Goblin Secrets* lets him work the crowd while Brave's *Ice Magic* and *Dragon-Scale Armor* keep the guards at bay.
 
-Two boxes in, things get hairy: an alarm gong sounds (a Pay the Price), guards press in, and after a couple of Misses both heroes are down around 3 Readiness with one box left to fill.
+Two boxes in, things get hairy: an alarm gong sounds (a Pay the Price), guards press in, and a couple of bad rolls bite. On one of them Snik **Misses — and the dice come up doubles.**
 
-**Leo:** "Should we fall back? …No — we can't. The King's already one box from winning. If we regroup now, that fills his climax box and we *lose* the whole thing."
+> **▶ Rules note — the villain gains ground (Chapter 5).** A Miss showing **doubles** is one of the ways the King's track fills: the dice swung against the heroes, so **mark one box** on the Antagonist Track. (The fiction: while Snik's potion fizzles, the King's lieutenant rallies the line.) This is pressure nobody chose — the random kind that makes a long fight risky.
 
-> **▶ Rules note — the loss vector (Chapter 5).** This is the squeeze the surge sets up. Falling back would heal them, but it would hand the King his last box — game over. So the safety valve is gone; they have to gut it out. Going **Out of Action** here would force a regroup too, with the same fatal result.
+```
+ANTAGONIST TRACK:   [X]  [ ]  [ ]  [ ]  [ ]   ← the King takes his first box
+```
 
-**Leo:** "Okay — Snik ducks behind a pillar and gulps an emergency tonic instead of fighting." Snik takes a **Mend** — a quick patch, not a retreat.
+After another exchange both heroes are down around 3 Readiness with one box left to fill. Snik draws a **Miss** that would carry him *past* zero.
 
-> **▶ Rules note — Mend (Chapter 5).** Mend is the quick gamble — patch up any time there's a beat; here, mid-Challenge, it costs Snik his turn instead of pushing the fight. It **doesn't** advance the King. But it's risky — a Miss would *cost* a point. 🎲 Leo rolls a **Weak Hit: +2** → Snik 3 → **5.** Safer footing, no box filled.
+**Leo:** "I could take the **Devil's Bargain** — turn that Miss into a clean hit and skip the damage. But no — I'm one step from the floor. If I go down, that hands the King *another* box. I'll eat the price instead and we patch up."
 
-**Maya:** "Now — one more box. Brave makes a desperate play with Cinder." 🎲 A **Strong Hit** — she fills the **final box.** That's the **Showdown:** they snatch the Crystal and ride out through a collapsing tunnel into the daylight.
+> **▶ Rules note — the Devil's Bargain & the floor (Chapter 5, full rules in Part Two).** On a Miss you *can* strike a Devil's Bargain: refuse the damage and turn it into a Strong Hit — but it advances the King one box. It's tempting here, except you **can't** take it on a knockout roll, and going **Out of Action** would advance the King anyway. So the safe play is to gut it out and use a quick **Mend.**
+
+**Leo:** "Snik ducks behind a pillar and gulps an emergency tonic instead of fighting." Snik takes a **Mend** — a quick patch, not a retreat.
+
+> **▶ Rules note — Mend (Chapter 5).** Mend is the quick gamble — patch up any time there's a beat; here, mid-Challenge, it costs Snik his turn instead of pushing the fight. It **never** advances the King. But it's risky — a Miss would *cost* a point. 🎲 Leo rolls a **Weak Hit: +2** → Snik 3 → **5.** Safer footing, no box filled.
+
+**Maya:** "Now — one more box. Brave makes a desperate play with Cinder." 🎲 A **Strong Hit** — she fills the **final box.** That's the **Showdown:** they snatch the Crystal and ride out through a collapsing tunnel into the daylight, the King's track stalled at one.
 
 **Milestone 3 complete — the Story Arc is won.**
 
 ```
 STORY ARC TRACK:    [X]  [X]  [X]   ← Story Arc won at the Showdown!
-ANTAGONIST TRACK:   [X]  [ ]        ← the King ended ONE box from winning
+ANTAGONIST TRACK:   [X]  [ ]  [ ]  [ ]  [ ]   ← the King only ever got one box
 ```
 
-> **▶ Rules note — finishing the Story Arc (Chapter 5).** Reaching the last Milestone is the climax — the Showdown. The Goblin King ended *one step from winning* (his climax box never filled), which is exactly the nail-biter the game aims for. Finishing is **Downtime:** everyone resets to full Readiness, ready for the next Story Arc.
+> **▶ Rules note — finishing the Story Arc (Chapter 5).** Reaching the last Milestone is the climax — the Showdown. The Goblin King climbed only one box — a clean run — but a single doubles-Miss showed how he gains ground without anyone choosing it. Finishing is **Downtime:** everyone resets to full Readiness, ready for the next Story Arc.
 
 The Sun Crystal goes back above the village square, light and warmth return, and the elders hail two unlikely heroes — a knight on a dragon and a grumpy goblin who came home just long enough to save the day.
 
@@ -174,7 +182,7 @@ The Sun Crystal goes back above the village square, light and warmth return, and
 
 ### What This Showed You
 
-In one short session, Maya and Leo used **every rule in Part One:** they built a world, made heroes, named a Story Arc and an antagonist, drew both tracks, made **Regular Rolls** and ran **Challenges**, hit a **Strong Hit, a Weak Hit, a Miss, and an Outstanding Success**, **Paid the Price** more than once, **fell back to regroup** (a Recovery Scene) and played out the **Surge**, risked a mid-fight **Mend**, and rode the **photo-finish** to **win the Story Arc** with the villain one step from winning. That's the whole game.
+In one short session, Maya and Leo used **every rule in Part One:** they built a world, made heroes, named a Story Arc and an antagonist, drew both tracks, made **Regular Rolls** and ran **Challenges**, hit a **Strong Hit, a Weak Hit, a Miss, and an Outstanding Success**, **Paid the Price** more than once, **fell back to regroup** (a free **Recovery Scene**), watched the villain gain a box off a **doubles-Miss**, weighed a **Devil's Bargain** and turned it down, risked a mid-fight **Mend**, and rode it out to **win the Story Arc** with the villain barely off the start line. That's the whole game.
 
 Notice what they *didn't* do: look up a spell, calculate any enemy's hit points, or roll for initiative. They just described what their heroes did, rolled 2d6, and told the story together.
 
