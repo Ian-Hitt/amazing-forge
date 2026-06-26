@@ -9,15 +9,108 @@
 >
 > **Flags:** `✅ CONFIRMED` (settled), `📐 DERIVED` (computed from settled rules),
 > `🔧 ESTIMATE` (assumption for modeling — not yet confirmed), `🚧 OPEN` (undecided).
-> **Last updated:** 2026-06-13.
+> **Last updated:** 2026-06-25. **§0 is canonical** (the Devil's Bargain spine); all earlier
+> sections are kept as lineage and are superseded where they conflict.
 
 ---
 
-## 0. CANONICAL — split stats+assets, no ratchet (✅ 2026-06-22, `sim_spine.py`)
+## 0. CANONICAL — the Devil's Bargain spine (✅ 2026-06-25, `sim_devils.py` / `sim_devils2.py`)
 
-> **This is the current canonical balance model. It supersedes §0-prev (the 2026-06-13 spine model)
-> and §0b (the difficulty ladder) below**, which are kept for the reasoning trail. Three locked
-> changes (memory `dice-and-scaling-rework`; explored in scratchpad `sim_scaling*`/`sim_pair*`):
+> **This is the current canonical balance model. It supersedes §0-mid (the 2026-06-22 split-stats /
+> no-ratchet / recovery-surge model), §0-prev (the 2026-06-13 declining-ceiling spine), and §0b (the
+> party-scaled difficulty ladder) below** — all kept for the reasoning trail. The dice change from
+> §0-mid (the +0/+1/+2 split-stats roll) **still holds**; what this section replaces is the
+> *antagonist-clock* model and the *difficulty/track sizing*. See memory `miss-doubles-clock-proposal`
+> and `PROPOSAL - Miss-Doubles Antagonist Clock.md` (the "Devil's Bargain spine" section).
+
+**The core change.** The Antagonist Track is no longer fed by recovery (the old "Surge per Recovery
+Scene"). **Recovery is FREE** — a Recovery Scene heals the party to 9 with no roll and **never**
+advances the villain. Readiness is decoupled from loss: the only loss vector is the villain filling
+the track before the heroes finish their last Milestone. This kills the resource-attrition economy
+(grim, choiceless, and hyper-sensitive to challenge pacing — at realistic pacing the old model
+collapsed to ~0% loss) and replaces it with a player-authored **Faustian gamble.**
+
+**1. Core roll — +0 / +1 / +2 (split stats + assets) — UNCHANGED from §0-mid.** Pick 2 of the 5
+stats (objective, +1); 3 specific Assets (argued, +1); both → +2, one → +1, neither → +0.
+`P_STAT = 0.55`, `P_ASSET = 0.85` → **avg mod ≈ 1.40**.
+
+**2. The three antagonist triggers.** The Antagonist Track advances **one box** in exactly three ways:
+- **Devil's Bargain (player choice).** On a **Miss**, a hero *may* forgo the Readiness loss **and**
+  upgrade the result to a **Strong Hit**, in exchange for the villain **+1.** Pushes both clocks at
+  once — the engine, and the in-fiction source of the villain's story beats. Always optional.
+  **Can't be taken on a knockout roll** (a Miss whose loss would take the hero to 0) — so OoA stays a
+  genuine stake, and players bargain *preemptively* around the ~4-Readiness danger zone, which means
+  even cautious play feeds the clock.
+- **Matches (random).** A **Miss showing doubles** advances the villain **+1** regardless
+  (~5.7%/roll). Doubles on a *Hit* stays Oracle's Blessing (upgrade a tier); on a Miss they feed the
+  villain instead of upgrading Miss→Weak. The disciplinarian that makes riding to the brink risky. A
+  doubles-Miss the hero *also* bargains = **+2** (they stack).
+- **Out of Action (structural).** A hero hitting **0** advances the villain **+1** (on top of breaking
+  an Asset). Numerically minor under free recovery, but it's what makes OoA matter to the villain.
+
+**3. Track sizes & narration (tick decoupled from beat).** The *tick* (frequent, bursty) is decoupled
+from the *narrated villain beat* (paced): narrate the villain only on the **odd "Attack" boxes**; even
+boxes are silent pressure. The track must be **odd** so the top box is itself an Attack (the villain's
+winning blow *is* their final attack).
+
+| Size | Milestones | Antagonist Track | Attacks (narrated beats) |
+|---|---|---|---|
+| **Episode** | 3 | **5 boxes** | 1 · 3 · 5 → box 5 = villain win |
+| **Movie** | 6 | **9 boxes** | 1 · 3 · 5 · 7 · 9 → box 9 = villain win |
+
+**Same track size at any party size** — the duo/two-player special case (and the whole "Playing as a
+Pair" subsystem) is **deleted.**
+
+**4. Challenge difficulty — fixed, not party-scaled ("Option B", Starforged-style).**
+
+| Easy | Medium | Hard | Very Hard |
+|---|---|---|---|
+| **2** | **3** | **4** | **5** |
+
+Party-**independent**: a fixed-size track takes ~the same number of rolls regardless of who's rolling,
+so **total rolls per Story become party-independent → the clock needs no scaling.** One difficulty
+table, one clock table, **zero party-size rules** (this is what removes the duo special case).
+
+**5. Loss is a tail, not a target.** The dramatic deliverable is the **photo-finish** (villain ends
+*one box from winning*); loss is the rare *earned* overrun. We tune for photo-finish frequency and let
+loss fall where it may — earlier loss-rate targeting (the 10% goal) is abandoned. Every advance is
+narratable: you cut a corner (bargain), fate swung (matches), or you fell (OoA).
+
+**Validation (`sim_devils.py` / `sim_devils2.py`):** rule = can't-bargain-knockout + OoA ticks;
+recovery at Readiness ~4; Option B fixed sizing (Easy 2 / Med 3 / Hard 4, party-independent).
+Photo-finish % = villain ends one box from winning; loss % = villain overruns. Three table
+temperaments by bargaining appetite:
+
+| Story | cautious | realistic | reckless |
+|---|---|---|---|
+| **Episode = 5** | 8% pf / 3% loss | **20% / 6.5%** | 44% / 16% |
+| **Movie = 9** | 10% pf / 5% loss | **21% / 11%** | 38% / 22% |
+
+- **Party-independent** (party 2 ≈ party 4) — Option B holds, so there are no party-size rules.
+- **Movie is intentionally spicier than the Episode** — the bigger, higher-investment story carries
+  more real peril at its climax. Losses are uncommon and always self-inflicted by pushing the bargain.
+- **The photo-finish is player-authored:** a pushing player rides to one-box-away *by design*; track
+  length sets the *stakes* of pushing, not its frequency. Rational players self-regulate (keep a
+  buffer) because matches/OoA can tip a brink-sitting villain over.
+
+**Why the old recovery-surge model was wrong (keep — saves re-deriving).** Tying the clock to Recovery
+Scenes (a Surge per regroup) made the game a defensive **attrition economy** (ration your heals — grim
+and choiceless) and made loss **hyper-sensitive to challenge pacing**: the §0-mid sims assumed ~2
+challenges per milestone, but real play is a variable 0–2, and at realistic pacing loss **collapsed to
+~0%** — effectively unloseable, gutting the game's one distinctive feature. The fix moved the trigger
+from *resting* (which you do *more* when battered, a death-spiral feel) to *choices made under fire*
+(the bargain) plus pure randomness (matches) and a structural floor (OoA). It also dissolved the duo
+fragility that needed a special-rules subsystem.
+
+---
+
+## 0-mid. SUPERSEDED — split stats, no ratchet, recovery-surge (2026-06-22, `sim_spine.py`)
+
+> **Superseded 2026-06-25 by §0 above** (Devil's Bargain triggers; free recovery; Episode 5 / Movie 9;
+> fixed Option-B difficulty). The **+0/+1/+2 split-stats dice change defined here still holds** — only
+> the antagonist-clock and track/difficulty sizing are replaced. Kept for the reasoning trail.
+
+Three locked changes (memory `dice-and-scaling-rework`; explored in scratchpad `sim_scaling*`/`sim_pair*`):
 
 **1. Core roll is now +0 / +1 / +2 (split stats + assets).** Playtest showed players argue *any* of
 4 specific Assets into fitting, so +2 was near-universal and the +1 floor collapsed. Fix — separate a
@@ -32,19 +125,20 @@
 **2. No ratchet.** A Recovery Scene heals the party **fully back to 9** every time; max Readiness no
 longer declines. The old declining ceiling was keyed to *recovery count*, which grows with story
 length — that's what broke Movie scaling (see "Why Movies didn't scale" below). Dropping it makes the
-party durable enough to need only **~3 recoveries per Movie**, which is what makes the 4-box track right.
+party durable enough to need only **~3 recoveries per Movie**, which is what made the 4-box track right
+*under the recovery-surge model* (now superseded — recovery no longer surges at all, §0).
 
-**3. Tracks & difficulty ladder.**
+**3. Tracks & difficulty ladder (SUPERSEDED by §0 — Episode 5 / Movie 9 / fixed Option-B difficulty).**
 
 | Size | Milestones | Antagonist Track | Notes |
 |---|---|---|---|
-| **Episode** | 3 | **2** | unchanged |
-| **Movie** | 6 | **4** (was 3) | **duo = 5** (one extra regroup) |
+| **Episode** | 3 | **2** | superseded → 5 (§0) |
+| **Movie** | 6 | **4** (was 3) | **duo = 5** — duo case deleted in §0 |
 
-- Ladder: **Easy/Medium/Hard = players−1 / players / players+1.** The old **"+1 box for 4+" rule is
-  dropped** — on the lower curve it double-penalized; plain `Medium = players` lands party 3 & 4 in band.
+- Ladder: **Easy/Medium/Hard = players−1 / players / players+1.** The "+1 box for 4+" rule was dropped
+  here, then the whole party-scaled ladder was superseded by fixed Option-B sizing (§0).
 
-**Validation (`sim_spine.py`, all-Medium, fresh party / no Boons):**
+**Validation (`sim_spine.py`, all-Medium, fresh party / no Boons) — for the recovery-surge model:**
 
 | Party | Episode loss | Movie loss (track) | Movie recoveries |
 |---|---|---|---|
@@ -57,16 +151,17 @@ party durable enough to need only **~3 recoveries per Movie**, which is what mak
 track-progress / OoA-prevention Boons keeps the curve intact). The slightly-hot fresh baseline is
 intentional headroom for advancement; groups also dial down with Easy encounters. Duo Episodes (12.5%)
 run a touch tense (adding a box over-corrects to ~1.4%); duos lean on the 5-box Movie track, not on
-trivial 1-box "Easy" challenges.
+trivial 1-box "Easy" challenges. *(All these figures assume the now-retired recovery-surge trigger.)*
 
-**Why Movies didn't scale (the deep diagnosis — keep, it saves re-deriving).** This is an *attrition*
-model, so loss inherently grows with story length: a Movie compounds attrition over ~2× the runway
+**Why Movies didn't scale (the deep diagnosis — keep, it saves re-deriving).** This was an *attrition*
+model, so loss inherently grew with story length: a Movie compounds attrition over ~2× the runway
 while an Episode ends before danger accrues. **No single uniform rule puts both sizes at 10%** — short
-stories want tightening, long ones cushioning; they pull opposite ways, so the two sizes are tuned
-*individually* (fine — there are only two). The old killer interaction: the ratchet was keyed to
-recovery *count*, which grows with length, so any fix that gave Movies the recovery headroom they
-needed *fed* the ratchet that killed them. Dropping the ratchet broke that coupling. (`sim_scaling.py`
-shows loss flat across length 2–8 only once the ratchet is keyed to progress / removed.)
+stories want tightening, long ones cushioning; they pull opposite ways, so the two sizes were tuned
+*individually*. The old killer interaction: the ratchet was keyed to recovery *count*, which grows with
+length, so any fix that gave Movies the recovery headroom they needed *fed* the ratchet that killed
+them. Dropping the ratchet broke that coupling. (`sim_scaling.py` shows loss flat across length 2–8
+only once the ratchet is keyed to progress / removed.) *(§0 retires the whole attrition framing — loss
+is now a photo-finish tail, not an attrition curve.)*
 
 ---
 
@@ -126,9 +221,16 @@ only ratchets *within* an arc — never across a Season/Series.
 
 ---
 
-## 0b. CANONICAL — Challenge difficulty ladder & party-size scaling (✅ 2026-06-21, `sim_mix.py`)
+## 0b. SUPERSEDED — Challenge difficulty ladder & party-size scaling (2026-06-21, `sim_mix.py`)
 
-> ⚠️ **PARTIALLY SUPERSEDED 2026-06-22:** the "+1 box for groups of 4+" party-size scaling rule below is **dropped** per §0 — the ladder is now a plain Easy/Medium/Hard for all sizes. The rest of this section's reasoning still stands.
+> 🔁 **SUPERSEDED 2026-06-25 by §0 (Option B):** the entire **party-scaled** ladder below — Easy =
+> players−1 / Medium = players / Hard = players+1, and the "+1 box for 4+" tweak — is replaced by
+> **fixed difficulty: Easy 2 / Medium 3 / Hard 4 / Very Hard 5, party-independent.** (It was already
+> *partially* superseded 2026-06-22 when the "+1 box for 4+" rule was dropped.) Kept for the reasoning
+> trail. The general insight still holds — difficulty is a *screen-time* dial, so balance must hold for
+> a story-shaped **mix** of difficulties, not all-Easy play — and Option B was chosen precisely because
+> a fixed mix makes total rolls per Story party-independent, which lets the antagonist clock drop all
+> party-size scaling.
 
 > **Re-centers the difficulty ladder.** Difficulty is a **screen-time dial, not a balance knob**
 > (players pick Hard for set-pieces, Easy for quick beats), so a real story *mixes* Easy/Medium/Hard.
@@ -198,17 +300,18 @@ all-Easy *floor*; expected play sits at the §0b numbers above.
 | Strong Hit | total **10+** |
 | Weak Hit | total **7–9** |
 | Miss | total **6 or less** |
-| Oracle's Blessing | doubles upgrade result one tier (optional but usually on) |
-| Readiness — start / max | **9**; max **declines −1 per Recovery Scene** (floor 4), resets to 9 at Downtime *(§0)* |
+| Oracle's Blessing | doubles upgrade a **Hit** one tier; doubles on a **Miss** advance the Antagonist Track +1 (no upgrade) *(§0)* |
+| Readiness — start / max | **9**; max **stays 9 all game** (no ratchet) *(§0)* |
 | Pay the Price — Weak Hit | **−1** Readiness |
-| Pay the Price — Miss | **−2** Readiness |
-| Mend (any-scene patch, ungated) | **+3** Strong / **+2** Weak / **−1** Miss Readiness (up to current max); **no Surge**; can't revive Out of Action *(§0)* |
-| Recovery Scene (fall back & regroup) | restores party **up to current max**, reliable; **+1 Antagonist Surge** *and* **−1 to the max** *(the only villain-advance trigger — §0)* |
-| Downtime (between Story Arcs) | resets max to 9, heals to full, restores a Broken Asset; **no Surge** |
-| Out of Action | Readiness = **0** (recoverable; not death); **forces a Recovery Scene → can surge the climax box (loss vector)** |
-| Challenge length — Easy / Medium / Hard | **players −1 (min 1) / players / players +1**; **4+ players add 1 box to each** *(§0b)* |
+| Pay the Price — Miss | **−2** Readiness (unless a Devil's Bargain is taken — §0) |
+| Devil's Bargain | on a **Miss**: refuse the Readiness loss + upgrade to Strong Hit, in exchange for **Antagonist Track +1**; optional; **not allowed on a knockout roll** *(§0)* |
+| Mend (any-scene patch, ungated) | **+3** Strong / **+2** Weak / **−1** Miss Readiness (capped at 9); **never advances the villain**; can't revive Out of Action *(§0)* |
+| Recovery Scene (fall back & regroup) | restores party **fully to 9**, reliable, **FREE — never advances the Antagonist Track** *(§0)* |
+| Downtime (between Story Arcs) | heals to full, restores a Broken Asset; free; villain's clock resets |
+| Out of Action | Readiness = **0** (recoverable; not death); **advances the Antagonist Track +1** + breaks an Asset (loss vector) *(§0)* |
+| Challenge length — Easy / Medium / Hard / Very Hard | **2 / 3 / 4 / 5 boxes — fixed, party-independent ("Option B")** *(Very Hard = climaxes only; §0)* |
 | Story Arc Track length — Episode / Movie | **3 / 6** Milestones *(§0; Season/Series are prose collections, no box machinery)* |
-| Antagonist Track length — Episode / Movie | **2 / 3** (top box = reserved climax) *(§0)* |
+| Antagonist Track length — Episode / Movie | **5 / 9** boxes — same at any party size; odd boxes are narrated Attacks; last box = villain wins *(§0)* |
 
 > 🔁 **SUPERSEDED by §0 (2026-06-13).** The four-type / equal-length-Antagonist-Track structure
 > below is replaced by the spine model (Episode 3/2, Movie 6/3; Season/Series are prose
@@ -568,8 +671,11 @@ governs *permanent* advancement). Script: `sim_start_challenge.py`.
 
 ## 5. Reproducing / re-running
 
-Scripts (in this folder): **`sim_spine.py` (§0 — the canonical model)**; `sim_antag_heal.py` and
-`sim_antag_fill.py` (the exploration that led to §0); and the superseded `sim_antagonist_trade.py`
-(§4), `sim_flee_retreat.py` (§4b), `sim_recovery.py` (§3a), `sim_start_challenge.py` (§4c). All assumptions are constants at the
-top; edit and re-run (`python3 sim_<name>.py`). Update the relevant section's table when
-parameters change, and bump the "Last updated" date.
+Scripts (in this folder): **`sim_devils.py` / `sim_devils2.py` (§0 — the canonical Devil's Bargain
+model, free recovery + Option-B fixed difficulty)**; `sim_spine.py` (§0-mid / §0-prev, the superseded
+recovery-surge spine); `sim_antag_heal.py` and `sim_antag_fill.py` (earlier exploration); and the
+superseded `sim_antagonist_trade.py` (§4), `sim_flee_retreat.py` (§4b), `sim_recovery.py` (§3a),
+`sim_start_challenge.py` (§4c). *(The `sim_mix.py` / `sim_climax.py` of §0b and `sim_md_fixed.py` of the
+Option-B confirmation were scratchpad-only and are not in the repo.)* All assumptions are constants at
+the top; edit and re-run (`python3 sim_<name>.py`). Update the relevant section's table when parameters
+change, and bump the "Last updated" date.

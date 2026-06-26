@@ -43,19 +43,29 @@ authoritative**; V3/V4 are older and superseded where they differ.
 
 ## Settled conventions (quick reference — details in the master doc)
 
-> ⚠️ **2026-06-22 REWORK (see [[dice-and-scaling-rework]]) — decision locked, not yet propagated to
-> chapters/printables.** Core roll is now **+0/+1/+2** (pick **2 of 5 stats** = honest +1, **3 Assets** =
-> argued +1); the single broad **Attribute is retired**; the **recovery ratchet is dropped** (Recovery
-> Scene heals fully to 9); **Movie = 6/4-box** (duo Movie = 5); the **"+1 box for 4+" ladder rule is
-> dropped**. The bullets below still describe the OLD rules where noted — trust the rework + Math&Sim §0.
+> ⚠️ **2026-06-25 ANTAGONIST REWORK (the Devil's Bargain spine) — DECIDED and PROPAGATED through the
+> whole book (Ch.7–12, all 7 kits, Part Four) + the Master Reference + Math&Sim §0.** Recovery is now
+> **free** (no Surge); the Antagonist Track advances via the **Devil's Bargain** (on a Miss: forgo the
+> damage + upgrade to Strong, villain +1; not on a knockout roll), a **Miss on doubles**, and **Out of
+> Action.** Doubles now upgrade only a **Hit**; a doubles-Miss feeds the villain (the old Miss→Weak
+> upgrade is gone). **Antagonist Track: Episode 5 / Movie 9, odd boxes are villain "Attacks"** (the term
+> "Surge" is retired), last box = villain wins; **same at any party size** (duo special case dropped).
+> **Challenge difficulty is fixed: Easy 2 / Med 3 / Hard 4 / Very Hard 5** (Option B). Validated by
+> `sim_devils.py`/`sim_devils2.py`; see [[miss-doubles-clock-proposal]]. Still-pending: the Play Online
+> app (`docs/play/`).
+>
+> ⚠️ **2026-06-22 dice rework (see [[dice-and-scaling-rework]]) — also propagated:** core roll **+0/+1/+2**
+> (pick **2 of 5 stats** = +1, **3 Assets** = +1), single broad **Attribute retired**, recovery ratchet
+> dropped (full heal to 9), "+1 box for 4+" dropped. Trust this banner + Math&Sim §0 over any stale phrasing below.
 
 - **Terms:** Guide (never "GM"), Co-op play (never "GMless"), Readiness (never HP/health),
   Assets, **Stats** (pick **2 of the closed five**: Strong/Quick/Clever/Sneaky/Charming — the
   most-relevant one is chosen objectively, not argued), Story / Story Arc (never "Quest"; never bare "Arc"), Story Arc Track (never "Hero
   Track"/"Quest Track"), **Episode/Movie** (the two *individual* story sizes), **Season/Series**
   (prose *collection* patterns, not sizes — see [[spine-model]]), Antagonist Track, **Showdown**
-  (the climax/reserved top box), Milestone, Scene, Challenge, Pay the Price, **Recovery Scene**
-  (the fall-back-and-regroup move; "Surge" = the villain advance it triggers), **Fall back**
+  (the climax — the heroes' final roll), Milestone, Scene, Challenge, Pay the Price, **Devil's Bargain**
+  (buy a win on a Miss for a villain box), **Attack** (narrated villain beat on an odd Antagonist box;
+  "Surge" retired), **Recovery Scene** (the fall-back-and-regroup move — now **free**), **Fall back**
   (retreat from a Challenge — was "Flee"), Quit the Story Arc, **Thread/B-plot** (lose-clock-free
   subplot), Downtime (between-Stories reset), Ask the Oracle, Growth/Growth Track/Boon/Trade In
   (advancement — use "Growth," never "XP"). Avoid "damage."
@@ -63,35 +73,34 @@ authoritative**; V3/V4 are older and superseded where they differ.
   **most-relevant stat** is one of your **2 of 5** (Strong/Quick/Clever/Sneaky/Charming — chosen
   *objectively*, not argued: a chase is Quick, period); **+1** if any of your **3 specific Assets**
   applies (these *are* argued — story flexibility); **+2** if both, **+0** if neither (the risk-of-
-  failure floor). 10+ Strong, 7–9 Weak, 6− Miss; doubles upgrade a tier (Oracle's Blessing). A Hit =
-  **narrate the change**. Tuned to stat≈0.55 / asset≈0.85 apply rates → avg mod ≈ 1.40 (was 1.85);
+  failure floor). 10+ Strong, 7–9 Weak, 6− Miss; doubles upgrade a **Hit** (Oracle's Blessing) but on a **Miss advance
+  the villain** (Ch.7). A Hit = **narrate the change**. Tuned to stat≈0.55 / asset≈0.85 apply rates → avg mod ≈ 1.40 (was 1.85);
   this **retires the single broad Attribute** (the closed-five *list* survives; you pick two of it).
-- **Readiness:** starts **9**. Weak −1, Miss −2 (always — no dodging). **No ratchet (DECIDED
-  2026-06-22):** a **Recovery Scene heals the party fully back to 9** every time; max Readiness no
-  longer declines (the old declining ceiling was too harsh and broke Movie scaling). **Mend** (small
-  risky any-scene patch, no cap — Strong +3 / Weak +2 / **Miss −1**, self or ally, capped at 9, **no
-  Surge**, can't revive Out of Action; a tactical patch-vs-push choice). **Recovery Scene** (fall
-  back & regroup → party **back to 9**, reliable, **+1 villain Surge** — the only villain-advance
-  trigger). Out of Action at 0 **forces a Recovery Scene** whose surge can lose the Story Arc.
-  **Heroes can't die** — Readiness is *ammunition against the villain clock,* not a survival meter.
-  (Fresh-party loss ~6% Episode / ~16% Movie at all-Medium; Boons settle Movies toward ~10% — Math &
-  Sim §0.)
+- **Readiness:** starts **9**. Weak −1, Miss −2 (always — no dodging). Max never declines; a
+  **Recovery Scene heals the party fully to 9** and is **free** (no roll, no villain advance — fall
+  back as often as the fiction allows). **Mend** (small risky any-scene patch — Strong +3 / Weak +2 /
+  **Miss −1**, self or ally, cap 9, never advances the villain, can't revive Out of Action). **Out of
+  Action** at 0 breaks an Asset **and advances the villain +1** (one of the three triggers; can't be
+  Devil's-Bargained away). **Heroes can't die** — Readiness is a *pacing signal* (when to fall back)
+  and a resource weighed against the Devil's Bargain, **not** the loss meter. (Loss is a rare earned
+  tail, not a target — Math & Sim §0.)
 - **Story structure — single nested SPINE (DECIDED 2026-06-13; see [[spine-model]] & Math & Sim
   §0).** Dropped sandbox play. One Story = one spine with a **Story Arc Track** (progress, 1
-  box/Milestone → the **Showdown**) and a short **Antagonist Track** whose **top box is the reserved
-  climax.** **Two individual sizes (the only ones with machinery): Episode = 3 Milestones / 2-box
-  track; Movie = 6 Milestones / 4-box track (duo Movie = 5-box).** **Season/Series are prose collection patterns, not
+  box/Milestone → the **Showdown**) and an **Antagonist Track** (the villain's race; three triggers
+  below). **Two individual sizes: Episode = 3 Milestones / 5-box Antagonist Track (Attacks on 1·3·5);
+  Movie = 6 Milestones / 9-box (Attacks on 1·3·5·7·9) — same at any party size.** **Season/Series are prose collection patterns, not
   sizes** (Episode/Movie are individual stories; a Season strings them on a throughline, a Series is
   a run of Seasons). **B-plots are threads** — light progress track, **no Antagonist Track/lose-clock**,
   resolve into the spine's climax. **Nesting is back** (a Season is *made of* Stories).
-- **Antagonist Track — surges on the Recovery Scene.** Short, with the **top box reserved as the
-  climax.** Lower boxes fill **only when the heroes fall back to regroup** (a Recovery Scene) —
-  emergent, player-chosen, never scheduled, never per-roll automatic. The regroup is the quiet/B-plot
-  beat, so **character scenes are where the villain gains ground.** **Out of Action forces a Surge
-  that can fill the climax box → lose before the Showdown** (the loss vector). The antagonist may be
-  a **force** (a desert, a plague) — characterize it so a Surge is concrete. **Quit the Story Arc** =
-  terminal give-up; a lost Story seeds a new one. (Balance/validation: `Math & Simulation Reference.md`
-  §0, `sim_spine.py`.)
+- **Antagonist Track — the Devil's Bargain spine (DECIDED 2026-06-25).** Advances **+1** three ways:
+  a **Devil's Bargain** (on a Miss, forgo the damage + upgrade to Strong → villain +1; optional; not
+  on a knockout roll — the main, player-authored driver), a **Miss on doubles** (random), and **Out
+  of Action** (catastrophe). **Recovery never advances it** (free). **Odd boxes are Attacks** — the
+  narrated villain beat (cut to the bad guys winning off-screen); even boxes are silent pressure; the
+  **last box = villain wins** → lose the Story before the Showdown (loss vector). The antagonist may
+  be a **force** (a desert, a plague) — characterize it so each Attack is concrete. **Quit the Story
+  Arc** = terminal give-up; a lost Story seeds a new one. Loss is a rare earned tail; the metric is
+  the **photo-finish.** (Validation: `Math & Simulation Reference.md` §0, `sim_devils.py`/`sim_devils2.py`.)
 
 ## Advancement (DECIDED 2026-06-08; Growth rule revised 2026-06-12)
 
