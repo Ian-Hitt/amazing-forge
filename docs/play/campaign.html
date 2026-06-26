@@ -148,6 +148,7 @@
   .anta .box { border-color: #cf7a72; }
   .anta .box.fill { background: var(--bad); border-color: var(--bad); color: #fff; }
   .anta .box.climax { border-width: 2.5px; }
+  .anta .box.attack { border-width: 2px; color: var(--bad); }
   .chal .box.fill { background: var(--orange); border-color: var(--orange); color: #fff; }
   .chal .box.show { border-color: var(--orange); border-width: 2.5px; color: var(--orange); }
   .chal .box.show.fill { color: #fff; }
@@ -212,11 +213,12 @@
   var ASSET_KINDS = ["Skill or Expertise", "Item, Companion, or Connection", "Wild (your call)"];
   var LS_CAMPS = "lca_campaigns_v1";
   var LS_ACTIVE = "lca_active_campaign_v1";
-  var SIZES = { episode: { label: "Episode", ms: 3, anta: 2 }, movie: { label: "Movie", ms: 6, anta: 4 }, duo: { label: "Movie (2 players)", ms: 6, anta: 5 } };
+  var SIZES = { episode: { label: "Episode", ms: 3, anta: 5 }, movie: { label: "Movie", ms: 6, anta: 9 } };
 
   // ---------- helpers ----------
   var $ = function (id) { return document.getElementById(id); };
   function uid(p) { return (p || "x") + Math.random().toString(36).slice(2, 8) + Date.now().toString(36).slice(-3); }
+  function nowTs() { return Date.now(); }
   function clamp(v, lo, hi, dflt) { v = parseInt(v, 10); if (isNaN(v)) return dflt; return Math.max(lo, Math.min(hi, v)); }
   function el(tag, cls, txt) { var e = document.createElement(tag); if (cls) e.className = cls; if (txt != null) e.textContent = txt; return e; }
   function esc(s) { return (s || "").replace(/[&<>]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]; }); }
@@ -261,8 +263,8 @@
     return { id: uid("g"), name: name || "New Campaign",
       world: ["", "", "", "", "", "", "", "", "", ""], heroes: [], arcs: [], challenges: [], places: [], cast: [] };
   }
-  function blankPlace() { return { name: "", fn: "", detail: "", back: false }; }
-  function blankNpc() { return { name: "", star: false, role: "", detail: "", lastSeen: "" }; }
+  function blankPlace() { return { id: uid("p"), name: "", fn: "", detail: "", back: false }; }
+  function blankNpc() { return { id: uid("e"), name: "", star: false, role: "", detail: "", lastSeen: "" }; }
   var WORLD_Q = [
     ["The Genre", "What's the mood of our story?", "A feeling, not a setting — what movie or show should this feel like?"],
     ["The Setting", "Where and when does it happen?", "One strong image with a twist."],
@@ -280,6 +282,14 @@
     if (!Array.isArray(c.world)) c.world = [];
     while (c.world.length < 10) c.world.push("");
     ["heroes", "arcs", "challenges", "places", "cast"].forEach(function (k) { if (!Array.isArray(c[k])) c[k] = []; });
+    // Migration: every item needs a stable id for field-level sync merge.
+    [["heroes", "h"], ["arcs", "a"], ["challenges", "c"], ["places", "p"], ["cast", "e"]].forEach(function (pair) {
+      c[pair[0]].forEach(function (it) { if (!it.id) it.id = uid(pair[1]); });
+    });
+    // Migration: the legacy "duo" (2-player Movie) size is gone — fold it into Movie.
+    c.arcs.forEach(function (a) {
+      if (a.size === "duo") { a.size = "movie"; a.anta = Math.min(a.anta || 0, SIZES.movie.anta); }
+    });
     return c;
   }
 
@@ -296,6 +306,8 @@
   var online = null;          // { code, version } when connected to a live game
   var syncStatus = "off";     // off | live | syncing | error
   var pushTimer = null, pollTimer = null;
+  var pendingRemote = null;   // a remote update stashed while the user is typing
+  var pendingRender = false;  // a render deferred while the user is typing
 
   function persist() {
     if (!camp || isImport) return;
@@ -305,19 +317,29 @@
     try { localStorage.setItem(LS_ACTIVE, camp.id); } catch (e) {}
     if (online) schedulePush();
   }
+  // Save to localStorage without triggering a push (used when adopting a remote merge).
+  function persistLocal() {
+    if (!camp) return;
+    var i = camps.findIndex(function (c) { return c.id === camp.id; });
+    if (i >= 0) camps[i] = camp; else camps.push(camp);
+    saveAll();
+  }
 
   // ---------- live sync ----------
   function setStatus(s) { syncStatus = s; updateHeader(); if (ui.tab === "manage" && !isEditing()) render(); }
   function inviteLink() { return online ? location.origin + location.pathname + "#g=" + online.code : ""; }
+  function maybeRender() { if (isEditing()) pendingRender = true; else render(); }
 
   function goOnline() {
     if (!camp) return;
     setStatus("syncing");
-    fetch(WORKER_URL + "/new", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ campaign: toWire(camp) }) })
+    var local = stampedWire(camp);
+    fetch(WORKER_URL + "/new", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ campaign: local }) })
       .then(function (r) { return r.json(); })
       .then(function (d) {
         if (!d.code) throw new Error("no code");
         online = { code: d.code, version: d.version };
+        camp._synced = local; persistLocal();
         history.replaceState(null, "", location.pathname + location.search + "#g=" + d.code);
         setStatus("live"); startPolling(); render();
         copy(inviteLink()).then(function (ok) { toast(ok ? "You're live! Invite link copied — share it with your players." : "You're live! Game code: " + d.code); });
@@ -331,7 +353,7 @@
     fetch(WORKER_URL + "/c/" + encodeURIComponent(code))
       .then(function (r) { if (!r.ok) throw new Error("not found"); return r.json(); })
       .then(function (d) {
-        camp = fromWire(d.campaign || {}); isImport = false;
+        camp = campFromWire(d.campaign || {}); isImport = false;
         camps.push(camp); saveAll();
         try { localStorage.setItem(LS_ACTIVE, camp.id); } catch (e) {}
         online = { code: code, version: d.version };
@@ -344,7 +366,7 @@
   }
 
   function leaveOnline() {
-    stopPolling(); online = null; setStatus("off");
+    stopPolling(); online = null; pendingRemote = null; setStatus("off");
     history.replaceState(null, "", location.pathname + location.search);
     render(); toast("Went offline. Your copy stays saved on this device.");
   }
@@ -352,10 +374,40 @@
   function schedulePush() { if (!online) return; setStatus("syncing"); clearTimeout(pushTimer); pushTimer = setTimeout(pushNow, 1200); }
   function pushNow() {
     if (!online) return;
-    fetch(WORKER_URL + "/c/" + online.code, { method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ campaign: toWire(camp) }) })
-      .then(function (r) { return r.json(); })
-      .then(function (d) { if (d.version) online.version = d.version; setStatus("live"); })
+    var local = stampedWire(camp);
+    fetch(WORKER_URL + "/c/" + online.code, { method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ campaign: local }) })
+      .then(function (r) { if (!r.ok) throw new Error("gone"); return r.json(); })
+      .then(function (d) {
+        if (d.version) online.version = d.version;
+        // A merge-aware worker echoes the merged campaign; adopt it so we pick up others'
+        // concurrent edits. An older (replace-only) worker won't, and that's fine — polling
+        // catches their changes.
+        if (d.campaign) adoptRemote(null, d.campaign, d.version);
+        else { camp._synced = local; setStatus("live"); }
+      })
       .catch(function () { setStatus("error"); });
+  }
+
+  // Merge a remote wire into the live campaign. Deferred while the user is typing so we
+  // never rebuild the DOM out from under a focused field (and lose in-progress keystrokes).
+  function adoptRemote(localWire, remoteWire, version) {
+    if (version != null) online.version = version;
+    if (isEditing()) { pendingRemote = { remote: remoteWire, version: version }; setStatus("live"); return; }
+    pendingRemote = null;
+    var lw = localWire || stampedWire(camp);
+    var merged = mergeWire(lw, remoteWire);
+    camp._synced = merged;
+    loadContentInto(camp, merged.content);
+    persistLocal();
+    setStatus("live");
+    render();
+    // If our merge produced state the server doesn't have yet (our local edits, or a
+    // three-way merge), push it back so everyone converges.
+    if (wiresDiffer(merged, remoteWire)) schedulePush();
+  }
+  function flushPendingRemote() {
+    if (pendingRemote && !isEditing()) { var pr = pendingRemote; pendingRemote = null; adoptRemote(null, pr.remote, pr.version); }
+    else if (pendingRender && !isEditing()) { pendingRender = false; render(); }
   }
 
   function startPolling() { stopPolling(); pollTimer = setInterval(pollTick, 3000); }
@@ -367,14 +419,8 @@
       .then(function (r) { if (!r.ok) throw new Error("gone"); return r.json(); })
       .then(function (d) {
         if (d.version === online.version) { if (syncStatus !== "live") setStatus("live"); return null; }
-        if (isEditing()) return null; // don't yank the screen mid-type; caught next tick
         return fetch(WORKER_URL + "/c/" + online.code).then(function (r) { return r.json(); }).then(function (full) {
-          var id = camp.id;
-          camp = fromWire(full.campaign || {}); camp.id = id;
-          online.version = full.version;
-          var i = camps.findIndex(function (c) { return c.id === id; });
-          if (i >= 0) camps[i] = camp; else camps.push(camp);
-          saveAll(); setStatus("live"); render();
+          adoptRemote(null, full.campaign || {}, full.version);
         });
       })
       .catch(function () { setStatus("error"); });
@@ -426,39 +472,147 @@
     d.appendChild(mb);
   }
 
-  // ---------- share codec (compact wire form; used by both URL hash and live sync) ----------
-  function toWire(g) {
+  // ---------- share codec + field-level merge (CRDT-ish LWW by item id) ----------
+  // The wire is { content, meta }. `content` is the compact campaign; `meta` carries a
+  // last-modified timestamp per item (keyed by stable id), per world-cell, and for the
+  // name, plus tombstones for deletes. Merge = last-writer-wins per item, so two people
+  // editing different heroes / world cells never clobber each other. Timestamps are
+  // assigned by diffing against the last-synced baseline (camp._synced) at sync time, so
+  // the ~40 edit handlers don't each have to stamp.
+  var SYNC_COLS = [["h", "heroes"], ["k", "arcs"], ["c", "challenges"], ["p", "places"], ["e", "cast"]];
+  function freshContent() { return { n: "", h: [], k: [], c: [], w: ["", "", "", "", "", "", "", "", "", ""], p: [], e: [] }; }
+  function freshMeta() { return { u: { h: {}, k: {}, c: {}, p: {}, e: {} }, o: {}, name: 0, world: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], tomb: {} }; }
+  function cloneJSON(o) { return JSON.parse(JSON.stringify(o)); }
+  function fingerprint(it) { var o = {}; for (var k in it) { if (k !== "i") o[k] = it[k]; } return JSON.stringify(o); }
+  function indexById(arr) { var m = {}; (arr || []).forEach(function (it) { if (it && it.i != null) m[it.i] = it; }); return m; }
+
+  // Build the compact content (with stable item ids) from a live campaign object.
+  function itemsWire(g) {
     return {
       n: g.name,
       h: g.heroes.map(function (h) {
-        return { n: h.name, p: h.player, c: h.concept, x: h.notes, s: h.stats, r: h.rdy, g: h.grow,
+        return { i: h.id, n: h.name, p: h.player, c: h.concept, x: h.notes, s: h.stats, r: h.rdy, g: h.grow,
           a: h.assets.map(function (a) { return { n: a.name, b: a.boons, k: a.broken ? 1 : 0 }; }) };
       }),
       k: g.arcs.map(function (a) {
-        return { g: a.goal, z: a.size[0], q: a.arc, t: a.anta, an: a.antaName, aw: a.antaWants,
+        return { i: a.id, g: a.goal, z: a.size[0], q: a.arc, t: a.anta, an: a.antaName, aw: a.antaWants,
           m: a.milestones.map(function (m) { return { d: m.done ? 1 : 0, t: m.text }; }) };
       }),
       c: g.challenges.map(function (ch) {
-        return { n: ch.name, e: ch.note, x: ch.max, f: ch.current, s: ch.showdown ? 1 : 0 };
+        return { i: ch.id, n: ch.name, e: ch.note, x: ch.max, f: ch.current, s: ch.showdown ? 1 : 0 };
       }),
-      w: g.world,
-      p: (g.places || []).map(function (p) { return { n: p.name, f: p.fn, d: p.detail, b: p.back ? 1 : 0 }; }),
-      e: (g.cast || []).map(function (x) { return { n: x.name, s: x.star ? 1 : 0, r: x.role, d: x.detail, l: x.lastSeen }; })
+      w: (g.world || []).slice(0, 10),
+      p: (g.places || []).map(function (p) { return { i: p.id, n: p.name, f: p.fn, d: p.detail, b: p.back ? 1 : 0 }; }),
+      e: (g.cast || []).map(function (x) { return { i: x.id, n: x.name, s: x.star ? 1 : 0, r: x.role, d: x.detail, l: x.lastSeen }; })
     };
   }
+
+  function normContent(c) {
+    c = c || {};
+    var out = { n: c.n || "", h: c.h || [], k: c.k || [], c: c.c || [], w: Array.isArray(c.w) ? c.w.slice(0, 10) : [], p: c.p || [], e: c.e || [] };
+    while (out.w.length < 10) out.w.push("");
+    SYNC_COLS.forEach(function (pair) { var ck = pair[0]; out[ck] = (out[ck] || []).map(function (it) { if (it.i == null) { var n = {}; for (var k in it) n[k] = it[k]; n.i = uid(ck); it = n; } return it; }); });
+    return out;
+  }
+
+  // Normalize any wire (new { content, meta } or a legacy flat content) to { content, meta }.
+  function splitWire(wire) {
+    wire = wire || {};
+    if (wire.content) {
+      var m = wire.meta || freshMeta();
+      m.u = m.u || { h: {}, k: {}, c: {}, p: {}, e: {} }; m.o = m.o || {}; m.tomb = m.tomb || {};
+      m.world = m.world || [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]; m.name = m.name || 0;
+      SYNC_COLS.forEach(function (p) { m.u[p[0]] = m.u[p[0]] || {}; });
+      return { content: normContent(wire.content), meta: m };
+    }
+    // Legacy flat content (old share links / pre-merge server records): seed baseline ts=1
+    // so any fresh local edit (ts = now) wins over it.
+    var c = normContent(wire), meta = freshMeta();
+    SYNC_COLS.forEach(function (pair) { var ck = pair[0]; (c[ck] || []).forEach(function (it, idx) { meta.u[ck][it.i] = 1; meta.o[it.i] = idx + 1; }); });
+    meta.name = 1; for (var i = 0; i < 10; i++) meta.world[i] = 1;
+    return { content: c, meta: meta };
+  }
+
+  // Stamp the live campaign: timestamp only the items whose content changed since the last
+  // synced baseline; carry everything else forward unchanged; tombstone removed items.
+  function stampedWire(g) {
+    var prev = (g._synced && g._synced.content) ? g._synced : { content: freshContent(), meta: freshMeta() };
+    var content = normContent(itemsWire(g));
+    var meta = cloneJSON(prev.meta || freshMeta());
+    meta.u = meta.u || { h: {}, k: {}, c: {}, p: {}, e: {} }; meta.o = meta.o || {}; meta.tomb = meta.tomb || {};
+    meta.world = meta.world || [0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+    var now = nowTs(), maxO = 0;
+    for (var oid in meta.o) if (meta.o[oid] > maxO) maxO = meta.o[oid];
+    SYNC_COLS.forEach(function (pair) {
+      var ck = pair[0]; meta.u[ck] = meta.u[ck] || {};
+      var prevById = indexById(prev.content[ck]), seen = {};
+      content[ck].forEach(function (it) {
+        seen[it.i] = 1; var pv = prevById[it.i];
+        if (!pv || fingerprint(pv) !== fingerprint(it)) meta.u[ck][it.i] = now;
+        else if (meta.u[ck][it.i] == null) meta.u[ck][it.i] = now;
+        if (meta.o[it.i] == null) { maxO += 1; meta.o[it.i] = maxO; }
+        if (meta.tomb[it.i]) delete meta.tomb[it.i];
+      });
+      Object.keys(prevById).forEach(function (id) { if (!seen[id]) { meta.tomb[id] = now; delete meta.u[ck][id]; } });
+    });
+    if (content.n !== prev.content.n) meta.name = now;
+    for (var i = 0; i < 10; i++) if ((content.w[i] || "") !== (prev.content.w[i] || "")) meta.world[i] = now;
+    return { content: content, meta: meta };
+  }
+
+  // Last-writer-wins merge of two { content, meta } wires. Commutative + idempotent.
+  function mergeWire(a, b) {
+    a = splitWire(a); b = splitWire(b);
+    var out = { content: freshContent(), meta: freshMeta() };
+    SYNC_COLS.forEach(function (pair) {
+      var ck = pair[0];
+      var ai = indexById(a.content[ck]), bi = indexById(b.content[ck]);
+      var au = a.meta.u[ck] || {}, bu = b.meta.u[ck] || {};
+      var ids = {};
+      Object.keys(ai).forEach(function (k) { ids[k] = 1; }); Object.keys(bi).forEach(function (k) { ids[k] = 1; });
+      Object.keys(a.meta.tomb).forEach(function (k) { ids[k] = 1; }); Object.keys(b.meta.tomb).forEach(function (k) { ids[k] = 1; });
+      Object.keys(ids).forEach(function (id) {
+        var ua = au[id] != null ? au[id] : -1, ub = bu[id] != null ? bu[id] : -1;
+        var tomb = Math.max(a.meta.tomb[id] || 0, b.meta.tomb[id] || 0);
+        var live = Math.max(ua, ub);
+        if (live < 0) { if (tomb > 0) out.meta.tomb[id] = tomb; return; }
+        if (tomb >= live) { out.meta.tomb[id] = tomb; return; }
+        var item, uts;
+        if (ua > ub) { item = ai[id]; uts = ua; }
+        else if (ub > ua) { item = bi[id]; uts = ub; }
+        else { var ia = ai[id], ib = bi[id]; item = (ia && ib) ? (fingerprint(ia) >= fingerprint(ib) ? ia : ib) : (ia || ib); uts = ua; }
+        if (!item) return;
+        out.content[ck].push(item);
+        out.meta.u[ck][id] = uts;
+        out.meta.o[id] = a.meta.o[id] != null ? a.meta.o[id] : (b.meta.o[id] != null ? b.meta.o[id] : uts);
+      });
+      out.content[ck].sort(function (x, y) { var ox = out.meta.o[x.i] || 0, oy = out.meta.o[y.i] || 0; if (ox !== oy) return ox - oy; return (x.i < y.i ? -1 : x.i > y.i ? 1 : 0); });
+    });
+    if ((a.meta.name || 0) >= (b.meta.name || 0)) { out.content.n = a.content.n; out.meta.name = a.meta.name || 0; }
+    else { out.content.n = b.content.n; out.meta.name = b.meta.name; }
+    for (var i = 0; i < 10; i++) { var wa = a.meta.world[i] || 0, wb = b.meta.world[i] || 0; if (wa >= wb) { out.content.w[i] = a.content.w[i] || ""; out.meta.world[i] = wa; } else { out.content.w[i] = b.content.w[i] || ""; out.meta.world[i] = wb; } }
+    return out;
+  }
+
+  function wiresDiffer(x, y) { return JSON.stringify(splitWire(x).content) !== JSON.stringify(splitWire(y).content); }
+
+  function toWire(g) { return stampedWire(g); }
   function encode() {
     var b64 = btoa(unescape(encodeURIComponent(JSON.stringify(toWire(camp)))));
     return b64.replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
   }
-  function sizeFromCode(code) { return code === "m" ? "movie" : code === "d" ? "duo" : "episode"; }
+  function sizeFromCode(code) { return (code === "m" || code === "d") ? "movie" : "episode"; }  // "d" = legacy 2-player Movie -> Movie
   function decode(str) {
     var b64 = str.replace(/-/g, "+").replace(/_/g, "/"); while (b64.length % 4) b64 += "=";
-    return fromWire(JSON.parse(decodeURIComponent(escape(atob(b64)))));
+    return campFromWire(JSON.parse(decodeURIComponent(escape(atob(b64)))));
   }
-  function fromWire(c) {
-    var g = blankCampaign(c.n || "Shared Campaign");
-    g.heroes = (c.h || []).map(function (h) {
-      var hero = blankHero();
+
+  // Build live campaign objects from a content wire, preserving stable item ids.
+  function buildCamp(content) {
+    content = normContent(content);
+    var g = blankCampaign(content.n || "Shared Campaign");
+    g.heroes = content.h.map(function (h) {
+      var hero = blankHero(); if (h.i) hero.id = h.i;
       hero.name = h.n || ""; hero.player = h.p || ""; hero.concept = h.c || ""; hero.notes = h.x || "";
       hero.stats = Array.isArray(h.s) ? h.s.slice(0, 2) : [];
       hero.rdy = clamp(h.r, 0, 9, 9); hero.grow = clamp(h.g, 0, 18, 0);
@@ -468,23 +622,37 @@
       }
       return hero;
     });
-    g.arcs = (c.k || []).map(function (a) {
-      var arc = blankArc();
+    g.arcs = content.k.map(function (a) {
+      var arc = blankArc(); if (a.i) arc.id = a.i;
       arc.size = sizeFromCode(a.z); arc.goal = a.g || ""; arc.antaName = a.an || ""; arc.antaWants = a.aw || "";
       arc.milestones = makeMilestones(arc.size, (a.m || []).map(function (m) { return { done: !!m.d, text: m.t || "" }; }));
       arc.arc = clamp(a.q, 0, SIZES[arc.size].ms, 0); arc.anta = clamp(a.t, 0, SIZES[arc.size].anta, 0);
       return arc;
     });
-    g.challenges = (c.c || []).map(function (ch) {
-      var x = blankChallenge();
+    g.challenges = content.c.map(function (ch) {
+      var x = blankChallenge(); if (ch.i) x.id = ch.i;
       x.name = ch.n || ""; x.note = ch.e || ""; x.max = clamp(ch.x, 1, 12, 4); x.current = clamp(ch.f, 0, x.max, 0); x.showdown = !!ch.s;
       return x;
     });
-    g.world = Array.isArray(c.w) ? c.w.slice(0, 10).map(function (s) { return s || ""; }) : [];
+    g.world = content.w.slice(0, 10).map(function (s) { return s || ""; });
     while (g.world.length < 10) g.world.push("");
-    g.places = (c.p || []).map(function (p) { return { name: p.n || "", fn: p.f || "", detail: p.d || "", back: !!p.b }; });
-    g.cast = (c.e || []).map(function (x) { return { name: x.n || "", star: !!x.s, role: x.r || "", detail: x.d || "", lastSeen: x.l || "" }; });
+    g.places = content.p.map(function (p) { var x = blankPlace(); if (p.i) x.id = p.i; x.name = p.n || ""; x.fn = p.f || ""; x.detail = p.d || ""; x.back = !!p.b; return x; });
+    g.cast = content.e.map(function (n) { var x = blankNpc(); if (n.i) x.id = n.i; x.name = n.n || ""; x.star = !!n.s; x.role = n.r || ""; x.detail = n.d || ""; x.lastSeen = n.l || ""; return x; });
     return g;
+  }
+
+  // Build a fresh campaign from a wire, recording the synced baseline so merges work.
+  function campFromWire(wire) {
+    var s = splitWire(wire);
+    var g = buildCamp(s.content);
+    g._synced = s;
+    return g;
+  }
+  // Replace the live campaign's content in place (keeps its local id / open editors map).
+  function loadContentInto(g, content) {
+    var fresh = buildCamp(content);
+    g.name = fresh.name; g.heroes = fresh.heroes; g.arcs = fresh.arcs; g.challenges = fresh.challenges;
+    g.world = fresh.world; g.places = fresh.places; g.cast = fresh.cast;
   }
 
   // ============================================================ RENDER
@@ -621,7 +789,7 @@
     });
 
     box.appendChild(el("h2", "sec", "Readiness"));
-    box.appendChild(el("p", "hint", "Starts at 9 (your max). Tap to set where you are now. A Recovery Scene heals fully to 9 (villain surges)."));
+    box.appendChild(el("p", "hint", "Starts at 9 (your max). Tap to set where you are now. A Recovery Scene heals fully to 9 — free; the villain never advances."));
     box.appendChild(trackRow(null, "rdy", 9, h.rdy, function (n) { h.rdy = n; persist(); render(); }, { start: 9, labels: true }));
     box.appendChild(readout("Readiness: ", h.rdy, " / 9"));
 
@@ -636,7 +804,7 @@
     box.appendChild(ta);
 
     var ref = el("p", "ref");
-    ref.innerHTML = "<b>The Roll:</b> 2d6, +1 if a fitting Stat · +1 if a fitting Asset (+2 both, +0 neither). <b>10+</b> Strong · <b>7–9</b> Weak · <b>6−</b> Miss. Doubles upgrade a tier.";
+    ref.innerHTML = "<b>The Roll:</b> 2d6, +1 if a fitting Stat · +1 if a fitting Asset (+2 both, +0 neither). <b>10+</b> Strong · <b>7–9</b> Weak · <b>6−</b> Miss. Doubles upgrade a Hit; a Miss on doubles advances the villain. On a Miss you may take a <b>Devil's Bargain</b> — forgo the damage, fill the box, +1 villain.";
     box.appendChild(ref);
     return box;
   }
@@ -644,7 +812,7 @@
   // ============================================================ STORY ARCS
   function renderArcs(root) {
     var head = el("div"); head.style.cssText = "display:flex;justify-content:space-between;align-items:center;gap:.5rem;flex-wrap:wrap;margin-bottom:.3rem;";
-    head.appendChild(el("div", "hint", "Fill the Story Arc Track to reach the Showdown; you lose if the Antagonist Track fills first (its top box is the reserved climax)."));
+    head.appendChild(el("div", "hint", "Fill the Story Arc Track to reach the Showdown; you lose if the Antagonist Track fills first (its last box is the villain's victory)."));
     var add = el("button", "sm", "+ Add Story Arc"); add.onclick = function () { var a = blankArc(); camp.arcs.push(a); ui.openArc = a.id; persist(); render(); };
     head.appendChild(add); root.appendChild(head);
 
@@ -692,10 +860,10 @@
     r1.appendChild(trackRow(null, "arc", sz.ms, a.arc, function (n) { a.arc = n; persist(); render(); }, { labels: true }));
     tr.appendChild(r1);
     var r2 = el("div", "trackrow"); r2.appendChild(el("span", "tracklabel", "Antagonist"));
-    r2.appendChild(trackRow(null, "anta", sz.anta, a.anta, function (n) { a.anta = n; persist(); render(); }, { labels: true, climax: sz.anta }));
+    r2.appendChild(trackRow(null, "anta", sz.anta, a.anta, function (n) { a.anta = n; persist(); render(); }, { labels: true, attacks: true, climax: sz.anta }));
     tr.appendChild(r2);
     box.appendChild(tr);
-    box.appendChild(el("p", "hint", "A villain box fills each time the heroes take a Recovery Scene. The ★ top box is the reserved climax — only the Showdown (or a hero going Out of Action) fills it."));
+    box.appendChild(el("p", "hint", "A villain box fills on a Devil's Bargain, a Miss showing doubles, or a hero going Out of Action — never on a Recovery Scene (recovery is free). Odd boxes are the villain's Attacks; the last box is their victory."));
 
     var row = el("div", "row");
     row.appendChild(labeled("Antagonist — who / what", textField(a, "antaName", "The Shadow Baron")));
@@ -772,7 +940,7 @@
       root.appendChild(card);
     });
 
-    root.appendChild(el("p", "ref", "Each roll: Strong = fill 1 · Weak = fill 1, −1 Readiness · Miss = no box, −2 Readiness. Track fills → Challenge won. Size: Easy = players−1 · Medium = players · Hard = players+1."));
+    root.appendChild(el("p", "ref", "Each roll: Strong = fill 1 · Weak = fill 1, −1 Readiness · Miss = no box, −2 Readiness (or take the Devil's Bargain). Track fills → Challenge won. Size by difficulty: Easy 2 · Medium 3 · Hard 4 · Very Hard 5."));
   }
 
   // ============================================================ WORLD (10 questions)
@@ -907,6 +1075,7 @@
         if (filled) b.classList.add("fill");
         if (opts.start && n === opts.start) b.classList.add("start");
         if (opts.climax && n === opts.climax) { b.classList.add("climax"); b.textContent = "★"; }
+        else if (opts.attacks && n % 2 === 1) { b.classList.add("attack"); b.textContent = "▲"; }
         else if (opts.showdown && n === opts.showdown) { b.classList.add("show"); b.textContent = "★"; }
         else if (opts.labels) b.textContent = n;
         b.onclick = function () { onSet(value === n ? n - 1 : n); };
@@ -974,6 +1143,9 @@
     document.addEventListener("keydown", function (e) { if (e.key === "Escape") closeDrawer(); });
     var nameIn = $("campName");
     nameIn.oninput = function () { if (camp) { camp.name = nameIn.value; persist(); } };
+    // When the user stops typing, apply any remote update we deferred so we never yanked
+    // the DOM out from under a focused field.
+    document.addEventListener("focusout", function () { setTimeout(flushPendingRemote, 60); });
 
     var gm = (location.hash || "").match(/[#&]g=([^&]+)/);
     if (gm) { setStatus("syncing"); render(); joinGame(gm[1]); return; }

@@ -9,7 +9,7 @@ A lightweight digital companion for tracking a campaign — **no account, no sig
 One page gathers everything a campaign needs:
 
 - **Characters** — the full Hero Sheet for everyone at the table: Concept, two Stats, three Assets (with Boons and the Broken flag), Readiness, and the Growth Track.
-- **Story Arcs** — the Goal, the size (Episode / Movie / 2-player Movie), the **Story Arc Track** and **Antagonist Track** (with its reserved ★ climax box), the antagonist, and a numbered Milestone list. Checking a Milestone fills its track box automatically.
+- **Story Arcs** — the Goal, the size (Episode / Movie), the **Story Arc Track** and **Antagonist Track** (its odd boxes the villain's Attacks, its last box their victory), the antagonist, and a numbered Milestone list. Checking a Milestone fills its track box automatically.
 - **Challenges** — disposable scratch clocks for fights, chases, and tense scenes. Spin one up, fill it as you roll, and delete it (or "Clear finished") once it's done.
 - **World** — the ten Worldbuilding questions (Genre, Setting, Denizens, Magic, Tech, Leadership, Enforcement, Threats, Forbidden, Reputation), one world per campaign.
 - **Places** — everywhere worth a return trip: its function, the striking detail + open hook, and a Return? flag.
