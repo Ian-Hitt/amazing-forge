@@ -2,7 +2,7 @@
 
 A hero who slays the dragon in Episode One shouldn't feel like the same hero by the season finale. They've earned scars, signature moves, and a reputation. This chapter is how that shows up on the sheet.
 
-But *Lights, Camera, Action!* grows heroes in an unusual way, and it's worth saying up front: **your heroes get more tools, never bigger numbers.** A starting hero and a veteran both roll the same 2d6 and add the same +0 to +2. The veteran just has *more* — more signature tricks, more Assets, more ways to bend a scene their way. I call this **horizontal growth**, and it's the secret that keeps the game working over a long game (more on why at the end of the chapter).
+As your heroes grow, they get **more tools** — more signature moves, more Assets, more ways to bend a scene their way. A veteran rolls the same 2d6 and adds the same +0 to +2 as a starting hero; what grows is everything they can *do* with it. That's the secret that keeps the game working over a long campaign (more on why at the end of the chapter).
 
 > **One-shots can skip this entirely.** If you're playing a single **Episode** in an afternoon, there's little to do here — one sitting earns about 1 Growth, not enough to buy anything yet. Advancement is for **Season** and **Series** play, where the same heroes return episode after episode. Come back when your group decides to keep going.
 

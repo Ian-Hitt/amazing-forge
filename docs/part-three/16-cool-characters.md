@@ -107,7 +107,7 @@ Notice how naturally these hang off your archetype's flaw. The flaw isn't a weak
 
 You're not locked in. Heroes change over a long story — that's the best part of one. A Maverick learns to lean on the team. An Innocent gets wiser without losing their hope. A Rebel discovers there's something worth *building*, not just tearing down. Let your archetype bend and shift as your hero lives through their Story Arcs, and let the flaw soften (or flare up) as the story earns it.
 
-That kind of change is the soul of a long game — and when your hero grows in the *fiction*, the game has a way to mark it in the *rules* too: new tools and signature moves, never bigger numbers. That's what the next stop covers.
+That kind of change is the soul of a long game — and when your hero grows in the *fiction*, the game has a way to mark it in the *rules* too: new tools and signature moves. That's what the next stop covers.
 
 > **Already played a few sessions?** This creative growth pairs with the mechanical kind — earning Boons and new Assets as your hero develops. See [Chapter 13 — Growing Your Heroes](../part-two/13-growing-your-heroes.md).
 

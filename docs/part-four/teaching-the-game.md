@@ -39,7 +39,7 @@ Keep this sheet next to you. Each rule below has a **trigger** — the moment in
 | A hero hits **0 Readiness** | **Out of Action** & a **Broken Asset** | *"You're down — and going down hands the antagonist a box. You're out of this scene until the team falls back to get you up. And one of your Assets breaks until you get a proper rest between Stories."* |
 | The table goes quiet — *"**what happens now?**"* | **Ask the Oracle** | *"When none of us knows what's next: name what your hero's trying to do, then do the obvious thing — or we roll the dice and let them surprise us."* |
 | They **finish the Story Arc**, or rest between Stories | **Downtime** | *"You did it. Take a rest between Stories — everyone's back to full, and any broken Assets come back."* |
-| You're carrying on **past one Story Arc into a Season** | **Growth** | *"As you play on, you earn Growth — spend it on new tricks and tools, never bigger numbers."* |
+| You're carrying on **past one Story Arc into a Season** | **Growth** | *"As you play on, you earn Growth — spend it on new tricks and tools that open up new things to do."* |
 
 > **The thread through all of it:** introduce a rule, then immediately hand the narration back to the player. *"…so knock off a point — now, what does that look like?"* The rule lands and the story keeps moving in the same breath.
 
