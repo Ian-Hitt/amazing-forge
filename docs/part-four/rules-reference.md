@@ -108,9 +108,9 @@ When the story stalls and the table isn't sure what happens next — especially 
 - **Story Spark (d6)** — *what happens next:* **1** a new face · **2** a discovery · **3** the threat closes in · **4** a door opens · **5** a cost surfaces · **6** a hard choice. Bend the result toward your next Milestone.
 - **Ask the Dice (1d6)** — *for a yes/no question:* **1** no, and worse · **2–3** no · **4–5** yes · **6** yes, and better. (+1 if a yes is likely, −1 if unlikely.)
 
-## Growth (advancement — horizontal only)
+## Growth (advancement)
 
-Heroes grow over a campaign by gaining new tricks and options, **never bigger numbers**, so the math never inflates. The party earns **1 Growth** every **3rd Milestone** it marks (on any Story Arc; cumulative, never resets) — so a single Episode earns too little to spend, because advancement is built for ongoing play. Spend it on one of two things:
+Over a campaign, heroes grow by gaining new tricks — **signature moves and fresh tools** that open up new things to do at the table. The party earns **1 Growth** every **3rd Milestone** it marks (on any Story Arc; cumulative, never resets), so a single Episode earns too little to spend — advancement is built for ongoing play. Spend it on one of two things:
 
 - **Boon — 2 Growth:** a signature move attached to an Asset (max 2 per Asset).
 - **New Asset — 5 Growth:** up to a ceiling of 6 Assets; at six, **Trade In** (retire one) to add another.
