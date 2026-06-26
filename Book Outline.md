@@ -65,12 +65,12 @@
 *Purpose: Decide who/what stands in the way. The antagonist can be a person OR anything (weather, a ticking clock, a buried secret). You just need to know the Goal and who opposes it.*
 
 **Draw the Tracks**
-*Purpose: Draw 3 boxes for the Story Arc Track (when all 3 are checked, you win). Then draw a second row of 3 — the Antagonist Track (core rule, same length). If the antagonist's track fills first, you lose. Brief mention that fleeing/quitting (Ch5) is how it advances.*
+*Purpose: Draw 3 boxes for the Story Arc Track (when all 3 are checked, you win). Then draw a second row — the Antagonist Track (a 5-box clock for a first Episode). If the antagonist's track fills first, you lose. Brief mention of how it advances: the Devil's Bargain, a Miss on doubles, or a hero going Out of Action (Ch5).*
 
 **Jump In: In Media Res**
 *Purpose: Don't start in a tavern. Open in the middle of the action. The Guide (or the group) describes the opening scene, and you ask "what do you do?" Play starts.*
 
-> *Note: Part Two covers the four Story Arc types (Episode/Movie/Season/Series) and the one headway rule, multiple simultaneous Story Arcs, the full Antagonist Track / Surge, the **Start a Story Arc** opening roll, and how Milestones are built from Scenes. Part One skips the opening roll — first games just jump into the action.*
+> *Note: Part Two covers the two Story sizes (Episode/Movie) plus the Season/Series collection patterns and the one headway rule, multiple simultaneous Story Arcs, the full Antagonist Track (the Devil's Bargain spine), the **Start a Story Arc** opening roll, and how Milestones are built from Scenes. Part One skips the opening roll — first games just jump into the action.*
 
 ---
 
@@ -98,17 +98,17 @@
 *Purpose: Quick framing. One-moment risks = Regular Roll, no track. Big dramatic scenes = Challenge, draw a track and fill it together. The question is "how much screen time does this deserve?"*
 
 **Running a Challenge (First Game Version)**
-*Purpose: Draw boxes (Easy = one per player). Take turns describing what your hero does and rolling. Strong Hit fills a box; Weak Hit fills a box but Pay the Price; Miss fills nothing and Pay the Price. When all boxes are filled, the Challenge is over and you complete a Milestone.*
+*Purpose: Draw the track (Easy = 2 boxes, the same at any group size). Take turns describing what your hero does and rolling. Strong Hit fills a box; Weak Hit fills a box but Pay the Price; Miss fills nothing and Pay the Price. When all boxes are filled, the Challenge is over and you complete a Milestone.*
 
-**Fleeing & Quitting (First Game Version)**
-*Purpose: The escape valve. If a Challenge is bleeding too much Readiness, the group can Flee: end the Challenge (lose its progress) and mark one box on the Antagonist Track — the bad guys gain ground. If the Antagonist Track fills (or you give up entirely), you Quit the Story Arc and lose — and that's okay, it sets up the next adventure. This is how heroes stay alive when low.*
+**Falling Back & Quitting (First Game Version)**
+*Purpose: The escape valve. If a Challenge is bleeding too much Readiness, the group can fall back: end the Challenge (lose its progress) and take a Recovery Scene — the party heals to full, and falling back is always safe. If the Antagonist Track fills, or the group gives up, you Quit the Story Arc and lose — and that's okay, it sets up the next adventure. This is how heroes stay alive when low.*
 
 > *Note: Part Two has the full Challenge rules: difficulty scaling, the popcorn turn rule, Aid Your Ally, falling back in depth, and guidance for different Challenge types.*
 
 **Recovery (First Game Version)**
-*Purpose: When the heroes are hurt and the fiction gives a safe lull, they can take a Recovery Scene — fall back and regroup. The whole party returns to full Readiness, and in return the Antagonist Track surges one box (the antagonist gains ground while you catch your breath). At 0 Readiness you're Out of Action; getting you back up forces a Recovery Scene, whose surge can lose the Story.*
+*Purpose: When the heroes are hurt and the fiction gives a safe lull, they can take a Recovery Scene — fall back and regroup. The whole party returns to full Readiness, with no roll and no cost. At 0 Readiness a hero is Out of Action — which hands the antagonist a box — and the team has to fall back to get them up.*
 
-> *Note: Part Two covers the Recovery Scene and the Surge in depth, Out of Action as the loss vector, and Downtime — the between-Stories reset.*
+> *Note: Part Two covers the Recovery Scene in depth, the three ways the Antagonist Track advances, Out of Action as the loss vector, and Downtime — the between-Stories reset.*
 
 **Finishing the Story Arc**
 *Purpose: Reach the climax (complete the last Story Arc box) → the Story is complete. Describe the victory. Finishing resets the party to full Readiness (Downtime). Celebrate, then decide what comes next.*
@@ -159,8 +159,8 @@
 **When to Draw a Track**
 *Purpose: The group story call. "How much screen time does this moment deserve?" No mechanical reward for rushing — the only question is which choice tells the better story.*
 
-**Setting Difficulty** *(revised 2026-06-22)*
-*Purpose: Easy = players −1 (min 1), Medium = players, Hard = players +1, **Very Hard = players +2 (optional, climaxes only)**. A plain ladder for all sizes (the old "4+ players add one box to every tier" rule is dropped). Difficulty is a screen-time dial, so stories mix tiers — the ladder is centered on Medium so a mix stays balanced. How to calibrate to session pacing.*
+**Setting Difficulty**
+*Purpose: A fixed ladder, the same at any party size — **Easy = 2, Medium = 3, Hard = 4, Very Hard = 5** (optional, climaxes only) boxes. Difficulty is a screen-time dial, so stories mix tiers; bigger groups lean on Hard/Very Hard for meatier set-pieces. How to calibrate to session pacing.*
 
 **The Turn Loop**
 *Purpose: Popcorn-style round-robin. No initiative. Everyone acts once before anyone acts twice. How to handle spotlight sharing.*
@@ -173,8 +173,8 @@
 **Ending a Challenge**
 *Purpose: Last box filled → obstacle cleared → check one box on Story Arc Track. Clean and fast.*
 
-**Fleeing a Challenge (The Escape Valve)**
-*Purpose: The group may abandon a Challenge to stop the Readiness bleed — lose its progress, mark one Antagonist box (the bad guys gain ground), no further loss. The sole trigger that advances the Antagonist Track. Self-limiting (short track → only so many flees before you lose the Story Arc). Cross-reference Ch10. This is the core stay-alive valve.*
+**Falling Back from a Challenge (The Escape Valve)**
+*Purpose: The group may fall back from a Challenge to stop the Readiness bleed — lose its progress and take a Recovery Scene (full heal, free; the antagonist gains nothing). Falling back is always safe, never a penalty, usable as often as the fiction allows. Cross-reference Ch9/Ch10. This is the core stay-alive valve.*
 
 **Running Different Challenge Types**
 `💡 Idea: Short guidance (half a page each) on how the same mechanic serves different scene types. Combat, Journey, Stealth/Infiltration, Investigation, Social Confrontation. What does "filling a box" look like in each? What kinds of Assets shine? What's a good Pay the Price for each type?`
@@ -199,24 +199,24 @@
 **Guide Guidance: Making It Hurt Right**
 *Purpose: The price should push the story, not just drain a number. Tips on framing complications as plot beats rather than bookkeeping.*
 
-*Note: Paying the Price NEVER advances the Antagonist Track — that only happens when the heroes flee a Challenge (Ch8/Ch10). The price and the antagonist clock are fully separate; a one-line clarifying pointer is enough here.*
+*Note: Paying the Price NEVER advances the Antagonist Track by itself — that advances only via a Devil's Bargain, a Miss on doubles, or a hero going Out of Action (Ch10). The price and the antagonist clock are fully separate; a one-line clarifying pointer is enough here.*
 
 #### Part B — Recovery
 
-**Mend (the Quick Patch)** *(revised 2026-06-22)*
-*Purpose: A small, risky patch available in ANY scene (a Challenge is just a scene with a track — in one, Mending is your turn instead of a Challenge Roll). Self or ally: Strong +3 / Weak +2 / Miss −1 Readiness, capped at 9. Does NOT surge the antagonist; no usage cap; can't revive someone Out of Action. What keeps it honest: the −1 risk — a tactical patch-vs-push choice. A Miss can knock you Out of Action.*
+**Mend (the Quick Patch)**
+*Purpose: A small, risky patch available in ANY scene (a Challenge is just a scene with a track — in one, Mending is your turn instead of a Challenge Roll). Self or ally: Strong +3 / Weak +2 / Miss −1 Readiness, capped at 9. Never advances the antagonist; no usage cap; can't revive someone Out of Action. What keeps it honest: the −1 risk — a tactical patch-vs-push choice. A Miss can knock you Out of Action.*
 
-**The Recovery Scene (Fall Back and Regroup)** *(revised 2026-06-22)*
-*Purpose: Recovery is fiction-gated (a safe lull, most often between Challenges) and player-chosen — never scheduled. A Recovery Scene heals the WHOLE party fully back to 9, reliably (no roll) — and in return the Antagonist Track surges one box (Ch10). It no longer lowers any max; Readiness max stays 9 all game (no declining ceiling). It's the quiet/B-plot beat, so character scenes are where the antagonist gains ground. Won't voluntarily surge the reserved climax box. The only thing that advances the antagonist.*
+**The Recovery Scene (Fall Back and Regroup)**
+*Purpose: Recovery is fiction-gated (a safe lull, most often between Challenges) and player-chosen — never scheduled. A Recovery Scene heals the WHOLE party fully back to 9, reliably (no roll) and free — recovery is never a trigger, so the antagonist gains nothing. Readiness max stays 9 all game. It's the quiet/B-plot beat; fall back as often as the fiction allows.*
 
-**Downtime (Between Story Arcs)** *(revised 2026-06-22)*
-*Purpose: Finishing a Story Arc heals everyone to full and restores any Broken Asset — no Surge. The slow-down-and-roleplay breather between adventures (optional d6 prompt). You always start the next Story Arc fresh.*
+**Downtime (Between Story Arcs)**
+*Purpose: Finishing a Story Arc heals everyone to full and restores any Broken Asset. The slow-down-and-roleplay breather between adventures (optional d6 prompt). You always start the next Story Arc fresh.*
 
 **Out of Action: the Loss Vector**
-*Purpose: A hero at 0 forces a Recovery Scene to get them up — and that forced advance can fill the antagonist's last box, losing the Story before the heroes finish. Readiness is ammunition against the antagonist's clock, not a survival meter. Also breaks an Asset until the between-Stories Downtime restores it.*
+*Purpose: A hero at 0 goes Out of Action, which advances the antagonist a box on the spot — and near the end that box can be the antagonist's last, losing the Story before the heroes finish. The team must fall back to get a downed hero up. Readiness is ammunition against the antagonist's clock, not a survival meter. Also breaks an Asset until the between-Stories Downtime restores it.*
 
 **Out of Action**
-*Purpose: At 0 Readiness, a hero can't act. They return only when the team falls back to get them up — which forces a Recovery Scene (and its antagonist Surge) — or at the party's next Downtime. A quick Mend CAN'T revive a downed hero (that would dodge the loss vector). Never permanent (heroes can't die), but being dropped hands the antagonist ground at the worst time — it's the loss vector. (revised 2026-06-22)*
+*Purpose: At 0 Readiness, a hero can't act. They return when the team falls back to get them up (a Recovery Scene) or at the party's next Downtime. A quick Mend CAN'T revive a downed hero (that would dodge the loss vector). Never permanent (heroes can't die), but going down advances the antagonist a box at the worst time — it's the loss vector.*
 
 **Broken Assets**
 *Purpose: The durable-teeth layer (Starforged "impacts"). Going Out of Action breaks one Asset — the one that failed you (Guide/table names it). A broken Asset gives no +1 (a roll that would have been +2 falls to +1; an Asset-only roll falls to +0 — your Stats are untouched), never a penalty (zero new math — we break an existing Asset, not add a negative one). Only Downtime restores one, per rest. Going down again breaks a second. Scoped to Out of Action only. Distinct from advancement's Trade In (temporary/free/involuntary vs. permanent/Growth/chosen — Ch.13). Optional: free-floating conditions (Broken Spirit) that work the same. Cross-refs Ch.7 (the roll) and the hero sheet (Broken checkbox). (revised 2026-06-22)*
@@ -228,15 +228,15 @@
 
 ### Chapter 10 — Story Arcs & the Antagonist Track (Complete)
 
-*Everything about setting up and running Story Arcs in one place: the Story Arc Track, the four Story Arc types (Episode/Movie/Season/Series), the one headway rule that fills every box, the Antagonist Track, milestone ideas, and juggling several Story Arcs at once. (Replaces the old split between "Story Arcs" and "Antagonist Track" chapters.)*
+*Everything about setting up and running Story Arcs in one place: the Story Arc Track, the two Story sizes (Episode/Movie) plus the Season/Series collection patterns, the one headway rule that fills every box, the Antagonist Track, milestone ideas, and juggling several Story Arcs at once. (Replaces the old split between "Story Arcs" and "Antagonist Track" chapters.)*
 
 #### Part A — Building & Winning a Story Arc
 
 **Story Arc Structure**
 *Purpose: A Story Arc has a Goal (victory condition), Milestones (steps toward it), and a Story Arc Track (boxes to check) paired with the Antagonist Track. Full treatment of how to construct these.*
 
-**Two Story Sizes: Episode and Movie** *(revised 2026-06-22)*
-*Purpose: A Story is one spine with two tracks. Only two sizes carry box machinery — Episode (3 Milestones / 2-box Antagonist Track, one sitting) and Movie (6 Milestones / 4-box Antagonist Track, one complete feature over ~2–3 sessions). **Duos (2 players) use a 5-box Antagonist Track for the Movie** (one extra regroup); Episode is unchanged. Pick with one question ("a single sitting, or a feature?"). The Antagonist Track is short and sized so the antagonist lands one step from winning at the climax. Box counts are defaults you can stretch.*
+**Two Story Sizes: Episode and Movie**
+*Purpose: A Story is one spine with two tracks. Only two sizes carry box machinery — Episode (3 Milestones / 5-box Antagonist Track, one sitting) and Movie (6 Milestones / 9-box Antagonist Track, one complete feature over ~2–3 sessions) — the same at any party size. Pick with one question ("a single sitting, or a feature?"). The Antagonist Track is sized so the antagonist tends to land one step from winning at the climax (the photo-finish). Box counts are defaults you can stretch.*
 
 **Seasons and Series Are Collections, Not Sizes**
 *Purpose: Episode and Movie are individual stories; Season and Series describe how you string them together over a long game — prose patterns, no new machinery. A Season is usually a collection of Episodes/Movies sharing a throughline (recurring antagonist, a season-long question carried by a B-plot thread); occasionally a single long serialized spine (just a big Movie). A Series is always a collection — the whole game, a run of Seasons. How to plan and connect them.*
@@ -256,25 +256,25 @@
 #### Part B — The Antagonist Track (Core Rule)
 
 **What It Is**
-*Purpose: The Antagonist Track is the losing side of the same Story Arc — not a separate arc, its other end — running in parallel, a core part of every arc (not optional). The race between the two tracks. Why it's mandatory: it's the backbone of the flee/stay-alive system.*
+*Purpose: The Antagonist Track is the losing side of the same Story Arc — not a separate arc, its other end — running in parallel, a core part of every arc (not optional). The race between the two tracks. Why it's mandatory: it's the other half of the race — without it there's no clock to lose to.*
 
-**Drawing the Track (with a Reserved Climax Box)** *(revised 2026-06-22)*
-*Purpose: Short — Episode 2 / Movie 4 boxes (Movie is 5 for a duo). The TOP box is the reserved climax: lower boxes fill during play, the top only at the finale. Mark the climax box visibly. Each lower box is the antagonist gaining ground while the heroes regroup.*
+**Drawing the Track**
+*Purpose: Episode 5 boxes / Movie 9 boxes — the same at any party size. Its odd boxes (1·3·5, plus 7·9 on a Movie) are Attacks — narrated antagonist beats; even boxes are silent pressure; the last box is the antagonist's victory.*
 
 **Characterize Your Antagonist**
-*Purpose: The antagonist can be a person, faction, or a force (a desert, a plague, a deadline). Give it a face — name what it wants and what "winning" looks like — so every Surge is a concrete beat (surge the desert → a sandstorm).*
+*Purpose: The antagonist can be a person, faction, or a force (a desert, a plague, a deadline). Give it a face — name what it wants and what "winning" looks like — so every Attack is a concrete beat (the desert → a sandstorm).*
 
-**How It Fills: The Surge on a Recovery Scene**
-*Purpose: The antagonist advances one box each time the heroes fall back to regroup (take a Recovery Scene, Ch9) — buying recovery costs ground. Emergent and player-chosen, never scheduled. The regroup is the quiet/B-plot beat, so character scenes are where the antagonist gains — taking time for the cast has stakes. Heroes won't voluntarily surge the climax box. Cross-ref Ch9's Recovery Scene.*
+**How It Fills: The Three Triggers**
+*Purpose: The Antagonist Track advances one box in exactly three ways — a hero takes the **Devil's Bargain** (the main, player-authored engine: on a Miss, forgo the loss and upgrade to a Strong Hit in exchange for +1 antagonist), a **Miss comes up doubles** (the random pressure nobody controls), or a hero goes **Out of Action** (the catastrophe). Recovery is never a trigger. Cross-ref Ch7/Ch9.*
 
-**The Surge: Playing Out an Antagonist Milestone**
-*Purpose: When a Recovery Scene fills a box, stop and play it out. What did the antagonist accomplish while the heroes regrouped? How does it tighten things? A filled box is an open invitation to bend the plot.*
+**The Attack: Playing Out an Antagonist Beat**
+*Purpose: On the odd "Attack" boxes, stop and play it out — what did the antagonist accomplish off-screen, and how does it tighten things? Even boxes are silent pressure (no scene needed). A filled Attack box is an open invitation to bend the plot.*
 
 **Losing Before the Climax (Out of Action)**
-*Purpose: A hero taken Out of Action forces a Recovery Scene, whose forced advance can fill even the antagonist's last box — the antagonist wins before the heroes finish. The real risk; why Readiness is ammunition against the clock, not a survival meter (heroes can't die).*
+*Purpose: A hero taken Out of Action advances the antagonist a box on the spot — and near the end that box can be the antagonist's last, the antagonist winning before the heroes finish. The real risk; why Readiness is ammunition against the clock, not a survival meter (heroes can't die).*
 
 **Design Note: the Photo-Finish**
-*Purpose: Why the reserved climax box + surge-on-regroup makes "antagonist one step from winning at the finale" the default ending (the sim result), and why this replaced the old sandbox clock.*
+*Purpose: Why the Devil's Bargain spine (the three triggers, sized Episode 5 / Movie 9) makes "antagonist one step from winning at the finale" the default ending (the sim result), and why this replaced the old sandbox clock.*
 
 #### Part C — Losing, Quitting & Running Long
 
@@ -342,8 +342,8 @@
 **Staying Unstuck (Ask the Oracle as Your Engine)**
 *Purpose: Ask the Oracle isn't a fallback in Co-op — it's the primary "what happens next" tool. How to use it proactively, not reactively.*
 
-**Deciding to Flee Without a Guide**
-*Purpose: In Co-op, the group decides together when to flee a Challenge (and when to Quit the Story Arc). The question to ask: "Is the Readiness bleed still worth it, or do we cut our losses and let the antagonist gain ground?" Make it a shared story decision, not a punishment.*
+**Deciding to Fall Back Without a Guide**
+*Purpose: In Co-op, the group decides together when to fall back from a Challenge (and when to Quit the Story Arc). The question to ask: "Are we battered enough that it's time to fall back and heal up?" Falling back is always safe — make it a shared story decision, never a punishment.*
 
 #### Part C — Shared Tools (Both Modes)
 
@@ -459,7 +459,7 @@
 ### Quick Reference
 
 **The Moves at a Glance — Moves Cheatsheet** ✅ *Built (`docs/part-four/moves-cheatsheet.md`).*
-*Purpose: The full roster on one printable card, grouped by family — **Action Moves** (resolve a hero's attempt: The Roll, Aid Your Ally, Mend, Downtime) and **Frame Moves** (establish/shift the situation: Start a Story Arc, Ask the Oracle, Pay the Price, Flee, Quit the Story Arc). One line each: what it does, what you roll, plus the core-roll legend. Designed to print and sit in the middle of the table. Mirrors "The Moves (Master List)" in the mechanics reference. (**Action move** / **Frame move** are now canonical Standard Vocabulary, locked 2026-06-09.)*
+*Purpose: The full roster on one printable card, grouped by family — **Action Moves** (resolve a hero's attempt: The Roll, Aid Your Ally, Mend, Downtime) and **Frame Moves** (establish/shift the situation: Start a Story Arc, Ask the Oracle, Pay the Price, Fall back, Quit the Story Arc). One line each: what it does, what you roll, plus the core-roll legend. Designed to print and sit in the middle of the table. Mirrors "The Moves (Master List)" in the mechanics reference. (**Action move** / **Frame move** are now canonical Standard Vocabulary, locked 2026-06-09.)*
 
 **The Roll** *(revised 2026-06-22)*
 *Purpose: Outcomes table (Strong Hit / Weak Hit / Miss), modifier rules (+0/+1/+2 — Stat, Asset, both, or neither), Oracle's Blessing. One page.*
@@ -467,11 +467,11 @@
 **Challenges**
 *Purpose: Difficulty scaling, turn structure, outcome table, ending a Challenge. One page.*
 
-**Readiness & Recovery** *(revised 2026-06-22)*
-*Purpose: Readiness loss, Mend (Strong +3 / Weak +2 / Miss −1, capped at 9, no Surge), the Recovery Scene (full heal to 9 + one Surge, no declining ceiling), Downtime (full heal), Out of Action rules, cap (9).*
+**Readiness & Recovery**
+*Purpose: Readiness loss, Mend (Strong +3 / Weak +2 / Miss −1, capped at 9, never advances the antagonist), the Recovery Scene (full heal to 9, free), Downtime (full heal), Out of Action rules, cap (9).*
 
-**Story Arcs** *(revised 2026-06-22)*
-*Purpose: Story Arc Track lengths (Episode 3 Milestones / Movie 6) and Antagonist Track sizes (Episode 2 / Movie 4, or 5 for a duo), what a Milestone is, finishing a Story Arc.*
+**Story Arcs**
+*Purpose: Story Arc Track lengths (Episode 3 Milestones / Movie 6) and Antagonist Track sizes (Episode 5 / Movie 9, the same at any party size), what a Milestone is, finishing a Story Arc.*
 
 **Ask the Oracle**
 *Purpose: The three steps (name next Milestone → do the obvious / Story Spark / Ask the Dice).*
@@ -509,16 +509,16 @@
 - ✅ Narrate the Change (Ch. 7)
 - ✅ Challenges — full loop (Ch. 5 brief, Ch. 8 full)
 - ✅ Aid Your Ally (Ch. 7; used most often inside a Challenge, cross-ref Ch. 8)
-- ✅ Fleeing a Challenge / Quit the Story Arc (Ch. 5 brief, Ch. 8 + Ch. 10 full)
+- ✅ Falling back from a Challenge / Quit the Story Arc (Ch. 5 brief, Ch. 8 + Ch. 10 full)
 - ✅ Pay the Price — table (Ch. 4 brief, Ch. 9 full)
-- ✅ Recovery — Mend + Downtime, rolled, SF-C (Ch. 5 brief, Ch. 9 full)
+- ✅ Recovery — Mend (rolled) + the free Recovery Scene + Downtime (Ch. 5 brief, Ch. 9 full)
 - ✅ Out of Action (Ch. 9)
 - ✅ Broken Assets — durable-teeth layer; break on Out of Action, restored by Downtime (Ch. 9; cross-ref Ch. 7, Ch. 13, hero sheet)
 - ✅ Finishing a Story Arc prompts Downtime (Ch. 9) / Multiple Story Arcs (Ch. 10)
 - ✅ Story Arcs & Story Arc Track (Ch. 3 brief, Ch. 10 full)
 - ✅ Start a Story Arc — opening roll, generative Frame move (Ch. 10; Part One skips it)
-- ✅ Antagonist Track — CORE, flee-triggered (Ch. 3 brief, Ch. 10 full)
-- ✅ The Surge (Ch. 10)
+- ✅ Antagonist Track — CORE, the Devil's Bargain spine (Ch. 3 brief, Ch. 10 full)
+- ✅ Attacks & the three triggers (Ch. 10)
 - ✅ Worldbuilding — 10 questions (Ch. 1 brief, Ch. 14 full)
 - ✅ Ask the Oracle / Story Spark / Ask the Dice (Ch. 5 brief, Ch. 11 full)
 - ✅ Guided Play (Ch. 12)
