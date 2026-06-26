@@ -49,11 +49,11 @@ stats (objective, +1); 3 specific Assets (argued, +1); both → +2, one → +1, 
   an Asset). Numerically minor under free recovery, but it's what makes OoA matter to the antagonist.
 
 **3. Track sizes & narration (tick decoupled from beat).** The *tick* (frequent, bursty) is decoupled
-from the *narrated antagonist beat* (paced): narrate the antagonist only on the **odd "Attack" boxes**; even
-boxes are silent pressure. The track must be **odd** so the top box is itself an Attack (the antagonist's
-winning blow *is* their final attack).
+from the *narrated antagonist beat* (paced): narrate the antagonist only on the **odd "Closing In" boxes**; even
+boxes are silent pressure. The track must be **odd** so the top box is itself a Closing In beat (the antagonist's
+winning blow *is* the antagonist closing in for the last time).
 
-| Size | Milestones | Antagonist Track | Attacks (narrated beats) |
+| Size | Milestones | Antagonist Track | Closing In (narrated beats) |
 |---|---|---|---|
 | **Episode** | 3 | **5 boxes** | 1 · 3 · 5 → box 5 = antagonist win |
 | **Movie** | 6 | **9 boxes** | 1 · 3 · 5 · 7 · 9 → box 9 = antagonist win |
@@ -311,7 +311,7 @@ all-Easy *floor*; expected play sits at the §0b numbers above.
 | Out of Action | Readiness = **0** (recoverable; not death); **advances the Antagonist Track +1** + breaks an Asset (loss vector) *(§0)* |
 | Challenge length — Easy / Medium / Hard / Very Hard | **2 / 3 / 4 / 5 boxes — fixed, party-independent ("Option B")** *(Very Hard = climaxes only; §0)* |
 | Story Arc Track length — Episode / Movie | **3 / 6** Milestones *(§0; Season/Series are prose collections, no box machinery)* |
-| Antagonist Track length — Episode / Movie | **5 / 9** boxes — same at any party size; odd boxes are narrated Attacks; last box = antagonist wins *(§0)* |
+| Antagonist Track length — Episode / Movie | **5 / 9** boxes — same at any party size; odd boxes are narrated Closing In beats; last box = antagonist wins *(§0)* |
 
 > 🔁 **SUPERSEDED by §0 (2026-06-13).** The four-type / equal-length-Antagonist-Track structure
 > below is replaced by the spine model (Episode 3/2, Movie 6/3; Season/Series are prose

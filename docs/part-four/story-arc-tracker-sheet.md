@@ -1,6 +1,6 @@
 ## Story Arc Tracker Sheet
 
-One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Track** with its **Antagonist Track** (the antagonist's odd boxes are Attacks; the last box is their victory), room to name your **antagonist**, and numbered lines to jot each **Milestone**.
+One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Track** with its **Antagonist Track** (the antagonist's odd boxes are Closing In beats; the last box is their victory), room to name your **antagonist**, and numbered lines to jot each **Milestone**.
 
 > **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus are hidden automatically, so you'll get just the sheet.
 
@@ -83,7 +83,7 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
   <p class="af-hint">B-plots / character arcs running beside this Story Arc &mdash; they have their own progress but <em>no</em> antagonist track. (Chain Stories like this one into a Season or Series &mdash; see Ch.10.)</p>
 
   <h3>The Tracks</h3>
-  <p class="af-hint">Heroes win by filling the Story Arc Track (completing the last Milestone); they lose if the Antagonist Track fills first. The antagonist's <strong>odd boxes (&#9650;) are Attacks</strong> &mdash; stop and play out the bad guys gaining ground &mdash; and the <strong>last box is their victory</strong>.</p>
+  <p class="af-hint">Heroes win by filling the Story Arc Track (completing the last Milestone); they lose if the Antagonist Track fills first. The antagonist's <strong>odd boxes (&#9650;) are Closing In beats</strong> &mdash; stop and play out the bad guys gaining ground &mdash; and the <strong>last box is their victory</strong>.</p>
   <div class="af-trackgrid">
     <span class="af-rowlabel">Story Arc</span>
     <div class="af-row af-quest">
@@ -104,12 +104,12 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
       <span></span><span></span><span></span><span></span><span>&#8593;Ep</span><span></span><span></span><span></span><span>&#8593;Movie</span>
     </div>
   </div>
-  <p class="af-hint">Episode: 3 Story Arc / 5 Antagonist boxes (Attacks on 1&middot;3&middot;5; box&nbsp;5 = the antagonist's win). Movie: 6 Story Arc / 9 Antagonist (Attacks on 1&middot;3&middot;5&middot;7&middot;9; box&nbsp;9 = the win) &mdash; same at <b>any party size</b>. Cross out the boxes you don't use. An antagonist box fills three ways &mdash; and no other: a hero takes the <strong>Devil's Bargain</strong>, a <strong>Miss shows doubles</strong>, or a hero goes <strong>Out of Action</strong>.</p>
+  <p class="af-hint">Episode: 3 Story Arc / 5 Antagonist boxes (Closing In on 1&middot;3&middot;5; box&nbsp;5 = the antagonist's win). Movie: 6 Story Arc / 9 Antagonist (Closing In on 1&middot;3&middot;5&middot;7&middot;9; box&nbsp;9 = the win) &mdash; same at <b>any party size</b>. Cross out the boxes you don't use. An antagonist box fills three ways &mdash; and no other: a hero takes the <strong>Devil's Bargain</strong>, a <strong>Miss shows doubles</strong>, or a hero goes <strong>Out of Action</strong>.</p>
 
   <h3 class="af-break">The Antagonist</h3>
   <div class="af-line"><label>Who / what</label><span class="af-fill"></span></div>
   <div class="af-line"><label>What it wants</label><span class="af-fill"></span></div>
-  <p class="af-hint">Give it a face &mdash; even a force (a desert, a plague, a deadline) counts. When an Attack box (&#9650;) fills, play it out: the antagonist just hit a milestone of their own.</p>
+  <p class="af-hint">Give it a face &mdash; even a force (a desert, a plague, a deadline) counts. When a Closing In box (&#9650;) fills, play it out: the antagonist just hit a milestone of their own.</p>
 
   <h3>Milestones</h3>
   <p class="af-hint">A concrete, pointable step toward the Goal. Number them to match the Story Arc Track boxes above. (Episode uses 1&ndash;3; Movie 1&ndash;6.)</p>

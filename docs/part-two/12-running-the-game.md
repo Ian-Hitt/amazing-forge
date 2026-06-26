@@ -18,7 +18,7 @@ You have four real jobs at the table. None of them is "decide what happens."
 
 - **Frame the scenes.** Cut the movie. Open each scene in the middle of something interesting (*in media res*), describe what the heroes see, and ask **"What do you do?"** When a scene has given everything it's going to give, cut to the next one — don't let it idle.
 - **Voice the world.** You play everyone who isn't a hero: the nervous merchant, the circling dragon, the storm rolling in off the sea. (How to do that without stat blocks is in [Part C](#voicing-npcs).)
-- **Advance the pressure.** You hold the **Antagonist** (Chapter 10). When the antagonist's clock ticks — a hero takes a **Devil's Bargain,** a Miss comes up doubles, or a hero goes **Out of Action** — you're the one who plays the **Attack** and shows them how the world tightens.
+- **Advance the pressure.** You hold the **Antagonist** (Chapter 10). When the antagonist's clock ticks — a hero takes a **Devil's Bargain,** a Miss comes up doubles, or a hero goes **Out of Action** — you're the one who plays the antagonist **Closing In** and shows them how the world tightens.
 - **Ask great questions.** Your most powerful tool isn't an answer; it's a question thrown back to the table. More on that in [Part C](#asking-the-table-good-questions).
 
 What's missing from that list is the part new Guides expect to carry: the plot. You are not writing an adventure the heroes walk through. You're setting scenes in motion and finding out — alongside everyone else — how they go.
@@ -41,7 +41,7 @@ Your real job is to make Readiness feel **precious.** A number that drains predi
 
 - **Make every Price a scene, not a fee.** When a hero takes a Weak Hit or a Miss, **Pay the Price** (Chapter 9) is your moment to push the story, not just subtract a point. The floor doesn't crumble because a rule says "−2" — it crumbles because that's the most exciting thing that could happen right now, and *then* it costs Readiness.
 - **Let low Readiness be a cue, not a threat.** When the party's running thin, that's not your signal to pounce — it's the table's signal that it might be time to risk a **Mend** (Chapter 9), or to **fall back and regroup** (Chapter 8) — which is free and safe, so encourage it when they're battered. A good Guide reads that moment out loud: "You're both pretty battered — is this a fight you want to finish?" Low Readiness matters most because going **Out of Action** hands the antagonist a box nobody chose to give.
-- **Save the squeeze for moments that matter.** If you treat every roll as a chance to hurt someone, the hurt stops meaning anything. Spend your hardest complications on the beats that deserve weight — the climax of a Challenge, an antagonist **Attack,** the threshold of the antagonist's lair.
+- **Save the squeeze for moments that matter.** If you treat every roll as a chance to hurt someone, the hurt stops meaning anything. Spend your hardest complications on the beats that deserve weight — the climax of a Challenge, the antagonist **Closing In,** the threshold of the antagonist's lair.
 
 Pressure done right makes the heroes *feel* the danger without ever taking them off the board. That feeling — "we might not make it" — is the whole point.
 

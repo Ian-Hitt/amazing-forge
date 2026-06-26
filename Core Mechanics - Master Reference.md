@@ -14,8 +14,9 @@
 >   Antagonist Track advances **one box in exactly three ways:** a **Devil's Bargain** (on a Miss, a
 >   hero may refuse the Readiness loss *and* upgrade the Miss to a Strong Hit, for antagonist +1 — never
 >   on a knockout roll), a **Miss showing doubles** (antagonist +1; doubles now upgrade *only* a Hit), and
->   going **Out of Action** (antagonist +1 + an Asset breaks). The narrated antagonist beat is an **Attack**
+>   going **Out of Action** (antagonist +1 + an Asset breaks). The narrated antagonist beat is the antagonist **Closing In**
 >   on the track's **odd boxes;** the **last box = the antagonist wins.**
+> - **Term (2026-06-26): the odd-box beat is "Closing In"** (the antagonist *closes in*) — replacing the unintended label "Attack" (and "Surge" before it).
 > - **Track sizes (2026-06-25): Episode = 5 boxes, Movie = 9 boxes — the SAME at any party size**
 >   (the duo/two-player special case is GONE).
 > - **Challenge difficulty is fixed by difficulty, not party size (2026-06-25, "Option B"):**
@@ -87,14 +88,14 @@ the book. When reviewing a chapter, treat any deviation as an error to flag.
 | **Downtime** | The between-Story-Arcs rest: heals everyone to full and **restores any Broken Asset**. Free; the antagonist's clock resets. | long rest, Sojourn, victory bump |
 | **Out of Action** | State when Readiness hits 0. | dead, KO'd, defeated |
 | **Story / Story Arc** | One spine — a single central dramatic question — tracked with a **Story Arc Track** (progress) and an **Antagonist Track** (the antagonist's clock). Sized **Episode** or **Movie** (the only two with box machinery). | Quest, mission, adventure |
-| **Episode** | A complete short Story — **3 Milestones, 5-box Antagonist Track** (Attacks on 1·3·5) — told in ~one sitting. Same track size at any party count. | one-shot, session quest |
-| **Movie** | A complete feature Story — **6 Milestones, 9-box Antagonist Track** (Attacks on 1·3·5·7·9) — told over ~2–3 sessions. Same track size at any party count. | feature film |
+| **Episode** | A complete short Story — **3 Milestones, 5-box Antagonist Track** (Closing In on 1·3·5) — told in ~one sitting. Same track size at any party count. | one-shot, session quest |
+| **Movie** | A complete feature Story — **6 Milestones, 9-box Antagonist Track** (Closing In on 1·3·5·7·9) — told over ~2–3 sessions. Same track size at any party count. | feature film |
 | **Season** | A **collection** pattern (prose, no machinery): a run of Stories sharing a throughline. Not a box size. | arc (as the term), story arc |
 | **Series** | A **collection** pattern (prose): the whole game, a run of Seasons. Always a collection; no box size of its own. | campaign, saga |
 | **Story Arc Track** | A Story's progress track — one box per Milestone; filling it (completing the last Milestone) wins the Story. | Hero Track, Quest Track |
-| **Antagonist Track** | The losing side of the same Story: the antagonist's clock — **Episode 5 boxes / Movie 9 boxes** (same at any party size). Advances **one box** in exactly three ways: a **Devil's Bargain,** a **Miss showing doubles,** or a hero going **Out of Action.** Its **odd boxes are Attacks** (narrated antagonist beats); even boxes are silent pressure; the **last box loses the Story.** | enemy clock, doom track |
+| **Antagonist Track** | The losing side of the same Story: the antagonist's clock — **Episode 5 boxes / Movie 9 boxes** (same at any party size). Advances **one box** in exactly three ways: a **Devil's Bargain,** a **Miss showing doubles,** or a hero going **Out of Action.** Its **odd boxes are Closing In** (the narrated antagonist beat); even boxes are silent pressure; the **last box loses the Story.** | enemy clock, doom track |
 | **Devil's Bargain** | On a **Miss,** a hero *may* refuse the Readiness loss **and** upgrade the Miss to a **Strong Hit** — in exchange for advancing the Antagonist Track **one box.** Always optional; **never allowed on a roll that would knock the hero Out of Action.** The main engine of the antagonist's climb. | — |
-| **Attack** | The narrated antagonist beat played out when an **odd box** of the Antagonist Track fills (1·3·5, plus 7·9 on a Movie): cut away and show the bad guys gaining ground on-screen. Even boxes pass silently. The **last Attack box is the antagonist's victory.** | the Surge |
+| **Closing In** | The narrated antagonist beat played out when an **odd box** of the Antagonist Track fills (1·3·5, plus 7·9 on a Movie): cut away and show the antagonist closing in — gaining ground on-screen. Even boxes pass silently. The **last box is the antagonist's victory.** | the Surge, the Attack (both retired) |
 | **Thread (B-plot)** | A subplot/character arc riding alongside the spine: a light progress track, **no Antagonist Track / no lose-clock**; resolves into or beside the spine's climax. | side quest, B-arc |
 | **Fall back** | Retreating from a losing Challenge (losing its progress) to regroup — handled as a **Recovery Scene** (full heal, **free**, no antagonist advance). | Flee, retreat (as the mechanic) |
 | **Quit the Story Arc** | Giving up a Story entirely — the terminal fall back; the bad guys win. | forfeit, surrender |
@@ -588,14 +589,14 @@ with their own box machinery:
 
 | Size | Story Arc Track | Antagonist Track | Feels like |
 |---|---|---|---|
-| **Episode** | **3 Milestones** | **5 boxes** (Attacks on 1·3·5) | one TV episode, told in one sitting |
-| **Movie** | **6 Milestones** | **9 boxes** (Attacks on 1·3·5·7·9) | a feature film, over ~2–3 sessions |
+| **Episode** | **3 Milestones** | **5 boxes** (Closing In on 1·3·5) | one TV episode, told in one sitting |
+| **Movie** | **6 Milestones** | **9 boxes** (Closing In on 1·3·5·7·9) | a feature film, over ~2–3 sessions |
 
 The Story Arc Track box count is a default, not a lock — a meaty Episode can stretch a Milestone or
 two. The **Antagonist Track is the same size at any party count** (no duo/large-group special case):
 because Challenges are sized by difficulty alone (Section 7), total rolls per Story stay about the
 same whatever the table size, so the clock fills at about the same rate for everyone. Its **odd boxes
-are Attacks** (narrated antagonist beats); the **last box is the antagonist's victory.** Sized this way, the
+are Closing In** (the narrated antagonist beat); the **last box is the antagonist's victory.** Sized this way, the
 antagonist's clock tends to end up *near* full as the heroes reach their finale — the **photo-finish** —
 without anyone being railroaded there (below).
 
@@ -673,7 +674,7 @@ Milestone**. First games (Part One) skip the roll and simply open in media res (
 
 The Antagonist Track is **the losing side of the same Story** — not a separate arc, but this
 Story's other end. It is **Episode 5 boxes / Movie 9 boxes** (same at any party size). Its boxes fill
-as the antagonist gains ground during play; its **odd boxes are Attacks** (narrated antagonist beats),
+as the antagonist gains ground during play; its **odd boxes are Closing In** (the narrated antagonist beat),
 its even boxes are silent pressure, and its **last box is the antagonist's victory** — fill it before the
 heroes finish their Story Arc Track and the bad guys win. The Story is a race: complete your final
 Milestone with the antagonist **one step from winning** — the **photo-finish** — or fall before you reach it.
@@ -696,13 +697,13 @@ Milestone with the antagonist **one step from winning** — the **photo-finish**
 > never advances the antagonist. Validated in `Math & Simulation Reference.md` §0 (`sim_devils.py` /
 > `sim_devils2.py`): the photo-finish is the tuned deliverable; loss is a rare earned tail.
 
-- **The Attack (what an odd box means).** You narrate an antagonist beat only on the **odd "Attack"
+- **Closing In (what an odd box means).** You narrate an antagonist beat only on the **odd "Closing In"
   boxes** (1·3·5, plus 7·9 on a Movie); the even boxes are silent pressure (the music tightening, the
-  walls inching in — no scene needed). When an Attack box fills, **stop and play it out:** envision
+  walls inching in — no scene needed). When a Closing In box fills, **stop and play it out:** envision
   what the antagonist did off-screen, then **bring it on-screen as a complication** — a new obstacle, an
   escalation, an ally captured, the deadline jumps closer. The world visibly tightens. This keeps the
   antagonist's *story* beats paced even when boxes fill in a rush (two bargains in one fight just slide
-  the clock; you play the Attack when the next odd box lands).
+  the clock; you play the Closing In when the next odd box lands).
 - **The pressure is player-authored.** Most of the antagonist's climb comes from Devil's Bargains —
   choices the heroes make under fire. The clock is a mirror of how hard they've pushed their luck.
 - **It can't be gamed to zero.** Even a cautious party that never bargains still faces doubles-Misses
@@ -710,7 +711,7 @@ Milestone with the antagonist **one step from winning** — the **photo-finish**
   fiction allows; the small **Mend** also never advances the antagonist.)
 - **Characterize the antagonist.** The antagonist may be a person, a faction, or a **force** (a
   harsh desert, a plague, a deadline). Name what it *wants* and what "winning" looks like, so every
-  Attack is a concrete beat: the desert's clock fills → a sandstorm hits.
+  Closing In is a concrete beat: the desert's clock fills → a sandstorm hits.
 - **Losing before the climax (the loss vector).** A hero taken **Out of Action** advances the antagonist
   a box on the spot (Section 9) — and near the end of a Story Arc, that box can be the antagonist's last,
   losing the Story *before* the heroes complete their final Milestone. This is the real risk that keeps
@@ -1146,7 +1147,7 @@ Everyone is a player, sharing the directing duties equally.
 > size — with Season/Series as **prose collection patterns**); *"Antagonist Track flee-primary +
 > optional telling-failure tick"* **and** the interim *"advances only on a Recovery Scene, with a
 > reserved climax box"* (now advances via the **Devil's Bargain spine** — a Devil's Bargain, a Miss
-> showing doubles, or going Out of Action — with **odd-box Attacks** and **no reserved climax box;
+> showing doubles, or going Out of Action — with **odd-box Closing In** and **no reserved climax box;
 > recovery is free**); *"rolled SF-C recovery"* (now **two free moves**: a small risky **Mend** —
 > Strong +3 / Weak +2 / **Miss −1**, an any-scene tactical patch — plus the full-reset **Recovery
 > Scene**, neither of which advances the antagonist; Downtime is the between-Stories reset); and
@@ -1183,7 +1184,7 @@ Everyone is a player, sharing the directing duties equally.
 > to a Strong Hit, for antagonist +1 — optional, never on a knockout roll); a **Miss showing doubles**
 > (antagonist +1 — doubles now upgrade *only* a Hit; on a Miss they feed the antagonist instead of upgrading
 > Miss→Weak); and going **Out of Action** (antagonist +1 + an Asset breaks). A doubles-Miss that is *also*
-> bargained advances the antagonist two boxes (they stack). **(3) The narrated antagonist beat is an Attack**
+> bargained advances the antagonist two boxes (they stack). **(3) The narrated antagonist beat is the antagonist Closing In**
 > on the track's **odd boxes** (Episode 1·3·5; Movie 1·3·5·7·9); even boxes are silent pressure; the
 > **last box is the antagonist's victory.** **(4) Track sizes: Episode = 5 boxes, Movie = 9 boxes — the
 > SAME at any party size** (the duo/two-player special case is removed). **(5) Challenge difficulty is

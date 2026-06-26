@@ -18,7 +18,7 @@ A Story Arc has three parts:
 
 ```
 STORY ARC TRACK:    [ ]  [ ]  [ ]
-ANTAGONIST TRACK:   [▲] [ ] [▲] [ ] [▲]    ▲ = an antagonist Attack (narrated); last box = the antagonist wins  (an Episode)
+ANTAGONIST TRACK:   [▲] [ ] [▲] [ ] [▲]    ▲ = the antagonist Closing In (narrated); last box = the antagonist wins  (an Episode)
 ```
 
 You don't plan *how* each Milestone gets done — that's what play discovers. You only name the Goal, the Milestones, and the antagonist, draw the two rows, and start in the middle of the action.
@@ -29,14 +29,14 @@ A Story Arc comes in one of two sizes, and these are the only two with their own
 
 | Size | Story Arc Track | Antagonist Track | Feels like |
 |---|---|---|---|
-| **Episode** | **3 Milestones** | **5 boxes** (attacks on 1 · 3 · 5) | one TV episode, told in a single sitting |
-| **Movie** | **6 Milestones** | **9 boxes** (attacks on 1 · 3 · 5 · 7 · 9) | a feature film, told over ~2–3 sessions |
+| **Episode** | **3 Milestones** | **5 boxes** (Closing In on 1 · 3 · 5) | one TV episode, told in a single sitting |
+| **Movie** | **6 Milestones** | **9 boxes** (Closing In on 1 · 3 · 5 · 7 · 9) | a feature film, told over ~2–3 sessions |
 
 > **Antagonist sizes don't change with party count.** Five boxes for an Episode and nine for a Movie at *any* table size. Because Challenges are sized by difficulty alone (Chapter 8), the total rolls per Story stay about the same whether two heroes are rolling or six — so the clock fills at about the same rate for everyone. No special rules for big or small groups.
 
 Pick the size with one question: **a single sitting, or a feature?** An **Episode** is the short, complete story you finish tonight (your first games use only this). A **Movie** is the bigger self-contained story you tell start-to-finish over a couple of sessions — *the heroes are trapped on a space station spiraling into its sun, with until dawn to get everyone off alive.*
 
-The Story Arc Track is one box per Milestone. The **Antagonist Track is longer** and fills a box at a time as the antagonist gains ground (Part B). Its **odd boxes are the antagonist's Attacks** — the beats where you cut away and show the bad guys winning something off-screen — and its **last box is their victory.** Sized this way, the antagonist's clock tends to end up *near* full as the heroes reach their finale — the photo-finish a good climax wants — without the heroes ever being railroaded there.
+The Story Arc Track is one box per Milestone. The **Antagonist Track is longer** and fills a box at a time as the antagonist gains ground (Part B). Its **odd boxes are Closing In beats** — where the antagonist closes in: you cut away and show the bad guys winning something off-screen — and its **last box is their victory.** Sized this way, the antagonist's clock tends to end up *near* full as the heroes reach their finale — the photo-finish a good climax wants — without the heroes ever being railroaded there.
 
 ### Seasons and Series: Collections, Not Sizes
 
@@ -121,13 +121,13 @@ By now the Antagonist Track has usually climbed near its top, so the heroes are 
 
 Every Story Arc is a **race between two tracks.** The Story Arc Track is the heroes' progress; the **Antagonist Track** is the antagonist's progress toward *their* goal, running in parallel. It is **the losing side of the same Story Arc** — not a separate arc, but this Story Arc's other end — and a **core part of every Story Arc,** never optional.
 
-The antagonist fills it a box at a time as they gain ground during play. Its **odd boxes are Attacks** — you stop and show the antagonist winning something off-screen — and its **last box is their victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. The whole design points at one ending: the heroes reaching their finale with the antagonist's clock *near* full — the **photo-finish.** But nobody is steered there; where the antagonist ends up is the sum of the gambles the heroes took and the luck of the dice (below).
+The antagonist fills it a box at a time as they gain ground during play. Its **odd boxes are Closing In beats** — you stop and show the antagonist winning something off-screen — and its **last box is their victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. The whole design points at one ending: the heroes reaching their finale with the antagonist's clock *near* full — the **photo-finish.** But nobody is steered there; where the antagonist ends up is the sum of the gambles the heroes took and the luck of the dice (below).
 
 Each box is one of the antagonist's *own* milestones — the dragon spreading its fire, the rival crew closing on the same treasure, the storm marching toward the city.
 
 ### Drawing the Track
 
-Draw the Antagonist Track as a row beneath the Story Arc Track — **Episode: 5 boxes. Movie: 9 boxes** (the same at any party size). **Mark the odd boxes as Attacks** (a different color, a little ▲) so everyone can see which ticks you'll stop and play out. You don't spell out the antagonist's milestones in advance; you decide what each Attack *means* when it happens (see The Attack, below).
+Draw the Antagonist Track as a row beneath the Story Arc Track — **Episode: 5 boxes. Movie: 9 boxes** (the same at any party size). **Mark the odd boxes as Closing In** (a different color, a little ▲) so everyone can see which ticks you'll stop and play out. You don't spell out the antagonist's milestones in advance; you decide what each Closing In *means* when it happens (see Closing In, below).
 
 ### Characterize Your Antagonist
 
@@ -137,7 +137,7 @@ Before you can play "the bad guys gaining ground," you need to know **who the ba
 - Racing a sickness through the village? The **plague** is the antagonist; each box is another street it reaches.
 - Up against a scheming duke? Easy — *he's* the antagonist, and each box is a move in his plan.
 
-Naming this turns every Attack into a concrete story beat instead of an abstract counter. You're not "marking box three of five" — *the sandstorm hits.*
+Naming this turns each Closing In into a concrete story beat instead of an abstract counter. You're not "marking box three of five" — *the sandstorm hits.*
 
 > *To make a *person* antagonist into a memorable **character,** see [Chapter 16](../part-three/16-cool-characters.md), which builds antagonists from the same archetypes as heroes.*
 
@@ -154,16 +154,16 @@ A few things follow:
 - **The pressure is player-authored.** Most of the antagonist's climb comes from Devil's Bargains — choices the heroes make under fire. The clock is a mirror of how hard they've been pushing their luck.
 - **It can't be gamed to zero.** Even a cautious party that never bargains still faces doubles-Misses and the odd knockdown, so the antagonist always creeps. A party that bargains freely sees the clock race — which is exactly the tense story they're choosing to tell.
 
-### The Attack: Playing Out an Antagonist Beat
+### Closing In: Playing Out an Antagonist Beat
 
-You don't narrate an antagonist beat on *every* box — only on the **odd "Attack" boxes** (1, 3, 5, and on a Movie 7, 9). The even boxes are silent pressure: the music tightening, the walls inching in, no scene needed. This keeps the antagonist's *story* beats paced even when boxes fill in a rush — two bargains in one fight just slide the clock along, and you play the Attack when the next odd box lands.
+You don't narrate an antagonist beat on *every* box — only on the **odd "Closing In" boxes** (1, 3, 5, and on a Movie 7, 9). The even boxes are silent pressure: the music tightening, the walls inching in, no scene needed. This keeps the antagonist's *story* beats paced even when boxes fill in a rush — two bargains in one fight just slide the clock along, and you play the Closing In beat when the next odd box lands.
 
-When an **Attack box** fills, **stop and play it out:**
+When a **Closing In box** fills, **stop and play it out:**
 
 1. **Envision what the antagonist did off-screen.** The cult finished the first ritual; the warlord seized the bridge; the flood reached the lower town; the **sandstorm** rolled in and buried the trail.
 2. **Bring it on-screen as a complication.** A new obstacle, an escalated threat, an ally captured, the deadline jumped closer. The world visibly tightens.
 
-An Attack is an open invitation to bend the plot — the cost of all that pushing made flesh. (And because you **characterized your antagonist,** you always know whose face to put on it — even when the "antagonist" is a desert.) The **last Attack box is the antagonist's victory:** if it fills before the heroes finish, play it as the bad guys winning the whole Story (Part C).
+Each Closing In is an open invitation to bend the plot — the cost of all that pushing made flesh. (And because you **characterized your antagonist,** you always know whose face to put on it — even when the "antagonist" is a desert.) The **last box is the antagonist's victory:** if it fills before the heroes finish, play it as the bad guys winning the whole Story (Part C).
 
 ### Losing Before the Climax (Out of Action)
 

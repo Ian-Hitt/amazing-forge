@@ -263,16 +263,16 @@
 *Purpose: The Antagonist Track is the losing side of the same Story Arc — not a separate arc, its other end — running in parallel, a core part of every arc (not optional). The race between the two tracks. Why it's mandatory: it's the other half of the race — without it there's no clock to lose to.*
 
 **Drawing the Track**
-*Purpose: Episode 5 boxes / Movie 9 boxes — the same at any party size. Its odd boxes (1·3·5, plus 7·9 on a Movie) are Attacks — narrated antagonist beats; even boxes are silent pressure; the last box is the antagonist's victory.*
+*Purpose: Episode 5 boxes / Movie 9 boxes — the same at any party size. Its odd boxes (1·3·5, plus 7·9 on a Movie) are Closing In beats — narrated antagonist beats; even boxes are silent pressure; the last box is the antagonist's victory.*
 
 **Characterize Your Antagonist**
-*Purpose: The antagonist can be a person, faction, or a force (a desert, a plague, a deadline). Give it a face — name what it wants and what "winning" looks like — so every Attack is a concrete beat (the desert → a sandstorm).*
+*Purpose: The antagonist can be a person, faction, or a force (a desert, a plague, a deadline). Give it a face — name what it wants and what "winning" looks like — so every Closing In is a concrete beat (the desert → a sandstorm).*
 
 **How It Fills: The Three Triggers**
 *Purpose: The Antagonist Track advances one box in exactly three ways — a hero takes the **Devil's Bargain** (the main, player-authored engine: on a Miss, forgo the loss and upgrade to a Strong Hit in exchange for +1 antagonist), a **Miss comes up doubles** (the random pressure nobody controls), or a hero goes **Out of Action** (the catastrophe). Recovery is never a trigger. Cross-ref Ch7/Ch9.*
 
-**The Attack: Playing Out an Antagonist Beat**
-*Purpose: On the odd "Attack" boxes, stop and play it out — what did the antagonist accomplish off-screen, and how does it tighten things? Even boxes are silent pressure (no scene needed). A filled Attack box is an open invitation to bend the plot.*
+**Closing In: Playing Out an Antagonist Beat**
+*Purpose: On the odd "Closing In" boxes, stop and play it out — what did the antagonist accomplish off-screen, and how does it tighten things? Even boxes are silent pressure (no scene needed). A filled Closing In box is an open invitation to bend the plot.*
 
 **Losing Before the Climax (Out of Action)**
 *Purpose: A hero taken Out of Action advances the antagonist a box on the spot — and near the end that box can be the antagonist's last, the antagonist winning before the heroes finish. The real risk; why Readiness is ammunition against the clock, not a survival meter (heroes can't die).*
@@ -534,7 +534,7 @@
 - ✅ Story Arcs & Story Arc Track (Ch. 3 brief, Ch. 10 full)
 - ✅ Start a Story Arc — opening roll, generative Frame move (Ch. 10; Part One skips it)
 - ✅ Antagonist Track — CORE, the Devil's Bargain spine (Ch. 3 brief, Ch. 10 full)
-- ✅ Attacks & the three triggers (Ch. 10)
+- ✅ Closing In & the three triggers (Ch. 10)
 - ✅ Worldbuilding — 10 questions (Ch. 1 brief, Ch. 14 full)
 - ✅ Ask the Oracle / Story Spark / Ask the Dice (Ch. 5 brief, Ch. 11 full)
 - ✅ Guided Play (Ch. 12)

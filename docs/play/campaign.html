@@ -148,7 +148,7 @@
   .anta .box { border-color: #cf7a72; }
   .anta .box.fill { background: var(--bad); border-color: var(--bad); color: #fff; }
   .anta .box.climax { border-width: 2.5px; }
-  .anta .box.attack { border-width: 2px; color: var(--bad); }
+  .anta .box.closein { border-width: 2px; color: var(--bad); }
   .chal .box.fill { background: var(--orange); border-color: var(--orange); color: #fff; }
   .readout { font-weight: 800; font-size: .95rem; margin-left: .15rem; }
   .readout small { font-weight: 600; color: var(--muted); }
@@ -858,10 +858,10 @@
     r1.appendChild(trackRow(null, "arc", sz.ms, a.arc, function (n) { a.arc = n; persist(); render(); }, { labels: true }));
     tr.appendChild(r1);
     var r2 = el("div", "trackrow"); r2.appendChild(el("span", "tracklabel", "Antagonist"));
-    r2.appendChild(trackRow(null, "anta", sz.anta, a.anta, function (n) { a.anta = n; persist(); render(); }, { labels: true, attacks: true, climax: sz.anta }));
+    r2.appendChild(trackRow(null, "anta", sz.anta, a.anta, function (n) { a.anta = n; persist(); render(); }, { labels: true, closein: true, climax: sz.anta }));
     tr.appendChild(r2);
     box.appendChild(tr);
-    box.appendChild(el("p", "hint", "An antagonist box fills on a Devil's Bargain, a Miss showing doubles, or a hero going Out of Action — and no other way. Odd boxes are the antagonist's Attacks; the last box is their victory."));
+    box.appendChild(el("p", "hint", "An antagonist box fills on a Devil's Bargain, a Miss showing doubles, or a hero going Out of Action — and no other way. Odd boxes are where the antagonist Closes In; the last box is their victory."));
 
     var row = el("div", "row");
     row.appendChild(labeled("Antagonist — who / what", textField(a, "antaName", "The Shadow Baron")));
@@ -1069,7 +1069,7 @@
         if (filled) b.classList.add("fill");
         if (opts.start && n === opts.start) b.classList.add("start");
         if (opts.climax && n === opts.climax) { b.classList.add("climax"); b.textContent = "★"; }
-        else if (opts.attacks && n % 2 === 1) { b.classList.add("attack"); b.textContent = "▲"; }
+        else if (opts.closein && n % 2 === 1) { b.classList.add("closein"); b.textContent = "▲"; }
         else if (opts.labels) b.textContent = n;
         b.onclick = function () { onSet(value === n ? n - 1 : n); };
         t.appendChild(b);

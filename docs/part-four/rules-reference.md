@@ -42,14 +42,14 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 4. **List your Milestones** — the concrete, pointable steps to the Goal (you'll know each the moment it's done): **3** for an Episode, **6** for a Movie.
 5. **Draw the two tracks**, then make the opening roll (bottom of this section).
 
-**Story Arc Length** — the only two sizes with boxes. Both hold at **any party size** (no special rules for big or small groups):
+**Story Arc Length** — choose one when you build a Story Arc; it sets the size of both tracks:
 
-| Length | Milestones | Antagonist Track | Attacks (odd boxes) | Plays in |
+| Length | Milestones | Antagonist Track | Closing In (odd boxes) | Plays in |
 |---|---|---|---|---|
 | **Episode** | 3 | 5 boxes | 1 · 3 · 5 | one sitting |
 | **Movie** | 6 | 9 boxes | 1 · 3 · 5 · 7 · 9 | ~2-hour feature, 2–3 sessions |
 
-*An **Attack** is a beat you stop and play out when that box fills; the last box is always the antagonist's victory.* **Season** and **Series** are *collections* of Story Arcs, not lengths — run long by **chaining** Stories (plan the big arc up front, or let it emerge from play — either works).
+*A **Closing In** is a beat you stop and play out when that box fills; the last box is always the antagonist's victory.* **Season** and **Series** are *collections* of Story Arcs, not lengths — run long by **chaining** Stories (plan the big arc up front, or let it emerge from play — either works).
 
 - A **Milestone** ≈ 40 minutes of play (a few Scenes, 1–2 of them Challenges); mark a box on significant headway.
 - **Win** by completing the last Milestone — filling the Story Arc Track — then take **Downtime.** (The closing Milestone is usually a climactic **Hard** or **Very Hard** Challenge; finishing its track wins the Story.) **Lose** if the Antagonist Track fills, or if you **Quit the Story Arc** (give it up — no penalty; the loss seeds the next Story).
@@ -99,7 +99,7 @@ Readiness, how it comes back, and the antagonist's clock are one connected syste
 2. A **Miss comes up doubles** — doubles upgrade a *Hit*, but on a Miss they feed the antagonist instead.
 3. A hero goes **Out of Action.**
 
-Its **odd boxes are Attacks** (stop and play out the antagonist gaining ground), and its **last box is the antagonist's victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. Going Out of Action near the end can fill that last box and **lose the Story before you finish your final Milestone** — which is exactly why falling back to recover is the smart play when you're battered.
+Its **odd boxes are Closing In beats** (stop and play out the antagonist gaining ground), and its **last box is the antagonist's victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. Going Out of Action near the end can fill that last box and **lose the Story before you finish your final Milestone** — which is exactly why falling back to recover is the smart play when you're battered.
 
 ## Ask the Oracle
 

@@ -139,7 +139,7 @@ If a hero's Readiness hits **0**, they're **Out of Action** — too hurt, too ra
 
 Two things happen when a hero drops:
 
-- **The antagonist gains ground.** Going Out of Action **advances the Antagonist Track one box** (Chapter 10) — you fell, and the bad guys seized the moment. It's one of the three ways the antagonist's clock ticks, and the only one you can't choose. Near the end of a Story Arc, a knockdown can be the box that tips the antagonist into their final attack — *that's how going down can lose you the Story.*
+- **The antagonist gains ground.** Going Out of Action **advances the Antagonist Track one box** (Chapter 10) — you fell, and the bad guys seized the moment. It's one of the three ways the antagonist's clock ticks, and the only one you can't choose. Near the end of a Story Arc, a knockdown can be the box that tips the antagonist into closing in for the win — *that's how going down can lose you the Story.*
 - **An Asset breaks.** One of the hero's Assets breaks until Downtime — the next rule.
 
 **A downed hero is brought back by a Recovery Scene** (the team falls back to get them on their feet) **or by Downtime** — both free. A quick Mend can't do it; clawing someone off the floor takes a real regroup, not a battlefield patch. (That's also why you **can't take a Devil's Bargain on a knockout roll**, and why Mend can't revive — neither lets you dodge the cost of going down.)
