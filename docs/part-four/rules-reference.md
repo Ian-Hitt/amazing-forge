@@ -58,9 +58,7 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 
 ## Scenes, Challenges & the Roll
 
-Play happens in **Scenes.** Whenever a hero does something risky in one, you roll to find out what happens.
-
-**The Core Roll.** Roll **2d6** and add **+1** if the action calls for one of your Stats, **+1** if one of your Assets fits — so **+2** when both apply, **+0** when neither does (you can still try; you just roll the bare dice).
+Play happens in **Scenes**, and whenever a hero does something risky you roll to find out what happens. **The Core Roll:** roll **2d6** and add **+1** if the action calls for one of your Stats, **+1** if one of your Assets fits — so **+2** when both apply, **+0** when neither does (you can still try; you just roll the bare dice).
 
 | Roll (2d6) | Result | What it means |
 |---|---|---|
