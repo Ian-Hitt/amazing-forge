@@ -113,6 +113,10 @@
 **Finishing the Story Arc**
 *Purpose: Reach the climax (complete the last Story Arc box) → the Story is complete. Describe the victory. Finishing resets the party to full Readiness (Downtime). Celebrate, then decide what comes next.*
 
+---
+
+### Chapter 6 — When You're Stuck
+
 **When You Don't Know What Happens Next**
 *Purpose: Brief intro to Ask the Oracle. Do the obvious next thing, or roll the Story Spark (d6 table, reprinted here), or use Ask the Dice (1d6 yes/no). Enough to keep the first session moving.*
 
@@ -120,7 +124,7 @@
 
 ---
 
-### Chapter 6 — Your First Session in Play
+### Your First Session in Play *(unnumbered — a worked-example interlude; numbering resumes at Ch.7 in Part Two)*
 
 **A Worked Example**
 *Purpose: A short, annotated play transcript — one complete mini-session. Shows: Worldbuilding in action (abbreviated), hero creation, a Challenge played out with real dice results, a Pay the Price moment, a recovery beat (Mend), and completing a Milestone. Proves the rules work by showing them working.*
@@ -387,7 +391,7 @@
 
 ## PART THREE: BUILDING YOUR WORLD
 
-*Building a world is its own kind of fun — a separate experience from playing the game — so it gets its own self-contained Part. Everything about making a setting lives here, in one place: the ten Worldbuilding questions in depth, ready-made Starter Backdrops, how to run it collaboratively or from a Guide's prep, and the idea tables to roll on when you're stuck.*
+*Building a world is its own kind of fun — a separate experience from playing the game — so it gets its own self-contained Part. Everything about making a setting lives here, in one place: the ten Worldbuilding questions in depth, the seven Genre Kits, how to build a cool hero (and antagonist), quick generators for locations and NPCs, and the idea tables to roll on when you're stuck.*
 
 ---
 
@@ -401,7 +405,7 @@
 **Starter Backdrops** — ⚠️ SUPERSEDED (2026-06-09)
 *The "pre-answered Worldbuilding" backdrop concept was reworked. A baked setting (a) drifts into prescribing a Story Arc rather than offering a setting, and (b) is boring as just-the-10-answers-filled-in. Replaced by the **Genre Kits** in the new **Chapter 15 — Genres** (genre-first, reusable). The one written sample ("The Sinking Sky-City") remains in Ch.14 Part B as a single illustrative example of a fully-built world; the planned catalog of baked settings is dropped.*
 
-**Genre note:** Genre (Worldbuilding Q1) is now an officially-listed set of **six** — **Adventure, Mystery, Horror, Sci-Fi, Caper, Drama** — plus a **playful↔serious tonal dial**. Q1 in this chapter lists them, has the table pick one (blend/invent still allowed), and points to Ch.15. (No cozy drama — Drama is the *juicy* kind. "Caper" = the heist *tone*.)
+**Genre note:** Genre (Worldbuilding Q1) is now an officially-listed set of **seven** — **Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, Post-Apocalypse** — plus a **playful↔serious tonal dial**. Q1 in this chapter lists them, has the table pick one (blend/invent still allowed), and points to Ch.15. (No cozy drama — Drama is the *juicy* kind. "Caper" = the heist *tone*.)
 
 **Collaborative vs. Guide-Prepped Worldbuilding**
 *Purpose: The default is collaborative (everyone answers together). A Guide who wants to prep a world can answer the questions solo beforehand — but the table should still ratify them. How to handle conflicts between prep and player expectations.*
@@ -415,7 +419,7 @@
 
 ### Chapter 15 — Genres (Complete) ✅ (2026-06-09)
 
-*Written (`docs/part-three/15-genres.md`). This chapter **fulfils and merges** two former items: the old "Running Different Genres" task AND the "Starter Backdrops" idea. The realization (2026-06-09): they were the same feature — genre-first guidance — and a genre kit is far more reusable than a baked setting. The six official genres + the playful↔serious tonal dial + blending guidance, then a **Genre Kit** per genre. Each kit (expanded 2026-06-09): **the feel · Pay the Price here · Telling [genre] stories** (table-side running tips — this absorbed the old Running Different Genres guidance) **· Shaping your world** (genre-pointed prompts for the 10 questions — renamed from "Forge it," which punned on the codename) **· Story seeds & standing tensions** (conditions, never a prescribed Story Arc) **· Archetypes** (≈7 per genre, each with 4 suggested starting Assets) **· a d100 Asset table** (100 genre-fitting Assets, rollable or pick-from). Key principle Ian set: a kit describes a SETTING (standing conditions), never a QUEST (a goal already in motion).*
+*Written (`docs/part-three/15-genres.md`). This chapter **fulfils and merges** two former items: the old "Running Different Genres" task AND the "Starter Backdrops" idea. The realization (2026-06-09): they were the same feature — genre-first guidance — and a genre kit is far more reusable than a baked setting. The seven official genres + the playful↔serious tonal dial + blending guidance, then a **Genre Kit** per genre. Each kit (expanded 2026-06-09): **the feel · Pay the Price here · Telling [genre] stories** (table-side running tips — this absorbed the old Running Different Genres guidance) **· Shaping your world** (genre-pointed prompts for the 10 questions — renamed from "Forge it," which punned on the codename) **· Story seeds & standing tensions** (conditions, never a prescribed Story Arc) **· Archetypes** (≈7 per genre, each with 4 suggested starting Assets) **· a d100 Asset table** (100 genre-fitting Assets, rollable or pick-from). Key principle Ian set: a kit describes a SETTING (standing conditions), never a QUEST (a goal already in motion).*
 
 ---
 
@@ -424,6 +428,18 @@
 *Written (`docs/part-three/16-cool-characters.md`). The creative/protagonist side of character-making, companion to the Worldbuilding — fulfils the protagonist half of TODO #7. Spine: pick a **classic story archetype** to know *how to roleplay* and to spread distinct personalities across the table. Adds **zero mechanics** (no bonus, no number) — a pure roleplay lens, consistent with horizontal growth. Reconciles with Ch.15: genre-kit archetypes are "costumes" (flavored Concept ideas); these are "engines" (personality) you lay over any costume. Also folds in TODO #7's "movie-protagonist structure" lightly: an optional **Bond** + **Want vs. Need** beat, and the **flaw-as-story-engine** framing. Ends with a full worked recipe (archetype → Concept → Assets → Bond → play the flaw). **Antagonists handled here too (2026-06-09):** a lean closing section — *no second toolkit*; an antagonist is one of the same seven archetypes "whose flaw won" (want/fear unchanged, brakes off), best built as a **dark mirror** of a party hero; force antagonists need only a *want*. Ch.10's "Characterize Your Antagonist" gets a one-line pointer here. (Decided with Ian: same personality tool for heroes and antagonists, not a parallel system.)*
 
 **Archetype set — DECIDED (2026-06-09):** the **seven classic story archetypes** (Rebel, Caregiver, Everyman, Scholar, Ruler, Innocent, Maverick), each with Vibe / Core Motivation / Flaw — *plus a one-line "What they fear" beat per archetype.* Ian considered the **Enneagram's nine types**; rejected because the game's north star is Fate-like (simple, genre-agnostic, fiction-first), and story archetypes are story-native handles a reader pictures instantly, where the Enneagram imports a real-world *personality typology* (abstract labels, pulls toward self-diagnosis, extra system to teach). We **borrowed the Enneagram's one real strength** — pairing motivation with a *basic fear* — as the "What they fear" line, without adopting the system.
+
+---
+
+### Chapter 17 — Making Locations (Complete) ✅
+
+*Written (`docs/part-three/17-making-locations.md`). A quick play-side generator for the places the Guide didn't plan. Core idea: a location has a **function** the same way an NPC has a **role** — you build a place by asking "why does the story come *here* — what do the heroes get?" **Build it in three draws:** (1) what the place is and its function (d20 — the Seedy Quarter, the Seat of Power, the Refuge, the Ruin…), then two more draws to make it vivid and turn it into a scene. Every place type is portable (interpret it for your world); lean on **Ask the Oracle** (Ch.11) for follow-ups and the **Genre Kit** (Ch.15) for dressing. Works for prep, too. Companion to Ch.18 — a function for places, a role for people.*
+
+---
+
+### Chapter 18 — Making NPCs (Complete) ✅
+
+*Written (`docs/part-three/18-making-npcs.md`). A quick play-side generator for the people the heroes meet. You need two things fast: **why they're in the story** (their role — a d10, decided first; everything hangs off it) and **one vivid detail** nobody forgets — a playable NPC in about five seconds. **Build one in two draws** (role + detail). Lean on **Ask the Oracle** (Ch.11) for anything undecided (*are they lying? will they help?*) and the **Genre Kit** (Ch.15) to flavor them. Companion to Ch.17 — a role for people, a function for places.*
 
 ---
 
