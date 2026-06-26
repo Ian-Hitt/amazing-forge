@@ -104,7 +104,7 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
       <span></span><span></span><span></span><span></span><span>&#8593;Ep</span><span></span><span></span><span></span><span>&#8593;Movie</span>
     </div>
   </div>
-  <p class="af-hint">Episode: 3 Story Arc / 5 Antagonist boxes (Closing In on 1&middot;3&middot;5; box&nbsp;5 = the antagonist's win). Movie: 6 Story Arc / 9 Antagonist (Closing In on 1&middot;3&middot;5&middot;7&middot;9; box&nbsp;9 = the win) &mdash; same at <b>any party size</b>. Cross out the boxes you don't use. An antagonist box fills three ways &mdash; and no other: a hero takes the <strong>Devil's Bargain</strong>, a <strong>Miss shows doubles</strong>, or a hero goes <strong>Out of Action</strong>.</p>
+  <p class="af-hint">Episode: 3 Story Arc / 5 Antagonist boxes (Closing In on 1&middot;3&middot;5; box&nbsp;5 = the antagonist's win). Movie: 6 Story Arc / 9 Antagonist (Closing In on 1&middot;3&middot;5&middot;7&middot;9; box&nbsp;9 = the win). Cross out the boxes you don't use. An antagonist box fills three ways &mdash; and no other: a hero takes the <strong>Devil's Bargain</strong>, a <strong>Miss shows doubles</strong>, or a hero goes <strong>Out of Action</strong>.</p>
 
   <h3 class="af-break">The Antagonist</h3>
   <div class="af-line"><label>Who / what</label><span class="af-fill"></span></div>

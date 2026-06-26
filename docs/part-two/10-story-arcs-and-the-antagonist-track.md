@@ -32,8 +32,6 @@ A Story Arc comes in one of two sizes, and these are the only two with their own
 | **Episode** | **3 Milestones** | **5 boxes** (Closing In on 1 · 3 · 5) | one TV episode, told in a single sitting |
 | **Movie** | **6 Milestones** | **9 boxes** (Closing In on 1 · 3 · 5 · 7 · 9) | a feature film, told over ~2–3 sessions |
 
-> **Antagonist sizes don't change with party count.** Five boxes for an Episode and nine for a Movie at *any* table size. Because Challenges are sized by difficulty alone (Chapter 8), the total rolls per Story stay about the same whether two heroes are rolling or six — so the clock fills at about the same rate for everyone. No special rules for big or small groups.
-
 Pick the size with one question: **a single sitting, or a feature?** An **Episode** is the short, complete story you finish tonight (your first games use only this). A **Movie** is the bigger self-contained story you tell start-to-finish over a couple of sessions — *the heroes are trapped on a space station spiraling into its sun, with until dawn to get everyone off alive.*
 
 The Story Arc Track is one box per Milestone. The **Antagonist Track is longer** and fills a box at a time as the antagonist gains ground (Part B). Its **odd boxes are Closing In beats** — where the antagonist closes in: you cut away and show the bad guys winning something off-screen — and its **last box is their victory.** Sized this way, the antagonist's clock tends to end up *near* full as the heroes reach their finale — the photo-finish a good climax wants — without the heroes ever being railroaded there.
@@ -127,7 +125,7 @@ Each box is one of the antagonist's *own* milestones — the dragon spreading it
 
 ### Drawing the Track
 
-Draw the Antagonist Track as a row beneath the Story Arc Track — **Episode: 5 boxes. Movie: 9 boxes** (the same at any party size). **Mark the odd boxes as Closing In** (a different color, a little ▲) so everyone can see which ticks you'll stop and play out. You don't spell out the antagonist's milestones in advance; you decide what each Closing In *means* when it happens (see Closing In, below).
+Draw the Antagonist Track as a row beneath the Story Arc Track — **Episode: 5 boxes. Movie: 9 boxes.** **Mark the odd boxes as Closing In** (a different color, a little ▲) so everyone can see which ticks you'll stop and play out. You don't spell out the antagonist's milestones in advance; you decide what each Closing In *means* when it happens (see Closing In, below).
 
 ### Characterize Your Antagonist
 
