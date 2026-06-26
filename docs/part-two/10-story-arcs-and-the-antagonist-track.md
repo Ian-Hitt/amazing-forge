@@ -151,7 +151,6 @@ The Antagonist Track advances **one box** in exactly three ways — and *not* wh
 
 A few things follow:
 
-- **Recovery isn't on the list.** Healing up is always available — fall back for a Recovery Scene as often as the fiction allows.
 - **The pressure is player-authored.** Most of the antagonist's climb comes from Devil's Bargains — choices the heroes make under fire. The clock is a mirror of how hard they've been pushing their luck.
 - **It can't be gamed to zero.** Even a cautious party that never bargains still faces doubles-Misses and the odd knockdown, so the antagonist always creeps. A party that bargains freely sees the clock race — which is exactly the tense story they're choosing to tell.
 

@@ -37,7 +37,7 @@ A **Boon** is the everyday reward — cheap enough to pick up a couple of times 
 
 ### New Assets and the ceiling of six
 
-A hero starts with **three Assets** (Chapter 2) and can grow to **six**. The fourth, fifth, and sixth are bought the same way — 5 Growth each — and follow all the normal rules for what makes a good Asset (broad enough to come up, specific enough that it clearly doesn't cover everything). One thing you **can't** buy with Growth is a **Stat** — you pick your two Stats once, at creation (Chapter 2), and that broad "Strong / Quick / Clever / Sneaky / Charming" layer never changes. Growth only ever adds *Assets* and the *Boons* attached to them — never a bigger number on the roll. That's what keeps the wide **+0 floor** open, where the danger lives.
+A hero starts with **three Assets** (Chapter 2) and can grow to **six**. The fourth, fifth, and sixth are bought the same way — 5 Growth each — and follow all the normal rules for what makes a good Asset (broad enough to come up, specific enough that it clearly doesn't cover everything). One thing you **can't** buy with Growth is a **Stat** — you pick your two Stats once, at creation (Chapter 2), and that broad "Strong / Quick / Clever / Sneaky / Charming" layer stays put. Growth adds **Assets** and the **Boons** attached to them: new tools, new tricks, new things your hero can *do*.
 
 Six is the hard ceiling. There's a reason: your Assets are your competence, and if a hero had an Asset for *everything*, one would fit every roll — a guaranteed **+1** on top of whatever your Stats give, which is exactly the "Lucky / Good at everything" trap the Asset rules warn against. Six keeps a hero clearly capable without erasing the rolls where no Asset fits.
 
@@ -49,7 +49,7 @@ So once a hero has six Assets, they can't simply add a seventh. Instead they **T
 
 ## Building a Boon
 
-A **Boon** is a signature move attached to one of your Assets. The key thing about a Boon: **it never raises your everyday roll.** Your baseline is always 2d6 + 0 to +2, from your first session to your last — a Boon doesn't nudge that number up. What it gives you is a *thing you can do* in the moments your Asset applies.
+A **Boon** is a signature move attached to one of your Assets. The key thing about a Boon: it gives you a *thing you can do* in the moments your Asset applies — a move you reach for, not a number. Your baseline roll stays 2d6 + 0 to +2 from your first session to your last; what grows is what you can pull off with it.
 
 Rather than pick from a fixed list, you **build** a Boon from two pieces:
 

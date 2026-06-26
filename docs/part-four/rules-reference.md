@@ -99,7 +99,7 @@ Readiness, how it comes back, and the antagonist's clock are one connected syste
 2. A **Miss comes up doubles** — doubles upgrade a *Hit*, but on a Miss they feed the antagonist instead.
 3. A hero goes **Out of Action.**
 
-Nothing else moves it — not paying a price, not recovering. Its **odd boxes are Attacks** (stop and play out the antagonist gaining ground), and its **last box is the antagonist's victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. Going Out of Action near the end can fill that last box and **lose the Story before you finish your final Milestone** — which is exactly why falling back to recover is the smart play when you're battered.
+Its **odd boxes are Attacks** (stop and play out the antagonist gaining ground), and its **last box is the antagonist's victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. Going Out of Action near the end can fill that last box and **lose the Story before you finish your final Milestone** — which is exactly why falling back to recover is the smart play when you're battered.
 
 ## Ask the Oracle
 

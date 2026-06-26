@@ -8,7 +8,7 @@ A quick orientation before the details:
 - It comes back through **three** moves: a quick, risky **Mend** *during* a Challenge; a **Recovery Scene** when the heroes fall back to regroup; and **Downtime** between Stories.
 - **Mend** is the gamble — a little healing now (Strong +3 / Weak +2), but a **Miss costs you 1 Readiness.** A tactical choice on your turn.
 - The **Recovery Scene** is the reliable one — the whole party back up to a full **9**, no roll and **no cost.** Falling back to regroup is always safe; it's the quiet beat between dangers, not a resource you ration.
-- **Readiness doesn't decide whether you lose** — the **Antagonist Track** does (Chapter 10), and that clock is driven by the **Devil's Bargain,** doubles on a Miss, and going **Out of Action** — *not* by resting. Readiness is your pacing signal — *when am I battered enough to fall back?* — and a resource you weigh against the bargain, never a survival meter. Heroes can't die.
+- **Readiness doesn't decide whether you lose** — the **Antagonist Track** does (Chapter 10), and that clock is driven by the **Devil's Bargain,** doubles on a Miss, and going **Out of Action.** Readiness is your pacing signal — *when am I battered enough to fall back?* — and a resource you weigh against the bargain, never a survival meter. Heroes can't die.
 
 ---
 

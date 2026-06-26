@@ -64,7 +64,7 @@ A Mend is a gamble — it can backfire, and it costs you your turn (you didn't f
 - **The party recovers fully** — patch up, regroup, breathe. Everyone goes back up to **9 Readiness.**
 - **It's automatic.** No roll, no cost — falling back to catch your breath is always safe.
 
-So a Recovery Scene always works and heals you all the way, with nothing owed for it — it's just the quiet, character beat between dangers. The only thing it costs is the camera: you step out of the action to regroup, so tables won't stop the movie to rest after every scratch, but it's always there when you're battered.
+A Recovery Scene is the movie slowing down between the action — the campfire, the regroup, the quiet talk that sets up the next storm. It's where the slower character beats live, and it brings everyone all the way back to **9**. Reach for one whenever you're battered: the story gets a breather and the heroes come back ready.
 
 You can also take a Recovery Scene to **bail out of a Challenge** that's grinding you down — pull back instead of finishing it. Same full heal, and you simply **give up that Challenge's progress** — wipe its track. That's your escape hatch when a fight isn't worth the cost.
 
