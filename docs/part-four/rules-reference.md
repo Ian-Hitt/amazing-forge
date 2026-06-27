@@ -30,33 +30,7 @@ Your three **Assets** are the specific tools, training, and ties that flesh out 
 
 **Readiness** starts at **9** — a single track covering body, mind, and supplies, and your hero's only resource. How it rises and falls is its own system, below.
 
-## Story Arcs & Milestones
-
-A Story Arc is the shape of a whole adventure: a race between the heroes' progress and the antagonist's, toward a climax. You track that race on **two clocks** drawn side by side — a **Story Arc Track** (your progress, one box per Milestone) above, and a longer **Antagonist Track** below, whose **last box is the antagonist's victory.** Fill yours first to reach the climax and win; if theirs fills first, you lose. *(How the Antagonist Track advances is its own system — see below.)*
-
-**To set one up, in order:**
-
-1. **Name the Goal** — a one-sentence victory condition.
-2. **Name the antagonist** — a person, faction, or *force* (a desert, a plague, a deadline). Give it a face and a goal of its own.
-3. **Pick a length** — Episode or Movie (table below). This fixes the size of both tracks.
-4. **List your Milestones** — the concrete, pointable steps to the Goal (you'll know each the moment it's done): **3** for an Episode, **6** for a Movie.
-5. **Draw the two tracks**, then make the opening roll (bottom of this section).
-
-**Story Arc Length** — choose one when you build a Story Arc; it sets the size of both tracks:
-
-| Length | Milestones | Antagonist Track | Closing In (odd boxes) | Plays in |
-|---|---|---|---|---|
-| **Episode** | 3 | 5 boxes | 1 · 3 · 5 | one sitting |
-| **Movie** | 6 | 9 boxes | 1 · 3 · 5 · 7 · 9 | ~2-hour feature, 2–3 sessions |
-
-*A **Closing In** is a beat you stop and play out when that box fills; the last box is always the antagonist's victory.* **Season** and **Series** are *collections* of Story Arcs, not lengths — run long by **chaining** Stories (plan the big arc up front, or let it emerge from play — either works).
-
-- A **Milestone** ≈ 40 minutes of play (a few Scenes, 1–2 of them Challenges); mark a box on significant headway.
-- **Win** by completing the last Milestone — filling the Story Arc Track — then take **Downtime.** (The closing Milestone is usually a climactic **Hard** or **Epic** Challenge; finishing its track wins the Story.) **Lose** if the Antagonist Track fills, or if you **Quit the Story Arc** (give it up — no penalty; the loss seeds the next Story).
-- **B-plots & character arcs are threads:** a light progress track with **no Antagonist Track / no lose-clock**; they resolve into the Story Arc's climax.
-- **Start a Story Arc** *(the opening roll):* when one begins, roll **2d6 + 1** (generative — you can't fail it) to set the opening — **10+** clear purpose · **7–9** one complication already in play · **6−** trouble finds you first.
-
-## Scenes, Challenges & the Roll
+## The Roll
 
 Play happens in **Scenes**, and whenever a hero does something risky you roll to find out what happens. **The Core Roll:** roll **2d6** and add **+1** if the action calls for one of your Stats, **+1** if one of your Assets fits — so **+2** when both apply, **+0** when neither does (you can still try; you just roll the bare dice).
 
@@ -66,40 +40,144 @@ Play happens in **Scenes**, and whenever a hero does something risky you roll to
 | **7–9** | **Weak Hit** | Success, but **Pay the Price.** |
 | **6−** | **Miss** | It fails, and **Pay the Price.** |
 
-**Doubles = Oracle's Blessing:** on a Hit, bump your result up one tier; on a **Miss**, doubles instead advance the Antagonist Track (below).
+On a **Strong or Weak Hit you narrate the change** — what you pull off, find, or shift. That narrated change *is* the progress.
 
-**Regular Roll vs. Challenge.** A small, one-off risk is a single **Regular Roll** — read the result and move on. A big set-piece — a fight, a chase, an escape — is a **Challenge**, played out over a row of boxes you fill to win. Difficulty sets the length, the same at any number of heroes: **Normal = 3 · Hard = 6 · Epic = 9** *(reach for it only at a peak)* boxes. Anything shorter — a moment that's just a roll or two — needs no track; play it out. Take turns (everyone acts before anyone repeats), and on each roll **Strong** fills a box, **Weak** fills a box and Pay the Price, **Miss** fills nothing and Pay the Price *(or take the Devil's Bargain)*. Fill the last box and the obstacle is beaten — enemies have *no stats*, the track *is* the enemy.
+**Doubles.** When the two dice come up matching, the moment swings hard — your critical hit and critical miss in one rule:
 
-Three named moves bracket the action:
+- On a **Hit,** bump your result up one tier (Weak → Strong; a Strong stays Strong with an extra flourish). A lucky break.
+- On a **Miss,** the dice turn against you: the Miss stands *and* the **Antagonist Track advances one box** (below). The bad guys seize the opening.
 
-- **Aid Your Ally** — spend your roll to help a teammate instead: **Strong** gives them +2 · **Weak** gives them +1 and you −1 · **Miss** gives nothing and you −2.
-- **Start a Challenge** *(when you choose to open one):* roll **2d6 + 1** for a one-time nudge to the first roll — **10+** +1 · **7–9** 0 · **6−** −1.
-- **Fall back** — bail out of a Challenge: lose its progress and take a **Recovery Scene** (the party heals up). Falling back is always safe.
+<div class="lca-move" markdown>
+<p class="lca-move-name">The Roll <span class="lca-when">— any risky action</span></p>
 
-The **climax** is just the final, often **Epic** Challenge — there's no special finishing move. Filling its last box (or the Story Arc Track's) wins the scene or the Story like any other.
+Roll **2d6**, **+1** for a fitting Stat, **+1** for a fitting Asset. Run it alone (a **Regular Roll**) or to mark a **Challenge** track.
+
+- **Strong Hit (10+):** clean success — you narrate it.
+- **Weak Hit (7–9):** success, but **Pay the Price.**
+- **Miss (6−):** it fails, and **Pay the Price** *(or take the Devil's Bargain).*
+</div>
+
+<div class="lca-move" markdown>
+<p class="lca-move-name">Aid Your Ally <span class="lca-when">— spend your roll to help a teammate</span></p>
+
+Same roll, aimed at someone else's action:
+
+- **Strong:** your ally gets **+2** on their roll.
+- **Weak:** your ally gets **+1**, and **you** Pay the Price (−1).
+- **Miss:** no bonus, and **you** Pay the Price (−2).
+</div>
+
+### Pay the Price
+
+A **Weak Hit or a Miss costs Readiness** — the complication that follows when a roll doesn't go cleanly. Narrate the most fitting setback first, then dock the Readiness. (Stuck for one? Roll a d10 for a prompt.)
+
+- **Weak Hit:** lose **1** Readiness.
+- **Miss:** lose **2** Readiness.
+
+**Larger groups feel each setback harder.** Those are the costs for **2–3 heroes;** at **4 or 5 heroes,** add 1 to each — a Weak costs **2**, a Miss costs **3.** (More heroes share the same fixed Challenge track, so a heavier price keeps the stakes real. The hero who rolled takes the loss.) That's the only thing that scales with table size.
+
+On a **Miss,** one extra option is on the table:
+
+<div class="lca-move" markdown>
+<p class="lca-move-name">Devil's Bargain <span class="lca-when">— on a Miss, optional</span></p>
+
+Refuse the Readiness loss **and** turn the Miss into a **Strong Hit** — in exchange for **advancing the Antagonist Track one box.** Buying a win now for a step toward defeat; it's the main thing that drives the antagonist's clock. **Not** allowed on a Miss whose price would knock you Out of Action — you can't buy your way out of going down.
+</div>
+
+## Challenges
+
+Most risky moments are **Regular Rolls** — one roll, read the result, move on. A **Challenge** is for a big set-piece that deserves more than a single roll: a monster fight, a desperate chase, a tense infiltration, a long trek. You draw a **row of boxes** and fill them roll by roll until the Scene is won — enemies have *no stats,* the **track itself is the obstacle.**
+
+> **When *not* to draw a track.** If a moment will settle in a roll or two, don't bother — just play it out as Regular Rolls. There's no reward for turning everything into a Challenge; the track is a tool for *savoring* a long Scene, not a tax on every fight. A quick scuffle with hallway goons is two rolls and done.
+
+When you do draw one, **difficulty sets the length, the same at any number of heroes:**
+
+| Difficulty | Boxes |
+|---|---|
+| **Normal** | **3** |
+| **Hard** | **6** |
+| **Epic** *(peak moments only)* | **9** |
+
+Take turns — **everyone acts once before anyone repeats.** On each Challenge Roll: **Strong** fills a box · **Weak** fills a box and you Pay the Price · **Miss** fills no box and you Pay the Price *(or take the Devil's Bargain).* Fill the last box and the obstacle is beaten.
+
+<div class="lca-moves cols-2" markdown>
+<div class="lca-move" markdown>
+<p class="lca-move-name">Start a Challenge <span class="lca-when">— when you choose to open one</span></p>
+
+Roll **2d6 + 1** for a one-time nudge to the **first roll** only: **10+** +1 · **7–9** 0 · **6−** −1. Skip it when trouble is thrust on you.
+</div>
+<div class="lca-move" markdown>
+<p class="lca-move-name">Fall back <span class="lca-when">— bail out of a Challenge</span></p>
+
+Lose the track's progress and take a **Recovery Scene** (the party heals fully). Always safe, always available — the stay-alive valve.
+</div>
+</div>
+
+The **climax** is just the final, often **Epic**, Challenge — there's no special finishing move. Filling its last box (or the Story Arc Track's) wins the scene or the Story like any other.
 
 ## Readiness, Recovery & the Antagonist Track
 
-Readiness, how it comes back, and the antagonist's clock are one connected system. Readiness isn't a survival meter — **heroes can't die** — it's the energy you spend pushing through trouble, and it refills whenever the action lets up. The antagonist's clock is the real threat; it advances only through the choices laid out below.
+Readiness isn't a survival meter — **heroes can't die** — it's the energy you spend pushing through trouble, and it refills whenever the action lets up. The antagonist's clock is the real threat.
 
-**Paying the Price.** On a Weak Hit you lose **1** Readiness, on a Miss you lose **2.** Narrate the most fitting complication, then dock the Readiness. (Stuck for one? Roll a d10 for a prompt.) **For larger groups (4 or 5 heroes), increase each loss by 1 — a Weak costs 2, a Miss costs 3** (more heroes share the same track, so each setback bites a little harder). Two things can happen around a Miss:
+**Out of Action** at **0 Readiness:** you can't act, and **one Asset breaks** (no +1 from it until it's restored). Always recoverable — heroes can't die. Going down also **advances the Antagonist Track one box.**
 
-- **Devil's Bargain** *(on a Miss, optional):* refuse the Readiness loss **and** turn the Miss into a **Strong Hit** — in exchange for **advancing the Antagonist Track one box.** Not allowed on a Miss whose price would knock you Out of Action; you can't buy your way out of going down.
-- **Out of Action** at 0 Readiness: you can't act, and **one Asset breaks** (no +1 from it until Downtime). Always recoverable — heroes can't die.
+Readiness comes back three ways:
 
-**Recovery — three ways Readiness comes back:**
+<div class="lca-moves" markdown>
+<div class="lca-move" markdown>
+<p class="lca-move-name">Mend <span class="lca-when">— any scene, on your turn</span></p>
 
-- **Mend** — *any scene, on your turn:* patch yourself or an ally. **Strong +3 / Weak +2 / Miss −1.** No usage cap; can't revive an Out-of-Action hero; capped at 9.
-- **Recovery Scene** — *fall back and regroup at a safe lull:* the whole party heals **fully back to 9.** No roll, fully reliable. Falling back is always safe.
-- **Downtime** — *between Story Arcs:* heal everyone to **9** and restore any Broken Assets.
+Patch yourself or an ally: **Strong +3 · Weak +2 · Miss −1** Readiness. No usage cap; capped at 9; can't revive an Out-of-Action hero. (In a Challenge, this *is* your turn instead of a Challenge Roll.)
+</div>
+<div class="lca-move" markdown>
+<p class="lca-move-name">Recovery Scene <span class="lca-when">— fall back and regroup at a lull</span></p>
+
+The whole party heals **fully back to 9.** No roll, fully reliable, and it **never advances the antagonist** — regroup as often as the fiction allows.
+</div>
+<div class="lca-move" markdown>
+<p class="lca-move-name">Downtime <span class="lca-when">— between Story Arcs</span></p>
+
+Restore everyone's **Broken Assets** — your heroes are whole again for the next Story. (Readiness comes back free any time you regroup, so Downtime is really just about un-breaking what the last adventure cost you.)
+</div>
+</div>
 
 **The Antagonist Track** is the antagonist's clock, and it advances **one box** in exactly three ways:
 
 1. A hero takes the **Devil's Bargain** — the main engine: buying a win now for a step toward defeat.
-2. A **Miss comes up doubles** — doubles upgrade a *Hit*, but on a Miss they feed the antagonist instead.
+2. A **Miss comes up doubles** — the dice turning against you.
 3. A hero goes **Out of Action.**
 
-Its **odd boxes are Closing In beats** (stop and play out the antagonist gaining ground), and its **last box is the antagonist's victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. Going Out of Action near the end can fill that last box and **lose the Story before you finish your final Milestone** — which is exactly why falling back to recover is the smart play when you're battered.
+Its **odd boxes are Bad Guys Close In beats** (stop and play out the antagonist gaining ground), and its **last box is the antagonist's victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. Going Out of Action near the end can fill that last box and **lose the Story before you finish your final Milestone** — which is exactly why falling back to recover is the smart play when you're battered.
+
+## Story Arcs & Milestones
+
+A Story Arc is the shape of a whole adventure: a race between the heroes' progress and the antagonist's, toward a climax. You track that race on **two clocks** drawn side by side — a **Story Arc Track** (your progress, one box per Milestone) above, and a longer **Antagonist Track** below, whose **last box is the antagonist's victory.** Fill yours first to reach the climax and win; if theirs fills first, you lose.
+
+**To set one up, in order:**
+
+1. **Name the Goal** — a one-sentence victory condition.
+2. **Name the antagonist** — a person, faction, or *force* (a desert, a plague, a deadline). Give it a face and a goal of its own.
+3. **Pick a length** — Episode or Movie (table below). This fixes the size of both tracks.
+4. **List your Milestones** — the concrete, pointable steps to the Goal (you'll know each the moment it's done): **3** for an Episode, **6** for a Movie.
+5. **Draw the two tracks**, then make the opening roll (below).
+
+**Story Arc Length** — choose one when you build a Story Arc; it sets the size of both tracks:
+
+| Length | Milestones | Antagonist Track | "Bad Guys Close In" on | Plays in |
+|---|---|---|---|---|
+| **Episode** | 3 | 5 boxes | boxes 1 · 3 · 5 | one sitting |
+| **Movie** | 6 | 9 boxes | boxes 1 · 3 · 5 · 7 · 9 | a full feature, 2–3 sessions |
+
+**Bad Guys Close In** is the move you stop and play out when an odd box fills — cut the camera to the antagonist and show them gaining ground. (On the printable Story Arc sheet it's shortened to just *"Closing In"* to save space.) **Season** and **Series** are *collections* of Story Arcs, not lengths — run long by **chaining** Stories (plan the big arc up front, or let it emerge from play — either works).
+
+- A **Milestone** ≈ **an hour at the table** (a few Scenes, 1–2 of them Challenges, plus the usual table chatter); mark a box on significant headway.
+- **Win** by completing the last Milestone — filling the Story Arc Track. (The closing Milestone is usually a climactic **Hard** or **Epic** Challenge; finishing its track wins the Story.) **Lose** if the Antagonist Track fills, or if you **Quit the Story Arc** (give it up — no penalty; the loss seeds the next Story).
+
+<div class="lca-move" markdown>
+<p class="lca-move-name">Start a Story Arc <span class="lca-when">— the opening roll</span></p>
+
+When a Story Arc begins, roll **2d6 + 1** (generative — you can't fail it) to set the opening: **10+** clear purpose · **7–9** one complication already in play · **6−** trouble finds you first.
+</div>
 
 ## Ask the Oracle
 

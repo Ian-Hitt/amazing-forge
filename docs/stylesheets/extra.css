@@ -1,0 +1,60 @@
+/* ============================================================
+   Lights, Camera, Action! — shared styles
+   ============================================================ */
+
+/* ---- Move cards -------------------------------------------------
+   One consistent way to present a game move anywhere in the book.
+   Usage (md_in_html is enabled):
+
+   <div class="lca-move" markdown>
+   <p class="lca-move-name">The Roll <span class="lca-when">— any risky action</span></p>
+
+   Body markdown here.
+
+   - **Strong (10+):** …
+   - **Weak (7–9):** …
+   - **Miss (6−):** …
+   </div>
+
+   Wrap several in <div class="lca-moves"> (optionally add class "cols-2"
+   for a two-up grid on wide screens).
+------------------------------------------------------------------ */
+
+.lca-move {
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-left: 4px solid var(--md-primary-fg-color);
+  border-radius: 6px;
+  padding: 0.7rem 0.95rem;
+  margin: 0.85rem 0;
+  background: var(--md-default-fg-color--lightest);
+}
+.lca-move > :first-child { margin-top: 0; }
+.lca-move > :last-child { margin-bottom: 0; }
+
+.lca-move-name {
+  font-weight: 700;
+  color: var(--md-primary-fg-color);
+  font-size: 1.02rem;
+  margin: 0 0 0.35rem;
+}
+.lca-move-name .lca-when {
+  font-weight: 400;
+  font-style: italic;
+  opacity: 0.75;
+  font-size: 0.92rem;
+}
+
+.lca-move ul,
+.lca-move ol { margin: 0.4rem 0 0; }
+.lca-move li { margin: 0.1rem 0; }
+
+/* A set of move cards. Add "cols-2" for two columns on wide screens. */
+.lca-moves { display: grid; gap: 0.85rem; }
+@media (min-width: 50rem) {
+  .lca-moves.cols-2 { grid-template-columns: 1fr 1fr; }
+  .lca-moves.cols-2 > .lca-move { margin: 0; }
+}
+
+@media print {
+  .lca-move { break-inside: avoid; page-break-inside: avoid; }
+}
