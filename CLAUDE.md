@@ -62,6 +62,17 @@ authoritative**; V3/V4 are older and superseded where they differ.
 > = 5 characters + a Guide; solo dropped; 5–6 players → recommend one Guide.** Supersedes the Option B fixed
 > ladder above. See [[challenge-ladder-final]] and [[player-count-model]]; feel validated by `readiness_per_box.py`.
 >
+> ⚠️ **2026-06-27 SRD-feedback batch — DECIDED and PROPAGATED book-wide (Master Ref, SRD, all chapters, all
+> sheets, the app, Math&Sim, Book Outline).** **(1) "Oracle's Blessing" → "Doubles"** (it's just crit-hit /
+> crit-miss: doubles upgrade a Hit, a Miss on doubles feeds the antagonist). **(2) "Closing In" → "Bad Guys
+> Close In"** — that's the move name; the short **"Closing In"** is the printable-sheet abbreviation ONLY.
+> **(3) Downtime** is no longer framed as a heal or a win-step — it's the between-Stories reset whose job is
+> **restoring Broken Assets** (Recovery Scenes already heal free/any-time). **(4) Threads/B-plots REMOVED**
+> entirely (TODO to redesign later). **(5) Milestone ≈ ~1 hour** of table time (the "40-Minute Rule" is now
+> the **One-Hour Rule**). **(6) Moves render as cards** via a shared `.lca-move` class (`docs/stylesheets/
+> extra.css`); the SRD is the reference implementation — **book-wide card rollout still PENDING.** See
+> [[srd-feedback-batch]].
+>
 > ⚠️ **2026-06-22 dice rework (see [[dice-and-scaling-rework]]) — also propagated:** core roll **+0/+1/+2**
 > (pick **2 of 5 stats** = +1, **3 Assets** = +1), single broad **Attribute retired**, recovery ratchet
 > dropped (full heal to 9), "+1 box for 4+" dropped. Trust this banner + Math&Sim §0 over any stale phrasing below.
@@ -75,16 +86,14 @@ authoritative**; V3/V4 are older and superseded where they differ.
   antagonist — it can also be a force: a desert, a plague), Antagonist Track, **climax**
   (the final, usually Epic, Challenge — the last Milestone simply *is* the win; the separate
   **"Showdown" roll was retired 2026-06-26**, no extra finishing roll), Milestone, Scene, Challenge, Pay the Price, **Devil's Bargain**
-  (buy a win on a Miss for a antagonist box), **Closing In** (narrated antagonist beat on an odd Antagonist box — the
-  antagonist *closes in*; the terms **"Attack"** and **"Surge"** are retired), **Recovery Scene** (the fall-back-and-regroup move — now **free**), **Fall back**
-  (retreat from a Challenge — was "Flee"), Quit the Story Arc, **Thread/B-plot** (lose-clock-free
-  subplot), Downtime (between-Stories reset), Ask the Oracle, Growth/Growth Track/Boon/Trade In
-  (advancement — use "Growth," never "XP"). Avoid "damage."
+  (buy a win on a Miss for a antagonist box), **Doubles** (the crit-hit/crit-miss rule — doubles upgrade a **Hit** one tier; a **Miss on doubles** advances the antagonist; **"Oracle's Blessing" retired 2026-06-27**), **Bad Guys Close In** (the narrated antagonist beat on an odd Antagonist box — the bad guys close in; the short form **"Closing In"** is the printable-sheet abbreviation ONLY; **"Attack"/"Surge" retired**), **Recovery Scene** (the fall-back-and-regroup move — now **free**), **Fall back**
+  (retreat from a Challenge — was "Flee"), Quit the Story Arc, **Downtime** (between-Stories reset whose job is restoring **Broken Assets** — NOT a heal; Recovery Scenes already heal free/any-time), Ask the Oracle, Growth/Growth Track/Boon/Trade In
+  (advancement — use "Growth," never "XP"). **Threads/B-plots: REMOVED 2026-06-27** (the subplot subsystem is cut — see TODO). Avoid "damage."
 - **Core roll (DECIDED 2026-06-22):** 2d6 + a **+0/+1/+2** modifier. You get **+1** if the action's
   **most-relevant stat** is one of your **2 of 5** (Strong/Quick/Clever/Sneaky/Charming — chosen
   *objectively*, not argued: a chase is Quick, period); **+1** if any of your **3 specific Assets**
   applies (these *are* argued — story flexibility); **+2** if both, **+0** if neither (the risk-of-
-  failure floor). 10+ Strong, 7–9 Weak, 6− Miss; doubles upgrade a **Hit** (Oracle's Blessing) but on a **Miss advance
+  failure floor). 10+ Strong, 7–9 Weak, 6− Miss; doubles upgrade a **Hit** (Doubles) but on a **Miss advance
   the antagonist** (Ch.7). A Hit = **narrate the change**. Tuned to stat≈0.55 / asset≈0.85 apply rates → avg mod ≈ 1.40 (was 1.85);
   this **retires the single broad Attribute** (the closed-five *list* survives; you pick two of it).
 - **Readiness:** starts **9**. Weak −1, Miss −2 (always — no dodging). Max never declines; a
@@ -98,18 +107,17 @@ authoritative**; V3/V4 are older and superseded where they differ.
 - **Story structure — single nested SPINE (DECIDED 2026-06-13; see [[spine-model]] & Math & Sim
   §0).** Dropped sandbox play. One Story = one spine with a **Story Arc Track** (progress, 1
   box/Milestone → the **climax**) and an **Antagonist Track** (the antagonist's race; three triggers
-  below). **Two individual sizes: Episode = 3 Milestones / 5-box Antagonist Track (Closing In on 1·3·5);
-  Movie = 6 Milestones / 9-box (Closing In on 1·3·5·7·9) — same at any party size.** **Season/Series are prose collection patterns, not
+  below). **Two individual sizes: Episode = 3 Milestones / 5-box Antagonist Track (Bad Guys Close In on 1·3·5);
+  Movie = 6 Milestones / 9-box (Bad Guys Close In on 1·3·5·7·9) — same at any party size.** **Season/Series are prose collection patterns, not
   sizes** (Episode/Movie are individual stories; a Season strings them on a throughline, a Series is
-  a run of Seasons). **B-plots are threads** — light progress track, **no Antagonist Track/lose-clock**,
-  resolve into the spine's climax. **Nesting is back** (a Season is *made of* Stories).
+  a run of Seasons). **Nesting is back** (a Season is *made of* Stories). (Threads/B-plots REMOVED 2026-06-27.)
 - **Antagonist Track — the Devil's Bargain spine (DECIDED 2026-06-25).** Advances **+1** three ways:
   a **Devil's Bargain** (on a Miss, forgo the damage + upgrade to Strong → antagonist +1; optional; not
   on a knockout roll — the main, player-authored driver), a **Miss on doubles** (random), and **Out
-  of Action** (catastrophe). **Recovery never advances it** (free). **Odd boxes are Closing In** — the
+  of Action** (catastrophe). **Recovery never advances it** (free). **Odd boxes are Bad Guys Close In** — the
   narrated antagonist beat (cut to the antagonist closing in / winning off-screen); even boxes are silent pressure; the
   **last box = antagonist wins** → lose the Story before the heroes finish (loss vector). The antagonist may
-  be a **force** (a desert, a plague) — characterize it so each Closing In is concrete. **Quit the Story
+  be a **force** (a desert, a plague) — characterize it so each time the bad guys close in is concrete. **Quit the Story
   Arc** = terminal give-up; a lost Story seeds a new one. Loss is a rare earned tail; the metric is
   the **photo-finish.** (Validation: `Math & Simulation Reference.md` §0, `sim_devils.py`/`sim_devils2.py`.)
 

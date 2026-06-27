@@ -79,8 +79,7 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
     <span><span class="af-chk"></span> Episode &mdash; 3 Milestones / 5-box antagonist (one sitting)</span>
     <span><span class="af-chk"></span> Movie &mdash; 6 Milestones / 9-box antagonist (2&ndash;3 sessions)</span>
   </div>
-  <div class="af-line"><label>Thread(s) alongside</label><span class="af-fill"></span></div>
-  <p class="af-hint">B-plots / character arcs running beside this Story Arc &mdash; they have their own progress but <em>no</em> antagonist track. (Chain Stories like this one into a Season or Series &mdash; see Ch.10.)</p>
+  <p class="af-hint">Chain Stories like this one into a Season or Series &mdash; see Ch.10.</p>
 
   <h3>The Tracks</h3>
   <p class="af-hint">Heroes win by filling the Story Arc Track (completing the last Milestone); they lose if the Antagonist Track fills first. The antagonist's <strong>odd boxes (&#9650;) are Closing In beats</strong> &mdash; stop and play out the bad guys gaining ground &mdash; and the <strong>last box is their victory</strong>.</p>

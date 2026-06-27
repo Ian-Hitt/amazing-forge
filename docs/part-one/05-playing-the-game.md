@@ -80,7 +80,7 @@ When the heroes complete their final Milestone, they reach the **climax** — an
 
 Take a moment to play out the victory: the Sun Crystal back in the village square, the lighthouse ghost finally at peace, the sky-city saved. Describe how it feels and what your heroes do now that it's over.
 
-Then take **Downtime** — the rest between Stories. For your first game it's simple: **every hero is back to full Readiness** (9), ready for whatever comes next.
+Then take **Downtime** — the reset between Stories. Its main job is to **restore any Broken Assets**, so your heroes head into the next adventure whole and ready for whatever comes next.
 
 That's a complete adventure — world built, heroes made, Story Arc won. From here you can start a brand-new Story Arc, send these same heroes on another, or hand the dice to someone new.
 

@@ -12,9 +12,7 @@ As your heroes grow, they get **more tools** — more signature moves, more Asse
 
 Each hero has their own **Growth Track** — a simple row of boxes on the character sheet. It works like every other track in the game: you fill boxes in.
 
-The rule is one line: **every 3rd Milestone the party marks, each hero fills one box — that's 1 Growth.** Count every Milestone the party marks on the **main story** and on any **shared subplot** — a B-plot the whole group is invested in (Chapter 10). The tally is **cumulative across your whole game and never resets** — so a 4-box Episode's leftover Milestone carries toward the next Growth instead of being wasted. Everyone at the table ticks together.
-
-> **Personal subplots grow their own hero.** A B-plot that belongs to *one* character — their rivalry, their secret, their reckoning — is the exception: its Milestones count toward **that hero's Growth Track only,** not the whole party's. It's both fair and fitting (your personal arc levels *you*), and it's the brake that keeps a table full of personal B-plots from quietly leveling everyone several times over. A *shared* subplot the whole group cares about still feeds everyone, like the main story.
+The rule is one line: **every 3rd Milestone the party marks, each hero fills one box — that's 1 Growth.** Count every Milestone the party marks across all your Stories. The tally is **cumulative across your whole game and never resets** — so a 4-box Episode's leftover Milestone carries toward the next Growth instead of being wasted. Everyone at the table ticks together.
 
 **This ties Growth to how much story you actually play, not how many arcs you finish** — which quietly fixes two things. A long Story Arc you tell start-to-finish (a standalone Movie or Season) pays out *as you go,* so it's never starved waiting for the finish line. And dragging one arc lazily across many sessions earns no more than playing it briskly — there's nothing to game. Roughly: an Episode is 3 Milestones ≈ **1 Growth**, so you'll earn about **1 per session of play.** A Boon costs 2 (≈ every couple of sessions); a New Asset costs 5 (≈ every five).
 

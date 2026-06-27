@@ -42,18 +42,18 @@ stats (objective, +1); 3 specific Assets (argued, +1); both → +2, one → +1, 
   genuine stake, and players bargain *preemptively* around the ~4-Readiness danger zone, which means
   even cautious play feeds the clock.
 - **Matches (random).** A **Miss showing doubles** advances the antagonist **+1** regardless
-  (~5.7%/roll). Doubles on a *Hit* stays Oracle's Blessing (upgrade a tier); on a Miss they feed the
+  (~5.7%/roll). Doubles on a *Hit* upgrade a tier; on a Miss they feed the
   antagonist instead of upgrading Miss→Weak. The disciplinarian that makes riding to the brink risky. A
   doubles-Miss the hero *also* bargains = **+2** (they stack).
 - **Out of Action (structural).** A hero hitting **0** advances the antagonist **+1** (on top of breaking
   an Asset). Numerically minor under free recovery, but it's what makes OoA matter to the antagonist.
 
 **3. Track sizes & narration (tick decoupled from beat).** The *tick* (frequent, bursty) is decoupled
-from the *narrated antagonist beat* (paced): narrate the antagonist only on the **odd "Closing In" boxes**; even
-boxes are silent pressure. The track must be **odd** so the top box is itself a Closing In beat (the antagonist's
+from the *narrated antagonist beat* (paced): narrate the antagonist only on the **odd "Bad Guys Close In" boxes**; even
+boxes are silent pressure. The track must be **odd** so the top box is itself a Bad Guys Close In beat (the antagonist's
 winning blow *is* the antagonist closing in for the last time).
 
-| Size | Milestones | Antagonist Track | Closing In (narrated beats) |
+| Size | Milestones | Antagonist Track | Bad Guys Close In (narrated beats) |
 |---|---|---|---|
 | **Episode** | 3 | **5 boxes** | 1 · 3 · 5 → box 5 = antagonist win |
 | **Movie** | 6 | **9 boxes** | 1 · 3 · 5 · 7 · 9 → box 9 = antagonist win |
@@ -219,9 +219,9 @@ reserved as the climax**. Recovery is **two moves + a declining ceiling**:
 | **Movie** | **6** | **3** (2 surges + climax) | **8.0** | ~92% | **~7%** |
 
 *(Party 3, p+2 = 0.85, Oracle on; CAP_DROP=1, floor 4; Mend +3/+2/−1, ungated; regroup when avg ≤ ~5–6.)*
-**Season/Series carry no box machinery** — prose *collection* patterns (a run of Story Arcs);
-B-plots are lose-clock-free *threads*. The ceiling **resets at Downtime (every Story Arc)**, so it
-only ratchets *within* an arc — never across a Season/Series.
+**Season/Series carry no box machinery** — prose *collection* patterns (a run of Story Arcs). The
+ceiling **resets at Downtime (every Story Arc)**, so it only ratchets *within* an arc — never across a
+Season/Series. *(This section is superseded — see §0; and the B-plot / thread subsystem it referenced was removed 2026-06-27.)*
 
 **Key tuning facts** (from the sweeps, `sim_spine.py`):
 - The **surge-triggering regroup must restore the party** (to the current ceiling). A small/rolled
@@ -324,18 +324,18 @@ all-Easy *floor*; expected play sits at the §0b numbers above.
 | Strong Hit | total **10+** |
 | Weak Hit | total **7–9** |
 | Miss | total **6 or less** |
-| Oracle's Blessing | doubles upgrade a **Hit** one tier; doubles on a **Miss** advance the Antagonist Track +1 (no upgrade) *(§0)* |
+| Doubles | doubles upgrade a **Hit** one tier; doubles on a **Miss** advance the Antagonist Track +1 (no upgrade) *(§0)* |
 | Readiness — start / max | **9**; max **stays 9 all game** (no ratchet) *(§0)* |
 | Pay the Price — Weak Hit | **−1** Readiness *(−2 at 4–5 heroes — §0)* |
 | Pay the Price — Miss | **−2** Readiness *(−3 at 4–5 heroes)* (unless a Devil's Bargain is taken — §0) |
 | Devil's Bargain | on a **Miss**: refuse the Readiness loss + upgrade to Strong Hit, in exchange for **Antagonist Track +1**; optional; **not allowed on a knockout roll** *(§0)* |
 | Mend (any-scene patch, ungated) | **+3** Strong / **+2** Weak / **−1** Miss Readiness (capped at 9); **never advances the antagonist**; can't revive Out of Action *(§0)* |
 | Recovery Scene (fall back & regroup) | restores party **fully to 9**, reliable, **FREE — never advances the Antagonist Track** *(§0)* |
-| Downtime (between Story Arcs) | heals to full, restores a Broken Asset; free; antagonist's clock resets |
+| Downtime (between Story Arcs) | restores a Broken Asset (not a healing move — Recovery Scenes already heal fully, free, any time); free; antagonist's clock resets |
 | Out of Action | Readiness = **0** (recoverable; not death); **advances the Antagonist Track +1** + breaks an Asset (loss vector) *(§0)* |
 | Challenge length — Normal / Hard / Epic | **3 / 6 / 9 boxes — fixed, same at any hero count** *(Epic = peak moments only; nothing shorter than Normal gets a track; tier = length, hero count = damage — §0)* |
 | Story Arc Track length — Episode / Movie | **3 / 6** Milestones *(§0; Season/Series are prose collections, no box machinery)* |
-| Antagonist Track length — Episode / Movie | **5 / 9** boxes — same at any party size; odd boxes are narrated Closing In beats; last box = antagonist wins *(§0)* |
+| Antagonist Track length — Episode / Movie | **5 / 9** boxes — same at any party size; odd boxes are narrated Bad Guys Close In beats; last box = antagonist wins *(§0)* |
 
 > 🔁 **SUPERSEDED by §0 (2026-06-13).** The four-type / equal-length-Antagonist-Track structure
 > below is replaced by the spine model (Episode 3/2, Movie 6/3; Season/Series are prose
@@ -348,14 +348,14 @@ all-Easy *floor*; expected play sits at the §0b numbers above.
 
 ## 2. Dice probabilities (📐 DERIVED — exact, from the 2d6 curve)
 
-**Without Oracle's Blessing** (matches the win rates quoted in the Master Reference):
+**Without the doubles upgrade** (matches the win rates quoted in the Master Reference):
 
 | Modifier | Strong (10+) | Weak (7–9) | Miss (6−) | Hit rate |
 |---|---|---|---|---|
 | **+2** | 41.7% | 41.7% | 16.7% | **83.3%** |
 | **+1** | 27.8% | 44.4% | 27.8% | **72.2%** |
 
-**With Oracle's Blessing** (doubles upgrade one tier — the usual table state):
+**With the doubles upgrade** (doubles upgrade one tier — the usual table state):
 
 | Modifier | Strong | Weak | Miss | Hit rate |
 |---|---|---|---|---|
@@ -383,7 +383,7 @@ adventure. **They are estimates pending confirmation / recovery of the original 
 | Regular Rolls per Milestone | ~3 | 🔧 ESTIMATE | Ian, 2026-06-06 |
 | Mend: max effective heals | 1 per hero per Milestone (gated) | ✅ SF-C | `sim_recovery.py` |
 | Share of rolls at +2 | 85% | 🔧 ESTIMATE | "most rolls are +2" + mandatory Attribute (was 80%; see §3b) |
-| Oracle's Blessing on? | yes | 🔧 ESTIMATE | usual table state |
+| Doubles on? | yes | 🔧 ESTIMATE | usual table state |
 
 > 🚧 **OPEN — recover the original simulation parameters.** The Master Reference's win-rate
 > targets and the max-9 Readiness cap came from earlier balance/sim work whose assumptions
@@ -666,7 +666,7 @@ only on flee; keep the Antagonist Track length = Story Arc Track (works fine her
 heroes **deliberately initiate** a Challenge. A PbtA-style one-roll temporary modifier (a
 **+1 to your next roll**), applied only to the **first hero roll** of that Challenge:
 
-`2d6 + 1` (generative, Oracle's Blessing on doubles) — **Strong → +1 to that roll** ("you got the
+`2d6 + 1` (generative, doubles upgrade on) — **Strong → +1 to that roll** ("you got the
 drop") · **Weak → 0** (equal footing) · **Miss → −1 to that roll** ("they beat you to it").
 
 With Oracle on, the opening tiers are Strong 33.3% / Weak 44.4% / Miss 22.2%, so the modifier is

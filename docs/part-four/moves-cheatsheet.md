@@ -78,7 +78,7 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
   <div class="af-legend">
     <b>THE ROLL:</b> 2d6 &mdash; <b>+1</b> if a fitting Stat, <b>+1</b> if a fitting Asset (<b>+2</b> both, <b>+0</b> neither).
     &nbsp;&middot;&nbsp; <b>10+</b> Strong Hit &nbsp; <b>7&ndash;9</b> Weak Hit &nbsp; <b>6&minus;</b> Miss.
-    &nbsp;&middot;&nbsp; <b>Doubles</b> upgrade one tier (Oracle's Blessing).
+    &nbsp;&middot;&nbsp; <b>Doubles</b>: upgrade a Hit one tier; a Miss on doubles advances the antagonist.
     &nbsp;&middot;&nbsp; A Hit means you <b>narrate the change</b>.
     <br>
     <b>READINESS</b> (starts at 9, your max all game): Weak Hit <b>&minus;1</b>, Miss <b>&minus;2</b> <i>(at 4&ndash;5 heroes, &minus;2 / &minus;3)</i>. At <b>0</b> you're Out of Action and one Asset breaks until Downtime.

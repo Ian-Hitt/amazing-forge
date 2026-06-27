@@ -50,13 +50,12 @@ Remember what Readiness covers (body, mind, and supplies): the price can be a sc
 
 > *Part Two has the full Pay the Price table — ten ready-made complications you can roll on — plus tips for choosing the one that pushes the story best. For your first game, the four prompts above are plenty.*
 
-### Oracle's Blessing
+### Doubles
 
-Here's a little bit of dice magic. If your two dice come up as **matching numbers (doubles)** — two 3s, two 5s, any pair — fate is smiling on you, and your result jumps up one whole tier:
+A little bit of dice magic — and a little bit of danger. When your two dice come up **matching (doubles)** — two 3s, two 5s, any pair — the moment swings hard, like a critical hit (or a critical miss):
 
-- A **Miss** with doubles becomes a **Weak Hit.** (You scrape through after all.)
-- A **Weak Hit** with doubles becomes a **Strong Hit.** (No price to pay!)
-- A **Strong Hit** with doubles is the best of all — an **Outstanding Success.** You don't just succeed, you do it spectacularly, and you get to add an extra bonus to the scene: a surprise advantage, an extra-cool flourish, something that breaks your way.
+- On a **Hit,** your result jumps up one whole tier. A **Weak Hit** becomes a **Strong Hit** (no price to pay!), and a **Strong Hit** becomes an **Outstanding Success** — you don't just succeed, you do it spectacularly, and you add an extra bonus to the scene: a surprise advantage, an extra-cool flourish, something that breaks your way.
+- On a **Miss,** the dice turn against you. The Miss still fails — doubles don't rescue it — and worse, the **antagonist gains a step** (advance their track one box; see Chapter 3). The bad guys seized the opening.
 
 Doubles are always good news. Watch for those matching numbers — when they land, you get to make the moment shine.
 

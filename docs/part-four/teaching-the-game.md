@@ -30,7 +30,7 @@ Keep this sheet next to you. Each rule below has a **trigger** — the moment in
 | When this happens at the table… | …teach this | …in about one breath |
 |---|---|---|
 | A roll first comes up **7–9 or 6−** | **Pay the Price** (losing Readiness) | *"A 7–9 means you do it but something goes wrong — knock 1 off your Readiness. A miss, knock off 2, and it doesn't work. Tell me what goes wrong."* |
-| The dice come up **matching** (doubles) | **Oracle's Blessing** | *"Matching dice — lucky you! Bump your result up a whole tier."* |
+| The dice come up **matching** (doubles) | **Doubles** | *"Matching dice — lucky you! Bump your result up a whole tier."* |
 | A moment feels **big and dangerous** — a real set-piece | **Challenges & tracks** | *"This one's a big scene. Let's draw a few boxes and fill them together, one roll at a time, until it's done."* |
 | A player wants to **help** instead of act | **Aid Your Ally** | *"Spend your turn helping them — roll, and on a hit your friend gets a bonus on theirs."* |
 | Someone asks *"I'm low — **how do I get Readiness back?**"* | **Mend** (recovery) | *"On your turn you can patch up instead of pushing the scene — roll to Mend, hit and you get a little back. But a miss costs you a point, so don't gamble it when you're nearly out."* |
@@ -38,7 +38,7 @@ Keep this sheet next to you. Each rule below has a **trigger** — the moment in
 | A hero **Misses** and wants the win anyway | **Devil's Bargain** & the **Antagonist Track** | *"You can take the win — turn that Miss into a clean success and dodge the cost — but the antagonist marks a box on their track. If it ever fills, they win. Worth it?"* |
 | A hero hits **0 Readiness** | **Out of Action** & a **Broken Asset** | *"You're down — and going down hands the antagonist a box. You're out of this scene until the team falls back to get you up. And one of your Assets breaks until you get a proper rest between Stories."* |
 | The table goes quiet — *"**what happens now?**"* | **Ask the Oracle** | *"When none of us knows what's next: name what your hero's trying to do, then do the obvious thing — or we roll the dice and let them surprise us."* |
-| They **finish the Story Arc**, or rest between Stories | **Downtime** | *"You did it. Take a rest between Stories — everyone's back to full, and any broken Assets come back."* |
+| They **finish the Story Arc**, or rest between Stories | **Downtime** | *"You did it. Take a rest between Stories — any broken Assets come back, good as new."* |
 | You're carrying on **past one Story Arc into a Season** | **Growth** | *"As you play on, you earn Growth — spend it on new tricks and tools that open up new things to do."* |
 
 > **The thread through all of it:** introduce a rule, then immediately hand the narration back to the player. *"…so knock off a point — now, what does that look like?"* The rule lands and the story keeps moving in the same breath.

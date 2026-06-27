@@ -42,7 +42,7 @@ The two Story Arc sizes (Chapter 10) map onto it like this:
 
 Chain several of these together and you've got a **Season** (a long cold war with the system) or a whole **Series** (*free the colony from the corporation that owns its air*) — collections of Stories, not bigger tracks (Chapter 10).
 
-The **Antagonist Track** (always present, Chapter 10) is rarely a single person — it's a *force with a logo*: the corporation, the rogue AI, the unforgiving physics of the place, the thing in the cargo hold. It advances when the heroes **strike a Devil's Bargain** (buy a win on a Miss and let the system gain — the main driver), when a **Miss comes up doubles,** or when a hero goes **Out of Action** (Chapters 9–10). Its odd boxes are **Closing In** beats (narrate them — a deck venting, a firewall closing); its **last box** is the AI winning, the corp seizing control, the derelict claiming you, seeding the next Story Arc. The drama is the photo-finish — the system near control as you reach the exit. Give the force a face (a smug exec, a too-calm AI voice) so each Closing In is concrete.
+The **Antagonist Track** (always present, Chapter 10) is rarely a single person — it's a *force with a logo*: the corporation, the rogue AI, the unforgiving physics of the place, the thing in the cargo hold. It advances when the heroes **strike a Devil's Bargain** (buy a win on a Miss and let the system gain — the main driver), when a **Miss comes up doubles,** or when a hero goes **Out of Action** (Chapters 9–10). Its odd boxes are **Bad Guys Close In** beats (narrate them — a deck venting, a firewall closing); its **last box** is the AI winning, the corp seizing control, the derelict claiming you, seeding the next Story Arc. The drama is the photo-finish — the system near control as you reach the exit. Give the force a face (a smug exec, a too-calm AI voice) so each time the bad guys close in, it's concrete.
 
 ### Tempo
 
@@ -70,7 +70,7 @@ In practice:
 > **Guide:** The reactor room's dark except for one red emergency strip. The main coupling's fried — but there's a salvage drone clamped to the wall, dormant, that could bridge the gap if you can wake it. The deck's already warming under your boots. What do you do?
 > **Player (Iko):** I jack into the drone and try to wake it gently — I don't want it dumping its logs and rebooting, we don't have time. *Interfaces With Machines.*
 > **Guide:** Roll it.
-> **Player:** Eleven — Strong Hit. And doubles, so Oracle's Blessing bumps it up — that's a really strong result.
+> **Player:** Eleven — Strong Hit. And doubles, so it bumps up a tier — that's a really strong result.
 > **Guide:** The drone wakes sweet and quiet, already understanding the job — it bridges the coupling and the reactor coughs to life. **Mark a box,** and take the bonus: as it links in, it shares its last memory with you. The crew didn't evacuate. They went *deeper* into the ship, on purpose. What do you do?
 
 One roll, power restored, and a hook that just made the escape a lot more interesting. That's a Sci-Fi scene.

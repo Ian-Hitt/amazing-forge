@@ -87,7 +87,7 @@ Readiness only falls in the heat of the action, and there are three ways it come
 |---|---|---|---|
 | **Mend** | Any scene, on your turn | a little (risky) | a **Miss costs you 1 Readiness**; can't revive a downed hero |
 | **Recovery Scene** | Falling back to regroup at a safe lull | the party back to full **9** | (none — no roll, automatic) |
-| **Downtime** | Between Story Arcs | full heal + Broken Assets restored | (none — the Story Arc's over) |
+| **Downtime** | Between Story Arcs | restores Broken Assets | (none — the Story Arc's over) |
 
 Only **Mend** is a roll (Chapter 7); the Recovery Scene and Downtime are automatic.
 
@@ -120,7 +120,7 @@ So the rhythm of a Story Arc is: push, get battered, fall back and breathe, push
 
 ### Downtime — Between Stories
 
-When a Story Arc ends — won or lost — the heroes take **Downtime:** the game's long rest and its standing invitation to **slow down.** It **heals everyone to full** and **restores every Broken Asset** (below) — no roll, no antagonist advance; the Story Arc is resolved, so the antagonist's clock resets and the heroes start the next one whole. Spend real time here in dialogue and narration; the slower character beats live in Downtime.
+When a Story Arc ends — won or lost — the heroes take **Downtime:** the between-Stories reset and the game's standing invitation to **slow down.** Its real job is to **restore every Broken Asset** (below) — no roll, no antagonist advance; the Story Arc is resolved, so the antagonist's clock resets and the heroes start the next one whole. (Readiness is already full by now — a free Recovery Scene tops the party up any time the fiction allows — so Downtime isn't about healing; it's about reforging what broke.) Spend real time here in dialogue and narration; the slower character beats live in Downtime.
 
 What does it look like? Whatever fits your hero — if you're stuck, roll or pick a d6:
 
@@ -133,7 +133,7 @@ What does it look like? Whatever fits your hero — if you're stuck, roll or pic
 | 5 | **A beat for the heart** — facing a fear, a grief, or a doubt you've been outrunning. |
 | 6 | **All your own** — something only this hero would do. |
 
-You always start the next Story Arc fresh. Downtime is also where **threads** between Stories breathe — the character moments and B-plots that carry a Season (Chapter 10).
+You always start the next Story Arc fresh.
 
 ### Out of Action
 

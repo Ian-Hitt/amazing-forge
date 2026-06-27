@@ -14,9 +14,9 @@
 >   Antagonist Track advances **one box in exactly three ways:** a **Devil's Bargain** (on a Miss, a
 >   hero may refuse the Readiness loss *and* upgrade the Miss to a Strong Hit, for antagonist +1 — never
 >   on a knockout roll), a **Miss showing doubles** (antagonist +1; doubles now upgrade *only* a Hit), and
->   going **Out of Action** (antagonist +1 + an Asset breaks). The narrated antagonist beat is the antagonist **Closing In**
+>   going **Out of Action** (antagonist +1 + an Asset breaks). The narrated antagonist beat is **Bad Guys Close In**
 >   on the track's **odd boxes;** the **last box = the antagonist wins.**
-> - **Term (2026-06-26): the odd-box beat is "Closing In"** (the antagonist *closes in*) — replacing the unintended label "Attack" (and "Surge" before it).
+> - **Term (2026-06-26, refined 2026-06-27): the odd-box beat is "Bad Guys Close In"** (the antagonist *closes in*) — replacing the unintended label "Attack" (and "Surge" before it). The short form **"Closing In"** is now only the abbreviation printed on the physical Story Arc sheet; the canonical term is **Bad Guys Close In**.
 > - **Track sizes (2026-06-25): Episode = 5 boxes, Movie = 9 boxes — the SAME at any party size**
 >   (the duo/two-player special case is GONE).
 > - **Challenge ladder (2026-06-27): drop Easy; three tiers — Normal = 3 boxes, Hard = 6, Epic = 9 —
@@ -91,19 +91,18 @@ the book. When reviewing a chapter, treat any deviation as an error to flag.
 | **Broken Asset** | An Asset knocked offline when a hero goes Out of Action — gives no +1 until **Downtime** restores it. Temporary; never a penalty. | negative Asset, debuff, condition, impact |
 | **Readiness** | The single 0–9 resource track (health + morale + supplies). Max stays **9** all game. | HP, health, hit points, stamina |
 | **Mend** | The small, risky **any-scene** patch (in a Challenge, it's your turn instead of a Challenge Roll): recover a little — self or ally, rolled **Strong +3 / Weak +2 / Miss −1 Readiness** (capped at 9). **No usage cap; never advances the antagonist; can't revive Out of Action.** The −1 risk keeps it from substituting for a regroup. | heal, Catch Your Breath |
-| **Recovery Scene** | The fall-back-and-regroup move: the party heals **fully back to 9** — **free** (no roll, no cost to the antagonist's clock). Reliable; the quiet/B-plot beat. **Recovery never advances the Antagonist Track.** | rest, healing |
-| **Downtime** | The between-Story-Arcs rest: heals everyone to full and **restores any Broken Asset**. Free; the antagonist's clock resets. | long rest, Sojourn, victory bump |
+| **Recovery Scene** | The fall-back-and-regroup move: the party heals **fully back to 9** — **free** (no roll, no cost to the antagonist's clock). Reliable; the quiet character beat. **Recovery never advances the Antagonist Track.** | rest, healing |
+| **Downtime** | The between-Story-Arcs reset: **restores any Broken Asset** (and handles Growth bookkeeping). Free; the antagonist's clock resets. (Recovery Scenes already heal the party fully, free, any time, so Downtime is not a healing move.) | long rest, Sojourn, victory bump |
 | **Out of Action** | State when Readiness hits 0. | dead, KO'd, defeated |
 | **Story / Story Arc** | One spine — a single central dramatic question — tracked with a **Story Arc Track** (progress) and an **Antagonist Track** (the antagonist's clock). Sized **Episode** or **Movie** (the only two with box machinery). | Quest, mission, adventure |
-| **Episode** | A complete short Story — **3 Milestones, 5-box Antagonist Track** (Closing In on 1·3·5) — told in ~one sitting. Same track size at any party count. | one-shot, session quest |
-| **Movie** | A complete feature Story — **6 Milestones, 9-box Antagonist Track** (Closing In on 1·3·5·7·9) — told over ~2–3 sessions. Same track size at any party count. | feature film |
+| **Episode** | A complete short Story — **3 Milestones, 5-box Antagonist Track** (Bad Guys Close In on 1·3·5) — told in ~one sitting. Same track size at any party count. | one-shot, session quest |
+| **Movie** | A complete feature Story — **6 Milestones, 9-box Antagonist Track** (Bad Guys Close In on 1·3·5·7·9) — told over ~2–3 sessions. Same track size at any party count. | feature film |
 | **Season** | A **collection** pattern (prose, no machinery): a run of Stories sharing a throughline. Not a box size. | arc (as the term), story arc |
 | **Series** | A **collection** pattern (prose): the whole game, a run of Seasons. Always a collection; no box size of its own. | campaign, saga |
 | **Story Arc Track** | A Story's progress track — one box per Milestone; filling it (completing the last Milestone) wins the Story. | Hero Track, Quest Track |
-| **Antagonist Track** | The losing side of the same Story: the antagonist's clock — **Episode 5 boxes / Movie 9 boxes** (same at any party size). Advances **one box** in exactly three ways: a **Devil's Bargain,** a **Miss showing doubles,** or a hero going **Out of Action.** Its **odd boxes are Closing In** (the narrated antagonist beat); even boxes are silent pressure; the **last box loses the Story.** | enemy clock, doom track |
+| **Antagonist Track** | The losing side of the same Story: the antagonist's clock — **Episode 5 boxes / Movie 9 boxes** (same at any party size). Advances **one box** in exactly three ways: a **Devil's Bargain,** a **Miss showing doubles,** or a hero going **Out of Action.** Its **odd boxes are Bad Guys Close In** beats (the narrated antagonist beat); even boxes are silent pressure; the **last box loses the Story.** | enemy clock, doom track |
 | **Devil's Bargain** | On a **Miss,** a hero *may* refuse the Readiness loss **and** upgrade the Miss to a **Strong Hit** — in exchange for advancing the Antagonist Track **one box.** Always optional; **never allowed on a roll that would knock the hero Out of Action.** The main engine of the antagonist's climb. | — |
-| **Closing In** | The narrated antagonist beat played out when an **odd box** of the Antagonist Track fills (1·3·5, plus 7·9 on a Movie): cut away and show the antagonist closing in — gaining ground on-screen. Even boxes pass silently. The **last box is the antagonist's victory.** | the Surge, the Attack (both retired) |
-| **Thread (B-plot)** | A subplot/character arc riding alongside the spine: a light progress track, **no Antagonist Track / no lose-clock**; resolves into or beside the spine's climax. | side quest, B-arc |
+| **Bad Guys Close In** | The narrated antagonist beat played out when an **odd box** of the Antagonist Track fills (1·3·5, plus 7·9 on a Movie): cut away and show the antagonist closing in — gaining ground on-screen. Even boxes pass silently. The **last box is the antagonist's victory.** The short form **"Closing In"** is the abbreviation printed on the physical Story Arc sheet only. | the Surge, the Attack (both retired); Closing In (sheet short form) |
 | **Fall back** | Retreating from a losing Challenge (losing its progress) to regroup — handled as a **Recovery Scene** (full heal, **free**, no antagonist advance). | Flee, retreat (as the mechanic) |
 | **Quit the Story Arc** | Giving up a Story entirely — the terminal fall back; the bad guys win. | forfeit, surrender |
 | **Start a Story Arc** | The opening roll made once when a Story Arc begins (2d6 + 1, **generative** — no failure): sets how it opens — *Clear purpose* / *More questions than answers* / *Trouble finds you first*. | Swear an Iron Vow |
@@ -116,7 +115,7 @@ the book. When reviewing a chapter, treat any deviation as an error to flag.
 | **Progress** | What you mark on a track. | points, XP |
 | **Pay the Price** | The complication that follows a Weak Hit/Miss. | penalty, damage |
 | **Strong Hit / Weak Hit / Miss** | The three roll outcomes. | success/partial/fail |
-| **Oracle's Blessing** | The doubles-upgrade rule — doubles upgrade a **Hit** one tier. On a **Miss,** doubles do *not* upgrade; instead they advance the Antagonist Track one box. | crit, critical |
+| **Doubles** | The doubles rule (crit hit / crit miss) — doubles upgrade a **Hit** one tier. On a **Miss,** doubles do *not* upgrade; instead they advance the Antagonist Track one box. | crit, critical, Oracle's Blessing |
 | **Outstanding Success** | Doubles on a Strong Hit. | crit success |
 | **Ask the Oracle** | The stuck-point move for deciding what happens next. | — |
 | **Story Spark** | The small d6 idea table inside Ask the Oracle. | oracle table |
@@ -406,9 +405,7 @@ recovery and Out of Action work is covered under **Recovery** (Section 7).
 - **Growth (the currency).** Each hero tracks their own **Growth** on a **Growth Track** (a
   simple row of boxes on the sheet). **Every 3rd Milestone the party marks — on any Story Arc —
   each hero earns 1 Growth** (all heroes tick together, exactly as everyone used to score on a
-  shared win). Count every Milestone the party marks on the **main spine** and on **shared B-plot
-  threads** (party-wide). **A character-specific B-plot is the exception: its Milestones credit
-  Growth to that one hero only**, not the party. (See the DECIDED note below.) The tally is
+  shared win). Count every Milestone the party marks on the spine (on any Story Arc). The tally is
   **cumulative across the whole game and never resets per arc**, so no Milestone is ever wasted — a 4-box "stretched Episode" carries its 4th Milestone
   toward the next Growth. This ties Growth to **headway actually played, not arcs finished**, which
   closes two holes the old "1 per Story Arc" rule had: a standalone Movie/Season can no longer be
@@ -460,16 +457,11 @@ recovery and Out of Action work is covered under **Recovery** (Section 7).
   guaranteed deadzones, and they're uniform across all heroes — so the sim prices them
   in once and they never creep.)*
 
-> ✅ **DECIDED — thread/B-plot Growth crediting (Ian, 2026-06-14; `sim_threads.py`).** Threads earn
-> Growth, with one split: **shared B-plots credit the whole party; a character-specific B-plot
-> credits only its own hero.** Modeling showed why this split is load-bearing, not flavor:
-> *action-heavy* threads self-limit (full-Challenge side-arcs balloon loss — Movie 7%→22% at +3
-> thread Milestones — so nobody farms them), but *quiet character B-plots* add Growth with little
-> added danger (loss ~7%→9.5% at +3). If those quiet personal arcs credited party-wide, a party of
-> 3 each running one would roughly **double** everyone's Growth (each hero (6 main + 6 thread)//3 =
-> 4 vs. baseline 2). Per-hero crediting holds each hero near the spine baseline ((6 + own 2)//3 = 2)
-> while still rewarding the thread — fair *and* the brake. Shared B-plots stay party-wide (a couple
-> of them is a bounded ~+1 Growth and doesn't break the loss curve).
+> 🔁 **REMOVED 2026-06-27 — thread/B-plot Growth crediting.** The whole thread / B-plot subsystem was
+> cut from the game on 2026-06-27, so this ruling no longer applies. (Historical record: a 2026-06-14
+> decision, `sim_threads.py`, credited Growth from threads — shared B-plots party-wide, character-specific
+> B-plots to their own hero only — to keep quiet personal arcs from doubling everyone's Growth.) With
+> threads gone, Growth is earned only on the spine (every 3rd Milestone the party marks).
 
 > Naming note: **"Growth," not "XP."** The vocab table bans "XP" for track Progress; the
 > advancement currency uses the thematic term **Growth** to keep that distinction clean.
@@ -526,7 +518,7 @@ out what it means now or save that for later. A big search (combing a crime scen
 now; a later roll finds what's inside). Either way you've moved the story closer to its end,
 which is the whole job of the core move.
 
-### The Oracle's Blessing (Optional)
+### Doubles
 
 If a player rolls **matching numbers (doubles)** on a **Hit**, their result is upgraded by one tier:
 
@@ -560,8 +552,8 @@ Each move is defined in full in the chapter noted; this list is the authoritativ
 | **The Roll** | The core move; handles any risky action, run as a **Regular Roll** (no track) or a **Challenge Roll** (marks a track). Every other move is shaped from it. | Ch.7 |
 | **Aid Your Ally** | The core move pointed at a teammate — on a Hit, hand them +2/+1; same Pay the Price as any roll (Strong: ally +2; Weak: ally +1, aider −1; Miss: nothing, aider −2). | Ch.7/8 |
 | **Mend** | A quick patch in any scene (in a Challenge, it's your turn instead of a Challenge Roll): self or ally, **Strong +3 / Weak +2 / Miss −1 Readiness**, capped at 9, **never advances the antagonist**, can't revive an Out-of-Action hero. | Ch.9 |
-| **Recovery Scene** | Fall back and regroup: the party heals **fully back to 9** — **free** (no roll, no antagonist advance). Reliable; the quiet/B-plot beat. | Ch.9 |
-| **Downtime** | The between-Story-Arcs rest: heals to full, restores any Broken Asset; free, the antagonist's clock resets. | Ch.9 |
+| **Recovery Scene** | Fall back and regroup: the party heals **fully back to 9** — **free** (no roll, no antagonist advance). Reliable; the quiet character beat. | Ch.9 |
+| **Downtime** | The between-Story-Arcs reset: restores any Broken Asset (and Growth bookkeeping); free, the antagonist's clock resets. Not a healing move (Recovery Scenes already heal fully, any time). | Ch.9 |
 
 **Progress moves — open or close a progress track:**
 
@@ -580,7 +572,7 @@ Each move is defined in full in the chapter noted; this list is the authoritativ
 | **Pay the Price** | Turns a Weak Hit/Miss into a fiction complication and its Readiness loss; never advances the Antagonist Track by itself (Ch.9). | none (optional prompt) |
 | **Devil's Bargain** | On a Miss, refuse the Readiness loss and upgrade the Miss to a Strong Hit, in exchange for the Antagonist Track **+1** (Ch.9/10). Optional; never on a knockout roll. | none (player choice) |
 
-*Doubles on any 2d6 move trigger **Oracle's Blessing** (upgrade one tier — including the
+*Doubles on any 2d6 move upgrade one tier (including the
 generative tiers of Start a Story Arc).*
 
 ---
@@ -602,14 +594,14 @@ with their own box machinery:
 
 | Size | Story Arc Track | Antagonist Track | Feels like |
 |---|---|---|---|
-| **Episode** | **3 Milestones** | **5 boxes** (Closing In on 1·3·5) | one TV episode, told in one sitting |
-| **Movie** | **6 Milestones** | **9 boxes** (Closing In on 1·3·5·7·9) | a feature film, over ~2–3 sessions |
+| **Episode** | **3 Milestones** | **5 boxes** (Bad Guys Close In on 1·3·5) | one TV episode, told in one sitting |
+| **Movie** | **6 Milestones** | **9 boxes** (Bad Guys Close In on 1·3·5·7·9) | a feature film, over ~2–3 sessions |
 
 The Story Arc Track box count is a default, not a lock — a meaty Episode can stretch a Milestone or
 two. The **Antagonist Track is the same size at any party count** (no duo/large-group special case):
 because Challenges are sized by difficulty alone (Section 7), total rolls per Story stay about the
 same whatever the table size, so the clock fills at about the same rate for everyone. Its **odd boxes
-are Closing In** (the narrated antagonist beat); the **last box is the antagonist's victory.** Sized this way, the
+are Bad Guys Close In** beats (the narrated antagonist beat); the **last box is the antagonist's victory.** Sized this way, the
 antagonist's clock tends to end up *near* full as the heroes reach their finale — the **photo-finish** —
 without anyone being railroaded there (below).
 
@@ -618,17 +610,12 @@ without anyone being railroaded there (below).
 are prose patterns, not new machinery:
 
 - A **Season** is usually a **collection**: a run of Episodes/Movies sharing a throughline — a
-  recurring antagonist, a season-long question carried by a B-plot **thread** (below). (Occasionally
+  recurring antagonist, a season-long question carried from one Story to the next. (Occasionally
   a Season is a single long serialized spine — but that's just a big Movie, an individual story with
   more Milestones.)
 - A **Series** is **always a collection**: the whole game, a run of Seasons. You run it with these
-  same rules — one Story at a time, threads tying them together. A Series has no box count of its
+  same rules — one Story at a time, a throughline tying them together. A Series has no box count of its
   own.
-
-**B-plots and character arcs are threads, not peers.** A subplot rides alongside the spine with its
-own light progress track but **no Antagonist Track — no lose-clock of its own.** It advances when
-the fiction advances it and **resolves into or beside the spine's climax.** Threads are the
-connective tissue of a Season: the slow-burn relationship, the rival, the season-long mystery.
 
 > ✅ **DECIDED — single nested spine, two sizes (2026-06-13; track sizes & triggers revised
 > 2026-06-25).** Replaces the sandbox model (concurrent independent arcs in four fixed sizes —
@@ -637,7 +624,7 @@ connective tissue of a Season: the slow-burn relationship, the rival, the season
 > the game's goal** — a story whose antagonist ends *one step from winning*. The model: **one Story =
 > one spine**, two individual sizes with machinery (**Episode 3 Milestones / 5-box Antagonist Track,
 > Movie 6 / 9** — the same at any party size; the old duo special case is gone), Season/Series as
-> prose collection patterns, B-plots as lose-clock-free threads. The Antagonist Track advances via
+> prose collection patterns. (The B-plot / thread subsystem was later **removed 2026-06-27.**) The Antagonist Track advances via
 > the **Devil's Bargain spine** (next note); recovery is **free.** Validated in `Math & Simulation
 > Reference.md` §0: the **photo-finish** is the tuned deliverable (~20% Episode / ~21% Movie at
 > realistic play); loss is a rare earned tail (~6.5% / ~11%). Kills the old "four types / equal-length
@@ -653,7 +640,7 @@ connective tissue of a Season: the slow-burn relationship, the rival, the season
 
 Once a Story Arc is set up (Goal, Milestones, antagonist, both tracks), make one **Start a Story Arc**
 roll to set *how it opens:* **2d6 + 1** (no Asset applies — this isn't a test of a hero's skill;
-the +1 is the off-Asset floor, and **Oracle's Blessing applies** on doubles). It is **generative,
+the +1 is the off-Asset floor, and **doubles upgrade** the result). It is **generative,
 not pass/fail** — all three tiers are playable openings, differing only in how much trouble is
 already on the heroes when the first Scene starts:
 
@@ -673,7 +660,7 @@ Milestone**. First games (Part One) skip the roll and simply open in media res (
 > Iron Vow*, **minus** the momentum reward. **Generative, not adjudicative** — no hero is tested,
 > so there is no failure; the three tiers (*Clear purpose* / *More questions than answers* /
 > *Trouble finds you first*) are three flavors of opening, a "Miss" being simply the most
-> cinematic way in. It uses the **full core roll** (the +1 off-Asset floor; Oracle's Blessing
+> cinematic way in. It uses the **full core roll** (the +1 off-Asset floor; doubles upgrade the result
 > applies) rather than a bare d6, so the familiar Strong/Weak/Miss ladder carries the
 > good/middle/poor shape. **No balance impact** (no Readiness or track stakes; not modeled in the
 > Math doc). Part One **skips** it (assume a clean launch, open in media res); Part Two (Ch.10)
@@ -687,7 +674,7 @@ Milestone**. First games (Part One) skip the roll and simply open in media res (
 
 The Antagonist Track is **the losing side of the same Story** — not a separate arc, but this
 Story's other end. It is **Episode 5 boxes / Movie 9 boxes** (same at any party size). Its boxes fill
-as the antagonist gains ground during play; its **odd boxes are Closing In** (the narrated antagonist beat),
+as the antagonist gains ground during play; its **odd boxes are Bad Guys Close In** beats (the narrated antagonist beat),
 its even boxes are silent pressure, and its **last box is the antagonist's victory** — fill it before the
 heroes finish their Story Arc Track and the bad guys win. The Story is a race: complete your final
 Milestone with the antagonist **one step from winning** — the **photo-finish** — or fall before you reach it.
@@ -699,7 +686,7 @@ Milestone with the antagonist **one step from winning** — the **photo-finish**
 >    optional; **never allowed on a roll that would knock the hero Out of Action.** This is the main
 >    engine — the heroes feed the antagonist by buying their own successes.
 > 2. **A Miss showing doubles.** When a Miss comes up doubles, the dice swing against the heroes and
->    the antagonist advances one box (Section 5). Doubles now upgrade *only* a Hit (Oracle's Blessing);
+>    the antagonist advances one box (Section 5). Doubles now upgrade *only* a Hit;
 >    on a Miss they feed the antagonist instead. The random leg nobody controls. (A doubles-Miss the
 >    hero *also* bargains advances the antagonist **two** boxes — they stack.)
 > 3. **A hero going Out of Action.** Drop to 0 Readiness and the antagonist seizes the moment — one box,
@@ -710,13 +697,13 @@ Milestone with the antagonist **one step from winning** — the **photo-finish**
 > never advances the antagonist. Validated in `Math & Simulation Reference.md` §0 (`sim_devils.py` /
 > `sim_devils2.py`): the photo-finish is the tuned deliverable; loss is a rare earned tail.
 
-- **Closing In (what an odd box means).** You narrate an antagonist beat only on the **odd "Closing In"
-  boxes** (1·3·5, plus 7·9 on a Movie); the even boxes are silent pressure (the music tightening, the
-  walls inching in — no scene needed). When a Closing In box fills, **stop and play it out:** envision
-  what the antagonist did off-screen, then **bring it on-screen as a complication** — a new obstacle, an
-  escalation, an ally captured, the deadline jumps closer. The world visibly tightens. This keeps the
-  antagonist's *story* beats paced even when boxes fill in a rush (two bargains in one fight just slide
-  the clock; you play the Closing In when the next odd box lands).
+- **Bad Guys Close In (what an odd box means).** You narrate an antagonist beat only on the **odd "Bad
+  Guys Close In"** boxes (1·3·5, plus 7·9 on a Movie); the even boxes are silent pressure (the music
+  tightening, the walls inching in — no scene needed). When such a box fills, **stop and play it out:**
+  envision what the antagonist did off-screen, then **bring it on-screen as a complication** — a new
+  obstacle, an escalation, an ally captured, the deadline jumps closer. The world visibly tightens. This
+  keeps the antagonist's *story* beats paced even when boxes fill in a rush (two bargains in one fight
+  just slide the clock; you play the beat when the next odd box lands).
 - **The pressure is player-authored.** Most of the antagonist's climb comes from Devil's Bargains —
   choices the heroes make under fire. The clock is a mirror of how hard they've pushed their luck.
 - **It can't be gamed to zero.** Even a cautious party that never bargains still faces doubles-Misses
@@ -724,7 +711,7 @@ Milestone with the antagonist **one step from winning** — the **photo-finish**
   fiction allows; the small **Mend** also never advances the antagonist.)
 - **Characterize the antagonist.** The antagonist may be a person, a faction, or a **force** (a
   harsh desert, a plague, a deadline). Name what it *wants* and what "winning" looks like, so every
-  Closing In is a concrete beat: the desert's clock fills → a sandstorm hits.
+  time the bad guys close in, it's a concrete beat: the desert's clock fills → a sandstorm hits.
 - **Losing before the climax (the loss vector).** A hero taken **Out of Action** advances the antagonist
   a box on the spot (Section 9) — and near the end of a Story Arc, that box can be the antagonist's last,
   losing the Story *before* the heroes complete their final Milestone. This is the real risk that keeps
@@ -961,10 +948,12 @@ camera, not the clock: a regroup means stepping out of the action — the campfi
 the **character scene.** Falling back is always safe and always available, so you never ration or
 dread it; the antagonist's clock climbs from the gambles you take under fire, not from resting.
 
-**Downtime (between Story Arcs).** Finishing a Story Arc heals everyone to full and **restores any
-Broken Asset** — free; the antagonist's clock resets (the Story Arc is resolved). It's the *slow down
-and roleplay* breather between adventures (optionally a d6 prompt: gearing up, good company, loved
-ones, a beat for the heart). Heroes always start the next Story fresh.
+**Downtime (between Story Arcs).** Between Story Arcs, the party takes Downtime to **restore any
+Broken Asset** (and handle Growth bookkeeping) — free; the antagonist's clock resets (the Story Arc is
+resolved). It's **not** a healing move — Recovery Scenes already heal the party fully, free, any time,
+so Downtime's job is restoring what going Out of Action broke. It's the *slow down and roleplay*
+breather between adventures (optionally a d6 prompt: gearing up, good company, loved ones, a beat for
+the heart). Heroes always start the next Story fresh.
 
 **Out of Action (the loss vector).** A hero at 0 Readiness can't act. **Going Out of Action advances
 the Antagonist Track one box** on the spot (Section 6) — you fell, and the bad guys seized the moment
@@ -1021,16 +1010,16 @@ Every track is a decision about how much "screen time" an event gets. A Hard Cha
 (more boxes) eats a larger chunk of the session. If real-world time is running short, lower
 the difficulty of future Challenges to move the story along.
 
-### 2. Milestone Timing (The 40-Minute Rule)
+### 2. Milestone Timing (The One-Hour Rule)
 
 The Milestone is the most powerful pacing tool. Because nothing strictly defines a
 Milestone, you can complete them as fast or slow as needed. Since the Story Arc Track shows
 exactly how many remain, you can gauge your position:
 
-- **The 2-Hour Adventure** — an Episode (3 boxes) finishes in ~2 hours at roughly one
-  Milestone every **40 minutes.**
-- **The 4-Hour Adventure** — the same 3-box Episode stretches to 4 hours at **80 minutes**
-  per Milestone.
+- **The ~3-Hour Adventure** — an Episode (3 boxes) finishes in ~3 hours at roughly one
+  Milestone every **hour** (the realistic default, buffer included).
+- **The Longer Adventure** — the same 3-box Episode stretches further if you linger, at well over
+  an hour per Milestone.
 
 Watch the clock and the empty boxes to decide whether to add scene detail or resolve a
 Challenge quickly.
@@ -1160,12 +1149,12 @@ Everyone is a player, sharing the directing duties equally.
 > size — with Season/Series as **prose collection patterns**); *"Antagonist Track flee-primary +
 > optional telling-failure tick"* **and** the interim *"advances only on a Recovery Scene, with a
 > reserved climax box"* (now advances via the **Devil's Bargain spine** — a Devil's Bargain, a Miss
-> showing doubles, or going Out of Action — with **odd-box Closing In** and **no reserved climax box;
+> showing doubles, or going Out of Action — with **odd-box Bad Guys Close In** beats and **no reserved climax box;
 > recovery is free**); *"rolled SF-C recovery"* (now **two free moves**: a small risky **Mend** —
 > Strong +3 / Weak +2 / **Miss −1**, an any-scene tactical patch — plus the full-reset **Recovery
 > Scene**, neither of which advances the antagonist; Downtime is the between-Stories reset); and
-> *"multiple concurrent arcs / no feed-up"* (now **one nested spine**, with B-plots as lose-clock-free
-> threads). New model validated in `Math & Simulation Reference.md` §0 (`sim_devils.py` /
+> *"multiple concurrent arcs / no feed-up"* (now **one nested spine**). (The B-plot / thread subsystem
+> was later **removed 2026-06-27.**) New model validated in `Math & Simulation Reference.md` §0 (`sim_devils.py` /
 > `sim_devils2.py`).
 
 > ✅ **DECIDED — pre-playtest audit clarifications (2026-06-14).** A polish pass before playtesting
@@ -1179,8 +1168,9 @@ Everyone is a player, sharing the directing duties equally.
 > **solo play was dropped 2026-06-27** (2–6 players, group only; see §0). **(5) Aid
 > fully stacks** — with the Asset and across multiple helpers, self-limited by each helper's Pay
 > the Price. **(6) Genre count corrected to seven** (Post-Apocalypse). **(7) Threads earn Growth**
-> — shared B-plots party-wide, character-specific B-plots to their own hero only (`sim_threads.py`;
-> §4 DECIDED note). **(8) Fully-stacking Aid is balance-safe** — the opportunity cost makes it
+> — *(REMOVED 2026-06-27: the thread / B-plot subsystem was cut, so this ruling no longer applies; Growth
+> is earned only on the spine. Historical: shared B-plots party-wide, character-specific B-plots to their
+> own hero only — `sim_threads.py`, §4.)* **(8) Fully-stacking Aid is balance-safe** — the opportunity cost makes it
 > self-defeating to farm (`sim_aid.py`; §7 Aid note). Both modeled and closed 2026-06-14.
 > **(9) Micro-clarifications** (derivable defaults, folded into the chapters): Mend on a hero
 > already at 9 does nothing (and still risks the −1 — don't); a Recovery Scene always heals to a
@@ -1197,7 +1187,7 @@ Everyone is a player, sharing the directing duties equally.
 > to a Strong Hit, for antagonist +1 — optional, never on a knockout roll); a **Miss showing doubles**
 > (antagonist +1 — doubles now upgrade *only* a Hit; on a Miss they feed the antagonist instead of upgrading
 > Miss→Weak); and going **Out of Action** (antagonist +1 + an Asset breaks). A doubles-Miss that is *also*
-> bargained advances the antagonist two boxes (they stack). **(3) The narrated antagonist beat is the antagonist Closing In**
+> bargained advances the antagonist two boxes (they stack). **(3) The narrated antagonist beat is Bad Guys Close In**
 > on the track's **odd boxes** (Episode 1·3·5; Movie 1·3·5·7·9); even boxes are silent pressure; the
 > **last box is the antagonist's victory.** **(4) Track sizes: Episode = 5 boxes, Movie = 9 boxes — the
 > SAME at any party size** (the duo/two-player special case is removed). **(5) Challenge ladder
@@ -1215,7 +1205,7 @@ Everyone is a player, sharing the directing duties equally.
 
 **V5 is authoritative.** It is the newest and most complete draft, and it supersedes V3/V4
 wherever they differ. Mechanics V5 introduced (now canonical above): the **Antagonist
-Track**, the **Regular vs. Challenge Roll** split, the **Pacing / 40-Minute Rule** section,
+Track**, the **Regular vs. Challenge Roll** split, the **Pacing / One-Hour Rule** section,
 the **Challenge Turn Loop** and end-of-Challenge procedure, the **Concept formula + Golden
 Question**, the detailed **Asset** guidance, the three-pillar **Readiness** breakdown, the
 fifth Core Principle, and the *Amazing Tales* **starter-backdrop** option.
@@ -1280,7 +1270,7 @@ fifth Core Principle, and the *Amazing Tales* **starter-backdrop** option.
   Story Arc begins, **generative not pass/fail**, setting the tone of its opening (*Clear purpose* /
   *More questions than answers* / *Trouble finds you first*). Modeled on *Swear an Iron Vow* minus
   the momentum reward; uses the full core roll so the Strong/Weak/Miss ladder carries the
-  good/middle/poor shape; Oracle's Blessing applies. No balance impact. Part One skips it; Part
+  good/middle/poor shape; doubles upgrade applies. No balance impact. Part One skips it; Part
   Two (Ch.10) teaches it. Also introduced the **Action vs. Frame** move families as the organizing
   lens for the new **The Moves (Master List)** in Section 5 (Sections 5, 6).
 - **Co-op directing rules** added — scene transitions and NPC voicing rotate popcorn-style;
@@ -1347,7 +1337,7 @@ fifth Core Principle, and the *Amazing Tales* **starter-backdrop** option.
 
 - ✅ **Start a Challenge opening roll (2026-06-09)** — a new **Progress move**, the twin of Start
   a Story Arc, rolled once when the heroes *deliberately initiate* a Challenge (skipped when trouble is
-  thrust on them). **2d6 + 1**, generative (Oracle's Blessing on doubles): Strong → **+1** to the
+  thrust on them). **2d6 + 1**, generative (doubles upgrade on): Strong → **+1** to the
   first Challenge Roll, Weak → 0, Miss → **−1**. A one-time bonus to a single roll (the bonus/penalty
   applies to the single first roll, then it's gone), so it never rescales the +2/+1 curve. Sim-cleared as a
   negligible, mostly-flavor nudge — `Math & Simulation Reference.md` §4c. Confirms a temporary ±1

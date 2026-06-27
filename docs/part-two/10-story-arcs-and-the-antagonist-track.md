@@ -18,7 +18,7 @@ A Story Arc has three parts:
 
 ```
 STORY ARC TRACK:    [ ]  [ ]  [ ]
-ANTAGONIST TRACK:   [▲] [ ] [▲] [ ] [▲]    ▲ = the antagonist Closing In (narrated); last box = the antagonist wins  (an Episode)
+ANTAGONIST TRACK:   [▲] [ ] [▲] [ ] [▲]    ▲ = Bad Guys Close In (narrated); last box = the antagonist wins  (an Episode)
 ```
 
 You don't plan *how* each Milestone gets done — that's what play discovers. You only name the Goal, the Milestones, and the antagonist, draw the two rows, and start in the middle of the action.
@@ -29,39 +29,27 @@ A Story Arc comes in one of two sizes, and these are the only two with their own
 
 | Size | Story Arc Track | Antagonist Track | Feels like |
 |---|---|---|---|
-| **Episode** | **3 Milestones** | **5 boxes** (Closing In on 1 · 3 · 5) | one TV episode, told in a single sitting |
-| **Movie** | **6 Milestones** | **9 boxes** (Closing In on 1 · 3 · 5 · 7 · 9) | a feature film, told over ~2–3 sessions |
+| **Episode** | **3 Milestones** | **5 boxes** (Bad Guys Close In on 1 · 3 · 5) | one TV episode, told in a single sitting |
+| **Movie** | **6 Milestones** | **9 boxes** (Bad Guys Close In on 1 · 3 · 5 · 7 · 9) | a feature film, told over ~2–3 sessions |
 
 Pick the size with one question: **a single sitting, or a feature?** An **Episode** is the short, complete story you finish tonight (your first games use only this). A **Movie** is the bigger self-contained story you tell start-to-finish over a couple of sessions — *the heroes are trapped on a space station spiraling into its sun, with until dawn to get everyone off alive.*
 
-The Story Arc Track is one box per Milestone. The **Antagonist Track is longer** and fills a box at a time as the antagonist gains ground (Part B). Its **odd boxes are Closing In beats** — where the antagonist closes in: you cut away and show the bad guys winning something off-screen — and its **last box is their victory.** Sized this way, the antagonist's clock tends to end up *near* full as the heroes reach their finale — the photo-finish a good climax wants — without the heroes ever being railroaded there.
+The Story Arc Track is one box per Milestone. The **Antagonist Track is longer** and fills a box at a time as the antagonist gains ground (Part B). Its **odd boxes are Bad Guys Close In beats** — where the antagonist closes in: you cut away and show the bad guys winning something off-screen — and its **last box is their victory.** Sized this way, the antagonist's clock tends to end up *near* full as the heroes reach their finale — the photo-finish a good climax wants — without the heroes ever being railroaded there.
 
 ### Seasons and Series: Collections, Not Sizes
 
 Episode and Movie are *individual* stories — one Story Arc each. But your game can be far bigger than a single story. Think of your favorite show: a **Series** is made of **Seasons**, and a Season is made of **Episodes** (with the occasional feature-length one). *Lights, Camera, Action!* builds a long game the same way — by **stringing individual Stories together**, not by inventing bigger machinery.
 
-- A **Season** is a **collection of Stories** that share a throughline — a recurring antagonist, a season-long question, a slow-building relationship. You play a run of Episodes (and usually a climactic Movie to close it), connected by a **thread** (below).
+- A **Season** is a **collection of Stories** that share a throughline — a recurring antagonist, a season-long question, a slow-building relationship. You play a run of Episodes (and usually a climactic Movie to close it).
 - A **Series** is **always a collection** — the whole game, a run of Seasons, building to one final reckoning. A Series has no track of its own; it's the shelf all your Seasons sit on.
 
 Neither a Season nor a Series has its own paired Antagonist Track. They're not stories you "play" directly — they're the shape made by the individual Episodes and Movies you *do* play. The recurring antagonist shows up across those individual Stories along the way, and the Season pays off when you play the **Movie** where beating them is the climax.
 
 Look at **Avatar: The Last Airbender.** The whole show is a **Series** (master the elements, stop the Fire Lord). Each Book — Water, Earth, Fire — is a **Season**: a run of Episodes building to a finale. And each week's adventure is an **Episode** with its own little Story Arc. You play the Episodes; the Season and the Series are the shape they add up to.
 
-### Threads: B-plots & Character Arcs
-
-The connective tissue of a Season is a **thread** — a B-plot or a character arc that runs *alongside* the Stories you play. A thread has its **own little progress track**, but **no Antagonist Track and no lose-clock.** It isn't a race; it's a slow burn that advances whenever the fiction genuinely moves it, and **resolves into or beside a Story Arc's climax.**
-
-> *Kaya learns to forgive the brother who betrayed her* is a thread. It has a few progress boxes and no antagonist track — the only thing standing in Kaya's way is her own grief. It ticks at the beats that genuinely move it, usually *inside* an Episode about something else, and it pays off when she changes — often woven into the climax of the Story Arc she's in.
-
-Threads are how a Season feels like more than a list of errands: the recurring rival, the season-long mystery, the romance, the hero's inner change. Give a thread a name and a handful of boxes, and mark one whenever the table agrees it truly advanced.
-
-> **Threads and Growth.** A **shared** thread the whole group is invested in feeds everyone's **Growth** like the main story does. A thread that belongs to **one** character feeds only *that hero's* Growth — a personal arc grows its own hero (Chapter 13).
-
 ### The Headway Rule
 
-Here's the rule that fills the Story Arc Track: **mark a box whenever the table agrees you've made significant headway — a Milestone.** For an Episode that's usually finishing a concrete step ("find the secret entrance"). The same rule fills a thread's boxes — at any turning point that clearly moves *that* thread (a hard-won conversation, a major discovery). If it feels like genuine progress, mark it.
-
-A single big beat can advance more than one track — the Episode's climax that *also* moves a season-long thread marks a box on each. You're not "feeding" one into the other; you're noting that real headway happened on both.
+Here's the rule that fills the Story Arc Track: **mark a box whenever the table agrees you've made significant headway — a Milestone.** For an Episode that's usually finishing a concrete step ("find the secret entrance"). If it feels like genuine progress, mark it.
 
 ### What Makes a Good Milestone (and Quick Ideas)
 
@@ -83,7 +71,7 @@ Mix and match — a Story Arc can blend shapes (a journey that ends in a heist, 
 
 You've named the Goal, the Milestones, and the antagonist, and drawn the two tracks. One thing's left before the first scene: find out *how* the Story Arc opens. **Start a Story Arc** is the move that does it — a single roll, made once as the Story Arc begins, that hands you the tone of your launch and points you straight at your opening scene.
 
-Roll **2d6.** No Stat or Asset applies here — this isn't a test of any hero's skill; it's the world deciding how things stand as you set out, so you roll the bare dice. (And **doubles still trigger Oracle's Blessing**, bumping your opening up a tier — or, if you're already at a 10+, adding an extra stroke of good fortune to your launch.)
+Roll **2d6.** No Stat or Asset applies here — this isn't a test of any hero's skill; it's the world deciding how things stand as you set out, so you roll the bare dice. (And **doubles still bump your opening up a tier** — or, if you're already at a 10+, adding an extra stroke of good fortune to your launch.)
 
 Here's the important part: **this is a roll you can't fail.** All three results are good openings — they only differ in how much trouble is already on the heroes when the camera starts rolling.
 
@@ -109,7 +97,7 @@ Same Milestone, three different heats. Roll, read the temperature, paint the pic
 
 The last Milestone **is** the climax. Fill the final box of the Story Arc Track and the heroes win the Story — there's no separate finishing roll. In practice that closing Milestone is almost always a **climactic Challenge** (reach for **Hard** or **Epic** to make it land — Chapter 8), the final confrontation the whole arc has been building toward; the instant its track fills, the Story Arc is won.
 
-By now the Antagonist Track has usually climbed near its top, so the heroes are racing to complete that last Milestone before the antagonist fills the last box of *theirs.* That race — finishing first, with both clocks near full — is the whole tension of the ending. When the heroes win, play out the victory: finishing a Story Arc is **Downtime** (Chapter 9), so each hero resets to full Readiness and any Broken Asset is restored before the next Story Arc.
+By now the Antagonist Track has usually climbed near its top, so the heroes are racing to complete that last Milestone before the antagonist fills the last box of *theirs.* That race — finishing first, with both clocks near full — is the whole tension of the ending. When the heroes win, play out the victory: finishing a Story Arc is **Downtime** (Chapter 9), so any Broken Asset is restored before the next Story Arc.
 
 ---
 
@@ -119,13 +107,13 @@ By now the Antagonist Track has usually climbed near its top, so the heroes are 
 
 Every Story Arc is a **race between two tracks.** The Story Arc Track is the heroes' progress; the **Antagonist Track** is the antagonist's progress toward *their* goal, running in parallel. It is **the losing side of the same Story Arc** — not a separate arc, but this Story Arc's other end — and a **core part of every Story Arc,** never optional.
 
-The antagonist fills it a box at a time as they gain ground during play. Its **odd boxes are Closing In beats** — you stop and show the antagonist winning something off-screen — and its **last box is their victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. The whole design points at one ending: the heroes reaching their finale with the antagonist's clock *near* full — the **photo-finish.** But nobody is steered there; where the antagonist ends up is the sum of the gambles the heroes took and the luck of the dice (below).
+The antagonist fills it a box at a time as they gain ground during play. Its **odd boxes are Bad Guys Close In beats** — you stop and show the antagonist winning something off-screen — and its **last box is their victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. The whole design points at one ending: the heroes reaching their finale with the antagonist's clock *near* full — the **photo-finish.** But nobody is steered there; where the antagonist ends up is the sum of the gambles the heroes took and the luck of the dice (below).
 
 Each box is one of the antagonist's *own* milestones — the dragon spreading its fire, the rival crew closing on the same treasure, the storm marching toward the city.
 
 ### Drawing the Track
 
-Draw the Antagonist Track as a row beneath the Story Arc Track — **Episode: 5 boxes. Movie: 9 boxes.** **Mark the odd boxes as Closing In** (a different color, a little ▲) so everyone can see which ticks you'll stop and play out. You don't spell out the antagonist's milestones in advance; you decide what each Closing In *means* when it happens (see Closing In, below).
+Draw the Antagonist Track as a row beneath the Story Arc Track — **Episode: 5 boxes. Movie: 9 boxes.** **Mark the odd boxes as Bad Guys Close In** (a different color, a little ▲) so everyone can see which ticks you'll stop and play out. You don't spell out the antagonist's milestones in advance; you decide what each **Bad Guys Close In** beat *means* when it happens (see below).
 
 ### Characterize Your Antagonist
 
@@ -135,7 +123,7 @@ Before you can play "the bad guys gaining ground," you need to know **who the ba
 - Racing a sickness through the village? The **plague** is the antagonist; each box is another street it reaches.
 - Up against a scheming duke? Easy — *he's* the antagonist, and each box is a move in his plan.
 
-Naming this turns each Closing In into a concrete story beat instead of an abstract counter. You're not "marking box three of five" — *the sandstorm hits.*
+Naming this turns each time the bad guys close in into a concrete story beat instead of an abstract counter. You're not "marking box three of five" — *the sandstorm hits.*
 
 > *To make a *person* antagonist into a memorable **character,** see [Chapter 16](../part-three/16-cool-characters.md), which builds antagonists from the same archetypes as heroes.*
 
@@ -152,16 +140,16 @@ A few things follow:
 - **The pressure is player-authored.** Most of the antagonist's climb comes from Devil's Bargains — choices the heroes make under fire. The clock is a mirror of how hard they've been pushing their luck.
 - **It can't be gamed to zero.** Even a cautious party that never bargains still faces doubles-Misses and the odd knockdown, so the antagonist always creeps. A party that bargains freely sees the clock race — which is exactly the tense story they're choosing to tell.
 
-### Closing In: Playing Out an Antagonist Beat
+### Bad Guys Close In: Playing Out an Antagonist Beat
 
-You don't narrate an antagonist beat on *every* box — only on the **odd "Closing In" boxes** (1, 3, 5, and on a Movie 7, 9). The even boxes are silent pressure: the music tightening, the walls inching in, no scene needed. This keeps the antagonist's *story* beats paced even when boxes fill in a rush — two bargains in one fight just slide the clock along, and you play the Closing In beat when the next odd box lands.
+You don't narrate an antagonist beat on *every* box — only on the **odd "Bad Guys Close In" boxes** (1, 3, 5, and on a Movie 7, 9). The even boxes are silent pressure: the music tightening, the walls inching in, no scene needed. This keeps the antagonist's *story* beats paced even when boxes fill in a rush — two bargains in one fight just slide the clock along, and you play the **Bad Guys Close In** beat when the next odd box lands.
 
-When a **Closing In box** fills, **stop and play it out:**
+When a **Bad Guys Close In box** fills, **stop and play it out:**
 
 1. **Envision what the antagonist did off-screen.** The cult finished the first ritual; the warlord seized the bridge; the flood reached the lower town; the **sandstorm** rolled in and buried the trail.
 2. **Bring it on-screen as a complication.** A new obstacle, an escalated threat, an ally captured, the deadline jumped closer. The world visibly tightens.
 
-Each Closing In is an open invitation to bend the plot — the cost of all that pushing made flesh. (And because you **characterized your antagonist,** you always know whose face to put on it — even when the "antagonist" is a desert.) The **last box is the antagonist's victory:** if it fills before the heroes finish, play it as the bad guys winning the whole Story (Part C).
+Each time the bad guys close in is an open invitation to bend the plot — the cost of all that pushing made flesh. (And because you **characterized your antagonist,** you always know whose face to put on it — even when the "antagonist" is a desert.) The **last box is the antagonist's victory:** if it fills before the heroes finish, play it as the bad guys winning the whole Story (Part C).
 
 ### Losing Before the Climax (Out of Action)
 
@@ -185,26 +173,25 @@ Then let that answer reshape your setting and spark the **next** Story Arc — d
 
 ### Running Long: Seasons & Series
 
-To play past a single story, you **chain Stories together** — you don't run them all at once. Keep **one Story Arc in the spotlight at a time** (the Episode or Movie you're playing now), and let **threads** carry the longer questions between them.
+To play past a single story, you **chain Stories together** — you don't run them all at once. Keep **one Story Arc in the spotlight at a time** (the Episode or Movie you're playing now), and let a recurring antagonist or a season-long question carry the longer throughline between them.
 
 **Two good ways to find your long game — both equally valid.** Some tables plan; some discover. Pick whichever fits:
 
-- **Grow it.** Start with a world, some heroes, and an Episode or two, and let the long story *reveal itself.* Play an Episode; want more, play another and decide how connected it is; when a throughline emerges — a foe you keep circling, a goal that spans sessions — **name it as a thread**, and a **Season** is taking shape. Keep going and it's a **Series.** Perfect for "let's just start and see."
+- **Grow it.** Start with a world, some heroes, and an Episode or two, and let the long story *reveal itself.* Play an Episode; want more, play another and decide how connected it is; when a throughline emerges — a foe you keep circling, a goal that spans sessions — **name it**, and a **Season** is taking shape. Keep going and it's a **Series.** Perfect for "let's just start and see."
 - **Plan it.** Start with the **big idea** — the Series concept (*defeat the Fire Lord*, *stop Sephiroth and save the Planet*), and maybe the Season concepts too — then figure out the Episodes week to week, aimed at it. Perfect for the outliners. *You're still inventing the scenes as you go;* you've simply named the destination first, and even the Episodes are usually discovered in play.
 
-The play itself is identical either way — **one Story at a time, invented scene by scene.** The only difference is whether you name the grand arc up front or find it along the way — and you can switch mid-stream: grow organically until the big idea clicks, then start steering toward it. Nothing penalizes a late start, either: each Story **resets at Downtime** and **threads and Growth are purely additive**, so you can name a Season thread the moment you spot it, tracking something that was already building. (First time out, **start with an Episode, not a Movie** — an Episode is one sitting; a Movie is a 2–3 session commitment.)
+The play itself is identical either way — **one Story at a time, invented scene by scene.** The only difference is whether you name the grand arc up front or find it along the way — and you can switch mid-stream: grow organically until the big idea clicks, then start steering toward it. Nothing penalizes a late start, either: each Story **resets at Downtime** and **Growth is purely additive**, so you can name a Season the moment you spot its throughline, tracking something that was already building. (First time out, **start with an Episode, not a Movie** — an Episode is one sitting; a Movie is a 2–3 session commitment.)
 
-> **Coming from D&D — or any campaign game?** You can absolutely tell a long, *structured* epic with this. It just isn't one sprawling, never-resetting arc — it's a **saga built from self-contained stories**, exactly like a film series. *The Lord of the Rings* is a **Series** of three **Movies**; a franchise like the Marvel films is a Series of **Seasons** (its "phases"), each a run of Movies, threaded with character arcs and a big bad who recurs and finally falls in the finale. Same nesting you already know, just bigger — and you still only ever play one Story at a time. The structure comes from the *chaining and the threads*, not from one giant arc you have to plan up front.
+> **Coming from D&D — or any campaign game?** You can absolutely tell a long, *structured* epic with this. It just isn't one sprawling, never-resetting arc — it's a **saga built from self-contained stories**, exactly like a film series. *The Lord of the Rings* is a **Series** of three **Movies**; a franchise like the Marvel films is a Series of **Seasons** (its "phases"), each a run of Movies, tied together by a big bad who recurs and finally falls in the finale. Same nesting you already know, just bigger — and you still only ever play one Story at a time. The structure comes from the *chaining*, not from one giant arc you have to plan up front.
 
-> **Tracking the bigger arcs (either way).** However you got here — planned or grown — keep the bookkeeping light. Once you have a destination, name it in a sentence or two: that's your **Series** (*"Master the elements and defeat the Fire Lord"*). Note a medium-term throughline as it sharpens — that's a **Season** (*"Master earthbending"*), tracked as a **thread**. Then just **play Episodes** — and when one genuinely moves the season-long thread, mark a box on it. When a Season's thread is ready to pay off, you play the **Movie** that resolves it: the recurring antagonist takes center stage in that Movie, and beating them is its climax. Seasons end; a new one begins; the Series is the shape they add up to.
+> **Tracking the bigger arcs (either way).** However you got here — planned or grown — keep the bookkeeping light. Once you have a destination, name it in a sentence or two: that's your **Series** (*"Master the elements and defeat the Fire Lord"*). Note a medium-term throughline as it sharpens — that's a **Season** (*"Master earthbending"*). Then just **play Episodes** toward it. When a Season's throughline is ready to pay off, you play the **Movie** that resolves it: the recurring antagonist takes center stage in that Movie, and beating them is its climax. Seasons end; a new one begins; the Series is the shape they add up to.
 
 Three habits keep a long game coherent:
 
-- **One spotlight Story Arc at a time.** Many things can be *in motion* (the current Episode, a couple of threads), but a given Scene is almost always about the Episode in front of you. Switch focus at natural breaks, not mid-scene.
-- **Mark threads when big beats happen.** A season-long thread moves whenever a Scene genuinely advances it — most often the climax of tonight's Episode.
+- **One spotlight Story Arc at a time.** A given Scene is almost always about the Episode in front of you. Switch focus at natural breaks, not mid-scene.
 - **Let Stories cross-pollinate.** Winning one changes the situation in another (freeing an ally who then helps; angering a faction that now opposes you). That's how a setting starts to feel alive.
 
-For most groups — and almost all first games — a single Episode is plenty. Add a Season thread once the table wants something carrying across adventures, and start naming a Series once you're committing to the long haul.
+For most groups — and almost all first games — a single Episode is plenty. Name a Season once the table wants something carrying across adventures, and start naming a Series once you're committing to the long haul.
 
 > **Story Seeds (sidebar).** Stuck for a premise? Grab one of these and bend it to your Worldbuilding. Each is just a spark — a Goal and a hint of trouble, not a plotted adventure.
 >

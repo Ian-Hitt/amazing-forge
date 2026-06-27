@@ -107,7 +107,7 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
   </div>
 
   <h3 class="af-break">Readiness</h3>
-  <p class="af-hint">Start at 9; it stays your max all game. Cross off as it drops — Weak Hit &minus;1, Miss &minus;2. At 0 you're Out of Action and one Asset breaks (and the antagonist advances). On a Miss you may take the <b>Devil's Bargain</b>: upgrade to a Strong Hit and refuse the loss &rarr; the antagonist advances one box (not if it would knock you Out of Action). <b>Mend</b> (any scene, self or ally): Strong +3 / Weak +2 / Miss &minus;1; capped at 9, can't revive a downed hero. <b>Recovery Scene</b> (fall back to regroup): the party heals fully back to <b>9</b> — no roll, automatic. <b>Downtime</b> (between Story Arcs) also heals everyone to full and restores Broken Assets.</p>
+  <p class="af-hint">Start at 9; it stays your max all game. Cross off as it drops — Weak Hit &minus;1, Miss &minus;2. At 0 you're Out of Action and one Asset breaks (and the antagonist advances). On a Miss you may take the <b>Devil's Bargain</b>: upgrade to a Strong Hit and refuse the loss &rarr; the antagonist advances one box (not if it would knock you Out of Action). <b>Mend</b> (any scene, self or ally): Strong +3 / Weak +2 / Miss &minus;1; capped at 9, can't revive a downed hero. <b>Recovery Scene</b> (fall back to regroup): the party heals fully back to <b>9</b> — no roll, automatic. <b>Downtime</b> (between Story Arcs) restores Broken Assets.</p>
   <div class="af-track af-readiness">
     <span class="af-box">0</span>
     <span class="af-box">1</span>
@@ -135,5 +135,5 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
   <h3>Story Arc Notes</h3>
   <div class="af-notes"></div>
 
-  <p class="af-ref"><b>The Roll:</b> 2d6, +1 if a fitting Stat &middot; +1 if a fitting Asset (+2 for both, +0 for neither). &nbsp; <b>10+</b> Strong Hit &middot; <b>7&ndash;9</b> Weak Hit &middot; <b>6&minus;</b> Miss. &nbsp; Doubles upgrade one tier (Oracle's Blessing). A Hit means you narrate the change.</p>
+  <p class="af-ref"><b>The Roll:</b> 2d6, +1 if a fitting Stat &middot; +1 if a fitting Asset (+2 for both, +0 for neither). &nbsp; <b>10+</b> Strong Hit &middot; <b>7&ndash;9</b> Weak Hit &middot; <b>6&minus;</b> Miss. &nbsp; Doubles: upgrade a Hit one tier; a Miss on doubles advances the antagonist. A Hit means you narrate the change.</p>
 </div>

@@ -36,7 +36,7 @@ Difficulty is a **screen-time dial,** not a balance setting: you pick Hard for t
 
 When the heroes **choose to start** a Challenge — they pick the fight, breach the vault, decide to ford the rapids *now* — make one quick roll to see how the opening breaks. This is **Start a Challenge,** the Challenge-sized cousin of Start a Story Arc (Chapter 10).
 
-Roll **2d6** flat — no modifier. This isn't a test of any one hero's Stats or Assets, it's the dice setting the scene — but **doubles still trigger Oracle's Blessing** (bump the result up one tier — and if you roll doubles on a result that's *already* a 10+, take the top result **plus** a small extra edge of your choice). You can't fail it; it just decides who has the jump as the Scene begins:
+Roll **2d6** flat — no modifier. This isn't a test of any one hero's Stats or Assets, it's the dice setting the scene — but **doubles still bump the result up one tier** (and if you roll doubles on a result that's *already* a 10+, take the top result **plus** a small extra edge of your choice). You can't fail it; it just decides who has the jump as the Scene begins:
 
 | Roll | Opening | Effect |
 |---|---|---|

@@ -87,7 +87,7 @@
 
 > *Note: Part Two has the full d10 Pay the Price table and guidance on picking the most cinematic complication.*
 
-**Oracle's Blessing**
+**Doubles**
 *Purpose: Doubles upgrade your result by one tier. Outstanding Success on Strong + doubles. Optional but fun — introduce it here as a delightful surprise rule.*
 
 ---
@@ -111,7 +111,7 @@
 > *Note: Part Two covers the Recovery Scene in depth, the three ways the Antagonist Track advances, Out of Action as the loss vector, and Downtime — the between-Stories reset.*
 
 **Finishing the Story Arc**
-*Purpose: Reach the climax (complete the last Story Arc box) → the Story is complete. Describe the victory. Finishing resets the party to full Readiness (Downtime). Celebrate, then decide what comes next.*
+*Purpose: Reach the climax (complete the last Story Arc box) → the Story is complete. Describe the victory. Finishing prompts Downtime (restore any Broken Asset; the party is already at full Readiness via Recovery Scenes). Celebrate, then decide what comes next.*
 
 ---
 
@@ -150,7 +150,7 @@
 **Aid Your Ally**
 *Purpose: Spend your turn helping instead of acting. Roll +2 if an Asset fits the help. Strong = +2 to ally's next roll; Weak = +1; Miss = no bonus, no Readiness loss. Best use of a turn when the current obstacle isn't in your wheelhouse. (Lives in Ch.7 because it's a way the core Roll is used; it shows up most often inside a Challenge — cross-ref Ch.8.)*
 
-**Oracle's Blessing / Outstanding Success**
+**Doubles / Outstanding Success**
 *Purpose: Full doubles rule. Outstanding Success: on Strong + doubles, the player adds a narrative bonus of their choice — spell out examples of what that might look like.*
 
 **Design Note: Why +0/+1/+2 (Stats and Assets)** *(revised 2026-06-22)*
@@ -211,10 +211,10 @@
 *Purpose: A small, risky patch available in ANY scene (a Challenge is just a scene with a track — in one, Mending is your turn instead of a Challenge Roll). Self or ally: Strong +3 / Weak +2 / Miss −1 Readiness, capped at 9. Never advances the antagonist; no usage cap; can't revive someone Out of Action. What keeps it honest: the −1 risk — a tactical patch-vs-push choice. A Miss can knock you Out of Action.*
 
 **The Recovery Scene (Fall Back and Regroup)**
-*Purpose: Recovery is fiction-gated (a safe lull, most often between Challenges) and player-chosen — never scheduled. A Recovery Scene heals the WHOLE party fully back to 9, reliably (no roll) and free — recovery is never a trigger, so the antagonist gains nothing. Readiness max stays 9 all game. It's the quiet/B-plot beat; fall back as often as the fiction allows.*
+*Purpose: Recovery is fiction-gated (a safe lull, most often between Challenges) and player-chosen — never scheduled. A Recovery Scene heals the WHOLE party fully back to 9, reliably (no roll) and free — recovery is never a trigger, so the antagonist gains nothing. Readiness max stays 9 all game. It's the quiet character beat; fall back as often as the fiction allows.*
 
 **Downtime (Between Story Arcs)**
-*Purpose: Finishing a Story Arc heals everyone to full and restores any Broken Asset. The slow-down-and-roleplay breather between adventures (optional d6 prompt). You always start the next Story Arc fresh.*
+*Purpose: Between Story Arcs, the party takes Downtime to restore any Broken Asset (and handle Growth bookkeeping). NOT a healing move — Recovery Scenes already heal the party fully, free, any time, so Downtime's job is restoring what going Out of Action broke. The slow-down-and-roleplay breather between adventures (optional d6 prompt). You always start the next Story Arc fresh.*
 
 **Out of Action: the Loss Vector**
 *Purpose: A hero at 0 goes Out of Action, which advances the antagonist a box on the spot — and near the end that box can be the antagonist's last, losing the Story before the heroes finish. The team must fall back to get a downed hero up. Readiness is ammunition against the antagonist's clock, not a survival meter. Also breaks an Asset until the between-Stories Downtime restores it.*
@@ -243,10 +243,10 @@
 *Purpose: A Story is one spine with two tracks. Only two sizes carry box machinery — Episode (3 Milestones / 5-box Antagonist Track, one sitting) and Movie (6 Milestones / 9-box Antagonist Track, one complete feature over ~2–3 sessions) — the same at any party size. Pick with one question ("a single sitting, or a feature?"). The Antagonist Track is sized so the antagonist tends to land one step from winning at the climax (the photo-finish). Box counts are defaults you can stretch.*
 
 **Seasons and Series Are Collections, Not Sizes**
-*Purpose: Episode and Movie are individual stories; Season and Series describe how you string them together over a long game — prose patterns, no new machinery. A Season is usually a collection of Episodes/Movies sharing a throughline (recurring antagonist, a season-long question carried by a B-plot thread); occasionally a single long serialized spine (just a big Movie). A Series is always a collection — the whole game, a run of Seasons. How to plan and connect them.*
+*Purpose: Episode and Movie are individual stories; Season and Series describe how you string them together over a long game — prose patterns, no new machinery. A Season is usually a collection of Episodes/Movies sharing a throughline (a recurring antagonist, a season-long question carried from one Story to the next); occasionally a single long serialized spine (just a big Movie). A Series is always a collection — the whole game, a run of Seasons. How to plan and connect them.*
 
-**The Headway Rule, and B-plot Threads**
-*Purpose: Mark a Story Arc Track box on significant headway (a Milestone). B-plots and character arcs are threads riding alongside the spine — a light progress track, NO Antagonist Track / no lose-clock; they resolve into or beside the spine's climax. Threads are the connective tissue of a Season.*
+**The Headway Rule**
+*Purpose: Mark a Story Arc Track box on significant headway (a Milestone). One rule fills every box: the table agrees the heroes made significant progress toward the Goal.*
 
 **What Makes a Good Milestone (and Quick Ideas)**
 *Purpose: A Milestone is a chapter made of several Scenes (a Scene = one/a few Regular Rolls, or a full Challenge) — NOT a single Challenge. How to build one from Scenes; examples (Sun Crystal). Plus a quick-start list of milestone ideas by Story Arc type (rescue / heist / journey / investigation / confrontation) to pick from or spark off.*
@@ -263,16 +263,16 @@
 *Purpose: The Antagonist Track is the losing side of the same Story Arc — not a separate arc, its other end — running in parallel, a core part of every arc (not optional). The race between the two tracks. Why it's mandatory: it's the other half of the race — without it there's no clock to lose to.*
 
 **Drawing the Track**
-*Purpose: Episode 5 boxes / Movie 9 boxes — the same at any party size. Its odd boxes (1·3·5, plus 7·9 on a Movie) are Closing In beats — narrated antagonist beats; even boxes are silent pressure; the last box is the antagonist's victory.*
+*Purpose: Episode 5 boxes / Movie 9 boxes — the same at any party size. Its odd boxes (1·3·5, plus 7·9 on a Movie) are Bad Guys Close In beats — narrated antagonist beats; even boxes are silent pressure; the last box is the antagonist's victory. (The short form "Closing In" is the abbreviation printed on the physical Story Arc sheet only.)*
 
 **Characterize Your Antagonist**
-*Purpose: The antagonist can be a person, faction, or a force (a desert, a plague, a deadline). Give it a face — name what it wants and what "winning" looks like — so every Closing In is a concrete beat (the desert → a sandstorm).*
+*Purpose: The antagonist can be a person, faction, or a force (a desert, a plague, a deadline). Give it a face — name what it wants and what "winning" looks like — so every time the bad guys close in, it's a concrete beat (the desert → a sandstorm).*
 
 **How It Fills: The Three Triggers**
 *Purpose: The Antagonist Track advances one box in exactly three ways — a hero takes the **Devil's Bargain** (the main, player-authored engine: on a Miss, forgo the loss and upgrade to a Strong Hit in exchange for +1 antagonist), a **Miss comes up doubles** (the random pressure nobody controls), or a hero goes **Out of Action** (the catastrophe). Recovery is never a trigger. Cross-ref Ch7/Ch9.*
 
-**Closing In: Playing Out an Antagonist Beat**
-*Purpose: On the odd "Closing In" boxes, stop and play it out — what did the antagonist accomplish off-screen, and how does it tighten things? Even boxes are silent pressure (no scene needed). A filled Closing In box is an open invitation to bend the plot.*
+**Bad Guys Close In: Playing Out an Antagonist Beat**
+*Purpose: On the odd "Bad Guys Close In" boxes, stop and play it out — what did the antagonist accomplish off-screen, and how does it tighten things? Even boxes are silent pressure (no scene needed). A filled Bad Guys Close In box is an open invitation to bend the plot.*
 
 **Losing Before the Climax (Out of Action)**
 *Purpose: A hero taken Out of Action advances the antagonist a box on the spot — and near the end that box can be the antagonist's last, the antagonist winning before the heroes finish. The real risk; why Readiness is ammunition against the clock, not a survival meter (heroes can't die).*
@@ -286,7 +286,7 @@
 *Purpose: If the antagonist takes the climax box, or the heroes Quit the Story (the terminal fall back), the Story is lost — and that's okay. No mechanical penalty or bonus. A loss is a story beat: ask "how did the world change now that the antagonists won?", reshape the setting, write a new Story born from this defeat.*
 
 **Running Long: Seasons and Series**
-*Purpose: How to chain individual Stories into a Season (a throughline + connecting threads) and Seasons into a Series. One Story in the spotlight at a time; threads (B-plots) carry the season-long questions between them. Keeping a long game coherent without juggling concurrent lose-clocks.*
+*Purpose: How to chain individual Stories into a Season (a shared throughline) and Seasons into a Series. One Story in the spotlight at a time; a recurring antagonist or season-long question carries between them. Keeping a long game coherent without juggling concurrent lose-clocks.*
 
 `💡 Idea: A short "Story Arc Seeds" sidebar — 6–8 one-sentence Story Arc premises across genres, just enough to spark ideas without prescribing adventures.`
 
@@ -358,7 +358,7 @@
 *Purpose: NPCs have no stats — they're purely fictional forces. How to make them feel real without a stat block; when they push back, help, complicate, or get out of the way. The Co-op rule: when you speak for an NPC your own hero steps back (you can't argue with yourself); group-narrate for big moments.*
 
 **Pacing: The Story Clock**
-*Purpose: The two pacing dials — track difficulty and Milestone timing. The full 40-Minute Rule (an Episode, 3 boxes, ~2 hours at ~40 min/Milestone). Reading the room: when to slow down for story, when to resolve fast. When to skip vs. play out (montage or full scene?). Ending a session well — steer toward a cliffhanger or breather, not "we ran out of time."*
+*Purpose: The two pacing dials — track difficulty and Milestone timing. The full One-Hour Rule (an Episode, 3 boxes, ~3 hours at ~1 hour/Milestone). Reading the room: when to slow down for story, when to resolve fast. When to skip vs. play out (montage or full scene?). Ending a session well — steer toward a cliffhanger or breather, not "we ran out of time."*
 
 **Safety at the Table**
 *Purpose: A light, practical safety tool. Anyone at the table can skip or soften content that's not fun — no explanation needed. How to introduce it at the start of a session. Especially important with kids or new players.*
@@ -382,7 +382,7 @@
 *Purpose: The menu. Boon = 2 Growth, a once-per-Scene/Session signature move attached to an existing Asset (max 2 per Asset). New Asset = 5 Growth, ceiling 6 — Trade In one to exceed. The table with costs and limits.*
 
 **The Boon Menu**
-*Purpose: Boons are horizontal — special moves, never modifiers. Starter list with examples: Signature Move (banked Oracle's Blessing), Take the Hit (companion pays a Price), Reliable (reroll a Miss). How to invent table-specific Boons that stay horizontal.*
+*Purpose: Boons are horizontal — special moves, never modifiers. Starter list with examples: Signature Move (banked doubles upgrade), Take the Hit (companion pays a Price), Reliable (reroll a Miss). How to invent table-specific Boons that stay horizontal.*
 
 **Why Growth Is Horizontal (Design Note)**
 *Purpose: The payoff — a starting hero and a campaign veteran roll the same 2d6+2; the veteran just has more tools and spotlight moments. So you never rescale Challenge/Antagonist tracks. Note "Widen the Domain" was considered and cut as the lone power-creep path.*
@@ -478,13 +478,13 @@
 *Purpose: The full roster on one printable card, grouped by family — **Action Moves** (resolve a hero's attempt: The Roll, Aid Your Ally, Mend, Downtime) and **Frame Moves** (establish/shift the situation: Start a Story Arc, Ask the Oracle, Pay the Price, Fall back, Quit the Story Arc). One line each: what it does, what you roll, plus the core-roll legend. Designed to print and sit in the middle of the table. Mirrors "The Moves (Master List)" in the mechanics reference. (**Action move** / **Frame move** are now canonical Standard Vocabulary, locked 2026-06-09.)*
 
 **The Roll** *(revised 2026-06-22)*
-*Purpose: Outcomes table (Strong Hit / Weak Hit / Miss), modifier rules (+0/+1/+2 — Stat, Asset, both, or neither), Oracle's Blessing. One page.*
+*Purpose: Outcomes table (Strong Hit / Weak Hit / Miss), modifier rules (+0/+1/+2 — Stat, Asset, both, or neither), Doubles. One page.*
 
 **Challenges**
 *Purpose: Difficulty scaling, turn structure, outcome table, ending a Challenge. One page.*
 
 **Readiness & Recovery**
-*Purpose: Readiness loss, Mend (Strong +3 / Weak +2 / Miss −1, capped at 9, never advances the antagonist), the Recovery Scene (full heal to 9, free), Downtime (full heal), Out of Action rules, cap (9).*
+*Purpose: Readiness loss, Mend (Strong +3 / Weak +2 / Miss −1, capped at 9, never advances the antagonist), the Recovery Scene (full heal to 9, free), Downtime (restores Broken Assets between Story Arcs — not a heal), Out of Action rules, cap (9).*
 
 **Story Arcs**
 *Purpose: Story Arc Track lengths (Episode 3 Milestones / Movie 6) and Antagonist Track sizes (Episode 5 / Movie 9, the same at any party size), what a Milestone is, finishing a Story Arc.*
@@ -521,7 +521,7 @@
 **Mechanics coverage checklist** (every item in the master reference accounted for):
 - ✅ Core Roll (Ch. 4, Ch. 7)
 - ✅ Regular vs. Challenge Rolls (Ch. 5, Ch. 7)
-- ✅ Oracle's Blessing / Outstanding Success (Ch. 4, Ch. 7)
+- ✅ Doubles / Outstanding Success (Ch. 4, Ch. 7)
 - ✅ Narrate the Change (Ch. 7)
 - ✅ Challenges — full loop (Ch. 5 brief, Ch. 8 full)
 - ✅ Aid Your Ally (Ch. 7; used most often inside a Challenge, cross-ref Ch. 8)
@@ -534,12 +534,12 @@
 - ✅ Story Arcs & Story Arc Track (Ch. 3 brief, Ch. 10 full)
 - ✅ Start a Story Arc — opening roll, generative Frame move (Ch. 10; Part One skips it)
 - ✅ Antagonist Track — CORE, the Devil's Bargain spine (Ch. 3 brief, Ch. 10 full)
-- ✅ Closing In & the three triggers (Ch. 10)
+- ✅ Bad Guys Close In & the three triggers (Ch. 10)
 - ✅ Worldbuilding — 10 questions (Ch. 1 brief, Ch. 14 full)
 - ✅ Ask the Oracle / Story Spark / Ask the Dice (Ch. 5 brief, Ch. 11 full)
 - ✅ Guided Play (Ch. 12)
 - ✅ Co-op Play (Ch. 12)
-- ✅ Pacing / 40-Minute Rule (Ch. 5 intro, Ch. 12 full)
+- ✅ Pacing / One-Hour Rule (Ch. 5 intro, Ch. 12 full)
 - 🚧 Character Advancement (Ch. 13 — placeholder only, undecided)
 
 **Standard Vocabulary check:** All terms in this outline match the canonical list in the master reference. No deviations found.

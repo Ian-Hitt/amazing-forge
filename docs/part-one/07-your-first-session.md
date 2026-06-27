@@ -85,7 +85,7 @@ CHALLENGE TRACK:   [ ]  [ ]  [ ]
 
 🎲 Maya rolls **5 + 5 = 10**, plus 1 = **11.** → **Strong Hit — and doubles!**
 
-> **▶ Rules note — Oracle's Blessing (Chapter 4).** Matching dice upgrade the result one tier. A Strong Hit with doubles becomes an **Outstanding Success.** Maya fills a box *and* adds a narrative bonus: her ice-bridge is so solid it will make the crossing easier for Snik.
+> **▶ Rules note — Doubles (Chapter 4).** Matching dice upgrade the result one tier. A Strong Hit with doubles becomes an **Outstanding Success.** Maya fills a box *and* adds a narrative bonus: her ice-bridge is so solid it will make the crossing easier for Snik.
 
 **Fill box 1.** Brave makes it across. (No price — it was a hit.)
 
@@ -184,7 +184,7 @@ STORY ARC TRACK:    [X]  [X]  [X]   ← last Milestone complete — Story Arc wo
 ANTAGONIST TRACK:   [X]  [ ]  [ ]  [ ]  [ ]   ← the King only ever got one box
 ```
 
-> **▶ Rules note — finishing the Story Arc (Chapter 5).** Reaching the last Milestone is the climax and the win. The Goblin King climbed only one box — a clean run — but a single doubles-Miss showed how he gains ground without anyone choosing it. Finishing is **Downtime:** everyone resets to full Readiness, ready for the next Story Arc.
+> **▶ Rules note — finishing the Story Arc (Chapter 5).** Reaching the last Milestone is the climax and the win. The Goblin King climbed only one box — a clean run — but a single doubles-Miss showed how he gains ground without anyone choosing it. Finishing leads into **Downtime** — the reset between Stories that restores any Broken Assets, ready for the next Story Arc.
 
 The Sun Crystal goes back above the village square, light and warmth return, and the elders hail two unlikely heroes — a knight on a dragon and a grumpy goblin who came home just long enough to save the day.
 
