@@ -61,15 +61,35 @@ winning blow *is* the antagonist closing in for the last time).
 **Same track size at any party size** — the duo/two-player special case (and the whole "Playing as a
 Pair" subsystem) is **deleted.**
 
-**4. Challenge difficulty — fixed, not party-scaled ("Option B", Starforged-style).**
+**4. Challenge ladder — fixed length, damage scales with hero count (REVISED 2026-06-27).**
 
-| Easy | Medium | Hard | Very Hard |
-|---|---|---|---|
-| **2** | **3** | **4** | **5** |
+| Normal | Hard | Epic *(peak only)* |
+|---|---|---|
+| **3** | **6** | **9** |
 
-Party-**independent**: a fixed-size track takes ~the same number of rolls regardless of who's rolling,
-so **total rolls per Story become party-independent → the clock needs no scaling.** One difficulty
-table, one clock table, **zero party-size rules** (this is what removes the duo special case).
+Three tiers, the **same box count at any number of heroes**; nothing shorter than a Normal gets a track
+(a roll or two, just play it out). **Tier sets the *length;* hero count sets the *damage.*** Pay the
+Price scales with the number of heroes in the scene (the roller takes the hit):
+
+| Heroes | Weak | Miss |
+|---|---|---|
+| **2–3** | **−1** | **−2** |
+| **4–5** | **−2** | **−3** |
+
+*Why this shape.* Box counts are still party-independent, so total rolls per Story stay flat and the
+**Antagonist clock still needs no party scaling.** But a fixed track gets *trivially easy* for a big
+party (5 heroes share one 9-box Epic → ~2 Readiness each at flat damage — see the per-box table below),
+so the **+1 damage at 4–5 heroes** restores per-hero stakes *without lengthening the track* (which would
+slow the game and add doubles-Miss clock ticks). Targets were ~2 / 4 / 6 Readiness per hero for
+Normal / Hard / Epic; 3/6/9 boxes map to those at a constant ⅔ ratio, so one party-only damage dial
+serves all three tiers. Rejected: scaling **boxes** by party (long, slow — a 5-hero Epic would hit ~21
+rolls); **Miss −4** at 4–5 (too spiky — a wounded hero drops in two missed rolls). Validation:
+`readiness_per_box.py` (rolls + per-hero Readiness + doubles-Miss ticks per tier) and a turn-rotation
+Out-of-Action sim. **Supersedes** the "Option B" fixed ladder (Easy 2 / Med 3 / Hard 4 / Very Hard 5).
+
+**4b. Players vs. characters.** Designed for **2–6 players;** up to 6 players = **5 characters + a
+Guide** (so the hero count the math sees runs **2–5**). Solo dropped. For 5–6 players, recommend one
+Guide. The challenge ladder above keys off **hero count, not player count.**
 
 **5. Loss is a tail, not a target.** The dramatic deliverable is the **photo-finish** (antagonist ends
 *one box from winning*); loss is the rare *earned* overrun. We tune for photo-finish frequency and let
@@ -77,9 +97,13 @@ loss fall where it may — earlier loss-rate targeting (the 10% goal) is abandon
 narratable: you cut a corner (bargain), fate swung (matches), or you fell (OoA).
 
 **Validation (`sim_devils.py` / `sim_devils2.py`):** rule = can't-bargain-knockout + OoA ticks;
-recovery at Readiness ~4; Option B fixed sizing (Easy 2 / Med 3 / Hard 4, party-independent).
-Photo-finish % = antagonist ends one box from winning; loss % = antagonist overruns. Three table
-temperaments by bargaining appetite:
+recovery at Readiness ~4. *Note: the clock figures below were computed under the old "Option B" sizing
+(Easy 2 / Med 3 / Hard 4) and flat Miss −2; they predate the 2026-06-27 ladder (Normal 3 / Hard 6 /
+Epic 9 + hero-count damage). They still stand as the antagonist-clock tuning — loss is a tail, not a
+target (free fall-back), so the box-size change doesn't move the design goal — but the per-Story rolls
+are now somewhat higher (longer Hard/Epic tracks), nudging photo-finish/loss up a little. The new
+ladder's feel is validated separately by `readiness_per_box.py`.* Photo-finish % = antagonist ends one
+box from winning; loss % = antagonist overruns. Three table temperaments by bargaining appetite:
 
 | Story | cautious | realistic | reckless |
 |---|---|---|---|
@@ -302,14 +326,14 @@ all-Easy *floor*; expected play sits at the §0b numbers above.
 | Miss | total **6 or less** |
 | Oracle's Blessing | doubles upgrade a **Hit** one tier; doubles on a **Miss** advance the Antagonist Track +1 (no upgrade) *(§0)* |
 | Readiness — start / max | **9**; max **stays 9 all game** (no ratchet) *(§0)* |
-| Pay the Price — Weak Hit | **−1** Readiness |
-| Pay the Price — Miss | **−2** Readiness (unless a Devil's Bargain is taken — §0) |
+| Pay the Price — Weak Hit | **−1** Readiness *(−2 at 4–5 heroes — §0)* |
+| Pay the Price — Miss | **−2** Readiness *(−3 at 4–5 heroes)* (unless a Devil's Bargain is taken — §0) |
 | Devil's Bargain | on a **Miss**: refuse the Readiness loss + upgrade to Strong Hit, in exchange for **Antagonist Track +1**; optional; **not allowed on a knockout roll** *(§0)* |
 | Mend (any-scene patch, ungated) | **+3** Strong / **+2** Weak / **−1** Miss Readiness (capped at 9); **never advances the antagonist**; can't revive Out of Action *(§0)* |
 | Recovery Scene (fall back & regroup) | restores party **fully to 9**, reliable, **FREE — never advances the Antagonist Track** *(§0)* |
 | Downtime (between Story Arcs) | heals to full, restores a Broken Asset; free; antagonist's clock resets |
 | Out of Action | Readiness = **0** (recoverable; not death); **advances the Antagonist Track +1** + breaks an Asset (loss vector) *(§0)* |
-| Challenge length — Easy / Medium / Hard / Very Hard | **2 / 3 / 4 / 5 boxes — fixed, party-independent ("Option B")** *(Very Hard = climaxes only; §0)* |
+| Challenge length — Normal / Hard / Epic | **3 / 6 / 9 boxes — fixed, same at any hero count** *(Epic = peak moments only; nothing shorter than Normal gets a track; tier = length, hero count = damage — §0)* |
 | Story Arc Track length — Episode / Movie | **3 / 6** Milestones *(§0; Season/Series are prose collections, no box machinery)* |
 | Antagonist Track length — Episode / Movie | **5 / 9** boxes — same at any party size; odd boxes are narrated Closing In beats; last box = antagonist wins *(§0)* |
 

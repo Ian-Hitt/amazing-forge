@@ -14,20 +14,23 @@ The call is **always a story question, never a tactical one** (in Co-op, made by
 
 ### Setting the Difficulty
 
-When you draw a track, its length is set by **difficulty alone** — not by how many players are at the table:
+When you draw a track, its length is set by **difficulty alone** — the same at any number of heroes:
 
 | Difficulty | Boxes |
 |---|---|
-| **Easy** | **2** |
-| **Medium** | **3** |
-| **Hard** | **4** |
-| **Very Hard** *(climaxes only)* | **5** |
+| **Normal** | **3** |
+| **Hard** | **6** |
+| **Epic** *(peak moments only)* | **9** |
 
-These hold at **any party size.** A small group fills a Medium in about two rolls each; a big group fills the same Medium in about one roll each — the scene runs roughly the same length either way, because a table naturally takes more turns per person when there are fewer of them. (That's also why the antagonist's clock needs no party-size rules — Chapter 10.) Bigger groups who want a meatier set-piece simply reach for **Hard** or **Very Hard.**
+Anything shorter than a Normal — a moment that's only a roll or two — doesn't need a track at all; just play it out (that's the test from *When to Draw a Track,* above).
 
-**Very Hard** is an optional top rung you reach for *only at a climax,* and only if you want the finale to feel truly daunting. It's the climactic Challenge itself, not an extra hurdle before it, so the longer track just makes the big moment bigger. Don't use it for ordinary scenes; Easy through Hard cover everything else.
+**The box count is what makes a tier feel big.** A Normal is a quick beat (~4 rolls); a Hard is a real grind (~8); an Epic is a set-piece the whole table leans into (~12). That's the same span of rolls no matter how many heroes are present — a small group simply takes more turns each, a big group fewer. (It's also why the antagonist's clock needs no party-size rules — Chapter 10.)
 
-Difficulty is a **screen-time dial,** not a balance setting: you pick Hard for the set-piece everyone came for and Easy for a quick beat on the way there. A good Story *mixes* all three — so don't reach for Easy by default. Medium is the everyday size; reserve Easy for the scenes you want over quickly and Hard for the ones worth a real grind (see Pacing, Chapter 12). If real-world time is running short, lean toward Easy. Pick the size when you draw the track, based on how big the moment should feel.
+**The one thing that changes with table size is how hard each setback hits.** A bigger group shares the same fixed track, so to keep the stakes from thinning out, Pay the Price costs a little more: at **four or five heroes,** a Weak Hit costs **2** Readiness and a Miss costs **3** (Chapter 9). Difficulty sets the *length;* the size of the table sets the *damage.* You never lengthen the track for a big group — you just feel each blow more.
+
+**Epic** is an optional top rung you reach for *only at a peak moment,* and only if you want it to feel truly daunting. It's the big Challenge itself, not an extra hurdle before it, so the longer track just makes the moment bigger. Don't use it for ordinary scenes; Normal and Hard cover everything else.
+
+Difficulty is a **screen-time dial,** not a balance setting: you pick Hard for the set-piece everyone came for and Normal for the everyday beat on the way there. A good Story *mixes* the tiers — **Normal is the default size;** reach for Hard when a scene is worth a real grind, and Epic only for a true peak (see Pacing, Chapter 12). If real-world time is running short, keep things Normal. Pick the size when you draw the track, based on how big the moment should feel.
 
 ### Start a Challenge (When You Pick the Fight)
 
@@ -65,6 +68,8 @@ Each Challenge Roll resolves on the standard outcomes, with the result marked on
 | **Weak Hit (7–9)** | Fill **1 box**, and **Pay the Price** (−1 Readiness). |
 | **Miss (6 or less)** | Fill **no box**, and **Pay the Price** (−2 Readiness) — *or* take the **Devil's Bargain.** |
 
+*At a table of **four or five heroes,** Pay the Price costs one more each — a Weak is −2 and a Miss is −3 (Chapter 9).*
+
 A Weak Hit and a Miss cost Readiness — but on a Miss you have a choice: take the price, **or** strike a **Devil's Bargain** (Chapter 9), refusing the Readiness loss and filling the box as if you'd hit, in exchange for **advancing the Antagonist Track one box.** And watch the dice — a **Miss showing doubles advances the antagonist** whatever you choose (Chapter 7). Those are the roll-time ways the antagonist's clock moves; otherwise the **Antagonist Track** (Chapter 10) is untouched by a roll, and **falling back to regroup is free.**
 
 As always, every roll turns back into fiction (Chapter 7, Narrate the Change): say what filling the box *looks* like, and on a Miss, what the price *looks* like.
@@ -94,37 +99,37 @@ So a Challenge Roll *can* move the antagonist — when a hero takes a **Devil's 
 
 ### Running Different Challenge Types
 
-The same track-and-rolls procedure powers every kind of dramatic Scene — only the *fiction* changes. Here's how the one mechanic flexes across five common types: what a box of Progress represents, which Assets tend to shine, a Pay the Price that fits the tone, and a quick worked example of **setting one up.** (Challenge sizes are fixed by difficulty — **Easy 2, Medium 3, Hard 4, Very Hard 5** — the same at any party size.)
+The same track-and-rolls procedure powers every kind of dramatic Scene — only the *fiction* changes. Here's how the one mechanic flexes across five common types: what a box of Progress represents, which Assets tend to shine, a Pay the Price that fits the tone, and a quick worked example of **setting one up.** (Challenge sizes are fixed by difficulty — **Normal 3, Hard 6, Epic 9** — the same at any number of heroes.)
 
 **Combat — a fight or a battle.**
 *A box is:* a decisive blow, a foe driven back, a position seized, the tide turning your way. Don't think of boxes as the enemy's hit points — think of them as the *fight's momentum* swinging toward the heroes. The last box is the moment the enemy is beaten.
 *Assets that shine:* weapons, combat magic, a fighting companion, raw physical training, anything that lets a hero impose their will on a clash.
 *A fitting price:* a wound or exhaustion (body), a foe gaining the high ground or flanking you, a weapon knocked loose, a brave ally shaken by the violence.
-*Setting it up:* The three heroes corner the cinder-wyrm in the mountain pass — the set-piece the whole session was building toward, so you draw the track and go **Hard: 4 boxes.** Call it *"Bring Down the Cinder-Wyrm."* Box one might be driving it off the overturned wagon; the last is pinning it as its fire finally guts out. Open mid-roar, already in the thick of it — not with everyone drawing weapons.
+*Setting it up:* The three heroes corner the cinder-wyrm in the mountain pass — the set-piece the whole session was building toward, so you draw the track and go **Hard: 6 boxes.** Call it *"Bring Down the Cinder-Wyrm."* Box one might be driving it off the overturned wagon; the last is pinning it as its fire finally guts out. Open mid-roar, already in the thick of it — not with everyone drawing weapons.
 
 **Journey — crossing a dangerous distance.**
 *A box is:* a leg of the trip completed — a mountain pass cleared, a river forded, a stretch of cursed forest left behind. The track is the road itself.
 *Assets that shine:* tracking, survival skills, a mount or vehicle, navigation, weather magic, hardiness.
 *A fitting price:* supplies run low or spoil (Readiness as gear), the party gets turned around and loses ground, a storm closes in, fatigue and frayed nerves on a long road.
-*Setting it up:* The party must cross the Saltglass Waste — three days of cracked desert that deserve real screen time but aren't the climax, so **Medium: 3 boxes.** Call it *"Cross the Saltglass Waste,"* each box a leg survived: a knife-cold night, the dust storm, the far ridge at last. The desert itself is the antagonist — a Miss is a spoiled water-skin or a lost trail, not a monster leaping out.
+*Setting it up:* The party must cross the Saltglass Waste — three days of cracked desert that deserve real screen time but aren't the climax, so **Normal: 3 boxes.** Call it *"Cross the Saltglass Waste,"* each box a leg survived: a knife-cold night, the dust storm, the far ridge at last. The desert itself is the antagonist — a Miss is a spoiled water-skin or a lost trail, not a monster leaping out.
 
 **Stealth / Infiltration — getting in (and out) unseen.**
 *A box is:* a layer of security bypassed — a patrol slipped past, a lock opened, a camera looped, the inner sanctum reached. Each box is one step deeper.
 *Assets that shine:* sneaking, lockpicking, hacking, disguise, gadgets, a small or silent companion, knowing the place from the inside.
 *A fitting price:* an alarm edges toward sounding, a guard grows suspicious, a door seals behind you, you're forced into a riskier route — the tension of *almost* being caught.
-*Setting it up:* The heroes slip into the Sky-Patrol armory to lift one ledger. The table wants the slow squeeze, so **Hard: 4 boxes,** each a layer deeper — over the outer wall, past the corridor patrol, through the locked archive door to the ledger, then back out clean. Mechanically the *building's security* is the enemy; the guards have no stats, so a Miss tightens the noose (a footstep heard, an alarm one notch closer) rather than starting a fight.
+*Setting it up:* The heroes slip into the Sky-Patrol armory to lift one ledger. The table wants the slow squeeze, so **Hard: 6 boxes,** each a layer deeper — over the outer wall, past the yard, past the corridor patrol, through the locked archive door to the ledger, then back out clean. Mechanically the *building's security* is the enemy; the guards have no stats, so a Miss tightens the noose (a footstep heard, an alarm one notch closer) rather than starting a fight.
 
 **Investigation — uncovering a truth.**
 *A box is:* a real clue *or* a new avenue — a hidden door spotted now, a witness who'll talk later, a pattern noticed in the evidence. (See Chapter 7, Narrate the Change: on a Hit you find *something* and decide what it is.) The full track adds up to the answer.
 *Assets that shine:* deduction, perception, relevant lore or expertise, social Assets for questioning people, magic that reveals.
 *A fitting price:* the trail goes cold, you draw the wrong conclusion and act on it, someone notices you snooping, the truth you uncover is worse than you hoped.
-*Setting it up:* Someone poisoned the festival well and the heroes have until nightfall — a brisk mystery, so **Easy: 2 boxes.** Each box is a real clue or a fresh lead, the two together adding up to *who* and *why.* Open with the heroes already crouched over the first wrong detail; on each Hit they find *something* and say what it is, so the track never stalls waiting for the "right" idea.
+*Setting it up:* Someone poisoned the festival well and the heroes have until nightfall — a brisk mystery, so **Normal: 3 boxes.** Each box is a real clue or a fresh lead, the three together adding up to *who, how,* and *why.* Open with the heroes already crouched over the first wrong detail; on each Hit they find *something* and say what it is, so the track never stalls waiting for the "right" idea.
 
 **Social Confrontation — a high-stakes scene of words.**
 *A box is:* ground won in the exchange — a doubt planted, an ally swayed, a bluff that holds, a crowd turning your way. The track is the shifting mood of the room.
 *Assets that shine:* fast-talking, intimidation, charm, honesty and reputation, knowing what the other side wants, a well-timed bit of evidence.
 *A fitting price:* you give away more than you meant to, you anger the wrong person, an onlooker turns against you, your composure cracks (Readiness as morale).
-*Setting it up:* The heroes get one shot to talk the divided Council of Captains into sending help — a pivotal scene of words, so **Medium: 3 boxes.** Each box is ground won in the room: a wavering captain swayed, the gallery murmuring your way, the vote finally tipping. The price is social, never physical — you overpromise something you can't deliver, or make an enemy of the captain you needed most.
+*Setting it up:* The heroes get one shot to talk the divided Council of Captains into sending help — a pivotal scene of words, so **Normal: 3 boxes.** Each box is ground won in the room: a wavering captain swayed, the gallery murmuring your way, the vote finally tipping. The price is social, never physical — you overpromise something you can't deliver, or make an enemy of the captain you needed most.
 
 These five aren't a closed list — they're examples of how to *read* the same rules through whatever fiction is on the table. When a new kind of Scene comes up, ask the same three questions: what does a box of Progress mean here, which Assets fit, and what's the most logical complication?
 

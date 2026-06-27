@@ -41,7 +41,7 @@ Not much:
 - **Two six-sided dice per player** — the ordinary kind from any board game. (You can share if you're short.)
 - **Pencil and paper** — for jotting down your heroes and for drawing the little rows of boxes you'll fill in as the story moves. Scrap paper is perfect.
 - **This book** — one copy for the table is plenty.
-- **At least one other person.** *Lights, Camera, Action!* plays great with a group, and it also works solo if you want to adventure on your own.
+- **Two to six players.** *Lights, Camera, Action!* is built for a group — anywhere from two of you up to six. (At five or six, it plays best if one person steps back from a hero to **Guide** the story; more on that in Part Two.)
 
 No miniatures, no game board, no maps, and absolutely no preparation. You don't read an adventure ahead of time or set anything up. You sit down, build your world together in a few minutes, and start playing.
 

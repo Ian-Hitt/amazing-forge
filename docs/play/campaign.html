@@ -250,7 +250,7 @@
       milestones: makeMilestones("episode", []) };
   }
   function blankChallenge() {
-    return { id: uid("c"), name: "", note: "", max: 4, current: 0 };
+    return { id: uid("c"), name: "", note: "", max: 3, current: 0 };
   }
   function makeMilestones(size, existing) {
     var n = SIZES[size].ms, out = [];
@@ -934,7 +934,7 @@
       root.appendChild(card);
     });
 
-    root.appendChild(el("p", "ref", "Each roll: Strong = fill 1 · Weak = fill 1, −1 Readiness · Miss = no box, −2 Readiness (or take the Devil's Bargain). Track fills → Challenge won. Size by difficulty: Easy 2 · Medium 3 · Hard 4 · Very Hard 5."));
+    root.appendChild(el("p", "ref", "Each roll: Strong = fill 1 · Weak = fill 1, −1 Readiness · Miss = no box, −2 Readiness (or take the Devil's Bargain). At 4–5 heroes, Weak −2 / Miss −3. Track fills → Challenge won. Size by difficulty: Normal 3 · Hard 6 · Epic 9 (peak moments only) — anything shorter, don't draw a track."));
   }
 
   // ============================================================ WORLD (10 questions)

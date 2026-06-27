@@ -19,9 +19,16 @@
 > - **Term (2026-06-26): the odd-box beat is "Closing In"** (the antagonist *closes in*) — replacing the unintended label "Attack" (and "Surge" before it).
 > - **Track sizes (2026-06-25): Episode = 5 boxes, Movie = 9 boxes — the SAME at any party size**
 >   (the duo/two-player special case is GONE).
-> - **Challenge difficulty is fixed by difficulty, not party size (2026-06-25, "Option B"):**
->   **Easy 2 / Medium 3 / Hard 4 / Very Hard 5** — party-independent, no party-size rules anywhere.
->   (Supersedes the 2026-06-22 plain p−1/p/p+1 ladder.)
+> - **Challenge ladder (2026-06-27): drop Easy; three tiers — Normal = 3 boxes, Hard = 6, Epic = 9 —
+>   the SAME at any number of heroes.** Anything shorter than a Normal (a roll or two) needs no track;
+>   just play it out. **Tier = length; group size = damage.** (Renames Medium→Normal, Very Hard→Epic;
+>   supersedes the "Option B" fixed ladder Easy 2 / Med 3 / Hard 4 / Very Hard 5.)
+> - **Pay the Price scales with hero (character) count, not boxes (2026-06-27):** the roller takes the hit
+>   — **2–3 heroes: Weak −1 / Miss −2** (baseline); **4–5 heroes: Weak −2 / Miss −3** (+1 to each loss).
+>   One dial, applies to every Pay the Price (Challenge, Regular Roll, Aid). Mend's Miss −1 is unscaled.
+> - **Players vs. characters (2026-06-27): designed for 2–6 *players* (people); up to 6 players = 5
+>   *characters* + a Guide, so the character count runs 2–5.** Solo play is dropped. For 5–6 players,
+>   recommend one person Guide.
 > - **Loss is no longer a tuning target** — it's a rare earned tail; the tuned metric is the
 >   **photo-finish** (antagonist one box from winning at the climax). Validated by `sim_devils.py` /
 >   `sim_devils2.py`.
@@ -74,7 +81,7 @@ the book. When reviewing a chapter, treat any deviation as an error to flag.
 | Canonical term | Use it for | Do **not** use |
 |---|---|---|
 | **Guide** | The person running the game (director + oracle). | GM, Game Master, DM, Referee |
-| **Co-op play** | Solo or cooperative play with no Guide. | GMless, Guideless |
+| **Co-op play** | Cooperative *group* play with no Guide. (Solo play is not supported.) | GMless, Guideless |
 | **Guided play** | Play with a Guide. | GM'd play, refereed play |
 | **player** | A person controlling a hero. | — |
 | **character / hero** | A player's in-fiction persona. | PC |
@@ -492,6 +499,12 @@ There are two ways to resolve a roll, depending on the situation:
 | **7–9** | **Weak Hit** | Success at a cost — you achieve it, but with a minor setback. **Pay the Price** (lose **1** Readiness). | Mark **1 Progress** AND **Pay the Price** (lose **1** Readiness). |
 | **6 or less** | **Miss** | Failure — your action fails and things get worse. **Pay the Price** (lose **2** Readiness). | Mark **no Progress** AND **Pay the Price** (lose **2** Readiness). |
 
+> **Pay the Price scales with hero count (2026-06-27).** The amounts above are the baseline for
+> **2–3 heroes.** For **larger groups (4 or 5 heroes), increase each loss by 1** — a Weak costs **2**
+> Readiness, a Miss costs **3.** The roller takes the hit; it applies to every Pay the Price (Challenge,
+> Regular Roll, Aid). (More heroes share the same fixed track, so each setback bites a little harder to
+> keep a big group's stakes from thinning out. Mend's Miss −1 does not scale.)
+
 A Weak Hit and a Miss cost Readiness exactly as shown — unless the hero takes a **Devil's Bargain**
 (below), which trades the Miss's loss for an antagonist advance. The **Antagonist Track** never advances
 *silently* on a roll; it moves only via the three named triggers — a **Devil's Bargain,** a **Miss
@@ -799,30 +812,33 @@ Regular Roll is perfectly legitimate.
 
 ### 1. Set the Difficulty (Draw the Track)
 
-The number of boxes is **fixed by difficulty, not by party size** (Starforged-style, "Option B"):
+The number of boxes is **fixed by difficulty, the same at any number of heroes:**
 
-- **Easy Challenge** — **2 boxes.**
-- **Medium Challenge** — **3 boxes.**
-- **Hard Challenge** — **4 boxes.**
-- **Very Hard Challenge** *(optional — reach for it only at a climax, and only if you want to)* —
-  **5 boxes.**
+- **Normal Challenge** — **3 boxes.**
+- **Hard Challenge** — **6 boxes.**
+- **Epic Challenge** *(optional — reach for it only at a peak moment, and only if you want to)* —
+  **9 boxes.**
 
-These are the same at any table — **no party-size scaling, no party-size rules anywhere.**
+Anything shorter than a Normal — a moment that's only a roll or two — needs **no track at all;** just
+play it out. **Difficulty sets the *length*; the table size sets the *damage*** (Pay the Price scales
+with hero count — Section 4).
 
-> **Fixed difficulty — Option B (DECIDED 2026-06-25).** Challenge size depends **only on difficulty**,
-> never on headcount. Filling a fixed-size track takes about the same number of rolls regardless of who
-> is rolling, so **total rolls per Story stay roughly party-independent** — which is what lets the
-> Antagonist Track (Episode 5 / Movie 9) need *no* party-size scaling either. One difficulty table, one
-> clock table, zero party-size rules. (Cost: a big group resolves a small fixed Challenge in ~1 round,
-> so big groups lean on Hard/Very Hard for meaty set-pieces — the mirror of the old duo "thin" issue,
-> which this also settles by giving the duo a meatier 3-box Medium for free.) **Supersedes the
-> 2026-06-21 party-scaled ladder** (Easy = players−1 / Medium = players / Hard = players+1) and its
-> 2026-06-22 revision. Validated in `Math & Simulation Reference.md` §0 (`sim_devils.py` /
-> `sim_devils2.py`): photo-finish and loss are flat across party sizes 2–6.
+> **Challenge ladder (DECIDED 2026-06-27).** Three tiers — **Normal 3 / Hard 6 / Epic 9 boxes**, the
+> same for any number of heroes. **Box count is what makes a tier feel big:** Epic is a real ~12-roll,
+> ~24-minute set-piece; Normal is a ~4-roll, ~8-minute beat (at ~2 min/roll). Length carries "epic," so
+> difficulty never needs a separate per-tier damage rule. Filling a fixed-size track takes about the same
+> number of rolls regardless of who is rolling, so **total rolls per Story stay roughly party-independent**
+> — which is what lets the Antagonist Track (Episode 5 / Movie 9) need *no* party-size scaling either.
+> **The one thing that scales with the table is Pay the Price** (Section 4): more heroes share the same
+> fixed track, so each setback bites a little harder (+1 to each loss at 4–5 heroes) to keep a big group's
+> stakes from thinning out — without ever lengthening the track. **Renames Medium→Normal, Very Hard→Epic;
+> drops Easy** (a 2-box track was just dull — if it's that short, don't draw one). **Supersedes the "Option
+> B" fixed ladder** (Easy 2 / Med 3 / Hard 4 / Very Hard 5) and the 2026-06-21 party-scaled ladder. See
+> `Math & Simulation Reference.md` §0 and the `readiness_per_box.py` analysis.
 >
-> **Very Hard** remains an optional top rung reserved for the **climactic Challenge** — the finale itself,
-> not a pre-finale obstacle — so its extra length raises the climax's stakes without bleeding attrition into a
-> later scene.
+> **Epic** remains an optional top rung reached for at a **peak moment** (often the closing Challenge),
+> not a pre-finale obstacle — so its extra length raises that moment's stakes without bleeding attrition
+> into a later scene.
 
 ### 2. The Turn Loop
 
@@ -841,8 +857,8 @@ action phases.**
 ### 3. Marking Progress & Taking Hits
 
 - **Strong Hit (10+):** fill 1 box.
-- **Weak Hit (7–9):** fill 1 box, but **Pay the Price** (lose 1 Readiness).
-- **Miss (6 or less):** fill 0 boxes, and **Pay the Price** (lose 2 Readiness).
+- **Weak Hit (7–9):** fill 1 box, but **Pay the Price** (lose 1 Readiness; 2 at 4–5 heroes).
+- **Miss (6 or less):** fill 0 boxes, and **Pay the Price** (lose 2 Readiness; 3 at 4–5 heroes).
 
 (The Antagonist Track is never advanced *silently* by a roll result — it moves only via a **Devil's
 Bargain,** a **Miss showing doubles,** or a hero going **Out of Action** (Sections 5/6/9). Resting
@@ -1187,10 +1203,13 @@ Everyone is a player, sharing the directing duties equally.
 > bargained advances the antagonist two boxes (they stack). **(3) The narrated antagonist beat is the antagonist Closing In**
 > on the track's **odd boxes** (Episode 1·3·5; Movie 1·3·5·7·9); even boxes are silent pressure; the
 > **last box is the antagonist's victory.** **(4) Track sizes: Episode = 5 boxes, Movie = 9 boxes — the
-> SAME at any party size** (the duo/two-player special case is removed). **(5) Challenge difficulty is
-> fixed by difficulty, not party size — Option B:** Easy 2 / Medium 3 / Hard 4 / Very Hard 5,
-> party-independent (no party-size rules anywhere; supersedes the 2026-06-21 party-scaled ladder and its
-> 2026-06-22 revision). **(6) Design philosophy:** loss is no longer a tuning target — it's a rare
+> SAME at any party size** (the duo/two-player special case is removed). **(5) Challenge ladder
+> (revised 2026-06-27): three tiers — Normal 3 / Hard 6 / Epic 9 boxes**, the same for any number of
+> heroes; nothing shorter than a Normal gets a track. **Tier = length; table size = damage** — Pay the
+> Price scales with hero count (2–3 heroes Weak −1/Miss −2; 4–5 heroes Weak −2/Miss −3). Supersedes the
+> "Option B" ladder (Easy 2 / Medium 3 / Hard 4 / Very Hard 5) and the 2026-06-21 party-scaled ladder.
+> **(5b) Players vs. characters (2026-06-27): 2–6 players; up to 6 = 5 characters + a Guide; solo
+> dropped; 5–6 players → recommend one Guide.** **(6) Design philosophy:** loss is no longer a tuning target — it's a rare
 > earned tail; the tuned metric is the **photo-finish** (antagonist one box from winning at the climax).
 > Validated by `sim_devils.py` / `sim_devils2.py` (Episode realistic ~20% photo-finish / ~6.5% loss;
 > Movie ~21% / ~11%; party-independent; see `Math & Simulation Reference.md` §0). **Supersedes** the
@@ -1255,7 +1274,7 @@ fifth Core Principle, and the *Amazing Tales* **starter-backdrop** option.
   clean start/stop) (Section 7).
 - **Showdown removed (2026-06-26).** The optional climactic last-box roll (added 2026-06-06,
   including the Story Arc Showdown twist) was cut as redundant: the climax is simply the final,
-  usually **Very Hard**, Challenge, and **completing the last Milestone *is* the win** — no separate
+  usually **Epic**, Challenge, and **completing the last Milestone *is* the win** — no separate
   finishing roll. A Challenge (and a Story Arc) ends the instant its last box fills.
 - **Ask the Oracle** added — the Co-op "what happens next" move: name the next Milestone
   first, then do the obvious thing / roll the **Story Spark** d6 / roll the **Ask the Dice**

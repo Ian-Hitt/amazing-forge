@@ -65,7 +65,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Story Arc: survive the night in the cabin (an Episode). Second Milestone: find the one thing that holds it back. The table sets up a tense Challenge — "search the cellar before the lantern dies," Hard, 4 boxes.*
+> *The Story Arc: survive the night in the cabin (an Episode). Second Milestone: find the one thing that holds it back. The table sets up a tense Challenge — "search the cellar before the lantern dies," Hard, 6 boxes.*
 >
 > **Guide:** The lantern's guttering — maybe a minute of light left. The cellar's full of your grandmother's old things, and somewhere down here is the salt-iron bell she swore by. Scratching starts, slow, on the far wall. What do you do?
 > **Player (Sam):** I'm not panicking. I use *Stays Calm in the Dark* — I picture exactly where she'd keep something that mattered, by the old preserves, and go straight there instead of searching wild.

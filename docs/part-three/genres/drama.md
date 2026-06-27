@@ -67,7 +67,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Story Arc: win back Mara, the friend you betrayed (a Season). First Milestone: get her to actually talk to you. The table sets up a Social Confrontation — Hard, 4 boxes, the track being Mara's willingness to hear you out.*
+> *The Story Arc: win back Mara, the friend you betrayed (a Season). First Milestone: get her to actually talk to you. The table sets up a Social Confrontation — Hard, 6 boxes, the track being Mara's willingness to hear you out.*
 >
 > **Guide:** Mara's at her locker, and she's already seen you coming. Her face closes like a door. What do you do?
 > **Player (Jule):** I don't lead with sorry — she's heard sorry. I hold up the notebook she lost last year, the one I found. "You left this in the music room. I kept meaning to give it back." I'm using *Knows Everyone's Heart* — I know how much it means to her.

@@ -17,7 +17,7 @@ How do you choose? Ask the group: *is this a quick blip on the way to something 
 
 When the group decides a moment is big enough to be a Challenge, here's how to run it.
 
-**1. Draw the track.** Draw a row of empty boxes. The length is set by how big the moment is — the same at any number of players: **2 boxes** for a small one, **3** for a typical one, **4** for a big set-piece. For your first game, **3 boxes** is a fine default. (More on picking sizes in Part Two.)
+**1. Draw the track.** Draw a row of empty boxes. The length is set by how big the moment is — the same at any number of players: **3 boxes** for a typical Challenge, **6** for a big set-piece. (If a moment's only a roll or two, you don't need a track at all — just play it out.) For your first game, **3 boxes** is a fine default. (More on picking sizes in Part Two.)
 
 ```
 [ ]  [ ]  [ ]

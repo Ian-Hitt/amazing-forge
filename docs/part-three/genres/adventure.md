@@ -67,7 +67,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Story Arc: reach the lost temple (an Episode). First Milestone: cross the Saltglass Waste. The table sets up a Journey Challenge — Hard, 4 boxes, the track being the desert itself.*
+> *The Story Arc: reach the lost temple (an Episode). First Milestone: cross the Saltglass Waste. The table sets up a Journey Challenge — Hard, 6 boxes, the track being the desert itself.*
 >
 > **Guide:** Three days into the Waste and the wind kicks up — a wall of stinging dust rolling in fast. The only cover is a ridge a hard sprint away. What do you do?
 > **Player (Rook):** I grab the rope and lash us together so nobody gets lost in it, then lead us for the ridge. I've got *Wilderness Survival* — I know how these storms move.

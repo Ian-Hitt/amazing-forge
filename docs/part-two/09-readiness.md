@@ -4,7 +4,7 @@ Readiness is your hero's single resource — body, mind, and supplies rolled int
 
 A quick orientation before the details:
 
-- Readiness only ever **falls during action**, on a Weak Hit (−1) or a Miss (−2). Its max is always **9** — it never sinks.
+- Readiness only ever **falls during action**, on a Weak Hit (−1) or a Miss (−2) — a touch more at a big table (see below). Its max is always **9** — it never sinks.
 - It comes back through **three** moves: a quick, risky **Mend** *during* a Challenge; a **Recovery Scene** when the heroes fall back to regroup; and **Downtime** between Stories.
 - **Mend** is the gamble — a little healing now (Strong +3 / Weak +2), but a **Miss costs you 1 Readiness.** A tactical choice on your turn.
 - The **Recovery Scene** is the reliable one — the whole party back up to a full **9**, no roll and **no cost.** Falling back to regroup is always safe; it's the quiet beat between dangers, not a resource you ration.
@@ -15,6 +15,8 @@ A quick orientation before the details:
 ## Part A — Pay the Price
 
 Paying the Price is what happens on a **Weak Hit** or a **Miss** — the complication that follows when a roll doesn't go cleanly. Mechanically it's simple: a Weak Hit costs **1 Readiness**, a Miss costs **2.** But the number is the *smallest* part of it. Paying the Price is where setbacks become story, and handling it well is most of what makes *Lights, Camera, Action!* feel like a movie instead of a spreadsheet.
+
+> **Larger groups feel each setback harder.** The costs above are for a table of **two or three heroes.** With **four or five heroes,** add 1 to each: a Weak Hit costs **2** Readiness and a Miss costs **3.** That's the only thing that changes with table size — Challenge tracks stay the same length (Chapter 8). More heroes share one fixed track, so a bigger group would otherwise breeze through it; the heavier price keeps the stakes real. The hero who rolled takes the loss, as always.
 
 ### Choosing the Price
 
@@ -147,8 +149,6 @@ Two things happen when a hero drops:
 **A knockdown doesn't pause the Scene.** When a hero drops to 0 in the middle of a Challenge, the action keeps going — the rest of the party can **push on to finish the Challenge or fall back**, their call. The Recovery Scene that revives the downed hero happens **once the Challenge ends, win or lose** — never mid-Challenge. So a single roll that fills the last box *and* drops its roller to 0 still **wins the Challenge first**; the regroup follows in the aftermath. (The antagonist still gains their box from the knockdown.)
 
 **More than one hero down at once?** Each hero who goes down **advances the antagonist one box** and breaks one of their Assets — going down is always individually costly. A single Recovery Scene then gets the whole party back on their feet at once.
-
-**Playing solo?** With only one hero, going Out of Action means there's no one to fight on — that Challenge is **lost.** Pull back, then take the Recovery Scene to get back up.
 
 ### Broken Assets
 

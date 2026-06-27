@@ -73,10 +73,10 @@ STORY ARC TRACK:   [X]  [ ]  [ ]
 
 Inside, a vast crack splits the cave floor — a chasm so deep they can't see the bottom, with a freezing updraft howling out of it. This feels dangerous enough to play out rather than settle on one roll, so they agree to make a quick Challenge of it.
 
-> **▶ Rules note — Regular Roll or Challenge? (Chapter 5).** This is a "how much screen time?" call. Crossing the chasm is a beat they want to play out, so they make it a **Challenge.** It's a real moment but not the climax, so they keep it small and go **Easy** — a **2-box** track (Chapter 8: Easy = 2, Medium = 3, Hard = 4, the same at any party size).
+> **▶ Rules note — Regular Roll or Challenge? (Chapter 5).** This is a "how much screen time?" call. Crossing the chasm is a beat they want to play out, so they make it a **Challenge.** It's a real moment but not the climax, so they keep it the everyday size and go **Normal** — a **3-box** track (Chapter 8: Normal = 3, Hard = 6, the same at any number of players; a shorter beat needs no track at all).
 
 ```
-CHALLENGE TRACK:   [ ]  [ ]
+CHALLENGE TRACK:   [ ]  [ ]  [ ]
 ```
 
 **Maya goes first:** "Cinder flies me across, and as we go I use my Ice Magic to freeze a line of floating stepping-stones in the air for Snik to follow."
@@ -90,7 +90,7 @@ CHALLENGE TRACK:   [ ]  [ ]
 **Fill box 1.** Brave makes it across. (No price — it was a hit.)
 
 ```
-CHALLENGE TRACK:   [X]  [ ]
+CHALLENGE TRACK:   [X]  [ ]  [ ]
 ```
 
 **Leo's turn:** "I don't trust the magic ice — I'll just take a running jump across the narrowest part."
@@ -109,13 +109,23 @@ Both heroes have now acted, so the round resets and anyone can go again.
 
 🎲 Maya rolls **3 + 5 = 8**, plus 1 (*My Dragon, Cinder*; the dive calls for Quick, which Brave lacks) = **9.** → **Weak Hit.**
 
-She fills the **last box** — but a Weak Hit means she Pays the Price too. Cinder strains under the extra weight and clips a stalactite; **Brave loses 1 Readiness (9 → 8).** Still, the box is filled.
+She fills the **second box** — but a Weak Hit means she Pays the Price too. Cinder strains under the extra weight and clips a stalactite; **Brave loses 1 Readiness (9 → 8).** Still, the box is filled, and Snik is out of the chasm and back on solid rock.
 
 ```
-CHALLENGE TRACK:   [X]  [X]   ← full!
+CHALLENGE TRACK:   [X]  [X]  [ ]
 ```
 
-> **▶ Rules note — ending a Challenge (Chapter 5).** The moment the last box fills, the Challenge is over — even on a Weak Hit. The chasm is crossed. Filling the track *was* beating the obstacle; the chasm never had any "health" of its own.
+**Leo's turn again:** "Steadier now — I scout the last stretch of broken ledge and pick out the safe footholds so we can finish the crossing clean." Reading the route is **Clever**, one of Snik's Stats → **+1.**
+
+🎲 Leo rolls **5 + 4 = 9**, plus 1 = **10.** → **Strong Hit.**
+
+He fills the **last box.** No price — the heroes pick their way off the broken ledge and onto firm ground.
+
+```
+CHALLENGE TRACK:   [X]  [X]  [X]   ← full!
+```
+
+> **▶ Rules note — ending a Challenge (Chapter 5).** The moment the last box fills, the Challenge is over. The chasm is crossed. Filling the track *was* beating the obstacle; the chasm never had any "health" of its own.
 
 **Milestone 2 complete — check the second box.**
 

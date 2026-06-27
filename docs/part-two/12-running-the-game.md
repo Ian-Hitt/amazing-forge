@@ -4,6 +4,8 @@ Everything so far has been about *what* happens when the dice hit the table. Thi
 
 The two modes share more than they differ. Both live on the same handful of skills: asking the table good questions, voicing a world that has no stat blocks, and reading the clock so the story lands instead of fizzling. So this chapter is built in three parts: running with a Guide, running Co-op, and the shared tools that serve both. Part One introduced these briefly across Chapters 5 and 6 — this is the full version.
 
+> **How many at the table?** *Lights, Camera, Action!* runs with **two to six players.** With **five or six,** we recommend one person step back from playing a hero and take the **Guide's** chair — a big group keeps everyone in the spotlight better with someone steering, and it caps the heroes at a comfortable five. Smaller groups can go either way: play with a Guide, or share the job **Co-op.** (Either way, four or five heroes feel each setback a little harder — Pay the Price scales with the number of heroes, Chapter 9.)
+
 > **You already have less to do than you think.** The hardest part of most games — inventing the world and plotting the adventure — is already handled. **Worldbuilding** (Chapter 14) built your setting. The **Story Arc Track** (Chapter 10) points at where the story is going. The **Oracle** (Chapter 11) answers what happens next when you're stuck. Running the game isn't about carrying all of that in your head; it's about responding to what's in front of you, one scene at a time.
 
 ---

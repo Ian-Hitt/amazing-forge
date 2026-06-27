@@ -25,7 +25,7 @@
 *Purpose: Introduce the core philosophy before any rules. You're writing a script, not solving a puzzle. Mechanics exist to create cinematic tension, not simulate reality. This is the frame everything else sits inside — gets the reader oriented before they see a single rule.*
 
 **What You Need to Play**
-*Purpose: Practical logistics. Two six-sided dice per player, pencil and paper for tracks, this book. No miniatures, no maps, no prep.*
+*Purpose: Practical logistics. Two six-sided dice per player, pencil and paper for tracks, this book, and **2–6 players** (up to 6 = 5 heroes + a Guide; at 5–6, recommend one person Guide). No solo play, no miniatures, no maps, no prep.*
 
 **How to Use This Book**
 *Purpose: Explain the Part One / Part Two structure explicitly. "Part One gets you playing. Part Two is where you go for the full picture." Manages expectations and signals where to look.*
@@ -83,7 +83,7 @@
 *Purpose: The core result table — what each outcome means in plain language. Strong = you did it clean. Weak = you did it, but Pay the Price. Miss = it failed, and Pay the Price.*
 
 **Pay the Price (First Game Version)**
-*Purpose: Weak Hit = lose 1 Readiness; Miss = lose 2 Readiness. Something goes wrong — describe it cinematically. A short prompt list (3–4 examples) to unstick new players.*
+*Purpose: Weak Hit = lose 1 Readiness; Miss = lose 2 Readiness (at a table of 4–5 heroes, −2 / −3 — the only thing that scales with group size). Something goes wrong — describe it cinematically. A short prompt list (3–4 examples) to unstick new players.*
 
 > *Note: Part Two has the full d10 Pay the Price table and guidance on picking the most cinematic complication.*
 
@@ -98,7 +98,7 @@
 *Purpose: Quick framing. One-moment risks = Regular Roll, no track. Big dramatic scenes = Challenge, draw a track and fill it together. The question is "how much screen time does this deserve?"*
 
 **Running a Challenge (First Game Version)**
-*Purpose: Draw the track (Easy = 2 boxes, the same at any group size). Take turns describing what your hero does and rolling. Strong Hit fills a box; Weak Hit fills a box but Pay the Price; Miss fills nothing and Pay the Price. When all boxes are filled, the Challenge is over and you complete a Milestone.*
+*Purpose: Draw the track (Normal = 3 boxes, the same at any group size; anything shorter, just play it out). Take turns describing what your hero does and rolling. Strong Hit fills a box; Weak Hit fills a box but Pay the Price; Miss fills nothing and Pay the Price. When all boxes are filled, the Challenge is over and you complete a Milestone.*
 
 **Falling Back & Quitting (First Game Version)**
 *Purpose: The escape valve. If a Challenge is bleeding too much Readiness, the group can fall back: end the Challenge (lose its progress) and take a Recovery Scene — the party heals to full, and falling back is always safe. If the Antagonist Track fills, or the group gives up, you Quit the Story Arc and lose — and that's okay, it sets up the next adventure. This is how heroes stay alive when low.*
@@ -164,7 +164,7 @@
 *Purpose: The group story call. "How much screen time does this moment deserve?" No mechanical reward for rushing — the only question is which choice tells the better story.*
 
 **Setting Difficulty**
-*Purpose: A fixed ladder, the same at any party size — **Easy = 2, Medium = 3, Hard = 4, Very Hard = 5** (optional, climaxes only) boxes. Difficulty is a screen-time dial, so stories mix tiers; bigger groups lean on Hard/Very Hard for meatier set-pieces. How to calibrate to session pacing.*
+*Purpose: Three tiers, the same at any number of heroes — **Normal = 3, Hard = 6, Epic = 9** (Epic optional, peak moments only) boxes; drop Easy (a 2-box track is just dull — if it is that short, do not draw one). Tier sets the *length;* **group size sets the *damage*** (Pay the Price is +1 to each loss at 4–5 heroes, Ch.9). Difficulty is a screen-time dial, so stories mix tiers. How to calibrate to session pacing.*
 
 **The Turn Loop**
 *Purpose: Popcorn-style round-robin. No initiative. Everyone acts once before anyone acts twice. How to handle spotlight sharing.*
@@ -255,7 +255,7 @@
 *Purpose: One 2d6+1 roll made when a Story Arc begins to set how it opens — a **Frame move** (modeled on Swear an Iron Vow, minus momentum), generative not pass/fail. Three tiers: Clear purpose (10+, front foot) / More questions than answers (7–9, one complication) / Trouble finds you first (6−, open in the thick of it). Give players interpretation guidance — how to turn each result into the first scene (same Milestone, different "temperature"); non-strong tiers hand off to Ask the Oracle. Part One skips this roll. Cross-ref Ch.5/Ch.11.*
 
 **Finishing a Story Arc**
-*Purpose: Filling the last Story Arc box wins (finishing prompts Downtime, Ch9). The closing Milestone is usually a climactic Challenge (Hard or Very Hard); completing it wins the Story — there's no separate finishing roll.*
+*Purpose: Filling the last Story Arc box wins (finishing prompts Downtime, Ch9). The closing Milestone is usually a climactic Challenge (Hard or Epic); completing it wins the Story — there's no separate finishing roll.*
 
 #### Part B — The Antagonist Track (Core Rule)
 

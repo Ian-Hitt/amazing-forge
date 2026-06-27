@@ -6,7 +6,8 @@ game. Its rules sit, in *complexity*, between **Amazing Tales** (simple, very yo
 **Ironsworn: Starforged** (crunchy, adult) — light enough that a group of 10+ kids could self-run
 it, but that's an accessibility claim, **not** a target audience. Approachable and story-first, with
 just enough decisive mechanics to keep play flowing. Plays **Guided** (with a Guide) or **Co-op**
-(no Guide, solo or group). See memory [[game-positioning]].
+(no Guide, group only — solo dropped). **2–6 players** (up to 6 = 5 characters + a Guide; 5–6 →
+recommend one Guide). See memory [[game-positioning]] and [[player-count-model]].
 
 ## Sources of truth — read these first
 
@@ -50,9 +51,16 @@ authoritative**; V3/V4 are older and superseded where they differ.
 > Action.** Doubles now upgrade only a **Hit**; a doubles-Miss feeds the antagonist (the old Miss→Weak
 > upgrade is gone). **Antagonist Track: Episode 5 / Movie 9, odd boxes are the antagonist "Closing In"** (the term
 > "Surge" is retired), last box = antagonist wins; **same at any party size** (duo special case dropped).
-> **Challenge difficulty is fixed: Easy 2 / Med 3 / Hard 4 / Very Hard 5** (Option B). Validated by
-> `sim_devils.py`/`sim_devils2.py`; see [[miss-doubles-clock-proposal]]. Still-pending: the Play Online
-> app (`docs/play/`).
+> Validated by `sim_devils.py`/`sim_devils2.py`; see [[miss-doubles-clock-proposal]].
+>
+> ⚠️ **2026-06-27 CHALLENGE LADDER + PLAYER COUNT — DECIDED and PROPAGATED (Master Reference, SRD, Ch.8/9/12,
+> Part One 00/05/07, all 7 kits, sheets, the Play Online app, Book Outline, Math&Sim §0).** **Drop Easy; three
+> tiers — Normal 3 / Hard 6 / Epic 9 boxes, the SAME at any number of heroes** (nothing shorter than a Normal
+> gets a track). Renames **Medium→Normal, Very Hard→Epic.** **Tier = length; hero count = damage:** Pay the
+> Price scales — **2–3 heroes Weak −1/Miss −2; 4–5 heroes Weak −2/Miss −3** (the roller takes the hit; the
+> only thing that changes with group size; Mend's −1 unscaled). **Players vs. characters: 2–6 players; up to 6
+> = 5 characters + a Guide; solo dropped; 5–6 players → recommend one Guide.** Supersedes the Option B fixed
+> ladder above. See [[challenge-ladder-final]] and [[player-count-model]]; feel validated by `readiness_per_box.py`.
 >
 > ⚠️ **2026-06-22 dice rework (see [[dice-and-scaling-rework]]) — also propagated:** core roll **+0/+1/+2**
 > (pick **2 of 5 stats** = +1, **3 Assets** = +1), single broad **Attribute retired**, recovery ratchet
@@ -65,7 +73,7 @@ authoritative**; V3/V4 are older and superseded where they differ.
   (prose *collection* patterns, not sizes — see [[spine-model]]), **antagonist** (the umbrella
   term for the adversary — default to it; **never "villain,"** which is only *one type* of
   antagonist — it can also be a force: a desert, a plague), Antagonist Track, **climax**
-  (the final, usually Very Hard, Challenge — the last Milestone simply *is* the win; the separate
+  (the final, usually Epic, Challenge — the last Milestone simply *is* the win; the separate
   **"Showdown" roll was retired 2026-06-26**, no extra finishing roll), Milestone, Scene, Challenge, Pay the Price, **Devil's Bargain**
   (buy a win on a Miss for a antagonist box), **Closing In** (narrated antagonist beat on an odd Antagonist box — the
   antagonist *closes in*; the terms **"Attack"** and **"Surge"** are retired), **Recovery Scene** (the fall-back-and-regroup move — now **free**), **Fall back**

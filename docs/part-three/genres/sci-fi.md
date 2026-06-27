@@ -65,7 +65,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Story Arc: escape the derelict before it falls into the star (an Episode). First Milestone: restore main power. The table sets up a Challenge — "get the reactor online," Hard, 4 boxes, the failing ship itself as the antagonist.*
+> *The Story Arc: escape the derelict before it falls into the star (an Episode). First Milestone: restore main power. The table sets up a Challenge — "get the reactor online," Hard, 6 boxes, the failing ship itself as the antagonist.*
 >
 > **Guide:** The reactor room's dark except for one red emergency strip. The main coupling's fried — but there's a salvage drone clamped to the wall, dormant, that could bridge the gap if you can wake it. The deck's already warming under your boots. What do you do?
 > **Player (Iko):** I jack into the drone and try to wake it gently — I don't want it dumping its logs and rebooting, we don't have time. *Interfaces With Machines.*

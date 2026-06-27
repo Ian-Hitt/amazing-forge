@@ -107,7 +107,7 @@ Same Milestone, three different heats. Roll, read the temperature, paint the pic
 
 ### Finishing a Story Arc
 
-The last Milestone **is** the climax. Fill the final box of the Story Arc Track and the heroes win the Story — there's no separate finishing roll. In practice that closing Milestone is almost always a **climactic Challenge** (reach for **Hard** or **Very Hard** to make it land — Chapter 8), the final confrontation the whole arc has been building toward; the instant its track fills, the Story Arc is won.
+The last Milestone **is** the climax. Fill the final box of the Story Arc Track and the heroes win the Story — there's no separate finishing roll. In practice that closing Milestone is almost always a **climactic Challenge** (reach for **Hard** or **Epic** to make it land — Chapter 8), the final confrontation the whole arc has been building toward; the instant its track fills, the Story Arc is won.
 
 By now the Antagonist Track has usually climbed near its top, so the heroes are racing to complete that last Milestone before the antagonist fills the last box of *theirs.* That race — finishing first, with both clocks near full — is the whole tension of the ending. When the heroes win, play out the victory: finishing a Story Arc is **Downtime** (Chapter 9), so each hero resets to full Readiness and any Broken Asset is restored before the next Story Arc.
 

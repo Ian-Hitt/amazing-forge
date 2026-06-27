@@ -21,7 +21,7 @@ Tap the **menu** (☰, top-left) to switch between sections (Heroes, Story Arcs,
 
 **Live shared game (recommended for a group).** ☰ → **Manage & Share** → **Start shared game**. You'll get a short **game code** (like `K7QM2X`) and an **invite link** copied to your clipboard. Send that link to your players — when they open it, they see the *same* campaign, and everyone's changes sync automatically every few seconds. No refreshing, no re-sending links. To join an existing game, ☰ → **Manage & Share** → **Join game** and type the code. This works across the country — it doesn't matter where anyone is.
 
-**Solo / offline.** If you don't go online, everything still works and saves locally in your browser — great for prep, or for a one-person game. You can hand a one-off **snapshot** to someone via Manage & Share → **Copy backup link** (a link that carries the whole campaign as it looked at that moment).
+**Offline & local.** If you don't go online, everything still works and saves locally in your browser — great for prepping a campaign on your own, or for running at a table with no wifi. You can hand a one-off **snapshot** to someone via Manage & Share → **Copy backup link** (a link that carries the whole campaign as it looked at that moment).
 
 ## Good to know
 

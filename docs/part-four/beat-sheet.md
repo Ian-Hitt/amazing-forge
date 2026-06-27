@@ -40,7 +40,7 @@ Read it as a menu, not a recipe. Hit the beats that serve tonight's story; skip 
 
 ## Act Three — the climax and the close
 
-**14. Finale.** The climax. Everything they've learned, spent on the last confrontation. *At the table:* this is the **last Milestone** — almost always a **climactic Challenge** (reach for Hard or Very Hard). Filling its last box completes the Story Arc Track and wins the Story: triumph, or triumph-at-a-cost. The cymbal crash the whole song was building to.
+**14. Finale.** The climax. Everything they've learned, spent on the last confrontation. *At the table:* this is the **last Milestone** — almost always a **climactic Challenge** (reach for Hard or Epic). Filling its last box completes the Story Arc Track and wins the Story: triumph, or triumph-at-a-cost. The cymbal crash the whole song was building to.
 
 **15. Final Image.** A closing snapshot that mirrors the opening and shows how far they've come. *At the table:* another beat you place by hand. After the final confrontation is won and Downtime resets the party, spend one last scene on the world remade — the mirror of beat 1. That's the difference between "we won" and "the end."
 

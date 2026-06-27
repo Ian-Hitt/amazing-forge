@@ -65,7 +65,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Story Arc: lift the Star of the Sea from the gala (an Episode). Second Milestone: make the swap unseen. The table sets up a Social/Stealth Challenge — Hard, 4 boxes, the floor's watchful security as the antagonist.*
+> *The Story Arc: lift the Star of the Sea from the gala (an Episode). Second Milestone: make the swap unseen. The table sets up a Social/Stealth Challenge — Hard, 6 boxes, the floor's watchful security as the antagonist.*
 >
 > **Guide:** The Star's in a case under glass, and the curator is standing *right there*, beaming at guests. Your replica is in your jacket. The lights are about to dim for the auction — your one window. What do you do?
 > **Player (Lex):** I send the Face over to pull the curator into a conversation she can't politely escape — gushing about the *provenance*, demanding a tour — while I drift to the case. I'm using *The Switcheroo* the second her back's turned.

@@ -4,7 +4,7 @@
 
 **What this is.** A **genre-agnostic, zero-prep storytelling game** — the same rules tell *any* kind of story (fantasy, sci-fi, mystery, horror, heist, drama, and on). Nobody writes the adventure ahead of time: you build a world, play the heroes, and **make the story up together as you go**, either with a **Guide** or fully **Co-op** (no Guide at all). The mechanics are the tools that turn that improvised story into cinematic drama — "prep" *is* play.
 
-**What you need:** two six-sided dice, pencil and paper, this reference, and at least one player (it also plays solo).
+**What you need:** two six-sided dice, pencil and paper, this reference, and **2 to 6 players.** (Up to six players means five heroes plus a Guide; for five or six players we recommend one person take the Guide's chair.)
 
 ---
 
@@ -52,7 +52,7 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 *A **Closing In** is a beat you stop and play out when that box fills; the last box is always the antagonist's victory.* **Season** and **Series** are *collections* of Story Arcs, not lengths — run long by **chaining** Stories (plan the big arc up front, or let it emerge from play — either works).
 
 - A **Milestone** ≈ 40 minutes of play (a few Scenes, 1–2 of them Challenges); mark a box on significant headway.
-- **Win** by completing the last Milestone — filling the Story Arc Track — then take **Downtime.** (The closing Milestone is usually a climactic **Hard** or **Very Hard** Challenge; finishing its track wins the Story.) **Lose** if the Antagonist Track fills, or if you **Quit the Story Arc** (give it up — no penalty; the loss seeds the next Story).
+- **Win** by completing the last Milestone — filling the Story Arc Track — then take **Downtime.** (The closing Milestone is usually a climactic **Hard** or **Epic** Challenge; finishing its track wins the Story.) **Lose** if the Antagonist Track fills, or if you **Quit the Story Arc** (give it up — no penalty; the loss seeds the next Story).
 - **B-plots & character arcs are threads:** a light progress track with **no Antagonist Track / no lose-clock**; they resolve into the Story Arc's climax.
 - **Start a Story Arc** *(the opening roll):* when one begins, roll **2d6 + 1** (generative — you can't fail it) to set the opening — **10+** clear purpose · **7–9** one complication already in play · **6−** trouble finds you first.
 
@@ -68,7 +68,7 @@ Play happens in **Scenes**, and whenever a hero does something risky you roll to
 
 **Doubles = Oracle's Blessing:** on a Hit, bump your result up one tier; on a **Miss**, doubles instead advance the Antagonist Track (below).
 
-**Regular Roll vs. Challenge.** A small, one-off risk is a single **Regular Roll** — read the result and move on. A big set-piece — a fight, a chase, an escape — is a **Challenge**, played out over a row of boxes you fill to win. Difficulty sets the length, the same at any party size: **Easy = 2 · Medium = 3 · Hard = 4 · Very Hard = 5** *(climaxes only)* boxes. Take turns (everyone acts before anyone repeats), and on each roll **Strong** fills a box, **Weak** fills a box and Pay the Price, **Miss** fills nothing and Pay the Price *(or take the Devil's Bargain)*. Fill the last box and the obstacle is beaten — enemies have *no stats*, the track *is* the enemy.
+**Regular Roll vs. Challenge.** A small, one-off risk is a single **Regular Roll** — read the result and move on. A big set-piece — a fight, a chase, an escape — is a **Challenge**, played out over a row of boxes you fill to win. Difficulty sets the length, the same at any number of heroes: **Normal = 3 · Hard = 6 · Epic = 9** *(reach for it only at a peak)* boxes. Anything shorter — a moment that's just a roll or two — needs no track; play it out. Take turns (everyone acts before anyone repeats), and on each roll **Strong** fills a box, **Weak** fills a box and Pay the Price, **Miss** fills nothing and Pay the Price *(or take the Devil's Bargain)*. Fill the last box and the obstacle is beaten — enemies have *no stats*, the track *is* the enemy.
 
 Three named moves bracket the action:
 
@@ -76,13 +76,13 @@ Three named moves bracket the action:
 - **Start a Challenge** *(when you choose to open one):* roll **2d6 + 1** for a one-time nudge to the first roll — **10+** +1 · **7–9** 0 · **6−** −1.
 - **Fall back** — bail out of a Challenge: lose its progress and take a **Recovery Scene** (the party heals up). Falling back is always safe.
 
-The **climax** is just the final, often **Very Hard** Challenge — there's no special finishing move. Filling its last box (or the Story Arc Track's) wins the scene or the Story like any other.
+The **climax** is just the final, often **Epic** Challenge — there's no special finishing move. Filling its last box (or the Story Arc Track's) wins the scene or the Story like any other.
 
 ## Readiness, Recovery & the Antagonist Track
 
 Readiness, how it comes back, and the antagonist's clock are one connected system. Readiness isn't a survival meter — **heroes can't die** — it's the energy you spend pushing through trouble, and it refills whenever the action lets up. The antagonist's clock is the real threat; it advances only through the choices laid out below.
 
-**Paying the Price.** On a Weak Hit you lose **1** Readiness, on a Miss you lose **2** — always. Narrate the most fitting complication, then dock the Readiness. (Stuck for one? Roll a d10 for a prompt.) Two things can happen around a Miss:
+**Paying the Price.** On a Weak Hit you lose **1** Readiness, on a Miss you lose **2.** Narrate the most fitting complication, then dock the Readiness. (Stuck for one? Roll a d10 for a prompt.) **For larger groups (4 or 5 heroes), increase each loss by 1 — a Weak costs 2, a Miss costs 3** (more heroes share the same track, so each setback bites a little harder). Two things can happen around a Miss:
 
 - **Devil's Bargain** *(on a Miss, optional):* refuse the Readiness loss **and** turn the Miss into a **Strong Hit** — in exchange for **advancing the Antagonist Track one box.** Not allowed on a Miss whose price would knock you Out of Action; you can't buy your way out of going down.
 - **Out of Action** at 0 Readiness: you can't act, and **one Asset breaks** (no +1 from it until Downtime). Always recoverable — heroes can't die.

@@ -65,7 +65,7 @@ In practice:
 
 ### A scene at the table
 
-> *The Story Arc: cross the dead city to the water cache (an Episode). First Milestone: get past the raider tollgate. The table sets up a Social Challenge — Hard, 4 boxes, the wary raiders as the obstacle.*
+> *The Story Arc: cross the dead city to the water cache (an Episode). First Milestone: get past the raider tollgate. The table sets up a Social Challenge — Hard, 6 boxes, the wary raiders as the obstacle.*
 >
 > **Guide:** The off-ramp into the city is chained shut, and three raiders lounge around an oil-drum fire. They've already clocked your truck. The big one stands, grinning, and holds out a hand: "Toll's half your gas, friend." What do you do?
 > **Player (Bex):** A fight we'd lose, so I deal instead. I use *Bartering for a Fair Trade* — I offer them something better than gas: a working radio battery, plus the location of a stash. I don't mention I already cleaned that stash out.
