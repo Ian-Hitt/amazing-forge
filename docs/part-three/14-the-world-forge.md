@@ -143,7 +143,7 @@ This is true in both modes of play. With a Guide, the Guide facilitates — aski
 
 ### The Alternative: A Guide Preps a World
 
-Sometimes a Guide *wants* to prep — they've got an idea they're excited about, or they want a richer, more surprising setting than a ten-minute table conversation usually produces. That's allowed. A Guide can answer the ten questions solo beforehand and bring a finished world to the table.
+Sometimes a Guide *wants* to prep — they've got an idea they're excited about, or they want a richer, more surprising setting than a ten-minute table conversation usually produces. That's allowed. A Guide can answer the ten questions on their own beforehand and bring a finished world to the table.
 
 But prep comes with one firm rule:
 

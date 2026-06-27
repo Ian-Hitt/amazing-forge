@@ -987,9 +987,6 @@ meter.
 > - **Multiple heroes down at once.** Each hero who goes down advances the antagonist **one box** and
 >   breaks one of their Assets — going down is always individually costly. A single Recovery Scene
 >   then gets the whole party back on their feet at once.
-> - **Solo play:** with one hero, going Out of Action means there's no one to fight on — that
->   **Challenge is lost**; pull back, then take the Recovery Scene to get back up. (Solo is
->   technically supported, not a design target — default play is Co-op, optionally with a Guide.)
 
 **Broken Assets (DECIDED 2026-06-09).** Going Out of Action also breaks **one Asset** — the one
 that failed the hero in the moment they went down (Guide calls it; Co-op table agrees, defaulting
@@ -1178,8 +1175,8 @@ Everyone is a player, sharing the directing duties equally.
 > Recovery Scene that revives the downed hero fires after it ends (win or lose), and a roll that both
 > wins and drops you wins first. **(3) Multiple heroes down at once** — each knockdown advances the
 > antagonist one box and breaks one Asset; a single Recovery Scene then revives the whole party (timing
-> per 2026-06-14; the per-knockdown antagonist box is the 2026-06-25 model). **(4) Solo OoA** →
-> the lone hero loses that Challenge, then regroups (solo is supported, not a target). **(5) Aid
+> per 2026-06-14; the per-knockdown antagonist box is the 2026-06-25 model). **(4) Solo OoA** — moot:
+> **solo play was dropped 2026-06-27** (2–6 players, group only; see §0). **(5) Aid
 > fully stacks** — with the Asset and across multiple helpers, self-limited by each helper's Pay
 > the Price. **(6) Genre count corrected to seven** (Post-Apocalypse). **(7) Threads earn Growth**
 > — shared B-plots party-wide, character-specific B-plots to their own hero only (`sim_threads.py`;

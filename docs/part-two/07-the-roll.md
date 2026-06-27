@@ -43,7 +43,7 @@ That **+0** is the edge of danger: when a hero reaches past everything they're g
 | **7–9** | **Weak Hit** — you succeed, but **Pay the Price.** |
 | **6 or less** | **Miss** — you fail, and **Pay the Price.** |
 
-A **Weak Hit is still a success** — you get what you reached for, with a complication attached. A **Miss** is the only result where you don't get what you wanted. (Full details on Paying the Price are in Chapter 9; the short version is −1 Readiness on a Weak Hit, −2 on a Miss.)
+A **Weak Hit is still a success** — you get what you reached for, with a complication attached. A **Miss** is the only result where you don't get what you wanted. (Full details on Paying the Price are in Chapter 9; the short version is −1 Readiness on a Weak Hit, −2 on a Miss — a touch more at a four- or five-hero table.)
 
 ### Regular Rolls vs. Challenge Rolls
 

@@ -8,7 +8,7 @@ You don't have to read it in order or all at once. Reach for it when an answer w
 
 Inside this Part:
 
-- **Chapter 14 — Worldbuilding** takes the ten questions deeper: what a *good* answer to each looks like, how the genre bends every answer, and how to run it together or solo.
+- **Chapter 14 — Worldbuilding** takes the ten questions deeper: what a *good* answer to each looks like, how the genre bends every answer, and how to run it together or on your own.
 - **Chapter 15 — Genres** is the deep dive on the most important question of all: seven optional genre toolkits, the playful-to-serious dial, and a **Genre Kit** for each to get you building fast.
 - **Chapter 16 — Building a Cool Hero** is for when you want a character with a voice, a drive, and a flaw — not just two Stats, three Assets, and a number.
 - **Chapter 17 — Making Locations** is a quick generator for the places the heroes wander into unplanned — each built to hand you a hook the moment they walk in.
