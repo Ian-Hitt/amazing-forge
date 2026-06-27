@@ -662,6 +662,13 @@ only on flee; keep the Antagonist Track length = Story Arc Track (works fine her
 
 ## 4c. Start a Challenge opening roll (`sim_start_challenge.py`, 2026-06-09)
 
+> ⚠️ **2026-06-27 — refolded onto a d6 oracle.** Both Start moves (Start a Challenge, Start a Story
+> Arc) now resolve as a single **d6 oracle** roll, not `2d6 + 1`: **5–6** +1 · **3–4** 0 · **1–2** −1
+> (flat 33/33/33). This sim was run on the old `2d6 + 1` (which skewed 33/44/22, *slightly*
+> hero-favorable). The new d6 is fractionally *less* hero-favorable (less weight on the +1), so the
+> conclusion below — a negligible, mostly-flavor nudge with no balance impact — holds **a fortiori.**
+> Numbers below are the original `2d6 + 1` run, kept for the record.
+
 **Move under test.** A new **Progress move**, the twin of *Start a Story Arc*, rolled once when
 heroes **deliberately initiate** a Challenge. A PbtA-style one-roll temporary modifier (a
 **+1 to your next roll**), applied only to the **first hero roll** of that Challenge:

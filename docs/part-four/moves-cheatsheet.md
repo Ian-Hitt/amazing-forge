@@ -107,13 +107,13 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
       <h3>Progress Moves</h3>
       <p class="af-famsub">Open or close a track &mdash; a Story Arc or a Challenge.</p>
 
-      <div class="af-move"><span class="af-mname">Start a Story Arc.</span> One <b>2d6 + 1</b> roll when a Story Arc begins (no Asset; generative). It sets how the adventure opens:
-        <div class="af-tier"><b>10+</b> <i>Clear purpose</i> &mdash; you're in control and move first.</div>
-        <div class="af-tier"><b>7&ndash;9</b> <i>More questions than answers</i> &mdash; open with one complication already in play.</div>
-        <div class="af-tier"><b>6&minus;</b> <i>Trouble finds you first</i> &mdash; open in the thick of it, likely mid-Challenge.</div>
+      <div class="af-move"><span class="af-mname">Start a Story Arc.</span> One <b>d6</b> oracle roll when a Story Arc begins (no Stat/Asset; generative &mdash; can't fail). It sets how the adventure opens:
+        <div class="af-tier"><b>5&ndash;6</b> <i>Clear purpose</i> &mdash; they know exactly what to do; open <i>in medias res</i> on the first Milestone.</div>
+        <div class="af-tier"><b>3&ndash;4</b> <i>A general idea</i> &mdash; they know the goal, not yet how to act on it.</div>
+        <div class="af-tier"><b>1&ndash;2</b> <i>Trouble finds you first</i> &mdash; open in the thick of it, likely mid-Challenge.</div>
       </div>
 
-      <div class="af-move"><span class="af-mname">Start a Challenge.</span> When you <i>choose</i> to open a Challenge, one <b>2d6 + 1</b> roll (no Asset; generative) sets the jump &mdash; a one-time edge on the <b>first roll</b> only. <b>10+</b> +1 (you got the drop) &middot; <b>7&ndash;9</b> 0 (even) &middot; <b>6&minus;</b> &minus;1 (they beat you to it). Skip it if trouble is thrust on you.</div>
+      <div class="af-move"><span class="af-mname">Start a Challenge.</span> When you <i>choose</i> to open a Challenge, one <b>d6</b> oracle roll (no Stat/Asset; generative) sets the jump &mdash; a one-time edge on the <b>first roll</b> only. <b>5&ndash;6</b> +1 (you got the drop) &middot; <b>3&ndash;4</b> 0 (even) &middot; <b>1&ndash;2</b> &minus;1 (they beat you to it). Skip it if trouble is thrust on you.</div>
 
       <div class="af-move"><span class="af-mname">Fall back.</span> Retreat from a Challenge (lose its progress) and take a Recovery Scene &mdash; the party heals fully back to 9. The stay-alive valve.</div>
 

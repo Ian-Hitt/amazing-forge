@@ -104,7 +104,7 @@ Take turns — **everyone acts once before anyone repeats.** On each Challenge R
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Challenge <span class="lca-when">— when you choose to open one</span></p>
 
-Roll **2d6 + 1** for a one-time nudge to the **first roll** only: **10+** +1 · **7–9** 0 · **6−** −1. Skip it when trouble is thrust on you.
+Roll a single **d6** — an oracle roll — for a one-time nudge to the **first roll** only: **5–6** +1 · **3–4** 0 · **1–2** −1. Skip it when trouble is thrust on you.
 </div>
 <div class="lca-move" markdown>
 <p class="lca-move-name">Fall back <span class="lca-when">— bail out of a Challenge</span></p>
@@ -176,7 +176,7 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Story Arc <span class="lca-when">— the opening roll</span></p>
 
-When a Story Arc begins, roll **2d6 + 1** (generative — you can't fail it) to set the opening: **10+** clear purpose · **7–9** one complication already in play · **6−** trouble finds you first.
+When a Story Arc begins, roll a single **d6** — an oracle roll (generative; you can't fail it) — to set the opening: **5–6** clear purpose (open *in medias res* on the first Milestone) · **3–4** a general idea, not yet how to act on it · **1–2** trouble finds you first.
 </div>
 
 ## Ask the Oracle

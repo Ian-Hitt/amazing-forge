@@ -105,7 +105,7 @@ the book. When reviewing a chapter, treat any deviation as an error to flag.
 | **Bad Guys Close In** | The narrated antagonist beat played out when an **odd box** of the Antagonist Track fills (1·3·5, plus 7·9 on a Movie): cut away and show the antagonist closing in — gaining ground on-screen. Even boxes pass silently. The **last box is the antagonist's victory.** The short form **"Closing In"** is the abbreviation printed on the physical Story Arc sheet only. | the Surge, the Attack (both retired); Closing In (sheet short form) |
 | **Fall back** | Retreating from a losing Challenge (losing its progress) to regroup — handled as a **Recovery Scene** (full heal, **free**, no antagonist advance). | Flee, retreat (as the mechanic) |
 | **Quit the Story Arc** | Giving up a Story entirely — the terminal fall back; the bad guys win. | forfeit, surrender |
-| **Start a Story Arc** | The opening roll made once when a Story Arc begins (2d6 + 1, **generative** — no failure): sets how it opens — *Clear purpose* / *More questions than answers* / *Trouble finds you first*. | Swear an Iron Vow |
+| **Start a Story Arc** | The opening roll made once when a Story Arc begins — a **d6 oracle** roll (**generative** — no failure): sets how it opens — **5–6** *Clear purpose* / **3–4** *A general idea* / **1–2** *Trouble finds you first*. | Swear an Iron Vow |
 | **Milestone** | A chapter of the story (a collection of Scenes); checks one Story Arc Track box. Every 3rd Milestone earns each hero 1 Growth. | objective, step |
 | **Scene** | A single beat of play — one or a few Regular Rolls, or a full Challenge. Milestones are made of Scenes. | — |
 | **Challenge** | An active multi-roll obstacle + its track. | encounter, scene (as a mechanic) |
@@ -559,8 +559,8 @@ Each move is defined in full in the chapter noted; this list is the authoritativ
 
 | Move | What it does | Dice |
 |---|---|---|
-| **Start a Story Arc** | Sets how a new Story Arc opens — *Clear purpose* / *More questions than answers* / *Trouble finds you first* (Ch.10). | 2d6 + 1, generative |
-| **Start a Challenge** | Sets the opening of a Challenge the heroes *deliberately initiate*: a one-time **±1 to the first roll** (Strong +1 *you got the drop* / Weak 0 *even footing* / Miss −1 *they beat you to it*). Skipped when trouble is thrust on the heroes (Ch.8). | 2d6 + 1, generative |
+| **Start a Story Arc** | Sets how a new Story Arc opens — **5–6** *Clear purpose* / **3–4** *A general idea* / **1–2** *Trouble finds you first* (Ch.10). | **d6 oracle**, generative |
+| **Start a Challenge** | Sets the opening of a Challenge the heroes *deliberately initiate*: a one-time **±1 to the first roll** (**5–6** +1 *you got the drop* / **3–4** 0 *even footing* / **1–2** −1 *they beat you to it*). Skipped when trouble is thrust on the heroes (Ch.8). | **d6 oracle**, generative |
 | **Fall back** | Retreat from a losing Challenge (lose its progress) to regroup — resolved as a **Recovery Scene** (full heal, free, no antagonist advance) (Ch.8/9). | none |
 | **Quit the Story Arc** | The terminal fall back — give up a Story; no penalty or bonus; the loss seeds a new Story (Ch.10). | none |
 
@@ -639,32 +639,34 @@ are prose patterns, not new machinery:
 ### Start a Story Arc (The Opening Roll)
 
 Once a Story Arc is set up (Goal, Milestones, antagonist, both tracks), make one **Start a Story Arc**
-roll to set *how it opens:* **2d6 + 1** (no Asset applies — this isn't a test of a hero's skill;
-the +1 is the off-Asset floor, and **doubles upgrade** the result). It is **generative,
-not pass/fail** — all three tiers are playable openings, differing only in how much trouble is
-already on the heroes when the first Scene starts:
+roll to set *how it opens:* a single **d6 oracle roll** (no Stat or Asset — this isn't a test of a
+hero's skill; nothing here is a hero *doing* anything, so it reuses the bare **Ask the Oracle** die,
+Ch.11). It is **generative, not pass/fail** — all three bands are playable openings, differing only
+in how clearly the heroes know what to do and how much trouble is already on them:
 
-- **10+ — Clear purpose.** Open on the front foot; the heroes are in control and move first.
-- **7–9 — More questions than answers.** Open in motion with **one** complication already in
-  play (Ask the Oracle, or just decide).
-- **6− — Trouble finds you first.** Open in the thick of it; the first Scene is likely an
+- **5–6 — Clear purpose.** The heroes know exactly what to do; open *in medias res* on the first
+  Milestone, already in motion on it.
+- **3–4 — A general idea.** They know the goal but not yet how to act on it; open committed but
+  feeling their way in (Ask the Oracle, or just decide).
+- **1–2 — Trouble finds you first.** Open in the thick of it; the first Scene is likely an
   unchosen Challenge (Ask the Oracle for the obstacle).
 
 The result sets the *temperature* of the first Scene; the content always points at the **first
 Milestone**. First games (Part One) skip the roll and simply open in media res (Ch.3).
 
-> ✅ **DECIDED — Start a Story Arc opening roll (2026-06-09).** A **Progress move** (it opens a Story Arc
-> track rather than resolving a hero's attempt; originally filed as a "Frame move" before the
-> three-family revision): one **2d6 + 1** roll made when a Story Arc begins, to generate the tone of
-> its opening. Modeled on Starforged's *Swear an
-> Iron Vow*, **minus** the momentum reward. **Generative, not adjudicative** — no hero is tested,
-> so there is no failure; the three tiers (*Clear purpose* / *More questions than answers* /
-> *Trouble finds you first*) are three flavors of opening, a "Miss" being simply the most
-> cinematic way in. It uses the **full core roll** (the +1 off-Asset floor; doubles upgrade the result
-> applies) rather than a bare d6, so the familiar Strong/Weak/Miss ladder carries the
-> good/middle/poor shape. **No balance impact** (no Readiness or track stakes; not modeled in the
-> Math doc). Part One **skips** it (assume a clean launch, open in media res); Part Two (Ch.10)
-> teaches it with interpretation guidance. Vocabulary row added; listed in *The Moves*.
+> ✅ **DECIDED — Start a Story Arc opening roll (2026-06-09; reworked to a d6 oracle 2026-06-27).** A
+> **Progress move** that opens a Story Arc track rather than resolving a hero's attempt. **It is an
+> oracle roll** — nothing here involves a character *doing* something, so it reuses the bare
+> single-**d6** Ask the Oracle mechanic (Ch.11) rather than the 2d6 core roll. **Generative, not
+> adjudicative** — no hero is tested, so there is no failure; the three bands (**5–6** *Clear purpose*
+> / **3–4** *A general idea* / **1–2** *Trouble finds you first*) are three flavors of opening, a low
+> roll being simply the most cinematic way in. **History:** originally a **2d6 + 1** roll (the +1 a
+> compensating off-Asset floor, with doubles upgrading) on the Strong/Weak/Miss ladder — modeled on
+> Starforged's *Swear an Iron Vow* minus the momentum reward. Retired 2026-06-27: a +1-on-a-move with
+> no Stat/Asset was awkward, and the roll is conceptually an oracle, so it was folded onto the existing
+> d6 oracle (no doubles, no modifier — the bands sit where the curve wants them). **No balance impact**
+> (no Readiness or track stakes; not modeled in the Math doc). Part One **skips** it (open in media
+> res, Ch.3); Part Two (Ch.10) teaches it. Vocabulary row added; listed in *The Moves*.
 
 ### The Antagonist Track (The Bad-Guy Clock)
 
@@ -1176,8 +1178,8 @@ Everyone is a player, sharing the directing duties equally.
 > already at 9 does nothing (and still risks the −1 — don't); a Recovery Scene always heals to a
 > full 9 and is **free** (no declining ceiling — ratchet removed 2026-06-22; recovery-surge retired
 > 2026-06-25); a loss past 0 stops at 0 (no overflow; OoA is the worst case); a generative roll
-> (Start a Story Arc / Start a Challenge) that rolls doubles on an already-10+ result takes the top
-> result **plus** a small extra edge.
+> (Start a Story Arc / Start a Challenge) is a single **d6** oracle roll as of 2026-06-27, so there
+> are no doubles to upgrade (the old doubles-on-an-already-10+ clarification retired with the 2d6+1 version).
 
 > ✅ **DECIDED — the Devil's Bargain antagonist-clock rework (2026-06-25).** The defining rework of the
 > Antagonist Track, propagated through the whole book. **(1) Recovery is FREE** — a Recovery Scene heals
@@ -1266,12 +1268,14 @@ fifth Core Principle, and the *Amazing Tales* **starter-backdrop** option.
 - **Ask the Oracle** added — the Co-op "what happens next" move: name the next Milestone
   first, then do the obvious thing / roll the **Story Spark** d6 / roll the **Ask the Dice**
   yes/no (Section 10).
-- **Start a Story Arc opening roll (2026-06-09).** A **Progress move**: one **2d6 + 1** roll when a
-  Story Arc begins, **generative not pass/fail**, setting the tone of its opening (*Clear purpose* /
-  *More questions than answers* / *Trouble finds you first*). Modeled on *Swear an Iron Vow* minus
-  the momentum reward; uses the full core roll so the Strong/Weak/Miss ladder carries the
-  good/middle/poor shape; doubles upgrade applies. No balance impact. Part One skips it; Part
-  Two (Ch.10) teaches it. Also introduced the **Action vs. Frame** move families as the organizing
+- **Start a Story Arc opening roll (2026-06-09; reworked to a d6 oracle 2026-06-27).** A **Progress
+  move**, **generative not pass/fail**, setting the tone of a new Story Arc's opening (**5–6** *Clear
+  purpose* / **3–4** *A general idea* / **1–2** *Trouble finds you first*). **It is an oracle roll** —
+  nothing here is a hero *doing* something — so it reuses the bare single-**d6** Ask the Oracle die
+  (Ch.11). *History:* originally a **2d6 + 1** roll on the Strong/Weak/Miss ladder (the +1 a
+  compensating off-Asset floor; doubles upgrade); retired 2026-06-27 — a +1-on-a-move with no
+  Stat/Asset was awkward and the roll is conceptually an oracle. No balance impact. Part One skips it;
+  Part Two (Ch.10) teaches it. Also introduced the **Action vs. Frame** move families as the organizing
   lens for the new **The Moves (Master List)** in Section 5 (Sections 5, 6).
 - **Co-op directing rules** added — scene transitions and NPC voicing rotate popcorn-style;
   playing an NPC sidelines your own hero; group-narration option (Section 10).
@@ -1321,10 +1325,11 @@ fifth Core Principle, and the *Amazing Tales* **starter-backdrop** option.
   the lone non-horizontal option.)
   Section 4, Step 4.
 
-- ✅ **Start a Story Arc opening roll (2026-06-09)** — one **2d6 + 1**, generative (never a failure),
-  made when a Story Arc begins to set its opening tone. A **Progress move** (originally filed as the
-  first "Frame move," before the three-family revision); Part One skips it. See Sections 5–6 and
-  **The Moves (Master List)**.
+- ✅ **Start a Story Arc opening roll (2026-06-09; reworked to a d6 oracle 2026-06-27)** — one **d6**
+  oracle roll, generative (never a failure), made when a Story Arc begins to set its opening tone
+  (5–6 / 3–4 / 1–2). A **Progress move** (originally filed as the first "Frame move," before the
+  three-family revision; originally a 2d6 + 1 move-style roll, refolded onto the d6 oracle 2026-06-27);
+  Part One skips it. See Sections 5–6 and **The Moves (Master List)**.
 
 - ✅ **Three move families: Action / Progress / Frame (2026-06-09, revised same day)** — the
   move families are Standard Vocabulary terms, not just an organizing lens. Originally split two
@@ -1335,13 +1340,15 @@ fifth Core Principle, and the *Amazing Tales* **starter-backdrop** option.
   track (Ask the Oracle, Pay the Price). The printable **Moves Cheatsheet** (Part Four) lists every
   move under these three headings. See the vocab table and **The Moves (Master List)**.
 
-- ✅ **Start a Challenge opening roll (2026-06-09)** — a new **Progress move**, the twin of Start
-  a Story Arc, rolled once when the heroes *deliberately initiate* a Challenge (skipped when trouble is
-  thrust on them). **2d6 + 1**, generative (doubles upgrade on): Strong → **+1** to the
-  first Challenge Roll, Weak → 0, Miss → **−1**. A one-time bonus to a single roll (the bonus/penalty
-  applies to the single first roll, then it's gone), so it never rescales the +2/+1 curve. Sim-cleared as a
-  negligible, mostly-flavor nudge — `Math & Simulation Reference.md` §4c. Confirms a temporary ±1
-  to a single roll is a safe lever, distinct from the "never bigger numbers" rule on *permanent* advancement.
+- ✅ **Start a Challenge opening roll (2026-06-09; reworked to a d6 oracle 2026-06-27)** — a **Progress
+  move**, the twin of Start a Story Arc, rolled once when the heroes *deliberately initiate* a Challenge
+  (skipped when trouble is thrust on them). A single **d6** oracle roll, generative: **5–6** → **+1** to
+  the first Challenge Roll, **3–4** → 0, **1–2** → **−1**. *History:* originally **2d6 + 1** with doubles
+  upgrade; refolded onto the bare d6 oracle 2026-06-27 alongside Start a Story Arc. A one-time bonus to a
+  single roll (applies to the first roll, then it's gone), so it never rescales the +2/+1 curve.
+  Sim-cleared as a negligible, mostly-flavor nudge — `Math & Simulation Reference.md` §4c. Confirms a
+  temporary ±1 to a single roll is a safe lever, distinct from the "never bigger numbers" rule on
+  *permanent* advancement.
   See Ch.8 and **The Moves (Master List)**.
 
 **Still open (need a call):**

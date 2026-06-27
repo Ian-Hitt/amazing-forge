@@ -36,21 +36,21 @@ Difficulty is a **screen-time dial,** not a balance setting: you pick Hard for t
 
 When the heroes **choose to start** a Challenge — they pick the fight, breach the vault, decide to ford the rapids *now* — make one quick roll to see how the opening breaks. This is **Start a Challenge,** the Challenge-sized cousin of Start a Story Arc (Chapter 10).
 
-Roll **2d6** flat — no modifier. This isn't a test of any one hero's Stats or Assets, it's the dice setting the scene — but **doubles still bump the result up one tier** (and if you roll doubles on a result that's *already* a 10+, take the top result **plus** a small extra edge of your choice). You can't fail it; it just decides who has the jump as the Scene begins.
+Like Start a Story Arc, this is an **oracle roll** — nothing here is a hero attempting a risky action, so it reuses the bare **Ask the Oracle** die (Chapter 11): roll a single **d6** and read it. No Stat or Asset applies; you can't fail it. It just decides who has the jump as the Scene begins.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Challenge <span class="lca-when">— when the heroes choose to open a Challenge</span></p>
 
-Roll **2d6** flat (no modifier). You can't fail it — it just sets who has the jump as the Scene begins:
+Roll a single **d6** (the oracle die — no Stat or Asset). You can't fail it; it just sets who has the jump as the Scene begins:
 
-- **Strong Hit (10+):** you got the drop — **+1 to the first roll** of the Challenge.
-- **Weak Hit (7–9):** even footing — **no change.**
-- **Miss (6−):** they beat you to it — **−1 to the first roll** of the Challenge.
+- **5–6:** you got the drop — **+1 to the first roll** of the Challenge.
+- **3–4:** even footing — **no change.**
+- **1–2:** they beat you to it — **−1 to the first roll** of the Challenge.
 
 *A one-time edge — it applies only to the very first Challenge Roll, then it's gone · skip the roll if trouble is thrust on the heroes instead.*
 </div>
 
-That bonus or penalty is a **one-time edge:** it applies only to the **very first Challenge Roll** anyone makes this Scene, and then it's gone — it doesn't carry to later rolls. Narrate what it means: on a Strong Hit the heroes surge in with the initiative; on a Miss the opposition moves first and the heroes are a half-step behind. It's a small cinematic nudge for seizing the moment (or a small cost for charging in unready), nothing more.
+That bonus or penalty is a **one-time edge:** it applies only to the **very first Challenge Roll** anyone makes this Scene, and then it's gone — it doesn't carry to later rolls. Narrate what it means: on a **5–6** the heroes surge in with the initiative; on a **1–2** the opposition moves first and the heroes are a half-step behind. It's a small cinematic nudge for seizing the moment (or a small cost for charging in unready), nothing more.
 
 **Only roll it when the heroes choose to open the Challenge.** If trouble is thrust on *them* instead — an ambush, or a Start a Story Arc that opened with "Trouble finds you first" — skip the roll. They're already reacting, not seizing anything, so the Scene simply begins in motion.
 

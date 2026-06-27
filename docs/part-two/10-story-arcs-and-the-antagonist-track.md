@@ -71,35 +71,35 @@ Mix and match — a Story Arc can blend shapes (a journey that ends in a heist, 
 
 You've named the Goal, the Milestones, and the antagonist, and drawn the two tracks. One thing's left before the first scene: find out *how* the Story Arc opens. **Start a Story Arc** is the move that does it — a single roll, made once as the Story Arc begins, that hands you the tone of your launch and points you straight at your opening scene.
 
-Roll **2d6.** No Stat or Asset applies here — this isn't a test of any hero's skill; it's the world deciding how things stand as you set out, so you roll the bare dice. (And **doubles still bump your opening up a tier** — or, if you're already at a 10+, adding an extra stroke of good fortune to your launch.)
+This is an **oracle roll,** so it works just like **Ask the Oracle** (Chapter 11): roll a single **d6** and read the result. No Stat or Asset applies — nothing here is a hero *doing* something risky; it's the world telling you how things stand as the camera starts rolling.
 
-Here's the important part: **this is a roll you can't fail.** All three results are good openings — they only differ in how much trouble is already on the heroes when the camera starts rolling.
+Here's the important part: **this is a roll you can't fail.** All three results are good openings — they only differ in how clearly the heroes know what to do, and how much trouble is already on them.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Story Arc <span class="lca-when">— once, as a new Story Arc begins</span></p>
 
-Find out how the launch goes. Roll **2d6** (no Stat or Asset — the world is setting the scene, not a hero):
+Find out how the launch goes. Roll a single **d6** (the oracle die — the world is setting the scene, not a hero):
 
-- **Strong Hit (10+):** **Clear purpose** — open on the front foot, the heroes ready and in control.
-- **Weak Hit (7–9):** **More questions than answers** — begin in motion with one complication already in play.
-- **Miss (6−):** **Trouble finds you first** — open in the thick of it, likely a Challenge the heroes didn't choose.
+- **5–6 — Clear purpose:** the heroes know exactly what to do. Take the first Milestone head on — open *in medias res,* already in motion on it.
+- **3–4 — A general idea:** they know what they're after, but not yet how to act on it. Begin committed, feeling their way in.
+- **1–2 — Trouble finds you first:** a setback meets them before they've taken a step — open in the thick of it, likely a Challenge they didn't choose.
 
-*Can't be failed — every result is a good opening · doubles bump it up a tier.*
+*Can't be failed — every result is a good opening.*
 </div>
 
 | Roll | Your Story Arc opens… | How to play it |
 |---|---|---|
-| **10+ — Clear purpose** | You set out emboldened, the way ahead in plain sight. | Open on the **front foot.** The heroes are ready and in control as the scene begins, and *they* make the first move. Paint a confident launch and ask "What do you do?" |
-| **7–9 — More questions than answers** | You're committed, but something's already unsettled. | Begin in motion with **one complication** already in play. Don't know what? **Ask the Oracle** (Chapter 11) or just decide — a missing supply, an unexpected face, a route that's changed. |
-| **6− — Trouble finds you first** | A setback meets you before you've taken a step. | Open **in the thick of it,** on the back foot — the first scene is very likely a **Challenge** the heroes didn't choose. **Ask the Oracle** for the obstacle if it isn't obvious. The most cinematic launch of the three. |
+| **5–6 — Clear purpose** | The heroes know exactly what to do, and the way ahead is in plain sight. | Open **in medias res** — drop straight into the first Milestone, the heroes already moving on it. Paint a confident, in-motion launch and ask "What do you do?" |
+| **3–4 — A general idea** | They know what they're after, but not yet how to get there. | Begin **committed but feeling their way in** — the goal is clear, the path isn't. Open with them sizing things up, deciding where to start. **Ask the Oracle** (Chapter 11) if you want the table to surprise you with what they find. |
+| **1–2 — Trouble finds you first** | A setback meets them before they've taken a step. | Open **in the thick of it,** on the back foot — the first scene is very likely a **Challenge** the heroes didn't choose. **Ask the Oracle** for the obstacle if it isn't obvious. The most cinematic launch of the three. |
 
-**Why a Miss is still a good thing.** Because nothing here is a hero attempting a risky action, a "Miss" isn't a failure — it's just the most dramatic way *in.* Over a long game, most Stories will open with *some* immediate tension and a few will open calm, and that mix is exactly the pacing a good series has.
+**Why a 1–2 is still a good thing.** Because nothing here is a hero attempting a risky action, a low roll isn't a failure — it's just the most dramatic way *in.* Over a long game most Stories will open with *some* immediate tension and a few will open clear, and that mix is exactly the pacing a good series has.
 
 **Turning the result into a scene.** The roll gives you a *temperature,* not a script — you still supply the content, and the content always points at your **first Milestone.** Say your first Milestone is "find the secret entrance":
 
-- A **10+** opens with the heroes at the cliff face, rested and ready, scanning the rock for the hidden door.
-- A **7–9** opens the same way, but the map was wrong — the door isn't where it should be, and the light's already fading.
-- A **6−** opens with them clinging to that cliff in a howling storm, a goblin patrol closing in below.
+- A **5–6** opens with the heroes already at the cliff face, hands on the rock, working the hidden door open.
+- A **3–4** opens with them at the base of the cliff knowing the door is *somewhere* up there — but the map was vague, and they have to work out where to climb.
+- A **1–2** opens with them clinging to that cliff in a howling storm, a goblin patrol closing in below.
 
 Same Milestone, three different heats. Roll, read the temperature, paint the picture, and ask "What do you do?"
 
