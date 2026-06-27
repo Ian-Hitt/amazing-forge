@@ -37,6 +37,18 @@ That **+0** is the edge of danger: when a hero reaches past everything they're g
 
 ### The Three Outcomes
 
+<div class="lca-move" markdown>
+<p class="lca-move-name">The Roll <span class="lca-when">— any time a hero does something risky or uncertain</span></p>
+
+Roll **2d6 + your modifier** (+0/+1/+2) and read the total. On a Hit, **narrate the change.**
+
+- **Strong Hit (10+):** you succeed cleanly.
+- **Weak Hit (7–9):** you succeed, but **Pay the Price** (−1 Readiness).
+- **Miss (6−):** you fail, and **Pay the Price** (−2 Readiness) — *or* take the **Devil's Bargain** (Chapter 9).
+
+*Doubles upgrade a Hit; doubles on a Miss advance the antagonist · a touch more harm at a four- or five-hero table.*
+</div>
+
 | Total | Result |
 |---|---|
 | **10+** | **Strong Hit** — you succeed cleanly. |
@@ -67,11 +79,19 @@ The habit to build: **never let a roll end with just a number.** Always answer "
 
 ### Aid Your Ally
 
-The core move has one variant: instead of pointing your action at a problem, you point it at a *teammate.* On your turn — in a Challenge or out of one — you can spend your roll to help another hero instead of acting yourself. Describe how you assist, then roll **2d6 + modifier** — built the usual two-layer way, but measured against the *help* you're giving: **+1** if it calls for one of your Stats, **+1** if one of your Assets fits it, **+0** if you're helping outside your wheelhouse:
+The core move has one variant: instead of pointing your action at a problem, you point it at a *teammate.* On your turn — in a Challenge or out of one — you can spend your roll to help another hero instead of acting yourself. Describe how you assist, then roll **2d6 + modifier** — built the usual two-layer way, but measured against the *help* you're giving: **+1** if it calls for one of your Stats, **+1** if one of your Assets fits it, **+0** if you're helping outside your wheelhouse.
 
-- **Strong Hit (10+):** your help lands cleanly — your ally gets **+2** on their next roll.
-- **Weak Hit (7–9):** your help lands, but you **Pay the Price** — your ally gets **+1** on their next roll, and **you lose 1 Readiness.**
-- **Miss (6 or less):** your help doesn't land — **no bonus** — and you **Pay the Price** (−2 Readiness).
+<div class="lca-move" markdown>
+<p class="lca-move-name">Aid Your Ally <span class="lca-when">— on your turn, spend your roll to help another hero</span></p>
+
+Roll **2d6 + modifier** for the help you're giving; the bonus lands on your ally's **next** roll.
+
+- **Strong Hit (10+):** your help lands cleanly — your ally gets **+2.**
+- **Weak Hit (7–9):** your help lands, but you **Pay the Price** — your ally gets **+1,** and **you lose 1 Readiness.**
+- **Miss (6−):** your help doesn't land — **no bonus** — and you **Pay the Price** (−2 Readiness).
+
+*Aid stacks — multiple allies can pile on the same roll · doubles upgrade the tier as always.*
+</div>
 
 Aid uses the *exact same math* as any other roll, Pay the Price included — it's the core move aimed at a teammate, not a separate, gentler rule. The Readiness cost on a Weak Hit or Miss isn't a penalty for being generous; it's the same risk every action carries, because reaching out to help is itself an action in the Scene. Doubles upgrade the tier just as they always do (a Weak Hit Aid with doubles becomes a Strong Hit — your ally gets +2 and you pay nothing).
 

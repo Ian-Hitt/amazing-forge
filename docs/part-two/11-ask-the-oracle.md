@@ -4,6 +4,18 @@ Every table hits the same moment sooner or later: the scene resolves, the dice g
 
 Part One gave you the quick version in Chapter 6. This is the full toolkit: when to reach for it, all three rungs of the ladder, the complete **Story Spark** and **Ask the Dice** tables, and how to keep rolling without spiraling.
 
+<div class="lca-move" markdown>
+<p class="lca-move-name">Ask the Oracle <span class="lca-when">— when the story stalls and nobody knows what's next</span></p>
+
+Work down the ladder and stop the moment you have something to play:
+
+- **Name the next Milestone.** Look at the Story Arc Track — the next scene is a step toward it.
+- **Do the obvious.** Talk it out; run with what would clearly happen next in this movie.
+- **Roll the dice.** Roll the **Story Spark** (d6) for an open "what happens next," or **Ask the Dice** (d6) for a yes/no.
+
+*Only for genuine uncertainty — when someone already knows, just play it.*
+</div>
+
 > **One tool, two modes.** In **Co-op** play (no Guide), Ask the Oracle isn't a fallback — it's the *engine*. It's how the table generates a story nobody planned. In **Guided** play it's a Guide's best friend too: when you don't know an answer, you don't have to invent one alone — you can roll, or throw the question to the table. Either way, the goal is the same: get back to playing as fast as possible.
 
 ---

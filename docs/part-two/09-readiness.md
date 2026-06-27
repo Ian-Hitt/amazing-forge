@@ -66,6 +66,14 @@ Used this way, Paying the Price becomes the engine of complications that the who
 
 On a **Miss**, you don't have to take the price lying down. You can strike a **Devil's Bargain:** refuse the Readiness loss *and* turn the Miss into a **Strong Hit** — you get exactly what you reached for — in exchange for **advancing the Antagonist Track one box** (Chapter 10). You buy success now by handing the antagonist a step toward their goal.
 
+<div class="lca-move" markdown>
+<p class="lca-move-name">Devil's Bargain <span class="lca-when">— on a Miss, optional (not on a Miss that would knock you Out of Action)</span></p>
+
+Refuse the Readiness loss **and** upgrade the Miss to a **Strong Hit** — you get exactly what you reached for — in exchange for **advancing the Antagonist Track one box** (Chapter 10).
+
+*Always optional · can't be taken on a knockout roll · the antagonist's advance is a story beat.*
+</div>
+
 It's a real gamble, and the heart of a Story Arc's pressure:
 
 - **It pushes both clocks at once.** A bargain fills your Challenge box *and* the antagonist's track. You're betting you're closer to your finish than they are to theirs.
@@ -93,13 +101,19 @@ Only **Mend** is a roll (Chapter 7); the Recovery Scene and Downtime are automat
 
 ### Mend — the Quick Gamble
 
-Any time the fiction gives you a beat — in the thick of a Challenge, *or* in an ordinary scene between them — a hero can **Mend:** a fast, risky patch-up of a hurt hero, **yourself or a teammate.** (A Challenge is just a scene with a track; you can patch up in either.) In a Challenge it's a real tactical choice — *press the advantage, or take a beat to patch up?* — since Mending is your action that turn instead of a Challenge Roll. Describe the care — binding a wound, a quick spell, a swig from a flask, a steadying word — then roll, building the modifier the usual two-layer way against the care you're giving: **+1** if it calls for one of your Stats (a steadying word leans on **Charming**, field surgery on **Clever**), **+1** if one of your Assets fits, **+0** if neither (doubles upgrade a Hit, as always — a missed Mend just costs you, below). The hero you tend:
+Any time the fiction gives you a beat — in the thick of a Challenge, *or* in an ordinary scene between them — a hero can **Mend:** a fast, risky patch-up of a hurt hero, **yourself or a teammate.** (A Challenge is just a scene with a track; you can patch up in either.) In a Challenge it's a real tactical choice — *press the advantage, or take a beat to patch up?* — since Mending is your action that turn instead of a Challenge Roll. Describe the care — binding a wound, a quick spell, a swig from a flask, a steadying word — then roll, building the modifier the usual two-layer way against the care you're giving: **+1** if it calls for one of your Stats (a steadying word leans on **Charming**, field surgery on **Clever**), **+1** if one of your Assets fits, **+0** if neither (doubles upgrade a Hit, as always — a missed Mend just costs you, below).
 
-| Roll | Result (for the tended hero) |
-|---|---|
-| **Strong Hit (10+)** | Recover **+3** Readiness. |
-| **Weak Hit (7–9)** | Recover **+2** Readiness. |
-| **Miss (6 or less)** | The patch goes wrong — **lose 1 Readiness.** (A hero already at low Readiness can be knocked **Out of Action** by a missed Mend.) |
+<div class="lca-move" markdown>
+<p class="lca-move-name">Mend <span class="lca-when">— any scene, on your turn (your action instead of a Challenge Roll)</span></p>
+
+Patch up a hurt hero — yourself or a teammate. Roll 2d6 + modifier for the care you give; the tended hero:
+
+- **Strong Hit (10+):** recover **+3** Readiness.
+- **Weak Hit (7–9):** recover **+2** Readiness.
+- **Miss (6−):** the patch goes wrong — **lose 1** Readiness (a hero already low can be knocked **Out of Action**).
+
+*No usage cap · heals only up to 9 · can't revive an Out-of-Action hero.*
+</div>
 
 Mend has **no usage cap** — it's a gamble, not a ration, and two things keep it honest:
 
@@ -110,6 +124,12 @@ One more rule: **Mend cannot revive an Out-of-Action hero** — only a Recovery 
 
 ### The Recovery Scene — Fall Back and Regroup
 
+<div class="lca-move" markdown>
+<p class="lca-move-name">Recovery Scene <span class="lca-when">— fall back and regroup at a safe lull</span></p>
+
+The whole party heals **fully back to 9.** No roll, no cost, and it **never advances the antagonist** — regroup as often as the fiction allows. (Bailing out of a Challenge you're losing is just a Recovery Scene: lose that track's progress and heal up.)
+</div>
+
 Whenever the heroes reach a safe lull — **most often between Challenges**, when the action pauses and they can catch their breath — they can **fall back and regroup:** a **Recovery Scene.** This is the reliable recovery. The party pulls back, and **everyone recovers all the way back to 9** — no roll, no whiff. Falling back *works,* and it works completely.
 
 That's deliberate. A Recovery Scene costs you nothing but the time it takes — so you never ration it or dread it. What it *does* cost is the camera: a Recovery Scene means stepping out of the action to regroup. Its real job isn't bookkeeping — it's **pacing.** It's the quiet beat between dangers: the campfire, the patched wound, **the character scene.** Tables won't reach for one after every scratch — nobody wants to stop the movie to rest — but when the party's battered, falling back to breathe and play a character beat is always available and always safe.
@@ -119,6 +139,12 @@ A Recovery Scene is **gated by the fiction** (you need a genuine safe moment) an
 So the rhythm of a Story Arc is: push, get battered, fall back and breathe, push again — with the antagonist's clock ticking up not when you *rest,* but when you *gamble* (a Devil's Bargain), when the dice betray you (doubles on a Miss), or when a hero goes down (below).
 
 ### Downtime — Between Stories
+
+<div class="lca-move" markdown>
+<p class="lca-move-name">Downtime <span class="lca-when">— between Story Arcs</span></p>
+
+Restore every **Broken Asset** — the heroes start the next Story whole. No roll, no antagonist advance. (Readiness is already full from any Recovery Scene, so Downtime isn't a heal — it's about reforging what broke, and slowing down for character beats.)
+</div>
 
 When a Story Arc ends — won or lost — the heroes take **Downtime:** the between-Stories reset and the game's standing invitation to **slow down.** Its real job is to **restore every Broken Asset** (below) — no roll, no antagonist advance; the Story Arc is resolved, so the antagonist's clock resets and the heroes start the next one whole. (Readiness is already full by now — a free Recovery Scene tops the party up any time the fiction allows — so Downtime isn't about healing; it's about reforging what broke.) Spend real time here in dialogue and narration; the slower character beats live in Downtime.
 

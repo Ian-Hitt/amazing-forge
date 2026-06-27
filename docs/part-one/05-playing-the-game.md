@@ -57,12 +57,30 @@ Readiness only ever drops in the heat of the action — and there are two ways t
 - **Weak Hit (7–9):** recover **+2** Readiness.
 - **Miss (6 or less):** the patch goes wrong — **lose 1 Readiness** (and if you were very low, that can knock you Out of Action).
 
+<div class="lca-move" markdown>
+<p class="lca-move-name">Mend <span class="lca-when">— any scene, on your turn (instead of pushing the Challenge)</span></p>
+
+Patch up a hurt hero — yourself or a teammate. Roll 2d6 + modifier; the tended hero:
+
+- **Strong Hit (10+):** recover **+3** Readiness.
+- **Weak Hit (7–9):** recover **+2** Readiness.
+- **Miss (6−):** the patch goes wrong — **lose 1** Readiness.
+
+*Heals only up to 9 · can't bring back an Out-of-Action hero.*
+</div>
+
 A Mend is a gamble — it can backfire, and it costs you your turn (you didn't fill a box). So reach for it when you're hurt but steady, not when you're one bad roll from the floor.
 
 **The Recovery Scene — fall back and regroup.** Whenever the heroes reach a safe lull — **usually between Challenges**, when the action pauses and they can catch their breath — they can take a **Recovery Scene.** This is the big, reliable recovery, and it's where the slower character beats live:
 
 - **The party recovers fully** — patch up, regroup, breathe. Everyone goes back up to **9 Readiness.**
 - **It's automatic.** No roll, no cost — falling back to catch your breath is always safe.
+
+<div class="lca-move" markdown>
+<p class="lca-move-name">The Recovery Scene <span class="lca-when">— fall back and regroup at a safe lull</span></p>
+
+The whole party heals **fully back to 9.** No roll, no cost — falling back is always safe. (Bailing out of a Challenge you're losing is just a Recovery Scene: wipe that track's progress and heal up.)
+</div>
 
 A Recovery Scene is the movie slowing down between the action — the campfire, the regroup, the quiet talk that sets up the next storm. It's where the slower character beats live, and it brings everyone all the way back to **9**. Reach for one whenever you're battered: the story gets a breather and the heroes come back ready.
 

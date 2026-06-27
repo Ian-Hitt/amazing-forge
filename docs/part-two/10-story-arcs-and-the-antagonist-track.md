@@ -75,6 +75,18 @@ Roll **2d6.** No Stat or Asset applies here — this isn't a test of any hero's 
 
 Here's the important part: **this is a roll you can't fail.** All three results are good openings — they only differ in how much trouble is already on the heroes when the camera starts rolling.
 
+<div class="lca-move" markdown>
+<p class="lca-move-name">Start a Story Arc <span class="lca-when">— once, as a new Story Arc begins</span></p>
+
+Find out how the launch goes. Roll **2d6** (no Stat or Asset — the world is setting the scene, not a hero):
+
+- **Strong Hit (10+):** **Clear purpose** — open on the front foot, the heroes ready and in control.
+- **Weak Hit (7–9):** **More questions than answers** — begin in motion with one complication already in play.
+- **Miss (6−):** **Trouble finds you first** — open in the thick of it, likely a Challenge the heroes didn't choose.
+
+*Can't be failed — every result is a good opening · doubles bump it up a tier.*
+</div>
+
 | Roll | Your Story Arc opens… | How to play it |
 |---|---|---|
 | **10+ — Clear purpose** | You set out emboldened, the way ahead in plain sight. | Open on the **front foot.** The heroes are ready and in control as the scene begins, and *they* make the first move. Paint a confident launch and ask "What do you do?" |
@@ -144,6 +156,12 @@ A few things follow:
 
 You don't narrate an antagonist beat on *every* box — only on the **odd "Bad Guys Close In" boxes** (1, 3, 5, and on a Movie 7, 9). The even boxes are silent pressure: the music tightening, the walls inching in, no scene needed. This keeps the antagonist's *story* beats paced even when boxes fill in a rush — two bargains in one fight just slide the clock along, and you play the **Bad Guys Close In** beat when the next odd box lands.
 
+<div class="lca-move" markdown>
+<p class="lca-move-name">Bad Guys Close In <span class="lca-when">— when an odd Antagonist box fills</span></p>
+
+Stop and cut the camera to the antagonist gaining ground off-screen, then bring it on-screen as a complication. No dice — the world visibly tightens. The **last box is the antagonist's victory:** if it fills first, the heroes lose the Story (Part C).
+</div>
+
 When a **Bad Guys Close In box** fills, **stop and play it out:**
 
 1. **Envision what the antagonist did off-screen.** The cult finished the first ritual; the warlord seized the bridge; the flood reached the lower town; the **sandstorm** rolled in and buried the trail.
@@ -164,6 +182,12 @@ The surest way to hand the antagonist ground you didn't *choose* to give is to g
 If the Antagonist Track fills before the heroes complete their final Milestone, the bad guys win and the **Story Arc is lost.** The heroes can also choose to **Quit the Story Arc** outright at any time — the terminal version of falling back, when the group decides this one simply isn't winnable or worth the cost.
 
 Losing carries **no mechanical penalty and no bonus.** The heroes just step away, battered but alive, and the world moves on without their win.
+
+<div class="lca-move" markdown>
+<p class="lca-move-name">Quit the Story Arc <span class="lca-when">— any time the group decides this one isn't worth it</span></p>
+
+Abandon the Story for good — the terminal version of falling back. No dice, no penalty. The heroes step away, and the loss **seeds the next Story Arc:** ask *"How did the world change now that they got what they wanted?"*
+</div>
 
 And crucially, **a lost Story Arc is not a dead end — it's a seed.** When the antagonists win, ask the table together:
 

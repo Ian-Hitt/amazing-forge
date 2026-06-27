@@ -36,13 +36,19 @@ Difficulty is a **screen-time dial,** not a balance setting: you pick Hard for t
 
 When the heroes **choose to start** a Challenge — they pick the fight, breach the vault, decide to ford the rapids *now* — make one quick roll to see how the opening breaks. This is **Start a Challenge,** the Challenge-sized cousin of Start a Story Arc (Chapter 10).
 
-Roll **2d6** flat — no modifier. This isn't a test of any one hero's Stats or Assets, it's the dice setting the scene — but **doubles still bump the result up one tier** (and if you roll doubles on a result that's *already* a 10+, take the top result **plus** a small extra edge of your choice). You can't fail it; it just decides who has the jump as the Scene begins:
+Roll **2d6** flat — no modifier. This isn't a test of any one hero's Stats or Assets, it's the dice setting the scene — but **doubles still bump the result up one tier** (and if you roll doubles on a result that's *already* a 10+, take the top result **plus** a small extra edge of your choice). You can't fail it; it just decides who has the jump as the Scene begins.
 
-| Roll | Opening | Effect |
-|---|---|---|
-| **Strong Hit (10+)** | **You got the drop.** | **+1 to the first roll** of the Challenge. |
-| **Weak Hit (7–9)** | **Even footing** — a fair contest. | No change. |
-| **Miss (6 or less)** | **They beat you to it.** | **−1 to the first roll** of the Challenge. |
+<div class="lca-move" markdown>
+<p class="lca-move-name">Start a Challenge <span class="lca-when">— when the heroes choose to open a Challenge</span></p>
+
+Roll **2d6** flat (no modifier). You can't fail it — it just sets who has the jump as the Scene begins:
+
+- **Strong Hit (10+):** you got the drop — **+1 to the first roll** of the Challenge.
+- **Weak Hit (7–9):** even footing — **no change.**
+- **Miss (6−):** they beat you to it — **−1 to the first roll** of the Challenge.
+
+*A one-time edge — it applies only to the very first Challenge Roll, then it's gone · skip the roll if trouble is thrust on the heroes instead.*
+</div>
 
 That bonus or penalty is a **one-time edge:** it applies only to the **very first Challenge Roll** anyone makes this Scene, and then it's gone — it doesn't carry to later rolls. Narrate what it means: on a Strong Hit the heroes surge in with the initiative; on a Miss the opposition moves first and the heroes are a half-step behind. It's a small cinematic nudge for seizing the moment (or a small cost for charging in unready), nothing more.
 
@@ -86,6 +92,12 @@ When the track fills:
 **A Challenge is not a Milestone.** A Challenge is just a Scene with extra camera time — winning one doesn't, by itself, mark a box on the **Story Arc Track.** You mark a **Milestone** when the *story* takes a significant step toward the heroes' goal (Chapter 10). That often coincides with clearing a big Challenge — but it's the *progress* that earns the Milestone, not the Challenge itself, and plenty of Challenges resolve without marking one at all.
 
 ### Falling Back from a Challenge
+
+<div class="lca-move" markdown>
+<p class="lca-move-name">Fall back <span class="lca-when">— bail out of a Challenge you're losing</span></p>
+
+Pull back and regroup — resolved as a **Recovery Scene** (Chapter 9). You **lose the Challenge's progress** (wipe the track), and the **whole party heals to full 9.** No roll, no antagonist advance — falling back is always safe.
+</div>
 
 Heroes are never trapped in a Challenge they're losing. At any point — usually when Readiness is running dangerously low and grinding out the last boxes isn't worth the cost — the group may **fall back and regroup.** This is resolved as a **Recovery Scene** (Chapter 9), and it ends the Challenge immediately:
 

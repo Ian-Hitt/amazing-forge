@@ -24,11 +24,15 @@ That **+0** is the new edge of danger: when a hero reaches outside everything th
 
 Total up your dice plus your modifier and read the result:
 
-| Your total | Result | What happens |
-|---|---|---|
-| **10 or more** | **Strong Hit** | You pull it off cleanly. You do exactly what you wanted. Narrate your success and move on. |
-| **7, 8, or 9** | **Weak Hit** | You do it — but it costs you. You get what you wanted *and* something goes wrong. **Pay the Price** (lose 1 Readiness). |
-| **6 or less** | **Miss** | It doesn't work, and things get worse. **Pay the Price** (lose 2 Readiness). |
+<div class="lca-move" markdown>
+<p class="lca-move-name">The Roll <span class="lca-when">— whenever a hero tries something risky and uncertain</span></p>
+
+Roll 2d6 + your modifier (+1 for a fitting Stat, +1 for a fitting Asset, +0 for neither):
+
+- **Strong Hit (10+):** you pull it off cleanly — you do exactly what you wanted. Narrate it and move on.
+- **Weak Hit (7–9):** you do it, but something goes wrong. **Pay the Price** (lose 1 Readiness).
+- **Miss (6−):** it doesn't work, and things get worse. **Pay the Price** (lose 2 Readiness).
+</div>
 
 Two things to notice. First, even a Weak Hit means you *succeed* — you still get what you were reaching for; there's just a complication tangled up with it. Second, **whatever the result, you describe what it looks like.** On a hit, you narrate how your hero pulls it off. The dice decide *whether* things go your way; you and the table decide *how* it looks on screen. That's what keeps it a story and not just a math problem.
 
