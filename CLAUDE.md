@@ -70,8 +70,8 @@ authoritative**; V3/V4 are older and superseded where they differ.
 > **restoring Broken Assets** (Recovery Scenes already heal free/any-time). **(4) Threads/B-plots REMOVED**
 > entirely (TODO to redesign later). **(5) Milestone ≈ ~1 hour** of table time (the "40-Minute Rule" is now
 > the **One-Hour Rule**). **(6) Moves render as cards** via a shared `.lca-move` class (`docs/stylesheets/
-> extra.css`); the SRD is the reference implementation — **book-wide card rollout still PENDING.** See
-> [[srd-feedback-batch]].
+> extra.css`); the SRD is the reference implementation, and the cards are now **rolled out book-wide**
+> (Ch.4/5/7/8/9/10/11 + SRD). See [[srd-feedback-batch]].
 >
 > ⚠️ **2026-06-22 dice rework (see [[dice-and-scaling-rework]]) — also propagated:** core roll **+0/+1/+2**
 > (pick **2 of 5 stats** = +1, **3 Assets** = +1), single broad **Attribute retired**, recovery ratchet
