@@ -40,7 +40,7 @@ That **+0** is the edge of danger: when a hero reaches past everything they're g
 <div class="lca-move" markdown>
 <p class="lca-move-name">The Roll <span class="lca-when">— any time a hero does something risky or uncertain</span></p>
 
-Roll **2d6 + your modifier** (+0/+1/+2) and read the total. On a Hit, **narrate the change.**
+**When a hero does something risky or uncertain,** roll **2d6 + your modifier** (+0/+1/+2) and read the total. On a Hit, **narrate the change.**
 
 - **Strong Hit (10+):** you succeed cleanly.
 - **Weak Hit (7–9):** you succeed, but **Pay the Price** (−1 Readiness).
@@ -84,7 +84,7 @@ The core move has one variant: instead of pointing your action at a problem, you
 <div class="lca-move" markdown>
 <p class="lca-move-name">Aid Your Ally <span class="lca-when">— on your turn, spend your roll to help another hero</span></p>
 
-Roll **2d6 + modifier** for the help you're giving; the bonus lands on your ally's **next** roll.
+**When you attempt to help an ally during a risky situation,** roll **2d6 + modifier** for the help you're giving; the bonus lands on your ally's **next** roll.
 
 - **Strong Hit (10+):** your help lands cleanly — your ally gets **+2.**
 - **Weak Hit (7–9):** your help lands, but you **Pay the Price** — your ally gets **+1,** and **you lose 1 Readiness.**

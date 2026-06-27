@@ -50,7 +50,7 @@ On a **Strong or Weak Hit you narrate the change** — what you pull off, find, 
 <div class="lca-move" markdown>
 <p class="lca-move-name">The Roll <span class="lca-when">— any risky action</span></p>
 
-Roll **2d6**, **+1** for a fitting Stat, **+1** for a fitting Asset. Run it alone (a **Regular Roll**) or to mark a **Challenge** track.
+**When a hero does something risky,** roll **2d6** — **+1** for a fitting Stat, **+1** for a fitting Asset (run it alone as a **Regular Roll,** or to mark a **Challenge** track):
 
 - **Strong Hit (10+):** clean success — you narrate it.
 - **Weak Hit (7–9):** success, but **Pay the Price.**
@@ -60,7 +60,7 @@ Roll **2d6**, **+1** for a fitting Stat, **+1** for a fitting Asset. Run it alon
 <div class="lca-move" markdown>
 <p class="lca-move-name">Aid Your Ally <span class="lca-when">— spend your roll to help a teammate</span></p>
 
-Same roll, aimed at someone else's action:
+**When you attempt to help an ally during a risky situation,** make the same roll, aimed at their action:
 
 - **Strong:** your ally gets **+2** on their roll.
 - **Weak:** your ally gets **+1**, and **you** Pay the Price (−1).
@@ -81,7 +81,7 @@ On a **Miss,** one extra option is on the table:
 <div class="lca-move" markdown>
 <p class="lca-move-name">Devil's Bargain <span class="lca-when">— on a Miss, optional</span></p>
 
-Refuse the Readiness loss **and** turn the Miss into a **Strong Hit** — in exchange for **advancing the Antagonist Track one box.** Buying a win now for a step toward defeat; it's the main thing that drives the antagonist's clock. **Not** allowed on a Miss whose price would knock you Out of Action — you can't buy your way out of going down.
+**When a roll comes up a Miss,** you may refuse the Readiness loss **and** turn it into a **Strong Hit** — in exchange for **advancing the Antagonist Track one box.** Buying a win now for a step toward defeat; it's the main thing that drives the antagonist's clock. **Not** allowed on a Miss whose price would knock you Out of Action — you can't buy your way out of going down.
 </div>
 
 ## Challenges
@@ -104,12 +104,18 @@ Take turns — **everyone acts once before anyone repeats.** On each Challenge R
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Challenge <span class="lca-when">— when you choose to open one</span></p>
 
-Roll a single **d6** — an oracle roll — for a one-time nudge to the **first roll** only: **5–6** +1 · **3–4** 0 · **1–2** −1. Skip it when trouble is thrust on you.
+**When you choose to open a Challenge,** roll a single **d6** (an oracle roll) for a one-time nudge to the **first roll** only:
+
+- **5–6:** +1 (you got the drop).
+- **3–4:** 0 (even footing).
+- **1–2:** −1 (they beat you to it).
+
+*Skip it when trouble is thrust on you.*
 </div>
 <div class="lca-move" markdown>
 <p class="lca-move-name">Fall back <span class="lca-when">— bail out of a Challenge</span></p>
 
-Lose the track's progress and take a **Recovery Scene** (the party heals fully). Always safe, always available — the stay-alive valve.
+**When you bail out of a Challenge,** lose the track's progress and take a **Recovery Scene** (the party heals fully). Always safe, always available — the stay-alive valve.
 </div>
 </div>
 
@@ -127,17 +133,23 @@ Readiness comes back three ways:
 <div class="lca-move" markdown>
 <p class="lca-move-name">Mend <span class="lca-when">— any scene, on your turn</span></p>
 
-Patch yourself or an ally: **Strong +3 · Weak +2 · Miss −1** Readiness. No usage cap; capped at 9; can't revive an Out-of-Action hero. (In a Challenge, this *is* your turn instead of a Challenge Roll.)
+**When you take a beat to patch up yourself or an ally,** roll:
+
+- **Strong Hit (10+):** +3 Readiness.
+- **Weak Hit (7–9):** +2 Readiness.
+- **Miss (6−):** −1 Readiness (it backfires).
+
+*No usage cap; capped at 9; can't revive an Out-of-Action hero. In a Challenge, this* is *your turn.*
 </div>
 <div class="lca-move" markdown>
 <p class="lca-move-name">Recovery Scene <span class="lca-when">— fall back and regroup at a lull</span></p>
 
-The whole party heals **fully back to 9.** No roll, fully reliable, and it **never advances the antagonist** — regroup as often as the fiction allows.
+**When the heroes fall back and regroup at a lull,** the whole party heals **fully back to 9.** No roll, fully reliable, and it **never advances the antagonist** — regroup as often as the fiction allows.
 </div>
 <div class="lca-move" markdown>
 <p class="lca-move-name">Downtime <span class="lca-when">— between Story Arcs</span></p>
 
-Restore everyone's **Broken Assets** — your heroes are whole again for the next Story. (Readiness comes back free any time you regroup, so Downtime is really just about un-breaking what the last adventure cost you.)
+**When a Story Arc ends and the heroes rest between adventures,** restore everyone's **Broken Assets** — your heroes are whole again for the next Story. (Readiness comes back free any time you regroup, so Downtime is really just about un-breaking what the last adventure cost you.)
 </div>
 </div>
 
@@ -176,7 +188,11 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Story Arc <span class="lca-when">— the opening roll</span></p>
 
-When a Story Arc begins, roll a single **d6** — an oracle roll (generative; you can't fail it) — to set the opening: **5–6** clear purpose (open *in medias res* on the first Milestone) · **3–4** a general idea, not yet how to act on it · **1–2** trouble finds you first.
+**When a new Story Arc begins,** roll a single **d6** — an oracle roll (generative; you can't fail it) — to set the opening:
+
+- **5–6 — Clear purpose:** open *in medias res* on the first Milestone.
+- **3–4 — A general idea:** they know the goal, not yet how to act on it.
+- **1–2 — Trouble finds you first.**
 </div>
 
 ## Ask the Oracle

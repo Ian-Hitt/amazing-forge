@@ -78,7 +78,7 @@ Here's the important part: **this is a roll you can't fail.** All three results 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Story Arc <span class="lca-when">— once, as a new Story Arc begins</span></p>
 
-Find out how the launch goes. Roll a single **d6** (the oracle die — the world is setting the scene, not a hero):
+**When a new Story Arc begins,** roll a single **d6** (the oracle die — the world is setting the scene, not a hero) to find out how the launch goes:
 
 - **5–6 — Clear purpose:** the heroes know exactly what to do. Take the first Milestone head on — open *in medias res,* already in motion on it.
 - **3–4 — A general idea:** they know what they're after, but not yet how to act on it. Begin committed, feeling their way in.
@@ -159,7 +159,7 @@ You don't narrate an antagonist beat on *every* box — only on the **odd "Bad G
 <div class="lca-move" markdown>
 <p class="lca-move-name">Bad Guys Close In <span class="lca-when">— when an odd Antagonist box fills</span></p>
 
-Stop and cut the camera to the antagonist gaining ground off-screen, then bring it on-screen as a complication. No dice — the world visibly tightens. The **last box is the antagonist's victory:** if it fills first, the heroes lose the Story (Part C).
+**When an odd Antagonist box fills,** stop and cut the camera to the antagonist gaining ground off-screen, then bring it on-screen as a complication. No dice — the world visibly tightens. The **last box is the antagonist's victory:** if it fills first, the heroes lose the Story (Part C).
 </div>
 
 When a **Bad Guys Close In box** fills, **stop and play it out:**
@@ -186,7 +186,7 @@ Losing carries **no mechanical penalty and no bonus.** The heroes just step away
 <div class="lca-move" markdown>
 <p class="lca-move-name">Quit the Story Arc <span class="lca-when">— any time the group decides this one isn't worth it</span></p>
 
-Abandon the Story for good — the terminal version of falling back. No dice, no penalty. The heroes step away, and the loss **seeds the next Story Arc:** ask *"How did the world change now that they got what they wanted?"*
+**When the group decides this Story isn't worth the cost,** abandon it for good — the terminal version of falling back. No dice, no penalty. The heroes step away, and the loss **seeds the next Story Arc:** ask *"How did the world change now that they got what they wanted?"*
 </div>
 
 And crucially, **a lost Story Arc is not a dead end — it's a seed.** When the antagonists win, ask the table together:

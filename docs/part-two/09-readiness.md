@@ -69,7 +69,7 @@ On a **Miss**, you don't have to take the price lying down. You can strike a **D
 <div class="lca-move" markdown>
 <p class="lca-move-name">Devil's Bargain <span class="lca-when">— on a Miss, optional (not on a Miss that would knock you Out of Action)</span></p>
 
-Refuse the Readiness loss **and** upgrade the Miss to a **Strong Hit** — you get exactly what you reached for — in exchange for **advancing the Antagonist Track one box** (Chapter 10).
+**When a roll comes up a Miss,** you may refuse the Readiness loss **and** upgrade the Miss to a **Strong Hit** — you get exactly what you reached for — in exchange for **advancing the Antagonist Track one box** (Chapter 10).
 
 *Always optional · can't be taken on a knockout roll · the antagonist's advance is a story beat.*
 </div>
@@ -106,7 +106,7 @@ Any time the fiction gives you a beat — in the thick of a Challenge, *or* in a
 <div class="lca-move" markdown>
 <p class="lca-move-name">Mend <span class="lca-when">— any scene, on your turn (your action instead of a Challenge Roll)</span></p>
 
-Patch up a hurt hero — yourself or a teammate. Roll 2d6 + modifier for the care you give; the tended hero:
+**When you take a beat to patch up a hurt hero** — yourself or a teammate — roll 2d6 + modifier for the care you give; the tended hero:
 
 - **Strong Hit (10+):** recover **+3** Readiness.
 - **Weak Hit (7–9):** recover **+2** Readiness.
@@ -127,7 +127,7 @@ One more rule: **Mend cannot revive an Out-of-Action hero** — only a Recovery 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Recovery Scene <span class="lca-when">— fall back and regroup at a safe lull</span></p>
 
-The whole party heals **fully back to 9.** No roll, no cost, and it **never advances the antagonist** — regroup as often as the fiction allows. (Bailing out of a Challenge you're losing is just a Recovery Scene: lose that track's progress and heal up.)
+**When the heroes fall back and regroup at a safe lull,** the whole party heals **fully back to 9.** No roll, no cost, and it **never advances the antagonist** — regroup as often as the fiction allows. (Bailing out of a Challenge you're losing is just a Recovery Scene: lose that track's progress and heal up.)
 </div>
 
 Whenever the heroes reach a safe lull — **most often between Challenges**, when the action pauses and they can catch their breath — they can **fall back and regroup:** a **Recovery Scene.** This is the reliable recovery. The party pulls back, and **everyone recovers all the way back to 9** — no roll, no whiff. Falling back *works,* and it works completely.
@@ -143,7 +143,7 @@ So the rhythm of a Story Arc is: push, get battered, fall back and breathe, push
 <div class="lca-move" markdown>
 <p class="lca-move-name">Downtime <span class="lca-when">— between Story Arcs</span></p>
 
-Restore every **Broken Asset** — the heroes start the next Story whole. No roll, no antagonist advance. (Readiness is already full from any Recovery Scene, so Downtime isn't a heal — it's about reforging what broke, and slowing down for character beats.)
+**When a Story Arc ends and the heroes rest between adventures,** restore every **Broken Asset** — the heroes start the next Story whole. No roll, no antagonist advance. (Readiness is already full from any Recovery Scene, so Downtime isn't a heal — it's about reforging what broke, and slowing down for character beats.)
 </div>
 
 When a Story Arc ends — won or lost — the heroes take **Downtime:** the between-Stories reset and the game's standing invitation to **slow down.** Its real job is to **restore every Broken Asset** (below) — no roll, no antagonist advance; the Story Arc is resolved, so the antagonist's clock resets and the heroes start the next one whole. (Readiness is already full by now — a free Recovery Scene tops the party up any time the fiction allows — so Downtime isn't about healing; it's about reforging what broke.) Spend real time here in dialogue and narration; the slower character beats live in Downtime.

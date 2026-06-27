@@ -60,7 +60,7 @@ Readiness only ever drops in the heat of the action — and there are two ways t
 <div class="lca-move" markdown>
 <p class="lca-move-name">Mend <span class="lca-when">— any scene, on your turn (instead of pushing the Challenge)</span></p>
 
-Patch up a hurt hero — yourself or a teammate. Roll 2d6 + modifier; the tended hero:
+**When you take a beat to patch up a hurt hero** — yourself or a teammate — roll 2d6 + modifier; the tended hero:
 
 - **Strong Hit (10+):** recover **+3** Readiness.
 - **Weak Hit (7–9):** recover **+2** Readiness.
@@ -79,7 +79,7 @@ A Mend is a gamble — it can backfire, and it costs you your turn (you didn't f
 <div class="lca-move" markdown>
 <p class="lca-move-name">The Recovery Scene <span class="lca-when">— fall back and regroup at a safe lull</span></p>
 
-The whole party heals **fully back to 9.** No roll, no cost — falling back is always safe. (Bailing out of a Challenge you're losing is just a Recovery Scene: wipe that track's progress and heal up.)
+**When the heroes fall back and regroup at a safe lull,** the whole party heals **fully back to 9.** No roll, no cost — falling back is always safe. (Bailing out of a Challenge you're losing is just a Recovery Scene: wipe that track's progress and heal up.)
 </div>
 
 A Recovery Scene is the movie slowing down between the action — the campfire, the regroup, the quiet talk that sets up the next storm. It's where the slower character beats live, and it brings everyone all the way back to **9**. Reach for one whenever you're battered: the story gets a breather and the heroes come back ready.

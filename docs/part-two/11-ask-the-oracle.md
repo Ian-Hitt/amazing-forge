@@ -7,7 +7,7 @@ Part One gave you the quick version in Chapter 6. This is the full toolkit: when
 <div class="lca-move" markdown>
 <p class="lca-move-name">Ask the Oracle <span class="lca-when">— when the story stalls and nobody knows what's next</span></p>
 
-Work down the ladder and stop the moment you have something to play:
+**When the story stalls and nobody's sure what happens next,** work down this ladder and stop the moment you have something to play:
 
 - **Name the next Milestone.** Look at the Story Arc Track — the next scene is a step toward it.
 - **Do the obvious.** Talk it out; run with what would clearly happen next in this movie.

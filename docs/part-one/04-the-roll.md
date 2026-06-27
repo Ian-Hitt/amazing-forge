@@ -27,7 +27,7 @@ Total up your dice plus your modifier and read the result:
 <div class="lca-move" markdown>
 <p class="lca-move-name">The Roll <span class="lca-when">— whenever a hero tries something risky and uncertain</span></p>
 
-Roll 2d6 + your modifier (+1 for a fitting Stat, +1 for a fitting Asset, +0 for neither):
+**When a hero tries something risky and uncertain,** roll 2d6 + your modifier (+1 for a fitting Stat, +1 for a fitting Asset, +0 for neither):
 
 - **Strong Hit (10+):** you pull it off cleanly — you do exactly what you wanted. Narrate it and move on.
 - **Weak Hit (7–9):** you do it, but something goes wrong. **Pay the Price** (lose 1 Readiness).

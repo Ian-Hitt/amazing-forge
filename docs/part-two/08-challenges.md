@@ -41,7 +41,7 @@ Like Start a Story Arc, this is an **oracle roll** — nothing here is a hero at
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Challenge <span class="lca-when">— when the heroes choose to open a Challenge</span></p>
 
-Roll a single **d6** (the oracle die — no Stat or Asset). You can't fail it; it just sets who has the jump as the Scene begins:
+**When the heroes choose to open a Challenge,** roll a single **d6** (the oracle die — no Stat or Asset). You can't fail it; it just sets who has the jump as the Scene begins:
 
 - **5–6:** you got the drop — **+1 to the first roll** of the Challenge.
 - **3–4:** even footing — **no change.**
@@ -96,7 +96,7 @@ When the track fills:
 <div class="lca-move" markdown>
 <p class="lca-move-name">Fall back <span class="lca-when">— bail out of a Challenge you're losing</span></p>
 
-Pull back and regroup — resolved as a **Recovery Scene** (Chapter 9). You **lose the Challenge's progress** (wipe the track), and the **whole party heals to full 9.** No roll, no antagonist advance — falling back is always safe.
+**When you bail out of a Challenge you're losing,** pull back and regroup — resolved as a **Recovery Scene** (Chapter 9). You **lose the Challenge's progress** (wipe the track), and the **whole party heals to full 9.** No roll, no antagonist advance — falling back is always safe.
 </div>
 
 Heroes are never trapped in a Challenge they're losing. At any point — usually when Readiness is running dangerously low and grinding out the last boxes isn't worth the cost — the group may **fall back and regroup.** This is resolved as a **Recovery Scene** (Chapter 9), and it ends the Challenge immediately:
