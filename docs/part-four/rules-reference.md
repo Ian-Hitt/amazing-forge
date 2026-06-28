@@ -10,11 +10,11 @@
 
 ## Heroes
 
-Each player builds one hero in about two minutes. A hero is four things: a **Concept**, two **Stats**, three **Assets**, and **Readiness**.
+Each player builds one hero in about five minutes. A hero is four things: a **Concept**, two **Stats**, three **Assets**, and **Readiness**.
 
 The **Concept** is a one-line "movie poster" pitch — *an Ice-Dragon Knight*, *a Grumpy Goblin Alchemist*. It's flavor, not a number, but it anchors everything else.
 
-Your two **Stats** are the broad kinds of action your hero is built for, picked from the closed five below; a fitting Stat adds **+1** to a roll. You don't argue a Stat — you ask what the action calls for.
+Your two **Stats** are the broad kinds of action your hero is built for, picked from the list of five below; a fitting Stat adds **+1** to a roll. When you're hero takes action, you choose the most appropriate stat based on the narrative description of your action.
 
 - **Strong** — force, toughness
 - **Quick** — speed, reflexes, aim
@@ -22,7 +22,7 @@ Your two **Stats** are the broad kinds of action your hero is built for, picked 
 - **Sneaky** — stealth, sleight of hand, a bluff
 - **Charming** — winning people over, heart, rallying
 
-Your three **Assets** are the specific tools, training, and ties that flesh out the Concept. A fitting Asset also adds **+1**, and a fitting Stat *and* Asset stack to **+2**. A good Asset is broad enough to come up often but specific enough that it clearly doesn't cover everything — the broad layer is what your Stats are for. Most players build their three by answering three questions (you don't have to, and you can swap freely):
+Your three **Assets** are the specific tools, training, and ties that flesh out the Concept. A fitting Asset also adds **+1**, and a fitting Stat *and* Asset stack to **+2**. A good Asset is broad enough to come up often but specific enough that it clearly doesn't cover everything — the broad layer is what your Stats are for. If you need some inspiration, players can build their three by answering these questions (you don't have to, and you can swap freely):
 
 1. **What did you train in?** — a skill.
 2. **What's your signature item or companion?**
