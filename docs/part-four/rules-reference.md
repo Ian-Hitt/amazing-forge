@@ -32,7 +32,7 @@ Your three **Assets** are the specific tools, training, and ties that flesh out 
 
 ## The Roll
 
-Play happens in **Scenes**, and whenever a hero does something risky you roll to find out what happens. **The Core Roll:** roll **2d6** and add **+1** if the action calls for one of your Stats, **+1** if one of your Assets fits — so **+2** when both apply, **+0** when neither does (you can still try; you just roll the bare dice).
+Play happens in **Scenes**, and whenever a hero does something risky, you roll to find out what happens. **The Core Roll:** roll **2d6** and add **+1** if the action calls for one of your Stats, **+1** if one of your Assets fits — so **+2** when both apply, **+0** when neither does (you can still try; you just roll the bare dice).
 
 | Roll (2d6) | Result | What it means |
 |---|---|---|
