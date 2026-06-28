@@ -24,9 +24,9 @@ Your two **Stats** are the broad kinds of action your hero is built for, picked 
 
 Your three **Assets** are the specific tools, training, and ties that flesh out the Concept. A fitting Asset also adds **+1**, and a fitting Stat *and* Asset stack to **+2**. A good Asset is broad enough to come up often but specific enough that it clearly doesn't cover everything — the broad layer is what your Stats are for. If you need some inspiration, players can build their three by answering these questions (you don't have to, and you can swap freely):
 
-1. **What did you train in?** — a skill.
-2. **What's your signature item or companion?**
-3. **One Wild pick** of your own.
+1. **What are they known for?** — a role or signature skill (*Ace Pilot · Tracker · Field Medic*).
+2. **What's the one thing they're never without?** — a signature item, companion, or connection that's loaded with story.
+3. **What's their other side?** — a second talent or knack that shines in different moments than the first.
 
 **Readiness** starts at **9** — a single track covering body, mind, and supplies, and your hero's only resource. How it rises and falls is its own system, below.
 

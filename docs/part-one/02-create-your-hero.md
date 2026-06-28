@@ -51,9 +51,9 @@ Your **Assets** are the specific signature talents, tools, and friends your hero
 
 **2. What's the one thing they're never without?** A signature **item, companion, or connection** — but make it one that could only be *yours.* *Grandpa's Lockpicks · A Loyal Pet Wolf · A Half-Finished Treasure Map · A Debt Owed by a Crime Boss.* The quick test: *would this be the same in anyone's hands?* If so, it's just kit — pick something loaded with a story instead. (Nothing comes to mind? Make it another role.)
 
-**3. One more — your call.** A **Wild** pick: anything that makes your hero *yours.* Another role, a quirky talent, a knack, a second signature thing — whatever you like.
+**3. What's their other side?** A second talent, role, or knack from a different corner of their life — and ideally one that shines in *different* moments than the first, so your three cover more ground. *A Fire-Mage who's also a steady Healer · a Cat Burglar who charms animals · a Detective who used to box.*
 
-> **This is the recommended path, not a cage.** If your concept wants two skills and no sword, swap these around freely.
+> **This is the recommended path, not a cage.** If your concept wants two skills and no sword, swap these around freely. (Playing in a specific genre? Its kit in Chapter 15 has its own build questions, tuned to make sure your hero can handle what that kind of story throws at them.)
 
 A nice trick on any of these: ask yourself *how* your hero got it. Where did you learn to fly? You don't have to answer, but if you do, you've just built your backstory for free.
 

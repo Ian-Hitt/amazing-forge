@@ -171,6 +171,18 @@ Drama is social warfare, so **Charming, Clever, and Sneaky** carry most scenes �
 - **Strong** — here it's *force of personality*: intimidate, dominate the room, refuse to be moved.
 - *Composure under all this pressure isn't a roll — it's your Readiness draining.*
 
+### Building a hero for Drama
+
+Drama is fought with words, wants, and secrets — not swords. Build a hero with something to *want* and a way to get it, and the conflict writes itself.
+
+**1. What do you want — badly enough to burn a bridge for it?** Drama runs on desire. Your hero needs a drive, and a role that chases it. *Ambitious Heir · Devoted Parent · Climber · True Believer · Schemer.*
+
+**2. How do you get your way with people?** Your weapon in a crowded room — warmth, cunning, intimidation, or the well-kept secret. *Charmer · Manipulator · Straight-Shooter · Blackmailer · Confidant.*
+
+**3. What's the one thing you're never without?** Your signature tie, secret, or keepsake — loaded with story. *A Letter You Never Sent · A Rival Who Knows You Best · The Family Name.*
+
+> **Then check the party.** Drama's confrontations are usually words — but bodies still collide. If your story might turn physical (a brawl, a desperate act), make sure *someone* can handle it; otherwise, lean into the social knives.
+
 ### Archetypes
 
 *An Archetype is a ready-made build — two Stats and three Assets. Play one straight, swap any Asset, or mix bricks from different builds into something new.*

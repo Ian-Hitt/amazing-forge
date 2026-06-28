@@ -170,6 +170,18 @@ Adventure is the most balanced genre — every Stat gets the spotlight:
 - **Sneaky** — scout ahead, slip past the guardian, pick the lock, lift the key.
 - **Charming** — rally the party when it's grim, parley with a chieftain, talk past the gate.
 
+### Building a hero for Adventure
+
+Adventure throws fights, wild country, and old mysteries at *everyone* — so build a hero who can pull their weight when the swords come out, and shine somewhere else too. Answer these three:
+
+**1. How do you handle a fight?** Every Adventure hero needs an answer — but it doesn't have to be a sword. Pick a combat role, even a sideways one. *Swordmaster · Archer · Battle-Mage · Beastmaster · Commander (you fight by directing the party) · Healer (you keep the fighters standing).*
+
+**2. What's your edge out in the world?** The thing you bring between fights — the wilds, the ruins, or the people. *Tracker · Loremaster · Diplomat · Locksmith · Survivalist.*
+
+**3. What's the one thing you're never without?** Your signature item, companion, or connection — and make it *yours*, loaded with story. *A Faithful Companion · Grandpa's Map · A Warhorse.*
+
+> **Then check the party.** Between you all, can someone face a beast, read the wilds, crack a ruin, *and* deal with people? If a whole area's missing, someone reshape an Asset to cover it.
+
 ### Archetypes
 
 *An Archetype is a classic build — two Stats and three Assets that snap together into a hero you'll recognize. They're starting points, not cages: swap any Asset, or **mix bricks from different builds** to make something new — a greatsword-swinging Healer, a beast-shaping Berserker. Reskin the flavor freely too: the Knight becomes a ship's duelist for a pirate tale, the Wizard a relic-cursed professor for a pulp expedition.*

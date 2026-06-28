@@ -167,6 +167,18 @@ Mystery runs on **Clever, Charming, and Sneaky** — but the physical Stats stil
 - **Strong** — *force of personality*: lean on a witness, intimidate a suspect, force a stuck door.
 - **Quick** — when you tip your hand: the chase, grabbing the fleeing suspect, snatching the evidence.
 
+### Building a hero for Mystery
+
+A mystery is mostly digging for the truth — but cases bite back, and a table of pure brains gets stuck the moment a suspect runs or pulls a knife. Build a hero who can work the case *and* hold up when it turns dangerous.
+
+**1. What do you do when it turns dangerous?** Every mystery has the moment the trail gets physical — a chase, a cornered suspect, a fight. Have an answer, even a sideways one. *Ex-Cop · Quick on the Draw · Brawler · Fast Runner · Steady Nerve (you keep your head when others panic).*
+
+**2. How do you crack a case?** Your angle on the truth — the evidence, the people, or the places. *Forensic Analyst · Interrogator · Profiler · Tail · Master of Disguise · Well-Connected.*
+
+**3. What's the one thing you're never without?** Your signature item, contact, or companion — loaded with story. *A Partner on the Force · Grandpa's Case Files · A Snitch Who Owes You.*
+
+> **Then check the party.** Between you all, can someone read the evidence, work people, get into locked places, *and* handle it when the case turns violent? If the whole table is pure brains, reshape an Asset before you regret it.
+
 ### Archetypes
 
 *An Archetype is a ready-made build — two Stats and three Assets. Play one straight, swap any Asset, or mix bricks from different builds into something new.*

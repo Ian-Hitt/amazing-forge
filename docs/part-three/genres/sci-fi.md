@@ -169,6 +169,18 @@ Sci-Fi's signature competence — tech, science, hacking, repair, astrogation �
 - **Charming** — rally a frightened crew, talk past a checkpoint, win over a turned officer.
 - **Strong** — close-quarters muscle, force a sealed bulkhead, intimidate a dock boss.
 
+### Building a hero for Sci-Fi
+
+Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure engineers gets boarded with no answer. Build a hero who can hold their own when it gets violent *and* bring something to the science of it.
+
+**1. How do you handle a fight?** Boarders, firefights, dogfights — have an answer, even a sideways one. *Marine · Ship's Gunner · Ace Pilot · Combat Medic · Slicer (you fight by killing their systems).*
+
+**2. What's your tech or science lane?** The crew's competence — fixing, hacking, flying, or the science itself. *Engineer · Hacker · Astrogator · Xeno-Scientist · Field Doctor.*
+
+**3. What's the one thing you're never without?** Your signature gear, droid, or contact — loaded with story. *A Salvaged Combat Droid · Your Old Service Sidearm · A Smuggler Who Owes You.*
+
+> **Then check the party.** Between you all, can someone fight, fix the ship, run the science, *and* fly? A crew that can't shoot back is a short story.
+
 ### Archetypes
 
 *An Archetype is a ready-made build — two Stats and three Assets. Play one straight, swap any Asset, or mix bricks from different builds into something new.*

@@ -169,6 +169,18 @@ Horror is survival and dread. The Stats are how you *act* against the threat —
 
 > *Keeping your nerve isn't a roll — it's your **Readiness.** Fear drains it; when it runs out you break (Out of Action). You don't test composure, you spend it.*
 
+### Building a hero for Horror
+
+Horror isn't about winning fights — it's about surviving, and not everyone makes it look easy. Build a hero with a way to stay alive *and* something that helps the group last one more night.
+
+**1. How do you survive when it goes wrong?** When the thing is loose and the lights are out — do you run, hide, barricade, or stand in the doorway? *Fast Runner · Survivalist · The One Who Stays Calm · Barricader · Last Line (you put yourself between it and the others).*
+
+**2. What helps the group make it?** Your edge against the horror — knowing what it is, holding people together, or patching the wounded. *Occult Scholar · Medic · Steady Hand · Tracker · True Believer.*
+
+**3. What's the one thing you're never without?** Your signature item, companion, or tie — loaded with story. *Dad's Old Shotgun · A Dog That Senses It · A Faith You Cling To.*
+
+> **Then check the party.** Between you all, can someone outlast the threat, figure out its rules, *and* keep the group from falling apart? In horror, nobody makes it alone — that's the point.
+
 ### Archetypes
 
 *An Archetype is a ready-made build — two Stats and three Assets. Play one straight, swap any Asset, or mix bricks from different builds into something new.*

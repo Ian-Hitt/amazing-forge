@@ -169,6 +169,18 @@ The wasteland leans on **Clever and Charming**, but every Stat earns its keep:
 - **Quick** — the firefight, trapping game, the grab-and-run when a deal turns.
 - *Surviving the cold or stretching the rations isn't usually a roll — it's the world grinding on, and your Readiness wearing down.*
 
+### Building a hero for Post-Apocalypse
+
+The wasteland kills the unready — by raider, by hunger, or by cold. Build a hero who can defend what's theirs *and* keep the group fed, fixed, and moving.
+
+**1. How do you fight off a threat?** Raiders, beasts, desperate people — the wasteland sends them all. Have an answer. *Gunslinger · Brawler · Ex-Soldier · Trapper · The One Who Holds the Line.*
+
+**2. How do you keep people alive?** Your edge against the world itself — finding it, fixing it, healing it, or trading for it. *Scavenger · Mechanic · Medic · Hunter · Trader.*
+
+**3. What's the one thing you're never without?** Your signature gear, companion, or tie — loaded with story. *A Rifle From the Old World · A Loyal Dog · A Map to a Place That Might Still Stand.*
+
+> **Then check the party.** Between you all, can someone fight, scavenge, fix what breaks, patch the wounded, *and* hold a community together? In the wasteland, the group that covers each other lasts; the rest become a cautionary tale.
+
 ### Archetypes
 
 *An Archetype is a ready-made build — two Stats and three Assets. Play one straight, swap any Asset, or mix bricks from different builds into something new.*

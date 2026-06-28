@@ -166,6 +166,18 @@ A caper runs on **Sneaky and Clever**, with **Charming** close behind — and th
 - **Quick** — drive the getaway, fast hands in the open, vault the fence when it goes loud.
 - **Strong** — the muscle: force a vault, the breakout, lean on a guard who won't budge.
 
+### Building a hero for Caper
+
+A caper is a crew pulling one job, each with a role — but plans go loud, and a crew with no answer for that gets caught. Build a hero with a clear job *and* something for when it all goes sideways.
+
+**1. What's your job on the crew?** Your specialty on the plan — and aim for one nobody else has called. *Mastermind · Safecracker · The Face · Hacker · Inside Man · Wheelman · Fixer (the bribes and contacts).*
+
+**2. What do you do when it goes loud?** The plan never survives contact — when the alarms blare, how do you handle it? *Quick Hands in a Pinch · Muscle · Fast Talker · Cool Driver · The One With the Backup Plan.*
+
+**3. What's the one thing you're never without?** Your signature kit, contact, or companion — loaded with story. *A Forger Who Owes You · Your Lucky Lockpicks · A Cop on the Payroll.*
+
+> **Then check the party.** Between you all, do you have the plan, the way in, the sweet talk, the wheels, *and* an answer when it goes loud? A caper with a hole in the crew is a caper that fails — that's the fun, but build it on purpose.
+
 ### Archetypes
 
 *An Archetype is a ready-made build — two Stats and three Assets. Play one straight, swap any Asset, or mix bricks from different builds into something new.*
