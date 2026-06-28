@@ -1,6 +1,6 @@
 # Chapter 2 — Create Your Hero
 
-Now that you've built a world, it's time to create the hero you'll play in it. This takes about two minutes. There's no math and no long list to fill in — just three quick steps: pick who your hero is, choose what they're great at (two **Stats** and three **Assets**), and note how much fight they've got in them.
+Now that you've built a world, it's time to create the hero you'll play in it. This takes about five minutes. There's no math and no long list to fill in — just three quick steps: pick who your hero is, choose what they're great at (two **Stats** and three **Assets**), and note how much fight they've got in them.
 
 Make a hero that fits the world your group just built. If you built a floating city in the clouds, a deep-sea diver doesn't quite belong — but a sky-pirate or a runaway cloud-guard absolutely does.
 
@@ -96,5 +96,7 @@ If your Readiness ever hits **0**, your hero is **Out of Action** — too hurt, 
 ### That's a Hero
 
 A Concept, two Stats, three Assets, and 9 Readiness — that's your whole character. Jot it on a scrap of paper and you're ready to adventure. With your world built and your heroes made, it's time to point them at something worth doing.
+
+> *Want a richer hero? Settling in for a longer adventure you'll come back to — a trilogy or a whole series — or just want more to work with? The **genre kits (Chapter 15)** are full of character inspiration, and **Building a Cool Hero (Chapter 16)** has personality archetypes and more for making a hero truly your own.*
 
 **Next up:** start your Story Arc. Turn to Chapter 3.

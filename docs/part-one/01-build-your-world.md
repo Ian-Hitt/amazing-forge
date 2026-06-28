@@ -2,7 +2,7 @@
 
 Every adventure needs a world to happen in. Before you make heroes or start your Story Arc, your group spends a few minutes inventing the place your story lives. This is **Worldbuilding**, and it's the first thing you do together.
 
-Here's the good news: you can build a whole world in about ten minutes by answering ten quick questions out loud as a group. There are no wrong answers. The goal isn't a finished, detailed setting — it's just enough of a shared picture that everyone's imagining the same kind of place. The rest fills itself in as you play.
+Here's the good news: you can build a whole world in about fifteen minutes by answering ten quick questions out loud as a group — and if the table's having fun with it, there's no harm in taking longer. There are no wrong answers. The goal isn't a finished, detailed setting — it's just enough of a shared picture that everyone's imagining the same kind of place. The rest fills itself in as you play.
 
 **How to do it:** read each question aloud and talk it over. Someone tosses out an idea, others build on it, and you keep whatever the table likes. Some questions will spark a big conversation; others you'll answer in five seconds or skip entirely. Both are fine. Jot down anything you want to remember.
 

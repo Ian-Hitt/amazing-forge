@@ -14,7 +14,7 @@ Each player builds one hero in about five minutes. A hero is four things: a **Co
 
 The **Concept** is a one-line "movie poster" pitch — *an Ice-Dragon Knight*, *a Grumpy Goblin Alchemist*. It's flavor, not a number, but it anchors everything else.
 
-Your two **Stats** are the broad kinds of action your hero is built for, picked from the list of five below; a fitting Stat adds **+1** to a roll. When you're hero takes action, you choose the most appropriate stat based on the narrative description of your action.
+Your two **Stats** are the broad kinds of action your hero is built for, picked from the list of five below; a fitting Stat adds **+1** to a roll. When your hero takes action, you choose the most appropriate stat based on the narrative description of your action.
 
 - **Strong** — force, toughness
 - **Quick** — speed, reflexes, aim

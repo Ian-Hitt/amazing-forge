@@ -12,7 +12,7 @@ Our two players are **Maya** and **Leo.**
 
 > **▶ Rules note — Worldbuilding (Chapter 1).** You don't need a deep answer to every question. A few strong ideas (a stolen Crystal, goblins under the mountain) are enough to start; the rest of the world fills in during play.
 
-**The heroes.** They each build a character in about two minutes.
+**The heroes.** They each build a character in a few minutes.
 
 Maya plays **Brave, an Ice-Dragon Knight.** Her two Stats: ***Strong + Charming.*** Her three Assets: *Ice Magic · My Dragon, Cinder · Dragon-Scale Armor.*
 
