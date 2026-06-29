@@ -182,7 +182,7 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 
 **Bad Guys Close In** is the move you stop and play out when an odd box fills — cut the camera to the antagonist and show them gaining ground. (On the printable Story Arc sheet it's shortened to just *"Closing In"* to save space.) **Season** and **Series** are *collections* of Story Arcs, not lengths — run long by **chaining** Stories (plan the big arc up front, or let it emerge from play — either works).
 
-- A **Milestone is a story beat, not a unit of time** — a significant, pointable win on the way to the Goal: **overcoming a major obstacle, learning something crucial, reaching a key place, securing something vital, winning someone over, or beating a notable threat.** Mark a box when the heroes land one. *(Rule of thumb: a Milestone tends to run ~an hour of play — a few Scenes, 1–2 of them Challenges — but it's the progress that marks the box, never the clock.)*
+- A **Milestone** is a significant, pointable win on the way to the Goal — **overcoming a major obstacle, learning something crucial, reaching a key place, securing something vital, winning someone over, or beating a notable threat.** Mark a box when the heroes land one. *(These tend to run about an hour of play apiece — a few Scenes, 1–2 of them Challenges — a handy gauge for pacing.)*
 - **Win** by completing the last Milestone — filling the Story Arc Track. (The closing Milestone is usually a climactic **Hard** or **Epic** Challenge; finishing its track wins the Story.) **Lose** if the Antagonist Track fills, or if you **Quit the Story Arc** (give it up — no penalty; the loss seeds the next Story).
 
 <div class="lca-move" markdown>

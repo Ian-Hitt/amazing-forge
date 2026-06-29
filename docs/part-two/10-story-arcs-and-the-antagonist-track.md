@@ -66,7 +66,7 @@ A good Milestone is **concrete and checkable.** "Find the secret entrance" is go
 - **Win someone over** — an ally gained, support earned, an enemy turned.
 - **Beat a notable threat** — defeat, drive off, or escape a significant foe or danger.
 
-A box isn't time spent, or a fight won for its own sake — it's the *story* taking one of these steps toward the Goal.
+Each filled box is the *story* taking one of these steps toward the Goal.
 
 **Quick milestone ideas.** Stuck for what the steps should be? Pick or riff off these shapes:
 
