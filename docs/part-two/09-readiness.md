@@ -127,7 +127,7 @@ One more rule: **Mend cannot revive an Out-of-Action hero** — only a Recovery 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Recovery Scene <span class="lca-when">— fall back and regroup at a safe lull</span></p>
 
-**When the heroes fall back and regroup at a safe lull,** the whole party heals **fully back to 9.** No roll, no cost, and it **never advances the antagonist** — regroup as often as the fiction allows. (Bailing out of a Challenge you're losing is just a Recovery Scene: lose that track's progress and heal up.)
+**When the heroes fall back and regroup at a safe lull,** the whole party heals **fully back to 9.** No roll, no cost — regroup as often as the fiction allows. (Bailing out of a Challenge you're losing is just a Recovery Scene: lose that track's progress and heal up.)
 </div>
 
 Whenever the heroes reach a safe lull — **most often between Challenges**, when the action pauses and they can catch their breath — they can **fall back and regroup:** a **Recovery Scene.** This is the reliable recovery. The party pulls back, and **everyone recovers all the way back to 9** — no roll, no whiff. Falling back *works,* and it works completely.
@@ -143,10 +143,10 @@ So the rhythm of a Story Arc is: push, get battered, fall back and breathe, push
 <div class="lca-move" markdown>
 <p class="lca-move-name">Downtime <span class="lca-when">— between Story Arcs</span></p>
 
-**When a Story Arc ends and the heroes rest between adventures,** restore every **Broken Asset** — the heroes start the next Story whole. No roll, no antagonist advance. (Readiness is already full from any Recovery Scene, so Downtime isn't a heal — it's about reforging what broke, and slowing down for character beats.)
+**When a Story Arc ends and the heroes rest between adventures,** restore every **Broken Asset** — the heroes start the next Story whole. No roll. (Readiness is already full from any Recovery Scene, so Downtime isn't a heal — it's about reforging what broke, and slowing down for character beats.)
 </div>
 
-When a Story Arc ends — won or lost — the heroes take **Downtime:** the between-Stories reset and the game's standing invitation to **slow down.** Its real job is to **restore every Broken Asset** (below) — no roll, no antagonist advance; the Story Arc is resolved, so the antagonist's clock resets and the heroes start the next one whole. (Readiness is already full by now — a free Recovery Scene tops the party up any time the fiction allows — so Downtime isn't about healing; it's about reforging what broke.) Spend real time here in dialogue and narration; the slower character beats live in Downtime.
+When a Story Arc ends — won or lost — the heroes take **Downtime:** the between-Stories reset and the game's standing invitation to **slow down.** Its real job is to **restore every Broken Asset** (below) — no roll; the Story Arc is resolved, so the antagonist's clock resets and the heroes start the next one whole. (Readiness is already full by now — a free Recovery Scene tops the party up any time the fiction allows — so Downtime isn't about healing; it's about reforging what broke.) Spend real time here in dialogue and narration; the slower character beats live in Downtime.
 
 What does it look like? Whatever fits your hero — if you're stuck, roll or pick a d6:
 

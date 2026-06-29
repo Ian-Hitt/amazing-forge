@@ -96,7 +96,7 @@ When the track fills:
 <div class="lca-move" markdown>
 <p class="lca-move-name">Fall back <span class="lca-when">— bail out of a Challenge you're losing</span></p>
 
-**When you bail out of a Challenge you're losing,** pull back and regroup — resolved as a **Recovery Scene** (Chapter 9). You **lose the Challenge's progress** (wipe the track), and the **whole party heals to full 9.** No roll, no antagonist advance — falling back is always safe.
+**When you bail out of a Challenge you're losing,** pull back and regroup — resolved as a **Recovery Scene** (Chapter 9). You **lose the Challenge's progress** (wipe the track), and the **whole party heals to full 9.** No roll — falling back is always safe.
 </div>
 
 Heroes are never trapped in a Challenge they're losing. At any point — usually when Readiness is running dangerously low and grinding out the last boxes isn't worth the cost — the group may **fall back and regroup.** This is resolved as a **Recovery Scene** (Chapter 9), and it ends the Challenge immediately:
