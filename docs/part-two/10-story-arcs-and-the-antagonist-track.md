@@ -57,6 +57,17 @@ A Milestone is a **chapter of your movie** — and like a chapter, it's made of 
 
 A good Milestone is **concrete and checkable.** "Find the secret entrance" is good — you'll know the moment it's done. "Make progress" is not. Aim for steps a viewer could point at and say "that's the part where they got into the mountain."
 
+**What counts as a Milestone?** Whatever the Goal, a Milestone is a *major victory on the way to it.* If you're unsure whether a beat earns a box, check it against these shapes — most Milestones are one of them:
+
+- **Overcome a major obstacle** — a barrier crossed, a trap beaten, a hard problem cracked.
+- **Learn something crucial** — a secret uncovered, the truth grasped, a vital clue confirmed.
+- **Reach a key place** — arrive somewhere that matters, or finally get *in.*
+- **Secure something vital** — an item, a resource, a stronghold, a foothold.
+- **Win someone over** — an ally gained, support earned, an enemy turned.
+- **Beat a notable threat** — defeat, drive off, or escape a significant foe or danger.
+
+A box isn't time spent, or a fight won for its own sake — it's the *story* taking one of these steps toward the Goal.
+
 **Quick milestone ideas.** Stuck for what the steps should be? Pick or riff off these shapes:
 
 - **Rescue:** find the captive's location · get past what's guarding them · break them out · escape with them.
