@@ -144,7 +144,7 @@ Readiness comes back three ways:
 <div class="lca-move" markdown>
 <p class="lca-move-name">Recovery Scene <span class="lca-when">— fall back and regroup at a lull</span></p>
 
-**When the heroes fall back and regroup at a lull,** the whole party heals **fully back to 9.** No roll, fully reliable, and it **never advances the antagonist** — regroup as often as the fiction allows.
+**When the heroes fall back and regroup at a lull,** the whole party heals **fully back to 9.** No roll, fully reliable, and you can regroup as often as the fiction allows.
 </div>
 <div class="lca-move" markdown>
 <p class="lca-move-name">Downtime <span class="lca-when">— between Story Arcs</span></p>
