@@ -40,7 +40,7 @@ Play happens in **Scenes**, and whenever a hero does something risky, you roll t
 | **7–9** | **Weak Hit** | Success, but **Pay the Price.** |
 | **6−** | **Miss** | It fails, and **Pay the Price.** |
 
-On a **Strong or Weak Hit you narrate the change** — what you pull off, find, or shift. That narrated change *is* the progress.
+**Fiction bookends the roll.** Story first, dice second, then back to story: something's in motion, you roll to see how it turns out, and you narrate what that result looks like — on *every* result, Hit or Miss. The dice tell you *how* the story bends; you tell the rest. In **Co-op play** (the default) the rolling player narrates the whole outcome, the win *and* the cost; with a **Guide**, the hero narrates their successes and the Guide narrates the Pay the Price.
 
 **Doubles.** When the two dice come up matching, the moment swings hard — your critical hit and critical miss in one rule:
 
