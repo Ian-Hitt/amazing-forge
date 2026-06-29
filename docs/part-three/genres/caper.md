@@ -35,6 +35,15 @@ A price in a Caper makes things *harder and more exciting* — almost never hope
 
 In a Caper, the Story Arc Track *is the job*, and each **Milestone is a stage of pulling it off** (Chapter 10): cased, infiltrated, the prize in hand, the clean exit. A filled box is a step of the score completed — or completed *clean enough* to keep moving.
 
+**Good Milestones in a Caper:**
+
+- The target cased
+- Security defeated or slipped
+- A mark conned
+- The way in found
+- The prize in hand
+- The clean getaway
+
 The two Story Arc sizes (Chapter 10) map onto it neatly:
 
 - **Episode (3 Milestones, one sitting):** *Lift the Star of the Sea from the gala.* The Milestones: **case the floor and get inside → make the swap unseen → walk out before the lights come up.** One job, one session, one grin at the end.

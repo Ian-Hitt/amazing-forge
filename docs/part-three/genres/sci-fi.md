@@ -35,6 +35,15 @@ The future is amazing *and* it bites. A price in Sci-Fi is usually a system, a m
 
 Sci-Fi borrows its Story Arc shapes from every other genre — but the **Milestones are about systems, frontiers, and consequences** (Chapter 10): power restored, a signal decoded, a planet survived, a truth about the new thing finally grasped. A filled box is a problem of *the future* solved (often by creating the next one).
 
+**Good Milestones in Sci-Fi:**
+
+- A system restored or seized
+- A signal or code cracked
+- A hostile frontier survived
+- A crew or faction won over
+- The new thing finally understood
+- The core or objective reached
+
 The two Story Arc sizes (Chapter 10) map onto it like this:
 
 - **Episode (3 Milestones, one sitting):** *Escape the derelict before it falls into the star.* The Milestones: **restore main power → seal the breach and reach the bridge → break orbit in time.** A tight, ticking-clock single session.

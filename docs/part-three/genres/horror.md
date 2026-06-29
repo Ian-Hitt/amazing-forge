@@ -35,6 +35,15 @@ In Horror the dread *tightens* rather than the wound bleeds. **Readiness** here 
 
 In Horror, the Story Arc Track isn't a march toward a prize — it's an **ordeal to *endure*, and each Milestone is a step toward surviving, escaping, or understanding** (Chapter 10). A filled box is ground held against the dread, not territory taken from it.
 
+**Good Milestones in Horror:**
+
+- A refuge or safe moment found
+- The threat's true nature figured out
+- What it wants — or fears — learned
+- A trapped survivor saved
+- A way out opened
+- The horror faced down for good
+
 The two Story Arc sizes (Chapter 10) map onto a nightmare like this:
 
 - **Episode (3 Milestones, one sitting):** *Survive the night in the cabin.* The Milestones: **the power dies and you learn what's hunting you → you find the one thing that holds it back → you make it to first light.** One terrible night, start to dawn.

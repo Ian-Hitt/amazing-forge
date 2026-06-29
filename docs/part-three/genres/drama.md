@@ -36,6 +36,15 @@ A price in Drama is *social fallout*, never a bruise. **Readiness** here is your
 
 This is the part that trips up new Drama tables, so it's worth saying plainly: **the Story Arc Track is the backbone of a story, and a Milestone is a turning point in it** (Chapter 10). In Adventure those Milestones are places reached and foes beaten — easy to picture. In Drama they're *emotional* turning points, and that's just as concrete once you name them. A box isn't "they hung out"; it's a moment the relationship or the social map will never be the same after.
 
+**Good Milestones in Drama:**
+
+- A truth finally spoken
+- A secret or betrayal exposed
+- Trust earned — or broken
+- An alliance forged
+- A heart won or lost
+- The confrontation that changes everything
+
 The two Story Arc sizes (Chapter 10) map cleanly onto Drama:
 
 - **Episode (3 Milestones, one sitting):** *Survive the gala without your secret getting out.* The Milestones: **slip into the party unsuspected → outmaneuver the one guest who knows → make it to the last dance with the truth still yours.** A tight, self-contained evening.

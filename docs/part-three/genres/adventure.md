@@ -36,6 +36,14 @@ In Adventure, a price keeps the story *moving* — it rarely grinds it down. A s
 
 Adventure is the genre where the Story Arc Track is easiest to picture: a **Milestone is a place reached or a foe overcome** (Chapter 10), and the track is the road to the goal. This is the shape every other genre borrows from, so it's worth seeing clearly.
 
+**Good Milestones in Adventure:**
+
+- A leg of the journey crossed
+- A guardian or monster overcome
+- A sealed gate or puzzle solved
+- A hostile faction won over
+- The lost place reached, or the prize claimed
+
 The two Story Arc sizes (Chapter 10) map straight onto it:
 
 - **Episode (3 Milestones, one sitting):** *Reach the lost temple and claim the relic.* The Milestones: **cross the Saltglass Waste → solve the sealed gate → get past the guardian.** A clean, single-session expedition.

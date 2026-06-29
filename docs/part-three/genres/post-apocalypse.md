@@ -35,6 +35,15 @@ A price in Post-Apocalypse is *scarcity and risk closing in* — the resource th
 
 In Post-Apocalypse, the Story Arc Track is the **fight to secure, reach, or rebuild something, and each Milestone is a hard-won piece of it** (Chapter 10): a resource locked down, a haven reached, a wall raised, a neighbor won over. A filled box is ground taken back from the wasteland — not a treasure, but a *foothold.*
 
+**Good Milestones in Post-Apocalypse:**
+
+- A vital resource locked down
+- A haven reached
+- A defense built or raised
+- A neighbor-camp won over
+- A raider threat driven off
+- A hard season endured
+
 The two Story Arc sizes (Chapter 10) map onto survival like this:
 
 - **Episode (3 Milestones, one sitting):** *Cross the dead city to the rumored water cache.* The Milestones: **get past the raider tollgate → cross the flooded downtown → reach the cache and salvage what's left.** One desperate run, there and back.

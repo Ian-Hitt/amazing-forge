@@ -35,6 +35,15 @@ In Mystery the danger is to your *progress* and your *relationships*, almost nev
 
 In Mystery, the Story Arc Track is the **path to the truth, and every Milestone is a layer of it** (Chapter 10) — a clue confirmed, a lie peeled back, a suspect cleared or damned. A filled track *is* the solution. The crucial rule: don't hide the answer behind one perfect roll. Spread it across the boxes, so the case always inches forward.
 
+**Good Milestones in Mystery:**
+
+- A clue confirmed
+- A lie peeled back
+- A suspect cleared or damned
+- A reluctant witness turned
+- A hidden connection seen
+- The truth finally named
+
 The two Story Arc sizes (Chapter 10) map cleanly onto a case:
 
 - **Episode (3 Milestones, one sitting):** *Who poisoned the festival well?* The Milestones: **find the means → find the motive → name the culprit.** Three clues that add up to *who* and *why.*
