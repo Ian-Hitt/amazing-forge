@@ -160,9 +160,9 @@ Take turns — **everyone acts once before anyone repeats.** On each Challenge R
 
 ## Readiness, Recovery & the Antagonist Track
 
-Readiness isn't a survival meter — **heroes can't die** — it's the energy you spend pushing through trouble, and it refills whenever the action lets up. The antagonist's clock is the real threat.
+Readiness is your hero's single resource — body, mind, and supplies rolled into one **0–9** track. You spend it pushing through trouble, and it refills whenever the action lets up. **Heroes can't die,** so it's a pacing signal — a cue for when to fall back and regroup — not a life meter; the antagonist's clock is the real threat.
 
-**Out of Action** at **0 Readiness:** you can't act, and **one Asset breaks** (no +1 from it until it's restored). Always recoverable — heroes can't die. Going down also **advances the Antagonist Track one box.**
+**Out of Action** at **0 Readiness:** you can't act, and **one Asset breaks** (no +1 from it until it's restored) — always recoverable. Going down also **advances the Antagonist Track one box.**
 
 Readiness comes back three ways:
 
