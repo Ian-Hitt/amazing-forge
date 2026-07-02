@@ -30,6 +30,40 @@ Your three **Assets** are the specific tools, training, and ties that flesh out 
 
 **Readiness** starts at **9** — a single track covering body, mind, and supplies, and your hero's only resource. How it rises and falls is its own system, below.
 
+## Story Arcs & Milestones
+
+A Story Arc is the shape of a whole adventure: a race between the heroes' progress and the antagonist's, toward a climax. You track that race on **two clocks** drawn side by side — a **Story Arc Track** (your progress, one box per Milestone) above, and a longer **Antagonist Track** below, whose **last box is the antagonist's victory.** Fill yours first to reach the climax and win; if theirs fills first, you lose.
+
+**To set one up, in order:**
+
+1. **Name the Goal** — a one-sentence victory condition.
+2. **Name the antagonist** — a person, faction, or *force* (a desert, a plague, a deadline). Give it a face and a goal of its own.
+3. **Pick a length** — Episode or Movie (table below). This fixes the size of both tracks.
+4. **List your Milestones** — the concrete, pointable steps to the Goal (you'll know each the moment it's done): **3** for an Episode, **6** for a Movie.
+5. **Draw the two tracks**, then make the opening roll (below).
+
+**Story Arc Length** — choose one when you build a Story Arc; it sets the size of both tracks:
+
+| Length | Milestones | Antagonist Track | "Bad Guys Close In" on | Plays in |
+|---|---|---|---|---|
+| **Episode** | 3 | 5 boxes | boxes 1 · 3 · 5 | one sitting |
+| **Movie** | 6 | 9 boxes | boxes 1 · 3 · 5 · 7 · 9 | a full feature, 2–3 sessions |
+
+**Bad Guys Close In** is the move you stop and play out when an odd box fills — cut the camera to the antagonist and show them gaining ground. (On the printable Story Arc sheet it's shortened to just *"Closing In"* to save space.) **Season** and **Series** are *collections* of Story Arcs, not lengths — run long by **chaining** Stories (plan the big arc up front, or let it emerge from play — either works).
+
+- A **Milestone** is a significant, pointable win on the way to the Goal — **overcoming a major obstacle, learning something crucial, reaching a key place, securing something vital, winning someone over, or beating a notable threat.** Mark a box when the heroes land one. *(These tend to run about an hour of play apiece — a few Scenes, 1–2 of them Challenges — a handy gauge for pacing.)*
+- **Win** by completing the last Milestone — filling the Story Arc Track. (The closing Milestone is usually a climactic **Hard** or **Epic** Challenge; finishing its track wins the Story.) **Lose** if the Antagonist Track fills, or if you **Quit the Story Arc** (give it up — no penalty; the loss seeds the next Story).
+
+<div class="lca-move" markdown>
+<p class="lca-move-name">Start a Story Arc <span class="lca-when">— the opening roll</span></p>
+
+**When a new Story Arc begins,** roll a single **d6** — an oracle roll (generative; you can't fail it) — to set the opening:
+
+- **5–6 — Clear purpose:** open *in medias res* on the first Milestone.
+- **3–4 — A general idea:** they know the goal, not yet how to act on it.
+- **1–2 — Trouble finds you first.**
+</div>
+
 ## The Roll
 
 Play happens in **Scenes**, and whenever a hero does something risky, you roll to find out what happens. **The Core Roll:** roll **2d6** and add **+1** if the action calls for one of your Stats, **+1** if one of your Assets fits — so **+2** when both apply, **+0** when neither does (you can still try; you just roll the bare dice).
@@ -45,7 +79,7 @@ Play happens in **Scenes**, and whenever a hero does something risky, you roll t
 **Doubles.** When the two dice come up matching, the moment swings hard — your critical hit and critical miss in one rule:
 
 - On a **Hit,** bump your result up one tier (Weak → Strong; a Strong stays Strong with an extra flourish). A lucky break.
-- On a **Miss,** the dice turn against you: the Miss stands *and* the **Antagonist Track advances one box** (below). The bad guys seize the opening.
+- On a **Miss,** the dice turn against you: the Miss stands *and* the **Antagonist Track advances one box** (the antagonist's clock, above). The bad guys seize the opening.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">The Roll <span class="lca-when">— any risky action</span></p>
@@ -153,47 +187,13 @@ Readiness comes back three ways:
 </div>
 </div>
 
-**The Antagonist Track** is the antagonist's clock, and it advances **one box** in exactly three ways:
+**The Antagonist Track** you drew for the Story Arc advances **one box** in exactly three ways:
 
 1. A hero takes the **Devil's Bargain** — the main engine: buying a win now for a step toward defeat.
 2. A **Miss comes up doubles** — the dice turning against you.
 3. A hero goes **Out of Action.**
 
-Its **odd boxes are Bad Guys Close In beats** (stop and play out the antagonist gaining ground), and its **last box is the antagonist's victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. Going Out of Action near the end can fill that last box and **lose the Story before you finish your final Milestone** — which is exactly why falling back to recover is the smart play when you're battered.
-
-## Story Arcs & Milestones
-
-A Story Arc is the shape of a whole adventure: a race between the heroes' progress and the antagonist's, toward a climax. You track that race on **two clocks** drawn side by side — a **Story Arc Track** (your progress, one box per Milestone) above, and a longer **Antagonist Track** below, whose **last box is the antagonist's victory.** Fill yours first to reach the climax and win; if theirs fills first, you lose.
-
-**To set one up, in order:**
-
-1. **Name the Goal** — a one-sentence victory condition.
-2. **Name the antagonist** — a person, faction, or *force* (a desert, a plague, a deadline). Give it a face and a goal of its own.
-3. **Pick a length** — Episode or Movie (table below). This fixes the size of both tracks.
-4. **List your Milestones** — the concrete, pointable steps to the Goal (you'll know each the moment it's done): **3** for an Episode, **6** for a Movie.
-5. **Draw the two tracks**, then make the opening roll (below).
-
-**Story Arc Length** — choose one when you build a Story Arc; it sets the size of both tracks:
-
-| Length | Milestones | Antagonist Track | "Bad Guys Close In" on | Plays in |
-|---|---|---|---|---|
-| **Episode** | 3 | 5 boxes | boxes 1 · 3 · 5 | one sitting |
-| **Movie** | 6 | 9 boxes | boxes 1 · 3 · 5 · 7 · 9 | a full feature, 2–3 sessions |
-
-**Bad Guys Close In** is the move you stop and play out when an odd box fills — cut the camera to the antagonist and show them gaining ground. (On the printable Story Arc sheet it's shortened to just *"Closing In"* to save space.) **Season** and **Series** are *collections* of Story Arcs, not lengths — run long by **chaining** Stories (plan the big arc up front, or let it emerge from play — either works).
-
-- A **Milestone** is a significant, pointable win on the way to the Goal — **overcoming a major obstacle, learning something crucial, reaching a key place, securing something vital, winning someone over, or beating a notable threat.** Mark a box when the heroes land one. *(These tend to run about an hour of play apiece — a few Scenes, 1–2 of them Challenges — a handy gauge for pacing.)*
-- **Win** by completing the last Milestone — filling the Story Arc Track. (The closing Milestone is usually a climactic **Hard** or **Epic** Challenge; finishing its track wins the Story.) **Lose** if the Antagonist Track fills, or if you **Quit the Story Arc** (give it up — no penalty; the loss seeds the next Story).
-
-<div class="lca-move" markdown>
-<p class="lca-move-name">Start a Story Arc <span class="lca-when">— the opening roll</span></p>
-
-**When a new Story Arc begins,** roll a single **d6** — an oracle roll (generative; you can't fail it) — to set the opening:
-
-- **5–6 — Clear purpose:** open *in medias res* on the first Milestone.
-- **3–4 — A general idea:** they know the goal, not yet how to act on it.
-- **1–2 — Trouble finds you first.**
-</div>
+Because a knockout advances it, going Out of Action near the end can fill that **last box** and **lose the Story before you finish your final Milestone** — which is exactly why falling back to recover is the smart play when you're battered.
 
 ## Ask the Oracle
 
