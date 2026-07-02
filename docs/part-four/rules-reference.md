@@ -1,6 +1,6 @@
 # The Whole Game — Rules Reference
 
-*The complete rules, distilled — every mechanic and procedure you need to play, with the examples, flavor, and teaching stripped out. This reference stands on its own; if you want more, the full rulebook — **Lights, Camera, Action!** — covers everything here in depth, with worked examples and step-by-step teaching.*
+*Everything you need to play, all in one place. This reference stands on its own — and when you want worked examples, more options, and the reasoning behind the rules, the full rulebook, **Lights, Camera, Action!**, has the whole picture.*
 
 **What this is.** A **genre-agnostic, zero-prep storytelling game** — the same rules tell *any* kind of story (fantasy, sci-fi, mystery, horror, heist, drama, and on). Nobody writes the adventure ahead of time: you build a world, play the heroes, and **make the story up together as you go**, either with a **Guide** or fully **Co-op** (no Guide at all). The mechanics are the tools that turn that improvised story into cinematic drama — "prep" *is* play.
 
