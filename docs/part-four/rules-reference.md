@@ -28,7 +28,7 @@ Your three **Assets** are the specific tools, training, and ties that flesh out 
 2. **What's the one thing they're never without?** — a signature item, companion, or connection that's loaded with story.
 3. **What's their other side?** — a second talent or knack that shines in different moments than the first.
 
-**Readiness** is your hero's single resource — one track standing in for body, mind, and supplies alike. It starts at **9**; how it rises and falls is its own system, below.
+**Readiness** is your hero's single **Health Bar** — one track standing in for body, mind, and supplies alike. It starts at **9**; how it rises and falls is its own system, below.
 
 ## Story Arcs & Milestones
 
@@ -160,9 +160,16 @@ Take turns — **everyone acts once before anyone repeats.** On each Challenge R
 
 ## Readiness, Recovery & the Antagonist Track
 
-Readiness is your hero's single resource — body, mind, and supplies rolled into one **0–9** track. You spend it pushing through trouble, and it refills whenever the action lets up. **Heroes can't die,** so it's a pacing signal — a cue for when to fall back and regroup — not a life meter; the antagonist's clock is the real threat.
+Readiness is your hero's single **Health Bar** — body, mind, and supplies rolled into one **0–9** track. You spend it pushing through trouble, and it refills whenever the action lets up. Drop to **0** and your hero goes **Out of Action** — knocked out of the Scene, never killed.
 
-**Out of Action** at **0 Readiness:** you can't act, and **one Asset breaks** (no +1 from it until it's restored) — always recoverable. Going down also **advances the Antagonist Track one box.**
+<div class="lca-move" markdown>
+<p class="lca-move-name">Out of Action <span class="lca-when">— when your Readiness hits 0</span></p>
+
+**When a hero's Readiness drops to 0,** they can't continue and must sit out the rest of the Scene (knocked out, never killed — a Recovery Scene brings them back). When it happens:
+
+1. **Break an Asset** — choose the one most in play when you dropped, and lose its **+1** until it's restored. Narrate how it breaks.
+2. **Advance the Antagonist Track** one box, and narrate how the antagonist gets ahead.
+</div>
 
 Readiness comes back three ways:
 

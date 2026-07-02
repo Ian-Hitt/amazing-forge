@@ -79,7 +79,7 @@ If the sentence comes out naturally — "I'm a **Tracker**, so I follow the raid
 
 Last step. Every hero starts with **9 Readiness.**
 
-Readiness is your hero's "ready for adventure" meter, all rolled into one number. It covers three things at once:
+Readiness is your hero's **Health Bar,** rolled into a single number. It covers three things at once:
 
 - **Body** — your health, energy, and stamina.
 - **Mind** — your focus, courage, and nerve.

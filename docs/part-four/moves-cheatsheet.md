@@ -81,7 +81,7 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
     &nbsp;&middot;&nbsp; <b>Doubles</b>: upgrade a Hit one tier (a Strong Hit &rarr; Outstanding Success: +1 to your next roll); a Miss on doubles advances the antagonist.
     &nbsp;&middot;&nbsp; A Hit means you <b>narrate the change</b>.
     <br>
-    <b>READINESS</b> (starts at 9, your max all game): Weak Hit <b>&minus;1</b>, Miss <b>&minus;2</b> <i>(at 4&ndash;5 heroes, &minus;2 / &minus;3)</i>. At <b>0</b> you're Out of Action and one Asset breaks until Downtime.
+    <b>READINESS</b> (starts at 9, your max all game): Weak Hit <b>&minus;1</b>, Miss <b>&minus;2</b> <i>(at 4&ndash;5 heroes, &minus;2 / &minus;3)</i>. At <b>0</b> you're Out of Action: sit out the rest of the Scene, break one Asset (until Downtime), and the antagonist advances one box.
   </div>
 
   <div class="af-moves">

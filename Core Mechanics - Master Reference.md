@@ -89,11 +89,11 @@ the book. When reviewing a chapter, treat any deviation as an error to flag.
 | **Stat** | One of a character's two broad "naturally good at" areas, from a closed five — **Strong** (force & force of personality, incl. intimidation), **Quick** (overt dexterity — agility, speed, aim), **Clever** (knowledge, reasoning, observation), **Sneaky** (stealth, deception, thievery), **Charming** (winning people over). The relevant Stat is chosen **objectively** by what the action calls for (never argued); add **+1** when it's one of your two. | Attribute, stat (lowercase), ability score |
 | **Asset** | One of a character's three specific "amazing at" things — a signature talent, tool, or friend; argued via the one-sentence test, **+1** when it fits. | skill, stat, trait |
 | **Broken Asset** | An Asset knocked offline when a hero goes Out of Action — gives no +1 until **Downtime** restores it. Temporary; never a penalty. | negative Asset, debuff, condition, impact |
-| **Readiness** | The single 0–9 resource track (health + morale + supplies). Max stays **9** all game. | HP, health, hit points, stamina |
+| **Readiness** | The hero's single 0–9 **Health Bar** (body + mind + supplies in one track). Max stays **9** all game. At 0 → Out of Action. The *term* is always Readiness; "Health Bar" is the OK plain-language framing (supersedes the old "never HP/health" rule, 2026-07-02). | HP, health, hit points, stamina |
 | **Mend** | The small, risky **any-scene** patch (in a Challenge, it's your turn instead of a Challenge Roll): recover a little — self or ally, rolled **Strong +3 / Weak +2 / Miss −1 Readiness** (capped at 9). **No usage cap; never advances the antagonist; can't revive Out of Action.** The −1 risk keeps it from substituting for a regroup. | heal, Catch Your Breath |
 | **Recovery Scene** | The fall-back-and-regroup move: the party heals **fully back to 9** — **free** (no roll, no cost to the antagonist's clock). Reliable; the quiet character beat. **Recovery never advances the Antagonist Track.** | rest, healing |
 | **Downtime** | The between-Story-Arcs reset: **restores any Broken Asset** (and handles Growth bookkeeping). Free; the antagonist's clock resets. (Recovery Scenes already heal the party fully, free, any time, so Downtime is not a healing move.) | long rest, Sojourn, victory bump |
-| **Out of Action** | State when Readiness hits 0. | dead, KO'd, defeated |
+| **Out of Action** | When Readiness hits 0: the hero sits out the rest of the Scene (knocked out, never killed), **breaks an Asset,** and **advances the Antagonist Track** one box. Brought back by a Recovery Scene. | dead, KO'd, defeated |
 | **Story / Story Arc** | One spine — a single central dramatic question — tracked with a **Story Arc Track** (progress) and an **Antagonist Track** (the antagonist's clock). Sized **Episode** or **Movie** (the only two with box machinery). | Quest, mission, adventure |
 | **Episode** | A complete short Story — **3 Milestones, 5-box Antagonist Track** (Bad Guys Close In on 1·3·5) — told in ~one sitting. Same track size at any party count. | one-shot, session quest |
 | **Movie** | A complete feature Story — **6 Milestones, 9-box Antagonist Track** (Bad Guys Close In on 1·3·5·7·9) — told over ~2–3 sessions. Same track size at any party count. | feature film |
@@ -379,8 +379,9 @@ broad layer, so let Assets be pointed and identity-bearing.
 ### Step 3: Readiness
 
 Every character starts with **9 Readiness.** Unlike games that track health, magic, and
-inventory separately, *Lights, Camera, Action!* bundles all of it into one track. Readiness is a
-unified measure of three things:
+inventory separately, *Lights, Camera, Action!* bundles all of it into one track — the hero's single
+**Health Bar** (the term is always *Readiness,* but "Health Bar" is the plain-language framing to
+reach for). Readiness is a unified measure of three things:
 
 - **Physical Health** — stamina, energy, physical armor.
 - **Mental Health** — focus, morale, courage, composure under stress.

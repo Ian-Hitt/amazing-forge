@@ -77,7 +77,7 @@ authoritative**; V3/V4 are older and superseded where they differ.
 > (pick **2 of 5 stats** = +1, **3 Assets** = +1), single broad **Attribute retired**, recovery ratchet
 > dropped (full heal to 9), "+1 box for 4+" dropped. Trust this banner + Math&Sim §0 over any stale phrasing below.
 
-- **Terms:** Guide (never "GM"), Co-op play (never "GMless"), Readiness (never HP/health),
+- **Terms:** Guide (never "GM"), Co-op play (never "GMless"), Readiness (the hero's single **Health Bar** — body/mind/supplies in one 0–9 track; the *term* is always "Readiness," but "Health Bar" is the OK plain-language framing — supersedes the old "never HP/health" rule, 2026-07-02),
   Assets, **Stats** (pick **2 of the closed five**: Strong/Quick/Clever/Sneaky/Charming — the
   most-relevant one is chosen objectively, not argued), Story / Story Arc (never "Quest"; never bare "Arc"), Story Arc Track (never "Hero
   Track"/"Quest Track"), **Episode/Movie** (the two *individual* story sizes), **Season/Series**
