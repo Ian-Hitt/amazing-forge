@@ -1,8 +1,6 @@
 ## Hero Sheet
 
-Everything a hero needs fits on one page. Print or photocopy this sheet, or just copy the layout onto a scrap of paper — a Concept, two Stats, three Assets, your Readiness, and a Growth Track is the whole character.
-
-> **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus and navigation are hidden automatically, so you'll get just the sheet. One sheet per hero.
+One page to track a hero. Use your browser's **Print** (or Save as PDF) — the site menus are hidden automatically, so you get just the sheet.
 
 <style>
 .af-sheet {
@@ -46,10 +44,7 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
   /* Keep each section heading with its content, and never split a block across a page. */
   .af-sheet h3 { break-after: avoid; page-break-after: avoid; }
   .af-line, .af-asset, .af-track, .af-notes, .af-ref { break-inside: avoid; page-break-inside: avoid; }
-  /* Break the sheet cleanly: identity + Concept + Assets on page 1, Readiness +
-     Growth + Notes on page 2 (so Readiness never strands its track on page 2). */
-  .af-break { break-before: page; page-break-before: always; }
-  /* Compact each half so it stays on a single page. */
+  /* Compact the sheet so it stays on a single page. */
   .af-sheet { padding: 0.65rem 0.9rem; max-width: none; }
   .af-sheet .af-title { font-size: 1.3rem; }
   .af-sheet .af-sub { margin-bottom: 0.4rem; }
@@ -72,33 +67,33 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
 
   <h3>Concept</h3>
   <div class="af-line"><span class="af-fill"></span></div>
-  <p class="af-hint">[An Adjective, Species, or Twist] + [a Class, Job, or Role] — your hero's one-line movie-poster pitch.</p>
+  <p class="af-hint">Your one-line movie-poster pitch.</p>
 
   <h3>Stats</h3>
-  <p class="af-hint">Circle <b>two</b> of the five. They're the broad kinds of action your hero is built for — when the moment calls for one of them, add <b>+1</b>. You don't argue Stats; you just ask what the action calls for.</p>
+  <p class="af-hint">Circle <b>two.</b></p>
   <div class="af-stats">
     <span class="af-stat">Strong</span><span class="af-stat">Quick</span><span class="af-stat">Clever</span><span class="af-stat">Sneaky</span><span class="af-stat">Charming</span>
   </div>
 
   <h3>Assets</h3>
-  <p class="af-hint">Three specific things your hero is amazing at. An Asset that fits a roll adds <b>+1</b> (a fitting Stat <i>and</i> a fitting Asset = +2). Build them by answering three questions: a <b>Skill</b>, a signature <b>Item/Companion</b>, and a <b>Wild</b> pick. Swap freely if your concept wants. Spend 2 Growth on a Boon (a signature move on an Asset, max 2 each). Check <b>Broken</b> when an Asset is knocked out at 0 Readiness — it gives no +1 until Downtime restores it.</p>
+  <p class="af-hint">Three things your hero is great at. Note any <b>Boons</b> on the lines below each; check <b>Broken</b> if one gets knocked out.</p>
   <div class="af-assets">
     <div class="af-asset">
-      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">1. Skill or Expertise</span>
+      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">1. Skill or expertise</span>
       <div class="af-fill"></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-broken"><span class="af-box"></span> Broken</div>
     </div>
     <div class="af-asset">
-      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">2. Item, Companion, or Connection</span>
+      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">2. Item, companion, or connection</span>
       <div class="af-fill"></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-broken"><span class="af-box"></span> Broken</div>
     </div>
     <div class="af-asset">
-      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">3. Wild (your call)</span>
+      <span class="af-hint" style="display:block;margin-bottom:0.2rem;">3. Their other side</span>
       <div class="af-fill"></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
       <div class="af-boon"><span class="af-box"></span><span class="af-fill"></span></div>
@@ -106,8 +101,8 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
     </div>
   </div>
 
-  <h3 class="af-break">Readiness</h3>
-  <p class="af-hint">Start at 9; it stays your max all game. Cross off as it drops — Weak Hit &minus;1, Miss &minus;2. At 0 you're Out of Action and one Asset breaks (and the antagonist advances). On a Miss you may take the <b>Devil's Bargain</b>: upgrade to a Strong Hit and refuse the loss &rarr; the antagonist advances one box (not if it would knock you Out of Action). <b>Mend</b> (any scene, self or ally): Strong +3 / Weak +2 / Miss &minus;1; capped at 9, can't revive a downed hero. <b>Recovery Scene</b> (fall back to regroup): the party heals fully back to <b>9</b> — no roll, automatic. <b>Downtime</b> (between Story Arcs) restores Broken Assets.</p>
+  <h3>Readiness</h3>
+  <p class="af-hint">Start at 9 (your max). Cross off as it drops; refill when you regroup.</p>
   <div class="af-track af-readiness">
     <span class="af-box">0</span>
     <span class="af-box">1</span>
@@ -122,7 +117,7 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
   </div>
 
   <h3>Growth Track</h3>
-  <p class="af-hint">Every 3rd Milestone the party marks (on any Story Arc), each hero fills one box (1 Growth). Spend 2 on a Boon, 5 on a New Asset (ceiling 6 — Trade In to exceed).</p>
+  <p class="af-hint">Fill one box per Growth earned.</p>
   <div class="af-track">
     <span class="af-box"></span><span class="af-box"></span><span class="af-box"></span>
     <span class="af-box"></span><span class="af-box"></span><span class="af-box"></span>
@@ -134,6 +129,4 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
 
   <h3>Story Arc Notes</h3>
   <div class="af-notes"></div>
-
-  <p class="af-ref"><b>The Roll:</b> 2d6, +1 if a fitting Stat &middot; +1 if a fitting Asset (+2 for both, +0 for neither). &nbsp; <b>10+</b> Strong Hit &middot; <b>7&ndash;9</b> Weak Hit &middot; <b>6&minus;</b> Miss. &nbsp; Doubles: upgrade a Hit one tier (a Strong Hit &rarr; Outstanding Success: +1 to your next roll); a Miss on doubles advances the antagonist. A Hit means you narrate the change.</p>
 </div>
