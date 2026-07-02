@@ -63,7 +63,7 @@ See **Challenges** ([Chapter 8](../part-two/08-challenges.md)) for the full proc
   <p class="af-sub">Challenge Tracker</p>
 
   <div class="af-legend">
-    <b>START A CHALLENGE</b> (only when you pick the fight): roll a <b>d6</b> &rarr; <b>5&ndash;6</b> +1 &middot; <b>3&ndash;4</b> 0 &middot; <b>1&ndash;2</b> &minus;1 &mdash; a one-time edge on your <b>first roll</b> only.
+    <b>START A CHALLENGE:</b> name the goal, pick a difficulty &amp; draw the track, then <b>each player</b> rolls a <b>d6</b> &rarr; <b>5&ndash;6</b> +1 &middot; <b>3&ndash;4</b> 0 &middot; <b>1&ndash;2</b> &minus;1 &mdash; a one-time nudge to <i>their</i> first roll.
     <br>
     <b>EACH ROLL:</b> <b>Strong</b> fill 1 box &middot; <b>Weak</b> fill 1 box, &minus;1 Readiness &middot; <b>Miss</b> no box, &minus;2 Readiness <i>or</i> take the <b>Devil's Bargain</b> (upgrade to a Strong Hit, refuse the loss &rarr; antagonist +1 box; not if it would knock you Out of Action). A <b>Strong Hit on doubles</b> is an Outstanding Success (+1 to your next roll); a <b>Miss on doubles</b> advances the antagonist. <i>(4&ndash;5 heroes: Weak &minus;2, Miss &minus;3.)</i>
     <br>

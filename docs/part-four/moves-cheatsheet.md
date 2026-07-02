@@ -113,7 +113,7 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
         <div class="af-tier"><b>1&ndash;2</b> <i>Trouble finds you first</i> &mdash; open in the thick of it, likely mid-Challenge.</div>
       </div>
 
-      <div class="af-move"><span class="af-mname">Start a Challenge.</span> When you <i>choose</i> to open a Challenge, one <b>d6</b> oracle roll (no Stat/Asset; generative) sets the jump &mdash; a one-time edge on the <b>first roll</b> only. <b>5&ndash;6</b> +1 (you got the drop) &middot; <b>3&ndash;4</b> 0 (even) &middot; <b>1&ndash;2</b> &minus;1 (they beat you to it). Skip it if trouble is thrust on you.</div>
+      <div class="af-move"><span class="af-mname">Start a Challenge.</span> Opening any Challenge: name the goal, choose a difficulty (Normal 3 / Hard 6 / Epic 9) &amp; draw the track, then <b>each player rolls a d6</b> (no Stat/Asset; generative) for a one-time nudge to <i>their</i> first roll. <b>5&ndash;6</b> +1 &middot; <b>3&ndash;4</b> 0 &middot; <b>1&ndash;2</b> &minus;1.</div>
 
       <div class="af-move"><span class="af-mname">Fall back.</span> Retreat from a Challenge (lose its progress) and take a Recovery Scene &mdash; the party heals fully back to 9. The stay-alive valve.</div>
 

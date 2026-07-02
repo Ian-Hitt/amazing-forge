@@ -561,7 +561,7 @@ Each move is defined in full in the chapter noted; this list is the authoritativ
 | Move | What it does | Dice |
 |---|---|---|
 | **Start a Story Arc** | Sets how a new Story Arc opens — **5–6** *Clear purpose* / **3–4** *A general idea* / **1–2** *Trouble finds you first* (Ch.10). | **d6 oracle**, generative |
-| **Start a Challenge** | Sets the opening of a Challenge the heroes *deliberately initiate*: a one-time **±1 to the first roll** (**5–6** +1 *you got the drop* / **3–4** 0 *even footing* / **1–2** −1 *they beat you to it*). Skipped when trouble is thrust on the heroes (Ch.8). | **d6 oracle**, generative |
+| **Start a Challenge** | The opening procedure for **any** Challenge: name the goal, choose a difficulty and draw the track, then **each player rolls a d6** for a one-time **±1 to their own first Challenge Roll** (**5–6** +1 / **3–4** 0 / **1–2** −1). Run at the start of every Challenge (Ch.8). | **d6 oracle**, generative |
 | **Fall back** | Retreat from a losing Challenge (lose its progress) to regroup — resolved as a **Recovery Scene** (full heal, free, no antagonist advance) (Ch.8/9). | none |
 | **Quit the Story Arc** | The terminal fall back — give up a Story; no penalty or bonus; the loss seeds a new Story (Ch.10). | none |
 
@@ -1346,16 +1346,18 @@ fifth Core Principle, and the *Amazing Tales* **starter-backdrop** option.
   track (Ask the Oracle, Pay the Price). The printable **Moves Cheatsheet** (Part Four) lists every
   move under these three headings. See the vocab table and **The Moves (Master List)**.
 
-- ✅ **Start a Challenge opening roll (2026-06-09; reworked to a d6 oracle 2026-06-27)** — a **Progress
-  move**, the twin of Start a Story Arc, rolled once when the heroes *deliberately initiate* a Challenge
-  (skipped when trouble is thrust on them). A single **d6** oracle roll, generative: **5–6** → **+1** to
-  the first Challenge Roll, **3–4** → 0, **1–2** → **−1**. *History:* originally **2d6 + 1** with doubles
-  upgrade; refolded onto the bare d6 oracle 2026-06-27 alongside Start a Story Arc. A one-time bonus to a
-  single roll (applies to the first roll, then it's gone), so it never rescales the +2/+1 curve.
-  Sim-cleared as a negligible, mostly-flavor nudge — `Math & Simulation Reference.md` §4c. Confirms a
-  temporary ±1 to a single roll is a safe lever, distinct from the "never bigger numbers" rule on
-  *permanent* advancement.
-  See Ch.8 and **The Moves (Master List)**.
+- ✅ **Start a Challenge opening roll (2026-06-09; d6 oracle 2026-06-27; universal + per-player
+  2026-07-02)** — a **Progress move**, the twin of Start a Story Arc, run at the start of **every**
+  Challenge (no longer skipped when trouble is thrust on the heroes). Procedure: **(1)** name the goal
+  (what the track measures), **(2)** choose a difficulty and draw the track, **(3) each player rolls a
+  single d6** (generative) for a one-time **±1 to their own first Challenge Roll**: **5–6** → +1, **3–4**
+  → 0, **1–2** → −1. *History:* originally **2d6 + 1** with doubles upgrade; refolded onto the bare d6
+  oracle 2026-06-27; made universal and per-player 2026-07-02 (Ian). A one-time ±1 to a single roll per
+  hero, so it never rescales the +2/+1 curve. Sim-cleared as a negligible, mostly-flavor nudge (the
+  single-roll version; the per-player version spreads the same tiny ±1 across each hero's opening roll —
+  balance-neutral, not separately re-run) — `Math & Simulation Reference.md` §4c. Confirms a temporary ±1
+  to a single roll is a safe lever, distinct from the "never bigger numbers" rule on *permanent*
+  advancement. See Ch.8 and **The Moves (Master List)**.
 
 **Still open (need a call):**
 - All core-mechanics *numbers* are settled; remaining work is playtesting and tuning.

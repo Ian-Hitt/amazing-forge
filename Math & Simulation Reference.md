@@ -670,6 +670,13 @@ only on flee; keep the Antagonist Track length = Story Arc Track (works fine her
 
 ## 4c. Start a Challenge opening roll (`sim_start_challenge.py`, 2026-06-09)
 
+> ⚠️ **2026-07-02 — now universal + per-player.** The opening roll runs at the start of **every**
+> Challenge (not only heroes-initiated ones — the "skip when trouble is thrust on them" caveat is
+> retired), and **each player rolls their own d6,** applying ±1 to *their own* first Challenge Roll
+> (was one party roll on the single first roll of the Scene). Same tiny ±1 tiers, now one per hero.
+> Balance-neutral — each hero's nudge only touches their own opening roll and then it's gone — and
+> **not separately re-simulated;** the single-roll clearance below applies per hero.
+>
 > ⚠️ **2026-06-27 — refolded onto a d6 oracle.** Both Start moves (Start a Challenge, Start a Story
 > Arc) now resolve as a single **d6 oracle** roll, not `2d6 + 1`: **5–6** +1 · **3–4** 0 · **1–2** −1
 > (flat 33/33/33). This sim was run on the old `2d6 + 1` (which skewed 33/44/22, *slightly*

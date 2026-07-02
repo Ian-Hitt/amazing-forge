@@ -104,19 +104,25 @@ This is the game's core mechanic — how the story decides what happens next. Wh
 
 ### Pay the Price
 
-A **Weak Hit or a Miss costs Readiness** — the complication that follows when a roll doesn't go cleanly. Narrate the most fitting setback first, then dock the Readiness. (Stuck for one? Roll a d10 for a prompt.)
+A **Weak Hit or a Miss costs Readiness** — the complication that follows when a roll doesn't go cleanly.
+
+<div class="lca-move" markdown>
+<p class="lca-move-name">Pay the Price <span class="lca-when">— on a Weak Hit or a Miss</span></p>
+
+**When a roll comes up a Weak Hit or a Miss,** narrate the most fitting setback, then lose Readiness:
 
 - **Weak Hit:** lose **1** Readiness.
 - **Miss:** lose **2** Readiness.
+</div>
 
-**Larger groups feel each setback harder.** Those are the costs for **2–3 heroes;** at **4 or 5 heroes,** add 1 to each — a Weak costs **2**, a Miss costs **3.** (More heroes share the same fixed Challenge track, so a heavier price keeps the stakes real. The hero who rolled takes the loss.) That's the only thing that scales with table size.
+> **Party size.** The game is balanced for a party of **2–3 heroes.** With **4 or 5 heroes,** increase each Readiness loss by **+1** — a Weak Hit costs **2**, a Miss costs **3.**
 
 On a **Miss,** one extra option is on the table:
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Devil's Bargain <span class="lca-when">— on a Miss, optional</span></p>
 
-**When a roll comes up a Miss,** you may refuse the Readiness loss **and** turn it into a **Strong Hit** — in exchange for **advancing the Antagonist Track one box.** Buying a win now for a step toward defeat; it's the main thing that drives the antagonist's clock. **Not** allowed on a Miss whose price would knock you Out of Action — you can't buy your way out of going down.
+**When a roll comes up a Miss,** you may refuse the Readiness loss **and** turn it into a **Strong Hit** — in exchange for **advancing the Antagonist Track one box.** Buying a win now for a step toward defeat. **Not** allowed on a Miss whose price would knock you Out of Action — you can't buy your way out of going down.
 </div>
 
 ## Challenges
@@ -137,15 +143,14 @@ Take turns — **everyone acts once before anyone repeats.** On each Challenge R
 
 <div class="lca-moves cols-2" markdown>
 <div class="lca-move" markdown>
-<p class="lca-move-name">Start a Challenge <span class="lca-when">— when you choose to open one</span></p>
+<p class="lca-move-name">Start a Challenge</p>
 
-**When you choose to open a Challenge,** roll a single **d6** (an oracle roll) for a one-time nudge to the **first roll** only:
-
-- **5–6:** +1 (you got the drop).
-- **3–4:** 0 (even footing).
-- **1–2:** −1 (they beat you to it).
-
-*Skip it when trouble is thrust on you.*
+1. **Name the goal** — what beating this Challenge accomplishes (the thing the track measures).
+2. **Choose a difficulty** — Normal (3 boxes), Hard (6), or Epic (9) — and draw the track.
+3. **Each player rolls a d6** for their starting situation — a one-time nudge to *their* first roll in the Challenge:
+    - **5–6:** You're well prepared for this — **+1** to your first roll.
+    - **3–4:** No edge either way — run the Challenge as normal.
+    - **1–2:** The Challenge caught you off guard, or your foe was ready for it — **−1** to your first roll.
 </div>
 <div class="lca-move" markdown>
 <p class="lca-move-name">Fall back <span class="lca-when">— bail out of a Challenge</span></p>

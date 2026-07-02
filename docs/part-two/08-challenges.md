@@ -32,27 +32,24 @@ Anything shorter than a Normal — a moment that's only a roll or two — doesn'
 
 Difficulty is a **screen-time dial,** not a balance setting: you pick Hard for the set-piece everyone came for and Normal for the everyday beat on the way there. A good Story *mixes* the tiers — **Normal is the default size;** reach for Hard when a scene is worth a real grind, and Epic only for a true peak (see Pacing, Chapter 12). If real-world time is running short, keep things Normal. Pick the size when you draw the track, based on how big the moment should feel.
 
-### Start a Challenge (When You Pick the Fight)
+### Start a Challenge
 
-When the heroes **choose to start** a Challenge — they pick the fight, breach the vault, decide to ford the rapids *now* — make one quick roll to see how the opening breaks. This is **Start a Challenge,** the Challenge-sized cousin of Start a Story Arc (Chapter 10).
+Every Challenge opens the same way, whether the heroes pick the fight or trouble lands on them: name what's at stake, set the track, and let each hero find their footing as the Scene begins. This is **Start a Challenge,** the Challenge-sized cousin of Start a Story Arc (Chapter 10).
 
-Like Start a Story Arc, this is an **oracle roll** — nothing here is a hero attempting a risky action, so it reuses the bare **Ask the Oracle** die (Chapter 11): roll a single **d6** and read it. No Stat or Asset applies; you can't fail it. It just decides who has the jump as the Scene begins.
+That last step is an **oracle roll** — nobody's attempting a risky action yet, so it reuses the bare **Ask the Oracle** die (Chapter 11): each player rolls a single **d6.** No Stat or Asset applies and you can't fail it; it just sets how ready each hero is when the action starts.
 
 <div class="lca-move" markdown>
-<p class="lca-move-name">Start a Challenge <span class="lca-when">— when the heroes choose to open a Challenge</span></p>
+<p class="lca-move-name">Start a Challenge</p>
 
-**When the heroes choose to open a Challenge,** roll a single **d6** (the oracle die — no Stat or Asset). You can't fail it; it just sets who has the jump as the Scene begins:
-
-- **5–6:** you got the drop — **+1 to the first roll** of the Challenge.
-- **3–4:** even footing — **no change.**
-- **1–2:** they beat you to it — **−1 to the first roll** of the Challenge.
-
-*A one-time edge — it applies only to the very first Challenge Roll, then it's gone · skip the roll if trouble is thrust on the heroes instead.*
+1. **Name the goal** — what beating this Challenge accomplishes (the thing the track measures).
+2. **Choose a difficulty** — Normal (3 boxes), Hard (6), or Epic (9) — and draw the track.
+3. **Each player rolls a d6** for their starting situation — a one-time nudge to *their* first roll in the Challenge:
+    - **5–6:** You're well prepared for this — **+1** to your first roll.
+    - **3–4:** No edge either way — run the Challenge as normal.
+    - **1–2:** The Challenge caught you off guard, or your foe was ready for it — **−1** to your first roll.
 </div>
 
-That bonus or penalty is a **one-time edge:** it applies only to the **very first Challenge Roll** anyone makes this Scene, and then it's gone — it doesn't carry to later rolls. Narrate what it means: on a **5–6** the heroes surge in with the initiative; on a **1–2** the opposition moves first and the heroes are a half-step behind. It's a small cinematic nudge for seizing the moment (or a small cost for charging in unready), nothing more.
-
-**Only roll it when the heroes choose to open the Challenge.** If trouble is thrust on *them* instead — an ambush, or a Start a Story Arc that opened with "Trouble finds you first" — skip the roll. They're already reacting, not seizing anything, so the Scene simply begins in motion.
+Each hero's nudge is a **one-time edge:** it applies only to *their own* **first Challenge Roll** and then it's gone — it doesn't carry to later rolls. Narrate what it means: on a **5–6** the hero surges in with the initiative; on a **1–2** they're caught a half-step behind. A small cinematic beat for seizing the moment (or a small cost for charging in unready), nothing more.
 
 ### The Turn Loop
 
