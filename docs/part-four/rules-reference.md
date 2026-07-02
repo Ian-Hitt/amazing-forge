@@ -32,9 +32,9 @@ Your three **Assets** are the specific tools, training, and ties that flesh out 
 
 ## Story Arcs & Milestones
 
-A Story Arc is the shape of a whole adventure: a race between the heroes' progress and the antagonist's, toward a climax. You track that race on **two clocks** drawn side by side — a **Story Arc Track** (your progress, one box per Milestone) above, and a longer **Antagonist Track** below, whose **last box is the antagonist's victory.** Fill yours first to reach the climax and win; if theirs fills first, you lose.
+A Story Arc is the shape of a whole adventure: a race between the heroes' progress and the antagonist's, toward a climax. You track that race on **two tracks** drawn side by side — a **Story Arc Track** that measures *your* progress (one box per Milestone) and an **Antagonist Track** that measures the *antagonist's.* Fill yours first to reach the climax and win; if theirs fills first, you lose.
 
-**To set one up, in order:**
+### Steps to Create a Story Arc
 
 1. **Name the Goal** — a one-sentence victory condition.
 2. **Name the antagonist** — a person, faction, or *force* (a desert, a plague, a deadline). Give it a face and a goal of its own.
@@ -53,6 +53,14 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 
 - A **Milestone** is a significant, pointable win on the way to the Goal — **overcoming a major obstacle, learning something crucial, reaching a key place, securing something vital, winning someone over, or beating a notable threat.** Mark a box when the heroes land one. *(These tend to run about an hour of play apiece — a few Scenes, 1–2 of them Challenges — a handy gauge for pacing.)*
 - **Win** by completing the last Milestone — filling the Story Arc Track. (The closing Milestone is usually a climactic **Hard** or **Epic** Challenge; finishing its track wins the Story.) **Lose** if the Antagonist Track fills, or if you **Quit the Story Arc** (give it up — no penalty; the loss seeds the next Story).
+
+**The Antagonist Track advances one box** in exactly three ways. *(Each is a rule explained further down in this reference — under The Roll and Readiness; for now, just know these are what make the antagonist's clock climb.)*
+
+1. A hero takes the **Devil's Bargain** — the main engine: buying a win now for a step toward defeat.
+2. A **Miss comes up doubles** — the dice turning against you.
+3. A hero goes **Out of Action.**
+
+Fill its **last box** and the antagonist wins — so going down near the end can lose the Story before you finish your final Milestone, which is exactly why falling back to recover is the smart play when you're battered.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Story Arc <span class="lca-when">— the opening roll</span></p>
@@ -158,20 +166,11 @@ Take turns — **everyone acts once before anyone repeats.** On each Challenge R
 **When you bail out of a Challenge,** lose the track's progress and take a **Recovery Scene** (the party heals fully). Always safe, always available — the stay-alive valve.
 </div>
 
-## Readiness, Recovery & the Antagonist Track
+## Readiness & Recovery
 
 Readiness is your hero's single **Health Bar** — body, mind, and supplies rolled into one **0–9** track. You spend it pushing through trouble, and it refills whenever the action lets up. Drop to **0** and your hero goes **Out of Action** — knocked out of the Scene, never killed.
 
-<div class="lca-move" markdown>
-<p class="lca-move-name">Out of Action <span class="lca-when">— when your Readiness hits 0</span></p>
-
-**When a hero's Readiness drops to 0,** they can't continue and must sit out the rest of the Scene (knocked out, never killed — a Recovery Scene brings them back). When it happens:
-
-1. **Break an Asset** — choose the one most in play when you dropped, and lose its **+1** until it's restored. Narrate how it breaks.
-2. **Advance the Antagonist Track** one box, and narrate how the antagonist gets ahead.
-</div>
-
-Readiness comes back three ways:
+Readiness comes back two ways — a quick patch or a full regroup:
 
 <div class="lca-moves" markdown>
 <div class="lca-move" markdown>
@@ -190,20 +189,24 @@ Readiness comes back three ways:
 
 **When the heroes fall back and regroup at a lull,** the whole party heals **fully back to 9.** No roll, fully reliable, and you can regroup as often as the fiction allows.
 </div>
+</div>
+
+<div class="lca-move" markdown>
+<p class="lca-move-name">Out of Action <span class="lca-when">— when your Readiness hits 0</span></p>
+
+**When a hero's Readiness drops to 0,** they can't continue and must sit out the rest of the Scene (knocked out, never killed — a Recovery Scene brings them back). When it happens:
+
+1. **Break an Asset** — choose the one most in play when you dropped, and lose its **+1** until it's restored. Narrate how it breaks.
+2. **Advance the Antagonist Track** one box, and narrate how the antagonist gets ahead.
+</div>
+
+Going Out of Action breaks an Asset — and **Downtime** is what repairs it, between Stories:
+
 <div class="lca-move" markdown>
 <p class="lca-move-name">Downtime <span class="lca-when">— between Story Arcs</span></p>
 
 **When a Story Arc ends and the heroes rest between adventures,** restore everyone's **Broken Assets** — your heroes are whole again for the next Story. (Readiness comes back free any time you regroup, so Downtime is really just about un-breaking what the last adventure cost you.)
 </div>
-</div>
-
-**The Antagonist Track** you drew for the Story Arc advances **one box** in exactly three ways:
-
-1. A hero takes the **Devil's Bargain** — the main engine: buying a win now for a step toward defeat.
-2. A **Miss comes up doubles** — the dice turning against you.
-3. A hero goes **Out of Action.**
-
-Because a knockout advances it, going Out of Action near the end can fill that **last box** and **lose the Story before you finish your final Milestone** — which is exactly why falling back to recover is the smart play when you're battered.
 
 ## Ask the Oracle
 
