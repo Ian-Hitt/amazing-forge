@@ -116,7 +116,7 @@ the book. When reviewing a chapter, treat any deviation as an error to flag.
 | **Pay the Price** | The complication that follows a Weak Hit/Miss. | penalty, damage |
 | **Strong Hit / Weak Hit / Miss** | The three roll outcomes. | success/partial/fail |
 | **Doubles** | The doubles rule (crit hit / crit miss) — doubles upgrade a **Hit** one tier. On a **Miss,** doubles do *not* upgrade; instead they advance the Antagonist Track one box. | crit, critical, Oracle's Blessing |
-| **Outstanding Success** | Doubles on a Strong Hit. | crit success |
+| **Outstanding Success** | Doubles on a Strong Hit: a spectacular success that also grants **+1 to your next roll.** | crit success |
 | **Ask the Oracle** | The stuck-point move for deciding what happens next. | — |
 | **Story Spark** | The small d6 idea table inside Ask the Oracle. | oracle table |
 | **Ask the Dice** | The 1d6 yes/no oracle. | — |
@@ -524,7 +524,8 @@ If a player rolls **matching numbers (doubles)** on a **Hit**, their result is u
 
 - A **Weak Hit** with doubles (like 4 & 4) becomes a **Strong Hit.**
 - A **Strong Hit** with doubles (like 5 & 5) is an **Outstanding Success** — you succeed
-  spectacularly and add an extra narrative bonus of your choice.
+  spectacularly and carry the momentum: **+1 to your next roll.** (That +1 *is* the mechanical
+  form of the bonus — narrate how it went even better than you hoped.)
 
 **Doubles on a Miss do *not* upgrade it.** Instead, the dice swing against the heroes and the
 **Antagonist Track advances one box** (Section 6) — the random leg of the antagonist's clock. (If the
@@ -1315,6 +1316,11 @@ fifth Core Principle, and the *Amazing Tales* **starter-backdrop** option.
   argued); both → +2, neither → +0. The **+0 floor** (replacing the old always-on +1 floor) is the
   edge of danger — acting outside your Stats and Assets is a real gamble. This is the scheme the
   current balance/simulation work and the max-9 target assume.
+- ✅ **Outstanding Success grants +1 to your next roll (2026-07-02).** A Strong Hit on doubles is a
+  spectacular success that *also* hands the roller **+1 on their next roll** — the concrete,
+  mechanical form of the old freeform "add a narrative bonus of your choice" (which is retired as the
+  sole payoff; the narration stays, the +1 is its teeth). Occurs on ~7% of rolls (doubles that land on
+  an already-Strong Hit); a small pro-hero nudge, within the curve's headroom — see Math & Sim §0.
 
 - ✅ **Character advancement (2026-06-08)** — **horizontal** growth via a per-hero **Growth
   Track**: earn 1 **Growth** every 3 Milestones (cumulative, never resets per arc); spend **2** on a **Boon** (a once-per-

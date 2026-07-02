@@ -135,5 +135,5 @@ Everything a hero needs fits on one page. Print or photocopy this sheet, or just
   <h3>Story Arc Notes</h3>
   <div class="af-notes"></div>
 
-  <p class="af-ref"><b>The Roll:</b> 2d6, +1 if a fitting Stat &middot; +1 if a fitting Asset (+2 for both, +0 for neither). &nbsp; <b>10+</b> Strong Hit &middot; <b>7&ndash;9</b> Weak Hit &middot; <b>6&minus;</b> Miss. &nbsp; Doubles: upgrade a Hit one tier; a Miss on doubles advances the antagonist. A Hit means you narrate the change.</p>
+  <p class="af-ref"><b>The Roll:</b> 2d6, +1 if a fitting Stat &middot; +1 if a fitting Asset (+2 for both, +0 for neither). &nbsp; <b>10+</b> Strong Hit &middot; <b>7&ndash;9</b> Weak Hit &middot; <b>6&minus;</b> Miss. &nbsp; Doubles: upgrade a Hit one tier (a Strong Hit &rarr; Outstanding Success: +1 to your next roll); a Miss on doubles advances the antagonist. A Hit means you narrate the change.</p>
 </div>

@@ -88,7 +88,7 @@
 > *Note: Part Two has the full d10 Pay the Price table and guidance on picking the most cinematic complication.*
 
 **Doubles**
-*Purpose: Doubles upgrade your result by one tier. Outstanding Success on Strong + doubles. Optional but fun — introduce it here as a delightful surprise rule.*
+*Purpose: Doubles upgrade your result by one tier. Outstanding Success on Strong + doubles (a spectacular success + **+1 to your next roll**). Optional but fun — introduce it here as a delightful surprise rule.*
 
 ---
 
@@ -151,7 +151,7 @@
 *Purpose: Spend your turn helping instead of acting. Roll +2 if an Asset fits the help. Strong = +2 to ally's next roll; Weak = +1; Miss = no bonus, no Readiness loss. Best use of a turn when the current obstacle isn't in your wheelhouse. (Lives in Ch.7 because it's a way the core Roll is used; it shows up most often inside a Challenge — cross-ref Ch.8.)*
 
 **Doubles / Outstanding Success**
-*Purpose: Full doubles rule. Outstanding Success: on Strong + doubles, the player adds a narrative bonus of their choice — spell out examples of what that might look like.*
+*Purpose: Full doubles rule. Outstanding Success: on Strong + doubles, the player succeeds spectacularly and takes **+1 to their next roll** — narrate how it goes even better than expected; spell out examples of what that might look like.*
 
 **Design Note: Why +0/+1/+2 (Stats and Assets)** *(revised 2026-06-22)*
 *Purpose: Explain the math briefly. Two layers stack: an **objective Stat layer** (decided by what the action calls for, not argued) and a **flexible Asset layer** (argued via the one-sentence test). Either alone is +1; both is +2; neither is +0 — the +0 floor makes acting out of your element a real gamble. Splitting the layers restores the floor that a single argued layer eroded.*

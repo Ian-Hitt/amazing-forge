@@ -105,19 +105,19 @@ Aid is the best use of a turn when the moment isn't in your wheelhouse: the hero
 
 If your two dice come up **matching (doubles)** — two 2s, two 6s, any pair — fate swings *hard.* Which way it swings depends on whether you hit:
 
-- On a **Hit, doubles swing your way:** a **Weak Hit** becomes a **Strong Hit** (clean success, no price), and a **Strong Hit** becomes an **Outstanding Success** — you succeed *and* add an extra narrative bonus of your choice.
+- On a **Hit, doubles swing your way:** a **Weak Hit** becomes a **Strong Hit** (clean success, no price), and a **Strong Hit** becomes an **Outstanding Success** — you succeed spectacularly *and* carry the momentum: **+1 to your next roll.**
 - On a **Miss, doubles swing against you:** the roll stays a Miss, and the **Antagonist Track advances one box** (Chapter 10). You stumbled and the antagonist seized the opening. You still Pay the Price as a Miss (or take the **Devil's Bargain** — Chapter 9); the doubles don't rescue the roll, they hand the bad guys a step.
 
 That's the whole double edge: *the dice swing hard, for good or ill.* When you're winning, doubles are a treat; when you're not, they're how the antagonist gains ground.
 
-An Outstanding Success means more than "you did it well." The player gets to bend the Scene in their favor — spend a moment dreaming up what that looks like. A few examples:
+An Outstanding Success means more than "you did it well" — you nailed it so hard the momentum spills into whatever you do next. The mechanical reward is **+1 to your next roll;** in the fiction, narrate how it went even better than you hoped:
 
-- You don't just leap the chasm — you land right behind the enemy archer, perfectly placed.
-- You don't just pick the lock — the vault holds something extra you didn't expect.
-- You don't just win the crowd over — a key NPC is now an ally who'll show up again.
-- In a Challenge, an Outstanding Success might fill its box *and* hand a teammate a small edge, or set up the next box so it's easier.
+- You don't just leap the chasm — you land right behind the enemy archer, perfectly placed for what comes next.
+- You don't just pick the lock — you're through so smoothly you've got a beat to spare.
+- You don't just win the crowd over — you leave them fired up and ready to follow your lead.
+- In a Challenge, that **+1** rides your next Challenge Roll — the opening you just made turns the next push in your favor.
 
-Keep the bonus proportional and let the table enjoy it — the Hit side of doubles is a treat, not a loophole. And because the *Miss* side feeds the Antagonist Track, the doubles rule isn't a bolt-on bonus you can take or leave — it's the core engine that makes every roll's luck cut both ways.
+Let the table enjoy it — the Hit side of doubles is a treat. And because the *Miss* side feeds the Antagonist Track, the doubles rule isn't a bolt-on bonus you can take or leave — it's the core engine that makes every roll's luck cut both ways.
 
 ---
 

@@ -48,6 +48,14 @@ stats (objective, +1); 3 specific Assets (argued, +1); both → +2, one → +1, 
 - **Out of Action (structural).** A hero hitting **0** advances the antagonist **+1** (on top of breaking
   an Asset). Numerically minor under free recovery, but it's what makes OoA matter to the antagonist.
 
+> **Outstanding Success — hero-side buff (added 2026-07-02).** A Strong Hit on doubles grants the roller
+> **+1 on their next roll** (the mechanical form of the Outstanding narrative bonus). This fires on **~7%
+> of rolls** — the doubles faces whose 2d6 total already reads Strong (5·5 and 6·6 always; 4·4 when the
+> modifier is +2, ~P(+2)≈0.47). A +1 carried onto ~7% of subsequent rolls is a small pro-hero nudge
+> (effective average-modifier bump on the order of **+0.05**), well within the curve's headroom — it
+> slightly widens the hero side of the photo-finish. **Not separately re-simulated:** folded in as a minor
+> buff; `sim_spine.py` could model it as a conditional +1-carry if a tighter read is ever wanted.
+
 **3. Track sizes & narration (tick decoupled from beat).** The *tick* (frequent, bursty) is decoupled
 from the *narrated antagonist beat* (paced): narrate the antagonist only on the **odd "Bad Guys Close In" boxes**; even
 boxes are silent pressure. The track must be **odd** so the top box is itself a Bad Guys Close In beat (the antagonist's
@@ -324,7 +332,7 @@ all-Easy *floor*; expected play sits at the §0b numbers above.
 | Strong Hit | total **10+** |
 | Weak Hit | total **7–9** |
 | Miss | total **6 or less** |
-| Doubles | doubles upgrade a **Hit** one tier; doubles on a **Miss** advance the Antagonist Track +1 (no upgrade) *(§0)* |
+| Doubles | doubles upgrade a **Hit** one tier (a **Strong Hit** → Outstanding Success: **+1 to your next roll**); doubles on a **Miss** advance the Antagonist Track +1 (no upgrade) *(§0)* |
 | Readiness — start / max | **9**; max **stays 9 all game** (no ratchet) *(§0)* |
 | Pay the Price — Weak Hit | **−1** Readiness *(−2 at 4–5 heroes — §0)* |
 | Pay the Price — Miss | **−2** Readiness *(−3 at 4–5 heroes)* (unless a Devil's Bargain is taken — §0) |

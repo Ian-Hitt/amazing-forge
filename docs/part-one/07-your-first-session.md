@@ -85,7 +85,7 @@ CHALLENGE TRACK:   [ ]  [ ]  [ ]
 
 🎲 Maya rolls **5 + 5 = 10**, plus 1 = **11.** → **Strong Hit — and doubles!**
 
-> **▶ Rules note — Doubles (Chapter 4).** Matching dice upgrade the result one tier. A Strong Hit with doubles becomes an **Outstanding Success.** Maya fills a box *and* adds a narrative bonus: her ice-bridge is so solid it will make the crossing easier for Snik.
+> **▶ Rules note — Doubles (Chapter 4).** Matching dice upgrade the result one tier. A Strong Hit with doubles becomes an **Outstanding Success** — a spectacular win that carries momentum: **+1 to your next roll.** Maya fills a box and narrates it big — her ice-bridge comes out so solid and fast she's already sprinting across — and takes **+1 on her next roll.**
 
 **Fill box 1.** Brave makes it across. (No price — it was a hit.)
 

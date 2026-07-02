@@ -22,13 +22,13 @@ Your two **Stats** are the broad kinds of action your hero is built for, picked 
 - **Sneaky** — stealth, sleight of hand, a bluff
 - **Charming** — winning people over, heart, rallying
 
-Your three **Assets** are the specific tools, training, and ties that flesh out the Concept. Bringing a fitting Asset to bear earns that same bonus — and when a fitting Stat *and* a fitting Asset both apply, they stack for an even bigger edge. A good Asset is broad enough to come up often but specific enough that it clearly doesn't cover everything — the broad layer is what your Stats are for. If you need some inspiration, players can build their three by answering these questions (you don't have to, and you can swap freely):
+Your three **Assets** are the specific tools, training, and ties that flesh out the Concept. Bringing a fitting Asset to bear earns that same bonus — and when a fitting Stat *and* a fitting Asset both apply, they stack for an even bigger edge. A good Asset is broad enough to come up often but specific enough that it clearly doesn't cover everything. If you need some inspiration, players can build their three by answering these questions (you don't have to, and you can swap freely):
 
 1. **What are they known for?** — a role or signature skill (*Ace Pilot · Tracker · Field Medic*).
 2. **What's the one thing they're never without?** — a signature item, companion, or connection that's loaded with story.
 3. **What's their other side?** — a second talent or knack that shines in different moments than the first.
 
-**Readiness** starts at **9** — a single track covering body, mind, and supplies, and your hero's only resource. How it rises and falls is its own system, below.
+**Readiness** is your hero's single resource — one track standing in for body, mind, and supplies alike. It starts at **9**; how it rises and falls is its own system, below.
 
 ## Story Arcs & Milestones
 
@@ -66,7 +66,7 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 
 ## The Roll
 
-Play happens in **Scenes**, and whenever a hero does something risky, you roll to find out what happens. **The Core Roll:** roll **2d6** and add **+1** if the action calls for one of your Stats, **+1** if one of your Assets fits — so **+2** when both apply, **+0** when neither does (you can still try; you just roll the bare dice).
+This is the game's core mechanic — how the story decides what happens next. Whenever a hero tries to do something risky, you roll to find out how it turns out. **The Core Roll:** roll **2d6** and add **+1** if the action calls for one of your Stats, **+1** if one of your Assets fits — so **+2** when both apply, **+0** when neither does (you can still try; you just roll the bare dice).
 
 | Roll (2d6) | Result | What it means |
 |---|---|---|
@@ -76,10 +76,11 @@ Play happens in **Scenes**, and whenever a hero does something risky, you roll t
 
 **Fiction bookends the roll.** Story first, dice second, then back to story: something's in motion, you roll to see how it turns out, and you narrate what that result looks like — on *every* result, Hit or Miss. The dice tell you *how* the story bends; you tell the rest. In **Co-op play** (the default) the rolling player narrates the whole outcome, the win *and* the cost; with a **Guide**, the hero narrates their successes and the Guide narrates the Pay the Price.
 
-**Doubles.** When the two dice come up matching, the moment swings hard — your critical hit and critical miss in one rule:
+**Doubles.** When both dice show the *same* number (two 4s, two 6s), the moment swings hard — the game's critical hit *and* critical miss in one rule. Read your result as normal, then apply doubles:
 
-- On a **Hit,** bump your result up one tier (Weak → Strong; a Strong stays Strong with an extra flourish). A lucky break.
-- On a **Miss,** the dice turn against you: the Miss stands *and* the **Antagonist Track advances one box** (the antagonist's clock, above). The bad guys seize the opening.
+- **Strong Hit:** an **Outstanding Success** — you succeed in spectacular fashion (narrate how it goes even better than you hoped), and the momentum carries you: **+1 to your next roll.**
+- **Weak Hit:** bump it up a tier to a **Strong Hit.** A lucky break.
+- **Miss:** the Miss still stands, *and* the **Antagonist Track advances one box** (the antagonist's clock, above). The bad guys seize the opening.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">The Roll <span class="lca-when">— any risky action</span></p>
