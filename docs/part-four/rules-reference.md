@@ -8,7 +8,11 @@
 
 ---
 
-## Heroes
+## Starting the Game
+
+*Build your heroes and set up the Story Arc — everything before the first roll.*
+
+### Heroes
 
 Each player builds one hero in about five minutes. A hero is four things: a **Concept**, two **Stats**, three **Assets**, and **Readiness**.
 
@@ -30,11 +34,11 @@ Your three **Assets** are the specific tools, training, and ties that flesh out 
 
 **Readiness** is your hero's single **Health Bar** — one track standing in for body, mind, and supplies alike. It starts at **9**; how it rises and falls is its own system, below.
 
-## Story Arcs & Milestones
+### Story Arcs & Milestones
 
 A Story Arc is the shape of a whole adventure: a race between the heroes' progress and the antagonist's, toward a climax. You track that race on **two tracks** drawn side by side — a **Story Arc Track** that measures *your* progress (one box per Milestone) and an **Antagonist Track** that measures the *antagonist's.* Fill yours first to reach the climax and win; if theirs fills first, you lose.
 
-### Steps to Create a Story Arc
+#### Steps to Create a Story Arc
 
 1. **Name the Goal** — a one-sentence victory condition.
 2. **Name the antagonist** — a person, faction, or *force* (a desert, a plague, a deadline). Give it a face and a goal of its own.
@@ -72,7 +76,11 @@ Fill its **last box** and the antagonist wins — so going down near the end can
 - **1–2 — Trouble finds you first.**
 </div>
 
-## The Roll
+## Playing the Game
+
+*The table loop: roll the dice, run Challenges, spend and recover Readiness, and drive the fiction together.*
+
+### The Roll
 
 This is the game's core mechanic — how the story decides what happens next. Whenever a hero tries to do something risky, you roll to find out how it turns out. **The Core Roll:** roll **2d6** and add **+1** if the action calls for one of your Stats, **+1** if one of your Assets fits — so **+2** when both apply, **+0** when neither does (you can still try; you just roll the bare dice).
 
@@ -110,7 +118,7 @@ This is the game's core mechanic — how the story decides what happens next. Wh
 - **Miss:** no bonus, and **you** Pay the Price (−2).
 </div>
 
-### Pay the Price
+#### Pay the Price
 
 A **Weak Hit or a Miss costs Readiness** — the complication that follows when a roll doesn't go cleanly.
 
@@ -133,7 +141,7 @@ On a **Miss,** one extra option is on the table:
 **When a roll comes up a Miss,** you may refuse the Readiness loss **and** turn it into a **Strong Hit** — in exchange for **advancing the Antagonist Track one box.** Buying a win now for a step toward defeat. **Not** allowed on a Miss whose price would knock you Out of Action — you can't buy your way out of going down.
 </div>
 
-## Challenges
+### Challenges
 
 Most risky moments are **Regular Rolls** — one roll, read the result, move on. A **Challenge** is for a big set-piece that deserves more than a single roll: a monster fight, a desperate chase, a tense infiltration, a long trek. You draw a **row of boxes** and fill them roll by roll until the Scene is won — enemies have *no stats,* the **track itself is the obstacle.**
 
@@ -166,7 +174,7 @@ Take turns — **everyone acts once before anyone repeats.** On each Challenge R
 **When you bail out of a Challenge,** lose the track's progress and take a **Recovery Scene** (the party heals fully). Always safe, always available — the stay-alive valve.
 </div>
 
-## Readiness & Recovery
+### Readiness & Recovery
 
 Readiness is your hero's single **Health Bar** — body, mind, and supplies rolled into one **0–9** track. You spend it pushing through trouble, and it refills whenever the action lets up. Drop to **0** and your hero goes **Out of Action** — knocked out of the Scene, never killed.
 
@@ -200,7 +208,27 @@ Readiness comes back two ways — a quick patch or a full regroup:
 2. **Advance the Antagonist Track** one box, and narrate how the antagonist gets ahead.
 </div>
 
-Going Out of Action breaks an Asset — and **Downtime** is what repairs it, between Stories:
+Going Out of Action breaks an Asset until it's repaired — that repair is **Downtime,** under *Between Adventures* (below).
+
+### Running the Game
+
+A session runs one of two ways. **Guided:** one person runs the world, the NPCs, and the pacing. **Co-op:** there's no Guide — the table shares those duties and leans on **Ask the Oracle** (below) to find what happens next. Either way, the same two habits keep play cinematic:
+
+- **The Golden Rule** — when you're unsure, do the obvious or coolest next thing. **Cut to the exciting part:** don't roll when there's no real risk, and don't play out boring scenes.
+- **Open in the middle of the action** — skip the setup and start each scene at the first interesting moment.
+
+#### Ask the Oracle
+
+When the story stalls and the table isn't sure what happens next — especially in Co-op, where this is the engine that generates the story — Ask the Oracle. First, name the next **Milestone** and do the **obvious** thing. If you'd rather be surprised, hand it to the dice with one of two tools:
+
+- **Story Spark (d6)** — *what happens next:* **1** a new face · **2** a discovery · **3** the threat closes in · **4** a door opens · **5** a cost surfaces · **6** a hard choice. Bend the result toward your next Milestone.
+- **Ask the Dice (1d6)** — *for a yes/no question:* **1** no, and worse · **2–3** no · **4–5** yes · **6** yes, and better. (+1 if a yes is likely, −1 if unlikely.)
+
+## Between Adventures
+
+*Rules you reach for after your first game — once a Story Arc wraps and the heroes carry on.*
+
+### Downtime
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Downtime <span class="lca-when">— between Story Arcs</span></p>
@@ -208,23 +236,9 @@ Going Out of Action breaks an Asset — and **Downtime** is what repairs it, bet
 **When a Story Arc ends and the heroes rest between adventures,** restore everyone's **Broken Assets** — your heroes are whole again for the next Story. (Readiness comes back free any time you regroup, so Downtime is really just about un-breaking what the last adventure cost you.)
 </div>
 
-## Ask the Oracle
-
-When the story stalls and the table isn't sure what happens next — especially in Co-op, where this is the engine that generates the story — Ask the Oracle. First, name the next **Milestone** and do the **obvious** thing. If you'd rather be surprised, hand it to the dice with one of two tools:
-
-- **Story Spark (d6)** — *what happens next:* **1** a new face · **2** a discovery · **3** the threat closes in · **4** a door opens · **5** a cost surfaces · **6** a hard choice. Bend the result toward your next Milestone.
-- **Ask the Dice (1d6)** — *for a yes/no question:* **1** no, and worse · **2–3** no · **4–5** yes · **6** yes, and better. (+1 if a yes is likely, −1 if unlikely.)
-
-## Growth (advancement)
+### Growth
 
 Over a campaign, heroes grow by gaining new tricks — **signature moves and fresh tools** that open up new things to do at the table. The party earns **1 Growth** every **3rd Milestone** it marks (on any Story Arc; cumulative, never resets), so a single Episode earns too little to spend — advancement is built for ongoing play. Spend it on one of two things:
 
 - **Boon — 2 Growth:** a signature move attached to an Asset (max 2 per Asset).
 - **New Asset — 5 Growth:** up to a ceiling of 6 Assets; at six, **Trade In** (retire one) to add another.
-
-## Running the Game
-
-A session runs one of two ways. **Guided:** one person runs the world, the NPCs, and the pacing. **Co-op:** there's no Guide — the table shares those duties and leans on **Ask the Oracle** to find what happens next. Either way, the same two habits keep play cinematic:
-
-- **The Golden Rule** — when you're unsure, do the obvious or coolest next thing. **Cut to the exciting part:** don't roll when there's no real risk, and don't play out boring scenes.
-- **Open in the middle of the action** — skip the setup and start each scene at the first interesting moment.
