@@ -141,7 +141,6 @@ When you do draw one, **difficulty sets the length, the same at any number of he
 
 Take turns — **everyone acts once before anyone repeats.** On each Challenge Roll: **Strong** fills a box · **Weak** fills a box and you Pay the Price · **Miss** fills no box and you Pay the Price *(or take the Devil's Bargain).* Fill the last box and the obstacle is beaten.
 
-<div class="lca-moves cols-2" markdown>
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Challenge</p>
 
@@ -152,14 +151,12 @@ Take turns — **everyone acts once before anyone repeats.** On each Challenge R
     - **3–4:** No edge either way — run the Challenge as normal.
     - **1–2:** The Challenge caught you off guard, or your foe was ready for it — **−1** to your first roll.
 </div>
+
 <div class="lca-move" markdown>
 <p class="lca-move-name">Fall back <span class="lca-when">— bail out of a Challenge</span></p>
 
 **When you bail out of a Challenge,** lose the track's progress and take a **Recovery Scene** (the party heals fully). Always safe, always available — the stay-alive valve.
 </div>
-</div>
-
-The **climax** is just the final, often **Epic**, Challenge — there's no special finishing move. Filling its last box (or the Story Arc Track's) wins the scene or the Story like any other.
 
 ## Readiness, Recovery & the Antagonist Track
 
