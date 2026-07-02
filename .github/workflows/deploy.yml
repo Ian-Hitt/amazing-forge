@@ -10,9 +10,12 @@ permissions:
   pages: write
   id-token: write
 
+# Queue Pages deploys instead of cancelling in-flight ones — cancelling a
+# deploy mid-run leaves the Pages API in a bad state and the next run fails
+# with "Deployment failed, try again later." (GitHub's recommended setting.)
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
