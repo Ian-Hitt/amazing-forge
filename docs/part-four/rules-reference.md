@@ -78,7 +78,7 @@ The **Hero Track** fills one box per **Milestone** — a significant, pointable 
 
 #### The Antagonist Track
 
-The **Antagonist Track** is the antagonist's race. It advances one box in exactly three ways *(each a rule explained further down — under The Roll and Readiness; for now, just know these are what make the clock climb)*:
+The **Antagonist Track** represents the antagonist's progress toward their goal. It advances one box in exactly three ways *(each a rule explained further down — under The Roll and Readiness; for now, just know these are what make the clock climb)*:
 
 1. A hero takes the **Devil's Bargain** — the main engine: buying a win now for a step toward defeat.
 2. A **Miss comes up doubles** — the dice turning against you.
