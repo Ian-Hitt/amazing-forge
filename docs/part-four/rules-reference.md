@@ -17,7 +17,7 @@
 First, decide how the table will play:
 
 - **Guided** — one player is the **Guide.** They run the world, the antagonist, and the pacing instead of playing a hero.
-- **Co-op** — no Guide; the whole group shares those duties and leans on **Ask the Oracle** to find what happens next.
+- **Co-op** — no Guide; the whole group shares those duties and decides together what happens next.
 
 If you're playing Guided, pick who takes the Guide's chair now. Everyone else builds a hero. *(More on each mode under [Running the Game](#running-the-game).)*
 
