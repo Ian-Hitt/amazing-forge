@@ -103,9 +103,9 @@ With the Goal, the antagonist, and the tracks in place, one last roll launches t
 
 **When a new Story Arc begins,** roll a single **d6** to set the opening:
 
-- **5–6:** Clear purpose — open *in medias res* on the first Milestone.
-- **3–4:** A general idea — they know the goal, not yet how to act on it.
-- **1–2:** Trouble finds you first.
+- **5–6:** The heroes hit the ground running. Open in the middle of the action (*in medias res* — no setup, no travel), already on their first Milestone.
+- **3–4:** The heroes know the Goal but not their first move. Open on them sizing up the situation and deciding where to start.
+- **1–2:** Trouble finds them first. Open with the antagonist already making a problem — the heroes start the story reacting to it.
 </div>
 
 ## Playing the Game
