@@ -75,5 +75,5 @@ See **Making NPCs** ([Chapter 18](../part-three/18-making-npcs.md)) for the gene
     <div class="af-c"></div><div class="af-c"></div><div class="af-c"></div><div class="af-c"></div>
   </div>
 
-  <p class="af-ref"><b>Roles:</b> Helper &middot; Obstacle &middot; Source &middot; Petitioner &middot; Innocent &middot; Rival &middot; Wildcard &middot; Authority &middot; Connector &middot; Hidden Hand. &nbsp; <b>When one keeps coming back,</b> promote them with an archetype (Chapter 16) &mdash; that's how a bit-part rival becomes <i>the</i> rival, and how you build an antagonist.</p>
+  <p class="af-ref"><b>Roles:</b> Helper &middot; Obstacle &middot; Source &middot; Petitioner &middot; Innocent &middot; Rival &middot; Wildcard &middot; Authority &middot; Connector &middot; Hidden Hand.</p>
 </div>

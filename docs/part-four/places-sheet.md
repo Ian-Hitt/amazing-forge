@@ -74,6 +74,4 @@ See **Making Locations** ([Chapter 17](../part-three/17-making-locations.md)) fo
     <div class="af-c"></div><div class="af-c"></div><div class="af-c"></div><div class="af-c"></div>
     <div class="af-c"></div><div class="af-c"></div><div class="af-c"></div><div class="af-c"></div>
   </div>
-
-  <p class="af-ref"><b>A place earns a scene when it has a function</b> (why the heroes come) <b>and a hook</b> (what's wrong here). &nbsp; Don't log the whole world &mdash; just the places that left a thread dangling.</p>
 </div>

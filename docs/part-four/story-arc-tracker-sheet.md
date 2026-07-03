@@ -79,10 +79,8 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
     <span><span class="af-chk"></span> Episode &mdash; 3 Milestones / 5-box antagonist (one sitting)</span>
     <span><span class="af-chk"></span> Movie &mdash; 6 Milestones / 9-box antagonist (2&ndash;3 sessions)</span>
   </div>
-  <p class="af-hint">Chain Stories like this one into a Season or Series &mdash; see Ch.10.</p>
 
   <h3>The Tracks</h3>
-  <p class="af-hint">Heroes win by filling the Story Arc Track (completing the last Milestone); they lose if the Antagonist Track fills first. The antagonist's <strong>odd boxes (&#9650;) are Closing In beats</strong> &mdash; stop and play out the bad guys gaining ground &mdash; and the <strong>last box is their victory</strong>.</p>
   <div class="af-trackgrid">
     <span class="af-rowlabel">Story Arc</span>
     <div class="af-row af-quest">
@@ -103,12 +101,12 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
       <span></span><span></span><span></span><span></span><span>&#8593;Ep</span><span></span><span></span><span></span><span>&#8593;Movie</span>
     </div>
   </div>
-  <p class="af-hint">Episode: 3 Story Arc / 5 Antagonist boxes (Closing In on 1&middot;3&middot;5; box&nbsp;5 = the antagonist's win). Movie: 6 Story Arc / 9 Antagonist (Closing In on 1&middot;3&middot;5&middot;7&middot;9; box&nbsp;9 = the win). Cross out the boxes you don't use. An antagonist box fills three ways &mdash; and no other: a hero takes the <strong>Devil's Bargain</strong>, a <strong>Miss shows doubles</strong>, or a hero goes <strong>Out of Action</strong>.</p>
+  <p class="af-hint">Cross out the boxes you don't use &mdash; Episode is 3 Story Arc / 5 antagonist boxes, Movie is 6 / 9. The antagonist's <strong>&#9650; boxes are Closing In beats;</strong> its last box is the antagonist's win.</p>
 
   <h3 class="af-break">The Antagonist</h3>
   <div class="af-line"><label>Who / what</label><span class="af-fill"></span></div>
   <div class="af-line"><label>What it wants</label><span class="af-fill"></span></div>
-  <p class="af-hint">Give it a face &mdash; even a force (a desert, a plague, a deadline) counts. When a Closing In box (&#9650;) fills, play it out: the antagonist just hit a milestone of their own.</p>
+  <p class="af-hint">Give it a face &mdash; a person, a faction, or even a force (a desert, a plague, a deadline).</p>
 
   <h3>Milestones</h3>
   <p class="af-hint">A concrete, pointable step toward the Goal. Number them to match the Story Arc Track boxes above. (Episode uses 1&ndash;3; Movie 1&ndash;6.)</p>
@@ -123,6 +121,4 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
 
   <h3>Notes</h3>
   <div class="af-notes"></div>
-
-  <p class="af-ref"><b>Win:</b> complete the last Milestone (Story Arc Track full) &mdash; then Downtime resets the party to full Readiness. &nbsp; <b>Lose:</b> the Antagonist Track fills (a hero going Out of Action near the end can fill its last box), or you Quit the Story Arc &mdash; no penalty; ask "how did the world change?" and seed the next Story Arc. &nbsp; <b>Antagonist advances</b> one box three ways: a <b>Devil's Bargain</b>, a <b>Miss on doubles</b>, or a hero going <b>Out of Action</b> &mdash; and no other way.</p>
 </div>
