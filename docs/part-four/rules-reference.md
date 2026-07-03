@@ -74,7 +74,7 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 
 #### The Hero Track
 
-The **Hero Track** fills one box per **Milestone** — a significant, pointable win on the way to the Goal: overcoming a major obstacle, learning something crucial, reaching a key place, securing something vital, winning someone over, or beating a notable threat. Mark a box when the heroes land one; fill the last one to reach the **climax** and win the Story. *(A Milestone tends to run about an hour of play — a few Scenes, 1–2 of them Challenges; the closing one is usually a climactic **Hard** or **Epic** Challenge.)*
+The **Hero Track** fills one box per **Milestone** — a significant, pointable win on the way to the Goal: overcoming a major obstacle, learning something crucial, reaching a key place, securing something vital, winning someone over, or beating a notable threat. Mark a box when the heroes land one; fill the last one to reach the **climax** and win the Story. *(A Milestone tends to run about an hour of play — a few Scenes, one or two of them **Challenges** — more on those under [Challenges](#challenges), below.)*
 
 #### The Antagonist Track
 
