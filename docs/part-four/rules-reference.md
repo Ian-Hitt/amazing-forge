@@ -63,12 +63,12 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 4. **List your Milestones** — the concrete, pointable steps to the Goal (you'll know each the moment it's done): **3** for an Episode, **6** for a Movie.
 5. **Draw the two tracks**, then make the opening roll (below).
 
-**Story Arc Length** — choose one when you build a Story Arc; it sets the size of both tracks:
-
 | Length | Milestones | Antagonist Track | "Bad Guys Close In" on | Plays in |
 |---|---|---|---|---|
 | **Episode** | 3 | 5 boxes | boxes 1 · 3 · 5 | one sitting |
 | **Movie** | 6 | 9 boxes | boxes 1 · 3 · 5 · 7 · 9 | a full feature, 2–3 sessions |
+
+*Story Arc length — chosen when you build the Story Arc — sets the size of both tracks.*
 
 **Bad Guys Close In** is the move you stop and play out when an odd box fills — cut the camera to the antagonist and show them gaining ground. (On the printable Story Arc sheet it's shortened to just *"Closing In"* to save space.) **Season** and **Series** are *collections* of Story Arcs, not lengths — run long by **chaining** Stories (plan the big arc up front, or let it emerge from play — either works).
 
