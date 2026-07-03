@@ -19,7 +19,7 @@ One page to track a hero. Use your browser's **Print** (or Save as PDF) — the 
 .af-hint { font-size: 0.8rem; opacity: 0.7; font-style: italic; }
 .af-stats { display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; font-weight: 700; }
 .af-stats .af-stat { border: 1.5px solid #555; border-radius: 999px; padding: 0.2rem 0.85rem; font-size: 0.9rem; }
-.af-assets { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem 1.2rem; }
+.af-assets { display: grid; grid-template-columns: 1fr; gap: 0.6rem; }
 .af-asset { border: 1px solid #bbb; border-radius: 6px; padding: 0.5rem 0.6rem; }
 .af-asset .af-fill { min-height: 1.5rem; }
 .af-asset .af-boon { display: flex; gap: 0.4rem; align-items: center; margin-top: 0.35rem; font-size: 0.8rem; }
