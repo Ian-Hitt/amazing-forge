@@ -23,7 +23,7 @@ If you're playing Guided, pick who takes the Guide's chair now. Everyone else bu
 
 ### One Story, or a Collection?
 
-Then decide the scope: are you playing **one Story** — complete on its own — or a **collection** of Stories chained into a longer saga? A run of linked Stories is a **Season;** a run of Seasons is a **Series.** You don't have to commit now — start with a single Story and let a bigger arc emerge if it wants to. *(How a single Story is sized comes up when you build it, under [Story Arcs & Milestones](#story-arcs-milestones), below.)*
+Next, decide the scope: are you playing **one Story** — complete on its own — or a **collection** of Stories chained into a longer saga? A run of linked Stories is a **Season;** a run of Seasons is a **Series.** You don't have to commit now — start with a single Story and let a bigger arc emerge if it wants to. *(How a single Story is sized comes up when you build it, under [Story Arcs & Milestones](#story-arcs-milestones), below.)*
 
 ### Heroes
 
@@ -82,8 +82,8 @@ The **Hero Track** fills one box per **Milestone** — a significant, pointable 
 
 The **Antagonist Track** represents the antagonist's progress toward their goal. It advances one box in exactly three ways *(each a rule explained further down; for now, just know these are the three things that tick the track up)*:
 
-1. A hero takes the **Devil's Bargain** — the main engine: buying a win now for a step toward defeat.
-2. A **Miss comes up doubles** — the dice turning against you.
+1. A hero takes the **Devil's Bargain.**
+2. A **Miss comes up doubles.**
 3. A hero goes **Out of Action.**
 
 Its **odd boxes** are **"Bad Guys Close In"** beats — when one fills, stop and play it out: cut to the antagonist gaining ground (on the printable sheet, shortened to *"Closing In"*). Fill its **last box** and the antagonist wins — so going down near the end can lose the Story before your final Milestone, which is why falling back to recover is smart when you're battered. You can also **Quit the Story Arc** outright — no penalty; the loss just seeds the next Story.
