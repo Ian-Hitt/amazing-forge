@@ -21,7 +21,7 @@ HERO TRACK:         [ ]  [ ]  [ ]
 ANTAGONIST TRACK:   [▲] [ ] [▲] [ ] [▲]    ▲ = Bad Guys Close In (narrated); last box = the antagonist wins  (an Episode)
 ```
 
-You don't plan *how* each Milestone gets done — that's what play discovers. You only name the Goal, the Milestones, and the antagonist, draw the two rows, and start in the middle of the action.
+You don't plan *how* each Milestone gets done — that's what play discovers. You name the Goal and the antagonist, draw the two rows, and start in the middle of the action. The Milestones themselves you can **name all up front, or just name your first and play to find out what the rest are** — both work, and the Hero Track has the same number of boxes either way.
 
 ### Two Story Arc Sizes: Episode and Movie
 

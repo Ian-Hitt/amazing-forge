@@ -59,7 +59,7 @@
 ### Chapter 3 — Start Your Story Arc
 
 **Name Your Goal and Milestones**
-*Purpose: What a Story Arc is (the big objective), what a Milestone is (a step toward it). For your first game: pick a clear goal and name exactly 3 Milestones. Keep it simple.*
+*Purpose: What a Story Arc is (the big objective), what a Milestone is (a step toward it). For your first game: pick a clear goal; then either name all 3 Milestones up front or just name the first and play to find out the rest. Keep it simple.*
 
 **Name Your Antagonist**
 *Purpose: Decide who/what stands in the way. The antagonist can be a person OR anything (weather, a ticking clock, a buried secret). You just need to know the Goal and who opposes it.*

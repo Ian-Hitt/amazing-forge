@@ -191,8 +191,9 @@ picks two Stats and three Assets, and sets their starting Readiness (Section 4).
 ### Step 3: Decide on a Starting Story Arc & Antagonist
 
 - **The Goal** — The ultimate victory condition (e.g., "Recover the Sun Crystal").
-- **The Milestones** — The achievements needed to win. For a first game, pick exactly
-  **3.** You can also skip writing them down and "wing it" as you play.
+- **The Milestones** — The achievements needed to win. Either name them all up front, or
+  just name your first and play to find out what the rest are — the Hero Track has one box per
+  Milestone either way (3 for an Episode, 6 for a Movie).
 - **The Antagonist / Main Obstacle** — Every quest needs a main force stopping you. A
   dragon guarding a volcano, a rival gang in a heist, or even the ticking clock of an
   approaching storm.
