@@ -25,9 +25,13 @@ If you're playing Guided, pick who takes the Guide's chair now. Everyone else bu
 
 Each player (except for a Guide) builds one hero in about five minutes. A hero is four things: a **Concept**, two **Stats**, three **Assets**, and **Readiness**.
 
-The **Concept** is a one-line "movie poster" pitch — *an Ice-Dragon Knight*, *a Grumpy Goblin Alchemist*. It's flavor, not a number, but it anchors everything else.
+#### Step 1: Concept
 
-Your two **Stats** are the broad kinds of action your hero is built for, picked from the list of five below. When your hero takes action, you choose the most appropriate stat based on the narrative description of what you're doing — and when a moment plays to one of your two Stats, your hero gets a bonus that helps them succeed more often (more on that in **The Roll**, below).
+Write a one-line "movie-poster" pitch for your hero — *an Ice-Dragon Knight*, *a Grumpy Goblin Alchemist*. It's flavor, not a number, but it anchors everything else.
+
+#### Step 2: Stats
+
+**Pick two** of the five Stats below — the broad kinds of action your hero is built for. When your hero takes action using one of their two Stats, they get **+1** to the roll (more on that in **The Roll**, below). You don't argue Stats; you just ask what the action calls for.
 
 - **Strong** — force, toughness
 - **Quick** — speed, reflexes, aim
@@ -35,13 +39,17 @@ Your two **Stats** are the broad kinds of action your hero is built for, picked 
 - **Sneaky** — stealth, sleight of hand, a bluff
 - **Charming** — winning people over, heart, rallying
 
-Your three **Assets** are the specific tools, training, and ties that flesh out the Concept. Bringing a fitting Asset to bear earns that same bonus — and when a fitting Stat *and* a fitting Asset both apply, they stack for an even bigger edge. A good Asset is broad enough to come up often but specific enough that it clearly doesn't cover everything. If you need some inspiration, players can build their three by answering these questions (you don't have to, and you can swap freely):
+#### Step 3: Assets
+
+**Choose three Assets** — the specific tools, training, and ties that flesh out your Concept. A fitting Asset gives **+1** too, so a fitting Stat *and* a fitting Asset together give **+2**. Keep each broad enough to come up often but specific enough that it clearly doesn't cover everything. Need a starting point? Answer these three questions (you don't have to, and you can swap freely):
 
 1. **What are they known for?** — a role or signature skill (*Ace Pilot · Tracker · Field Medic*).
 2. **What's the one thing they're never without?** — a signature item, companion, or connection that's loaded with story.
 3. **What's their other side?** — a second talent or knack that shines in different moments than the first.
 
-**Readiness** is your hero's single **Health Bar** — one track standing in for body, mind, and supplies alike. It starts at **9**; how it rises and falls is its own system, below.
+#### Step 4: Readiness
+
+**Start at 9 Readiness** — your hero's single **Health Bar,** one track standing in for body, mind, and supplies alike. How it rises and falls is covered under **[Readiness & Recovery](#readiness-recovery)** (in *Playing the Game,* below).
 
 ### Story Arcs & Milestones
 
