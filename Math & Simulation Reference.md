@@ -684,7 +684,7 @@ only on flee; keep the Antagonist Track length = Hero Track (works fine here); a
 > conclusion below — a negligible, mostly-flavor nudge with no balance impact — holds **a fortiori.**
 > Numbers below are the original `2d6 + 1` run, kept for the record.
 
-**Move under test.** A new **Progress move**, the twin of *Start a Story Arc*, rolled once when
+**Move under test.** A new **Progress move**, the twin of *Lights, Camera, Action*, rolled once when
 heroes **deliberately initiate** a Challenge. A PbtA-style one-roll temporary modifier (a
 **+1 to your next roll**), applied only to the **first hero roll** of that Challenge:
 

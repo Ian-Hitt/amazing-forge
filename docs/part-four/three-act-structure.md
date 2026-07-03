@@ -12,7 +12,7 @@ You don't need it to play. But when a session feels shapeless, naming the act yo
 
 You meet the heroes, see the world as it normally is, and notice what's missing — the flaw, the want, the trouble on the horizon. This is the shortest act. Its whole job is to make us care before the storm.
 
-*At the table:* spend a scene on the ordinary day, let the hero Concepts and Bonds breathe, then drop the inciting trouble and **Start a Story Arc**. The Hero Track is fresh and the Antagonist Track is quiet — the antagonist is still just a shadow. Act One ends the moment the heroes *commit* to the adventure.
+*At the table:* spend a scene on the ordinary day, let the hero Concepts and Bonds breathe, then drop the inciting trouble and **Lights, Camera, Action**. The Hero Track is fresh and the Antagonist Track is quiet — the antagonist is still just a shadow. Act One ends the moment the heroes *commit* to the adventure.
 
 ## Act Two — Confrontation
 

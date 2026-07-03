@@ -16,7 +16,7 @@ Read it as a menu, not a recipe. Hit the beats that serve tonight's story; skip 
 
 **3. Set-Up.** We meet the heroes and see what's missing in their lives — the flaw, the want, the empty chair. *At the table:* this is your hero Concepts, Bonds, and archetypes doing their job. Play the flaw out loud now so it has somewhere to travel.
 
-**4. Catalyst.** The inciting incident — the message, the attack, the door that won't stay shut. *At the table:* this is the moment you **Start a Story Arc**. The opening roll sets the temperature; the Goal goes on the table; the first box of the Hero Track is now waiting.
+**4. Catalyst.** The inciting incident — the message, the attack, the door that won't stay shut. *At the table:* this is the moment you call **Lights, Camera, Action**. The opening roll sets the temperature; the Goal goes on the table; the first box of the Hero Track is now waiting.
 
 **5. Debate.** Should they even do this? A beat of doubt before they commit. *At the table:* a roleplay scene, often steered by **Ask the Oracle** when the table isn't sure which way to jump. No track moves yet — this is the held breath.
 

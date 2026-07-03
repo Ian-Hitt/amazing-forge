@@ -105,7 +105,7 @@ the book. When reviewing a chapter, treat any deviation as an error to flag.
 | **Bad Guys Close In** | The narrated antagonist beat played out when an **odd box** of the Antagonist Track fills (1·3·5, plus 7·9 on a Movie): cut away and show the antagonist closing in — gaining ground on-screen. Even boxes pass silently. The **last box is the antagonist's victory.** The short form **"Closing In"** is the abbreviation printed on the physical Story Arc sheet only. | the Surge, the Attack (both retired); Closing In (sheet short form) |
 | **Fall back** | Retreating from a losing Challenge (losing its progress) to regroup — handled as a **Recovery Scene** (full heal, **free**, no antagonist advance). | Flee, retreat (as the mechanic) |
 | **Quit the Story Arc** | Giving up a Story entirely — the terminal fall back; the bad guys win. | forfeit, surrender |
-| **Start a Story Arc** | The opening roll made once when a Story Arc begins — a **d6 oracle** roll (**generative** — no failure): sets how it opens — **5–6** *Clear purpose* / **3–4** *A general idea* / **1–2** *Trouble finds you first*. | Swear an Iron Vow |
+| **Lights, Camera, Action** | The opening roll made once when a Story Arc begins — a **d6 oracle** roll (**generative** — no failure): sets how it opens — **5–6** *Clear purpose* / **3–4** *A general idea* / **1–2** *Trouble finds you first*. Renamed from "Start a Story Arc" 2026-07-03. | Start a Story Arc, Swear an Iron Vow |
 | **Milestone** | A chapter of the story (a collection of Scenes); checks one Hero Track box. Every 3rd Milestone earns each hero 1 Growth. | objective, step |
 | **Scene** | A single beat of play — one or a few Regular Rolls, or a full Challenge. Milestones are made of Scenes. | — |
 | **Challenge** | An active multi-roll obstacle + its track. | encounter, scene (as a mechanic) |
@@ -122,7 +122,7 @@ the book. When reviewing a chapter, treat any deviation as an error to flag.
 | **Ask the Dice** | The 1d6 yes/no oracle. | — |
 | **Move** | Any defined procedure you invoke at the table. Every move is an **Action**, **Progress**, or **Frame move**. | maneuver, action (as the mechanic) |
 | **Action move** | A move that *resolves a hero's attempt* — rolled 2d6 + 0/+1/+2 and read Strong/Weak/Miss; the dice **adjudicate** (did you pull it off?). | — |
-| **Progress move** | A move that *opens or closes a progress track* (a Story Arc or a Challenge). The openers (Start a Story Arc, Start a Challenge) roll generatively to set how things begin; the closers (Fall back, Quit the Story Arc) are deterministic. | — |
+| **Progress move** | A move that *opens or closes a progress track* (a Story Arc or a Challenge). The openers (Lights, Camera, Action, Start a Challenge) roll generatively to set how things begin; the closers (Fall back, Quit the Story Arc) are deterministic. | — |
 | **Frame move** | A move that *shifts the fiction in the moment* (no track); when it rolls, the dice **generate** a direction rather than judge a hero, so it can never be "failed." | framing move, GM move |
 | **Growth** | The advancement currency; earn 1 every 3 Milestones, spend on Boons/Assets. | XP, experience, levels |
 | **Growth Track** | The per-hero row of boxes tracking earned Growth. | — |
@@ -541,7 +541,7 @@ settle something, you're making one. They fall into three families by **what the
 - **Action moves** *resolve a hero's attempt* at something risky — **2d6 + 0/+1/+2**, read
   Strong/Weak/Miss. The dice **adjudicate** (did you pull it off?).
 - **Progress moves** *open or close a progress track* — a Story Arc or a Challenge. The openers
-  (Start a Story Arc, Start a Challenge) roll generatively to set how things begin; the closers
+  (Lights, Camera, Action, Start a Challenge) roll generatively to set how things begin; the closers
   (Fall back, Quit the Story Arc) are deterministic procedures.
 - **Frame moves** *shift the fiction in the moment* — no track. When a Frame move rolls, the dice
   **generate** a direction rather than judge a hero — so a Frame move can never be "failed."
@@ -562,7 +562,7 @@ Each move is defined in full in the chapter noted; this list is the authoritativ
 
 | Move | What it does | Dice |
 |---|---|---|
-| **Start a Story Arc** | Sets how a new Story Arc opens — **5–6** *Clear purpose* / **3–4** *A general idea* / **1–2** *Trouble finds you first* (Ch.10). | **d6 oracle**, generative |
+| **Lights, Camera, Action** | Sets how a new Story Arc opens — **5–6** *Clear purpose* / **3–4** *A general idea* / **1–2** *Trouble finds you first* (Ch.10). | **d6 oracle**, generative; Start a Story Arc |
 | **Start a Challenge** | The opening procedure for **any** Challenge: name the goal, choose a difficulty and draw the track, then **each player rolls a d6** for a one-time **±1 to their own first Challenge Roll** (**5–6** +1 / **3–4** 0 / **1–2** −1). Run at the start of every Challenge (Ch.8). | **d6 oracle**, generative |
 | **Fall back** | Retreat from a losing Challenge (lose its progress) to regroup — resolved as a **Recovery Scene** (full heal, free, no antagonist advance) (Ch.8/9). | none |
 | **Quit the Story Arc** | The terminal fall back — give up a Story; no penalty or bonus; the loss seeds a new Story (Ch.10). | none |
@@ -576,7 +576,7 @@ Each move is defined in full in the chapter noted; this list is the authoritativ
 | **Devil's Bargain** | On a Miss, refuse the Readiness loss and upgrade the Miss to a Strong Hit, in exchange for the Antagonist Track **+1** (Ch.9/10). Optional; never on a knockout roll. | none (player choice) |
 
 *Doubles on any 2d6 move upgrade one tier (including the
-generative tiers of Start a Story Arc).*
+generative tiers of Lights, Camera, Action).*
 
 ---
 
@@ -639,9 +639,9 @@ are prose patterns, not new machinery:
 > two moves; 2026-06-22 revised Movie to 6/4 / duo 6/5. The 2026-06-25 Devil's Bargain rework
 > retired the recovery-surge, the Surge term, and the reserved climax box, and resized to 5/9.)*
 
-### Start a Story Arc (The Opening Roll)
+### Lights, Camera, Action (The Opening Roll)
 
-Once a Story Arc is set up (Goal, Milestones, antagonist, both tracks), make one **Start a Story Arc**
+Once a Story Arc is set up (Goal, Milestones, antagonist, both tracks), make one **Lights, Camera, Action**
 roll to set *how it opens:* a single **d6 oracle roll** (no Stat or Asset — this isn't a test of a
 hero's skill; nothing here is a hero *doing* anything, so it reuses the bare **Ask the Oracle** die,
 Ch.11). It is **generative, not pass/fail** — all three bands are playable openings, differing only
@@ -657,7 +657,7 @@ in how clearly the heroes know what to do and how much trouble is already on the
 The result sets the *temperature* of the first Scene; the content always points at the **first
 Milestone**. First games (Part One) skip the roll and simply open in media res (Ch.3).
 
-> ✅ **DECIDED — Start a Story Arc opening roll (2026-06-09; reworked to a d6 oracle 2026-06-27).** A
+> ✅ **DECIDED — Lights, Camera, Action opening roll (2026-06-09; reworked to a d6 oracle 2026-06-27).** A
 > **Progress move** that opens a Story Arc rather than resolving a hero's attempt. **It is an
 > oracle roll** — nothing here involves a character *doing* something, so it reuses the bare
 > single-**d6** Ask the Oracle mechanic (Ch.11) rather than the 2d6 core roll. **Generative, not
@@ -1181,7 +1181,7 @@ Everyone is a player, sharing the directing duties equally.
 > already at 9 does nothing (and still risks the −1 — don't); a Recovery Scene always heals to a
 > full 9 and is **free** (no declining ceiling — ratchet removed 2026-06-22; recovery-surge retired
 > 2026-06-25); a loss past 0 stops at 0 (no overflow; OoA is the worst case); a generative roll
-> (Start a Story Arc / Start a Challenge) is a single **d6** oracle roll as of 2026-06-27, so there
+> (Lights, Camera, Action / Start a Challenge) is a single **d6** oracle roll as of 2026-06-27, so there
 > are no doubles to upgrade (the old doubles-on-an-already-10+ clarification retired with the 2d6+1 version).
 
 > ✅ **DECIDED — the Devil's Bargain antagonist-clock rework (2026-06-25).** The defining rework of the
@@ -1271,7 +1271,7 @@ fifth Core Principle, and the *Amazing Tales* **starter-backdrop** option.
 - **Ask the Oracle** added — the Co-op "what happens next" move: name the next Milestone
   first, then do the obvious thing / roll the **Story Spark** d6 / roll the **Ask the Dice**
   yes/no (Section 10).
-- **Start a Story Arc opening roll (2026-06-09; reworked to a d6 oracle 2026-06-27).** A **Progress
+- **Lights, Camera, Action opening roll (2026-06-09; reworked to a d6 oracle 2026-06-27).** A **Progress
   move**, **generative not pass/fail**, setting the tone of a new Story Arc's opening (**5–6** *Clear
   purpose* / **3–4** *A general idea* / **1–2** *Trouble finds you first*). **It is an oracle roll** —
   nothing here is a hero *doing* something — so it reuses the bare single-**d6** Ask the Oracle die
@@ -1333,7 +1333,7 @@ fifth Core Principle, and the *Amazing Tales* **starter-backdrop** option.
   the lone non-horizontal option.)
   Section 4, Step 4.
 
-- ✅ **Start a Story Arc opening roll (2026-06-09; reworked to a d6 oracle 2026-06-27)** — one **d6**
+- ✅ **Lights, Camera, Action opening roll (2026-06-09; reworked to a d6 oracle 2026-06-27)** — one **d6**
   oracle roll, generative (never a failure), made when a Story Arc begins to set its opening tone
   (5–6 / 3–4 / 1–2). A **Progress move** (originally filed as the first "Frame move," before the
   three-family revision; originally a 2d6 + 1 move-style roll, refolded onto the d6 oracle 2026-06-27);
@@ -1343,13 +1343,13 @@ fifth Core Principle, and the *Amazing Tales* **starter-backdrop** option.
   move families are Standard Vocabulary terms, not just an organizing lens. Originally split two
   ways (Action / Frame); **revised to three** because the old "Frame" family was doing two jobs —
   opening/closing tracks *and* coloring the fiction. **Action move** = resolves a hero's attempt
-  (2d6 + 2/+1, adjudicative); **Progress move** = opens or closes a progress track (Start a Story Arc,
+  (2d6 + 2/+1, adjudicative); **Progress move** = opens or closes a progress track (Lights, Camera, Action,
   Start a Challenge, Flee, Quit the Story Arc); **Frame move** = shifts the fiction in the moment, no
   track (Ask the Oracle, Pay the Price). The printable **Moves Cheatsheet** (Part Four) lists every
   move under these three headings. See the vocab table and **The Moves (Master List)**.
 
 - ✅ **Start a Challenge opening roll (2026-06-09; d6 oracle 2026-06-27; universal + per-player
-  2026-07-02)** — a **Progress move**, the twin of Start a Story Arc, run at the start of **every**
+  2026-07-02)** — a **Progress move**, the twin of Lights, Camera, Action, run at the start of **every**
   Challenge (no longer skipped when trouble is thrust on the heroes). Procedure: **(1)** name the goal
   (what the track measures), **(2)** choose a difficulty and draw the track, **(3) each player rolls a
   single d6** (generative) for a one-time **±1 to their own first Challenge Roll**: **5–6** → +1, **3–4**

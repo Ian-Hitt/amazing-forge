@@ -34,7 +34,7 @@ Difficulty is a **screen-time dial,** not a balance setting: you pick Hard for t
 
 ### Start a Challenge
 
-Every Challenge opens the same way, whether the heroes pick the fight or trouble lands on them: name what's at stake, set the track, and let each hero find their footing as the Scene begins. This is **Start a Challenge,** the Challenge-sized cousin of Start a Story Arc (Chapter 10).
+Every Challenge opens the same way, whether the heroes pick the fight or trouble lands on them: name what's at stake, set the track, and let each hero find their footing as the Scene begins. This is **Start a Challenge,** the Challenge-sized cousin of Lights, Camera, Action (Chapter 10).
 
 That last step is an **oracle roll** — nobody's attempting a risky action yet, so it reuses the bare **Ask the Oracle** die (Chapter 11): each player rolls a single **d6.** No Stat or Asset applies and you can't fail it; it just sets how ready each hero is when the action starts.
 

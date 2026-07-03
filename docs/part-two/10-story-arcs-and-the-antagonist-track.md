@@ -78,16 +78,16 @@ Each filled box is the *story* taking one of these steps toward the Goal.
 
 Mix and match — a Story Arc can blend shapes (a journey that ends in a heist, an investigation that turns into a rescue).
 
-### Start a Story Arc: The Opening Roll
+### Lights, Camera, Action: The Opening Roll
 
-You've named the Goal, the Milestones, and the antagonist, and drawn the two tracks. One thing's left before the first scene: find out *how* the Story Arc opens. **Start a Story Arc** is the move that does it — a single roll, made once as the Story Arc begins, that hands you the tone of your launch and points you straight at your opening scene.
+You've named the Goal, the Milestones, and the antagonist, and drawn the two tracks. One thing's left before the first scene: find out *how* the Story Arc opens. **Lights, Camera, Action** is the move that does it — a single roll, made once as the Story Arc begins, that hands you the tone of your launch and points you straight at your opening scene.
 
 This is an **oracle roll,** so it works just like **Ask the Oracle** (Chapter 11): roll a single **d6** and read the result. No Stat or Asset applies — nothing here is a hero *doing* something risky; it's the world telling you how things stand as the camera starts rolling.
 
 Here's the important part: **this is a roll you can't fail.** All three results are good openings — they only differ in how clearly the heroes know what to do, and how much trouble is already on them.
 
 <div class="lca-move" markdown>
-<p class="lca-move-name">Start a Story Arc <span class="lca-when">— once, as a new Story Arc begins</span></p>
+<p class="lca-move-name">Lights, Camera, Action <span class="lca-when">— once, as a new Story Arc begins</span></p>
 
 **When a new Story Arc begins,** roll a single **d6** (the oracle die — the world is setting the scene, not a hero) to find out how the launch goes:
 

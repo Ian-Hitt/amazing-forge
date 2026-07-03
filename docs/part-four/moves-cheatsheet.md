@@ -107,7 +107,7 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
       <h3>Progress Moves</h3>
       <p class="af-famsub">Open or close a track &mdash; a Story Arc or a Challenge.</p>
 
-      <div class="af-move"><span class="af-mname">Start a Story Arc.</span> One <b>d6</b> oracle roll when a Story Arc begins (no Stat/Asset; generative &mdash; can't fail). It sets how the adventure opens:
+      <div class="af-move"><span class="af-mname">Lights, Camera, Action.</span> One <b>d6</b> oracle roll when a Story Arc begins (no Stat/Asset; generative &mdash; can't fail). It sets how the adventure opens:
         <div class="af-tier"><b>5&ndash;6</b> <i>Clear purpose</i> &mdash; they know exactly what to do; open <i>in medias res</i> on the first Milestone.</div>
         <div class="af-tier"><b>3&ndash;4</b> <i>A general idea</i> &mdash; they know the goal, not yet how to act on it.</div>
         <div class="af-tier"><b>1&ndash;2</b> <i>Trouble finds you first</i> &mdash; open in the thick of it, likely mid-Challenge.</div>
@@ -131,5 +131,5 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
     </div>
   </div>
 
-  <p class="af-ref"><b>Full rules:</b> The Roll &amp; Aid Your Ally &mdash; Ch.7. &nbsp; Challenges, Start a Challenge &amp; Fall back &mdash; Ch.8. &nbsp; Readiness, Mend, Recovery Scene, Downtime &amp; Pay the Price &mdash; Ch.9. &nbsp; Story Arcs, Start a Story Arc &amp; Quit the Story Arc &mdash; Ch.10. &nbsp; Ask the Oracle &mdash; Ch.11.</p>
+  <p class="af-ref"><b>Full rules:</b> The Roll &amp; Aid Your Ally &mdash; Ch.7. &nbsp; Challenges, Start a Challenge &amp; Fall back &mdash; Ch.8. &nbsp; Readiness, Mend, Recovery Scene, Downtime &amp; Pay the Price &mdash; Ch.9. &nbsp; Story Arcs, Lights, Camera, Action &amp; Quit the Story Arc &mdash; Ch.10. &nbsp; Ask the Oracle &mdash; Ch.11.</p>
 </div>

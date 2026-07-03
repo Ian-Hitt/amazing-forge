@@ -70,7 +70,7 @@
 **Jump In: In Media Res**
 *Purpose: Don't start in a tavern. Open in the middle of the action. The Guide (or the group) describes the opening scene, and you ask "what do you do?" Play starts.*
 
-> *Note: Part Two covers the two Story sizes (Episode/Movie) plus the Season/Series collection patterns and the one headway rule, multiple simultaneous Story Arcs, the full Antagonist Track (the Devil's Bargain spine), the **Start a Story Arc** opening roll, and how Milestones are built from Scenes. Part One skips the opening roll — first games just jump into the action.*
+> *Note: Part Two covers the two Story sizes (Episode/Movie) plus the Season/Series collection patterns and the one headway rule, multiple simultaneous Story Arcs, the full Antagonist Track (the Devil's Bargain spine), the **Lights, Camera, Action** opening roll, and how Milestones are built from Scenes. Part One skips the opening roll — first games just jump into the action.*
 
 ---
 
@@ -251,7 +251,7 @@
 **What Makes a Good Milestone (and Quick Ideas)**
 *Purpose: A Milestone is a chapter made of several Scenes (a Scene = one/a few Regular Rolls, or a full Challenge) — NOT a single Challenge. How to build one from Scenes; examples (Sun Crystal). Plus a quick-start list of milestone ideas by Story Arc type (rescue / heist / journey / investigation / confrontation) to pick from or spark off.*
 
-**Start a Story Arc: The Opening Roll**
+**Lights, Camera, Action: The Opening Roll**
 *Purpose: One **d6 oracle roll** made when a Story Arc begins to set how it opens — a generative Progress move (nothing here is a hero *doing* something, so it reuses the bare Ask the Oracle die), not pass/fail. Three bands: Clear purpose (5–6, open in medias res on the first Milestone) / A general idea (3–4, know the goal, not yet how to act) / Trouble finds you first (1–2, open in the thick of it). Give players interpretation guidance — how to turn each result into the first scene (same Milestone, different "temperature"); lower bands hand off to Ask the Oracle. Part One skips this roll. (Reworked from a 2d6+1 move-style roll to a d6 oracle 2026-06-27.) Cross-ref Ch.5/Ch.11.*
 
 **Finishing a Story Arc**
@@ -475,7 +475,7 @@
 ### Quick Reference
 
 **The Moves at a Glance — Moves Cheatsheet** ✅ *Built (`docs/part-four/moves-cheatsheet.md`).*
-*Purpose: The full roster on one printable card, grouped by family — **Action Moves** (resolve a hero's attempt: The Roll, Aid Your Ally, Mend, Downtime) and **Frame Moves** (establish/shift the situation: Start a Story Arc, Ask the Oracle, Pay the Price, Fall back, Quit the Story Arc). One line each: what it does, what you roll, plus the core-roll legend. Designed to print and sit in the middle of the table. Mirrors "The Moves (Master List)" in the mechanics reference. (**Action move** / **Frame move** are now canonical Standard Vocabulary, locked 2026-06-09.)*
+*Purpose: The full roster on one printable card, grouped by family — **Action Moves** (resolve a hero's attempt: The Roll, Aid Your Ally, Mend, Downtime) and **Frame Moves** (establish/shift the situation: Lights, Camera, Action, Ask the Oracle, Pay the Price, Fall back, Quit the Story Arc). One line each: what it does, what you roll, plus the core-roll legend. Designed to print and sit in the middle of the table. Mirrors "The Moves (Master List)" in the mechanics reference. (**Action move** / **Frame move** are now canonical Standard Vocabulary, locked 2026-06-09.)*
 
 **The Roll** *(revised 2026-06-22)*
 *Purpose: Outcomes table (Strong Hit / Weak Hit / Miss), modifier rules (+0/+1/+2 — Stat, Asset, both, or neither), Doubles. One page.*
@@ -532,7 +532,7 @@
 - ✅ Broken Assets — durable-teeth layer; break on Out of Action, restored by Downtime (Ch. 9; cross-ref Ch. 7, Ch. 13, hero sheet)
 - ✅ Finishing a Story Arc prompts Downtime (Ch. 9) / Multiple Story Arcs (Ch. 10)
 - ✅ Story Arcs & Hero Track (Ch. 3 brief, Ch. 10 full)
-- ✅ Start a Story Arc — opening roll, generative Frame move (Ch. 10; Part One skips it)
+- ✅ Lights, Camera, Action — opening roll, generative Frame move (Ch. 10; Part One skips it)
 - ✅ Antagonist Track — CORE, the Devil's Bargain spine (Ch. 3 brief, Ch. 10 full)
 - ✅ Bad Guys Close In & the three triggers (Ch. 10)
 - ✅ Worldbuilding — 10 questions (Ch. 1 brief, Ch. 14 full)

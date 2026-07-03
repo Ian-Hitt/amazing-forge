@@ -54,7 +54,7 @@ This is the bad guys' progress toward *their* goal. It fills one box at a time a
 
 A quick way to picture a Milestone: it's a *chapter* of your movie, made up of a few **scenes.** Some scenes are over in a single dice roll ("you talk your way past the guard"); others are big enough to play out in detail. Chapters 4 and 5 show you how scenes work — for now, just know each Milestone is a little stretch of story, not one single moment.
 
-> *Part Two has more for Stories — the bigger **Movie** size, chaining Stories into a Season or a whole Series, the full Antagonist Track and the ways the bad guys gain ground, a quick "Start a Story Arc" roll that sets how each new adventure opens, and how the scenes inside a Milestone range from a single roll to a full set-piece. For your first game, keep it to one Story Arc, three Milestones, and the two tracks — and jump straight into the action, as the next section shows.*
+> *Part Two has more for Stories — the bigger **Movie** size, chaining Stories into a Season or a whole Series, the full Antagonist Track and the ways the bad guys gain ground, a quick "Lights, Camera, Action" roll that sets how each new adventure opens, and how the scenes inside a Milestone range from a single roll to a full set-piece. For your first game, keep it to one Story Arc, three Milestones, and the two tracks — and jump straight into the action, as the next section shows.*
 
 ### Jump In: In Media Res
 
