@@ -1,6 +1,6 @@
 # Chapter 10 — Story Arcs & the Antagonist Track
 
-A **Story Arc** is the engine that gives an adventure shape: a goal worth chasing, the steps to get there, and an antagonist racing you for it. Every Story Arc poses **one central dramatic question** — and this chapter is the complete guide to setting one up and running it: the **Story Arc Track**, the **Antagonist Track** that runs alongside it as the antagonist's own race, how to build good Milestones, the three ways the antagonist gains ground, what happens when you win, lose, or quit, and how to chain Stories into a Season or a whole Series.
+A **Story Arc** is the engine that gives an adventure shape: a goal worth chasing, the steps to get there, and an antagonist racing you for it. Every Story Arc poses **one central dramatic question** — and this chapter is the complete guide to setting one up and running it: the **Hero Track**, the **Antagonist Track** that runs alongside it as the antagonist's own race, how to build good Milestones, the three ways the antagonist gains ground, what happens when you win, lose, or quit, and how to chain Stories into a Season or a whole Series.
 
 Everything here builds on tools from earlier chapters: Milestones are made of **Scenes** (Chapter 8), the heroes win or lose by filling tracks, and the Antagonist Track moves through the **Devil's Bargain,** doubles on a Miss, and going **Out of Action** (Chapters 7 and 9) — never by resting.
 
@@ -14,10 +14,10 @@ A Story Arc has three parts:
 
 - **The Goal** — the single, clear victory condition, stated in a sentence ("Recover the stolen Sun Crystal," "Escape the sinking sky-city"). It's the finish line everyone can name.
 - **The Milestones** — the major steps that get the heroes there. Each one is a real, pointable achievement, not a vague "keep going."
-- **The two Tracks** — a **Story Arc Track** with one box per Milestone, and a short **Antagonist Track** drawn right beneath it. The heroes win by reaching the end of the top row (the **climax**); they lose if the bottom row fills first.
+- **The two Tracks** — a **Hero Track** with one box per Milestone, and a short **Antagonist Track** drawn right beneath it. The heroes win by reaching the end of the top row (the **climax**); they lose if the bottom row fills first.
 
 ```
-STORY ARC TRACK:    [ ]  [ ]  [ ]
+HERO TRACK:         [ ]  [ ]  [ ]
 ANTAGONIST TRACK:   [▲] [ ] [▲] [ ] [▲]    ▲ = Bad Guys Close In (narrated); last box = the antagonist wins  (an Episode)
 ```
 
@@ -27,14 +27,14 @@ You don't plan *how* each Milestone gets done — that's what play discovers. Yo
 
 A Story Arc comes in one of two sizes, and these are the only two with their own boxes:
 
-| Size | Story Arc Track | Antagonist Track | Feels like |
+| Size | Hero Track | Antagonist Track | Feels like |
 |---|---|---|---|
 | **Episode** | **3 Milestones** | **5 boxes** (Bad Guys Close In on 1 · 3 · 5) | one TV episode, told in a single sitting |
 | **Movie** | **6 Milestones** | **9 boxes** (Bad Guys Close In on 1 · 3 · 5 · 7 · 9) | a feature film, told over ~2–3 sessions |
 
 Pick the size with one question: **a single sitting, or a feature?** An **Episode** is the short, complete story you finish tonight (your first games use only this). A **Movie** is the bigger self-contained story you tell start-to-finish over a couple of sessions — *the heroes are trapped on a space station spiraling into its sun, with until dawn to get everyone off alive.*
 
-The Story Arc Track is one box per Milestone. The **Antagonist Track is longer** and fills a box at a time as the antagonist gains ground (Part B). Its **odd boxes are Bad Guys Close In beats** — where the antagonist closes in: you cut away and show the bad guys winning something off-screen — and its **last box is their victory.** Sized this way, the antagonist's clock tends to end up *near* full as the heroes reach their finale — the photo-finish a good climax wants — without the heroes ever being railroaded there.
+The Hero Track is one box per Milestone. The **Antagonist Track is longer** and fills a box at a time as the antagonist gains ground (Part B). Its **odd boxes are Bad Guys Close In beats** — where the antagonist closes in: you cut away and show the bad guys winning something off-screen — and its **last box is their victory.** Sized this way, the antagonist's clock tends to end up *near* full as the heroes reach their finale — the photo-finish a good climax wants — without the heroes ever being railroaded there.
 
 ### Seasons and Series: Collections, Not Sizes
 
@@ -49,7 +49,7 @@ Look at **Avatar: The Last Airbender.** The whole show is a **Series** (master t
 
 ### The Headway Rule
 
-Here's the rule that fills the Story Arc Track: **mark a box whenever the table agrees you've made significant headway — a Milestone.** For an Episode that's usually finishing a concrete step ("find the secret entrance"). If it feels like genuine progress, mark it.
+Here's the rule that fills the Hero Track: **mark a box whenever the table agrees you've made significant headway — a Milestone.** For an Episode that's usually finishing a concrete step ("find the secret entrance"). If it feels like genuine progress, mark it.
 
 ### What Makes a Good Milestone (and Quick Ideas)
 
@@ -118,7 +118,7 @@ Same Milestone, three different heats. Roll, read the temperature, paint the pic
 
 ### Finishing a Story Arc
 
-The last Milestone **is** the climax. Fill the final box of the Story Arc Track and the heroes win the Story — there's no separate finishing roll. In practice that closing Milestone is almost always a **climactic Challenge** (reach for **Hard** or **Epic** to make it land — Chapter 8), the final confrontation the whole arc has been building toward; the instant its track fills, the Story Arc is won.
+The last Milestone **is** the climax. Fill the final box of the Hero Track and the heroes win the Story — there's no separate finishing roll. In practice that closing Milestone is almost always a **climactic Challenge** (reach for **Hard** or **Epic** to make it land — Chapter 8), the final confrontation the whole arc has been building toward; the instant its track fills, the Story Arc is won.
 
 By now the Antagonist Track has usually climbed near its top, so the heroes are racing to complete that last Milestone before the antagonist fills the last box of *theirs.* That race — finishing first, with both clocks near full — is the whole tension of the ending. When the heroes win, play out the victory: finishing a Story Arc is **Downtime** (Chapter 9), so any Broken Asset is restored before the next Story Arc.
 
@@ -128,15 +128,15 @@ By now the Antagonist Track has usually climbed near its top, so the heroes are 
 
 ### What It Is
 
-Every Story Arc is a **race between two tracks.** The Story Arc Track is the heroes' progress; the **Antagonist Track** is the antagonist's progress toward *their* goal, running in parallel. It is **the losing side of the same Story Arc** — not a separate arc, but this Story Arc's other end — and a **core part of every Story Arc,** never optional.
+Every Story Arc is a **race between two tracks.** The Hero Track is the heroes' progress; the **Antagonist Track** is the antagonist's progress toward *their* goal, running in parallel. It is **the losing side of the same Story Arc** — not a separate arc, but this Story Arc's other end — and a **core part of every Story Arc,** never optional.
 
-The antagonist fills it a box at a time as they gain ground during play. Its **odd boxes are Bad Guys Close In beats** — you stop and show the antagonist winning something off-screen — and its **last box is their victory:** fill it before the heroes finish their Story Arc Track and the bad guys win. The whole design points at one ending: the heroes reaching their finale with the antagonist's clock *near* full — the **photo-finish.** But nobody is steered there; where the antagonist ends up is the sum of the gambles the heroes took and the luck of the dice (below).
+The antagonist fills it a box at a time as they gain ground during play. Its **odd boxes are Bad Guys Close In beats** — you stop and show the antagonist winning something off-screen — and its **last box is their victory:** fill it before the heroes finish their Hero Track and the bad guys win. The whole design points at one ending: the heroes reaching their finale with the antagonist's clock *near* full — the **photo-finish.** But nobody is steered there; where the antagonist ends up is the sum of the gambles the heroes took and the luck of the dice (below).
 
 Each box is one of the antagonist's *own* milestones — the dragon spreading its fire, the rival crew closing on the same treasure, the storm marching toward the city.
 
 ### Drawing the Track
 
-Draw the Antagonist Track as a row beneath the Story Arc Track — **Episode: 5 boxes. Movie: 9 boxes.** **Mark the odd boxes as Bad Guys Close In** (a different color, a little ▲) so everyone can see which ticks you'll stop and play out. You don't spell out the antagonist's milestones in advance; you decide what each **Bad Guys Close In** beat *means* when it happens (see below).
+Draw the Antagonist Track as a row beneath the Hero Track — **Episode: 5 boxes. Movie: 9 boxes.** **Mark the odd boxes as Bad Guys Close In** (a different color, a little ▲) so everyone can see which ticks you'll stop and play out. You don't spell out the antagonist's milestones in advance; you decide what each **Bad Guys Close In** beat *means* when it happens (see below).
 
 ### Characterize Your Antagonist
 

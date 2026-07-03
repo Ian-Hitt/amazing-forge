@@ -810,7 +810,7 @@
   // ============================================================ STORY ARCS
   function renderArcs(root) {
     var head = el("div"); head.style.cssText = "display:flex;justify-content:space-between;align-items:center;gap:.5rem;flex-wrap:wrap;margin-bottom:.3rem;";
-    head.appendChild(el("div", "hint", "Fill the Story Arc Track to win the Story (complete the last Milestone); you lose if the Antagonist Track fills first (its last box is the antagonist's victory)."));
+    head.appendChild(el("div", "hint", "Fill the Hero Track to win the Story (complete the last Milestone); you lose if the Antagonist Track fills first (its last box is the antagonist's victory)."));
     var add = el("button", "sm", "+ Add Story Arc"); add.onclick = function () { var a = blankArc(); camp.arcs.push(a); ui.openArc = a.id; persist(); render(); };
     head.appendChild(add); root.appendChild(head);
 
@@ -854,7 +854,7 @@
 
     // tracks
     var tr = el("div"); tr.style.margin = ".7rem 0";
-    var r1 = el("div", "trackrow"); r1.appendChild(el("span", "tracklabel", "Story Arc"));
+    var r1 = el("div", "trackrow"); r1.appendChild(el("span", "tracklabel", "Hero"));
     r1.appendChild(trackRow(null, "arc", sz.ms, a.arc, function (n) { a.arc = n; persist(); render(); }, { labels: true }));
     tr.appendChild(r1);
     var r2 = el("div", "trackrow"); r2.appendChild(el("span", "tracklabel", "Antagonist"));
@@ -869,7 +869,7 @@
     box.appendChild(row);
 
     box.appendChild(el("h2", "sec", "Milestones"));
-    box.appendChild(el("p", "hint", "A concrete, pointable step toward the Goal. Checking one fills its Story Arc box."));
+    box.appendChild(el("p", "hint", "A concrete, pointable step toward the Goal. Checking one fills its Hero Track box."));
     a.milestones.forEach(function (m, i) {
       var ms = el("div", "ms" + (m.done ? " done" : ""));
       var chk = el("input"); chk.type = "checkbox"; chk.className = "mschk"; chk.checked = m.done;

@@ -9,4 +9,4 @@ Each chapter is **self-contained.** Flip to the one you need and read just that.
 A quick reminder of two terms you'll see throughout:
 
 - A **Scene** is a single beat of play — one or a few **Regular Rolls**, or a full **Challenge.**
-- A **Milestone** is a chapter of the story, made of several Scenes. Completing one checks a box on the **Story Arc Track.**
+- A **Milestone** is a chapter of the story, made of several Scenes. Completing one checks a box on the **Hero Track.**

@@ -36,10 +36,10 @@ Just name it out loud so everyone knows what they're up against. Your antagonist
 
 ### Draw the Two Tracks
 
-Now make the race visible. On a scrap of paper, draw a row of **three empty boxes** — one for each Milestone. This is your **Story Arc Track:**
+Now make the race visible. On a scrap of paper, draw a row of **three empty boxes** — one for each Milestone. This is your **Hero Track:**
 
 ```
-STORY ARC TRACK:    [ ]  [ ]  [ ]
+HERO TRACK:         [ ]  [ ]  [ ]
 ```
 
 Every time the heroes complete a Milestone, check off one box. When all three are filled, the heroes reach the Goal and **win the Story Arc.**

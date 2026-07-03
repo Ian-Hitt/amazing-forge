@@ -79,8 +79,8 @@ authoritative**; V3/V4 are older and superseded where they differ.
 
 - **Terms:** Guide (never "GM"), Co-op play (never "GMless"), Readiness (the hero's single **Health Bar** — body/mind/supplies in one 0–9 track; the *term* is always "Readiness," but "Health Bar" is the OK plain-language framing — supersedes the old "never HP/health" rule, 2026-07-02),
   Assets, **Stats** (pick **2 of the closed five**: Strong/Quick/Clever/Sneaky/Charming — the
-  most-relevant one is chosen objectively, not argued), Story / Story Arc (never "Quest"; never bare "Arc"), Story Arc Track (never "Hero
-  Track"/"Quest Track"), **Episode/Movie** (the two *individual* story sizes), **Season/Series**
+  most-relevant one is chosen objectively, not argued), Story / Story Arc (never "Quest"; never bare "Arc"), **Hero Track** (the hero's
+  progress clock — renamed from "Story Arc Track" 2026-07-03, which supersedes the old "never Hero Track" rule; still never "Quest Track"), **Episode/Movie** (the two *individual* story sizes), **Season/Series**
   (prose *collection* patterns, not sizes — see [[spine-model]]), **antagonist** (the umbrella
   term for the adversary — default to it; **never "villain,"** which is only *one type* of
   antagonist — it can also be a force: a desert, a plague), Antagonist Track, **climax**
@@ -105,7 +105,7 @@ authoritative**; V3/V4 are older and superseded where they differ.
   and a resource weighed against the Devil's Bargain, **not** the loss meter. (Loss is a rare earned
   tail, not a target — Math & Sim §0.)
 - **Story structure — single nested SPINE (DECIDED 2026-06-13; see [[spine-model]] & Math & Sim
-  §0).** Dropped sandbox play. One Story = one spine with a **Story Arc Track** (progress, 1
+  §0).** Dropped sandbox play. One Story = one spine with a **Hero Track** (progress, 1
   box/Milestone → the **climax**) and an **Antagonist Track** (the antagonist's race; three triggers
   below). **Two individual sizes: Episode = 3 Milestones / 5-box Antagonist Track (Bad Guys Close In on 1·3·5);
   Movie = 6 Milestones / 9-box (Bad Guys Close In on 1·3·5·7·9) — same at any party size.** **Season/Series are prose collection patterns, not

@@ -31,7 +31,7 @@ The future is amazing *and* it bites. A price in Sci-Fi is usually a system, a m
 
 ### What a Story Arc looks like here
 
-**The promise:** *a new discovery opens wonders — and you face what it sets loose.* The Story Arc Track is how the table delivers it.
+**The promise:** *a new discovery opens wonders — and you face what it sets loose.* The Hero Track is how the table delivers it.
 
 Sci-Fi borrows its Story Arc shapes from every other genre — but the **Milestones are about systems, frontiers, and consequences** (Chapter 10): power restored, a signal decoded, a planet survived, a truth about the new thing finally grasped. A filled box is a problem of *the future* solved (often by creating the next one).
 

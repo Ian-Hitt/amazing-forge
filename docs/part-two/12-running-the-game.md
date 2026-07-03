@@ -6,7 +6,7 @@ The two modes share more than they differ. Both live on the same handful of skil
 
 > **How many at the table?** *Lights, Camera, Action!* runs with **two to six players.** With **five or six,** we recommend one person step back from playing a hero and take the **Guide's** chair — a big group keeps everyone in the spotlight better with someone steering, and it caps the heroes at a comfortable five. Smaller groups can go either way: play with a Guide, or share the job **Co-op.** (Either way, four or five heroes feel each setback a little harder — Pay the Price scales with the number of heroes, Chapter 9.)
 
-> **You already have less to do than you think.** The hardest part of most games — inventing the world and plotting the adventure — is already handled. **Worldbuilding** (Chapter 14) built your setting. The **Story Arc Track** (Chapter 10) points at where the story is going. The **Oracle** (Chapter 11) answers what happens next when you're stuck. Running the game isn't about carrying all of that in your head; it's about responding to what's in front of you, one scene at a time.
+> **You already have less to do than you think.** The hardest part of most games — inventing the world and plotting the adventure — is already handled. **Worldbuilding** (Chapter 14) built your setting. The **Hero Track** (Chapter 10) points at where the story is going. The **Oracle** (Chapter 11) answers what happens next when you're stuck. Running the game isn't about carrying all of that in your head; it's about responding to what's in front of you, one scene at a time.
 
 ---
 
@@ -30,7 +30,7 @@ What's missing from that list is the part new Guides expect to carry: the plot. 
 "Zero prep" is a promise, not a dare. You are genuinely not expected to prepare anything. But improvising well is a skill, and these habits make it feel effortless:
 
 - **Lean on what's already on the table.** Every Worldbuilding answer is loaded ammunition. The **Threats**, the **Forbidden**, the **Leadership**, the **Reputation** — you wrote those down precisely so you'd never face a blank page. Stuck for a complication? Reach for a Threat. Stuck for a place? You already named the world's geography.
-- **Read the next Milestone off the track.** You always know roughly where the story is heading, because the Story Arc Track tells you: the next empty box is the next chapter. You don't need to know *how* the heroes get there — just point every scene loosely toward it.
+- **Read the next Milestone off the track.** You always know roughly where the story is heading, because the Hero Track tells you: the next empty box is the next chapter. You don't need to know *how* the heroes get there — just point every scene loosely toward it.
 - **Make the next scene inevitable *and* surprising.** The trick to satisfying improvisation is that the next beat should feel like it had to happen — *of course* the bridge guard recognizes them — while still landing as a surprise. You get there by building on what's established (inevitable) and adding one thing nobody expected (surprise).
 - **Say yes, or yes-but.** When a player tries something clever, your default is yes. If it shouldn't be free, it's a **Challenge** or a roll — "yes, *but* you'll have to get past the guards first." Flat no's stall the movie; turn them into obstacles instead.
 - **When you don't know, ask the table.** This is the release valve that makes no-prep possible. You are never obligated to have an answer ready — see [Asking the Table Good Questions](#asking-the-table-good-questions).
@@ -149,7 +149,7 @@ Pacing is what separates an adventure that *lands* from one that runs out of tim
 
 **Dial 1 — Track difficulty.** Every track you draw is a decision about screen time. A **Hard Challenge** (more boxes, Chapter 8) eats a bigger chunk of the session than an Easy one. If real-world time is running short, draw *easier* tracks to push the story toward its conclusion; if the table is savoring things and has time to spare, draw bigger.
 
-**Dial 2 — Milestone timing (the One-Hour Rule).** The **Milestone** is your most powerful pacing tool, because nothing strictly defines how long one takes — and the **Story Arc Track** shows you exactly how many remain, so you can always gauge where you are. A handy rule of thumb: a Milestone runs **about an hour** of real play once you count the scenes around it.
+**Dial 2 — Milestone timing (the One-Hour Rule).** The **Milestone** is your most powerful pacing tool, because nothing strictly defines how long one takes — and the **Hero Track** shows you exactly how many remain, so you can always gauge where you are. A handy rule of thumb: a Milestone runs **about an hour** of real play once you count the scenes around it.
 
 | The plan | Story Arc scale | Pace | Total |
 |---|---|---|---|

@@ -204,7 +204,7 @@ is now a photo-finish tail, not an attrition curve.)*
 > nested spine**, because the old structure could not produce the design goal — a story whose antagonist
 > ends *one step from winning* (the photo-finish).
 
-**The model.** One Story Arc = one spine with two tracks. The **Story Arc Track** is progress (1 box /
+**The model.** One Story Arc = one spine with two tracks. The **Hero Track** is progress (1 box /
 Milestone; filling it wins the Story). The **Antagonist Track** is short, its **top box
 reserved as the climax**. Recovery is **two moves + a declining ceiling**:
 - A **Readiness max** that starts at **9** and **drops 1 per Recovery Scene** (floor 4; resets to 9
@@ -342,7 +342,7 @@ all-Easy *floor*; expected play sits at the §0b numbers above.
 | Downtime (between Story Arcs) | restores a Broken Asset (not a healing move — Recovery Scenes already heal fully, free, any time); free; antagonist's clock resets |
 | Out of Action | Readiness = **0** (recoverable; not death); **advances the Antagonist Track +1** + breaks an Asset (loss vector) *(§0)* |
 | Challenge length — Normal / Hard / Epic | **3 / 6 / 9 boxes — fixed, same at any hero count** *(Epic = peak moments only; nothing shorter than Normal gets a track; tier = length, hero count = damage — §0)* |
-| Story Arc Track length — Episode / Movie | **3 / 6** Milestones *(§0; Season/Series are prose collections, no box machinery)* |
+| Hero Track length — Episode / Movie | **3 / 6** Milestones *(§0; Season/Series are prose collections, no box machinery)* |
 | Antagonist Track length — Episode / Movie | **5 / 9** boxes — same at any party size; odd boxes are narrated Bad Guys Close In beats; last box = antagonist wins *(§0)* |
 
 > 🔁 **SUPERSEDED by §0 (2026-06-13).** The four-type / equal-length-Antagonist-Track structure
@@ -385,7 +385,7 @@ adventure. **They are estimates pending confirmation / recovery of the original 
 | Parameter | Value | Flag | Source |
 |---|---|---|---|
 | Party size | 3 | 🔧 ESTIMATE | modeling default |
-| Milestones per Episode | 3 | ✅ CONFIRMED | = Story Arc Track length |
+| Milestones per Episode | 3 | ✅ CONFIRMED | = Hero Track length |
 | Challenges per Milestone | ~2 | 🔧 ESTIMATE | Ian, 2026-06-06 |
 | Per-Challenge difficulty mix | 40% Easy / 40% Medium / 20% Hard | ✅ CONFIRMED | canonical play pattern, §0b (was "all-Easy") |
 | Regular Rolls per Milestone | ~3 | 🔧 ESTIMATE | Ian, 2026-06-06 |
@@ -621,7 +621,7 @@ box, per a stated policy. "OoA" = at least one hero hit 0 Readiness during the S
 
 > The flee-as-sole-trigger model with an equal-length Antagonist Track is replaced by the spine
 > model (§0): the antagonist surges on a Recovery Scene, the track is short with a reserved climax
-> box, and the antagonist track length no longer equals the Story Arc Track. Kept for the trail.
+> box, and the antagonist track length no longer equals the Hero Track. Kept for the trail.
 
 **Model (Ian, 2026-06-06).** Misses **always** cost Readiness (clean baseline — no per-Miss
 trade). The Antagonist Track advances **only when the heroes flee a Challenge**: fleeing ends
@@ -663,7 +663,7 @@ makes it self-limiting; filling it loses the Story Arc (= "quit the Story Arc").
 - **Rests still dominate** the baseline OoA rate; confirm rest frequency (§3).
 
 **Recommended ruling (pending Ian's confirmation):** adopt the flee model; antagonist advances
-only on flee; keep the Antagonist Track length = Story Arc Track (works fine here); add an official
+only on flee; keep the Antagonist Track length = Hero Track (works fine here); add an official
 **Quit the Story Arc** as the terminal flee. Misses go back to always costing Readiness.
 
 ---

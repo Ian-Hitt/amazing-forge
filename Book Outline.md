@@ -65,7 +65,7 @@
 *Purpose: Decide who/what stands in the way. The antagonist can be a person OR anything (weather, a ticking clock, a buried secret). You just need to know the Goal and who opposes it.*
 
 **Draw the Tracks**
-*Purpose: Draw 3 boxes for the Story Arc Track (when all 3 are checked, you win). Then draw a second row — the Antagonist Track (a 5-box clock for a first Episode). If the antagonist's track fills first, you lose. Brief mention of how it advances: the Devil's Bargain, a Miss on doubles, or a hero going Out of Action (Ch5).*
+*Purpose: Draw 3 boxes for the Hero Track (when all 3 are checked, you win). Then draw a second row — the Antagonist Track (a 5-box clock for a first Episode). If the antagonist's track fills first, you lose. Brief mention of how it advances: the Devil's Bargain, a Miss on doubles, or a hero going Out of Action (Ch5).*
 
 **Jump In: In Media Res**
 *Purpose: Don't start in a tavern. Open in the middle of the action. The Guide (or the group) describes the opening scene, and you ask "what do you do?" Play starts.*
@@ -175,7 +175,7 @@
 > *Note: **Aid Your Ally** is defined in Ch.7 (it's a use of the core Roll), but it's most often spent on a turn inside a Challenge — cross-reference it here.*
 
 **Ending a Challenge**
-*Purpose: Last box filled → obstacle cleared → check one box on Story Arc Track. Clean and fast.*
+*Purpose: Last box filled → obstacle cleared → check one box on Hero Track. Clean and fast.*
 
 **Falling Back from a Challenge (The Escape Valve)**
 *Purpose: The group may fall back from a Challenge to stop the Readiness bleed — lose its progress and take a Recovery Scene (full heal, free; the antagonist gains nothing). Falling back is always safe, never a penalty, usable as often as the fiction allows. Cross-reference Ch9/Ch10. This is the core stay-alive valve.*
@@ -232,12 +232,12 @@
 
 ### Chapter 10 — Story Arcs & the Antagonist Track (Complete)
 
-*Everything about setting up and running Story Arcs in one place: the Story Arc Track, the two Story sizes (Episode/Movie) plus the Season/Series collection patterns, the one headway rule that fills every box, the Antagonist Track, milestone ideas, and juggling several Story Arcs at once. (Replaces the old split between "Story Arcs" and "Antagonist Track" chapters.)*
+*Everything about setting up and running Story Arcs in one place: the Hero Track, the two Story sizes (Episode/Movie) plus the Season/Series collection patterns, the one headway rule that fills every box, the Antagonist Track, milestone ideas, and juggling several Story Arcs at once. (Replaces the old split between "Story Arcs" and "Antagonist Track" chapters.)*
 
 #### Part A — Building & Winning a Story Arc
 
 **Story Arc Structure**
-*Purpose: A Story Arc has a Goal (victory condition), Milestones (steps toward it), and a Story Arc Track (boxes to check) paired with the Antagonist Track. Full treatment of how to construct these.*
+*Purpose: A Story Arc has a Goal (victory condition), Milestones (steps toward it), and a Hero Track (boxes to check) paired with the Antagonist Track. Full treatment of how to construct these.*
 
 **Two Story Sizes: Episode and Movie**
 *Purpose: A Story is one spine with two tracks. Only two sizes carry box machinery — Episode (3 Milestones / 5-box Antagonist Track, one sitting) and Movie (6 Milestones / 9-box Antagonist Track, one complete feature over ~2–3 sessions) — the same at any party size. Pick with one question ("a single sitting, or a feature?"). The Antagonist Track is sized so the antagonist tends to land one step from winning at the climax (the photo-finish). Box counts are defaults you can stretch.*
@@ -246,7 +246,7 @@
 *Purpose: Episode and Movie are individual stories; Season and Series describe how you string them together over a long game — prose patterns, no new machinery. A Season is usually a collection of Episodes/Movies sharing a throughline (a recurring antagonist, a season-long question carried from one Story to the next); occasionally a single long serialized spine (just a big Movie). A Series is always a collection — the whole game, a run of Seasons. How to plan and connect them.*
 
 **The Headway Rule**
-*Purpose: Mark a Story Arc Track box on significant headway (a Milestone). One rule fills every box: the table agrees the heroes made significant progress toward the Goal.*
+*Purpose: Mark a Hero Track box on significant headway (a Milestone). One rule fills every box: the table agrees the heroes made significant progress toward the Goal.*
 
 **What Makes a Good Milestone (and Quick Ideas)**
 *Purpose: A Milestone is a chapter made of several Scenes (a Scene = one/a few Regular Rolls, or a full Challenge) — NOT a single Challenge. How to build one from Scenes; examples (Sun Crystal). Plus a quick-start list of milestone ideas by Story Arc type (rescue / heist / journey / investigation / confrontation) to pick from or spark off.*
@@ -298,7 +298,7 @@
 *Purpose: The "stuck" move. Between scenes, when no one knows what happens next, or when a yes/no question stalls the table. For Co-op play it's the engine; Guides can lean on it too.*
 
 **Step 1: Find the Next Milestone**
-*Purpose: The fastest way out of stuck is to name what the heroes are trying to do right now. Look at the Story Arc Track — what's the next box? If you haven't named the Milestone yet, do it now, drawing on the Worldbuilding, Assets, and Story Arcs already in play.*
+*Purpose: The fastest way out of stuck is to name what the heroes are trying to do right now. Look at the Hero Track — what's the next box? If you haven't named the Milestone yet, do it now, drawing on the Worldbuilding, Assets, and Story Arcs already in play.*
 
 **Step 2: Do the Obvious**
 *Purpose: Most of the time someone already knows what should happen next. Run with it.*
@@ -324,7 +324,7 @@
 *Purpose: Frame scenes, voice the world, advance the pressure, ask great questions. Not to plan — to respond and escalate.*
 
 **No Prep: How to Improvise Well**
-*Purpose: The Worldbuilding already did the worldbuilding. The Story Arc Track tells you where the story is going. Your job is to make the next scene feel inevitable and surprising at the same time. Practical tips.*
+*Purpose: The Worldbuilding already did the worldbuilding. The Hero Track tells you where the story is going. Your job is to make the next scene feel inevitable and surprising at the same time. Practical tips.*
 
 **Managing Readiness Pressure**
 *Purpose: The Guide's job isn't to knock heroes out — it's to make Readiness feel precious. How to pace Pay the Price so loss feels dramatic, not arbitrary.*
@@ -487,7 +487,7 @@
 *Purpose: Readiness loss, Mend (Strong +3 / Weak +2 / Miss −1, capped at 9, never advances the antagonist), the Recovery Scene (full heal to 9, free), Downtime (restores Broken Assets between Story Arcs — not a heal), Out of Action rules, cap (9).*
 
 **Story Arcs**
-*Purpose: Story Arc Track lengths (Episode 3 Milestones / Movie 6) and Antagonist Track sizes (Episode 5 / Movie 9, the same at any party size), what a Milestone is, finishing a Story Arc.*
+*Purpose: Hero Track lengths (Episode 3 Milestones / Movie 6) and Antagonist Track sizes (Episode 5 / Movie 9, the same at any party size), what a Milestone is, finishing a Story Arc.*
 
 **Ask the Oracle**
 *Purpose: The three steps (name next Milestone → do the obvious / Story Spark / Ask the Dice).*
@@ -503,7 +503,7 @@
 *Purpose: Concept line, two Stat picks, three Asset boxes, Readiness track (numbered 0–9), space for Story Arc notes. Designed to be photocopied or printed.*
 
 **Story Arc & Challenge Track Sheet**
-*Purpose: A grid of blank track boxes, labeled so players can draw Story Arc Tracks, the Antagonist Track (paired, same length), and Challenge Tracks on one sheet.*
+*Purpose: A grid of blank track boxes, labeled so players can draw Hero Tracks, the Antagonist Track (paired, same length), and Challenge Tracks on one sheet.*
 
 **Worldbuilding Worksheet**
 *Purpose: The 10 questions with write-in space. Fillable at the table during the Worldbuilding step.*
@@ -531,7 +531,7 @@
 - ✅ Out of Action (Ch. 9)
 - ✅ Broken Assets — durable-teeth layer; break on Out of Action, restored by Downtime (Ch. 9; cross-ref Ch. 7, Ch. 13, hero sheet)
 - ✅ Finishing a Story Arc prompts Downtime (Ch. 9) / Multiple Story Arcs (Ch. 10)
-- ✅ Story Arcs & Story Arc Track (Ch. 3 brief, Ch. 10 full)
+- ✅ Story Arcs & Hero Track (Ch. 3 brief, Ch. 10 full)
 - ✅ Start a Story Arc — opening roll, generative Frame move (Ch. 10; Part One skips it)
 - ✅ Antagonist Track — CORE, the Devil's Bargain spine (Ch. 3 brief, Ch. 10 full)
 - ✅ Bad Guys Close In & the three triggers (Ch. 10)

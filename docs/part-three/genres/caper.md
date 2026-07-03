@@ -31,9 +31,9 @@ A price in a Caper makes things *harder and more exciting* — almost never hope
 
 ### What a Story Arc looks like here
 
-**The promise:** *a clever crew takes on the impossible and pulls it off with style.* The Story Arc Track is how the table delivers it.
+**The promise:** *a clever crew takes on the impossible and pulls it off with style.* The Hero Track is how the table delivers it.
 
-In a Caper, the Story Arc Track *is the job*, and each **Milestone is a stage of pulling it off** (Chapter 10): cased, infiltrated, the prize in hand, the clean exit. A filled box is a step of the score completed — or completed *clean enough* to keep moving.
+In a Caper, the Hero Track *is the job*, and each **Milestone is a stage of pulling it off** (Chapter 10): cased, infiltrated, the prize in hand, the clean exit. A filled box is a step of the score completed — or completed *clean enough* to keep moving.
 
 **Good Milestones in a Caper:**
 

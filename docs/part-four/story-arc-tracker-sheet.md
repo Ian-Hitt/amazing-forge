@@ -1,6 +1,6 @@
 ## Story Arc Tracker Sheet
 
-One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Track** with its **Antagonist Track** (the antagonist's odd boxes are Closing In beats; the last box is their victory), room to name your **antagonist**, and numbered lines to jot each **Milestone**.
+One sheet per Story Arc. It holds the **Goal**, the **size**, the **Hero Track** with its **Antagonist Track** (the antagonist's odd boxes are Closing In beats; the last box is their victory), room to name your **antagonist**, and numbered lines to jot each **Milestone**.
 
 > **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus are hidden automatically, so you'll get just the sheet.
 
@@ -82,7 +82,7 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
 
   <h3>The Tracks</h3>
   <div class="af-trackgrid">
-    <span class="af-rowlabel">Story Arc</span>
+    <span class="af-rowlabel">Hero</span>
     <div class="af-row af-quest">
       <span class="af-box">1</span><span class="af-box">2</span><span class="af-box">3</span>
       <span class="af-box">4</span><span class="af-box">5</span><span class="af-box">6</span>
@@ -101,7 +101,7 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
       <span></span><span></span><span></span><span></span><span>&#8593;Ep</span><span></span><span></span><span></span><span>&#8593;Movie</span>
     </div>
   </div>
-  <p class="af-hint">Cross out the boxes you don't use &mdash; Episode is 3 Story Arc / 5 antagonist boxes, Movie is 6 / 9. The antagonist's <strong>&#9650; boxes are Closing In beats;</strong> its last box is the antagonist's win.</p>
+  <p class="af-hint">Cross out the boxes you don't use &mdash; Episode is 3 Hero / 5 antagonist boxes, Movie is 6 / 9. The antagonist's <strong>&#9650; boxes are Closing In beats;</strong> its last box is the antagonist's win.</p>
 
   <h3 class="af-break">The Antagonist</h3>
   <div class="af-line"><label>Who / what</label><span class="af-fill"></span></div>
@@ -109,7 +109,7 @@ One sheet per Story Arc. It holds the **Goal**, the **size**, the **Story Arc Tr
   <p class="af-hint">Give it a face &mdash; a person, a faction, or even a force (a desert, a plague, a deadline).</p>
 
   <h3>Milestones</h3>
-  <p class="af-hint">A concrete, pointable step toward the Goal. Number them to match the Story Arc Track boxes above. (Episode uses 1&ndash;3; Movie 1&ndash;6.)</p>
+  <p class="af-hint">A concrete, pointable step toward the Goal. Number them to match the Hero Track boxes above. (Episode uses 1&ndash;3; Movie 1&ndash;6.)</p>
   <div class="af-mscols">
     <div class="af-ms"><span class="af-mschk"></span><span class="af-num">1.</span><span class="af-fill"></span></div>
     <div class="af-ms"><span class="af-mschk"></span><span class="af-num">4.</span><span class="af-fill"></span></div>

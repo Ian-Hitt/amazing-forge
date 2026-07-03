@@ -28,10 +28,10 @@ Both heroes start at **9 Readiness.**
 2. Cross the Bottomless Chasm inside.
 3. Get the Crystal back from the Goblin King and escape.
 
-Their **antagonist** is the **Goblin King.** They draw the **Story Arc Track** (three boxes, one per Milestone) and, beneath it, the longer **Antagonist Track** (five boxes) for the King — and they're ready.
+Their **antagonist** is the **Goblin King.** They draw the **Hero Track** (three boxes, one per Milestone) and, beneath it, the longer **Antagonist Track** (five boxes) for the King — and they're ready.
 
 ```
-STORY ARC TRACK:    [ ]  [ ]  [ ]
+HERO TRACK:         [ ]  [ ]  [ ]
 ANTAGONIST TRACK:   [ ]  [ ]  [ ]  [ ]  [ ]
 ```
 
@@ -62,7 +62,7 @@ The door grinds open — success — *but* a Weak Hit means he **Pays the Price.
 That's the entrance found and open. **Milestone 1 complete — check the first box.**
 
 ```
-STORY ARC TRACK:   [X]  [ ]  [ ]
+HERO TRACK:        [X]  [ ]  [ ]
 ```
 
 > **▶ Rules note — Pay the Price (Chapter 4).** A Weak Hit still *succeeds* — the door opened. The price is a complication in the story (they've been heard) plus −1 Readiness. Snik narrated it himself, since it hit his hero.
@@ -130,7 +130,7 @@ CHALLENGE TRACK:   [X]  [X]  [X]   ← full!
 **Milestone 2 complete — check the second box.**
 
 ```
-STORY ARC TRACK:   [X]  [X]  [ ]
+HERO TRACK:        [X]  [X]  [ ]
 ```
 
 ---
@@ -180,7 +180,7 @@ After another exchange both heroes are down around 3 Readiness with one box left
 **Milestone 3 complete — the Story Arc is won.**
 
 ```
-STORY ARC TRACK:    [X]  [X]  [X]   ← last Milestone complete — Story Arc won!
+HERO TRACK:         [X]  [X]  [X]   ← last Milestone complete — Story Arc won!
 ANTAGONIST TRACK:   [X]  [ ]  [ ]  [ ]  [ ]   ← the King only ever got one box
 ```
 

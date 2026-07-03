@@ -9,7 +9,7 @@ Part One gave you the quick version in Chapter 6. This is the full toolkit: when
 
 **When the story stalls and nobody's sure what happens next,** work down this ladder and stop the moment you have something to play:
 
-- **Name the next Milestone.** Look at the Story Arc Track — the next scene is a step toward it.
+- **Name the next Milestone.** Look at the Hero Track — the next scene is a step toward it.
 - **Do the obvious.** Talk it out; run with what would clearly happen next in this movie.
 - **Roll the dice.** Roll the **Story Spark** (d6) for an open "what happens next," or **Ask the Dice** (d6) for a yes/no.
 
@@ -38,7 +38,7 @@ Work down the ladder below and **stop the moment you have something to play.** Y
 
 The single fastest way out of "stuck" is to name what the heroes are trying to do **right now.**
 
-Look at your **Story Arc Track** (Chapter 10). What's the next empty box — the next **Milestone?** That's your compass. The next scene is almost always "a step toward the next Milestone," and once you've named the Milestone, the scene usually names itself.
+Look at your **Hero Track** (Chapter 10). What's the next empty box — the next **Milestone?** That's your compass. The next scene is almost always "a step toward the next Milestone," and once you've named the Milestone, the scene usually names itself.
 
 If you haven't decided the next Milestone yet, decide one now. You're not inventing from nothing — pull from everything already on the table:
 

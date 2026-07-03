@@ -4,7 +4,7 @@ Even in a great session, the table sometimes goes quiet. A scene wraps up and no
 
 ### First, Name Your Next Milestone
 
-The fastest fix is to remember what the heroes are actually trying to do right now. Look at your Story Arc Track — what's the next box? The next scene is almost always "a step toward that Milestone." Once you've named it, the obvious next move usually appears on its own.
+The fastest fix is to remember what the heroes are actually trying to do right now. Look at your Hero Track — what's the next box? The next scene is almost always "a step toward that Milestone." Once you've named it, the obvious next move usually appears on its own.
 
 If you're still stuck, reach for one of these.
 

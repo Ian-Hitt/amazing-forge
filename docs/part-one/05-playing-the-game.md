@@ -33,7 +33,7 @@ When the group decides a moment is big enough to be a Challenge, here's how to r
 | **Weak Hit (7–9)** | Fill in **one box**, but **Pay the Price** (lose 1 Readiness). Progress with a complication. |
 | **Miss (6 or less)** | **No box.** **Pay the Price** (lose 2 Readiness). Things get worse. |
 
-**4. Fill the track to win.** The moment the last box is filled, the Challenge is over — the heroes overcome the obstacle. The enemy or hazard never had a health bar of its own; **filling the track *is* beating it.** If clearing this Challenge was the heart of a Milestone, check a box on your Story Arc Track.
+**4. Fill the track to win.** The moment the last box is filled, the Challenge is over — the heroes overcome the obstacle. The enemy or hazard never had a health bar of its own; **filling the track *is* beating it.** If clearing this Challenge was the heart of a Milestone, check a box on your Hero Track.
 
 That's the whole loop: describe, roll, mark a box (or pay the price), pass the dice, repeat until the track is full.
 

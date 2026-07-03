@@ -32,9 +32,9 @@ In Adventure, a price keeps the story *moving* — it rarely grinds it down. A s
 
 ### What a Story Arc looks like here
 
-**The promise:** *bold heroes brave a great danger and win through against the odds.* The Story Arc Track is how the table delivers it.
+**The promise:** *bold heroes brave a great danger and win through against the odds.* The Hero Track is how the table delivers it.
 
-Adventure is the genre where the Story Arc Track is easiest to picture: a **Milestone is a place reached or a foe overcome** (Chapter 10), and the track is the road to the goal. This is the shape every other genre borrows from, so it's worth seeing clearly.
+Adventure is the genre where the Hero Track is easiest to picture: a **Milestone is a place reached or a foe overcome** (Chapter 10), and the track is the road to the goal. This is the shape every other genre borrows from, so it's worth seeing clearly.
 
 **Good Milestones in Adventure:**
 

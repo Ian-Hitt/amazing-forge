@@ -94,19 +94,19 @@ the book. When reviewing a chapter, treat any deviation as an error to flag.
 | **Recovery Scene** | The fall-back-and-regroup move: the party heals **fully back to 9** — **free** (no roll, no cost to the antagonist's clock). Reliable; the quiet character beat. **Recovery never advances the Antagonist Track.** | rest, healing |
 | **Downtime** | The between-Story-Arcs reset: **restores any Broken Asset** (and handles Growth bookkeeping). Free; the antagonist's clock resets. (Recovery Scenes already heal the party fully, free, any time, so Downtime is not a healing move.) | long rest, Sojourn, victory bump |
 | **Out of Action** | When Readiness hits 0: the hero sits out the rest of the Scene (knocked out, never killed), **breaks an Asset,** and **advances the Antagonist Track** one box. Brought back by a Recovery Scene. | dead, KO'd, defeated |
-| **Story / Story Arc** | One spine — a single central dramatic question — tracked with a **Story Arc Track** (progress) and an **Antagonist Track** (the antagonist's clock). Sized **Episode** or **Movie** (the only two with box machinery). | Quest, mission, adventure |
+| **Story / Story Arc** | One spine — a single central dramatic question — tracked with a **Hero Track** (progress) and an **Antagonist Track** (the antagonist's clock). Sized **Episode** or **Movie** (the only two with box machinery). | Quest, mission, adventure |
 | **Episode** | A complete short Story — **3 Milestones, 5-box Antagonist Track** (Bad Guys Close In on 1·3·5) — told in ~one sitting. Same track size at any party count. | one-shot, session quest |
 | **Movie** | A complete feature Story — **6 Milestones, 9-box Antagonist Track** (Bad Guys Close In on 1·3·5·7·9) — told over ~2–3 sessions. Same track size at any party count. | feature film |
 | **Season** | A **collection** pattern (prose, no machinery): a run of Stories sharing a throughline. Not a box size. | arc (as the term), story arc |
 | **Series** | A **collection** pattern (prose): the whole game, a run of Seasons. Always a collection; no box size of its own. | campaign, saga |
-| **Story Arc Track** | A Story's progress track — one box per Milestone; filling it (completing the last Milestone) wins the Story. | Hero Track, Quest Track |
+| **Hero Track** | A Story's progress track — one box per Milestone; filling it (completing the last Milestone) wins the Story. Renamed from "Story Arc Track" 2026-07-03. | Story Arc Track, Quest Track |
 | **Antagonist Track** | The losing side of the same Story: the antagonist's clock — **Episode 5 boxes / Movie 9 boxes** (same at any party size). Advances **one box** in exactly three ways: a **Devil's Bargain,** a **Miss showing doubles,** or a hero going **Out of Action.** Its **odd boxes are Bad Guys Close In** beats (the narrated antagonist beat); even boxes are silent pressure; the **last box loses the Story.** | enemy clock, doom track |
 | **Devil's Bargain** | On a **Miss,** a hero *may* refuse the Readiness loss **and** upgrade the Miss to a **Strong Hit** — in exchange for advancing the Antagonist Track **one box.** Always optional; **never allowed on a roll that would knock the hero Out of Action.** The main engine of the antagonist's climb. | — |
 | **Bad Guys Close In** | The narrated antagonist beat played out when an **odd box** of the Antagonist Track fills (1·3·5, plus 7·9 on a Movie): cut away and show the antagonist closing in — gaining ground on-screen. Even boxes pass silently. The **last box is the antagonist's victory.** The short form **"Closing In"** is the abbreviation printed on the physical Story Arc sheet only. | the Surge, the Attack (both retired); Closing In (sheet short form) |
 | **Fall back** | Retreating from a losing Challenge (losing its progress) to regroup — handled as a **Recovery Scene** (full heal, **free**, no antagonist advance). | Flee, retreat (as the mechanic) |
 | **Quit the Story Arc** | Giving up a Story entirely — the terminal fall back; the bad guys win. | forfeit, surrender |
 | **Start a Story Arc** | The opening roll made once when a Story Arc begins — a **d6 oracle** roll (**generative** — no failure): sets how it opens — **5–6** *Clear purpose* / **3–4** *A general idea* / **1–2** *Trouble finds you first*. | Swear an Iron Vow |
-| **Milestone** | A chapter of the story (a collection of Scenes); checks one Story Arc Track box. Every 3rd Milestone earns each hero 1 Growth. | objective, step |
+| **Milestone** | A chapter of the story (a collection of Scenes); checks one Hero Track box. Every 3rd Milestone earns each hero 1 Growth. | objective, step |
 | **Scene** | A single beat of play — one or a few Regular Rolls, or a full Challenge. Milestones are made of Scenes. | — |
 | **Challenge** | An active multi-roll obstacle + its track. | encounter, scene (as a mechanic) |
 | **Challenge Track** | The box row you fill during a Challenge. | — |
@@ -200,7 +200,7 @@ picks two Stats and three Assets, and sets their starting Readiness (Section 4).
 ### Step 4: Draw the Tracks
 
 Draw a row of boxes for the **Heroes** — one box per Milestone (e.g., 3 milestones = 3
-boxes). This is the **Story Arc Track.**
+boxes). This is the **Hero Track.**
 
 Then draw a second, identical row underneath for the **Antagonist Track** (Section 6) — same
 number of boxes. Every Story Arc has both tracks; the Antagonist Track is the bad guys racing you,
@@ -583,10 +583,10 @@ generative tiers of Start a Story Arc).*
 
 The story is a race between the Heroes and the Antagonist.
 
-### The Story Arc Track
+### The Hero Track
 
 A **Story** is one spine — a single central dramatic question — tracked with two paired rows of
-boxes. The **Story Arc Track** is the heroes' progress: **mark a box whenever the table agrees you
+boxes. The **Hero Track** is the heroes' progress: **mark a box whenever the table agrees you
 made significant headway — a Milestone.** Fill the track — completing the last Milestone — and the
 heroes **win the Story** at its **climax** (there's no separate finishing roll; the closing Milestone
 is simply the final, usually climactic, Challenge).
@@ -594,12 +594,12 @@ is simply the final, usually climactic, Challenge).
 **Two story sizes — Episode and Movie.** A Story is one of two sizes, and these are the *only* two
 with their own box machinery:
 
-| Size | Story Arc Track | Antagonist Track | Feels like |
+| Size | Hero Track | Antagonist Track | Feels like |
 |---|---|---|---|
 | **Episode** | **3 Milestones** | **5 boxes** (Bad Guys Close In on 1·3·5) | one TV episode, told in one sitting |
 | **Movie** | **6 Milestones** | **9 boxes** (Bad Guys Close In on 1·3·5·7·9) | a feature film, over ~2–3 sessions |
 
-The Story Arc Track box count is a default, not a lock — a meaty Episode can stretch a Milestone or
+The Hero Track box count is a default, not a lock — a meaty Episode can stretch a Milestone or
 two. The **Antagonist Track is the same size at any party count** (no duo/large-group special case):
 because Challenges are sized by difficulty alone (Section 7), total rolls per Story stay about the
 same whatever the table size, so the clock fills at about the same rate for everyone. Its **odd boxes
@@ -657,7 +657,7 @@ The result sets the *temperature* of the first Scene; the content always points 
 Milestone**. First games (Part One) skip the roll and simply open in media res (Ch.3).
 
 > ✅ **DECIDED — Start a Story Arc opening roll (2026-06-09; reworked to a d6 oracle 2026-06-27).** A
-> **Progress move** that opens a Story Arc track rather than resolving a hero's attempt. **It is an
+> **Progress move** that opens a Story Arc rather than resolving a hero's attempt. **It is an
 > oracle roll** — nothing here involves a character *doing* something, so it reuses the bare
 > single-**d6** Ask the Oracle mechanic (Ch.11) rather than the 2d6 core roll. **Generative, not
 > adjudicative** — no hero is tested, so there is no failure; the three bands (**5–6** *Clear purpose*
@@ -680,7 +680,7 @@ The Antagonist Track is **the losing side of the same Story** — not a separate
 Story's other end. It is **Episode 5 boxes / Movie 9 boxes** (same at any party size). Its boxes fill
 as the antagonist gains ground during play; its **odd boxes are Bad Guys Close In** beats (the narrated antagonist beat),
 its even boxes are silent pressure, and its **last box is the antagonist's victory** — fill it before the
-heroes finish their Story Arc Track and the bad guys win. The Story is a race: complete your final
+heroes finish their Hero Track and the bad guys win. The Story is a race: complete your final
 Milestone with the antagonist **one step from winning** — the **photo-finish** — or fall before you reach it.
 
 > ✅ **DECIDED — how the Antagonist Track advances: the Devil's Bargain spine (2026-06-25).**
@@ -742,7 +742,7 @@ just like a movie. A Scene is a single beat of play: it might be one or two quic
 Rolls** (search the room, talk your way past a guard), or it might be a big enough moment to
 run as a full **Challenge** (Section 7). A Milestone usually strings several Scenes together;
 it is **not** the same thing as a single Challenge. When the heroes have played through the
-Scenes that make up a Milestone and accomplished it, check a box on the Story Arc Track.
+Scenes that make up a Milestone and accomplished it, check a box on the Hero Track.
 
 (Occasionally a Milestone *is* small enough to resolve in a single Scene — even one Regular
 Roll — but the typical Milestone is a short sequence of Scenes building to its payoff.)
@@ -860,7 +860,7 @@ never advances it.)
 The Challenge ends the moment the last empty box is filled.
 
 - The obstacle is cleared and the heroes complete the current Milestone.
-- Immediately check off 1 box on the Story Arc Track.
+- Immediately check off 1 box on the Hero Track.
 - Wipe the scrap paper clean of the Challenge Track.
 
 There is no separate "finishing blow." Filling the last box *is* the win — even the climactic Challenge that ends a Story Arc ends the instant its track fills.
@@ -1017,7 +1017,7 @@ the difficulty of future Challenges to move the story along.
 ### 2. Milestone Timing (The One-Hour Rule)
 
 The Milestone is the most powerful pacing tool. Because nothing strictly defines a
-Milestone, you can complete them as fast or slow as needed. Since the Story Arc Track shows
+Milestone, you can complete them as fast or slow as needed. Since the Hero Track shows
 exactly how many remain, you can gauge your position:
 
 - **The ~3-Hour Adventure** — an Episode (3 boxes) finishes in ~3 hours at roughly one
@@ -1075,7 +1075,7 @@ is the Co-op engine for keeping the movie rolling without a Guide (a Guide can l
 too). Work down the list and stop the moment you have something to play.
 
 **First, find your next Milestone.** The fastest way to get unstuck is to name what the
-heroes are trying to do *right now*. Look at your Story Arc Track — what's the next box? If you
+heroes are trying to do *right now*. Look at your Hero Track — what's the next box? If you
 haven't decided the next Milestone yet, decide one now, pulling from everything already on
 the table: your **Worldbuilding** answers (the Threats, the Forbidden, the Leadership, the
 Reputation), the characters and their Assets, the **NPCs and places you've already met or

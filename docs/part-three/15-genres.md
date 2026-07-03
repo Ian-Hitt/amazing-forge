@@ -62,7 +62,7 @@ Each kit is a **launchpad, not a finished world.** It hands you the *kind* of st
 
 - **An intro & the feel** — a quick orientation to the genre and the mood you're going for, including how it plays at each end of the dial.
 - **Pay the Price here** — what a Weak Hit or Miss looks like in this genre, as a menu of examples. This is the single biggest lever on tone.
-- **What a Story Arc looks like here** — how the Story Arc Track and its Milestones (Chapter 10) read in this genre, so you can picture a Story Arc at every scale.
+- **What a Story Arc looks like here** — how the Hero Track and its Milestones (Chapter 10) read in this genre, so you can picture a Story Arc at every scale.
 - **Tempo** — how fast this genre fills its boxes: Adventure races, Horror smolders, and the rest sit in between.
 - **Telling these stories** — table-side tips: what scenes look like, what your Challenges tend to be, how to lean into the feel, and the traps to avoid.
 - **A scene at the table** — a short worked example showing the genre's feel in actual play.

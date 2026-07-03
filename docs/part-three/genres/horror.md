@@ -31,9 +31,9 @@ In Horror the dread *tightens* rather than the wound bleeds. **Readiness** here 
 
 ### What a Story Arc looks like here
 
-**The promise:** *something is wrong and closing in — and you survive it, or escape.* The Story Arc Track is how the table delivers it.
+**The promise:** *something is wrong and closing in — and you survive it, or escape.* The Hero Track is how the table delivers it.
 
-In Horror, the Story Arc Track isn't a march toward a prize — it's an **ordeal to *endure*, and each Milestone is a step toward surviving, escaping, or understanding** (Chapter 10). A filled box is ground held against the dread, not territory taken from it.
+In Horror, the Hero Track isn't a march toward a prize — it's an **ordeal to *endure*, and each Milestone is a step toward surviving, escaping, or understanding** (Chapter 10). A filled box is ground held against the dread, not territory taken from it.
 
 **Good Milestones in Horror:**
 

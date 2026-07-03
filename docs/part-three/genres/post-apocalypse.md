@@ -31,9 +31,9 @@ A price in Post-Apocalypse is *scarcity and risk closing in* — the resource th
 
 ### What a Story Arc looks like here
 
-**The promise:** *survivors scrape a life from the ruins — and decide what's worth rebuilding.* The Story Arc Track is how the table delivers it.
+**The promise:** *survivors scrape a life from the ruins — and decide what's worth rebuilding.* The Hero Track is how the table delivers it.
 
-In Post-Apocalypse, the Story Arc Track is the **fight to secure, reach, or rebuild something, and each Milestone is a hard-won piece of it** (Chapter 10): a resource locked down, a haven reached, a wall raised, a neighbor won over. A filled box is ground taken back from the wasteland — not a treasure, but a *foothold.*
+In Post-Apocalypse, the Hero Track is the **fight to secure, reach, or rebuild something, and each Milestone is a hard-won piece of it** (Chapter 10): a resource locked down, a haven reached, a wall raised, a neighbor won over. A filled box is ground taken back from the wasteland — not a treasure, but a *foothold.*
 
 **Good Milestones in Post-Apocalypse:**
 

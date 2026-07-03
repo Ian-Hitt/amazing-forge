@@ -31,9 +31,9 @@ In Mystery the danger is to your *progress* and your *relationships*, almost nev
 
 ### What a Story Arc looks like here
 
-**The promise:** *a secret unravels clue by clue, until the truth clicks into place.* The Story Arc Track is how the table delivers it.
+**The promise:** *a secret unravels clue by clue, until the truth clicks into place.* The Hero Track is how the table delivers it.
 
-In Mystery, the Story Arc Track is the **path to the truth, and every Milestone is a layer of it** (Chapter 10) — a clue confirmed, a lie peeled back, a suspect cleared or damned. A filled track *is* the solution. The crucial rule: don't hide the answer behind one perfect roll. Spread it across the boxes, so the case always inches forward.
+In Mystery, the Hero Track is the **path to the truth, and every Milestone is a layer of it** (Chapter 10) — a clue confirmed, a lie peeled back, a suspect cleared or damned. A filled track *is* the solution. The crucial rule: don't hide the answer behind one perfect roll. Spread it across the boxes, so the case always inches forward.
 
 **Good Milestones in Mystery:**
 

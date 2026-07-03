@@ -86,7 +86,7 @@ When the track fills:
 - The obstacle is overcome and the heroes complete whatever this Scene was driving toward.
 - Wipe the scrap-paper Challenge Track clean. It's done its job.
 
-**A Challenge is not a Milestone.** A Challenge is just a Scene with extra camera time — winning one doesn't, by itself, mark a box on the **Story Arc Track.** You mark a **Milestone** when the *story* takes a significant step toward the heroes' goal (Chapter 10). That often coincides with clearing a big Challenge — but it's the *progress* that earns the Milestone, not the Challenge itself, and plenty of Challenges resolve without marking one at all.
+**A Challenge is not a Milestone.** A Challenge is just a Scene with extra camera time — winning one doesn't, by itself, mark a box on the **Hero Track.** You mark a **Milestone** when the *story* takes a significant step toward the heroes' goal (Chapter 10). That often coincides with clearing a big Challenge — but it's the *progress* that earns the Milestone, not the Challenge itself, and plenty of Challenges resolve without marking one at all.
 
 ### Falling Back from a Challenge
 
