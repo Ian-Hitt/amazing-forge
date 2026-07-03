@@ -31,7 +31,7 @@ Write a one-line "movie-poster" pitch for your hero — *an Ice-Dragon Knight*, 
 
 #### Step 2: Stats
 
-**Pick two** of the five Stats below — the broad kinds of action your hero is built for. When your hero takes action using one of their two Stats, they get **+1** to the roll (more on that in **The Roll**, below). You don't argue Stats; you just ask what the action calls for.
+**Pick two** of the five Stats below — the broad kinds of action your hero is built for. When your hero takes action using one of their two Stats, they get **+1** to the roll (more on that in **The Roll**, below).
 
 - **Strong** — force, toughness
 - **Quick** — speed, reflexes, aim
