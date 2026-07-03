@@ -80,13 +80,13 @@ The **Hero Track** fills one box per **Milestone** — a significant, pointable 
 
 #### The Antagonist Track
 
-The **Antagonist Track** represents the antagonist's progress toward their goal. It advances one box in exactly three ways *(each a rule explained further down; for now, just know these are the three things that tick the track up)*:
+The **Antagonist Track** represents the antagonist's progress toward their goal. It advances one box in exactly three ways *(each a rule explained further down; for now, just know these are how it fills up)*:
 
 1. A hero takes the **Devil's Bargain.**
 2. A **Miss comes up doubles.**
 3. A hero goes **Out of Action.**
 
-Its **odd boxes** are **"Bad Guys Close In"** beats — when one fills, stop and play it out: cut to the antagonist gaining ground (on the printable sheet, shortened to *"Closing In"*). Fill its **last box** and the antagonist wins — so going down near the end can lose the Story before your final Milestone, which is why falling back to recover is smart when you're battered. You can also **Quit the Story Arc** outright — no penalty; the loss just seeds the next Story.
+The **odd boxes on the Antagonist Track** are **"Bad Guys Close In"** beats — when one fills, stop and play it out: cut to the antagonist gaining ground (on the printable sheet, shortened to *"Closing In"*). Fill its **last box** and the antagonist wins — so going down near the end can lose the Story before your final Milestone, which is why falling back to recover is smart when you're battered. You can also **Quit the Story Arc** outright — no penalty; the loss just seeds the next Story.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Story Arc <span class="lca-when">— the opening roll</span></p>
