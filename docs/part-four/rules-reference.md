@@ -4,17 +4,26 @@
 
 **What this is.** A **genre-agnostic, zero-prep storytelling game** — the same rules tell *any* kind of story (fantasy, sci-fi, mystery, horror, heist, drama, and on). Nobody writes the adventure ahead of time: you build a world, play the heroes, and **make the story up together as you go**, either with a **Guide** or fully **Co-op** (no Guide at all). The mechanics are the tools that turn that improvised story into cinematic drama — "prep" *is* play.
 
-**What you need:** two six-sided dice, pencil and paper, this reference, and **2 to 6 players.** (Up to six players means five heroes plus a Guide; for five or six players we recommend one person take the Guide's chair.)
+**What you need:** two six-sided dice, pencil and paper, this reference, and **2 to 6 players.**
 
 ---
 
 ## Starting the Game
 
-*Build your heroes and set up the Story Arc — everything before the first roll.*
+*Choose how you'll play, build your heroes, and set up the Story Arc — everything before the first roll.*
+
+### Choose Your Mode
+
+First, decide how the table will play:
+
+- **Guided** — one player is the **Guide.** They run the world, the antagonist, and the pacing instead of playing a hero.
+- **Co-op** — no Guide; the whole group shares those duties and leans on **Ask the Oracle** to find what happens next.
+
+If you're playing Guided, pick who takes the Guide's chair now. Everyone else builds a hero. *(More on each mode under [Running the Game](#running-the-game).)*
 
 ### Heroes
 
-Each player builds one hero in about five minutes. A hero is four things: a **Concept**, two **Stats**, three **Assets**, and **Readiness**.
+Each player (except for a Guide) builds one hero in about five minutes. A hero is four things: a **Concept**, two **Stats**, three **Assets**, and **Readiness**.
 
 The **Concept** is a one-line "movie poster" pitch — *an Ice-Dragon Knight*, *a Grumpy Goblin Alchemist*. It's flavor, not a number, but it anchors everything else.
 
