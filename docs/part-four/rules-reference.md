@@ -70,18 +70,21 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 
 *Story Arc length — chosen when you build the Story Arc — sets the size of both tracks.*
 
-**Bad Guys Close In** is the move you stop and play out when an odd box fills — cut the camera to the antagonist and show them gaining ground. (On the printable Story Arc sheet it's shortened to just *"Closing In"* to save space.) **Season** and **Series** are *collections* of Story Arcs, not lengths — run long by **chaining** Stories (plan the big arc up front, or let it emerge from play — either works).
+**Season** and **Series** are *collections* of Story Arcs, not lengths — run long by **chaining** Stories (plan the big arc up front, or let it emerge from play).
 
-- A **Milestone** is a significant, pointable win on the way to the Goal — **overcoming a major obstacle, learning something crucial, reaching a key place, securing something vital, winning someone over, or beating a notable threat.** Mark a box when the heroes land one. *(These tend to run about an hour of play apiece — a few Scenes, 1–2 of them Challenges — a handy gauge for pacing.)*
-- **Win** by completing the last Milestone — filling the Hero Track. (The closing Milestone is usually a climactic **Hard** or **Epic** Challenge; finishing its track wins the Story.) **Lose** if the Antagonist Track fills, or if you **Quit the Story Arc** (give it up — no penalty; the loss seeds the next Story).
+#### The Hero Track
 
-**The Antagonist Track advances one box** in exactly three ways. *(Each is a rule explained further down in this reference — under The Roll and Readiness; for now, just know these are what make the antagonist's clock climb.)*
+The **Hero Track** fills one box per **Milestone** — a significant, pointable win on the way to the Goal: overcoming a major obstacle, learning something crucial, reaching a key place, securing something vital, winning someone over, or beating a notable threat. Mark a box when the heroes land one; fill the last one to reach the **climax** and win the Story. *(A Milestone tends to run about an hour of play — a few Scenes, 1–2 of them Challenges; the closing one is usually a climactic **Hard** or **Epic** Challenge.)*
+
+#### The Antagonist Track
+
+The **Antagonist Track** is the antagonist's race. It advances one box in exactly three ways *(each a rule explained further down — under The Roll and Readiness; for now, just know these are what make the clock climb)*:
 
 1. A hero takes the **Devil's Bargain** — the main engine: buying a win now for a step toward defeat.
 2. A **Miss comes up doubles** — the dice turning against you.
 3. A hero goes **Out of Action.**
 
-Fill its **last box** and the antagonist wins — so going down near the end can lose the Story before you finish your final Milestone, which is exactly why falling back to recover is the smart play when you're battered.
+Its **odd boxes are Bad Guys Close In beats** — stop and play one out: cut to the antagonist gaining ground (on the printable sheet, shortened to *"Closing In"*). Fill its **last box** and the antagonist wins — so going down near the end can lose the Story before your final Milestone, which is why falling back to recover is smart when you're battered. You can also **Quit the Story Arc** outright — no penalty; the loss just seeds the next Story.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Story Arc <span class="lca-when">— the opening roll</span></p>
