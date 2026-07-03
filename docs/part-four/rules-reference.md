@@ -21,6 +21,10 @@ First, decide how the table will play:
 
 If you're playing Guided, pick who takes the Guide's chair now. Everyone else builds a hero. *(More on each mode under [Running the Game](#running-the-game).)*
 
+### One Story, or a Collection?
+
+Then decide the scope: are you playing **one Story** — complete on its own — or a **collection** of Stories chained into a longer saga? A run of linked Stories is a **Season;** a run of Seasons is a **Series.** You don't have to commit now — start with a single Story and let a bigger arc emerge if it wants to. *(How a single Story is sized comes up when you build it, under [Story Arcs & Milestones](#story-arcs-milestones), below.)*
+
 ### Heroes
 
 Each player (except for a Guide) builds one hero in about five minutes. A hero is four things: a **Concept**, two **Stats**, three **Assets**, and **Readiness**.
@@ -70,15 +74,13 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 
 *Story Arc length — chosen when you build the Story Arc — sets the size of both tracks.*
 
-**Season** and **Series** are *collections* of Story Arcs, not lengths — run long by **chaining** Stories (plan the big arc up front, or let it emerge from play).
-
 #### The Hero Track
 
 The **Hero Track** fills one box per **Milestone** — a significant, pointable win on the way to the Goal: overcoming a major obstacle, learning something crucial, reaching a key place, securing something vital, winning someone over, or beating a notable threat. Mark a box when the heroes land one; fill the last one to reach the **climax** and win the Story. *(A Milestone tends to run about an hour of play — a few Scenes, one or two of them **Challenges** — more on those under [Challenges](#challenges), below.)*
 
 #### The Antagonist Track
 
-The **Antagonist Track** represents the antagonist's progress toward their goal. It advances one box in exactly three ways *(each a rule explained further down — under The Roll and Readiness; for now, just know these are the three things that tick the track up)*:
+The **Antagonist Track** represents the antagonist's progress toward their goal. It advances one box in exactly three ways *(each a rule explained further down; for now, just know these are the three things that tick the track up)*:
 
 1. A hero takes the **Devil's Bargain** — the main engine: buying a win now for a step toward defeat.
 2. A **Miss comes up doubles** — the dice turning against you.
