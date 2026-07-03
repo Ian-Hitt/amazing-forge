@@ -94,6 +94,10 @@ Every other box on the Antagonist Track — the **odd boxes** — is a **"Bad Gu
 
 Fill the **last box** of the Antagonist Track and the antagonist wins — you lose the Story. (Not the whole game: heroes can't die, and a lost Story just seeds the next one.) You can also **Quit the Story Arc** outright at any time: give it up, no penalty.
 
+#### Start a Story Arc
+
+With the Goal, the antagonist, and the tracks in place, one last roll launches the adventure. **Start a Story Arc** sets the *tone* of your opening — confident, uncertain, or already in trouble — and points you straight at the first scene, so play begins in motion instead of stalling on "so… what do we do first?"
+
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Story Arc <span class="lca-when">— the opening roll</span></p>
 
