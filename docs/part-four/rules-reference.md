@@ -60,7 +60,7 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 1. **Name the Goal** — a one-sentence victory condition.
 2. **Name the antagonist** — a person, faction, or *force* (a desert, a plague, a deadline). Give it a face and a goal of its own.
 3. **Pick a length** — Episode or Movie (table below). This determines the size of both the Hero Track and the Antagonist Track.
-4. **List your Milestones** — the concrete, pointable steps to the Goal (you'll know each the moment it's done): **3** for an Episode, **6** for a Movie.
+4. **List at least one Milestone** — a major success that pushes you toward the Story Arc's Goal.
 5. **Draw the two tracks**, then make the opening roll (below).
 
 | Length | Milestones | Antagonist Track | "Bad Guys Close In" on | Plays in |
