@@ -101,11 +101,11 @@ With the Goal, the antagonist, and the tracks in place, one last roll launches t
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Story Arc <span class="lca-when">— the opening roll</span></p>
 
-**When a new Story Arc begins,** roll a single **d6** — an oracle roll (generative; you can't fail it) — to set the opening:
+**When a new Story Arc begins,** roll a single **d6** to set the opening:
 
-- **5–6 — Clear purpose:** open *in medias res* on the first Milestone.
-- **3–4 — A general idea:** they know the goal, not yet how to act on it.
-- **1–2 — Trouble finds you first.**
+- **5–6:** Clear purpose — open *in medias res* on the first Milestone.
+- **3–4:** A general idea — they know the goal, not yet how to act on it.
+- **1–2:** Trouble finds you first.
 </div>
 
 ## Playing the Game
