@@ -41,7 +41,7 @@ Write a one-line "movie-poster" pitch for your hero — *an Ice-Dragon Knight*, 
 
 #### Step 3: Assets
 
-**Choose three Assets** — the specific tools, training, and ties that flesh out your Concept. A fitting Asset gives **+1** too, so a fitting Stat *and* a fitting Asset together give **+2**. Keep each broad enough to come up often but specific enough that it clearly doesn't cover everything. Need a starting point? Answer these three questions (you don't have to, and you can swap freely):
+**Choose three Assets** — the specific tools, training, and ties that flesh out your Concept. When your hero takes action using one of their three Assets, they get **+1** to the roll (more on that in **The Roll**, below). Keep each broad enough to come up often but specific enough that it clearly doesn't cover everything. Need a starting point? Answer these three questions (you don't have to, and you can swap freely):
 
 1. **What are they known for?** — a role or signature skill (*Ace Pilot · Tracker · Field Medic*).
 2. **What's the one thing they're never without?** — a signature item, companion, or connection that's loaded with story.
