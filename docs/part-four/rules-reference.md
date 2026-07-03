@@ -92,7 +92,7 @@ Every other box on the Antagonist Track — the **odd boxes** — is a **"Bad Gu
 
 #### Losing the Game
 
-Fill the **last box** of the Antagonist Track and the antagonist wins — you lose the Story. (Not the whole game: heroes can't die, and a lost Story just seeds the next one.) This is what makes going **Out of Action** near the end so dangerous — a knockout can fill that final box before you complete your last Milestone — so when you're battered, falling back to recover is the smart play. You can also **Quit the Story Arc** outright at any time: give it up, no penalty.
+Fill the **last box** of the Antagonist Track and the antagonist wins — you lose the Story. (Not the whole game: heroes can't die, and a lost Story just seeds the next one.) You can also **Quit the Story Arc** outright at any time: give it up, no penalty.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Story Arc <span class="lca-when">— the opening roll</span></p>
