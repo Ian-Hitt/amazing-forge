@@ -32,6 +32,29 @@
 // pandoc's typst writer emits `#horizontalrule` for `---` thematic breaks
 #let horizontalrule = align(center)[#v(0.3em) #line(length: 28%, stroke: 0.6pt + soft) #v(0.3em)]
 
+// move card — the print equivalent of the website's `.lca-move` (see
+// docs/stylesheets/extra.css): a full-bordered box with a thick accent left
+// edge, a name in accent, and an optional italic "when" descriptor. The SRD
+// build rewrites each %%%LCAMOVE|name|when%%% marker into a call to this.
+#let lca-move(name: [], when: [], body) = block(
+  width: 100%,
+  inset: (left: 11pt, rest: 9pt),
+  above: 1.0em, below: 1.0em,
+  fill: callout-bg,
+  stroke: (left: 3.5pt + accent, rest: 0.5pt + soft.lighten(35%)),
+  radius: 3pt,
+  breakable: true,
+)[
+  #block(above: 0pt, below: 0.5em)[
+    #text(font: sans, weight: 700, fill: accent, size: 11pt)[#name]
+    #if when != [] {
+      text(font: sans, style: "italic", fill: soft, size: 9pt)[ #sym.dash.em #when]
+    }
+  ]
+  #set par(first-line-indent: 0pt)
+  #body
+]
+
 // running-head state: current Part and Chapter
 #let cur-part = state("cur-part", none)
 #let cur-chap = state("cur-chap", none)

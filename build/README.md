@@ -26,6 +26,27 @@ docs/*.md  ──pandoc (gfm → Typst)──▶  content.typ  ──book.typ te
 
 Requires `pandoc` and `typst` (`brew install pandoc typst`).
 
+### Standalone SRD booklet
+
+The System Reference Document (`docs/part-four/rules-reference.md`) also builds on its
+own as a compact 6×9 booklet — the whole game in ~15 pages:
+
+```bash
+./build/build-srd-pdf.sh          # → build/Lights-Camera-Action-SRD.pdf
+./build/build-srd-pdf.sh print    # → build/Lights-Camera-Action-SRD-print.pdf  (B&W-priced)
+```
+
+Pipeline: `rules-reference.md ──srd-preprocess.py──▶ pandoc ──marker rewrite──▶ srd.typ ──▶ PDF`.
+
+- **`srd-preprocess.py`** rewrites the web SRD's raw-HTML `.lca-move` move cards (which
+  Pandoc would otherwise drop) into `%%%LCAMOVE|name|when%%%` sentinels.
+- **`build-srd-pdf.sh`** runs Pandoc, rewrites those sentinels into `#lca-move(…)` card
+  calls, unwraps intra-doc anchor links (MkDocs slugs that don't resolve in print), and
+  compiles with **`srd.typ`** — an SRD title/CC-BY page, a depth-2 reference TOC, and
+  lighter section openers. Shares fonts, colors, and the `lca-move` card style with the
+  book build via `lib.typ`.
+- **`content-srd.typ`** is generated each run; do not edit by hand.
+
 **Color vs. print.** The default build uses the deep-orange accent + warm table/callout
 tints — free on screen, on-brand for the website. The `print` build swaps every chromatic
 color for ink-black / neutral gray so a print-on-demand service (KDP, DriveThruRPG)

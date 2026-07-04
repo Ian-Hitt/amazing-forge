@@ -3,6 +3,7 @@ site/
 
 # PDF build — generated artifacts (the scripts build/*.typ and build/*.sh stay tracked)
 build/content.typ
+build/content-srd.typ
 build/*.pdf
 build/preview/
 
