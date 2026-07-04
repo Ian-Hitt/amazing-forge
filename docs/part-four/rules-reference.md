@@ -358,7 +358,7 @@ A session runs one of two ways. **Guided:** one person runs the world, the NPCs,
 When the story stalls and the table isn't sure what happens next — especially in Co-op, where this is the engine that generates the story — Ask the Oracle. First, name the next **Milestone** and do the **obvious** thing. If you'd rather be surprised, hand it to the dice with one of two tools:
 
 - **Story Spark (d6)** — *what happens next:* **1** a new face · **2** a discovery · **3** the threat closes in · **4** a door opens · **5** a cost surfaces · **6** a hard choice. Bend the result toward your next Milestone.
-- **Ask the Dice (1d6)** — *for a yes/no question:* **1** no, and worse · **2–3** no · **4–5** yes · **6** yes, and better. (+1 if a yes is likely, −1 if unlikely.)
+- **Ask the Dice (d6)** — *for a yes/no question:* **1** no, and worse · **2–3** no · **4–5** yes · **6** yes, and better. (+1 if a yes is likely, −1 if unlikely.)
 
 # Between Adventures
 
