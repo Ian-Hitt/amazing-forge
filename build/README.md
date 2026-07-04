@@ -69,8 +69,12 @@ visibly placed — ideal for a designer handoff.
 
 - **Drop in art:** save `build/art/<ID>.<ext>` (`png`/`jpg`/`svg`/`webp`), e.g. `build/art/D1.png`.
   Re-run `./build/build-pdf.sh` — the box is replaced by the image. No code change.
-- **Wired slots:** `C2` frontispiece · `D1`–`D4` part dividers · `G1`–`G7` genre plates ·
+- **Fixed slots:** `C2` frontispiece · `D1`–`D4` part dividers · `G1`–`G7` genre plates ·
   `O1` reusable chapter-opener motif (same image on every chapter head).
+- **Inline slots** (spots, diagrams): drop a marker in the Markdown where the art goes —
+  `<!--art:ID|caption|height-->` on its own line. It's an HTML comment, so it's invisible on
+  the website and in the SRD; only this build turns it into a slot. `caption`/`height`
+  optional. Same drop-in rule (`build/art/ID.ext` → image; else placeholder box).
 - `build/art/` is **gitignored** — placeholder art stays local, off the public repo.
 - Mechanics: `art-placeholder` / `art-image` live in `lib.typ`; `part-divider(..., slot:, art:)`
   carries the divider art; `O1`/`C2` are passed to Typst as `--input opener=…` / `frontispiece=…`.

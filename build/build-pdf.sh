@@ -30,6 +30,14 @@ art_path() { # $1 = slot ID
   done
 }
 
+# Inline art markers. Authors drop <!--art:ID|caption|height--> in the prose to
+# mark a spot/diagram slot (S1, S2, F1–F7, …). It's an HTML comment, so it's
+# invisible on the website; here we convert it to a %%%ART%%% sentinel that
+# survives Pandoc (which would otherwise drop HTML comments). A post-assembly
+# pass (rewrite_art_markers below) turns each sentinel into #art-image (if a file
+# named by ID exists in build/art/) or #art-placeholder. caption/height optional.
+artmark() { sed -E 's/<!--[[:space:]]*art:([^>]*)-->/%%%ART:\1%%%/g'; }
+
 # Output mode:  (default) full color for digital  |  "print" = B&W-priced interior
 MODE_INPUT=()
 OUT="$BUILD/Lights-Camera-Action.pdf"
@@ -83,7 +91,7 @@ md2typ() { # $1 = docs-relative path -> append Typst markup to $CONTENT
       md2typ_genre "$1" "$slot" "$cap"
       ;;
     *)
-      "$PANDOC" "$DOCS/$1" -f gfm -t typst --wrap=preserve >> "$CONTENT"
+      artmark < "$DOCS/$1" | "$PANDOC" -f gfm -t typst --wrap=preserve >> "$CONTENT"
       printf '\n\n' >> "$CONTENT"
       ;;
   esac
@@ -91,7 +99,7 @@ md2typ() { # $1 = docs-relative path -> append Typst markup to $CONTENT
 
 md2typ_genre() { # $1 file, $2 slot ID, $3 caption — insert the plate after the H1
   local tmp art img; tmp="$(mktemp)"
-  "$PANDOC" "$DOCS/$1" -f gfm -t typst --wrap=preserve > "$tmp"
+  artmark < "$DOCS/$1" | "$PANDOC" -f gfm -t typst --wrap=preserve > "$tmp"
   img="$(art_path "$2")"
   if [[ -n "$img" ]]; then art="#art-image(\"$img\", width: 100%)"
   else art="#art-placeholder(\"$2\", \"$3\", height: 3.6in)"; fi
@@ -102,7 +110,7 @@ md2typ_genre() { # $1 file, $2 slot ID, $3 caption — insert the plate after th
 
 md2typ_intro() { # like md2typ, but drop the leading H1 so the part-intro doesn't
                  # duplicate the part-divider title that immediately precedes it
-  sed '1{/^#\{1,2\} /d;}' "$DOCS/$1" | "$PANDOC" -f gfm -t typst --wrap=preserve >> "$CONTENT"
+  sed '1{/^#\{1,2\} /d;}' "$DOCS/$1" | artmark | "$PANDOC" -f gfm -t typst --wrap=preserve >> "$CONTENT"
   printf '\n\n' >> "$CONTENT"
 }
 
@@ -147,6 +155,36 @@ sed -i '' \
   -e 's/columns: 3,/columns: (auto, 1fr, 1fr),/g' \
   -e 's/columns: 4,/columns: (auto, 1fr, 1fr, 1fr),/g' \
   "$CONTENT"
+
+# Inline art-marker sentinels -> #art-image / #art-placeholder. Each %%%ART:ID|
+# caption|height%%% becomes an image if build/art/ID.<ext> exists, else a labeled
+# placeholder box. caption defaults to the ID; height defaults to 2.4in.
+echo "→ placing inline art slots"
+ROOT="$ROOT" CONTENT="$CONTENT" python3 - <<'PY'
+import os, re
+root, content = os.environ["ROOT"], os.environ["CONTENT"]
+exts = ("png", "jpg", "jpeg", "svg", "webp")
+def art_path(slot):
+    for e in exts:
+        p = f"/build/art/{slot}.{e}"
+        if os.path.isfile(root + p):
+            return p
+    return None
+def repl(m):
+    parts = [p.strip() for p in m.group(1).split("|")]
+    slot = parts[0]
+    caption = parts[1] if len(parts) > 1 and parts[1] else slot
+    height = parts[2] if len(parts) > 2 and parts[2] else "2.4in"
+    p = art_path(slot)
+    if p:
+        return f'#art-image("{p}", width: 100%)'
+    cap = caption.replace("\\", "\\\\").replace('"', '\\"')
+    return f'#art-placeholder("{slot}", "{cap}", height: {height})'
+text = open(content, encoding="utf-8").read()
+text, n = re.subn(r"%%%ART:(.*?)%%%", repl, text)
+open(content, "w", encoding="utf-8").write(text)
+print(f"  {n} inline art slot(s)")
+PY
 
 # Whole-book art slots passed as inputs: the reusable opener motif (O1) and the
 # frontispiece (C2). When the file is absent the template draws a placeholder.

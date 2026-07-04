@@ -320,12 +320,33 @@ Every art position is a **slot** identified by the IDs in §7. The book build
 **To drop in art:** save the file as `build/art/<ID>.<ext>` (`png`, `jpg`, `svg`, or `webp`),
 using the slot ID as the filename — `D1.png`, `C2.png`, `G3.png`, `O1.png`, …. Rebuild.
 
-Wired slots: **C2** frontispiece, **D1–D4** part dividers, **G1–G7** genre plates (placed
-right after each genre's heading), **O1** the one reusable chapter-opener motif (same image on
-every chapter head). `build/art/` is gitignored — placeholder AI art stays local and isn't
-pushed to the public repo. Not yet auto-slotted (place by hand or ask to wire): the rules
-diagrams **F1–F7**, key spots **S1**, filler spots **S2**, icons **I1**, and the color cover
-**C1** (cover is layout-app / designer territory).
+**Fixed slots** (one obvious anchor each) are placed automatically: **C2** frontispiece,
+**D1–D4** part dividers, **G1–G7** genre plates (after each genre's heading), **O1** the one
+reusable chapter-opener motif (same image on every chapter head).
+
+**Inline slots** — spots and diagrams that live mid-prose — are placed with a marker you drop
+in the Markdown wherever the art goes:
+
+```
+<!--art:ID|caption|height-->
+```
+
+Put it on its own line. It's an HTML comment, so it's **invisible on the website and in the
+SRD** — only the book PDF build turns it into a slot. `caption` and `height` are optional
+(default: the ID, and 2.4in). Examples:
+
+```
+<!--art:F1|The Roll ladder — 10+ / 7–9 / 6−|2.6in-->      diagram slot in the Roll chapter
+<!--art:S1d|Recovery Scene — heroes at a campfire|2.5in-->  spot slot beside the rule
+<!--art:S2-1|a single six-sided die|1.4in-->                filler spot
+```
+
+Same drop-in rule: no file yet → labeled placeholder box; save `build/art/<ID>.<ext>` → image
+on rebuild. Use any IDs you like for filler (`S2-1`, `S2-2`, …).
+
+`build/art/` is gitignored — placeholder AI art stays local, off the public repo. Still
+hand-placed only: the **icons I1** (tiny, inline, reused — better set by the designer than
+boxed in text) and the color cover **C1** (layout-app / designer territory).
 
 ---
 
