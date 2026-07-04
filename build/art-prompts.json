@@ -1,0 +1,27 @@
+{
+  "_comment": "Prompt manifest for build/gen-art.py. Edit subjects/aspect here; the style_prefix and negative apply to every slot so the placeholder set stays coherent. IDs match the slots wired into build-pdf.sh + the shot list in '../Art Direction & Placement Plan.md'. Diagrams F1-F7 and icons I1 are NOT here on purpose — those are hand-built as SVG by Claude, not generated. Aspect ratios use Gemini's supported set (1:1, 2:3, 3:2, 3:4, 4:3, 4:5, 5:4, 9:16, 16:9, 21:9).",
+  "style_prefix": "Loose black-and-white pen-and-ink sketch illustration, hand-drawn linework with light cross-hatching and gestural shading, high contrast, plain white background. Rough, energetic indie-RPG interior art in the spirit of Dungeon World and Monster of the Week. Grayscale only, no color. Cinematic framing, all-ages but not childish. No text, no lettering, no borders.",
+  "negative": "color, photorealistic, 3D render, glossy, painterly, watermark, signature, text, letters, words, logos, frame, page border, cluttered background, anime, chibi, cutesy cartoon",
+  "slots": {
+    "C1": { "aspect": "2:3", "note": "cover is normally COLOR + designer-led; this is a grayscale concept placeholder only", "subject": "An ensemble of adventurers striking a dynamic hero pose as a film spotlight and clapperboard frame the scene; energetic, poster-like." },
+    "C2": { "aspect": "2:3", "subject": "A film clapperboard snapping shut, and out of the opening burst a dragon, a spaceship, a detective, and a lone wanderer — imagination spilling out of the movies. Full-page, tone-setting." },
+    "D1": { "aspect": "2:3", "subject": "Friends around a tabletop mid-game, dice rolling, and imaginative shapes (a dragon, a rocket) rising like smoke from the table. Warm and welcoming." },
+    "D2": { "aspect": "2:3", "subject": "Two oversized six-sided dice tumbling through the air with motion lines, dramatic and kinetic." },
+    "D3": { "aspect": "2:3", "subject": "An open book or unrolled map from which genre scenes swirl outward — a castle, a ray-gun, a haunted house, a ruined city. A montage of possibility." },
+    "D4": { "aspect": "2:3", "subject": "A director's desk and open toolbox: scattered dice, character sheets, a pencil, a spotlight, index cards. Reference-and-tools feel." },
+    "G1": { "aspect": "4:5", "subject": "Heroes crossing a fraying rope bridge over a deep chasm toward a ruined jungle temple, a glint of treasure ahead. Sweeping, pulpy adventure." },
+    "G2": { "aspect": "4:5", "subject": "A detective bent over a clue-strewn desk with a magnifying glass, rain streaking a window, long noir shadows." },
+    "G3": { "aspect": "4:5", "subject": "A lone figure with a flashlight in a doorway; a huge shadow or half-seen creature looms beyond. Dread, heavy negative space." },
+    "G4": { "aspect": "4:5", "subject": "Space explorers in suits dwarfed before a towering alien monolith under a vast field of stars. Awe and scale." },
+    "G5": { "aspect": "4:5", "subject": "A crew mid-heist rappelling toward a vault past a laser grid, sly confident grins, stylish and slick." },
+    "G6": { "aspect": "4:5", "subject": "A charged face-to-face confrontation between two characters under a single theatrical spotlight, high emotion. Not cozy." },
+    "G7": { "aspect": "4:5", "subject": "A lone wanderer in makeshift gear standing on a ridge, overlooking a ruined, overgrown city skyline at dusk." },
+    "O1": { "aspect": "21:9", "subject": "A horizontal strip of film with a few tiny scene frames inside it and a spotlight glow at one end. A slim reusable banner motif." },
+    "S1a": { "aspect": "1:1", "subject": "Two or three players laughing around dice and snacks at a table, one hand mid-roll." },
+    "S1b": { "aspect": "4:5", "subject": "A single confident hero character portrait, half-length, publicity-still framing." },
+    "S1c": { "aspect": "1:1", "subject": "A menacing dust storm or roiling plague cloud with a face barely suggested within it." },
+    "S1d": { "aspect": "1:1", "subject": "Weary heroes regrouping around a small campfire, catching their breath." },
+    "S1e": { "aspect": "1:1", "subject": "Characters in a dynamic, dramatic retreat, glancing back over a shoulder." },
+    "S1f": { "aspect": "1:1", "subject": "A hand releasing two six-sided dice in mid-air, motion lines, tension." }
+  }
+}

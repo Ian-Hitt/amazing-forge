@@ -79,6 +79,31 @@ visibly placed — ideal for a designer handoff.
 - Mechanics: `art-placeholder` / `art-image` live in `lib.typ`; `part-divider(..., slot:, art:)`
   carries the divider art; `O1`/`C2` are passed to Typst as `--input opener=…` / `frontispiece=…`.
 
+## Generating placeholder art (Gemini)
+
+`gen-art.py` batch-generates grayscale-sketch placeholders from a prompt manifest and drops
+them straight into the wired slots. Illustrations only — the diagrams (`F1`–`F7`) and icons
+(`I1`) are hand-built as SVG, not generated.
+
+```bash
+pip install google-genai
+export GEMINI_API_KEY=...          # https://aistudio.google.com/apikey
+
+./build/gen-art.py --dry-run       # print composed prompts (no key/deps needed)
+./build/gen-art.py --list          # slots + whether art exists
+./build/gen-art.py                 # generate every slot missing art → build/art/<ID>.png
+./build/gen-art.py --only G1,G3 --force
+./build/gen-art.py --ref build/art/G1.png --only G2,G3   # match an approved piece's style
+./build/build-pdf.sh               # place the results
+```
+
+- **`art-prompts.json`** is the single source of truth: a shared `style_prefix` + `negative`
+  (so the set stays coherent) and a `subject` + `aspect` per slot. Edit prompts here.
+- **`--ref`** is the consistency lever: approve one piece, then style-anchor the rest to it.
+- **API key ≠ subscription.** A consumer Gemini Pro sub does *not* grant API access; you need
+  an AI Studio key (free tier + paid image gen, ~$0.04/image). The model is one constant at
+  the top of `gen-art.py` — swap it when a newer image model lands.
+
 ## Typography
 
 - Body: **Source Serif 4** · Headings/UI: **Montserrat** · Accent: deep orange `#cf4b1a`
