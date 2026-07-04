@@ -38,18 +38,16 @@ Next, decide the scope: are you playing **one Story** — complete on its own �
 
 Before making heroes, build the world together — answer these ten questions out loud as a group, one sentence each. Earlier answers narrow the later ones; leave any that don't spark loose and discover them in play.
 
-| # | Question | |
-|---|---|---|
-| 1 | **Genre** | What's the mood? (Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, or Post-Apocalypse — and how playful or serious.) |
-| 2 | **Setting** | Where and when? One vivid image with a twist. |
-| 3 | **Denizens** | Who lives here — and what can the heroes be? |
-| 4 | **Magic** | How does it work, if at all? How common, at what cost? |
-| 5 | **Technology** | What level are we at? Add one telling detail. |
-| 6 | **Leadership** | Who's in charge, and how secure are they? |
-| 7 | **Enforcement** | How do they hold on to power? |
-| 8 | **Threats** | The two or three biggest dangers right now. |
-| 9 | **Forbidden** | One place, object, or action that's off-limits. |
-| 10 | **Reputation** | When people see a group like yours, what do they think? |
+1. **Genre** — What's the mood? (Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, or Post-Apocalypse — and how playful or serious.)
+2. **Setting** — Where and when? One vivid image with a twist.
+3. **Denizens** — Who lives here — and what can the heroes be?
+4. **Magic** — How does it work, if at all? How common, at what cost?
+5. **Technology** — What level are we at? Add one telling detail.
+6. **Leadership** — Who's in charge, and how secure are they?
+7. **Enforcement** — How do they hold on to power?
+8. **Threats** — The two or three biggest dangers right now.
+9. **Forbidden** — One place, object, or action that's off-limits.
+10. **Reputation** — When people see a group like yours, what do they think?
 
 The **Threats** (Q8) are your ready-made Story Arc seeds — look here first when you set one up, below.
 
