@@ -53,17 +53,19 @@
     #line(length: 2.2em, stroke: 2pt + accent)
   ]
 }
-#show heading.where(level: 2): it => block(above: 1.5em, below: 0.5em, sticky: true)[
+// reserve space below each heading so it never starts near the page bottom
+// (see heading-keep in lib.typ) — leaves a gap on the prior page for art.
+#show heading.where(level: 2): it => heading-keep(1.5em, 0.5em, 54pt)[
   #set text(font: sans, size: 14pt, weight: 700, fill: ink)
   #set par(first-line-indent: 0pt, justify: false)
   #it.body
 ]
-#show heading.where(level: 3): it => block(above: 1.05em, below: 0.32em, sticky: true)[
+#show heading.where(level: 3): it => heading-keep(1.05em, 0.32em, 40pt)[
   #set text(font: sans, size: 11pt, weight: 700, fill: accent)
   #set par(first-line-indent: 0pt, justify: false)
   #it.body
 ]
-#show heading.where(level: 4): it => block(above: 0.9em, below: 0.28em, sticky: true)[
+#show heading.where(level: 4): it => heading-keep(0.9em, 0.28em, 32pt)[
   #set text(font: sans, size: 10pt, weight: 700, fill: ink)
   #set par(first-line-indent: 0pt, justify: false)
   #it.body

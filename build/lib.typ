@@ -59,6 +59,27 @@
 #let cur-part = state("cur-part", none)
 #let cur-chap = state("cur-chap", none)
 
+// orphan-heading control. Headings are `sticky` (they won't be the last thing
+// on a page), but sticky is happy as long as the heading + one line of the next
+// block fits — so a heading can still land near the bottom with a stub of text
+// under it. `heading-keep` reserves a fixed slab of space *below* the heading:
+// the heading and a `reserve`-tall spacer live in one unbreakable block, so if
+// less than that remains on the page Typst relocates the whole thing to the next
+// page (leaving a gap below the previous section — room for art). A negative
+// bottom margin pulls the following text back up into the reserved slab, so when
+// the heading does NOT get bumped, spacing looks completely normal.
+//
+// This is deliberately query-free: an earlier here().position() + conditional
+// pagebreak version oscillated (heading moves → remeasures → moves back) and
+// never converged, corrupting page numbers. Reserving unbreakable height lets
+// Typst's native page-breaker make the call in a single stable pass.
+#let heading-keep(above, gap-below, reserve, inner) = block(
+  breakable: false, sticky: true, above: above, below: gap-below - reserve,
+)[
+  #inner
+  #v(reserve)
+]
+
 // full-page part divider
 #let part-divider(kicker, title) = {
   cur-part.update(kicker)
