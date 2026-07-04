@@ -170,9 +170,19 @@ So your modifier is:
 - **Miss (6−):** it fails, and **Pay the Price** *(or take the Devil's Bargain).*
 </div>
 
+#### Interpreting the Result
+
+Add your modifier to the 2d6 and read the total. There are three outcomes, and every one of them keeps the story moving:
+
+- **Strong Hit (10+):** it works, clean and simple. You narrate how it goes your way.
+- **Weak Hit (7–9):** it works, but there's a cost — you succeed *and* **Pay the Price** (see below).
+- **Miss (6−):** it doesn't work. **Pay the Price**, *or* take the **Devil's Bargain** to grab the win anyway and feed the antagonist.
+
 **Fiction bookends the roll.** Story first, dice second, then back to story: something's in motion, you roll to see how it turns out, and you narrate what that result looks like — on *every* result, Hit or Miss. The dice tell you *how* the story bends; you tell the rest. In **Co-op play** (the default) the rolling player narrates the whole outcome, the win *and* the cost; with a **Guide**, the hero narrates their successes and the Guide narrates the Pay the Price.
 
-**Doubles.** When both dice show the *same* number (two 4s, two 6s), the moment swings hard — the game's critical hit *and* critical miss in one rule. Read your result as normal, then apply doubles:
+#### Doubles
+
+When both dice show the *same* number (two 4s, two 6s), the moment swings hard — the game's critical hit *and* critical miss in one rule. Read your result as normal, then apply doubles:
 
 - **Strong Hit:** an **Outstanding Success** — you succeed in spectacular fashion (narrate how it goes even better than you hoped), and the momentum carries you: **+1 to your next roll.**
 - **Weak Hit:** bump it up a tier to a **Strong Hit.** A lucky break.
