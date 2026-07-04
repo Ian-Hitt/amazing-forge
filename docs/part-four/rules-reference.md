@@ -27,7 +27,7 @@ Next, decide the scope: are you playing **one Story** — complete on its own �
 
 ### Build Your World
 
-Before making heroes, build the world together — answer these ten questions out loud as a group, one sentence each. Earlier answers narrow the later ones; leave any that don't spark loose and discover them in play. *(This is the short version. The full walkthrough — what a good answer looks like for each — is in the rulebook's Worldbuilding chapter.)*
+Before making heroes, build the world together — answer these ten questions out loud as a group, one sentence each. Earlier answers narrow the later ones; leave any that don't spark loose and discover them in play.
 
 | # | Question | |
 |---|---|---|
