@@ -148,27 +148,7 @@ These core moves happen on nearly every roll, no matter what a hero is doing. Le
 
 ### The Roll
 
-This is the game's core mechanic — how the story decides what happens next. Whenever a hero tries to do something risky, you roll to find out how it turns out. **Roll 2d6, then work out your modifier:**
-
-**First, the Stat.** Decide which of the five Stats the action most calls for:
-
-- **Strong** — force, toughness
-- **Quick** — speed, reflexes, aim
-- **Clever** — knowing, figuring out, spotting
-- **Sneaky** — stealth, sleight of hand, a bluff
-- **Charming** — winning people over, heart, rallying
-
-If that Stat is one of the two you picked at character creation, add **+1.**
-
-**Next, decide** whether one of your three Assets fits — if your hero is using that Asset and it fits the moment well, add another **+1.**
-
-So your modifier is:
-
-- **+0** if neither fits — you can still try, you just don't get a modifier this time.
-- **+1** if either a Stat or an Asset fits.
-- **+2** if both fit.
-
-Add that modifier to the total of your 2d6 to get your final result, then compare it to the outcomes below.
+This is the game's core mechanic — how the story decides what happens next. Whenever a hero tries to do something risky, you roll to find out how it turns out.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">The Roll <span class="lca-when">— any risky action</span></p>
@@ -179,6 +159,30 @@ Add that modifier to the total of your 2d6 to get your final result, then compar
 - **Weak Hit (7–9):** success, but **Pay the Price.**
 - **Miss (6−):** it fails, and **Pay the Price** *(or take the Devil's Bargain).*
 </div>
+
+#### How it Works
+
+**First, roll your 2d6.** Then work out the modifier you'll add to the total:
+
+**The Stat.** Decide which of the five Stats the action most calls for:
+
+- **Strong** — force, toughness
+- **Quick** — speed, reflexes, aim
+- **Clever** — knowing, figuring out, spotting
+- **Sneaky** — stealth, sleight of hand, a bluff
+- **Charming** — winning people over, heart, rallying
+
+If that Stat is one of the two you picked at character creation, add **+1.**
+
+**The Asset.** Decide whether one of your three Assets fits — if your hero is using that Asset and it fits the moment well, add another **+1.**
+
+So your modifier is:
+
+- **+0** if neither fits — you can still try, you just don't get a modifier this time.
+- **+1** if either a Stat or an Asset fits.
+- **+2** if both fit.
+
+Add that modifier to your 2d6 for your final result, then compare it to the outcomes below.
 
 #### Interpreting the Result
 
