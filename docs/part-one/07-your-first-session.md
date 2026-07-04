@@ -196,7 +196,9 @@ In one short session, Maya and Leo used **every rule in Part One:** they built a
 
 Notice what they *didn't* do: look up a spell, calculate any enemy's hit points, or roll for initiative. They just described what their heroes did, rolled 2d6, and told the story together.
 
-You now know everything you need to play your own first game. When you're ready for more depth — more options, the full Antagonist Track, and the reasoning behind the rules — Part Two is waiting.
+You're ready to start your own story — gather your friends, build a world, make your heroes, and play. Everything a first game needs is in the chapters you just read.
+
+And when you want the full picture of *how* that story works — every rule in depth, more options, the complete Antagonist Track, and the reasoning behind it all — that's **Part Two: Playing the Game, In Depth.**
 
 > **Teaching it to your friends?** You're almost certainly the only one at your table who's read this far — and that's exactly how the game expects it. Flip to **[Teaching the Game](../part-four/teaching-the-game.md)** in Part Four for a one-page reference sheet: the four things to teach before you start, and a trigger list for introducing every other rule at the moment it actually comes up.
 
