@@ -62,8 +62,10 @@ typst compile --root . --pages 1,2,120 --format png build/book.typ "build/previe
 
 ## Typography
 
-- Body: **Iowan Old Style** · Headings/UI: **Avenir Next** · Accent: deep orange `#cf4b1a`
-  (matches the website). Change these at the top of `lib.typ` / `book.typ`.
+- Body: **Source Serif 4** · Headings/UI: **Montserrat** · Accent: deep orange `#cf4b1a`
+  (matches the website), with **DejaVu Sans** as the fallback for arrows/marks. All three
+  are OFL/embeddable and vendored in `build/fonts/`; the build is hermetic
+  (`--ignore-system-fonts`). Change the stacks/colors at the top of `lib.typ`.
 
 ## What's included / excluded
 
