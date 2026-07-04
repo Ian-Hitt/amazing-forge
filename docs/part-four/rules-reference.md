@@ -36,11 +36,11 @@ Next, decide the scope: are you playing **one Story** — complete on its own �
 
 ### Build Your World
 
-Before making heroes, build the world together — answer these ten questions out loud as a group, one sentence each. Earlier answers narrow the later ones; leave any that don't spark loose and discover them in play.
+Before making heroes, build the world together — answer these ten questions out loud as a group, one sentence each. If you're stuck trying to answer any of these specific questions, you can skip it and fill it in later.
 
 1. **Genre** — What's the mood? (Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, or Post-Apocalypse — and how playful or serious.)
 2. **Setting** — Where and when? One vivid image with a twist.
-3. **Denizens** — Who lives here — and what can the heroes be?
+3. **Denizens** — What kind of people or beings live here?
 4. **Magic** — How does it work, if at all? How common, at what cost?
 5. **Technology** — What level are we at? Add one telling detail.
 6. **Leadership** — Who's in charge, and how secure are they?
