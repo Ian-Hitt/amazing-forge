@@ -165,7 +165,7 @@ Add that modifier to the total of your 2d6 to get your final result, then compar
 <div class="lca-move" markdown>
 <p class="lca-move-name">The Roll <span class="lca-when">— any risky action</span></p>
 
-**When a hero does something risky,** roll **2d6** — **+1** for a fitting Stat, **+1** for a fitting Asset (run it alone as a **Regular Roll,** or to mark a **Challenge** track):
+**When a hero does something risky,** roll **2d6** — **+1** for a fitting Stat, **+1** for a fitting Asset:
 
 - **Strong Hit (10+):** clean success — you narrate it.
 - **Weak Hit (7–9):** success, but **Pay the Price.**
@@ -174,7 +174,7 @@ Add that modifier to the total of your 2d6 to get your final result, then compar
 
 #### Interpreting the Result
 
-Add your modifier to the 2d6 and read the total. There are three outcomes, and every one of them keeps the story moving:
+Your total lands in one of three bands. Each one tells you both what happens in the fiction and what it costs mechanically:
 
 - **Strong Hit (10+):** it works, clean and simple. You narrate how it goes your way.
 - **Weak Hit (7–9):** it works, but there's a cost — you succeed *and* **Pay the Price** (see below).
