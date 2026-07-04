@@ -48,6 +48,14 @@
 .lca-move ol { margin: 0.4rem 0 0; }
 .lca-move li { margin: 0.1rem 0; }
 
+/* Shrink the leading die/number column in a move-card table to its content. */
+.lca-move table td:first-child,
+.lca-move table th:first-child {
+  width: 1%;
+  white-space: nowrap;
+  text-align: center;
+}
+
 /* A set of move cards. Add "cols-2" for two columns on wide screens. */
 .lca-moves { display: grid; gap: 0.85rem; }
 @media (min-width: 50rem) {

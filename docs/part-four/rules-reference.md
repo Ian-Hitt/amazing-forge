@@ -186,7 +186,7 @@ Your total lands in one of three bands. Each one tells you both what happens in 
 
 #### Doubles
 
-When both dice show the *same* number (two 4s, two 6s), the moment swings hard — the game's critical hit *and* critical miss in one rule. Read your result as normal, then apply doubles:
+When both dice show the *same* number, the moment swings hard — the game's critical hit *and* critical miss in one rule. Read your result as normal, then apply doubles:
 
 - **Strong Hit:** an **Outstanding Success** — you succeed in spectacular fashion (narrate how it goes even better than you hoped), and the momentum carries you: **+1 to your next roll.**
 - **Weak Hit:** bump it up a tier to a **Strong Hit.** A lucky break.
@@ -224,17 +224,19 @@ Whatever the twist, **you always lose the Readiness above** — so describe how 
 
 > **Party size.** The game is balanced for a party of **2–3 heroes.** With **4 or 5 heroes,** lose **one extra Readiness** on each Weak Hit or Miss — a Weak Hit costs **2**, a Miss costs **3.**
 
-On a **Miss,** one extra option is on the table:
+## Situational Moves
+
+The core moves happen on nearly every roll; these come up only as the story calls for them — buying a win on a Miss, helping a teammate, running a big set-piece, or recovering when things go wrong.
+
+### Devil's Bargain
+
+On a **Miss,** you have one extra option: grab the win anyway, but let the antagonist gain ground for it — a deal you'll feel later.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Devil's Bargain <span class="lca-when">— on a Miss, optional</span></p>
 
 **When a roll comes up a Miss,** you may refuse the Readiness loss **and** turn it into a **Strong Hit** — in exchange for **advancing the Antagonist Track one box.** Buying a win now for a step toward defeat. **Not** allowed on a Miss whose price would knock you Out of Action — you can't buy your way out of going down.
 </div>
-
-## Situational Moves
-
-The core moves happen on nearly every roll; these come up only as the story calls for them — helping a teammate, running a big set-piece, or recovering when things go wrong.
 
 ### Aid Your Ally
 
