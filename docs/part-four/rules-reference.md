@@ -258,7 +258,7 @@ Instead of acting for yourself, you can spend your roll to help someone else.
 
 ### Challenges
 
-Most risky moments are **Regular Rolls** — one roll, read the result, move on. A **Challenge** is for a big set-piece that deserves more than a single roll: a monster fight, a desperate chase, a tense infiltration, a long trek. You draw a **row of boxes** and fill them roll by roll until the Scene is won — enemies have *no stats,* the **track itself is the obstacle.**
+Most risky moments are **Regular Rolls** — one roll, read the result, move on. A **Challenge** is for a big set-piece that deserves more than a couple rolls: a monster fight, a desperate chase, a tense infiltration, a long trek. You draw a **row of boxes** and fill them roll by roll until the Scene is won — enemies have *no stats,* the **track itself is the obstacle.**
 
 > **When *not* to draw a track.** If a moment will settle in a roll or two, don't bother — just play it out as Regular Rolls. There's no reward for turning everything into a Challenge; the track is a tool for *savoring* a long Scene, not a tax on every fight. A quick scuffle with hallway goons is two rolls and done.
 
@@ -274,7 +274,7 @@ Take turns — **everyone acts once before anyone repeats.** On each Challenge R
 
 #### Start a Challenge
 
-When a set-piece is worth a track, set it up before anyone rolls — name what's at stake, pick a length, and see how each hero enters the scene.
+When a Scene is worth a track, set it up before anyone rolls — name what's at stake, pick a length, and see how each hero enters the scene.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Challenge</p>
