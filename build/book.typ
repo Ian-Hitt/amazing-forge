@@ -46,7 +46,7 @@
   pagebreak(weak: true)
   cur-chap.update(it.body)
   v(1.4in)                       // chapter sink — standard book opener drop
-  block(above: 0pt, below: 1.4em)[
+  block(above: 0pt, below: 1.7em)[
     #set text(font: sans, size: 26pt, weight: 800, fill: accent)
     #set par(first-line-indent: 0pt, justify: false, leading: 0.4em)
     #it.body
@@ -56,12 +56,12 @@
 }
 // reserve space below each heading so it never starts near the page bottom
 // (see heading-keep in lib.typ) — leaves a gap on the prior page for art.
-#show heading.where(level: 2): it => heading-keep(1.6em, 0.55em, 56pt)[
+#show heading.where(level: 2): it => heading-keep(1.6em, 1.4em, 56pt)[
   #set text(font: sans, size: 14pt, weight: 700, fill: ink)
   #set par(first-line-indent: 0pt, justify: false)
   #it.body
 ]
-#show heading.where(level: 3): it => heading-keep(1.15em, 0.35em, 42pt)[
+#show heading.where(level: 3): it => heading-keep(1.15em, 1.3em, 42pt)[
   #set text(font: sans, size: 11pt, weight: 700, fill: accent)
   #set par(first-line-indent: 0pt, justify: false)
   #it.body

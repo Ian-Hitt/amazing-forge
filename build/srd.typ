@@ -45,7 +45,7 @@
   pagebreak(weak: true)
   cur-chap.update(it.body)
   v(0.7in)
-  block(above: 0pt, below: 1.2em)[
+  block(above: 0pt, below: 1.5em)[
     #set text(font: sans, size: 23pt, weight: 800, fill: accent)
     #set par(first-line-indent: 0pt, justify: false, leading: 0.4em)
     #it.body
@@ -55,17 +55,17 @@
 }
 // reserve space below each heading so it never starts near the page bottom
 // (see heading-keep in lib.typ) — leaves a gap on the prior page for art.
-#show heading.where(level: 2): it => heading-keep(1.5em, 0.5em, 54pt)[
+#show heading.where(level: 2): it => heading-keep(1.5em, 1.4em, 54pt)[
   #set text(font: sans, size: 14pt, weight: 700, fill: ink)
   #set par(first-line-indent: 0pt, justify: false)
   #it.body
 ]
-#show heading.where(level: 3): it => heading-keep(1.05em, 0.32em, 40pt)[
+#show heading.where(level: 3): it => heading-keep(1.05em, 1.3em, 40pt)[
   #set text(font: sans, size: 11pt, weight: 700, fill: accent)
   #set par(first-line-indent: 0pt, justify: false)
   #it.body
 ]
-#show heading.where(level: 4): it => heading-keep(0.9em, 0.28em, 32pt)[
+#show heading.where(level: 4): it => heading-keep(0.9em, 1.2em, 32pt)[
   #set text(font: sans, size: 10pt, weight: 700, fill: ink)
   #set par(first-line-indent: 0pt, justify: false)
   #it.body
