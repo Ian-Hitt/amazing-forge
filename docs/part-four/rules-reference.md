@@ -379,7 +379,7 @@ When a Story Arc wraps, the heroes take Downtime to set right what the adventure
 Over a campaign, heroes grow by gaining new tricks — **signature moves and fresh tools** that open up new things to do at the table. The party earns **1 Growth** every **3rd Milestone** it marks (on any Story Arc; cumulative, never resets), so a single Episode earns too little to spend — advancement is built for ongoing play. Spend it on one of two things:
 
 - **Boon — 2 Growth:** a signature move attached to an Asset (max 2 per Asset).
-- **New Asset — 5 Growth:** up to a ceiling of 6 Assets; at six, **Trade In** (retire one) to add another.
+- **New Asset — 5 Growth:** up to a ceiling of **6 Assets.** Once you're at six, buying another means you must **Trade In** — retire one of your existing Assets so you stay at the max of six.
 
 A Boon is one **Effect** (what it does) plus a **Trigger** (the situation it fires in). Pick one Effect from the lists below, then name a Trigger — that's the whole build.
 
