@@ -108,6 +108,8 @@ With the Goal, the antagonist, and the tracks in place, one last roll launches t
 - **1–2:** Trouble finds them first. Open with the antagonist already making a problem — the heroes start the story reacting to it.
 </div>
 
+That's everything you need to start your story. **Playing the Game,** next, covers the rules for how that story actually plays out.
+
 ## Playing the Game
 
 *The table loop: roll the dice, run Challenges, spend and recover Readiness, and drive the fiction together.*
