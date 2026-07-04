@@ -142,10 +142,19 @@ That's everything you need to start your story. **Playing the Game,** next, cove
 
 ### The Roll
 
-This is the game's core mechanic — how the story decides what happens next. Whenever a hero tries to do something risky, you roll to find out how it turns out. **Roll 2d6, then add your modifier:**
+This is the game's core mechanic — how the story decides what happens next. Whenever a hero tries to do something risky, you roll to find out how it turns out. **Roll 2d6, then work out your modifier:**
 
-- **+1** if the action calls for one of your Stats.
-- **+1** if one of your Assets fits.
+**First, the Stat.** Decide which of the five Stats the action most calls for:
+
+- **Strong** — force, toughness
+- **Quick** — speed, reflexes, aim
+- **Clever** — knowing, figuring out, spotting
+- **Sneaky** — stealth, sleight of hand, a bluff
+- **Charming** — winning people over, heart, rallying
+
+If that Stat is one of the two you picked at character creation, add **+1.**
+
+**Then, the Asset.** Decide whether one of your three Assets fits — if your hero is using that Asset and it fits the moment well, add another **+1.**
 
 So **+2** if both apply, and **+0** if neither does — you can still try, you just roll the bare dice.
 
