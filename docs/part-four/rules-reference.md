@@ -142,7 +142,12 @@ That's everything you need to start your story. **Playing the Game,** next, cove
 
 ### The Roll
 
-This is the game's core mechanic — how the story decides what happens next. Whenever a hero tries to do something risky, you roll to find out how it turns out. **The Core Roll:** roll **2d6** and add **+1** if the action calls for one of your Stats, **+1** if one of your Assets fits — so **+2** when both apply, **+0** when neither does (you can still try; you just roll the bare dice).
+This is the game's core mechanic — how the story decides what happens next. Whenever a hero tries to do something risky, you roll to find out how it turns out. **Roll 2d6, then add your modifier:**
+
+- **+1** if the action calls for one of your Stats.
+- **+1** if one of your Assets fits.
+
+So **+2** if both apply, and **+0** if neither does — you can still try, you just roll the bare dice.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">The Roll <span class="lca-when">— any risky action</span></p>
