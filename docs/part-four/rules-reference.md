@@ -381,22 +381,28 @@ Over a campaign, heroes grow by gaining new tricks — **signature moves and fre
 - **Boon — 2 Growth:** a signature move attached to an Asset (max 2 per Asset).
 - **New Asset — 5 Growth:** up to a ceiling of 6 Assets; at six, **Trade In** (retire one) to add another.
 
-A Boon is built from a fixed **Effect** (what it does) plus an open **Trigger** (when you may use it) — and those two decide how often it fires:
+A Boon is one **Effect** (what it does) plus a **Trigger** (the situation it fires in). Pick one Effect from the lists below, then name a Trigger — that's the whole build.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Build a Boon <span class="lca-when">— 2 Growth · max 2 per Asset</span></p>
 
-**1. Pick an Effect** — the only part that touches the dice (this menu is fixed):
+**1. Pick one Effect.** Which list you pick from sets how often you can use it.
 
-- *Strong:* **Upgrade** a result one tier · **+1 to the roll** · **Take the Price** for yourself or an ally.
-- *Mild:* **Reroll** a Miss · **+1 to your next roll** (or an ally's) · **Lend a reroll** when you help · a **free Oracle** question · **Steady Hands** (+1 extra when you Mend).
+*Strong Effects — once per Session:*
 
-**2. Pick a Trigger** — when you're allowed to use it. Wide open: *"in a fight," "while protecting someone," "reading a room."*
+- **Upgrade** — treat one result as one tier better (a Miss becomes a Weak Hit; a Weak Hit becomes Strong).
+- **+1 to the roll** — add +1 before you read the result.
+- **Take the Price** — a Price aimed at you or an ally beside you lands on this Asset instead, so the hero loses no Readiness.
 
-**3. Read off how often it fires:**
+*Mild Effects — once per Scene:*
 
-- A **Strong** Effect fires **once per Session**; a **Mild** Effect, **once per Scene**.
-- **Lock the Trigger to a specific situation** and it fires **one step more often** (a Strong Effect drops to once per Scene).
+- **Reroll** — reroll one Miss and take the new result.
+- **+1 to your next roll** — give your next roll, or an ally's, +1.
+- **Lend a reroll** — when you Aid an ally, they may reroll a Miss on that roll.
+- **Free Oracle** — ask the Oracle one yes/no question for free.
+- **Steady Hands** — when you Mend, restore +1 extra, and you can Mend an ally as easily as yourself.
+
+**2. Pick a Trigger** (always required) — the situation the Boon may be used in: *"in a fight," "while protecting someone," "when reading a room."*
 
 *A Boon only works when its Asset is in play — and it can never mark track progress or keep you from going Out of Action.*
 </div>
