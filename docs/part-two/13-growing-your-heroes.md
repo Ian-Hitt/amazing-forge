@@ -73,7 +73,6 @@ You can attach up to **two Boons** to any one Asset.
 | **Reroll** | **Reroll a Miss** once with this Asset. Take the new result. | Mild |
 | **+1 to your next roll** | Give your **next** roll — or an ally's — **+1**. | Mild |
 | **Lend a reroll** | When you **help an ally**, they may reroll a Miss on the roll you're helping with. | Mild |
-| **Free Oracle** | **Ask the Oracle one yes/no question for free** (Chapter 11). | Mild |
 | **Steady Hands** | When you **Mend** with this Asset, restore **+1 extra** — and you can Mend an ally as easily as yourself. | Mild |
 
 That's the whole list. Genres never add new Effects — only new Triggers. (A few things are *deliberately* missing — a Boon can't mark extra progress on a track or keep you from going Out of Action. Those bend the game's tuned numbers; they're not on the menu.)
@@ -112,7 +111,7 @@ Mixing your own is the power move, but you don't have to. These pre-built combos
 | **Reliable** | any time | Reroll | once/Scene |
 | **Lend a Hand** | when you help an ally | Lend a reroll | once/Scene |
 | **Mender** | when you Mend | Steady Hands | per Mend |
-| **Scout** | any time | Free Oracle | once/Scene |
+| **Scout** | when you scout ahead | +1 to your next roll | once/Scene |
 | **Take the Hit** | any time | Take the Price | once/Session |
 
 Picture them in play:

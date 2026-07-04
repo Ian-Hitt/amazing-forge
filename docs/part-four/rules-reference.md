@@ -399,7 +399,6 @@ A Boon is one **Effect** (what it does) plus a **Trigger** (the situation it fir
 - **Reroll** — reroll one Miss and take the new result.
 - **+1 to your next roll** — give your next roll, or an ally's, +1.
 - **Lend a reroll** — when you Aid an ally, they may reroll a Miss on that roll.
-- **Free Oracle** — ask the Oracle one yes/no question for free.
 - **Steady Hands** — when you Mend, restore +1 extra, and you can Mend an ally as easily as yourself.
 
 **2. Pick a Trigger** — the situation the Boon may be used in: *"in a fight," "while protecting someone," "when reading a room."*

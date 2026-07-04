@@ -430,7 +430,7 @@ recovery and Out of Action work is covered under **Recovery** (Section 7).
   - **Effects (closed list).** *Strong:* **Upgrade** (one tier better — Miss→Weak or Weak→Strong),
     **+1 to the roll** (banked one-time +1), **Take the Price** (Asset/you absorbs a Price for you
     or a nearby ally). *Mild:* **Reroll** a Miss, **+1 to your next roll** (your or an ally's next roll),
-    **Lend a reroll** (aided ally rerolls a Miss), **Free Oracle** (one yes/no), **Steady Hands**
+    **Lend a reroll** (aided ally rerolls a Miss), **Steady Hands**
     (your **Mend** gives +1 / lets you Mend an ally as if yourself). Explicitly **excluded** (balance
     levers, not menu effects): marking extra track progress; preventing Out of Action; erasing an
     Antagonist Track box.
@@ -444,7 +444,7 @@ recovery and Out of Action work is covered under **Recovery** (Section 7).
   - **Recipes (pre-built combos, presented by name in the book):** Signature Move (any time +
     Upgrade, Session), In My Element (situation + Upgrade, Scene), Dig Deep (any time + +1 to roll,
     Session), Reliable (any time + Reroll, Scene), Lend a Hand (help an ally + Lend a reroll, Scene),
-    Mender (when you Mend + Steady Hands), Scout (any time + Free Oracle, Scene), Take the Hit (any
+    Mender (when you Mend + Steady Hands), Scout (when you scout ahead + +1 to your next roll, Scene), Take the Hit (any
     time + Take the Price, Session). Each genre kit carries a **d10 Boon-trigger table** (all 7 done).
 - **Asset ceiling: 6.** A hero starts with three Assets and can buy up to three more. Beyond six
   there are no new slots — buying a seventh means **Trading In** one of the existing six (a
