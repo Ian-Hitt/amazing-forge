@@ -154,7 +154,7 @@ This is the game's core mechanic — how the story decides what happens next. Wh
 
 If that Stat is one of the two you picked at character creation, add **+1.**
 
-**Then, the Asset.** Decide whether one of your three Assets fits — if your hero is using that Asset and it fits the moment well, add another **+1.**
+**Next, decide** whether one of your three Assets fits — if your hero is using that Asset and it fits the moment well, add another **+1.**
 
 So **+2** if both apply, and **+0** if neither does — you can still try, you just roll the bare dice.
 
