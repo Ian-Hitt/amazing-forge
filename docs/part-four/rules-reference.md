@@ -286,12 +286,12 @@ When a Scene is worth a track, set it up before anyone rolls — name what's at 
 
 #### Fall back
 
-When a Challenge turns against you, you don't have to see it through — you can bail out, give up the progress, and regroup instead of risking more.
+When a Challenge turns against you, you don't have to see it through — you can run away, give up the progress, and regroup instead of risking more.
 
 <div class="lca-move" markdown>
-<p class="lca-move-name">Fall back <span class="lca-when">— bail out of a Challenge</span></p>
+<p class="lca-move-name">Fall back <span class="lca-when">— run away from a Challenge</span></p>
 
-**When you bail out of a Challenge,** lose the track's progress and take a **Recovery Scene** (the party heals fully). Always safe, always available — the stay-alive valve.
+**When you run away from a Challenge,** lose the track's progress and take a **Recovery Scene** (the party heals fully). Always safe, always available — the stay-alive valve.
 </div>
 
 ### Readiness & Recovery
@@ -313,17 +313,22 @@ A small, risky patch you can attempt mid-scene to claw back some Readiness for y
 - **Weak Hit (7–9):** +2 Readiness.
 - **Miss (6−):** −1 Readiness (it backfires).
 
-*No usage cap; capped at 9; can't revive an Out-of-Action hero. In a Challenge, this* is *your turn.*
+*Use it as often as you like, but Readiness never exceeds 9; can't revive an Out-of-Action hero. In a Challenge, this* is *your turn.*
 </div>
 
 #### Recovery Scene
 
-The reliable reset: when the action lets up, the heroes fall back and regroup, and the whole party heals all the way back to full.
+When the action lets up, the heroes fall back and regroup, and the whole party heals all the way back to full.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Recovery Scene <span class="lca-when">— fall back and regroup at a lull</span></p>
 
-**When the heroes fall back and regroup at a lull,** the whole party heals **fully back to 9.** No roll, fully reliable, and you can regroup as often as the fiction allows.
+**When the heroes fall back and regroup at a lull,** each hero — on their own or together as a group:
+
+1. **Regains Readiness** all the way up to their max of **9.**
+2. **Narrates how they healed it** — visiting a doctor, recharging, resupplying, or whatever fits the fiction.
+
+*No roll, fully reliable, and you can regroup as often as the fiction allows.*
 </div>
 
 #### Out of Action

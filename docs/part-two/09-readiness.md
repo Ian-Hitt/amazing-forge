@@ -127,7 +127,7 @@ One more rule: **Mend cannot revive an Out-of-Action hero** — only a Recovery 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Recovery Scene <span class="lca-when">— fall back and regroup at a safe lull</span></p>
 
-**When the heroes fall back and regroup at a safe lull,** the whole party heals **fully back to 9.** No roll, no cost — regroup as often as the fiction allows. (Bailing out of a Challenge you're losing is just a Recovery Scene: lose that track's progress and heal up.)
+**When the heroes fall back and regroup at a safe lull,** the whole party heals **fully back to 9.** No roll, no cost — regroup as often as the fiction allows. (Running away from a Challenge you're losing is just a Recovery Scene: lose that track's progress and heal up.)
 </div>
 
 Whenever the heroes reach a safe lull — **most often between Challenges**, when the action pauses and they can catch their breath — they can **fall back and regroup:** a **Recovery Scene.** This is the reliable recovery. The party pulls back, and **everyone recovers all the way back to 9** — no roll, no whiff. Falling back *works,* and it works completely.

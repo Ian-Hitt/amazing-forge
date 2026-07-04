@@ -79,12 +79,12 @@ A Mend is a gamble — it can backfire, and it costs you your turn (you didn't f
 <div class="lca-move" markdown>
 <p class="lca-move-name">The Recovery Scene <span class="lca-when">— fall back and regroup at a safe lull</span></p>
 
-**When the heroes fall back and regroup at a safe lull,** the whole party heals **fully back to 9.** No roll, no cost — falling back is always safe. (Bailing out of a Challenge you're losing is just a Recovery Scene: wipe that track's progress and heal up.)
+**When the heroes fall back and regroup at a safe lull,** the whole party heals **fully back to 9.** No roll, no cost — falling back is always safe. (Running away from a Challenge you're losing is just a Recovery Scene: wipe that track's progress and heal up.)
 </div>
 
 A Recovery Scene is the movie slowing down between the action — the campfire, the regroup, the quiet talk that sets up the next storm. It's where the slower character beats live, and it brings everyone all the way back to **9**. Reach for one whenever you're battered: the story gets a breather and the heroes come back ready.
 
-You can also take a Recovery Scene to **bail out of a Challenge** that's grinding you down — pull back instead of finishing it. Same full heal, and you simply **give up that Challenge's progress** — wipe its track. That's your escape hatch when a fight isn't worth the cost.
+You can also take a Recovery Scene to **run away from a Challenge** that's grinding you down — pull back instead of finishing it. Same full heal, and you simply **give up that Challenge's progress** — wipe its track. That's your escape hatch when a fight isn't worth the cost.
 
 **Quitting the Story Arc.** If things go really badly — the Antagonist Track fills, or the group simply decides this one isn't winnable — you **Quit the Story Arc.** The bad guys win this round, and that's okay: no penalty, just dust yourselves off. A lost Story Arc is a great springboard — ask *"how did the world change now that the antagonists got what they wanted?"* and let that shape your next adventure.
 
