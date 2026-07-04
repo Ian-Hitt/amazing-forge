@@ -222,7 +222,7 @@ Pick the twist that fits the fiction — or, in **Co-op,** roll a **d6** here if
 Whatever the twist, **you always lose the Readiness above** — so describe how it hurts you, however it fits.
 </div>
 
-> **Party size.** The game is balanced for a party of **2–3 heroes.** With **4 or 5 heroes,** increase each Readiness loss by **+1** — a Weak Hit costs **2**, a Miss costs **3.**
+> **Party size.** The game is balanced for a party of **2–3 heroes.** With **4 or 5 heroes,** lose **one extra Readiness** on each Weak Hit or Miss — a Weak Hit costs **2**, a Miss costs **3.**
 
 On a **Miss,** one extra option is on the table:
 
