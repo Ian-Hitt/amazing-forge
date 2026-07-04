@@ -333,7 +333,7 @@ When the action lets up, the heroes fall back and regroup, and the whole party h
 
 #### Out of Action
 
-What happens when a hero's Readiness runs all the way out — they're knocked out of the Scene (never killed), and there's a cost.
+When a hero's Readiness runs all the way out, they're knocked out of the Scene (never killed), and there's a cost.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Out of Action <span class="lca-when">— when your Readiness hits 0</span></p>
