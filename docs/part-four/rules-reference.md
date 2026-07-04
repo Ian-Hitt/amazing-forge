@@ -138,7 +138,7 @@ That's everything you need to start your story. **Playing the Game,** next, cove
 
 ## Playing the Game
 
-*The table loop: roll the dice, run Challenges, spend and recover Readiness, and drive the fiction together.*
+*You've built your world, created your heroes, and set up a Story Arc — now it's time to play. This section covers all the rules you'll need to find out what happens, scene by scene.*
 
 ### The Roll
 
