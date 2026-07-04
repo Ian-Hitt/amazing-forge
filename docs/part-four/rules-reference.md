@@ -230,7 +230,7 @@ Whatever the twist, **you always lose the Readiness above** — so describe how 
 
 ## Situational Moves
 
-The core moves happen on nearly every roll; these come up only as the story calls for them — buying a win on a Miss, helping a teammate, running a big set-piece, or recovering when things go wrong.
+The core moves happen on nearly every roll; these next moves are situational — they come up only as the story calls for them — buying a win on a Miss, helping a teammate, running a big set-piece, or recovering when things go wrong.
 
 ### Devil's Bargain
 
