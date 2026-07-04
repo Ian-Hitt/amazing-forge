@@ -55,6 +55,29 @@
   #body
 ]
 
+// ---- art slots -------------------------------------------------------------
+// Every illustration position in the book is a "slot." The build script checks
+// build/art/ for a file named by the slot ID (e.g. G3.png): if present it emits
+// an #art-image(...) call; if absent it emits #art-placeholder(...), a labeled
+// dashed box so the position is still visibly PLACED in the PDF before real art
+// exists. Drop an image named by ID into build/art/ and it swaps in on rebuild.
+#let art-placeholder(id, caption, width: 100%, height: 2in) = block(
+  width: width, height: height, above: 1.2em, below: 1.2em,
+  fill: luma(246), stroke: (paint: soft, thickness: 0.8pt, dash: "dashed"),
+  radius: 3pt, inset: 12pt, breakable: false,
+)[
+  #align(center + horizon)[
+    #set text(font: sans, fill: soft)
+    #set par(justify: false, leading: 0.5em)
+    #text(weight: 700, size: 9.5pt, tracking: 0.15em)[ART · #upper(id)]
+    #v(0.35em)
+    #text(size: 8.5pt, style: "italic")[#caption]
+  ]
+]
+#let art-image(path, width: 100%, height: auto) = block(
+  above: 1.2em, below: 1.2em, breakable: false,
+)[#image(path, width: width, height: height, fit: "contain")]
+
 // running-head state: current Part and Chapter
 #let cur-part = state("cur-part", none)
 #let cur-chap = state("cur-chap", none)
@@ -80,13 +103,15 @@
   #v(reserve)
 ]
 
-// full-page part divider
-#let part-divider(kicker, title) = {
+// full-page part divider. `slot`/`art`: the divider illustration (D1–D4). The
+// build passes art: image(...) when the file exists, else leaves it none and we
+// draw a full-width placeholder box beneath the title so the slot is visible.
+#let part-divider(kicker, title, slot: none, art: none) = {
   cur-part.update(kicker)
   cur-chap.update(none)
   pagebreak(weak: true)        // digital build: no odd-page forcing (avoids blank versos)
   set page(header: none, footer: none)
-  v(2.6in)
+  v(1.3in)
   align(center)[
     #text(font: sans, size: 12pt, weight: 600, fill: soft, tracking: 0.3em)[#upper(kicker)]
     #v(0.5em)
@@ -94,5 +119,8 @@
     #v(0.6em)
     #text(font: sans, size: 30pt, weight: 800, fill: accent)[#title]
   ]
+  v(0.7in)
+  if art != none { align(center)[#art] }
+  else if slot != none { art-placeholder(slot, kicker + " divider illustration", height: 3.4in) }
   pagebreak(weak: true)
 }

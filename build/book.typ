@@ -53,6 +53,12 @@
     #v(0.35em)
     #line(length: 2.2em, stroke: 2pt + accent)
   ]
+  // reusable chapter-opener motif (slot O1): one banner reused on every chapter.
+  // Build passes --input opener=<path> when build/art/O1.* exists; else a slim
+  // placeholder banner marks the slot on each chapter head.
+  let op = sys.inputs.at("opener", default: "")
+  if op != "" { block(above: 0pt, below: 1.4em)[#image(op, width: 100%)] }
+  else { art-placeholder("O1", "chapter-opener motif (reused every chapter)", height: 0.85in) }
 }
 // reserve space below each heading so it never starts near the page bottom
 // (see heading-keep in lib.typ) — leaves a gap on the prior page for art.
@@ -112,6 +118,18 @@
   ]
   #place(bottom + center, dy: -0.2in)[
     #text(font: sans, size: 9pt, fill: soft)[Working draft]
+  ]
+]
+
+// ---- front matter: frontispiece (slot C2) ----------------------------------
+// Full-page establishing illustration facing the title. Build passes
+// --input frontispiece=<path> when build/art/C2.* exists; else a placeholder.
+#page(header: none, footer: none)[
+  #let fp = sys.inputs.at("frontispiece", default: "")
+  #if fp != "" [
+    #align(center + horizon)[#image(fp, width: 100%, height: 100%, fit: "contain")]
+  ] else [
+    #align(center + horizon)[#art-placeholder("C2", "frontispiece — full-page establishing scene", height: 6.5in)]
   ]
 ]
 

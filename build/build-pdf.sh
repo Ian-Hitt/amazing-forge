@@ -18,6 +18,17 @@ ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 DOCS="$ROOT/docs"
 BUILD="$ROOT/build"
 CONTENT="$BUILD/content.typ"
+ART="$BUILD/art"
+mkdir -p "$ART"
+
+# Resolve an art slot to an image file if one exists (any common extension).
+# Prints the root-relative path (e.g. /build/art/G3.png) or nothing.
+art_path() { # $1 = slot ID
+  local ext
+  for ext in png jpg jpeg svg webp; do
+    if [[ -f "$ART/$1.$ext" ]]; then printf '/build/art/%s.%s' "$1" "$ext"; return; fi
+  done
+}
 
 # Output mode:  (default) full color for digital  |  "print" = B&W-priced interior
 MODE_INPUT=()
@@ -56,8 +67,37 @@ PART4=( part-four/00-introduction.md part-four/the-story-engine.md \
         part-four/teaching-the-game.md part-four/design-notes.md )
 
 md2typ() { # $1 = docs-relative path -> append Typst markup to $CONTENT
-  "$PANDOC" "$DOCS/$1" -f gfm -t typst --wrap=preserve >> "$CONTENT"
+  case "$1" in
+    part-three/genres/*.md)                     # genre files carry a plate (G1–G7)
+      local base slot cap
+      base="$(basename "$1" .md)"
+      case "$base" in
+        adventure)       slot=G1; cap="Adventure genre plate";;
+        mystery)         slot=G2; cap="Mystery genre plate";;
+        horror)          slot=G3; cap="Horror genre plate";;
+        sci-fi)          slot=G4; cap="Sci-Fi genre plate";;
+        caper)           slot=G5; cap="Caper genre plate";;
+        drama)           slot=G6; cap="Drama genre plate";;
+        post-apocalypse) slot=G7; cap="Post-Apocalypse genre plate";;
+      esac
+      md2typ_genre "$1" "$slot" "$cap"
+      ;;
+    *)
+      "$PANDOC" "$DOCS/$1" -f gfm -t typst --wrap=preserve >> "$CONTENT"
+      printf '\n\n' >> "$CONTENT"
+      ;;
+  esac
+}
+
+md2typ_genre() { # $1 file, $2 slot ID, $3 caption — insert the plate after the H1
+  local tmp art img; tmp="$(mktemp)"
+  "$PANDOC" "$DOCS/$1" -f gfm -t typst --wrap=preserve > "$tmp"
+  img="$(art_path "$2")"
+  if [[ -n "$img" ]]; then art="#art-image(\"$img\", width: 100%)"
+  else art="#art-placeholder(\"$2\", \"$3\", height: 3.6in)"; fi
+  awk -v art="$art" '{print} /^= / && !done {print ""; print art; print ""; done=1}' "$tmp" >> "$CONTENT"
   printf '\n\n' >> "$CONTENT"
+  rm -f "$tmp"
 }
 
 md2typ_intro() { # like md2typ, but drop the leading H1 so the part-intro doesn't
@@ -66,9 +106,15 @@ md2typ_intro() { # like md2typ, but drop the leading H1 so the part-intro doesn'
   printf '\n\n' >> "$CONTENT"
 }
 
-emit_part() { # $1 kicker, $2 title, rest = files (first file is the part intro)
-  local kicker="$1" title="$2"; shift 2
-  printf '#part-divider("%s", "%s")\n\n' "$kicker" "$title" >> "$CONTENT"
+emit_part() { # $1 kicker, $2 title, $3 divider slot, rest = files (first = intro)
+  local kicker="$1" title="$2" slot="$3"; shift 3
+  local img; img="$(art_path "$slot")"
+  if [[ -n "$img" ]]; then
+    printf '#part-divider("%s", "%s", slot: "%s", art: image("%s", width: 82%%))\n\n' \
+      "$kicker" "$title" "$slot" "$img" >> "$CONTENT"
+  else
+    printf '#part-divider("%s", "%s", slot: "%s")\n\n' "$kicker" "$title" "$slot" >> "$CONTENT"
+  fi
   local intro="$1"; shift
   md2typ_intro "$intro"
   for f in "$@"; do md2typ "$f"; done
@@ -77,10 +123,10 @@ emit_part() { # $1 kicker, $2 title, rest = files (first file is the part intro)
 echo "→ assembling content.typ"
 printf '#import "lib.typ": *\n\n' > "$CONTENT"
 for f in "${FRONT[@]}"; do md2typ "$f"; done
-emit_part "Part One"   "Your First Game"          "${PART1[@]}"
-emit_part "Part Two"   "Playing the Game, In Depth" "${PART2[@]}"
-emit_part "Part Three" "Building Your World"       "${PART3[@]}"
-emit_part "Part Four"  "Reference & Tools"         "${PART4[@]}"
+emit_part "Part One"   "Your First Game"           D1 "${PART1[@]}"
+emit_part "Part Two"   "Playing the Game, In Depth" D2 "${PART2[@]}"
+emit_part "Part Three" "Building Your World"        D3 "${PART3[@]}"
+emit_part "Part Four"  "Reference & Tools"          D4 "${PART4[@]}"
 
 # Map web emoji to print-friendly colored markers. Source keeps the emoji (they
 # render in color on the website); the PDF gets typographic equivalents instead.
@@ -101,6 +147,11 @@ sed -i '' \
   -e 's/columns: 3,/columns: (auto, 1fr, 1fr),/g' \
   -e 's/columns: 4,/columns: (auto, 1fr, 1fr, 1fr),/g' \
   "$CONTENT"
+
+# Whole-book art slots passed as inputs: the reusable opener motif (O1) and the
+# frontispiece (C2). When the file is absent the template draws a placeholder.
+OPENER_IMG="$(art_path O1)"; [[ -n "$OPENER_IMG" ]] && MODE_INPUT+=(--input "opener=$OPENER_IMG")
+FP_IMG="$(art_path C2)";     [[ -n "$FP_IMG" ]]     && MODE_INPUT+=(--input "frontispiece=$FP_IMG")
 
 echo "→ compiling PDF with Typst"
 # Hermetic fonts: embed ONLY the OFL/commercially-licensed fonts vendored in

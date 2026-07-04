@@ -60,6 +60,21 @@ top of `lib.typ`.
 typst compile --root . --pages 1,2,120 --format png build/book.typ "build/preview/p{p}.png"
 ```
 
+## Art slots (placeholders → real art)
+
+Every illustration position in the book is a **slot** with an ID (see the shot list in
+`../Art Direction & Placement Plan.md`). The build draws a labeled dashed **placeholder box**
+at each slot until you supply an image, so the book always compiles and every art position is
+visibly placed — ideal for a designer handoff.
+
+- **Drop in art:** save `build/art/<ID>.<ext>` (`png`/`jpg`/`svg`/`webp`), e.g. `build/art/D1.png`.
+  Re-run `./build/build-pdf.sh` — the box is replaced by the image. No code change.
+- **Wired slots:** `C2` frontispiece · `D1`–`D4` part dividers · `G1`–`G7` genre plates ·
+  `O1` reusable chapter-opener motif (same image on every chapter head).
+- `build/art/` is **gitignored** — placeholder art stays local, off the public repo.
+- Mechanics: `art-placeholder` / `art-image` live in `lib.typ`; `part-divider(..., slot:, art:)`
+  carries the divider art; `O1`/`C2` are passed to Typst as `--input opener=…` / `frontispiece=…`.
+
 ## Typography
 
 - Body: **Source Serif 4** · Headings/UI: **Montserrat** · Accent: deep orange `#cf4b1a`
