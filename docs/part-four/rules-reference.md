@@ -160,6 +160,8 @@ So your modifier is:
 - **+1** if either a Stat or an Asset fits.
 - **+2** if both fit.
 
+Add that modifier to the total of your 2d6 to get your final result, then compare it to the outcomes below.
+
 <div class="lca-move" markdown>
 <p class="lca-move-name">The Roll <span class="lca-when">— any risky action</span></p>
 
