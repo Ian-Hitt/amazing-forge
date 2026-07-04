@@ -156,7 +156,7 @@ If that Stat is one of the two you picked at character creation, add **+1.**
 
 So your modifier is:
 
-- **+0** if neither fits — you can still try, you just roll the bare dice.
+- **+0** if neither fits — you can still try, you just don't get a modifier this time.
 - **+1** if either a Stat or an Asset fits.
 - **+2** if both fit.
 
@@ -178,7 +178,7 @@ Your total lands in one of three bands. Each one tells you both what happens in 
 
 - **Strong Hit (10+):** it works, clean and simple. You narrate how it goes your way.
 - **Weak Hit (7–9):** it works, but there's a cost — you succeed *and* **Pay the Price** (see below).
-- **Miss (6−):** it doesn't work. **Pay the Price**, *or* take the **Devil's Bargain** to grab the win anyway and feed the antagonist.
+- **Miss (6−):** it doesn't work. **Pay the Price**, *or* take the **Devil's Bargain.**
 
 **Fiction bookends the roll.** Story first, dice second, then back to story: something's in motion, you roll to see how it turns out, and you narrate what that result looks like — on *every* result, Hit or Miss. The dice tell you *how* the story bends; you tell the rest. In **Co-op play** (the default) the rolling player narrates the whole outcome, the win *and* the cost; with a **Guide**, the hero narrates their successes and the Guide narrates the Pay the Price.
 
