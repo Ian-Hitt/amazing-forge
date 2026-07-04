@@ -49,8 +49,6 @@ Before making heroes, build the world together — answer these ten questions ou
 9. **Forbidden** — One place, object, or action that's off-limits.
 10. **Reputation** — When people see a group like yours, what do they think?
 
-The **Threats** (Q8) are your ready-made Story Arc seeds — look here first when you set one up, below.
-
 ### Heroes
 
 Each player (except for a Guide) builds one hero in about five minutes. A hero is four things: a **Concept**, two **Stats**, three **Assets**, and **Readiness**.
