@@ -184,10 +184,6 @@ Your total lands in one of three bands. Each one tells you both what happens in 
 - **Weak Hit (7–9):** it works, but there's a cost — you succeed *and* **Pay the Price** (see below).
 - **Miss (6−):** it doesn't work. **Pay the Price**, *or* take the **Devil's Bargain.**
 
-##### Fiction, Roll, Fiction
-
-Story first, dice second, then back to story: something's in motion, you roll to see how it turns out, and you narrate what that result looks like. The dice tell you *how* the story bends; you tell the rest. In **Co-op play** (the default) the rolling player narrates the whole outcome, the win *and* the cost; with a **Guide**, the hero narrates their successes and the Guide narrates the Pay the Price.
-
 ##### Doubles
 
 When both dice show the *same* number (two 4s, two 6s), the moment swings hard — the game's critical hit *and* critical miss in one rule. Read your result as normal, then apply doubles:
@@ -195,6 +191,10 @@ When both dice show the *same* number (two 4s, two 6s), the moment swings hard �
 - **Strong Hit:** an **Outstanding Success** — you succeed in spectacular fashion (narrate how it goes even better than you hoped), and the momentum carries you: **+1 to your next roll.**
 - **Weak Hit:** bump it up a tier to a **Strong Hit.** A lucky break.
 - **Miss:** the Miss still stands, *and* the **Antagonist Track advances one box** (the antagonist's clock, above). The bad guys seize the opening.
+
+##### Fiction, Roll, Fiction
+
+Story first, dice second, then back to story: something's in motion, you roll to see how it turns out, and you narrate what that result looks like. The dice tell you *how* the story bends; you tell the rest. In **Co-op play** (the default) the rolling player narrates the whole outcome, the win *and* the cost; with a **Guide**, the hero narrates their successes and the Guide narrates the Pay the Price.
 
 #### Pay the Price
 
@@ -207,6 +207,19 @@ A **Weak Hit or a Miss costs Readiness** — the complication that follows when 
 
 - **Weak Hit:** lose **1** Readiness.
 - **Miss:** lose **2** Readiness.
+
+Pick the twist that fits the fiction — or, in **Co-op,** roll a **d6** here if you'd rather be surprised:
+
+| d6 | What goes wrong |
+|---|---|
+| **1** | You're physically hurt. |
+| **2** | You become stressed, depressed, or anxious. |
+| **3** | You lose valuable supplies. |
+| **4** | A friend turns against you. |
+| **5** | The environment turns against you. |
+| **6** | A new complication appears. |
+
+Whatever the twist, **you always lose the Readiness above** — so describe how it hurts you, however it fits.
 </div>
 
 > **Party size.** The game is balanced for a party of **2–3 heroes.** With **4 or 5 heroes,** increase each Readiness loss by **+1** — a Weak Hit costs **2**, a Miss costs **3.**
