@@ -360,11 +360,11 @@ When the story stalls and the table isn't sure what happens next — especially 
 - **Story Spark (d6)** — *what happens next:* **1** a new face · **2** a discovery · **3** the threat closes in · **4** a door opens · **5** a cost surfaces · **6** a hard choice. Bend the result toward your next Milestone.
 - **Ask the Dice (d6)** — *for a yes/no question:* **1** no, and worse · **2–3** no · **4–5** yes · **6** yes, and better. (+1 if a yes is likely, −1 if unlikely.)
 
-# Between Adventures
+### Between Adventures
 
 *Rules you reach for after your first game — once a Story Arc wraps and the heroes carry on.*
 
-## Downtime
+#### Downtime
 
 When a Story Arc wraps, the heroes take Downtime to set right what the adventure cost them — specifically, to repair any Assets that broke along the way.
 
@@ -374,9 +374,29 @@ When a Story Arc wraps, the heroes take Downtime to set right what the adventure
 **When a Story Arc ends and the heroes rest between adventures,** restore everyone's **Broken Assets** — your heroes are whole again for the next Story. (Readiness comes back free any time you regroup, so Downtime is really just about un-breaking what the last adventure cost you.)
 </div>
 
-## Growth
+#### Growth
 
 Over a campaign, heroes grow by gaining new tricks — **signature moves and fresh tools** that open up new things to do at the table. The party earns **1 Growth** every **3rd Milestone** it marks (on any Story Arc; cumulative, never resets), so a single Episode earns too little to spend — advancement is built for ongoing play. Spend it on one of two things:
 
 - **Boon — 2 Growth:** a signature move attached to an Asset (max 2 per Asset).
 - **New Asset — 5 Growth:** up to a ceiling of 6 Assets; at six, **Trade In** (retire one) to add another.
+
+A Boon is built from a fixed **Effect** (what it does) plus an open **Trigger** (when you may use it) — and those two decide how often it fires:
+
+<div class="lca-move" markdown>
+<p class="lca-move-name">Build a Boon <span class="lca-when">— 2 Growth · max 2 per Asset</span></p>
+
+**1. Pick an Effect** — the only part that touches the dice (this menu is fixed):
+
+- *Strong:* **Upgrade** a result one tier · **+1 to the roll** · **Take the Price** for yourself or an ally.
+- *Mild:* **Reroll** a Miss · **+1 to your next roll** (or an ally's) · **Lend a reroll** when you help · a **free Oracle** question · **Steady Hands** (+1 extra when you Mend).
+
+**2. Pick a Trigger** — when you're allowed to use it. Wide open: *"in a fight," "while protecting someone," "reading a room."*
+
+**3. Read off how often it fires:**
+
+- A **Strong** Effect fires **once per Session**; a **Mild** Effect, **once per Scene**.
+- **Lock the Trigger to a specific situation** and it fires **one step more often** (a Strong Effect drops to once per Scene).
+
+*A Boon only works when its Asset is in play — and it can never mark track progress or keep you from going Out of Action.*
+</div>
