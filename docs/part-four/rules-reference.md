@@ -144,20 +144,6 @@ That's everything you need to start your story. **Playing the Game,** next, cove
 
 This is the game's core mechanic — how the story decides what happens next. Whenever a hero tries to do something risky, you roll to find out how it turns out. **The Core Roll:** roll **2d6** and add **+1** if the action calls for one of your Stats, **+1** if one of your Assets fits — so **+2** when both apply, **+0** when neither does (you can still try; you just roll the bare dice).
 
-| Roll (2d6) | Result | What it means |
-|---|---|---|
-| **10+** | **Strong Hit** | Clean success — *you narrate what happens.* |
-| **7–9** | **Weak Hit** | Success, but **Pay the Price.** |
-| **6−** | **Miss** | It fails, and **Pay the Price.** |
-
-**Fiction bookends the roll.** Story first, dice second, then back to story: something's in motion, you roll to see how it turns out, and you narrate what that result looks like — on *every* result, Hit or Miss. The dice tell you *how* the story bends; you tell the rest. In **Co-op play** (the default) the rolling player narrates the whole outcome, the win *and* the cost; with a **Guide**, the hero narrates their successes and the Guide narrates the Pay the Price.
-
-**Doubles.** When both dice show the *same* number (two 4s, two 6s), the moment swings hard — the game's critical hit *and* critical miss in one rule. Read your result as normal, then apply doubles:
-
-- **Strong Hit:** an **Outstanding Success** — you succeed in spectacular fashion (narrate how it goes even better than you hoped), and the momentum carries you: **+1 to your next roll.**
-- **Weak Hit:** bump it up a tier to a **Strong Hit.** A lucky break.
-- **Miss:** the Miss still stands, *and* the **Antagonist Track advances one box** (the antagonist's clock, above). The bad guys seize the opening.
-
 <div class="lca-move" markdown>
 <p class="lca-move-name">The Roll <span class="lca-when">— any risky action</span></p>
 
@@ -167,6 +153,14 @@ This is the game's core mechanic — how the story decides what happens next. Wh
 - **Weak Hit (7–9):** success, but **Pay the Price.**
 - **Miss (6−):** it fails, and **Pay the Price** *(or take the Devil's Bargain).*
 </div>
+
+**Fiction bookends the roll.** Story first, dice second, then back to story: something's in motion, you roll to see how it turns out, and you narrate what that result looks like — on *every* result, Hit or Miss. The dice tell you *how* the story bends; you tell the rest. In **Co-op play** (the default) the rolling player narrates the whole outcome, the win *and* the cost; with a **Guide**, the hero narrates their successes and the Guide narrates the Pay the Price.
+
+**Doubles.** When both dice show the *same* number (two 4s, two 6s), the moment swings hard — the game's critical hit *and* critical miss in one rule. Read your result as normal, then apply doubles:
+
+- **Strong Hit:** an **Outstanding Success** — you succeed in spectacular fashion (narrate how it goes even better than you hoped), and the momentum carries you: **+1 to your next roll.**
+- **Weak Hit:** bump it up a tier to a **Strong Hit.** A lucky break.
+- **Miss:** the Miss still stands, *and* the **Antagonist Track advances one box** (the antagonist's clock, above). The bad guys seize the opening.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Aid Your Ally <span class="lca-when">— spend your roll to help a teammate</span></p>
