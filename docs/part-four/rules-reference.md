@@ -281,10 +281,7 @@ When a Scene is worth a track, set it up before anyone rolls — name what's at 
 
 1. **Name the goal** — what beating this Challenge accomplishes (the thing the track measures).
 2. **Choose a difficulty** — Normal (3 boxes), Hard (6), or Epic (9) — and draw the track.
-3. **Each player rolls a d6** for their starting situation — a one-time nudge to *their* first roll in the Challenge:
-    - **5–6:** You're well prepared for this — **+1** to your first roll.
-    - **3–4:** No edge either way — run the Challenge as normal.
-    - **1–2:** The Challenge caught you off guard, or your foe was ready for it — **−1** to your first roll.
+3. **Make a Lights, Camera, Action roll,** aimed at this Scene, to set how each hero enters it.
 </div>
 
 #### Fall back
