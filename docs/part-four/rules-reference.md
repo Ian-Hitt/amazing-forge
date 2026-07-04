@@ -402,7 +402,7 @@ A Boon is one **Effect** (what it does) plus a **Trigger** (the situation it fir
 - **Free Oracle** — ask the Oracle one yes/no question for free.
 - **Steady Hands** — when you Mend, restore +1 extra, and you can Mend an ally as easily as yourself.
 
-**2. Pick a Trigger** (always required) — the situation the Boon may be used in: *"in a fight," "while protecting someone," "when reading a room."*
+**2. Pick a Trigger** — the situation the Boon may be used in: *"in a fight," "while protecting someone," "when reading a room."*
 
 *A Boon only works when its Asset is in play — and it can never mark track progress or keep you from going Out of Action.*
 </div>
