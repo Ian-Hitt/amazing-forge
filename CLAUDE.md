@@ -136,12 +136,13 @@ authoritative**; V3/V4 are older and superseded where they differ.
 - **Boons are built, not picked (build-a-Boon, Ch.13):** a Boon = **Trigger** (when you may use it —
   open/flavorful, genres supply d10 tables) + **Effect** (what it does — a *closed* fixed list, the
   only dice-touching part; genres never add Effects). **Cadence is derived:** Strong effect (Upgrade
-  / +1-to-roll / Take the Price) = once/Session, Mild (Reroll / +1-to-your-next-roll / Lend-a-reroll / Free
-  Oracle / Steady-Hands-Mend) = once/Scene; **lock the Trigger to a situation → one step more often**.
+  / Take the Price) = once/Session, Mild (Reroll / +1-to-your-next-roll / Lend-a-reroll /
+  Steady-Hands-Mend) = once/Scene; **lock the Trigger to a situation → one step more often**.
   Never a *permanent* modifier (banked +1 = a temporary one-roll bonus, §4c-safe); excluded effects =
   extra track progress, preventing Out of Action. Max 2 Boons/Asset. Named **recipes** (Signature
-  Move, In My Element, Dig Deep, Reliable, Lend a Hand, Mender, Scout, Take the Hit) are pre-built
-  combos. Genre d10 trigger tables: **all 7 kits done.**
+  Move, In My Element, Reliable, Lend a Hand, Mender, Scout, Take the Hit) are pre-built
+  combos. Genre d10 trigger tables: **all 7 kits done.** (**+1-to-roll** and **Free Oracle** effects
+  cut 2026-07-04; **Dig Deep** recipe cut with the on-demand +1.)
 
 ## Working notes
 

@@ -255,7 +255,7 @@ A mystery is mostly digging for the truth — but cases bite back, and a table o
 
 ### Mystery Boon triggers (d10)
 
-*When a hero builds a Boon (Chapter 13), the **Trigger** is the moment they get to use it. These are the situations a Mystery hero shines in — roll **d10** or just pick one. Lock a **Strong** effect (Upgrade, +1 to the roll, Take the Price) to one of these and it fires **once per Scene** instead of once per Session.*
+*When a hero builds a Boon (Chapter 13), the **Trigger** is the moment they get to use it. These are the situations a Mystery hero shines in — roll **d10** or just pick one. Lock a **Strong** effect (Upgrade, Take the Price) to one of these and it fires **once per Scene** instead of once per Session.*
 
 | d10 | When you're… |
 |---|---|

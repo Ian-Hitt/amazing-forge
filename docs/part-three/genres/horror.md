@@ -245,7 +245,7 @@ Horror isn't about winning fights — it's about surviving, and not everyone mak
 
 ### Horror Boon triggers (d10)
 
-*When a hero builds a Boon (Chapter 13), the **Trigger** is the moment they get to use it. These are the situations a Horror hero shines in — roll **d10** or just pick one. Lock a **Strong** effect (Upgrade, +1 to the roll, Take the Price) to one of these and it fires **once per Scene** instead of once per Session.*
+*When a hero builds a Boon (Chapter 13), the **Trigger** is the moment they get to use it. These are the situations a Horror hero shines in — roll **d10** or just pick one. Lock a **Strong** effect (Upgrade, Take the Price) to one of these and it fires **once per Scene** instead of once per Session.*
 
 | d10 | When you're… |
 |---|---|

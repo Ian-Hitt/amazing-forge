@@ -68,7 +68,6 @@ You can attach up to **two Boons** to any one Asset.
 | Effect | What it does | Strength |
 |---|---|---|
 | **Upgrade** | Treat one result as **one tier better** — a Miss becomes a Weak Hit, or a Weak Hit becomes Strong. | Strong |
-| **+1 to the roll** | Add **+1** before you read the result — a one-time **+3** with your Asset, for the roll that has to land. | Strong |
 | **Take the Price** | This Asset (or you) **pays a Price for you or an ally beside you** — the hero in danger loses no Readiness; it lands on the Asset in the fiction. | Strong |
 | **Reroll** | **Reroll a Miss** once with this Asset. Take the new result. | Mild |
 | **+1 to your next roll** | Give your **next** roll — or an ally's — **+1**. | Mild |
@@ -107,7 +106,6 @@ Mixing your own is the power move, but you don't have to. These pre-built combos
 |---|---|---|---|
 | **Signature Move** | any time the Asset applies | Upgrade | once/Session |
 | **In My Element** | a situation you name | Upgrade | once/Scene |
-| **Dig Deep** | any time | +1 to the roll | once/Session |
 | **Reliable** | any time | Reroll | once/Scene |
 | **Lend a Hand** | when you help an ally | Lend a reroll | once/Scene |
 | **Mender** | when you Mend | Steady Hands | per Mend |
@@ -118,14 +116,14 @@ Picture them in play:
 
 - ***My Loyal Wolf*** + **Take the Price** (*any time*) — the trap snaps shut, and the Wolf shoulders you clear and takes the fall instead.
 - ***Trick Arrows*** + **Upgrade** locked to *in a fight* (that's **In My Element**) — a so-so shot (Weak) becomes the perfect ricochet (Strong) the moment the blades come out.
-- ***Old Family Sword*** + **+1 to the roll** (**Dig Deep**) — the blow has to land *right now,* so you put everything behind it (+1) and trust the steel.
+- ***Keen-Eyed Ranger*** + **+1 to your next roll** locked to *when you scout ahead* (that's **Scout**) — you slip forward, read the ground, and come back with the edge (+1) for the move that follows.
 - ***Healing Herbs*** + **Steady Hands** (**Mender**) — the same poultice that patches you up does a little more, and works just as well on the friend bleeding beside you.
 
 ### The two rules behind it all
 
 The build keeps you honest automatically, but if a player ever pitches something off-menu, it has to pass the same two tests every Boon does:
 
-1. **It's a move you spend, not a permanent number.** A Boon can hand you a *banked* nudge — that's what **+1 to the roll** is — but it can never quietly raise your baseline. An always-on *"+1 to all my fighting rolls"* is out: that's a bigger number on every roll, forever. The test is **"is this a permanent stat bump, or a limited move I spend?"**
+1. **It's a move you spend, not a permanent number.** A Boon can hand you a *banked* nudge — that's what **+1 to your next roll** is — but it can never quietly raise your baseline. An always-on *"+1 to all my fighting rolls"* is out: that's a bigger number on every roll, forever. The test is **"is this a permanent stat bump, or a limited move I spend?"**
 2. **It has a limit, and the Asset has to be in play.** Once per Scene or once per Session, tied to one specific Asset, only when that Asset fits the moment. A trick you can do every single roll isn't a signature move — it's power creep.
 
 ---

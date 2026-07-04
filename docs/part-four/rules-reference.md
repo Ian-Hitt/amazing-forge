@@ -391,7 +391,6 @@ A Boon is one **Effect** (what it does) plus a **Trigger** (the situation it fir
 *Strong Effects — once per Session:*
 
 - **Upgrade** — treat one result as one tier better (a Miss becomes a Weak Hit; a Weak Hit becomes Strong).
-- **+1 to the roll** — add +1 before you read the result.
 - **Take the Price** — a Price aimed at you or an ally beside you lands on this Asset instead, so the hero loses no Readiness.
 
 *Mild Effects — once per Scene:*

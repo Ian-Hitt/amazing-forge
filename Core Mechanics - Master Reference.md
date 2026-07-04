@@ -428,7 +428,7 @@ recovery and Out of Action work is covered under **Recovery** (Section 7).
   open, flavorful, genre-supplied) + an **Effect** (what it does — a **closed, fixed list**, the
   only part that touches the dice). Genres add Triggers, never Effects.
   - **Effects (closed list).** *Strong:* **Upgrade** (one tier better — Miss→Weak or Weak→Strong),
-    **+1 to the roll** (banked one-time +1), **Take the Price** (Asset/you absorbs a Price for you
+    **Take the Price** (Asset/you absorbs a Price for you
     or a nearby ally). *Mild:* **Reroll** a Miss, **+1 to your next roll** (your or an ally's next roll),
     **Lend a reroll** (aided ally rerolls a Miss), **Steady Hands**
     (your **Mend** gives +1 / lets you Mend an ally as if yourself). Explicitly **excluded** (balance
@@ -442,8 +442,8 @@ recovery and Out of Action work is covered under **Recovery** (Section 7).
     (sim-cleared, `Math & Simulation Reference.md` §4c) — **never** a permanent modifier, so the
     +0/+1/+2 curve and enemy tracks still never rescale.
   - **Recipes (pre-built combos, presented by name in the book):** Signature Move (any time +
-    Upgrade, Session), In My Element (situation + Upgrade, Scene), Dig Deep (any time + +1 to roll,
-    Session), Reliable (any time + Reroll, Scene), Lend a Hand (help an ally + Lend a reroll, Scene),
+    Upgrade, Session), In My Element (situation + Upgrade, Scene),
+    Reliable (any time + Reroll, Scene), Lend a Hand (help an ally + Lend a reroll, Scene),
     Mender (when you Mend + Steady Hands), Scout (when you scout ahead + +1 to your next roll, Scene), Take the Hit (any
     time + Take the Price, Session). Each genre kit carries a **d10 Boon-trigger table** (all 7 done).
 - **Asset ceiling: 6.** A hero starts with three Assets and can buy up to three more. Beyond six
@@ -1327,8 +1327,8 @@ fifth Core Principle, and the *Amazing Tales* **starter-backdrop** option.
 - ✅ **Character advancement (2026-06-08)** — **horizontal** growth via a per-hero **Growth
   Track**: earn 1 **Growth** every 3 Milestones (cumulative, never resets per arc); spend **2** on a **Boon** (a once-per-
   Scene/Session signature move on an Asset, max 2/Asset) or **5** on a **New Asset** (ceiling
-  6; **Trade In** one to exceed). Never adds a *permanent* modifier (a banked once/Session +1
-  to a single roll — **Dig Deep** — is allowed, the same safe lever as the Start-a-Challenge roll, §4c),
+  6; **Trade In** one to exceed). Never adds a *permanent* modifier (a banked once/Scene +1
+  to your next roll — **+1 to your next roll** — is allowed, the same safe lever as the Start-a-Challenge roll, §4c),
   so the curve and enemy tracks need no rescaling. ("Widen the Domain" considered and cut as
   the lone non-horizontal option.)
   Section 4, Step 4.
