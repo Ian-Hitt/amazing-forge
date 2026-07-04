@@ -138,9 +138,13 @@ That's everything you need to start your story. **Playing the Game,** next, cove
 
 *You've built your world, created your heroes, and set up a Story Arc — now it's time to play. This section covers all the rules you'll need to find out what happens, scene by scene.*
 
+## Fiction, Roll, Fiction
+
+The rhythm underneath every roll: story first, dice second, then back to story. Something's in motion, you roll to see how it turns out, and you narrate what that result looks like. The dice tell you *how* the story bends; you tell the rest. In **Co-op play** (the default) the rolling player narrates the whole outcome, the win *and* the cost; with a **Guide**, the hero narrates their successes and the Guide narrates the Pay the Price.
+
 ## Core Moves
 
-These two happen on nearly every roll, no matter what a hero is doing. Learn them first — everything else builds on them.
+These core moves happen on nearly every roll, no matter what a hero is doing. Learn them first — everything else builds on them.
 
 ### The Roll
 
@@ -191,10 +195,6 @@ When both dice show the *same* number, the moment swings hard — the game's cri
 - **Strong Hit:** an **Outstanding Success** — you succeed in spectacular fashion (narrate how it goes even better than you hoped), and the momentum carries you: **+1 to your next roll.**
 - **Weak Hit:** bump it up a tier to a **Strong Hit.** A lucky break.
 - **Miss:** the Miss still stands, *and* the **Antagonist Track advances one box** (the antagonist's clock, above). The bad guys seize the opening.
-
-#### Fiction, Roll, Fiction
-
-Story first, dice second, then back to story: something's in motion, you roll to see how it turns out, and you narrate what that result looks like. The dice tell you *how* the story bends; you tell the rest. In **Co-op play** (the default) the rolling player narrates the whole outcome, the win *and* the cost; with a **Guide**, the hero narrates their successes and the Guide narrates the Pay the Price.
 
 ### Pay the Price
 
