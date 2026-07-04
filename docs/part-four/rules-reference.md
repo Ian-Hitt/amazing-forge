@@ -6,6 +6,15 @@
 
 **What you need:** two six-sided dice, pencil and paper, this reference, and **2 to 6 players.**
 
+**How to play, start to finish:**
+
+1. **Build the world.** Answer ten quick questions together to sketch the setting you'll adventure in.
+2. **Create your heroes.** Each player builds one hero — a Concept, two Stats, three Assets, and a Readiness track.
+3. **Set up your Story Arc.** Name a Goal and an antagonist, pick a length, and draw the two tracks that race toward the climax.
+4. **Start playing!** Roll the dice, tackle Challenges, and make the story up together until someone's track fills.
+
+The rest of this reference expands each step. **Starting the Game** covers steps 1–3; **Playing the Game** covers step 4.
+
 ---
 
 ## Starting the Game
