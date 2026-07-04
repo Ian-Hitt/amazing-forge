@@ -17,11 +17,11 @@ The rest of this reference expands each step. **Starting the Game** covers steps
 
 ---
 
-## Starting the Game
+# Starting the Game
 
 *Choose how you'll play, build your heroes, and set up the Story Arc — everything before the first roll.*
 
-### Choose Your Mode
+## Choose Your Mode
 
 First, decide how the table will play:
 
@@ -30,11 +30,11 @@ First, decide how the table will play:
 
 If you're playing Guided, pick who takes the Guide's chair now. Everyone else builds a hero. *(More on each mode under [Running the Game](#running-the-game).)*
 
-### One Story, or a Collection?
+## One Story, or a Collection?
 
 Next, decide the scope: are you playing **one Story** — complete on its own — or a **collection** of Stories chained into a longer saga? A run of linked Stories is a **Season;** a run of Seasons is a **Series.** You don't have to commit now — start with a single Story and let a bigger arc emerge if it wants to. *(How a single Story is sized comes up when you build it, under [Story Arcs & Milestones](#story-arcs-milestones), below.)*
 
-### Build Your World
+## Build Your World
 
 Before making heroes, build the world together — answer these ten questions out loud as a group, one sentence each. If you're stuck trying to answer any of these specific questions, you can skip it and fill it in later.
 
@@ -49,15 +49,15 @@ Before making heroes, build the world together — answer these ten questions ou
 9. **Forbidden** — One place, object, or action that's off-limits.
 10. **Reputation** — When people see a group like yours, what do they think?
 
-### Heroes
+## Heroes
 
 Each player (except for a Guide) builds one hero in about five minutes. A hero is four things: a **Concept**, two **Stats**, three **Assets**, and **Readiness**.
 
-#### Step 1: Concept
+### Step 1: Concept
 
 Write a one-line "movie-poster" pitch for your hero — *an Ice-Dragon Knight*, *a Grumpy Goblin Alchemist*. It's flavor, not a number, but it anchors everything else.
 
-#### Step 2: Stats
+### Step 2: Stats
 
 **Pick two** of the five Stats below — the broad kinds of action your hero is built for. When your hero takes action using one of their two Stats, they get **+1** to the roll (more on that in **The Roll**, below).
 
@@ -67,7 +67,7 @@ Write a one-line "movie-poster" pitch for your hero — *an Ice-Dragon Knight*, 
 - **Sneaky** — stealth, sleight of hand, a bluff
 - **Charming** — winning people over, heart, rallying
 
-#### Step 3: Assets
+### Step 3: Assets
 
 **Choose three Assets** — the specific tools, training, and ties that flesh out your Concept. When your hero takes action using one of their three Assets, they get **+1** to the roll (more on that in **The Roll**, below). Keep each broad enough to come up often but specific enough that it clearly doesn't cover everything. Need a starting point? Answer these three questions (you don't have to, and you can swap freely):
 
@@ -75,15 +75,15 @@ Write a one-line "movie-poster" pitch for your hero — *an Ice-Dragon Knight*, 
 2. **What's the one thing they're never without?** — a signature item, companion, or connection that's loaded with story.
 3. **What's their other side?** — a second talent or knack that shines in different moments than the first.
 
-#### Step 4: Readiness
+### Step 4: Readiness
 
 **Start at 9 Readiness** — your hero's single **Health Bar,** one track standing in for body, mind, and supplies alike. How it rises and falls is covered under **[Readiness & Recovery](#readiness-recovery)** (in *Playing the Game,* below).
 
-### Story Arcs & Milestones
+## Story Arcs & Milestones
 
 A Story Arc is the shape of a whole adventure: a race between the heroes' progress and the antagonist's, toward a climax. You track that race on **two tracks** drawn side by side — a **Hero Track** that measures *your* progress and an **Antagonist Track** that measures the *antagonist's.* If the heroes fill their track first, they win! If the antagonist track fills up first, you lose.
 
-#### Steps to Create a Story Arc
+### Steps to Create a Story Arc
 
 1. **Name the Goal** — a one-sentence victory condition.
 2. **Name the antagonist** — a person, faction, or *force* (a desert, a plague, a deadline). Give it a face and a goal of its own.
@@ -98,11 +98,11 @@ A Story Arc is the shape of a whole adventure: a race between the heroes' progre
 
 *Story Arc length — chosen when you build the Story Arc — sets the size of both tracks.*
 
-#### The Hero Track
+### The Hero Track
 
 The **Hero Track** fills one box per **Milestone** — a significant, pointable win on the way to the Goal: overcoming a major obstacle, learning something crucial, reaching a key place, securing something vital, winning someone over, or beating a notable threat. Mark a box when the heroes land one; fill the last one to reach the **climax** and win the Story. *(A Milestone tends to run about an hour of play — a few Scenes, one or two of them **Challenges** — more on those under [Challenges](#challenges), below.)*
 
-#### The Antagonist Track
+### The Antagonist Track
 
 The **Antagonist Track** represents the antagonist's progress toward their goal. It advances one box in exactly three ways *(each a rule explained further down; for now, just know these are how it fills up)*:
 
@@ -110,15 +110,15 @@ The **Antagonist Track** represents the antagonist's progress toward their goal.
 2. A **Miss comes up doubles.**
 3. A hero goes **Out of Action.**
 
-#### Bad Guys Close In
+### Bad Guys Close In
 
 Every other box on the Antagonist Track — the **odd boxes** — is a **"Bad Guys Close In"** beat. When one fills, stop and play it out: picture how the antagonist is getting closer to their goal and put it on screen. It's a real victory for them — the bad guys gaining ground. *(On the printable sheet it's shortened to "Closing In.")*
 
-#### Losing the Game
+### Losing the Game
 
 Fill the **last box** of the Antagonist Track and the antagonist wins — you lose the Story. (Not the whole game: heroes can't die, and a lost Story just seeds the next one.) You can also **Quit the Story Arc** outright at any time: give it up, no penalty.
 
-#### Lights, Camera, Action
+### Lights, Camera, Action
 
 With the Goal, the antagonist, and the tracks in place, one last roll launches the adventure. **Lights, Camera, Action** sets the *tone* of your opening — confident, uncertain, or already in trouble — and points you straight at the first scene, so play begins in motion instead of stalling on "so… what do we do first?"
 
@@ -134,15 +134,15 @@ With the Goal, the antagonist, and the tracks in place, one last roll launches t
 
 That's everything you need to start your story. **Playing the Game,** next, covers the rules for how that story actually plays out.
 
-## Playing the Game
+# Playing the Game
 
 *You've built your world, created your heroes, and set up a Story Arc — now it's time to play. This section covers all the rules you'll need to find out what happens, scene by scene.*
 
-### Core Moves
+## Core Moves
 
 These two happen on nearly every roll, no matter what a hero is doing. Learn them first — everything else builds on them.
 
-#### The Roll
+### The Roll
 
 This is the game's core mechanic — how the story decides what happens next. Whenever a hero tries to do something risky, you roll to find out how it turns out. **Roll 2d6, then work out your modifier:**
 
@@ -176,7 +176,7 @@ Add that modifier to the total of your 2d6 to get your final result, then compar
 - **Miss (6−):** it fails, and **Pay the Price** *(or take the Devil's Bargain).*
 </div>
 
-##### Interpreting the Result
+#### Interpreting the Result
 
 Your total lands in one of three bands. Each one tells you both what happens in the fiction and what it costs mechanically:
 
@@ -184,7 +184,7 @@ Your total lands in one of three bands. Each one tells you both what happens in 
 - **Weak Hit (7–9):** it works, but there's a cost — you succeed *and* **Pay the Price** (see below).
 - **Miss (6−):** it doesn't work. **Pay the Price**, *or* take the **Devil's Bargain.**
 
-##### Doubles
+#### Doubles
 
 When both dice show the *same* number (two 4s, two 6s), the moment swings hard — the game's critical hit *and* critical miss in one rule. Read your result as normal, then apply doubles:
 
@@ -192,11 +192,11 @@ When both dice show the *same* number (two 4s, two 6s), the moment swings hard �
 - **Weak Hit:** bump it up a tier to a **Strong Hit.** A lucky break.
 - **Miss:** the Miss still stands, *and* the **Antagonist Track advances one box** (the antagonist's clock, above). The bad guys seize the opening.
 
-##### Fiction, Roll, Fiction
+#### Fiction, Roll, Fiction
 
 Story first, dice second, then back to story: something's in motion, you roll to see how it turns out, and you narrate what that result looks like. The dice tell you *how* the story bends; you tell the rest. In **Co-op play** (the default) the rolling player narrates the whole outcome, the win *and* the cost; with a **Guide**, the hero narrates their successes and the Guide narrates the Pay the Price.
 
-#### Pay the Price
+### Pay the Price
 
 A **Weak Hit or a Miss costs Readiness** — the complication that follows when a roll doesn't go cleanly.
 
@@ -232,11 +232,11 @@ On a **Miss,** one extra option is on the table:
 **When a roll comes up a Miss,** you may refuse the Readiness loss **and** turn it into a **Strong Hit** — in exchange for **advancing the Antagonist Track one box.** Buying a win now for a step toward defeat. **Not** allowed on a Miss whose price would knock you Out of Action — you can't buy your way out of going down.
 </div>
 
-### Situational Moves
+## Situational Moves
 
 The core moves happen on nearly every roll; these come up only as the story calls for them — helping a teammate, running a big set-piece, or recovering when things go wrong.
 
-#### Aid Your Ally
+### Aid Your Ally
 
 Instead of acting for yourself, you can spend your roll to help someone else.
 
@@ -250,7 +250,7 @@ Instead of acting for yourself, you can spend your roll to help someone else.
 - **Miss:** no bonus, and **you** Pay the Price (−2).
 </div>
 
-#### Challenges
+### Challenges
 
 Most risky moments are **Regular Rolls** — one roll, read the result, move on. A **Challenge** is for a big set-piece that deserves more than a single roll: a monster fight, a desperate chase, a tense infiltration, a long trek. You draw a **row of boxes** and fill them roll by roll until the Scene is won — enemies have *no stats,* the **track itself is the obstacle.**
 
@@ -266,7 +266,7 @@ When you do draw one, **difficulty sets the length, the same at any number of he
 
 Take turns — **everyone acts once before anyone repeats.** On each Challenge Roll: **Strong** fills a box · **Weak** fills a box and you Pay the Price · **Miss** fills no box and you Pay the Price *(or take the Devil's Bargain).* Fill the last box and the obstacle is beaten.
 
-##### Start a Challenge
+#### Start a Challenge
 
 When a set-piece is worth a track, set it up before anyone rolls — name what's at stake, pick a length, and see how each hero enters the scene.
 
@@ -281,7 +281,7 @@ When a set-piece is worth a track, set it up before anyone rolls — name what's
     - **1–2:** The Challenge caught you off guard, or your foe was ready for it — **−1** to your first roll.
 </div>
 
-##### Fall back
+#### Fall back
 
 When a Challenge turns against you, you don't have to see it through — you can bail out, give up the progress, and regroup instead of risking more.
 
@@ -291,13 +291,13 @@ When a Challenge turns against you, you don't have to see it through — you can
 **When you bail out of a Challenge,** lose the track's progress and take a **Recovery Scene** (the party heals fully). Always safe, always available — the stay-alive valve.
 </div>
 
-#### Readiness & Recovery
+### Readiness & Recovery
 
 Readiness is your hero's single **Health Bar** — body, mind, and supplies rolled into one **0–9** track. You spend it pushing through trouble, and it refills whenever the action lets up. Drop to **0** and your hero goes **Out of Action** — knocked out of the Scene, never killed.
 
 Readiness comes back two ways — a quick patch or a full regroup.
 
-##### Mend
+#### Mend
 
 A small, risky patch you can attempt mid-scene to claw back some Readiness for yourself or an ally — quick, but it can backfire.
 
@@ -313,7 +313,7 @@ A small, risky patch you can attempt mid-scene to claw back some Readiness for y
 *No usage cap; capped at 9; can't revive an Out-of-Action hero. In a Challenge, this* is *your turn.*
 </div>
 
-##### Recovery Scene
+#### Recovery Scene
 
 The reliable reset: when the action lets up, the heroes fall back and regroup, and the whole party heals all the way back to full.
 
@@ -323,7 +323,7 @@ The reliable reset: when the action lets up, the heroes fall back and regroup, a
 **When the heroes fall back and regroup at a lull,** the whole party heals **fully back to 9.** No roll, fully reliable, and you can regroup as often as the fiction allows.
 </div>
 
-##### Out of Action
+#### Out of Action
 
 What happens when a hero's Readiness runs all the way out — they're knocked out of the Scene (never killed), and there's a cost.
 
@@ -338,25 +338,25 @@ What happens when a hero's Readiness runs all the way out — they're knocked ou
 
 Going Out of Action breaks an Asset until it's repaired — that repair is **Downtime,** under *Between Adventures* (below).
 
-### Running the Game
+## Running the Game
 
 A session runs one of two ways. **Guided:** one person runs the world, the NPCs, and the pacing. **Co-op:** there's no Guide — the table shares those duties and leans on **Ask the Oracle** (below) to find what happens next. Either way, the same two habits keep play cinematic:
 
 - **The Golden Rule** — when you're unsure, do the obvious or coolest next thing. **Cut to the exciting part:** don't roll when there's no real risk, and don't play out boring scenes.
 - **Open in the middle of the action** — skip the setup and start each scene at the first interesting moment.
 
-#### Ask the Oracle
+### Ask the Oracle
 
 When the story stalls and the table isn't sure what happens next — especially in Co-op, where this is the engine that generates the story — Ask the Oracle. First, name the next **Milestone** and do the **obvious** thing. If you'd rather be surprised, hand it to the dice with one of two tools:
 
 - **Story Spark (d6)** — *what happens next:* **1** a new face · **2** a discovery · **3** the threat closes in · **4** a door opens · **5** a cost surfaces · **6** a hard choice. Bend the result toward your next Milestone.
 - **Ask the Dice (1d6)** — *for a yes/no question:* **1** no, and worse · **2–3** no · **4–5** yes · **6** yes, and better. (+1 if a yes is likely, −1 if unlikely.)
 
-## Between Adventures
+# Between Adventures
 
 *Rules you reach for after your first game — once a Story Arc wraps and the heroes carry on.*
 
-### Downtime
+## Downtime
 
 When a Story Arc wraps, the heroes take Downtime to set right what the adventure cost them — specifically, to repair any Assets that broke along the way.
 
@@ -366,7 +366,7 @@ When a Story Arc wraps, the heroes take Downtime to set right what the adventure
 **When a Story Arc ends and the heroes rest between adventures,** restore everyone's **Broken Assets** — your heroes are whole again for the next Story. (Readiness comes back free any time you regroup, so Downtime is really just about un-breaking what the last adventure cost you.)
 </div>
 
-### Growth
+## Growth
 
 Over a campaign, heroes grow by gaining new tricks — **signature moves and fresh tools** that open up new things to do at the table. The party earns **1 Growth** every **3rd Milestone** it marks (on any Story Arc; cumulative, never resets), so a single Episode earns too little to spend — advancement is built for ongoing play. Spend it on one of two things:
 
