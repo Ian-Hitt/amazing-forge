@@ -154,7 +154,11 @@ If that Stat is one of the two you picked at character creation, add **+1.**
 
 **Next, decide** whether one of your three Assets fits — if your hero is using that Asset and it fits the moment well, add another **+1.**
 
-So **+2** if both apply, and **+0** if neither does — you can still try, you just roll the bare dice.
+So your modifier is:
+
+- **+0** if neither fits — you can still try, you just roll the bare dice.
+- **+1** if either a Stat or an Asset fits.
+- **+2** if both fit.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">The Roll <span class="lca-when">— any risky action</span></p>
