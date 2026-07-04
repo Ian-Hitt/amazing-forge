@@ -138,7 +138,11 @@ That's everything you need to start your story. **Playing the Game,** next, cove
 
 *You've built your world, created your heroes, and set up a Story Arc — now it's time to play. This section covers all the rules you'll need to find out what happens, scene by scene.*
 
-### The Roll
+### Core Moves
+
+These two happen on nearly every roll, no matter what a hero is doing. Learn them first — everything else builds on them.
+
+#### The Roll
 
 This is the game's core mechanic — how the story decides what happens next. Whenever a hero tries to do something risky, you roll to find out how it turns out. **Roll 2d6, then work out your modifier:**
 
@@ -172,7 +176,7 @@ Add that modifier to the total of your 2d6 to get your final result, then compar
 - **Miss (6−):** it fails, and **Pay the Price** *(or take the Devil's Bargain).*
 </div>
 
-#### Interpreting the Result
+##### Interpreting the Result
 
 Your total lands in one of three bands. Each one tells you both what happens in the fiction and what it costs mechanically:
 
@@ -180,27 +184,17 @@ Your total lands in one of three bands. Each one tells you both what happens in 
 - **Weak Hit (7–9):** it works, but there's a cost — you succeed *and* **Pay the Price** (see below).
 - **Miss (6−):** it doesn't work. **Pay the Price**, *or* take the **Devil's Bargain.**
 
-#### Fiction, Roll, Fiction
+##### Fiction, Roll, Fiction
 
 Story first, dice second, then back to story: something's in motion, you roll to see how it turns out, and you narrate what that result looks like. The dice tell you *how* the story bends; you tell the rest. In **Co-op play** (the default) the rolling player narrates the whole outcome, the win *and* the cost; with a **Guide**, the hero narrates their successes and the Guide narrates the Pay the Price.
 
-#### Doubles
+##### Doubles
 
 When both dice show the *same* number (two 4s, two 6s), the moment swings hard — the game's critical hit *and* critical miss in one rule. Read your result as normal, then apply doubles:
 
 - **Strong Hit:** an **Outstanding Success** — you succeed in spectacular fashion (narrate how it goes even better than you hoped), and the momentum carries you: **+1 to your next roll.**
 - **Weak Hit:** bump it up a tier to a **Strong Hit.** A lucky break.
 - **Miss:** the Miss still stands, *and* the **Antagonist Track advances one box** (the antagonist's clock, above). The bad guys seize the opening.
-
-<div class="lca-move" markdown>
-<p class="lca-move-name">Aid Your Ally <span class="lca-when">— spend your roll to help a teammate</span></p>
-
-**When you attempt to help an ally during a risky situation,** make the same roll, aimed at their action:
-
-- **Strong:** your ally gets **+2** on their roll.
-- **Weak:** your ally gets **+1**, and **you** Pay the Price (−1).
-- **Miss:** no bonus, and **you** Pay the Price (−2).
-</div>
 
 #### Pay the Price
 
@@ -225,7 +219,25 @@ On a **Miss,** one extra option is on the table:
 **When a roll comes up a Miss,** you may refuse the Readiness loss **and** turn it into a **Strong Hit** — in exchange for **advancing the Antagonist Track one box.** Buying a win now for a step toward defeat. **Not** allowed on a Miss whose price would knock you Out of Action — you can't buy your way out of going down.
 </div>
 
-### Challenges
+### Situational Moves
+
+The core moves happen on nearly every roll; these come up only as the story calls for them — helping a teammate, running a big set-piece, or recovering when things go wrong.
+
+#### Aid Your Ally
+
+Instead of acting for yourself, you can spend your roll to help someone else.
+
+<div class="lca-move" markdown>
+<p class="lca-move-name">Aid Your Ally <span class="lca-when">— spend your roll to help a teammate</span></p>
+
+**When you attempt to help an ally during a risky situation,** make the same roll, aimed at their action:
+
+- **Strong:** your ally gets **+2** on their roll.
+- **Weak:** your ally gets **+1**, and **you** Pay the Price (−1).
+- **Miss:** no bonus, and **you** Pay the Price (−2).
+</div>
+
+#### Challenges
 
 Most risky moments are **Regular Rolls** — one roll, read the result, move on. A **Challenge** is for a big set-piece that deserves more than a single roll: a monster fight, a desperate chase, a tense infiltration, a long trek. You draw a **row of boxes** and fill them roll by roll until the Scene is won — enemies have *no stats,* the **track itself is the obstacle.**
 
@@ -241,6 +253,10 @@ When you do draw one, **difficulty sets the length, the same at any number of he
 
 Take turns — **everyone acts once before anyone repeats.** On each Challenge Roll: **Strong** fills a box · **Weak** fills a box and you Pay the Price · **Miss** fills no box and you Pay the Price *(or take the Devil's Bargain).* Fill the last box and the obstacle is beaten.
 
+##### Start a Challenge
+
+When a set-piece is worth a track, set it up before anyone rolls — name what's at stake, pick a length, and see how each hero enters the scene.
+
 <div class="lca-move" markdown>
 <p class="lca-move-name">Start a Challenge</p>
 
@@ -252,19 +268,26 @@ Take turns — **everyone acts once before anyone repeats.** On each Challenge R
     - **1–2:** The Challenge caught you off guard, or your foe was ready for it — **−1** to your first roll.
 </div>
 
+##### Fall back
+
+When a Challenge turns against you, you don't have to see it through — you can bail out, give up the progress, and regroup instead of risking more.
+
 <div class="lca-move" markdown>
 <p class="lca-move-name">Fall back <span class="lca-when">— bail out of a Challenge</span></p>
 
 **When you bail out of a Challenge,** lose the track's progress and take a **Recovery Scene** (the party heals fully). Always safe, always available — the stay-alive valve.
 </div>
 
-### Readiness & Recovery
+#### Readiness & Recovery
 
 Readiness is your hero's single **Health Bar** — body, mind, and supplies rolled into one **0–9** track. You spend it pushing through trouble, and it refills whenever the action lets up. Drop to **0** and your hero goes **Out of Action** — knocked out of the Scene, never killed.
 
-Readiness comes back two ways — a quick patch or a full regroup:
+Readiness comes back two ways — a quick patch or a full regroup.
 
-<div class="lca-moves" markdown>
+##### Mend
+
+A small, risky patch you can attempt mid-scene to claw back some Readiness for yourself or an ally — quick, but it can backfire.
+
 <div class="lca-move" markdown>
 <p class="lca-move-name">Mend <span class="lca-when">— any scene, on your turn</span></p>
 
@@ -276,12 +299,20 @@ Readiness comes back two ways — a quick patch or a full regroup:
 
 *No usage cap; capped at 9; can't revive an Out-of-Action hero. In a Challenge, this* is *your turn.*
 </div>
+
+##### Recovery Scene
+
+The reliable reset: when the action lets up, the heroes fall back and regroup, and the whole party heals all the way back to full.
+
 <div class="lca-move" markdown>
 <p class="lca-move-name">Recovery Scene <span class="lca-when">— fall back and regroup at a lull</span></p>
 
 **When the heroes fall back and regroup at a lull,** the whole party heals **fully back to 9.** No roll, fully reliable, and you can regroup as often as the fiction allows.
 </div>
-</div>
+
+##### Out of Action
+
+What happens when a hero's Readiness runs all the way out — they're knocked out of the Scene (never killed), and there's a cost.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Out of Action <span class="lca-when">— when your Readiness hits 0</span></p>
@@ -313,6 +344,8 @@ When the story stalls and the table isn't sure what happens next — especially 
 *Rules you reach for after your first game — once a Story Arc wraps and the heroes carry on.*
 
 ### Downtime
+
+When a Story Arc wraps, the heroes take Downtime to set right what the adventure cost them — specifically, to repair any Assets that broke along the way.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Downtime <span class="lca-when">— between Story Arcs</span></p>
