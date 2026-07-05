@@ -85,12 +85,12 @@ CHALLENGE TRACK:   [ ]  [ ]  [ ]
 
 🎲 Maya rolls **5 + 5 = 10**, plus 1 = **11.** → **Strong Hit — and doubles!**
 
-> **▶ Rules note — Doubles (Chapter 4).** Matching dice upgrade the result one tier. A Strong Hit with doubles becomes an **Outstanding Success** — a spectacular win that carries momentum: **+1 to your next roll.** Maya fills a box and narrates it big — her ice-bridge comes out so solid and fast she's already sprinting across — and takes **+1 on her next roll.**
+> **▶ Rules note — Doubles (Chapter 4).** Matching dice upgrade the result one tier. A Strong Hit with doubles becomes an **Outstanding Success** — a spectacular win. And because this is happening **in a Challenge,** an Outstanding Success **fills two boxes instead of one** *and* still carries momentum: **+1 to your next roll.** Maya narrates it big — her ice-bridge comes out so solid and fast she's already sprinting across and hauling the first stones into place for Snik — so she **fills two boxes at once** and takes **+1 on her next roll.**
 
-**Fill box 1.** Brave makes it across. (No price — it was a hit.)
+**Fill boxes 1 and 2.** Brave makes it across and half the crossing is already laid. (No price — it was a hit.)
 
 ```
-CHALLENGE TRACK:   [X]  [ ]  [ ]
+CHALLENGE TRACK:   [X]  [X]  [ ]
 ```
 
 **Leo's turn:** "I don't trust the magic ice — I'll just take a running jump across the narrowest part."
@@ -105,21 +105,13 @@ Ouch. No box, and Snik **Pays the Price — lose 2 Readiness.** Leo narrates the
 
 Both heroes have now acted, so the round resets and anyone can go again.
 
-**Maya again:** "I won't let him fall — I dive Cinder down, grab Snik, and carry him the rest of the way."
+**Maya again:** "I won't let him fall — I dive Cinder down, grab Snik, and carry him the rest of the way across." She still has her **+1 from the Outstanding Success**, so it rides this roll.
 
-🎲 Maya rolls **3 + 5 = 8**, plus 1 (*My Dragon, Cinder*; the dive calls for Quick, which Brave lacks) = **9.** → **Weak Hit.**
+🎲 Maya rolls **3 + 4 = 7**, plus 1 (*My Dragon, Cinder*; the dive calls for Quick, which Brave lacks) plus her **+1 momentum** = **9.** → **Weak Hit.**
 
-She fills the **second box** — but a Weak Hit means she Pays the Price too. Cinder strains under the extra weight and clips a stalactite; **Brave loses 1 Readiness (9 → 8).** Still, the box is filled, and Snik is out of the chasm and back on solid rock.
+> **▶ Rules note — momentum carries (Chapter 4).** The **+1** from Maya's Outstanding Success waited through Snik's turn and lands on her very next roll — turning what would've been a 7 into a 9. That's the reward for a spectacular result: it spills forward.
 
-```
-CHALLENGE TRACK:   [X]  [X]  [ ]
-```
-
-**Leo's turn again:** "Steadier now — I scout the last stretch of broken ledge and pick out the safe footholds so we can finish the crossing clean." Reading the route is **Clever**, one of Snik's Stats → **+1.**
-
-🎲 Leo rolls **5 + 4 = 9**, plus 1 = **10.** → **Strong Hit.**
-
-He fills the **last box.** No price — the heroes pick their way off the broken ledge and onto firm ground.
+That fills the **last box** — but a Weak Hit means she Pays the Price too. Cinder strains under the extra weight and clips a stalactite; **Brave loses 1 Readiness (9 → 8).** Still, the box is filled, Snik is back on solid rock, and the crossing is done.
 
 ```
 CHALLENGE TRACK:   [X]  [X]  [X]   ← full!

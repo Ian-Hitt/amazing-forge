@@ -60,7 +60,7 @@ Remember what Readiness covers (body, mind, and supplies): the price can be a sc
 
 A little bit of dice magic — and a little bit of danger. When your two dice come up **matching (doubles)** — two 3s, two 5s, any pair — the moment swings hard, like a critical hit (or a critical miss):
 
-- On a **Hit,** your result jumps up one whole tier. A **Weak Hit** becomes a **Strong Hit** (no price to pay!), and a **Strong Hit** becomes an **Outstanding Success** — you don't just succeed, you do it spectacularly. Narrate how it goes even better than you hoped, and carry the momentum: **+1 to your next roll.**
+- On a **Hit,** your result jumps up one whole tier. A **Weak Hit** becomes a **Strong Hit** (no price to pay!), and a **Strong Hit** becomes an **Outstanding Success** — you don't just succeed, you do it spectacularly. Narrate how it goes even better than you hoped, and carry the momentum: **+1 to your next roll.** (And if it lands during a Challenge, that spectacular result **fills two boxes instead of one** — see Chapter 5.)
 - On a **Miss,** the dice turn against you. The Miss still fails — doubles don't rescue it — and worse, the **antagonist gains a step** (advance their track one box; see Chapter 3). The bad guys seized the opening.
 
 Doubles are always good news. Watch for those matching numbers — when they land, you get to make the moment shine.

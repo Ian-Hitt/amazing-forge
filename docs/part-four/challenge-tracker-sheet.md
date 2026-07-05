@@ -8,32 +8,40 @@ See **Challenges** ([Chapter 8](../part-two/08-challenges.md)) for the full proc
 
 <style>
 .af-sheet {
-  border: 2px solid #d35400;
-  border-radius: 8px;
-  padding: 1.25rem 1.5rem;
+  --af-ink: #1a1a1a;
+  --af-muted: #6b6b6b;
+  --af-line: #b9b3aa;
+  --af-paper: #f3f0ec;
   max-width: 760px;
+  margin: 1rem 0;
+  padding: 1.5rem 1.75rem;
+  border: 2.5px solid var(--af-ink);
+  border-radius: 10px;
+  background: #fff;
+  color: var(--af-ink);
+  box-shadow: 0 1px 6px rgba(0,0,0,0.12);
   font-family: inherit;
 }
-.af-sheet .af-title { text-align: center; font-size: 1.5rem; font-weight: 700; letter-spacing: 0.04em; margin: 0; }
-.af-sheet .af-sub { text-align: center; font-size: 0.85rem; opacity: 0.7; margin: 0.1rem 0 0.7rem; }
-.af-legend { border: 1.5px solid #d35400; border-radius: 6px; padding: 0.5rem 0.75rem; font-size: 0.82rem; line-height: 1.55; background: rgba(211,84,0,0.05); }
-.af-legend b { color: #d35400; }
-.af-fill { flex: 1; border-bottom: 1.5px solid #888; min-height: 1.3rem; }
-.af-hint { font-size: 0.8rem; opacity: 0.7; font-style: italic; }
-.af-chal { border: 1px solid #bbb; border-radius: 6px; padding: 0.55rem 0.7rem; margin-top: 0.7rem; }
+.af-sheet .af-title { margin: 0; font-size: 1.7rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; line-height: 1.05; }
+.af-sheet .af-sub { margin: 0.2rem 0 1.1rem; font-size: 0.85rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--md-primary-fg-color); }
+.af-legend { border: 1.8px solid var(--af-ink); border-radius: 8px; padding: 0.55rem 0.8rem; font-size: 0.82rem; line-height: 1.55; background: var(--af-paper); }
+.af-legend b { color: var(--af-ink); }
+.af-fill { flex: 1; border-bottom: 1.5px solid var(--af-line); min-height: 1.3rem; }
+.af-hint { font-size: 0.8rem; color: var(--af-muted); font-style: normal; }
+.af-chal { border: 1.5px solid var(--af-ink); border-radius: 8px; padding: 0.55rem 0.7rem; margin-top: 0.7rem; background: #fff; }
 .af-chal-head { display: flex; align-items: flex-end; gap: 0.5rem; flex-wrap: wrap; }
-.af-chal-num { font-weight: 700; color: #d35400; font-size: 1rem; }
-.af-chal-head label { font-weight: 700; white-space: nowrap; }
+.af-chal-num { font-weight: 800; color: var(--md-primary-fg-color); font-size: 1rem; }
+.af-chal-head label { font-weight: 700; white-space: nowrap; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; }
 .af-chal-head .af-fill { min-width: 8rem; }
-.af-diff { font-size: 0.78rem; font-weight: 600; white-space: nowrap; }
-.af-diff .af-chk { width: 0.85rem; height: 0.85rem; border: 1.5px solid #555; border-radius: 3px; display: inline-block; vertical-align: -1px; margin: 0 0.1rem 0 0.45rem; }
+.af-diff { font-size: 0.75rem; font-weight: 700; white-space: nowrap; text-transform: uppercase; letter-spacing: 0.03em; }
+.af-diff .af-chk { width: 0.9rem; height: 0.9rem; border: 1.6px solid var(--af-ink); border-radius: 3px; display: inline-block; vertical-align: -1px; margin: 0 0.15rem 0 0.5rem; }
 .af-chal-track { display: flex; align-items: center; gap: 0.3rem; flex-wrap: nowrap; margin: 0.5rem 0 0.2rem; }
-.af-boxlabel { font-weight: 700; white-space: nowrap; margin-left: 0.6rem; flex: 0 0 auto; }
-.af-box { display: inline-block; width: 1.55rem; height: 1.55rem; border: 1.5px solid #555; border-radius: 4px; text-align: center; line-height: 1.55rem; font-size: 0.72rem; flex: 0 0 auto; }
-.af-chal-track .af-show { border-color: #d35400; border-width: 2px; color: #d35400; }
-.af-chal-track .af-arrow { font-size: 0.75rem; opacity: 0.7; margin-left: 0.1rem; }
-.af-ref { font-size: 0.8rem; opacity: 0.85; border-top: 1px dashed #aaa; margin-top: 1rem; padding-top: 0.6rem; }
-.af-ref b { color: #d35400; }
+.af-boxlabel { font-weight: 700; white-space: nowrap; margin-left: 0.6rem; flex: 0 0 auto; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; }
+.af-box { display: inline-flex; align-items: center; justify-content: center; width: 1.55rem; height: 1.55rem; border: 1.8px solid var(--af-ink); border-radius: 5px; font-size: 0.72rem; font-weight: 700; flex: 0 0 auto; }
+.af-chal-track .af-show { border-color: var(--md-primary-fg-color); border-width: 2.2px; color: var(--md-primary-fg-color); }
+.af-chal-track .af-arrow { font-size: 0.75rem; color: var(--af-muted); margin-left: 0.1rem; }
+.af-ref { font-size: 0.8rem; color: var(--af-muted); border-top: 2px solid var(--af-ink); margin-top: 1rem; padding-top: 0.6rem; }
+.af-ref b { color: var(--md-primary-fg-color); }
 
 @media print {
   .md-header, .md-tabs, .md-sidebar, .md-footer, .md-content__button, .md-nav { display: none !important; }
@@ -65,7 +73,7 @@ See **Challenges** ([Chapter 8](../part-two/08-challenges.md)) for the full proc
   <div class="af-legend">
     <b>START A CHALLENGE:</b> name the goal, pick a difficulty &amp; draw the track, then <b>each player</b> rolls a <b>d6</b> &rarr; <b>5&ndash;6</b> +1 &middot; <b>3&ndash;4</b> 0 &middot; <b>1&ndash;2</b> &minus;1 &mdash; a one-time nudge to <i>their</i> first roll.
     <br>
-    <b>EACH ROLL:</b> <b>Strong</b> fill 1 box &middot; <b>Weak</b> fill 1 box, &minus;1 Readiness &middot; <b>Miss</b> no box, &minus;2 Readiness <i>or</i> take the <b>Devil's Bargain</b> (upgrade to a Strong Hit, refuse the loss &rarr; antagonist +1 box; not if it would knock you Out of Action). A <b>Strong Hit on doubles</b> is an Outstanding Success (+1 to your next roll); a <b>Miss on doubles</b> advances the antagonist. <i>(4&ndash;5 heroes: Weak &minus;2, Miss &minus;3.)</i>
+    <b>EACH ROLL:</b> <b>Strong</b> fill 1 box &middot; <b>Weak</b> fill 1 box, &minus;1 Readiness &middot; <b>Miss</b> no box, &minus;2 Readiness <i>or</i> take the <b>Devil's Bargain</b> (upgrade to a Strong Hit, refuse the loss &rarr; antagonist +1 box; not if it would knock you Out of Action). A <b>Strong Hit on doubles</b> is an Outstanding Success &mdash; fill <b>2 boxes</b> and take +1 to your next roll; a <b>Miss on doubles</b> advances the antagonist. <i>(4&ndash;5 heroes: Weak &minus;2, Miss &minus;3.)</i>
     <br>
     <b>SIZE</b> (the same at any number of heroes): Normal = <b>3</b> &middot; Hard = <b>6</b> &middot; Epic = <b>9</b> (peak moments only) boxes &mdash; cross out the ones you don't use; anything shorter, don't draw a track. Track fills &rarr; Challenge won &mdash; wipe it. A Challenge is <i>not</i> a Milestone. Fall back = a Recovery Scene (lose its progress; the party heals up).
     <br>

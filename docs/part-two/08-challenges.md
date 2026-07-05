@@ -75,6 +75,8 @@ Each Challenge Roll resolves on the standard outcomes, with the result marked on
 
 *At a table of **four or five heroes,** Pay the Price costs one more each — a Weak is −2 and a Miss is −3 (Chapter 9).*
 
+**Doubles cut both ways here too.** A **Strong Hit on doubles** is an **Outstanding Success** (Chapter 7): in a Challenge it **fills two boxes instead of one** — a spectacular surge that vaults the track ahead — and you still carry **+1 to your next roll.** (If two boxes would overfill the track, the Challenge simply ends; a single box to spare is enough to win.) A **Weak Hit on doubles** upgrades to a clean Strong Hit (one box, no price). And a **Miss on doubles** still fills no box *and* advances the antagonist.
+
 A Weak Hit and a Miss cost Readiness — but on a Miss you have a choice: take the price, **or** strike a **Devil's Bargain** (Chapter 9), refusing the Readiness loss and filling the box as if you'd hit, in exchange for **advancing the Antagonist Track one box.** And watch the dice — a **Miss showing doubles advances the antagonist** whatever you choose (Chapter 7). Those are the roll-time ways the antagonist's clock moves; otherwise the **Antagonist Track** (Chapter 10) is untouched by a roll, and **falling back to regroup is free.**
 
 As always, every roll turns back into fiction (Chapter 7, Narrate the Change): say what filling the box *looks* like, and on a Miss, what the price *looks* like.

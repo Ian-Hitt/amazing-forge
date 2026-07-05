@@ -112,12 +112,12 @@ If your two dice come up **matching (doubles)** — two 2s, two 6s, any pair —
 
 That's the whole double edge: *the dice swing hard, for good or ill.* When you're winning, doubles are a treat; when you're not, they're how the antagonist gains ground.
 
-An Outstanding Success means more than "you did it well" — you nailed it so hard the momentum spills into whatever you do next. The mechanical reward is **+1 to your next roll;** in the fiction, narrate how it went even better than you hoped:
+An Outstanding Success means more than "you did it well" — you nailed it so hard the momentum spills into whatever you do next. The mechanical reward is **+1 to your next roll** (and, **during a Challenge, a second filled box** — see below); in the fiction, narrate how it went even better than you hoped:
 
 - You don't just leap the chasm — you land right behind the enemy archer, perfectly placed for what comes next.
 - You don't just pick the lock — you're through so smoothly you've got a beat to spare.
 - You don't just win the crowd over — you leave them fired up and ready to follow your lead.
-- In a Challenge, that **+1** rides your next Challenge Roll — the opening you just made turns the next push in your favor.
+- In a Challenge, an Outstanding Success **fills two boxes instead of one** — the spectacular result vaults the track ahead — *and* that **+1** still rides your next Challenge Roll, so the opening you just made turns the next push in your favor too (Chapter 8).
 
 Let the table enjoy it — the Hit side of doubles is a treat. And because the *Miss* side feeds the Antagonist Track, the doubles rule isn't a bolt-on bonus you can take or leave — it's the core engine that makes every roll's luck cut both ways.
 

@@ -55,6 +55,17 @@ stats (objective, +1); 3 specific Assets (argued, +1); both → +2, one → +1, 
 > (effective average-modifier bump on the order of **+0.05**), well within the curve's headroom — it
 > slightly widens the hero side of the photo-finish. **Not separately re-simulated:** folded in as a minor
 > buff; `sim_spine.py` could model it as a conditional +1-carry if a tighter read is ever wanted.
+>
+> **Outstanding Success — second Challenge box (added 2026-07-05).** *Inside a Challenge only,* an Outstanding
+> Success fills **two boxes instead of one** (the +1-carry still applies). This is a length effect, not a curve
+> effect: it shortens tracks in expectation without touching the +2/+1 modifier curve, max-9 Readiness, or the
+> antagonist's clock. Magnitude: an Outstanding requires a doubles face reading Strong (~7% of rolls), and only
+> the fraction of those occurring mid-Challenge count; each grants **+1 extra box** ≈ one saved Challenge Roll,
+> so a Normal (3) / Hard (6) / Epic (9) track is trimmed by well under a fraction of a box in expectation
+> (~0.07 × in-Challenge share × boxes). Net: a slight reduction in per-Challenge Readiness attrition (fewer
+> rolls to clear a track ⇒ fewer Weak/Miss prices) and a small pro-hero nudge to the photo-finish, same
+> direction and order as the +1-carry. **Not separately re-simulated:** folded in as a minor buff; `sim_spine.py`
+> could model it as a "+1 box when the Challenge Roll is a doubles-Strong" if a tighter read is wanted.
 
 **3. Track sizes & narration (tick decoupled from beat).** The *tick* (frequent, bursty) is decoupled
 from the *narrated antagonist beat* (paced): narrate the antagonist only on the **odd "Bad Guys Close In" boxes**; even
@@ -332,7 +343,7 @@ all-Easy *floor*; expected play sits at the §0b numbers above.
 | Strong Hit | total **10+** |
 | Weak Hit | total **7–9** |
 | Miss | total **6 or less** |
-| Doubles | doubles upgrade a **Hit** one tier (a **Strong Hit** → Outstanding Success: **+1 to your next roll**); doubles on a **Miss** advance the Antagonist Track +1 (no upgrade) *(§0)* |
+| Doubles | doubles upgrade a **Hit** one tier (a **Strong Hit** → Outstanding Success: **+1 to your next roll**, and **fills 2 Challenge boxes** during a Challenge); doubles on a **Miss** advance the Antagonist Track +1 (no upgrade) *(§0)* |
 | Readiness — start / max | **9**; max **stays 9 all game** (no ratchet) *(§0)* |
 | Pay the Price — Weak Hit | **−1** Readiness *(−2 at 4–5 heroes — §0)* |
 | Pay the Price — Miss | **−2** Readiness *(−3 at 4–5 heroes)* (unless a Devil's Bargain is taken — §0) |

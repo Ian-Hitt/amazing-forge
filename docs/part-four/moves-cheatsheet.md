@@ -8,32 +8,35 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 
 <style>
 .af-sheet {
-  border: 2px solid #d35400;
-  border-radius: 8px;
-  padding: 1.1rem 1.3rem;
+  --af-ink: #1a1a1a;
+  --af-muted: #6b6b6b;
+  --af-line: #b9b3aa;
+  --af-paper: #f3f0ec;
   max-width: 880px;
+  margin: 1rem 0;
+  padding: 1.4rem 1.6rem;
+  border: 2.5px solid var(--af-ink);
+  border-radius: 10px;
+  background: #fff;
+  color: var(--af-ink);
+  box-shadow: 0 1px 6px rgba(0,0,0,0.12);
   font-family: inherit;
 }
-.af-sheet .af-title { text-align: center; font-size: 1.5rem; font-weight: 700; letter-spacing: 0.04em; margin: 0; }
-.af-sheet .af-sub { text-align: center; font-size: 0.85rem; opacity: 0.7; margin: 0.1rem 0 0.7rem; }
-.af-legend { border: 1.5px solid #d35400; border-radius: 6px; padding: 0.5rem 0.75rem; font-size: 0.82rem; line-height: 1.55; background: rgba(211,84,0,0.05); }
-.af-legend b { color: #d35400; }
+.af-sheet .af-title { margin: 0; font-size: 1.7rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; line-height: 1.05; }
+.af-sheet .af-sub { margin: 0.2rem 0 1.1rem; font-size: 0.85rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--md-primary-fg-color); }
+.af-legend { border: 1.8px solid var(--af-ink); border-radius: 8px; padding: 0.55rem 0.8rem; font-size: 0.82rem; line-height: 1.55; background: var(--af-paper); }
+.af-legend b { color: var(--af-ink); }
 .af-moves { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 0.9rem; }
-.af-fam h3 { margin: 0 0 0.1rem; padding-bottom: 0.2rem; border-bottom: 2px solid; font-size: 1.05rem; }
-.af-fam .af-famsub { font-size: 0.74rem; font-style: italic; opacity: 0.75; margin: 0 0 0.55rem; }
-.af-action h3 { border-color: #d35400; color: #d35400; }
-.af-progress h3 { border-color: #2e7d32; color: #2e7d32; }
-.af-frame h3 { border-color: #2c6e8f; color: #2c6e8f; }
+.af-fam h3 { display: flex; align-items: center; gap: 0.6rem; margin: 0 0 0.2rem; padding: 0; border: 0; font-size: 0.95rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; }
+.af-fam h3::after { content: ""; flex: 1; height: 2px; background: var(--af-ink); }
+.af-fam .af-famsub { font-size: 0.74rem; font-style: italic; color: var(--af-muted); margin: 0 0 0.55rem; }
 .af-rightcol .af-fam.af-frame { margin-top: 0.9rem; }
-.af-move { font-size: 0.8rem; line-height: 1.42; padding: 0.4rem 0.55rem; margin-bottom: 0.45rem; border: 1px solid #ccc; border-radius: 6px; border-left-width: 4px; }
-.af-action .af-move { border-left-color: #d35400; }
-.af-progress .af-move { border-left-color: #2e7d32; }
-.af-frame .af-move { border-left-color: #2c6e8f; }
-.af-mname { font-weight: 700; }
+.af-move { font-size: 0.8rem; line-height: 1.42; padding: 0.4rem 0.55rem; margin-bottom: 0.45rem; border: 1px solid #ddd; border-radius: 6px; border-left-width: 4px; border-left-color: var(--md-primary-fg-color); background: #fff; }
+.af-mname { font-weight: 800; color: var(--md-primary-fg-color); }
 .af-tier { font-size: 0.76rem; margin: 0.25rem 0 0 0.5rem; }
-.af-tier b { display: inline-block; min-width: 2.6rem; }
-.af-ref { font-size: 0.78rem; opacity: 0.85; border-top: 1px dashed #aaa; margin-top: 0.9rem; padding-top: 0.55rem; }
-.af-ref b { color: #d35400; }
+.af-tier b { display: inline-block; min-width: 2.6rem; color: var(--af-ink); }
+.af-ref { font-size: 0.78rem; color: var(--af-muted); border-top: 2px solid var(--af-ink); margin-top: 0.9rem; padding-top: 0.55rem; }
+.af-ref b { color: var(--md-primary-fg-color); }
 @media (max-width: 640px) { .af-moves { grid-template-columns: 1fr; } }
 
 @media print {
@@ -78,7 +81,7 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
   <div class="af-legend">
     <b>THE ROLL:</b> 2d6 &mdash; <b>+1</b> if a fitting Stat, <b>+1</b> if a fitting Asset (<b>+2</b> both, <b>+0</b> neither).
     &nbsp;&middot;&nbsp; <b>10+</b> Strong Hit &nbsp; <b>7&ndash;9</b> Weak Hit &nbsp; <b>6&minus;</b> Miss.
-    &nbsp;&middot;&nbsp; <b>Doubles</b>: upgrade a Hit one tier (a Strong Hit &rarr; Outstanding Success: +1 to your next roll); a Miss on doubles advances the antagonist.
+    &nbsp;&middot;&nbsp; <b>Doubles</b>: upgrade a Hit one tier (a Strong Hit &rarr; Outstanding Success: +1 to your next roll, and <b>fill 2 boxes</b> in a Challenge); a Miss on doubles advances the antagonist.
     &nbsp;&middot;&nbsp; A Hit means you <b>narrate the change</b>.
     <br>
     <b>READINESS</b> (starts at 9, your max all game): Weak Hit <b>&minus;1</b>, Miss <b>&minus;2</b> <i>(at 4&ndash;5 heroes, &minus;2 / &minus;3)</i>. At <b>0</b> you're Out of Action: sit out the rest of the Scene, break one Asset (until Downtime), and the antagonist advances one box.

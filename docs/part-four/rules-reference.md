@@ -196,7 +196,7 @@ Your total lands in one of three bands. Each one tells you both what happens in 
 
 When both dice show the *same* number, the moment swings hard — the game's critical hit *and* critical miss in one rule. Read your result as normal, then apply doubles:
 
-- **Strong Hit:** an **Outstanding Success** — you succeed in spectacular fashion (narrate how it goes even better than you hoped), and the momentum carries you: **+1 to your next roll.**
+- **Strong Hit:** an **Outstanding Success** — you succeed in spectacular fashion (narrate how it goes even better than you hoped), and the momentum carries you: **+1 to your next roll.** *During a Challenge, it also **fills two boxes instead of one.***
 - **Weak Hit:** bump it up a tier to a **Strong Hit.** A lucky break.
 - **Miss:** the Miss still stands, *and* the **Antagonist Track advances one box** (the antagonist's clock, above). The bad guys seize the opening.
 
@@ -270,7 +270,7 @@ When you do draw one, **difficulty sets the length, the same at any number of he
 | **Hard** | **6** |
 | **Epic** *(peak moments only)* | **9** |
 
-Take turns — **everyone acts once before anyone repeats.** On each Challenge Roll: **Strong** fills a box · **Weak** fills a box and you Pay the Price · **Miss** fills no box and you Pay the Price *(or take the Devil's Bargain).* Fill the last box and the obstacle is beaten.
+Take turns — **everyone acts once before anyone repeats.** On each Challenge Roll: **Strong** fills a box · **Weak** fills a box and you Pay the Price · **Miss** fills no box and you Pay the Price *(or take the Devil's Bargain).* A **Strong Hit on doubles** (an Outstanding Success) fills **two** boxes. Fill the last box and the obstacle is beaten.
 
 #### Start a Challenge
 
