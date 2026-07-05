@@ -8,22 +8,30 @@ See **Making Locations** ([Chapter 17](../part-three/17-making-locations.md)) fo
 
 <style>
 .af-sheet {
-  border: 2px solid #d35400;
-  border-radius: 8px;
-  padding: 1.25rem 1.5rem;
+  --af-ink: #1a1a1a;
+  --af-muted: #6b6b6b;
+  --af-line: #b9b3aa;
+  --af-paper: #f3f0ec;
   max-width: 760px;
+  margin: 1rem 0;
+  padding: 1.5rem 1.75rem;
+  border: 2.5px solid var(--af-ink);
+  border-radius: 10px;
+  background: #fff;
+  color: var(--af-ink);
+  box-shadow: 0 1px 6px rgba(0,0,0,0.12);
   font-family: inherit;
 }
-.af-sheet h3 { margin: 1.1rem 0 0.4rem; border-bottom: 2px solid #d35400; padding-bottom: 0.2rem; }
-.af-sheet .af-title { text-align: center; font-size: 1.5rem; font-weight: 700; letter-spacing: 0.04em; margin: 0; }
-.af-sheet .af-sub { text-align: center; font-size: 0.85rem; opacity: 0.7; margin: 0.1rem 0 0.6rem; }
-.af-hint { font-size: 0.8rem; opacity: 0.7; font-style: italic; margin: 0.2rem 0 0.6rem; }
-.af-log { display: grid; grid-template-columns: 1.3fr 1.2fr 1.8fr 0.9fr; border-top: 1.5px solid #555; }
-.af-log .af-h { font-weight: 700; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.03em; white-space: nowrap; padding: 0.35rem 0.5rem; border-bottom: 1.5px solid #555; background: rgba(211,84,0,0.07); }
-.af-log .af-c { min-height: 1.9rem; border-bottom: 1px solid #ccc; border-right: 1px dashed #ddd; }
+.af-sheet .af-title { margin: 0; font-size: 1.7rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; line-height: 1.05; }
+.af-sheet .af-sub { margin: 0.2rem 0 1.1rem; font-size: 0.85rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--md-primary-fg-color); }
+.af-hint { font-size: 0.8rem; color: var(--af-muted); font-style: normal; margin: 0.15rem 0 0.6rem; }
+.af-hint b { color: var(--af-ink); }
+.af-log { display: grid; grid-template-columns: 1.3fr 1.2fr 1.8fr 0.9fr; border-top: 2px solid var(--af-ink); }
+.af-log .af-h { font-weight: 800; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; white-space: nowrap; padding: 0.4rem 0.55rem; border-bottom: 2px solid var(--af-ink); background: var(--af-paper); }
+.af-log .af-c { min-height: 1.9rem; border-bottom: 1px solid #d8d2c8; border-right: 1px dashed #e2ddd3; }
 .af-log .af-c:nth-child(4n) { border-right: none; }
-.af-ref { font-size: 0.8rem; opacity: 0.85; border-top: 1px dashed #aaa; margin-top: 1rem; padding-top: 0.6rem; }
-.af-ref b { color: #d35400; }
+.af-ref { font-size: 0.8rem; color: var(--af-muted); border-top: 2px solid var(--af-ink); margin-top: 1rem; padding-top: 0.6rem; }
+.af-ref b { color: var(--md-primary-fg-color); }
 
 @media print {
   .md-header, .md-tabs, .md-sidebar, .md-footer, .md-content__button, .md-nav { display: none !important; }

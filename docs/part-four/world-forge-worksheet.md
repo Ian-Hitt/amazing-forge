@@ -6,23 +6,31 @@ The ten Worldbuilding questions with room to write. Fill it in at the table duri
 
 <style>
 .af-sheet {
-  border: 2px solid #d35400;
-  border-radius: 8px;
-  padding: 1.25rem 1.5rem;
+  --af-ink: #1a1a1a;
+  --af-muted: #6b6b6b;
+  --af-line: #b9b3aa;
+  --af-paper: #f3f0ec;
   max-width: 760px;
+  margin: 1rem 0;
+  padding: 1.5rem 1.75rem;
+  border: 2.5px solid var(--af-ink);
+  border-radius: 10px;
+  background: #fff;
+  color: var(--af-ink);
+  box-shadow: 0 1px 6px rgba(0,0,0,0.12);
   font-family: inherit;
 }
-.af-sheet .af-title { text-align: center; font-size: 1.5rem; font-weight: 700; letter-spacing: 0.04em; margin: 0; }
-.af-sheet .af-sub { text-align: center; font-size: 0.85rem; opacity: 0.7; margin: 0.1rem 0 0.6rem; }
+.af-sheet .af-title { margin: 0; font-size: 1.7rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; line-height: 1.05; }
+.af-sheet .af-sub { margin: 0.2rem 0 1.1rem; font-size: 0.85rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--md-primary-fg-color); }
 .af-q { margin: 0.9rem 0; }
 .af-q .af-qhead { display: flex; gap: 0.5rem; align-items: baseline; }
-.af-q .af-qnum { font-weight: 700; color: #d35400; width: 1.4rem; flex: 0 0 auto; }
-.af-q .af-qname { font-weight: 700; }
-.af-q .af-qask { opacity: 0.8; font-weight: 400; }
-.af-q .af-hint { font-size: 0.78rem; opacity: 0.65; font-style: italic; margin: 0.1rem 0 0.3rem 1.9rem; }
-.af-q .af-fill { border-bottom: 1.5px solid #888; min-height: 1.45rem; margin: 0.35rem 0 0 1.9rem; }
-.af-ref { font-size: 0.8rem; opacity: 0.85; border-top: 1px dashed #aaa; margin-top: 1rem; padding-top: 0.6rem; }
-.af-ref b { color: #d35400; }
+.af-q .af-qnum { font-weight: 800; color: var(--md-primary-fg-color); width: 1.4rem; flex: 0 0 auto; }
+.af-q .af-qname { font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em; font-size: 0.9rem; }
+.af-q .af-qask { color: var(--af-muted); font-weight: 400; }
+.af-q .af-hint { font-size: 0.78rem; color: var(--af-muted); font-style: normal; margin: 0.1rem 0 0.3rem 1.9rem; }
+.af-q .af-fill { border-bottom: 1.5px solid var(--af-line); min-height: 1.45rem; margin: 0.35rem 0 0 1.9rem; }
+.af-ref { font-size: 0.8rem; color: var(--af-muted); border-top: 2px solid var(--af-ink); margin-top: 1rem; padding-top: 0.6rem; }
+.af-ref b { color: var(--md-primary-fg-color); }
 
 @media print {
   .md-header, .md-tabs, .md-sidebar, .md-footer, .md-content__button, .md-nav { display: none !important; }
