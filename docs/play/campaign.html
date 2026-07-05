@@ -195,8 +195,7 @@
   .dash .wlink { font-size: .7rem; color: var(--orange); font-weight: 800; letter-spacing: 0; text-transform: none; }
   .dash .scroll { max-height: 22rem; overflow: auto; margin: -.1rem; padding: .1rem; }
   .dash-empty { color: var(--muted); font-size: .82rem; font-style: italic; padding: .3rem 0; }
-  .dash-bar { display: flex; align-items: center; justify-content: flex-end; margin-bottom: .8rem; }
-  .create-wrap { position: relative; }
+  .create-wrap { position: relative; flex: 0 0 auto; }
   .create-menu { position: absolute; right: 0; top: calc(100% + 6px); z-index: 60; background: var(--card);
     border: 1.5px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); padding: .35rem; min-width: 12.5rem;
     display: flex; flex-direction: column; gap: 2px; }
@@ -260,6 +259,7 @@
   <button id="menuBtn" class="iconbtn" aria-label="Open menu" title="Menu">&#9776;</button>
   <input id="campName" class="camp-name" type="text" placeholder="Campaign" aria-label="Campaign name" autocomplete="off">
   <span id="syncDot" class="dot" title=""></span>
+  <div id="createWrap" class="create-wrap"></div>
 </header>
 
 <main class="wrap" id="app"></main>
@@ -501,16 +501,44 @@
   var TITLES = { dashboard: "Dashboard", heroes: "Heroes", arcs: "Story Arcs", challenges: "Challenges", world: "World", places: "Places", cast: "Cast", gallery: "Gallery", manage: "Manage & Share" };
 
   function updateHeader() {
-    var nameIn = $("campName"), dot = $("syncDot");
-    if (!camp) { nameIn.style.display = "none"; dot.style.display = "none"; return; }
-    nameIn.style.display = ""; dot.style.display = "";
+    var nameIn = $("campName"), dot = $("syncDot"), cw = $("createWrap");
+    if (!camp) { nameIn.style.display = "none"; dot.style.display = "none"; cw.style.display = "none"; cw.innerHTML = ""; return; }
+    nameIn.style.display = ""; dot.style.display = ""; cw.style.display = "";
     if (document.activeElement !== nameIn) nameIn.value = camp.name || "";
     var colors = { off: "var(--muted)", live: "var(--good)", syncing: "var(--orange)", error: "var(--bad)" };
     var titles = { off: "Offline — saved on this device", live: "Live" + (online ? " · " + online.code : ""), syncing: "Syncing…", error: "Connection problem" };
     dot.style.background = colors[syncStatus]; dot.title = titles[syncStatus];
+    buildCreateMenu(cw);
   }
 
-  function openDrawer() { $("drawer").classList.add("show"); $("drawerOverlay").classList.add("show"); }
+  // "+ Create" drop-down in the top bar — spawns any campaign entity and jumps to its editor,
+  // available on every page. Lives in the header so a full re-render preserves it.
+  function buildCreateMenu(wrap) {
+    wrap.innerHTML = "";
+    var btn = el("button", "sm", "+ Create");
+    btn.onclick = function (ev) { ev.stopPropagation(); ui.createOpen = !ui.createOpen; render(); };
+    wrap.appendChild(btn);
+    if (!ui.createOpen) return;
+    var back = el("div", "create-back"); back.onclick = function () { ui.createOpen = false; render(); };
+    wrap.appendChild(back);
+    var menu = el("div", "create-menu");
+    [
+      ["👤", "Character", function () { var h = blankHero(); camp.heroes.push(h); persist(); jump("heroes", h.id); }],
+      ["🎬", "Story Arc", function () { var a = blankArc(); camp.arcs.push(a); ui.openArc = a.id; persist(); jump("arcs"); }],
+      ["🎯", "Challenge", function () { camp.challenges.push(blankChallenge()); persist(); jump("challenges"); }],
+      ["🎭", "NPC", function () { camp.cast.push(blankNpc()); persist(); jump("cast"); }],
+      ["📍", "Location", function () { camp.places.push(blankPlace()); persist(); jump("places"); }]
+    ].forEach(function (row) {
+      var b = el("button");
+      b.appendChild(el("span", "ci", row[0]));
+      b.appendChild(el("span", null, row[1]));
+      b.onclick = function () { ui.createOpen = false; row[2](); };
+      menu.appendChild(b);
+    });
+    wrap.appendChild(menu);
+  }
+
+  function openDrawer() { ui.createOpen = false; $("drawer").classList.add("show"); $("drawerOverlay").classList.add("show"); }
   function closeDrawer() { $("drawer").classList.remove("show"); $("drawerOverlay").classList.remove("show"); }
   function go(tab) { ui.tab = tab; ui.openHero = null; closeDrawer(); render(); try { window.scrollTo(0, 0); } catch (e) {} }
 
@@ -1273,7 +1301,6 @@
   }
 
   function renderDashboard(root) {
-    root.appendChild(dashCreateBar());
     var grid = el("div", "dash");
 
     // Story Arc(s) — wide tiles. Resolved Stories (won or lost) drop off the board.
@@ -1296,36 +1323,6 @@
     grid.appendChild(dashPlaces());
 
     root.appendChild(grid);
-  }
-
-  // "+ Create" button + drop-down that spawns any campaign entity and jumps to its editor.
-  function dashCreateBar() {
-    var bar = el("div", "dash-bar");
-    var wrap = el("div", "create-wrap");
-    var btn = el("button", "sm", "+ Create");
-    btn.onclick = function (ev) { ev.stopPropagation(); ui.createOpen = !ui.createOpen; render(); };
-    wrap.appendChild(btn);
-    if (ui.createOpen) {
-      var back = el("div", "create-back"); back.onclick = function () { ui.createOpen = false; render(); };
-      wrap.appendChild(back);
-      var menu = el("div", "create-menu");
-      [
-        ["👤", "Character", function () { var h = blankHero(); camp.heroes.push(h); persist(); jump("heroes", h.id); }],
-        ["🎬", "Story Arc", function () { var a = blankArc(); camp.arcs.push(a); ui.openArc = a.id; persist(); jump("arcs"); }],
-        ["🎯", "Challenge", function () { camp.challenges.push(blankChallenge()); persist(); jump("challenges"); }],
-        ["🎭", "NPC", function () { camp.cast.push(blankNpc()); persist(); jump("cast"); }],
-        ["📍", "Location", function () { camp.places.push(blankPlace()); persist(); jump("places"); }]
-      ].forEach(function (row) {
-        var b = el("button");
-        b.appendChild(el("span", "ci", row[0]));
-        b.appendChild(el("span", null, row[1]));
-        b.onclick = function () { ui.createOpen = false; row[2](); };
-        menu.appendChild(b);
-      });
-      wrap.appendChild(menu);
-    }
-    bar.appendChild(wrap);
-    return bar;
   }
 
   // A Story is resolved once the Hero Track fills (won) or the Antagonist Track fills (lost).
