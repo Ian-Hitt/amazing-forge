@@ -179,6 +179,48 @@
   .footnote { text-align: center; font-size: .8rem; color: var(--muted); margin-top: 1.6rem; }
   .sizepick { display: flex; gap: .4rem; flex-wrap: wrap; align-items: center; }
 
+  /* ---- dashboard ---- */
+  .wrap.wide { max-width: 1180px; }
+  .dash { display: grid; grid-template-columns: minmax(0, 1.9fr) minmax(0, 1fr); gap: .8rem; align-items: start; }
+  .dash-main, .dash-side { display: grid; gap: .8rem; align-content: start; min-width: 0; }
+  .dash .w { background: var(--card); border: 1.5px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); padding: .7rem .85rem; min-width: 0; }
+  .dash .w > h3 { margin: 0 0 .55rem; font-size: .68rem; text-transform: uppercase; letter-spacing: .09em; color: var(--muted);
+    border-bottom: 1px solid var(--line); padding-bottom: .32rem; display: flex; align-items: center; justify-content: space-between; }
+  .dash .w.click { cursor: pointer; transition: border-color .12s; }
+  .dash .w.click:hover { border-color: var(--orange); }
+  .dash .wlink { font-size: .7rem; color: var(--orange); font-weight: 800; letter-spacing: 0; text-transform: none; }
+  .dash .scroll { max-height: 22rem; overflow: auto; margin: -.1rem; padding: .1rem; }
+  .dash-empty { color: var(--muted); font-size: .82rem; font-style: italic; padding: .3rem 0; }
+
+  .mbar { flex: 1; height: .5rem; border-radius: 999px; background: var(--line); overflow: hidden; min-width: 44px; }
+  .mbar > i { display: block; height: 100%; border-radius: 999px; }
+
+  .heroes-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(184px, 100%), 1fr)); gap: .6rem; }
+  .hc { border: 1px solid var(--line); border-radius: 10px; padding: .55rem .6rem; cursor: pointer; background: var(--card); min-width: 0; transition: border-color .12s; }
+  .hc:hover { border-color: var(--orange); }
+  .hc .hc-top { display: flex; align-items: center; gap: .45rem; }
+  .hc .hc-av { width: 30px; height: 30px; border-radius: 7px; object-fit: cover; flex: 0 0 auto; }
+  .hc .hc-name { font-weight: 800; font-size: .9rem; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .hc .hc-con { color: var(--muted); font-size: .73rem; margin: .2rem 0 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .hc .hc-stats { font-size: .72rem; font-weight: 700; margin-top: .3rem; }
+  .hc .hc-rdy { display: flex; align-items: center; gap: .35rem; margin-top: .35rem; }
+  .hc .hc-rdy small { font-size: .68rem; font-weight: 700; color: var(--muted); flex: 0 0 auto; }
+  .hc .hc-assets { font-size: .71rem; color: var(--muted); margin-top: .35rem; line-height: 1.4; }
+  .hc .hc-assets s { opacity: .7; }
+
+  .dtable { width: 100%; border-collapse: collapse; font-size: .82rem; }
+  .dtable th { text-align: left; font-size: .62rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted);
+    font-weight: 700; padding: .25rem .35rem; border-bottom: 1px solid var(--line); position: sticky; top: 0; background: var(--card); }
+  .dtable td { padding: .34rem .35rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+  .dtable tbody tr:last-child td { border-bottom: none; }
+  .dtable tbody tr { cursor: pointer; }
+  .dtable tbody tr:hover { background: rgba(127,127,127,.08); }
+  .dtable .nm { font-weight: 700; }
+  .dtable .sub { color: var(--muted); }
+  .dtable .st { color: var(--orange); }
+
+  @media (max-width: 820px) { .dash { grid-template-columns: 1fr; } }
+
   @media print {
     .topbar, .drawer, .drawer-overlay, .banner, .toast, .footnote, .no-print { display: none !important; }
     body { background: #fff; color: #000; }
@@ -224,6 +266,7 @@
   // ---------- inline icons (Lucide, MIT-licensed) ----------
   var ICONS = {
     menu: '<line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="18" y2="18"/>',
+    grid: '<rect width="7" height="9" x="3" y="3" rx="1"/><rect width="7" height="5" x="14" y="3" rx="1"/><rect width="7" height="9" x="14" y="12" rx="1"/><rect width="7" height="5" x="3" y="16" rx="1"/>',
     x: '<path d="M18 6 6 18"/><path d="m6 6 12 12"/>',
     users: '<path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>',
     userRound: '<circle cx="12" cy="8" r="5"/><path d="M20 21a8 8 0 0 0-16 0"/>',
@@ -297,7 +340,7 @@
   var camps = loadAll();
   var camp = null;        // active campaign
   var isImport = false;   // loaded from a share link, not yet saved here
-  var ui = { tab: "heroes", openHero: null, openArc: null };
+  var ui = { tab: "dashboard", openHero: null, openArc: null };
 
   // live sync (Cloudflare Worker)
   var WORKER_URL = "https://lca-campaign.fasdrummer.workers.dev";
@@ -426,10 +469,11 @@
 
   // ---------- chrome: header + slide-in drawer ----------
   var NAV = [
+    ["dashboard", "Dashboard", "grid"],
     ["heroes", "Heroes", "users"], ["arcs", "Story Arcs", "film"], ["challenges", "Challenges", "target"],
     ["world", "World", "globe"], ["places", "Places", "pin"], ["cast", "Cast", "userRound"]
   ];
-  var TITLES = { heroes: "Heroes", arcs: "Story Arcs", challenges: "Challenges", world: "World", places: "Places", cast: "Cast", manage: "Manage & Share" };
+  var TITLES = { dashboard: "Dashboard", heroes: "Heroes", arcs: "Story Arcs", challenges: "Challenges", world: "World", places: "Places", cast: "Cast", manage: "Manage & Share" };
 
   function updateHeader() {
     var nameIn = $("campName"), dot = $("syncDot");
@@ -660,6 +704,7 @@
     buildDrawer();
     var app = $("app");
     app.innerHTML = "";
+    app.classList.toggle("wide", ui.tab === "dashboard" && !!camp);
 
     if (!camp && ui.tab !== "manage") { app.appendChild(welcome()); return; }
 
@@ -673,7 +718,8 @@
     app.appendChild(el("h2", "page-title", TITLES[ui.tab] || ""));
 
     var body = el("div", "print-all");
-    if (ui.tab === "heroes") renderHeroes(body);
+    if (ui.tab === "dashboard") renderDashboard(body);
+    else if (ui.tab === "heroes") renderHeroes(body);
     else if (ui.tab === "arcs") renderArcs(body);
     else if (ui.tab === "challenges") renderChallenges(body);
     else if (ui.tab === "world") renderWorld(body);
@@ -1066,6 +1112,131 @@
     });
   }
 
+  // ============================================================ DASHBOARD
+  // A read-only, at-a-glance overview: the Story Arc, hero cards, and compact Cast /
+  // Locations tables. Everything is a shortcut — tap through to the full editor.
+  function jump(tab, openHeroId) { ui.tab = tab; ui.openHero = openHeroId || null; render(); try { window.scrollTo(0, 0); } catch (e) {} }
+
+  function miniBar(cur, max, color) {
+    var b = el("div", "mbar"), f = el("i");
+    f.style.background = color; f.style.width = Math.round(100 * Math.max(0, Math.min(cur, max)) / (max || 1)) + "%";
+    b.appendChild(f); return b;
+  }
+  function dashEmpty(msg) { return el("div", "dash-empty", msg); }
+  function widget(title, count, onOpen) {
+    var w = el("div", "w" + (onOpen ? " click" : ""));
+    var h = el("h3"); h.appendChild(el("span", null, title));
+    if (onOpen) { var a = el("span", "wlink", "Open ›"); h.appendChild(a); w.onclick = onOpen; }
+    else if (count != null) h.appendChild(el("span", "wlink", String(count)));
+    w.appendChild(h); return w;
+  }
+
+  function renderDashboard(root) {
+    var grid = el("div", "dash");
+    var main = el("div", "dash-main"), side = el("div", "dash-side");
+
+    // Story Arc(s)
+    if (!camp.arcs.length) {
+      var aw = widget("Story Arc", null, function () { jump("arcs"); });
+      aw.appendChild(dashEmpty("No Story Arc yet — tap to add one."));
+      main.appendChild(aw);
+    } else {
+      camp.arcs.forEach(function (a) { main.appendChild(dashArc(a)); });
+    }
+
+    // Heroes
+    var hw = widget("Heroes", camp.heroes.length, null);
+    if (!camp.heroes.length) hw.appendChild(dashEmpty("No heroes yet."));
+    else { var hg = el("div", "heroes-grid"); camp.heroes.forEach(function (h) { hg.appendChild(dashHero(h)); }); hw.appendChild(hg); }
+    main.appendChild(hw);
+
+    // Cast (NPCs)
+    side.appendChild(dashCast());
+    // Locations
+    side.appendChild(dashPlaces());
+
+    grid.appendChild(main); grid.appendChild(side);
+    root.appendChild(grid);
+  }
+
+  function dashArc(a) {
+    var sz = SIZES[a.size];
+    var w = widget("Story Arc", null, function () { jump("arcs"); });
+    var goal = el("div"); goal.style.cssText = "font-weight:800;font-size:1rem;line-height:1.25;";
+    goal.textContent = a.goal || "Untitled Story Arc"; w.appendChild(goal);
+    var sub = el("div"); sub.style.cssText = "font-size:.75rem;color:var(--muted);margin:.1rem 0 .55rem;";
+    sub.textContent = sz.label + " · " + a.milestones.filter(function (m) { return m.done; }).length + " of " + sz.ms + " Milestones";
+    w.appendChild(sub);
+    w.appendChild(dashTrack("Hero", a.arc, sz.ms, "var(--good)"));
+    w.appendChild(dashTrack("Antagonist", a.anta, sz.anta, "var(--bad)"));
+    if (a.antaName || a.antaWants) {
+      var an = el("div"); an.style.cssText = "font-size:.78rem;margin-top:.5rem;";
+      an.innerHTML = "<b>" + esc(a.antaName || "Antagonist") + "</b>" + (a.antaWants ? ' <span style="color:var(--muted)">— ' + esc(a.antaWants) + "</span>" : "");
+      w.appendChild(an);
+    }
+    return w;
+  }
+  function dashTrack(label, cur, max, color) {
+    var r = el("div"); r.style.cssText = "display:flex;align-items:center;gap:.5rem;margin:.28rem 0;";
+    var l = el("span"); l.style.cssText = "font-size:.7rem;font-weight:700;color:var(--muted);width:5rem;flex:0 0 auto;"; l.textContent = label;
+    var v = el("span"); v.style.cssText = "font-size:.72rem;font-weight:800;width:2.4rem;text-align:right;flex:0 0 auto;"; v.textContent = cur + " / " + max;
+    r.appendChild(l); r.appendChild(miniBar(cur, max, color)); r.appendChild(v); return r;
+  }
+
+  function dashHero(h) {
+    var c = el("div", "hc"); c.onclick = function () { jump("heroes", h.id); };
+    var top = el("div", "hc-top");
+    if (h.img) { var av = el("img", "hc-av"); av.src = h.img; av.alt = ""; top.appendChild(av); }
+    top.appendChild(el("div", "hc-name", h.name || "Unnamed hero"));
+    c.appendChild(top);
+    if (h.concept) c.appendChild(el("div", "hc-con", h.concept));
+    c.appendChild(el("div", "hc-stats", h.stats.length ? h.stats.join(" · ") : "no Stats"));
+    var rdy = el("div", "hc-rdy");
+    rdy.appendChild(miniBar(h.rdy, 9, h.rdy <= 2 ? "var(--bad)" : "var(--good)"));
+    rdy.appendChild(el("small", null, "Rdy " + h.rdy + "/9")); c.appendChild(rdy);
+    var names = h.assets.filter(function (a) { return a.name; });
+    if (names.length) {
+      var as = el("div", "hc-assets");
+      as.innerHTML = names.map(function (a) { return a.broken ? "<s>" + esc(a.name) + "</s>" : esc(a.name); }).join(" · ");
+      c.appendChild(as);
+    }
+    return c;
+  }
+
+  function dashCast() {
+    var w = widget("Cast", camp.cast.length, function () { jump("cast"); });
+    if (!camp.cast.length) { w.appendChild(dashEmpty("No cast yet.")); return w; }
+    var scroll = el("div", "scroll"), t = el("table", "dtable");
+    t.innerHTML = "<thead><tr><th>Name</th><th>Role</th><th>Last seen</th></tr></thead>";
+    var tb = el("tbody");
+    camp.cast.forEach(function (n) {
+      var tr = el("tr"); tr.onclick = function () { jump("cast"); };
+      var nm = el("td", "nm"); nm.innerHTML = (n.star ? '<span class="st">★</span> ' : "") + esc(n.name || "Unnamed");
+      tr.appendChild(nm);
+      tr.appendChild(el("td", "sub", n.role || "—"));
+      tr.appendChild(el("td", "sub", n.lastSeen || "—"));
+      tb.appendChild(tr);
+    });
+    t.appendChild(tb); scroll.appendChild(t); w.appendChild(scroll); return w;
+  }
+
+  function dashPlaces() {
+    var w = widget("Locations", camp.places.length, function () { jump("places"); });
+    if (!camp.places.length) { w.appendChild(dashEmpty("No locations yet.")); return w; }
+    var scroll = el("div", "scroll"), t = el("table", "dtable");
+    t.innerHTML = "<thead><tr><th>Place</th><th>Function</th><th>Return</th></tr></thead>";
+    var tb = el("tbody");
+    camp.places.forEach(function (p) {
+      var tr = el("tr"); tr.onclick = function () { jump("places"); };
+      tr.appendChild(el("td", "nm", p.name || "Unnamed"));
+      tr.appendChild(el("td", "sub", p.fn || "—"));
+      var ret = el("td"); ret.style.textAlign = "center"; ret.innerHTML = p.back ? '<span class="st">●</span>' : '<span class="sub">—</span>';
+      tr.appendChild(ret);
+      tb.appendChild(tr);
+    });
+    t.appendChild(tb); scroll.appendChild(t); w.appendChild(scroll); return w;
+  }
+
   // ============================================================ MANAGE & SHARE
   function renderManage(root) {
     // --- Campaign ---
@@ -1149,7 +1320,7 @@
   }
   function loadCampaign(id) {
     var c = camps.find(function (x) { return x.id === id; }); if (!c) return;
-    camp = c; isImport = false; ui = { tab: "heroes", openHero: null, openArc: null };
+    camp = c; isImport = false; ui = { tab: "dashboard", openHero: null, openArc: null };
     try { localStorage.setItem(LS_ACTIVE, id); } catch (e) {}
     render();
   }
