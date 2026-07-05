@@ -195,6 +195,16 @@
   .dash .wlink { font-size: .7rem; color: var(--orange); font-weight: 800; letter-spacing: 0; text-transform: none; }
   .dash .scroll { max-height: 22rem; overflow: auto; margin: -.1rem; padding: .1rem; }
   .dash-empty { color: var(--muted); font-size: .82rem; font-style: italic; padding: .3rem 0; }
+  .dash-bar { display: flex; align-items: center; justify-content: flex-end; margin-bottom: .8rem; }
+  .create-wrap { position: relative; }
+  .create-menu { position: absolute; right: 0; top: calc(100% + 6px); z-index: 60; background: var(--card);
+    border: 1.5px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); padding: .35rem; min-width: 12.5rem;
+    display: flex; flex-direction: column; gap: 2px; }
+  .create-menu button { display: flex; align-items: center; gap: .55rem; width: 100%; text-align: left; background: none;
+    border: none; border-radius: 8px; padding: .5rem .6rem; font: inherit; font-size: .9rem; color: var(--ink); cursor: pointer; }
+  .create-menu button:hover { background: var(--line); border-color: var(--line); }
+  .create-menu .ci { width: 1.5rem; flex: 0 0 auto; text-align: center; font-size: 1.05rem; }
+  .create-back { position: fixed; inset: 0; z-index: 55; background: transparent; }
 
   .mbar { flex: 1; height: .5rem; border-radius: 999px; background: var(--line); overflow: hidden; min-width: 44px; }
   .mbar > i { display: block; height: 100%; border-radius: 999px; }
@@ -1263,6 +1273,7 @@
   }
 
   function renderDashboard(root) {
+    root.appendChild(dashCreateBar());
     var grid = el("div", "dash");
 
     // Story Arc(s) — wide tiles. Resolved Stories (won or lost) drop off the board.
@@ -1285,6 +1296,36 @@
     grid.appendChild(dashPlaces());
 
     root.appendChild(grid);
+  }
+
+  // "+ Create" button + drop-down that spawns any campaign entity and jumps to its editor.
+  function dashCreateBar() {
+    var bar = el("div", "dash-bar");
+    var wrap = el("div", "create-wrap");
+    var btn = el("button", "sm", "+ Create");
+    btn.onclick = function (ev) { ev.stopPropagation(); ui.createOpen = !ui.createOpen; render(); };
+    wrap.appendChild(btn);
+    if (ui.createOpen) {
+      var back = el("div", "create-back"); back.onclick = function () { ui.createOpen = false; render(); };
+      wrap.appendChild(back);
+      var menu = el("div", "create-menu");
+      [
+        ["👤", "Character", function () { var h = blankHero(); camp.heroes.push(h); persist(); jump("heroes", h.id); }],
+        ["🎬", "Story Arc", function () { var a = blankArc(); camp.arcs.push(a); ui.openArc = a.id; persist(); jump("arcs"); }],
+        ["🎯", "Challenge", function () { camp.challenges.push(blankChallenge()); persist(); jump("challenges"); }],
+        ["🎭", "NPC", function () { camp.cast.push(blankNpc()); persist(); jump("cast"); }],
+        ["📍", "Location", function () { camp.places.push(blankPlace()); persist(); jump("places"); }]
+      ].forEach(function (row) {
+        var b = el("button");
+        b.appendChild(el("span", "ci", row[0]));
+        b.appendChild(el("span", null, row[1]));
+        b.onclick = function () { ui.createOpen = false; row[2](); };
+        menu.appendChild(b);
+      });
+      wrap.appendChild(menu);
+    }
+    bar.appendChild(wrap);
+    return bar;
   }
 
   // A Story is resolved once the Hero Track fills (won) or the Antagonist Track fills (lost).
