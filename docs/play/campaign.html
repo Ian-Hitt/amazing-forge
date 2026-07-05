@@ -1139,6 +1139,22 @@
     return seg;
   }
   function dashEmpty(msg) { return el("div", "dash-empty", msg); }
+  // A small square thumbnail for table rows; an empty aligned slot when there's no image.
+  function dashThumb(img, size) {
+    size = size || 26;
+    var t = el("div");
+    t.style.cssText = "width:" + size + "px;height:" + size + "px;flex:0 0 auto;border-radius:6px;overflow:hidden;background:center/cover no-repeat;" +
+      (img ? "background-image:url('" + img + "');border:1px solid var(--line);" : "border:1px dashed var(--line);opacity:.5;");
+    return t;
+  }
+  // Name cell contents: thumbnail + (optional prefix HTML) + name, ellipsized.
+  function dashNameCell(name, img, prefixHtml) {
+    var wrap = el("div"); wrap.style.cssText = "display:flex;align-items:center;gap:.45rem;min-width:0;";
+    wrap.appendChild(dashThumb(img));
+    var t = el("span"); t.style.cssText = "min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;";
+    t.innerHTML = (prefixHtml || "") + esc(name || "Unnamed");
+    wrap.appendChild(t); return wrap;
+  }
   // whole = make the entire card a navigation target. Omit it for widgets that hold their
   // own interactive controls (tracks) — there, only the "Open ›" link navigates.
   function widget(title, count, onOpen, whole) {
@@ -1249,7 +1265,7 @@
     var tb = el("tbody");
     camp.cast.forEach(function (n) {
       var tr = el("tr"); tr.onclick = function () { jump("cast"); };
-      var nm = el("td", "nm"); nm.innerHTML = (n.star ? '<span class="st">★</span> ' : "") + esc(n.name || "Unnamed");
+      var nm = el("td", "nm"); nm.appendChild(dashNameCell(n.name, n.img, n.star ? '<span class="st">★</span> ' : ""));
       tr.appendChild(nm);
       tr.appendChild(el("td", "sub", n.role || "—"));
       tr.appendChild(el("td", "sub", n.lastSeen || "—"));
@@ -1266,7 +1282,8 @@
     var tb = el("tbody");
     camp.places.forEach(function (p) {
       var tr = el("tr"); tr.onclick = function () { jump("places"); };
-      tr.appendChild(el("td", "nm", p.name || "Unnamed"));
+      var pn = el("td", "nm"); pn.appendChild(dashNameCell(p.name, p.img));
+      tr.appendChild(pn);
       tr.appendChild(el("td", "sub", p.fn || "—"));
       var ret = el("td"); ret.style.textAlign = "center"; ret.innerHTML = p.back ? '<span class="st">●</span>' : '<span class="sub">—</span>';
       tr.appendChild(ret);
