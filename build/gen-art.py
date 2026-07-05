@@ -24,8 +24,10 @@ The --ref flag is the consistency trick: generate ONE piece you like, then pass
 it as a style reference so the rest of the set matches its linework.
 """
 from __future__ import annotations
-import argparse, base64, json, os, sys
+import argparse, base64, json, os, sys, warnings
 from pathlib import Path
+
+warnings.filterwarnings("ignore")  # hush google-auth Py3.9-EOL / LibreSSL notices
 
 ROOT = Path(__file__).resolve().parent.parent
 ART = ROOT / "build" / "art"
@@ -56,6 +58,21 @@ def compose(manifest: dict, slot: str, spec: dict) -> str:
 
 def load_manifest() -> dict:
     return json.loads(MANIFEST.read_text(encoding="utf-8"))
+
+
+def load_dotenv() -> None:
+    """Pull KEY=value lines from a gitignored build/.env into the environment,
+    so the API key lives in one local file (works across shells) and is never
+    committed. Real env vars still win."""
+    envf = ROOT / "build" / ".env"
+    if not envf.is_file():
+        return
+    for line in envf.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        k, v = line.split("=", 1)
+        os.environ.setdefault(k.strip(), v.strip().strip('"').strip("'"))
 
 
 def main() -> int:
@@ -107,9 +124,11 @@ def main() -> int:
         print("google-genai not installed. Run: pip install google-genai", file=sys.stderr)
         return 1
 
+    load_dotenv()
     api_key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
     if not api_key:
-        print("set GEMINI_API_KEY (https://aistudio.google.com/apikey)", file=sys.stderr)
+        print("no API key. Put GEMINI_API_KEY=... in build/.env or export it "
+              "(key from https://aistudio.google.com/apikey)", file=sys.stderr)
         return 1
     client = genai.Client(api_key=api_key)
 

@@ -7,6 +7,7 @@ build/content-srd.typ
 build/*.pdf
 build/preview/
 build/art/
+build/.env
 
 # Python
 __pycache__/
