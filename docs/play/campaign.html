@@ -180,7 +180,7 @@
   .sizepick { display: flex; gap: .4rem; flex-wrap: wrap; align-items: center; }
 
   /* ---- dashboard ---- */
-  .wrap.wide { max-width: 1180px; }
+  .wrap.wide { max-width: none; padding-left: 1.25rem; padding-right: 1.25rem; }
   .dash { display: grid; grid-template-columns: minmax(0, 1.9fr) minmax(0, 1fr); gap: .8rem; align-items: start; }
   .dash-main, .dash-side { display: grid; gap: .8rem; align-content: start; min-width: 0; }
   .dash .w { background: var(--card); border: 1.5px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); padding: .7rem .85rem; min-width: 0; }
@@ -1149,10 +1149,11 @@
     if (!camp.heroes.length) hw.appendChild(dashEmpty("No heroes yet."));
     else { var hg = el("div", "heroes-grid"); camp.heroes.forEach(function (h) { hg.appendChild(dashHero(h)); }); hw.appendChild(hg); }
     main.appendChild(hw);
+    // Challenges (live clocks) round out the main "play state" column.
+    main.appendChild(dashChallenges());
 
-    // Cast (NPCs)
+    // Sidebar: reference material.
     side.appendChild(dashCast());
-    // Locations
     side.appendChild(dashPlaces());
 
     grid.appendChild(main); grid.appendChild(side);
@@ -1201,6 +1202,27 @@
       c.appendChild(as);
     }
     return c;
+  }
+
+  function dashChallenges() {
+    var w = widget("Challenges", camp.challenges.length, function () { jump("challenges"); });
+    if (!camp.challenges.length) { w.appendChild(dashEmpty("No active Challenges.")); return w; }
+    camp.challenges.forEach(function (c) {
+      var done = c.current >= c.max;
+      var row = el("div"); row.style.cssText = "margin:.45rem 0;";
+      var top = el("div"); top.style.cssText = "display:flex;align-items:baseline;gap:.5rem;font-size:.84rem;min-width:0;";
+      var nm = el("span"); nm.style.cssText = "font-weight:700;flex:0 0 auto;" + (done ? "color:var(--good);" : "");
+      nm.textContent = (c.name || "Untitled Challenge") + (done ? " ✓" : "");
+      top.appendChild(nm);
+      if (c.note) { var nt = el("span"); nt.style.cssText = "color:var(--muted);font-size:.74rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0;"; nt.textContent = c.note; top.appendChild(nt); }
+      row.appendChild(top);
+      var bar = el("div"); bar.style.cssText = "display:flex;align-items:center;gap:.5rem;margin-top:.22rem;";
+      bar.appendChild(miniBar(c.current, c.max, "var(--orange)"));
+      var v = el("span"); v.style.cssText = "font-size:.72rem;font-weight:800;width:2.4rem;text-align:right;flex:0 0 auto;"; v.textContent = c.current + " / " + c.max;
+      bar.appendChild(v); row.appendChild(bar);
+      w.appendChild(row);
+    });
+    return w;
   }
 
   function dashCast() {
