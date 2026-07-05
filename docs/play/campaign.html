@@ -241,7 +241,7 @@
 
   // ---------- model ----------
   function blankHero() {
-    return { id: uid("h"), name: "", player: "", concept: "", notes: "", stats: [],
+    return { id: uid("h"), name: "", player: "", concept: "", notes: "", stats: [], img: "",
       assets: [ { name: "", boons: ["", ""], broken: false }, { name: "", boons: ["", ""], broken: false }, { name: "", boons: ["", ""], broken: false } ],
       rdy: 9, grow: 0 };
   }
@@ -261,8 +261,8 @@
     return { id: uid("g"), name: name || "New Campaign",
       world: ["", "", "", "", "", "", "", "", "", ""], heroes: [], arcs: [], challenges: [], places: [], cast: [] };
   }
-  function blankPlace() { return { id: uid("p"), name: "", fn: "", detail: "", back: false }; }
-  function blankNpc() { return { id: uid("e"), name: "", star: false, role: "", detail: "", lastSeen: "" }; }
+  function blankPlace() { return { id: uid("p"), name: "", fn: "", detail: "", back: false, img: "" }; }
+  function blankNpc() { return { id: uid("e"), name: "", star: false, role: "", detail: "", lastSeen: "", img: "" }; }
   var WORLD_Q = [
     ["The Genre", "What's the mood of our story?", "A feeling, not a setting — what movie or show should this feel like?"],
     ["The Setting", "Where and when does it happen?", "One strong image with a twist."],
@@ -489,7 +489,7 @@
     return {
       n: g.name,
       h: g.heroes.map(function (h) {
-        return { i: h.id, n: h.name, p: h.player, c: h.concept, x: h.notes, s: h.stats, r: h.rdy, g: h.grow,
+        return { i: h.id, n: h.name, p: h.player, c: h.concept, x: h.notes, s: h.stats, r: h.rdy, g: h.grow, im: h.img || "",
           a: h.assets.map(function (a) { return { n: a.name, b: a.boons, k: a.broken ? 1 : 0 }; }) };
       }),
       k: g.arcs.map(function (a) {
@@ -500,8 +500,8 @@
         return { i: ch.id, n: ch.name, e: ch.note, x: ch.max, f: ch.current };
       }),
       w: (g.world || []).slice(0, 10),
-      p: (g.places || []).map(function (p) { return { i: p.id, n: p.name, f: p.fn, d: p.detail, b: p.back ? 1 : 0 }; }),
-      e: (g.cast || []).map(function (x) { return { i: x.id, n: x.name, s: x.star ? 1 : 0, r: x.role, d: x.detail, l: x.lastSeen }; })
+      p: (g.places || []).map(function (p) { return { i: p.id, n: p.name, f: p.fn, d: p.detail, b: p.back ? 1 : 0, im: p.img || "" }; }),
+      e: (g.cast || []).map(function (x) { return { i: x.id, n: x.name, s: x.star ? 1 : 0, r: x.role, d: x.detail, l: x.lastSeen, im: x.img || "" }; })
     };
   }
 
@@ -611,7 +611,7 @@
     var g = blankCampaign(content.n || "Shared Campaign");
     g.heroes = content.h.map(function (h) {
       var hero = blankHero(); if (h.i) hero.id = h.i;
-      hero.name = h.n || ""; hero.player = h.p || ""; hero.concept = h.c || ""; hero.notes = h.x || "";
+      hero.name = h.n || ""; hero.player = h.p || ""; hero.concept = h.c || ""; hero.notes = h.x || ""; hero.img = h.im || "";
       hero.stats = Array.isArray(h.s) ? h.s.slice(0, 2) : [];
       hero.rdy = clamp(h.r, 0, 9, 9); hero.grow = clamp(h.g, 0, 18, 0);
       if (Array.isArray(h.a)) {
@@ -634,8 +634,8 @@
     });
     g.world = content.w.slice(0, 10).map(function (s) { return s || ""; });
     while (g.world.length < 10) g.world.push("");
-    g.places = content.p.map(function (p) { var x = blankPlace(); if (p.i) x.id = p.i; x.name = p.n || ""; x.fn = p.f || ""; x.detail = p.d || ""; x.back = !!p.b; return x; });
-    g.cast = content.e.map(function (n) { var x = blankNpc(); if (n.i) x.id = n.i; x.name = n.n || ""; x.star = !!n.s; x.role = n.r || ""; x.detail = n.d || ""; x.lastSeen = n.l || ""; return x; });
+    g.places = content.p.map(function (p) { var x = blankPlace(); if (p.i) x.id = p.i; x.name = p.n || ""; x.fn = p.f || ""; x.detail = p.d || ""; x.back = !!p.b; x.img = p.im || ""; return x; });
+    g.cast = content.e.map(function (n) { var x = blankNpc(); if (n.i) x.id = n.i; x.name = n.n || ""; x.star = !!n.s; x.role = n.r || ""; x.detail = n.d || ""; x.lastSeen = n.l || ""; x.img = n.im || ""; return x; });
     return g;
   }
 
@@ -707,6 +707,58 @@
   }
   function labeled(labelTxt, node) { var d = el("div"); d.appendChild(el("label", "fld", labelTxt)); d.appendChild(node); return d; }
 
+  // ---------- image upload (thumbnail -> R2 via the worker) ----------
+  // Downscale on a canvas first: keeps uploads to ~30–60 KB, so only a short URL ever
+  // travels through the synced campaign JSON.
+  function downscaleImage(file, maxDim, cb) {
+    var url = URL.createObjectURL(file), img = new Image();
+    img.onload = function () {
+      var scale = Math.min(1, maxDim / Math.max(img.width, img.height));
+      var cw = Math.max(1, Math.round(img.width * scale)), chh = Math.max(1, Math.round(img.height * scale));
+      var cv = el("canvas"); cv.width = cw; cv.height = chh;
+      cv.getContext("2d").drawImage(img, 0, 0, cw, chh);
+      URL.revokeObjectURL(url);
+      cv.toBlob(function (blob) { cb(blob); }, "image/jpeg", 0.82);
+    };
+    img.onerror = function () { URL.revokeObjectURL(url); cb(null); };
+    img.src = url;
+  }
+
+  // A photo control: thumbnail + Add/Change/Remove. Sets obj.img to the returned URL.
+  function imageField(obj) {
+    var wrap = el("div"); wrap.style.cssText = "display:flex;align-items:center;gap:.7rem;margin:.2rem 0 .1rem;";
+    var thumb = el("div");
+    thumb.style.cssText = "width:64px;height:64px;flex:0 0 auto;border-radius:10px;border:1px solid var(--line);background:var(--card) center/cover no-repeat;display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:.66rem;overflow:hidden;";
+    if (obj.img) thumb.style.backgroundImage = "url('" + obj.img + "')"; else thumb.textContent = "No photo";
+    var btns = el("div"); btns.style.cssText = "display:flex;gap:.4rem;flex-wrap:wrap;";
+    var file = el("input"); file.type = "file"; file.accept = "image/*"; file.style.display = "none";
+    var pick = el("button", "ghost sm", obj.img ? "Change photo" : "Add photo");
+    pick.onclick = function () { file.click(); };
+    btns.appendChild(pick);
+    if (obj.img) { var rm = el("button", "ghost sm", "Remove"); rm.onclick = function () { obj.img = ""; persist(); render(); }; btns.appendChild(rm); }
+    file.onchange = function () {
+      var f = file.files && file.files[0]; if (!f) return;
+      pick.disabled = true; pick.textContent = "Uploading…";
+      downscaleImage(f, 512, function (blob) {
+        if (!blob) { pick.disabled = false; pick.textContent = obj.img ? "Change photo" : "Add photo"; toast("Couldn't read that image."); return; }
+        fetch(WORKER_URL + "/img", { method: "POST", headers: { "Content-Type": "image/jpeg" }, body: blob })
+          .then(function (r) { return r.ok ? r.json() : null; })
+          .then(function (d) { if (!d || !d.url) throw new Error("upload"); obj.img = d.url; persist(); render(); })
+          .catch(function () { pick.disabled = false; pick.textContent = obj.img ? "Change photo" : "Add photo"; toast("Upload failed — check your connection."); });
+      });
+    };
+    wrap.appendChild(thumb); wrap.appendChild(btns); wrap.appendChild(file);
+    return wrap;
+  }
+
+  // Small avatar for a collapsed card head (null when there's no photo).
+  function avatarEl(obj) {
+    if (!obj.img) return null;
+    var a = el("img"); a.src = obj.img; a.alt = "";
+    a.style.cssText = "width:34px;height:34px;flex:0 0 auto;border-radius:8px;object-fit:cover;";
+    return a;
+  }
+
   // ============================================================ HEROES
   function renderHeroes(root) {
     var head = el("div"); head.style.cssText = "display:flex;justify-content:space-between;align-items:center;gap:.5rem;flex-wrap:wrap;margin-bottom:.3rem;";
@@ -729,6 +781,7 @@
       var openBtn = el("button", "ghost sm", ui.openHero === h.id ? "Close" : "Open"); openBtn.onclick = function () { ui.openHero = (ui.openHero === h.id) ? null : h.id; render(); };
       var del = delBtn(); del.title = "Remove hero"; del.onclick = function () { confirmDel("Remove \"" + (h.name || "this hero") + "\"?", function () { camp.heroes = camp.heroes.filter(function (x) { return x !== h; }); persist(); render(); }); };
       actions.appendChild(openBtn); actions.appendChild(del);
+      var av = avatarEl(h); if (av) ch.appendChild(av);
       ch.appendChild(title); ch.appendChild(meta); ch.appendChild(actions);
       card.appendChild(ch);
       if (ui.openHero === h.id) card.appendChild(heroEditor(h));
@@ -743,6 +796,9 @@
     row.appendChild(labeled("Hero Name", textField(h, "name", "Captain Vesper Quill", function () { /* keep summary in sync on close */ })));
     row.appendChild(labeled("Player", textField(h, "player", "Your name")));
     box.appendChild(row);
+
+    box.appendChild(el("h2", "sec", "Photo"));
+    box.appendChild(imageField(h));
 
     box.appendChild(el("h2", "sec", "Concept"));
     box.appendChild(el("p", "hint", "[An Adjective, Species, or Twist] + [a Class, Job, or Role]."));
@@ -973,7 +1029,9 @@
       back.appendChild(bchk); back.appendChild(document.createTextNode(" Return?"));
       var del = delBtn(); del.title = "Delete place"; del.onclick = function () { camp.places = camp.places.filter(function (x) { return x !== p; }); persist(); render(); };
       actions.appendChild(back); actions.appendChild(del);
+      var av = avatarEl(p); if (av) ch.appendChild(av);
       ch.appendChild(nameIn); ch.appendChild(actions); card.appendChild(ch);
+      card.appendChild(imageField(p));
       card.appendChild(labeled("Function — why the story comes here", textField(p, "fn", "Smugglers' den · the half-flooded archive · the festival")));
       card.appendChild(labeled("Detail & hook", textField(p, "detail", "One striking detail + the thread still hanging")));
       root.appendChild(card);
@@ -998,7 +1056,9 @@
       nameIn.oninput = function () { n.name = nameIn.value; persist(); };
       var del = delBtn(); del.title = "Delete NPC"; del.onclick = function () { camp.cast = camp.cast.filter(function (x) { return x !== n; }); persist(); render(); };
       var actions = el("div", "actions"); actions.appendChild(del);
+      var av = avatarEl(n); if (av) ch.appendChild(av);
       ch.appendChild(star); ch.appendChild(nameIn); ch.appendChild(actions); card.appendChild(ch);
+      card.appendChild(imageField(n));
       card.appendChild(labeled("Role — why they're in the story", textField(n, "role", "Helper · Obstacle · Source · Rival · Authority · Wildcard · Hidden Hand…")));
       card.appendChild(labeled("The one detail", textField(n, "detail", "The unforgettable thing about them")));
       card.appendChild(labeled("Last seen", textField(n, "lastSeen", "Where / how you left things")));

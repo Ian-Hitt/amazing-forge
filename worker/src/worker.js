@@ -28,6 +28,11 @@ const CORS = {
 // but abandoned ones drop out of KV on their own.
 const TTL_SECONDS = 60 * 60 * 24 * 120;
 
+// Uploaded images (hero/place/cast portraits) go to R2, never into the campaign JSON.
+// The client downscales to a small thumbnail first, so this cap is just a sanity guard.
+const MAX_IMG_BYTES = 3 * 1024 * 1024;
+const IMG_TYPES = { "image/jpeg": "jpg", "image/png": "png", "image/webp": "webp" };
+
 // Unambiguous alphabet (no 0/O/1/I/L) for friendly, readable codes.
 const ALPHABET = "ABCDEFGHJKMNPQRSTUVWXYZ23456789";
 
@@ -123,6 +128,30 @@ export default {
         const rec = { version: 1, updated: Date.now(), campaign: splitWire(body.campaign || {}) };
         await env.CAMPAIGNS.put("c:" + code, JSON.stringify(rec), { expirationTtl: TTL_SECONDS });
         return json({ code, version: rec.version, updated: rec.updated });
+      }
+
+      // POST /img  -> { url }   store an uploaded thumbnail in R2
+      if (req.method === "POST" && parts[0] === "img") {
+        const type = (req.headers.get("Content-Type") || "").split(";")[0].trim();
+        const ext = IMG_TYPES[type];
+        if (!ext) return json({ error: "bad_type" }, 415);
+        const buf = await req.arrayBuffer();
+        if (!buf.byteLength) return json({ error: "empty" }, 400);
+        if (buf.byteLength > MAX_IMG_BYTES) return json({ error: "too_large" }, 413);
+        const key = crypto.randomUUID() + "." + ext;
+        await env.IMAGES.put(key, buf, { httpMetadata: { contentType: type } });
+        return json({ url: url.origin + "/img/" + key });
+      }
+
+      // GET /img/:key  -> the stored image bytes
+      if (req.method === "GET" && parts[0] === "img" && parts[1]) {
+        const obj = await env.IMAGES.get(parts[1]);
+        if (!obj) return json({ error: "not_found" }, 404);
+        const headers = new Headers(CORS);
+        headers.set("Content-Type", obj.httpMetadata?.contentType || "application/octet-stream");
+        headers.set("Cache-Control", "public, max-age=31536000, immutable");
+        headers.set("ETag", obj.httpEtag);
+        return new Response(obj.body, { headers });
       }
 
       // /c/:code[/version]

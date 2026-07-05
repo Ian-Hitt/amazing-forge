@@ -7,3 +7,10 @@ compatibility_date = "2026-01-01"
 [[kv_namespaces]]
 binding = "CAMPAIGNS"
 id = "639347d47b764b0aa900b9abcd254470"
+
+# Uploaded portraits/photos (heroes, places, cast) live in R2 object storage, not KV —
+# the synced campaign JSON only ever carries the short image URL. Create the bucket with:
+#   npx wrangler r2 bucket create lca-campaign-images
+[[r2_buckets]]
+binding = "IMAGES"
+bucket_name = "lca-campaign-images"
