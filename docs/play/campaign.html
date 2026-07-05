@@ -1265,13 +1265,14 @@
   function renderDashboard(root) {
     var grid = el("div", "dash");
 
-    // Story Arc(s) — wide tiles.
-    if (!camp.arcs.length) {
+    // Story Arc(s) — wide tiles. Resolved Stories (won or lost) drop off the board.
+    var liveArcs = camp.arcs.filter(function (a) { return !arcDone(a); });
+    if (!liveArcs.length) {
       var aw = widget("Story Arc", null, function () { jump("arcs"); }, true);
-      aw.appendChild(dashEmpty("No Story Arc yet — tap to add one."));
+      aw.appendChild(dashEmpty(camp.arcs.length ? "No Story in progress — tap to start one." : "No Story Arc yet — tap to add one."));
       grid.appendChild(aw);
     } else {
-      camp.arcs.forEach(function (a) { grid.appendChild(dashArc(a)); });
+      liveArcs.forEach(function (a) { grid.appendChild(dashArc(a)); });
     }
 
     // Heroes — one tile each, so a small party doesn't hog a full-width row.
@@ -1285,6 +1286,9 @@
 
     root.appendChild(grid);
   }
+
+  // A Story is resolved once the Hero Track fills (won) or the Antagonist Track fills (lost).
+  function arcDone(a) { var sz = SIZES[a.size]; return a.arc >= sz.ms || a.anta >= sz.anta; }
 
   function dashArc(a) {
     var sz = SIZES[a.size];
@@ -1331,19 +1335,19 @@
   }
 
   function dashChallenges() {
-    var w = widget("Challenges", camp.challenges.length, function () { jump("challenges"); });
-    if (!camp.challenges.length) { w.appendChild(dashEmpty("No active Challenges.")); return w; }
-    camp.challenges.forEach(function (c) {
-      var done = c.current >= c.max;
+    var live = camp.challenges.filter(function (c) { return c.current < c.max; });
+    var w = widget("Challenges", live.length, function () { jump("challenges"); });
+    if (!live.length) { w.appendChild(dashEmpty("No active Challenges.")); return w; }
+    live.forEach(function (c) {
       var row = el("div"); row.style.cssText = "margin:.45rem 0;";
       var top = el("div"); top.style.cssText = "display:flex;align-items:baseline;gap:.5rem;font-size:.84rem;min-width:0;";
-      var nm = el("span"); nm.style.cssText = "font-weight:700;flex:0 0 auto;" + (done ? "color:var(--good);" : "");
-      nm.textContent = (c.name || "Untitled Challenge") + (done ? " ✓" : "");
+      var nm = el("span"); nm.style.cssText = "font-weight:700;flex:0 0 auto;";
+      nm.textContent = c.name || "Untitled Challenge";
       top.appendChild(nm);
       if (c.note) { var nt = el("span"); nt.style.cssText = "color:var(--muted);font-size:.74rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0;"; nt.textContent = c.note; top.appendChild(nt); }
       row.appendChild(top);
       var bar = el("div"); bar.style.cssText = "display:flex;align-items:center;gap:.5rem;margin-top:.22rem;";
-      bar.appendChild(segTrack(c.current, c.max, done ? "var(--good)" : "var(--orange)", function (n) { c.current = n; persist(); render(); }));
+      bar.appendChild(segTrack(c.current, c.max, "var(--orange)", function (n) { c.current = n; persist(); render(); }));
       var v = el("span"); v.style.cssText = "font-size:.72rem;font-weight:800;width:2.4rem;text-align:right;flex:0 0 auto;"; v.textContent = c.current + " / " + c.max;
       bar.appendChild(v); row.appendChild(bar);
       w.appendChild(row);
