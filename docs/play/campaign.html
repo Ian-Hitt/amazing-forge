@@ -904,7 +904,7 @@
     box.appendChild(ta);
 
     var ref = el("p", "ref");
-    ref.innerHTML = "<b>The Roll:</b> 2d6, +1 if a fitting Stat · +1 if a fitting Asset (+2 both, +0 neither). <b>10+</b> Strong · <b>7–9</b> Weak · <b>6−</b> Miss. Doubles upgrade a Hit one tier (a Strong Hit &rarr; Outstanding Success: +1 to your next roll); a Miss on doubles advances the antagonist. On a Miss you may take a <b>Devil's Bargain</b> — forgo the damage, fill the box, +1 antagonist.";
+    ref.innerHTML = "<b>The Roll:</b> 2d6, +1 if a fitting Stat · +1 if a fitting Asset (+2 both, +0 neither). <b>10+</b> Strong · <b>7–9</b> Weak · <b>6−</b> Miss. Doubles upgrade a Hit one tier (a Strong Hit &rarr; Outstanding Success: +1 to your next roll, and fill 2 boxes in a Challenge); a Miss on doubles advances the antagonist. On a Miss you may take a <b>Devil's Bargain</b> — forgo the damage, fill the box, +1 antagonist.";
     box.appendChild(ref);
     return box;
   }
@@ -1117,17 +1117,34 @@
   // Locations tables. Everything is a shortcut — tap through to the full editor.
   function jump(tab, openHeroId) { ui.tab = tab; ui.openHero = openHeroId || null; render(); try { window.scrollTo(0, 0); } catch (e) {} }
 
-  function miniBar(cur, max, color) {
-    var b = el("div", "mbar"), f = el("i");
-    f.style.background = color; f.style.width = Math.round(100 * Math.max(0, Math.min(cur, max)) / (max || 1)) + "%";
-    b.appendChild(f); return b;
+  // An interactive segmented track: click a segment to set the value (click the current
+  // top segment to step down one, matching the editors). stopPropagation keeps the click
+  // from also firing an enclosing card/widget navigation.
+  function segTrack(cur, max, color, onSet, opts) {
+    opts = opts || {};
+    var seg = el("div"); seg.style.cssText = "display:flex;gap:2px;flex:1;min-width:0;";
+    for (var i = 1; i <= max; i++) {
+      (function (n) {
+        var s = el("div");
+        s.style.cssText = "flex:1;height:" + (opts.h || "1rem") + ";min-width:3px;border-radius:3px;cursor:pointer;background:" + (n <= cur ? color : "var(--line)") + ";transition:background .1s;";
+        s.title = "Set to " + n + " / " + max;
+        s.onclick = function (ev) { ev.stopPropagation(); onSet(cur === n ? n - 1 : n); };
+        seg.appendChild(s);
+      })(i);
+    }
+    return seg;
   }
   function dashEmpty(msg) { return el("div", "dash-empty", msg); }
-  function widget(title, count, onOpen) {
-    var w = el("div", "w" + (onOpen ? " click" : ""));
+  // whole = make the entire card a navigation target. Omit it for widgets that hold their
+  // own interactive controls (tracks) — there, only the "Open ›" link navigates.
+  function widget(title, count, onOpen, whole) {
+    var w = el("div", "w" + (onOpen && whole ? " click" : ""));
     var h = el("h3"); h.appendChild(el("span", null, title));
-    if (onOpen) { var a = el("span", "wlink", "Open ›"); h.appendChild(a); w.onclick = onOpen; }
-    else if (count != null) h.appendChild(el("span", "wlink", String(count)));
+    if (onOpen) {
+      var a = el("span", "wlink", "Open ›"); a.style.cursor = "pointer";
+      a.onclick = function (ev) { ev.stopPropagation(); onOpen(); };
+      h.appendChild(a); if (whole) w.onclick = onOpen;
+    } else if (count != null) h.appendChild(el("span", "wlink", String(count)));
     w.appendChild(h); return w;
   }
 
@@ -1137,7 +1154,7 @@
 
     // Story Arc(s)
     if (!camp.arcs.length) {
-      var aw = widget("Story Arc", null, function () { jump("arcs"); });
+      var aw = widget("Story Arc", null, function () { jump("arcs"); }, true);
       aw.appendChild(dashEmpty("No Story Arc yet — tap to add one."));
       main.appendChild(aw);
     } else {
@@ -1166,10 +1183,10 @@
     var goal = el("div"); goal.style.cssText = "font-weight:800;font-size:1rem;line-height:1.25;";
     goal.textContent = a.goal || "Untitled Story Arc"; w.appendChild(goal);
     var sub = el("div"); sub.style.cssText = "font-size:.75rem;color:var(--muted);margin:.1rem 0 .55rem;";
-    sub.textContent = sz.label + " · " + a.milestones.filter(function (m) { return m.done; }).length + " of " + sz.ms + " Milestones";
+    sub.textContent = sz.label + " · " + a.arc + " of " + sz.ms + " Milestones";
     w.appendChild(sub);
-    w.appendChild(dashTrack("Hero", a.arc, sz.ms, "var(--good)"));
-    w.appendChild(dashTrack("Antagonist", a.anta, sz.anta, "var(--bad)"));
+    w.appendChild(dashTrack("Hero", a.arc, sz.ms, "var(--good)", function (n) { a.arc = n; persist(); render(); }));
+    w.appendChild(dashTrack("Antagonist", a.anta, sz.anta, "var(--bad)", function (n) { a.anta = n; persist(); render(); }));
     if (a.antaName || a.antaWants) {
       var an = el("div"); an.style.cssText = "font-size:.78rem;margin-top:.5rem;";
       an.innerHTML = "<b>" + esc(a.antaName || "Antagonist") + "</b>" + (a.antaWants ? ' <span style="color:var(--muted)">— ' + esc(a.antaWants) + "</span>" : "");
@@ -1177,11 +1194,11 @@
     }
     return w;
   }
-  function dashTrack(label, cur, max, color) {
+  function dashTrack(label, cur, max, color, onSet) {
     var r = el("div"); r.style.cssText = "display:flex;align-items:center;gap:.5rem;margin:.28rem 0;";
     var l = el("span"); l.style.cssText = "font-size:.7rem;font-weight:700;color:var(--muted);width:5rem;flex:0 0 auto;"; l.textContent = label;
     var v = el("span"); v.style.cssText = "font-size:.72rem;font-weight:800;width:2.4rem;text-align:right;flex:0 0 auto;"; v.textContent = cur + " / " + max;
-    r.appendChild(l); r.appendChild(miniBar(cur, max, color)); r.appendChild(v); return r;
+    r.appendChild(l); r.appendChild(segTrack(cur, max, color, onSet)); r.appendChild(v); return r;
   }
 
   function dashHero(h) {
@@ -1193,7 +1210,7 @@
     if (h.concept) c.appendChild(el("div", "hc-con", h.concept));
     c.appendChild(el("div", "hc-stats", h.stats.length ? h.stats.join(" · ") : "no Stats"));
     var rdy = el("div", "hc-rdy");
-    rdy.appendChild(miniBar(h.rdy, 9, h.rdy <= 2 ? "var(--bad)" : "var(--good)"));
+    rdy.appendChild(segTrack(h.rdy, 9, h.rdy <= 2 ? "var(--bad)" : "var(--good)", function (n) { h.rdy = n; persist(); render(); }, { h: ".9rem" }));
     rdy.appendChild(el("small", null, "Rdy " + h.rdy + "/9")); c.appendChild(rdy);
     var names = h.assets.filter(function (a) { return a.name; });
     if (names.length) {
@@ -1217,7 +1234,7 @@
       if (c.note) { var nt = el("span"); nt.style.cssText = "color:var(--muted);font-size:.74rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0;"; nt.textContent = c.note; top.appendChild(nt); }
       row.appendChild(top);
       var bar = el("div"); bar.style.cssText = "display:flex;align-items:center;gap:.5rem;margin-top:.22rem;";
-      bar.appendChild(miniBar(c.current, c.max, "var(--orange)"));
+      bar.appendChild(segTrack(c.current, c.max, done ? "var(--good)" : "var(--orange)", function (n) { c.current = n; persist(); render(); }));
       var v = el("span"); v.style.cssText = "font-size:.72rem;font-weight:800;width:2.4rem;text-align:right;flex:0 0 auto;"; v.textContent = c.current + " / " + c.max;
       bar.appendChild(v); row.appendChild(bar);
       w.appendChild(row);
@@ -1226,7 +1243,7 @@
   }
 
   function dashCast() {
-    var w = widget("Cast", camp.cast.length, function () { jump("cast"); });
+    var w = widget("Cast", camp.cast.length, function () { jump("cast"); }, true);
     if (!camp.cast.length) { w.appendChild(dashEmpty("No cast yet.")); return w; }
     var scroll = el("div", "scroll"), t = el("table", "dtable");
     t.innerHTML = "<thead><tr><th>Name</th><th>Role</th><th>Last seen</th></tr></thead>";
@@ -1243,7 +1260,7 @@
   }
 
   function dashPlaces() {
-    var w = widget("Locations", camp.places.length, function () { jump("places"); });
+    var w = widget("Locations", camp.places.length, function () { jump("places"); }, true);
     if (!camp.places.length) { w.appendChild(dashEmpty("No locations yet.")); return w; }
     var scroll = el("div", "scroll"), t = el("table", "dtable");
     t.innerHTML = "<thead><tr><th>Place</th><th>Function</th><th>Return</th></tr></thead>";
