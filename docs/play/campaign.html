@@ -203,7 +203,7 @@
   .hc { border: 1px solid var(--line); border-radius: 10px; padding: .55rem .6rem; cursor: pointer; background: var(--card); min-width: 0; transition: border-color .12s; }
   .hc:hover { border-color: var(--orange); }
   .hc .hc-top { display: flex; align-items: center; gap: .45rem; }
-  .hc .hc-av { width: 30px; height: 30px; border-radius: 7px; object-fit: cover; flex: 0 0 auto; }
+  .hc .hc-av { width: 46px; height: 46px; border-radius: 9px; object-fit: cover; flex: 0 0 auto; }
   .hc .hc-name { font-weight: 800; font-size: .9rem; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .hc .hc-con { color: var(--muted); font-size: .73rem; margin: .2rem 0 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .hc .hc-stats { font-size: .72rem; font-weight: 700; margin-top: .3rem; }
@@ -774,12 +774,27 @@
     img.src = url;
   }
 
+  // Full-size image viewer. Click anywhere or press Esc to close.
+  function openLightbox(url) {
+    if (!url) return;
+    var ov = el("div");
+    ov.style.cssText = "position:fixed;inset:0;z-index:80;background:rgba(0,0,0,.82);display:flex;align-items:center;justify-content:center;padding:2rem;cursor:zoom-out;";
+    var img = el("img"); img.src = url;
+    img.style.cssText = "max-width:92vw;max-height:92vh;border-radius:10px;box-shadow:0 8px 40px rgba(0,0,0,.5);object-fit:contain;";
+    ov.appendChild(img);
+    function close() { if (ov.parentNode) ov.parentNode.removeChild(ov); document.removeEventListener("keydown", onKey); }
+    function onKey(e) { if (e.key === "Escape") close(); }
+    ov.onclick = close; document.addEventListener("keydown", onKey);
+    document.body.appendChild(ov);
+  }
+
   // A photo control: thumbnail + Add/Change/Remove. Sets obj.img to the returned URL.
   function imageField(obj) {
     var wrap = el("div"); wrap.style.cssText = "display:flex;align-items:center;gap:.7rem;margin:.2rem 0 .1rem;";
     var thumb = el("div");
     thumb.style.cssText = "width:64px;height:64px;flex:0 0 auto;border-radius:10px;border:1px solid var(--line);background:var(--card) center/cover no-repeat;display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:.66rem;overflow:hidden;";
-    if (obj.img) thumb.style.backgroundImage = "url('" + obj.img + "')"; else thumb.textContent = "No photo";
+    if (obj.img) { thumb.style.backgroundImage = "url('" + obj.img + "')"; thumb.style.cursor = "zoom-in"; thumb.title = "View photo"; thumb.onclick = function () { openLightbox(obj.img); }; }
+    else thumb.textContent = "No photo";
     var btns = el("div"); btns.style.cssText = "display:flex;gap:.4rem;flex-wrap:wrap;";
     var file = el("input"); file.type = "file"; file.accept = "image/*"; file.style.display = "none";
     var pick = el("button", "ghost sm", obj.img ? "Change photo" : "Add photo");
@@ -801,11 +816,12 @@
     return wrap;
   }
 
-  // Small avatar for a collapsed card head (null when there's no photo).
+  // Small avatar for a collapsed card head (null when there's no photo). Click to view full.
   function avatarEl(obj) {
     if (!obj.img) return null;
-    var a = el("img"); a.src = obj.img; a.alt = "";
-    a.style.cssText = "width:34px;height:34px;flex:0 0 auto;border-radius:8px;object-fit:cover;";
+    var a = el("img"); a.src = obj.img; a.alt = ""; a.title = "View photo";
+    a.style.cssText = "width:34px;height:34px;flex:0 0 auto;border-radius:8px;object-fit:cover;cursor:zoom-in;";
+    a.onclick = function (ev) { ev.stopPropagation(); openLightbox(obj.img); };
     return a;
   }
 
@@ -1139,12 +1155,14 @@
     return seg;
   }
   function dashEmpty(msg) { return el("div", "dash-empty", msg); }
-  // A small square thumbnail for table rows; an empty aligned slot when there's no image.
+  // A square thumbnail for table rows; a soft aligned slot when there's no image.
+  // Imaged thumbnails open the lightbox on click (without triggering the row's navigation).
   function dashThumb(img, size) {
-    size = size || 26;
+    size = size || 44;
     var t = el("div");
-    t.style.cssText = "width:" + size + "px;height:" + size + "px;flex:0 0 auto;border-radius:6px;overflow:hidden;background:center/cover no-repeat;" +
-      (img ? "background-image:url('" + img + "');border:1px solid var(--line);" : "border:1px dashed var(--line);opacity:.5;");
+    t.style.cssText = "width:" + size + "px;height:" + size + "px;flex:0 0 auto;border-radius:8px;overflow:hidden;background:center/cover no-repeat;" +
+      (img ? "background-image:url('" + img + "');border:1px solid var(--line);cursor:zoom-in;" : "background:var(--line);opacity:.35;");
+    if (img) { t.title = "View photo"; t.onclick = function (ev) { ev.stopPropagation(); openLightbox(img); }; }
     return t;
   }
   // Name cell contents: thumbnail + (optional prefix HTML) + name, ellipsized.
@@ -1219,7 +1237,7 @@
   function dashHero(h) {
     var c = el("div", "hc"); c.onclick = function () { jump("heroes", h.id); };
     var top = el("div", "hc-top");
-    if (h.img) { var av = el("img", "hc-av"); av.src = h.img; av.alt = ""; top.appendChild(av); }
+    if (h.img) { var av = el("img", "hc-av"); av.src = h.img; av.alt = ""; av.title = "View photo"; av.style.cursor = "zoom-in"; av.onclick = function (ev) { ev.stopPropagation(); openLightbox(h.img); }; top.appendChild(av); }
     top.appendChild(el("div", "hc-name", h.name || "Unnamed hero"));
     c.appendChild(top);
     if (h.concept) c.appendChild(el("div", "hc-con", h.concept));
