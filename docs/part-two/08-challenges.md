@@ -90,6 +90,8 @@ When the track fills:
 
 **A Challenge is not a Milestone.** A Challenge is just a Scene with extra camera time — winning one doesn't, by itself, mark a box on the **Hero Track.** You mark a **Milestone** when the *story* takes a significant step toward the heroes' goal (Chapter 10). That often coincides with clearing a big Challenge — but it's the *progress* that earns the Milestone, not the Challenge itself, and plenty of Challenges resolve without marking one at all.
 
+<!--art:S1e|When a Challenge turns against you, fall back|2.2in-->
+
 ### Falling Back from a Challenge
 
 <div class="lca-move" markdown>

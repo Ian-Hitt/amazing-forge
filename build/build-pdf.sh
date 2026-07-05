@@ -177,7 +177,9 @@ def repl(m):
     height = parts[2] if len(parts) > 2 and parts[2] else "2.4in"
     p = art_path(slot)
     if p:
-        return f'#art-image("{p}", width: 100%)'
+        # height caps the box (fit: contain): spots stay small & centered; wide
+        # diagrams whose natural height is under the cap still fill the measure.
+        return f'#art-image("{p}", width: 100%, height: {height})'
     cap = caption.replace("\\", "\\\\").replace('"', '\\"')
     return f'#art-placeholder("{slot}", "{cap}", height: {height})'
 text = open(content, encoding="utf-8").read()

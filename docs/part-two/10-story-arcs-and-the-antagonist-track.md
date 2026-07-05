@@ -144,6 +144,8 @@ Draw the Antagonist Track as a row beneath the Hero Track — **Episode: 5 boxes
 
 ### Characterize Your Antagonist
 
+<!--art:S1c|Even a force — a storm, a plague — gets a face|2.2in-->
+
 Before you can play "the bad guys gaining ground," you need to know **who the bad guys are** — and the antagonist isn't always a *who*. Sometimes the thing between the heroes and their goal is a **force**: a harsh desert, a closing-in blizzard, a spreading plague, the simple fact that *time is running out*. That's a perfectly good antagonist — but a faceless one is hard to picture, so **give it a face.** Decide what it *wants* and what "winning" looks like:
 
 - Crossing a brutal desert? The **desert** is your antagonist — it wants to wear you down and swallow you. A filled box is a sandstorm, a dry well, a collapsing dune.

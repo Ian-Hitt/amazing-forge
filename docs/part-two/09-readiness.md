@@ -89,6 +89,8 @@ Because the Bargain is the main way the antagonist advances, it's the main sourc
 
 ---
 
+<!--art:S1d|Falling back to regroup|2.2in-->
+
 ## Part B — Recovery
 
 Readiness only falls in the heat of the action, and there are three ways it comes back — a quick risky **Mend** any time there's a beat for it, a **regroup** when the heroes fall back, and a clean slate **between Story Arcs.** A Story Arc's mounting pressure comes from the choices you make under fire — the Devil's Bargains you take, the doubles that turn against you — not from how battered you are between fights.

@@ -12,6 +12,8 @@
 
 *Lights, Camera, Action!* is a game about **writing and acting out a story together** — like a TV show your group makes up as it films. Nobody writes the script ahead of time. You invent the world, play the heroes, and find out what happens scene by scene. One of you might guide the story, or you might steer it together as a group. Either way works.
 
+<!--art:S1a|Friends writing and acting out a story together|2.3in-->
+
 I'll often shorten the name to **LCA!** — same game, fewer syllables — and you'll see it that way throughout the book.
 
 That's the feel I'm going for. A lot of tabletop games play like a video game you say out loud — long stat sheets, careful tactics, working out exactly what your character can and can't do. *Lights, Camera, Action!* isn't that. Your hero has just two simple Stats and a few Assets, so the question is rarely "what are my numbers?" It's "what's the most exciting thing my hero does next?" You're an actor and a co-writer first, and the rules stay light and quick so the story never has to stop and wait for them.

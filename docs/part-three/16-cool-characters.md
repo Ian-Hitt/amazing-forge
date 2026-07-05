@@ -4,6 +4,8 @@ Back in [Chapter 2](../part-one/02-create-your-hero.md) you learned the fast way
 
 There's one tool that does more of that work than any other, and it's the heart of this chapter: the **archetype.**
 
+<!--art:S1b|A hero, ready for their close-up|2.7in-->
+
 > **You don't need this for your first game.** A Concept, two Stats, and three Assets already make a great hero. Come here when you want help dreaming one up, when the table wants a cast of clearly different personalities, or when you just want your hero to feel like the lead in a movie.
 
 ### What an Archetype Does for You

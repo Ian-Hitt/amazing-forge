@@ -4,6 +4,8 @@ This is the heart of the game. Whenever a hero tries something risky or uncertai
 
 You only roll when there's real doubt and something at stake. If a hero wants to do something easy or safe — open an unlocked door, chat with a friendly neighbor — just say yes and keep the story moving. No dice needed. Save the dice for the moments that matter.
 
+<!--art:S1f|Pick up the dice and find out|2.3in-->
+
 ### How to Roll
 
 When a hero attempts something risky, **roll two six-sided dice (2d6), add them together, and add your modifier.** Your modifier is built from two separate questions, each worth **+1**:
