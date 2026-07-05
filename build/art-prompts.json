@@ -4,7 +4,7 @@
   "negative": "color, photorealistic, 3D render, glossy, painterly, watermark, signature, text, letters, words, logos, frame, page border, cluttered background, anime, chibi, cutesy cartoon",
   "slots": {
     "C1": { "aspect": "2:3", "note": "cover is normally COLOR + designer-led; this is a grayscale concept placeholder only", "subject": "An ensemble of adventurers striking a dynamic hero pose as a film spotlight and clapperboard frame the scene; energetic, poster-like." },
-    "C2": { "aspect": "2:3", "subject": "A film clapperboard snapping shut, and out of the opening burst a dragon, a spaceship, a detective, and a lone wanderer — imagination spilling out of the movies. Full-page, tone-setting." },
+    "C2": { "aspect": "2:3", "subject": "A group of friends in a director's writing room gathered around a big table, rolling dice and acting out a scene they are writing together — one person leaping up mid-performance, another laughing, a third scribbling notes; storyboards, script pages, and a clapperboard scattered around. The tabletop as a movie writers' room. Warm, human, tone-setting." },
     "D1": { "aspect": "2:3", "subject": "Friends around a tabletop mid-game, dice rolling, and imaginative shapes (a dragon, a rocket) rising like smoke from the table. Warm and welcoming." },
     "D2": { "aspect": "2:3", "subject": "Two oversized six-sided dice tumbling through the air with motion lines, dramatic and kinetic." },
     "D3": { "aspect": "2:3", "subject": "An open book or unrolled map from which genre scenes swirl outward — a castle, a ray-gun, a haunted house, a ruined city. A montage of possibility." },

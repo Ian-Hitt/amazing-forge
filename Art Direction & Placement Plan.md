@@ -16,6 +16,16 @@ exception. Sketch style suits this well: it reads as intentional and hand-made i
 grayscale, and it scales from tiny spot drawings to full-page scenes without needing paint or
 color. This supersedes the recommendation discussion below (kept for the cost rationale).
 
+## 0a. Status (2026-07-04): placeholder set generated & placed
+
+All 20 illustration slots generated via Gemini and placed in the book PDF. **House style:
+clean pen-line** (loose linework, mood darkens by genre where it fits — e.g. Horror). Two
+content themes, per Ian: **(1) the "making-of" layer** — the table as a movie writers'/
+director's room, real people rolling dice and acting out the scenes they invent (frontispiece,
+dividers, table spots); **(2) the genre layer** — the 7 genres (genre plates). Files live in
+`build/art/` (gitignored). Icons (I1) done as SVG. Still to do: the F1–F7 diagrams (SVG), and
+placing the S1 spots via inline markers. These are AI *placeholders* for the designer handoff.
+
 ## 0b. The cost rationale (why grayscale)
 
 The print pipeline already produces two outputs from one source — a full-color digital PDF

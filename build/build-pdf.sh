@@ -101,7 +101,7 @@ md2typ_genre() { # $1 file, $2 slot ID, $3 caption — insert the plate after th
   local tmp art img; tmp="$(mktemp)"
   artmark < "$DOCS/$1" | "$PANDOC" -f gfm -t typst --wrap=preserve > "$tmp"
   img="$(art_path "$2")"
-  if [[ -n "$img" ]]; then art="#art-image(\"$img\", width: 100%)"
+  if [[ -n "$img" ]]; then art="#art-image(\"$img\", width: 100%, height: 3.6in)"
   else art="#art-placeholder(\"$2\", \"$3\", height: 3.6in)"; fi
   awk -v art="$art" '{print} /^= / && !done {print ""; print art; print ""; done=1}' "$tmp" >> "$CONTENT"
   printf '\n\n' >> "$CONTENT"
@@ -118,7 +118,7 @@ emit_part() { # $1 kicker, $2 title, $3 divider slot, rest = files (first = intr
   local kicker="$1" title="$2" slot="$3"; shift 3
   local img; img="$(art_path "$slot")"
   if [[ -n "$img" ]]; then
-    printf '#part-divider("%s", "%s", slot: "%s", art: image("%s", width: 82%%))\n\n' \
+    printf '#part-divider("%s", "%s", slot: "%s", art: image("%s", width: 78%%, height: 3.4in, fit: "contain"))\n\n' \
       "$kicker" "$title" "$slot" "$img" >> "$CONTENT"
   else
     printf '#part-divider("%s", "%s", slot: "%s")\n\n' "$kicker" "$title" "$slot" >> "$CONTENT"
