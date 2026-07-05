@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 384" font-family="Montserrat, 'DejaVu Sans', sans-serif">
+  <rect width="640" height="384" fill="#ffffff"/>
+  <text x="20" y="34" font-size="26" font-weight="800" fill="#1a1a1a">THE STORY SHAPE</text>
+  <text x="20" y="58" font-size="15" fill="#6b6b6b">Three acts — commit, fall, then rise and finish. An optional map.</text>
+
+  <!-- act dividers -->
+  <line x1="180" y1="78" x2="180" y2="312" stroke="#cccccc" stroke-width="1.5" stroke-dasharray="4 5"/>
+  <line x1="500" y1="78" x2="500" y2="312" stroke="#cccccc" stroke-width="1.5" stroke-dasharray="4 5"/>
+  <!-- baseline -->
+  <line x1="30" y1="312" x2="620" y2="312" stroke="#1a1a1a" stroke-width="2"/>
+
+  <!-- tension curve -->
+  <path d="M35 288 C90 274 130 258 150 252 C178 244 210 196 288 150 C318 152 328 168 338 180 C384 220 424 272 472 290 C498 284 508 272 520 262 C548 236 556 150 566 96 C582 100 598 122 612 142"
+        fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- beat dots -->
+  <g fill="#1a1a1a">
+    <circle cx="150" cy="252" r="5.5"/>
+    <circle cx="338" cy="180" r="5.5"/>
+    <circle cx="472" cy="290" r="5.5"/>
+    <circle cx="566" cy="96" r="6.5"/>
+  </g>
+  <!-- beat labels -->
+  <g font-size="12.5" font-weight="700" fill="#1a1a1a">
+    <text x="150" y="238" text-anchor="middle">Catalyst</text>
+    <text x="270" y="132" text-anchor="middle">Fun &amp; Games</text>
+    <text x="360" y="170" >Midpoint</text>
+    <text x="472" y="278" text-anchor="middle">All Is Lost</text>
+    <text x="566" y="80" text-anchor="middle">Climax = WIN</text>
+  </g>
+
+  <!-- act labels -->
+  <g text-anchor="middle">
+    <text x="105" y="338" font-size="15" font-weight="800" fill="#1a1a1a">ACT ONE</text>
+    <text x="105" y="356" font-size="12" fill="#6b6b6b">Setup</text>
+    <text x="340" y="338" font-size="15" font-weight="800" fill="#1a1a1a">ACT TWO</text>
+    <text x="340" y="356" font-size="12" fill="#6b6b6b">Confrontation</text>
+    <text x="560" y="338" font-size="15" font-weight="800" fill="#1a1a1a">ACT THREE</text>
+    <text x="560" y="356" font-size="12" fill="#6b6b6b">Resolution</text>
+  </g>
+</svg>

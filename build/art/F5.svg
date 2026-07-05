@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 356" font-family="Montserrat, 'DejaVu Sans', sans-serif">
+  <rect width="620" height="356" fill="#ffffff"/>
+  <text x="20" y="36" font-size="27" font-weight="800" fill="#1a1a1a">CHALLENGES</text>
+  <text x="20" y="60" font-size="15" fill="#6b6b6b">A track of boxes — fill the last to win it. The tier just sets how long.</text>
+
+  <!-- rows: tier = length -->
+  <g>
+    <text x="20" y="112" font-size="16" font-weight="800" fill="#1a1a1a">NORMAL</text>
+    <text x="20" y="130" font-size="12" fill="#6b6b6b">3 boxes</text>
+    <g fill="#ffffff" stroke="#1a1a1a" stroke-width="2">
+      <rect x="150" y="92" width="42" height="42" rx="5"/><rect x="200" y="92" width="42" height="42" rx="5"/><rect x="250" y="92" width="42" height="42" rx="5"/>
+    </g>
+  </g>
+  <g>
+    <text x="20" y="176" font-size="16" font-weight="800" fill="#1a1a1a">HARD</text>
+    <text x="20" y="194" font-size="12" fill="#6b6b6b">6 boxes</text>
+    <g fill="#ffffff" stroke="#1a1a1a" stroke-width="2">
+      <rect x="150" y="156" width="42" height="42" rx="5"/><rect x="200" y="156" width="42" height="42" rx="5"/><rect x="250" y="156" width="42" height="42" rx="5"/>
+      <rect x="300" y="156" width="42" height="42" rx="5"/><rect x="350" y="156" width="42" height="42" rx="5"/><rect x="400" y="156" width="42" height="42" rx="5"/>
+    </g>
+  </g>
+  <g>
+    <text x="20" y="240" font-size="16" font-weight="800" fill="#1a1a1a">EPIC</text>
+    <text x="20" y="258" font-size="12" fill="#6b6b6b">9 boxes</text>
+    <g fill="#ffffff" stroke="#1a1a1a" stroke-width="2">
+      <rect x="150" y="220" width="42" height="42" rx="5"/><rect x="200" y="220" width="42" height="42" rx="5"/><rect x="250" y="220" width="42" height="42" rx="5"/>
+      <rect x="300" y="220" width="42" height="42" rx="5"/><rect x="350" y="220" width="42" height="42" rx="5"/><rect x="400" y="220" width="42" height="42" rx="5"/>
+      <rect x="450" y="220" width="42" height="42" rx="5"/><rect x="500" y="220" width="42" height="42" rx="5"/><rect x="550" y="220" width="42" height="42" rx="5"/>
+    </g>
+  </g>
+
+  <line x1="20" y1="286" x2="600" y2="286" stroke="#cccccc" stroke-width="1.5"/>
+  <text x="20" y="312" font-size="14" fill="#1a1a1a"><tspan font-weight="700">Group size sets the sting</tspan> (Pay the Price), same at any tier:</text>
+  <text x="20" y="336" font-size="14" fill="#1a1a1a">2–3 heroes → Weak −1 / Miss −2      ·      4–5 heroes → Weak −2 / Miss −3</text>
+</svg>

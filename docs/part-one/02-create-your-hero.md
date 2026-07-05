@@ -2,6 +2,8 @@
 
 Now that you've built a world, it's time to create the hero you'll play in it. This takes about five minutes. There's no math and no long list to fill in — just three quick steps: pick who your hero is, choose what they're great at (two **Stats** and three **Assets**), and note how much fight they've got in them.
 
+<!--art:F7|The Hero Sheet at a glance|3.4in-->
+
 Make a hero that fits the world your group just built. If you built a floating city in the clouds, a deep-sea diver doesn't quite belong — but a sky-pirate or a runaway cloud-guard absolutely does.
 
 ### Step 1: Your Concept

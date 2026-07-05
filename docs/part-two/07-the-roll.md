@@ -2,6 +2,8 @@
 
 One move runs all of *Lights, Camera, Action!*: roll **2d6**, add your modifier, and read the result. Everything else in this book hangs off that single roll. This chapter covers it in full — how the modifier is built from two separate layers, the two ways a roll resolves, how every outcome turns back into story, the doubles rule, and why the whole engine uses just **+0 to +2** instead of a page of stats.
 
+<!--art:F1|How the Roll resolves — 10+ / 7–9 / 6−, plus Doubles|2.8in-->
+
 ### The Modifier: +0, +1, or +2
 
 When a hero does something risky or uncertain, roll 2d6 and build your modifier from two separate questions, each worth **+1.** The two questions come from your hero's two layers — your **two Stats** and your **three Assets** (Chapter 2) — and they work differently on purpose.

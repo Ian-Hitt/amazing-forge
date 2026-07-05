@@ -6,6 +6,8 @@ Almost every story you've ever loved has three acts: a beginning, a middle, and 
 
 You don't need it to play. But when a session feels shapeless, naming the act you're in is the fastest way to find the next beat. Here's the feeling of each act, what the heroes are doing, and which mechanical dials are turning.
 
+<!--art:F6|The three-act story shape|2.8in-->
+
 ## Act One — Setup
 
 *Feeling: curiosity. The calm before.*

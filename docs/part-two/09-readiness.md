@@ -2,6 +2,8 @@
 
 Readiness is your hero's single **Health Bar** — body, mind, and supplies rolled into one 0–9 track (Chapter 2). This chapter covers the whole life of that number: how it goes **down** (Paying the Price) and how it comes back **up** (Recovery). They're two sides of one loop, so they live together here.
 
+<!--art:F2|Readiness at a glance|2.3in-->
+
 A quick orientation before the details:
 
 - Readiness only ever **falls during action**, on a Weak Hit (−1) or a Miss (−2) — a touch more at a big table (see below). Its max is always **9** — it never sinks.

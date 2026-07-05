@@ -24,6 +24,8 @@ When you draw a track, its length is set by **difficulty alone** — the same at
 
 Anything shorter than a Normal — a moment that's only a roll or two — doesn't need a track at all; just play it out (that's the test from *When to Draw a Track,* above).
 
+<!--art:F5|Challenge tiers — length by difficulty, damage by group size|2.6in-->
+
 **The box count is what makes a tier feel big.** A Normal is a quick beat (~4 rolls); a Hard is a real grind (~8); an Epic is a set-piece the whole table leans into (~12). That's the same span of rolls no matter how many heroes are present — a small group simply takes more turns each, a big group fewer. (It's also why the antagonist's clock needs no party-size rules — Chapter 10.)
 
 **The one thing that changes with table size is how hard each setback hits.** A bigger group shares the same fixed track, so to keep the stakes from thinning out, Pay the Price costs a little more: at **four or five heroes,** a Weak Hit costs **2** Readiness and a Miss costs **3** (Chapter 9). Difficulty sets the *length;* the size of the table sets the *damage.* You never lengthen the track for a big group — you just feel each blow more.

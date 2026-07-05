@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 306" font-family="Montserrat, 'DejaVu Sans', sans-serif">
+  <rect width="620" height="306" fill="#ffffff"/>
+  <text x="20" y="40" font-size="30" font-weight="800" fill="#1a1a1a">READINESS</text>
+  <text x="20" y="66" font-size="15" fill="#6b6b6b">Your health bar — body, mind, and supplies in one 0–9 track.</text>
+
+  <!-- track: boxes 0..9 -->
+  <g font-size="19" font-weight="700" text-anchor="middle">
+    <rect x="23"  y="92" width="52" height="56" rx="6" fill="#f3f0ec" stroke="#1a1a1a" stroke-width="2.5"/><text x="49"  y="128" fill="#1a1a1a">0</text>
+    <rect x="81"  y="92" width="52" height="56" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/><text x="107" y="128" fill="#1a1a1a">1</text>
+    <rect x="139" y="92" width="52" height="56" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/><text x="165" y="128" fill="#1a1a1a">2</text>
+    <rect x="197" y="92" width="52" height="56" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/><text x="223" y="128" fill="#1a1a1a">3</text>
+    <rect x="255" y="92" width="52" height="56" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/><text x="281" y="128" fill="#1a1a1a">4</text>
+    <rect x="313" y="92" width="52" height="56" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/><text x="339" y="128" fill="#1a1a1a">5</text>
+    <rect x="371" y="92" width="52" height="56" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/><text x="397" y="128" fill="#1a1a1a">6</text>
+    <rect x="429" y="92" width="52" height="56" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/><text x="455" y="128" fill="#1a1a1a">7</text>
+    <rect x="487" y="92" width="52" height="56" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/><text x="513" y="128" fill="#1a1a1a">8</text>
+    <rect x="545" y="92" width="52" height="56" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.5"/><text x="571" y="128" fill="#ffffff">9</text>
+  </g>
+  <text x="49"  y="166" font-size="11" font-weight="700" fill="#1a1a1a" text-anchor="middle">OUT</text>
+  <text x="571" y="166" font-size="11" font-weight="700" fill="#1a1a1a" text-anchor="middle">START · MAX</text>
+
+  <g font-size="14.5" fill="#1a1a1a">
+    <text x="20" y="212"><tspan font-weight="700">Pay the Price:</tspan> a Weak Hit is −1, a Miss is −2 (drops move you left).</text>
+    <text x="20" y="240"><tspan font-weight="700">Recovery Scene:</tspan> regroup and refill to 9 — free, any time.</text>
+    <text x="20" y="268"><tspan font-weight="700">Out of Action (0):</tspan> break an Asset and the antagonist advances +1.</text>
+    <text x="20" y="296"><tspan font-weight="700">Mend:</tspan> a risky patch — Strong +3 / Weak +2 / Miss −1.</text>
+  </g>
+</svg>

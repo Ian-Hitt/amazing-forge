@@ -6,7 +6,11 @@ build/content.typ
 build/content-srd.typ
 build/*.pdf
 build/preview/
-build/art/
+# AI-generated raster placeholders stay local; hand-built *.svg (diagrams) are tracked
+build/art/*.png
+build/art/*.jpg
+build/art/*.jpeg
+build/art/*.webp
 build/.env
 
 # Python

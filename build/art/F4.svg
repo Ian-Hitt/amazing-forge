@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 330" font-family="Montserrat, 'DejaVu Sans', sans-serif">
+  <rect width="620" height="330" fill="#ffffff"/>
+  <text x="20" y="36" font-size="26" font-weight="800" fill="#1a1a1a">THE ANTAGONIST TRACK</text>
+  <text x="20" y="60" font-size="15" fill="#6b6b6b">Two lengths. Shaded boxes are Bad Guys Close In; the last box, the antagonist wins.</text>
+
+  <!-- Episode: 5 boxes -->
+  <text x="20" y="112" font-size="15" font-weight="800" fill="#1a1a1a">EPISODE</text>
+  <g font-size="18" font-weight="800" text-anchor="middle">
+    <rect x="130" y="86" width="80" height="46" rx="6" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/><text x="170" y="116" fill="#1a1a1a">1</text>
+    <rect x="222" y="86" width="80" height="46" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/><text x="262" y="116" fill="#1a1a1a">2</text>
+    <rect x="314" y="86" width="80" height="46" rx="6" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/><text x="354" y="116" fill="#1a1a1a">3</text>
+    <rect x="406" y="86" width="80" height="46" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/><text x="446" y="116" fill="#1a1a1a">4</text>
+    <rect x="498" y="86" width="80" height="46" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2"/><text x="538" y="116" fill="#ffffff">5</text>
+  </g>
+
+  <!-- Movie: 9 boxes -->
+  <text x="20" y="186" font-size="15" font-weight="800" fill="#1a1a1a">MOVIE</text>
+  <g font-size="16" font-weight="800" text-anchor="middle">
+    <rect x="130" y="160" width="46" height="46" rx="6" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/><text x="153" y="189" fill="#1a1a1a">1</text>
+    <rect x="182" y="160" width="46" height="46" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/><text x="205" y="189" fill="#1a1a1a">2</text>
+    <rect x="234" y="160" width="46" height="46" rx="6" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/><text x="257" y="189" fill="#1a1a1a">3</text>
+    <rect x="286" y="160" width="46" height="46" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/><text x="309" y="189" fill="#1a1a1a">4</text>
+    <rect x="338" y="160" width="46" height="46" rx="6" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/><text x="361" y="189" fill="#1a1a1a">5</text>
+    <rect x="390" y="160" width="46" height="46" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/><text x="413" y="189" fill="#1a1a1a">6</text>
+    <rect x="442" y="160" width="46" height="46" rx="6" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/><text x="465" y="189" fill="#1a1a1a">7</text>
+    <rect x="494" y="160" width="46" height="46" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/><text x="517" y="189" fill="#1a1a1a">8</text>
+    <rect x="546" y="160" width="46" height="46" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2"/><text x="569" y="189" fill="#ffffff">9</text>
+  </g>
+
+  <!-- legend -->
+  <rect x="20" y="234" width="26" height="20" rx="3" fill="#e6e6e6" stroke="#1a1a1a" stroke-width="2"/>
+  <text x="54" y="250" font-size="13.5" fill="#1a1a1a">Bad Guys Close In (odd boxes)</text>
+  <rect x="300" y="234" width="26" height="20" rx="3" fill="#1a1a1a"/>
+  <text x="334" y="250" font-size="13.5" fill="#1a1a1a">The antagonist wins the Story</text>
+
+  <text x="20" y="290" font-size="14" fill="#1a1a1a"><tspan font-weight="700">Advances on:</tspan> a Devil's Bargain · a Miss on doubles · a hero Out of Action.</text>
+  <text x="20" y="314" font-size="13" fill="#6b6b6b">Recovery Scenes never advance it — regroup as often as the fiction allows.</text>
+</svg>

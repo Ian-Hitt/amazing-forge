@@ -4,6 +4,8 @@ A **Story Arc** is the engine that gives an adventure shape: a goal worth chasin
 
 Everything here builds on tools from earlier chapters: Milestones are made of **Scenes** (Chapter 8), the heroes win or lose by filling tracks, and the Antagonist Track moves through the **Devil's Bargain,** doubles on a Miss, and going **Out of Action** (Chapters 7 and 9) — never by resting.
 
+<!--art:F3|The Story spine — Hero Track vs Antagonist Track|2.8in-->
+
 ---
 
 ## Part A — Building & Winning a Story Arc
@@ -35,6 +37,8 @@ A Story Arc comes in one of two sizes, and these are the only two with their own
 Pick the size with one question: **a single sitting, or a feature?** An **Episode** is the short, complete story you finish tonight (your first games use only this). A **Movie** is the bigger self-contained story you tell start-to-finish over a couple of sessions — *the heroes are trapped on a space station spiraling into its sun, with until dawn to get everyone off alive.*
 
 The Hero Track is one box per Milestone. The **Antagonist Track is longer** and fills a box at a time as the antagonist gains ground (Part B). Its **odd boxes are Bad Guys Close In beats** — where the antagonist closes in: you cut away and show the bad guys winning something off-screen — and its **last box is their victory.** Sized this way, the antagonist's clock tends to end up *near* full as the heroes reach their finale — the photo-finish a good climax wants — without the heroes ever being railroaded there.
+
+<!--art:F4|The Antagonist Track — lengths, odd-box beats, three triggers|2.5in-->
 
 ### Seasons and Series: Collections, Not Sizes
 

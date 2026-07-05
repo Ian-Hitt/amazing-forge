@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 384" font-family="Montserrat, 'DejaVu Sans', sans-serif">
+  <rect width="620" height="384" fill="#ffffff"/>
+  <text x="20" y="40" font-size="30" font-weight="800" fill="#1a1a1a">THE ROLL</text>
+  <text x="20" y="66" font-size="15" fill="#6b6b6b">Roll 2d6 + modifier: +1 a fitting Stat, +1 a fitting Asset (+0 to +2).</text>
+
+  <!-- Strong Hit -->
+  <rect x="20" y="92" width="580" height="74" rx="8" fill="#f6f4f1" stroke="#1a1a1a" stroke-width="2.5"/>
+  <rect x="34" y="106" width="90" height="46" rx="6" fill="#1a1a1a"/>
+  <text x="79" y="137" font-size="21" font-weight="800" fill="#ffffff" text-anchor="middle">10+</text>
+  <text x="146" y="128" font-size="21" font-weight="800" fill="#1a1a1a">STRONG HIT</text>
+  <text x="146" y="151" font-size="14" fill="#444444">You pull it off cleanly — do exactly what you wanted.</text>
+
+  <!-- Weak Hit -->
+  <rect x="20" y="174" width="580" height="74" rx="8" fill="#ececec" stroke="#1a1a1a" stroke-width="2.5"/>
+  <rect x="34" y="188" width="90" height="46" rx="6" fill="#1a1a1a"/>
+  <text x="79" y="219" font-size="21" font-weight="800" fill="#ffffff" text-anchor="middle">7–9</text>
+  <text x="146" y="210" font-size="21" font-weight="800" fill="#1a1a1a">WEAK HIT</text>
+  <text x="146" y="233" font-size="14" fill="#444444">You do it — but Pay the Price (lose 1 Readiness).</text>
+
+  <!-- Miss -->
+  <rect x="20" y="256" width="580" height="74" rx="8" fill="#d7d7d7" stroke="#1a1a1a" stroke-width="2.5"/>
+  <rect x="34" y="270" width="90" height="46" rx="6" fill="#1a1a1a"/>
+  <text x="79" y="301" font-size="21" font-weight="800" fill="#ffffff" text-anchor="middle">6−</text>
+  <text x="146" y="292" font-size="21" font-weight="800" fill="#1a1a1a">MISS</text>
+  <text x="146" y="315" font-size="14" fill="#444444">It fails, and things get worse. Pay the Price (lose 2).</text>
+
+  <text x="20" y="362" font-size="13.5" fill="#1a1a1a"><tspan font-weight="700">Doubles</tspan> (matching dice): on a Hit, jump up a tier; on a Miss, the antagonist advances.</text>
+</svg>
