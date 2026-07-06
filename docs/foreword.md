@@ -2,9 +2,9 @@
 
 *Why I made this game, and what I hope it does.*
 
-My name is Ian Hitt, and I've been playing tabletop roleplaying games for about ten years. This book is the game I kept wishing existed — stitched together from three games I love, plus a few stubborn opinions about what a story at the table should feel like.
+My name is Ian Hitt, and I've been playing tabletop roleplaying games for about ten years. This book is the game I kept wishing existed — stitched together from four games I love, plus a few stubborn opinions about what a story at the table should feel like.
 
-## Three games I was chasing
+## Four games I was chasing
 
 The first is **Amazing Tales**, which I've played with my own little kids. It's astonishingly simple. The children pick four things they're good at, build a quick little world, and then you just *play* — they drive the story, and the grown-up mostly gets to be a guide along for the ride. My first instinct was that so few rules would leave us grasping for ideas. I was completely wrong. Kids have endless imagination; the rules were never the thing holding a story up. That lesson stuck with me.
 
@@ -12,7 +12,9 @@ The second is **Ironsworn: Starforged**. I fell for its mechanics harder than al
 
 The third is **Fate** — a game that is deliberately genre- and setting-agnostic. Not a story so much as a toolbox: a set of rules you point at *whatever* story you feel like telling. That openness was the last piece.
 
-So that's the target I was aiming at: the **approachability of Amazing Tales**, the **simplicity of Starforged**, and the **openness of Fate**.
+The fourth is **Monster of the Week**, and it taught me two things I couldn't unlearn. The first is that *tracking the antagonist's progress makes the story better.* In that game the monster runs its own clock in the background, ticking toward disaster whether the heroes act or not — and the moment I felt that ticking, every scene had teeth. That clock became the **Antagonist Track** in this book. The second is that the pieces of a world — the people, the places — should earn their keep by *doing something in the story,* not just sitting there as flavor. So in this game an NPC or a location isn't set dressing; it's a lever the story can pull. Those two ideas are wired straight through everything that follows.
+
+So that's the target I was aiming at: the **approachability of Amazing Tales**, the **simplicity of Starforged**, the **openness of Fate**, and the **narrative machinery of Monster of the Week**.
 
 ## Make a movie, not a video game
 
