@@ -200,3 +200,47 @@
 // ---- back matter: blank play sheets ---------------------------------------
 // Native Typst re-creations of the website's HTML form-sheets, one per page.
 #include "sheets.typ"
+
+// ---- back matter: the system is open (final page) -------------------------
+// The plain-language companion to the copyright page's legal split: the BOOK is
+// reserved, the SYSTEM is free (CC BY 4.0 via the SRD). This is the creator-
+// facing invitation — the funnel to the free SRD. TODO before publish: swap the
+// site URL for the live SRD links (DriveThruRPG / itch.io) once they exist.
+#page(header: none, footer: none)[
+  #v(1.3in)
+  #align(center)[
+    #text(font: sans, size: 11pt, weight: 600, fill: soft, tracking: 0.3em)[#upper[Keep Playing]]
+    #v(0.5em)
+    #line(length: 1.4in, stroke: 1.5pt + accent)
+    #v(0.6em)
+    #text(font: sans, size: 26pt, weight: 800, fill: accent)[The System Is Open]
+  ]
+  #v(0.7in)
+  #align(center)[#block(width: 4.3in)[
+    #set text(font: serif, size: 10.5pt, fill: ink)
+    #set par(justify: false, leading: 0.72em, spacing: 0.95em, first-line-indent: 0pt)
+    The rules of _Lights, Camera, Action!_ are free to build on. Want to make your
+    own adventures, genres, and tools for it — even publish and sell them? You can.
+
+    The *game system* is released under the Creative Commons Attribution 4.0
+    International License (CC BY 4.0). Use it, remix it, sell your own work built on
+    it — all we ask is that you credit _Lights, Camera, Action!_ The *System
+    Reference Document* spells out exactly what the open system covers and how to
+    give credit.
+  ]]
+  #v(0.6in)
+  #align(center)[
+    #text(font: sans, size: 9pt, weight: 700, fill: soft, tracking: 0.12em)[#upper[Get the free SRD]]
+    #v(0.35em)
+    #text(font: sans, size: 12pt, weight: 700, fill: accent)[ian-hitt.github.io/amazing-forge]
+  ]
+  #place(bottom + center, dy: -0.35in)[
+    #block(width: 4in)[
+      #set par(justify: false, leading: 0.6em, first-line-indent: 0pt)
+      #text(font: serif, size: 8pt, fill: soft)[
+        This applies to the game *system* only — the text, art, and design of this
+        book remain © 2026 Ian Hitt, all rights reserved.
+      ]
+    ]
+  ]
+]
