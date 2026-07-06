@@ -111,7 +111,7 @@
   cur-chap.update(none)
   pagebreak(weak: true)        // digital build: no odd-page forcing (avoids blank versos)
   set page(header: none, footer: none)
-  v(1.3in)
+  v(0.95in)
   align(center)[
     #text(font: sans, size: 12pt, weight: 600, fill: soft, tracking: 0.3em)[#upper(kicker)]
     #v(0.5em)
@@ -119,7 +119,7 @@
     #v(0.6em)
     #text(font: sans, size: 30pt, weight: 800, fill: accent)[#title]
   ]
-  v(0.7in)
+  v(0.55in)
   if art != none { align(center)[#art] }
   else if slot != none { art-placeholder(slot, kicker + " divider illustration", height: 3.4in) }
   pagebreak(weak: true)
