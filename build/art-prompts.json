@@ -22,6 +22,32 @@
     "S1c": { "aspect": "1:1", "subject": "A menacing dust storm or roiling plague cloud with a face barely suggested within it." },
     "S1d": { "aspect": "1:1", "subject": "Weary heroes regrouping around a small campfire, catching their breath." },
     "S1e": { "aspect": "1:1", "subject": "Characters in a dynamic, dramatic retreat, glancing back over a shoulder." },
-    "S1f": { "aspect": "1:1", "subject": "A hand releasing two six-sided dice in mid-air, motion lines, tension." }
+    "S1f": { "aspect": "1:1", "subject": "A hand releasing two six-sided dice in mid-air, motion lines, tension." },
+
+    "_vignette_comment": "V1-V24 are small square SCENE vignettes composited into the fixed film-strip chapter opener (build/compose-strip.py + build/deal-openers.py deals 3 per chapter). Prompts force a single centered subject on a mostly-white ground with minimal shading, so they read cleanly inside a tiny frame window and sit uniformly in the strip.",
+    "V1":  { "aspect": "1:1", "subject": "Two six-sided dice tumbling in mid-air with motion lines. Single clear subject, centered, mostly white background, minimal shading." },
+    "V2":  { "aspect": "1:1", "subject": "A hero leaping into action, coat flaring, dynamic. Single clear subject, centered, mostly white background, minimal shading." },
+    "V3":  { "aspect": "1:1", "subject": "Heroes regrouping around a small campfire. Single clear subject, centered, mostly white background, minimal shading." },
+    "V4":  { "aspect": "1:1", "subject": "A monster shadow looming in a doorway, a small figure before it. Single clear subject, centered, mostly white background, minimal shading." },
+    "V5":  { "aspect": "1:1", "subject": "A spaceship soaring past a ringed planet. Single clear subject, centered, mostly white background, minimal shading." },
+    "V6":  { "aspect": "1:1", "subject": "A rooftop chase, two figures running with motion lines. Single clear subject, centered, mostly white background, minimal shading." },
+    "V7":  { "aspect": "1:1", "subject": "A film clapperboard / director's slate, bold and clean. Single clear subject, centered, mostly white background, minimal shading." },
+    "V8":  { "aspect": "1:1", "subject": "A half-open treasure chest with light spilling out. Single clear subject, centered, mostly white background, minimal shading." },
+    "V9":  { "aspect": "1:1", "subject": "A jungle temple entrance half-swallowed by vines. Single clear subject, centered, mostly white background, minimal shading." },
+    "V10": { "aspect": "1:1", "subject": "A detective examining a clue with a magnifying glass. Single clear subject, centered, mostly white background, minimal shading." },
+    "V11": { "aspect": "1:1", "subject": "A fraying rope bridge across a deep chasm. Single clear subject, centered, mostly white background, minimal shading." },
+    "V12": { "aspect": "1:1", "subject": "A knight raising a sword against the sky. Single clear subject, centered, mostly white background, minimal shading." },
+    "V13": { "aspect": "1:1", "subject": "A figure casting, a swirl of energy in the hands. Single clear subject, centered, mostly white background, minimal shading." },
+    "V14": { "aspect": "1:1", "subject": "A speeding car cornering hard with motion lines. Single clear subject, centered, mostly white background, minimal shading." },
+    "V15": { "aspect": "1:1", "subject": "A ghostly figure at a cracked haunted-house window. Single clear subject, centered, mostly white background, minimal shading." },
+    "V16": { "aspect": "1:1", "subject": "A towering robot standing ready. Single clear subject, centered, mostly white background, minimal shading." },
+    "V17": { "aspect": "1:1", "subject": "A pirate sailing ship riding a stormy swell. Single clear subject, centered, mostly white background, minimal shading." },
+    "V18": { "aspect": "1:1", "subject": "A lone wanderer on a ridge over a ruined city skyline. Single clear subject, centered, mostly white background, minimal shading." },
+    "V19": { "aspect": "1:1", "subject": "A dragon in flight, wings spread. Single clear subject, centered, mostly white background, minimal shading." },
+    "V20": { "aspect": "1:1", "subject": "A single theatrical spotlight on an empty stage. Single clear subject, centered, mostly white background, minimal shading." },
+    "V21": { "aspect": "1:1", "subject": "A hand reaching toward a glowing floating artifact. Single clear subject, centered, mostly white background, minimal shading." },
+    "V22": { "aspect": "1:1", "subject": "Two hands unrolling an old map. Single clear subject, centered, mostly white background, minimal shading." },
+    "V23": { "aspect": "1:1", "subject": "Two figures in a tense face-off under a spotlight. Single clear subject, centered, mostly white background, minimal shading." },
+    "V24": { "aspect": "1:1", "subject": "A city skyline at night under dramatic clouds. Single clear subject, centered, mostly white background, minimal shading." }
   }
 }

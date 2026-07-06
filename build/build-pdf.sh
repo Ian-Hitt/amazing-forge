@@ -30,6 +30,18 @@ art_path() { # $1 = slot ID
   done
 }
 
+# Chapter-opener banner for a chapter slug (basename w/o .md). Prefer the dealt
+# per-chapter strip in build/art/openers/<slug>.png; fall back to the shared O1
+# motif if the per-chapter set hasn't been generated. Prints a #chapter-opener
+# call (root-relative path) or nothing.
+opener_typ() { # $1 = slug
+  if [[ -f "$ART/openers/$1.png" ]]; then
+    printf '#chapter-opener("/build/art/openers/%s.png")' "$1"; return
+  fi
+  local o; o="$(art_path O1)"
+  [[ -n "$o" ]] && printf '#chapter-opener("%s")' "$o"
+}
+
 # Inline art markers. Authors drop <!--art:ID|caption|height--> in the prose to
 # mark a spot/diagram slot (S1, S2, F1–F7, …). It's an HTML comment, so it's
 # invisible on the website; here we convert it to a %%%ART%%% sentinel that
@@ -49,6 +61,7 @@ fi
 
 PANDOC="$(command -v pandoc || echo /opt/homebrew/bin/pandoc)"
 TYPST="$(command -v typst || echo /opt/homebrew/bin/typst)"
+PYBIN="$ROOT/.venv/bin/python"; [[ -x "$PYBIN" ]] || PYBIN="$(command -v python3)"
 
 # Files per Part, in reading order (paths relative to docs/).
 # Keep these arrays in sync with nav: in mkdocs.yml when chapters change.
@@ -72,7 +85,8 @@ PART3=( part-three/00-introduction.md part-three/14-the-world-forge.md \
 # Part Four: prose only — the 6 HTML form-sheets are excluded by design.
 PART4=( part-four/00-introduction.md part-four/the-story-engine.md \
         part-four/three-act-structure.md part-four/beat-sheet.md \
-        part-four/teaching-the-game.md part-four/design-notes.md )
+        part-four/teaching-the-game.md part-four/glossary.md \
+        part-four/design-notes.md )
 
 md2typ() { # $1 = docs-relative path -> append Typst markup to $CONTENT
   case "$1" in
@@ -91,19 +105,28 @@ md2typ() { # $1 = docs-relative path -> append Typst markup to $CONTENT
       md2typ_genre "$1" "$slot" "$cap"
       ;;
     *)
-      artmark < "$DOCS/$1" | "$PANDOC" -f gfm -t typst --wrap=preserve >> "$CONTENT"
+      local tmp op; tmp="$(mktemp)"
+      artmark < "$DOCS/$1" | "$PANDOC" -f gfm -t typst --wrap=preserve > "$tmp"
+      op="$(opener_typ "$(basename "$1" .md)")"
+      if [[ -n "$op" ]]; then
+        awk -v op="$op" '{print} /^= / && !d {print ""; print op; print ""; d=1}' "$tmp" >> "$CONTENT"
+      else
+        cat "$tmp" >> "$CONTENT"
+      fi
       printf '\n\n' >> "$CONTENT"
+      rm -f "$tmp"
       ;;
   esac
 }
 
-md2typ_genre() { # $1 file, $2 slot ID, $3 caption — insert the plate after the H1
-  local tmp art img; tmp="$(mktemp)"
+md2typ_genre() { # $1 file, $2 slot ID, $3 caption — opener strip then plate, after the H1
+  local tmp art img op; tmp="$(mktemp)"
   artmark < "$DOCS/$1" | "$PANDOC" -f gfm -t typst --wrap=preserve > "$tmp"
   img="$(art_path "$2")"
   if [[ -n "$img" ]]; then art="#art-image(\"$img\", width: 100%, height: 4.6in)"
   else art="#art-placeholder(\"$2\", \"$3\", height: 4.6in)"; fi
-  awk -v art="$art" '{print} /^= / && !done {print ""; print art; print ""; done=1}' "$tmp" >> "$CONTENT"
+  op="$(opener_typ "$(basename "$1" .md)")"
+  awk -v op="$op" -v art="$art" '{print} /^= / && !done {print ""; if (op != "") {print op; print ""} print art; print ""; done=1}' "$tmp" >> "$CONTENT"
   printf '\n\n' >> "$CONTENT"
   rm -f "$tmp"
 }
@@ -127,6 +150,19 @@ emit_part() { # $1 kicker, $2 title, $3 divider slot, rest = files (first = intr
   md2typ_intro "$intro"
   for f in "$@"; do md2typ "$f"; done
 }
+
+# Deal the chapter-opener strips: one banner per opener-bearing chapter (every
+# file except the part intros, whose H1 is dropped), in reading order. Skipped
+# gracefully if the vignette pool (build/art/V*.png) hasn't been generated — the
+# opener then falls back to the shared O1 motif.
+if compgen -G "$ART/V*.png" > /dev/null; then
+  echo "→ dealing chapter-opener strips"
+  OPENER_SLUGS=()
+  for f in "${FRONT[@]}" "${PART1[@]:1}" "${PART2[@]:1}" "${PART3[@]:1}" "${PART4[@]:1}"; do
+    OPENER_SLUGS+=("$(basename "$f" .md)")
+  done
+  ( IFS=,; "$PYBIN" "$BUILD/deal-openers.py" --slugs "${OPENER_SLUGS[*]}" )
+fi
 
 echo "→ assembling content.typ"
 printf '#import "lib.typ": *\n\n' > "$CONTENT"
@@ -188,10 +224,10 @@ open(content, "w", encoding="utf-8").write(text)
 print(f"  {n} inline art slot(s)")
 PY
 
-# Whole-book art slots passed as inputs: the reusable opener motif (O1) and the
-# frontispiece (C2). When the file is absent the template draws a placeholder.
-OPENER_IMG="$(art_path O1)"; [[ -n "$OPENER_IMG" ]] && MODE_INPUT+=(--input "opener=$OPENER_IMG")
-FP_IMG="$(art_path C2)";     [[ -n "$FP_IMG" ]]     && MODE_INPUT+=(--input "frontispiece=$FP_IMG")
+# Whole-book art slot passed as an input: the frontispiece (C2). (The chapter
+# opener is now injected per-chapter after each H1; see opener_typ / md2typ.)
+# When the file is absent the template draws a placeholder.
+FP_IMG="$(art_path C2)"; [[ -n "$FP_IMG" ]] && MODE_INPUT+=(--input "frontispiece=$FP_IMG")
 
 echo "→ compiling PDF with Typst"
 # Hermetic fonts: embed ONLY the OFL/commercially-licensed fonts vendored in

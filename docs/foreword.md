@@ -2,6 +2,8 @@
 
 *Why I made this game, and what I hope it does.*
 
+<!--art:A1|Ian Hitt|2.4in-->
+
 My name is Ian Hitt, and I've been playing tabletop roleplaying games for about ten years. This book is the game I kept wishing existed — stitched together from four games I love, plus a few stubborn opinions about what a story at the table should feel like.
 
 ## Four games I was chasing

@@ -1,6 +1,6 @@
 # Lights, Camera, Action! — Project Guide
 
-We're writing a **TTRPG rulebook**. *Lights, Camera, Action!* (working title) is a fast, cinematic,
+We're writing a **TTRPG rulebook**. *Lights, Camera, Action!* is a fast, cinematic,
 zero-prep tabletop RPG **for people who want to tell fast-paced cinematic stories** — NOT a kids'
 game. Its rules sit, in *complexity*, between **Amazing Tales** (simple, very young) and
 **Ironsworn: Starforged** (crunchy, adult) — light enough that a group of 10+ kids could self-run

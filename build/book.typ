@@ -53,12 +53,10 @@
     #v(0.35em)
     #line(length: 2.2em, stroke: 2pt + accent)
   ]
-  // reusable chapter-opener motif (slot O1): one banner reused on every chapter.
-  // Build passes --input opener=<path> when build/art/O1.* exists; else a slim
-  // placeholder banner marks the slot on each chapter head.
-  let op = sys.inputs.at("opener", default: "")
-  if op != "" { block(above: 0pt, below: 1.4em)[#image(op, width: 100%)] }
-  else { art-placeholder("O1", "chapter-opener motif (reused every chapter)", height: 0.85in) }
+  // Chapter-opener film strip: build-pdf.sh injects a #chapter-opener("…") call
+  // right after each chapter's H1 (a per-chapter banner from build/art/openers/,
+  // or the shared O1 as fallback). Drawn there, not here, so the scenes can vary
+  // chapter to chapter while the strip frame stays identical (see lib.typ).
 }
 // reserve space below each heading so it never starts near the page bottom
 // (see heading-keep in lib.typ) — leaves a gap on the prior page for art.
@@ -113,7 +111,8 @@
     #line(length: 2in, stroke: 2pt + accent)
     #v(0.65em)
     #text(font: sans, size: 13pt, weight: 500, fill: soft)[
-      A cinematic, zero-prep tabletop RPG for ages 10+
+      A fast, cinematic, zero-prep tabletop RPG\
+      for telling any story you can imagine
     ]
   ]
   #place(bottom + center, dy: -0.2in)[
@@ -139,23 +138,23 @@
 // all-rights-reserved and sold; the GAME SYSTEM is offered free under CC BY 4.0
 // via the SRD, so others may make and sell content for it with attribution.
 // TODO before publish: fill the commented credit lines as roles are filled, and
-// have a lawyer review the legal text; "working title" pending a final name.
+// have a lawyer review the legal text.
 #page(header: none, footer: none)[
   // --- credits cluster ---
   #v(0.9in)
   #align(center)[
     #text(font: sans, size: 17pt, weight: 800, fill: accent)[Lights, Camera, Action!]
-    #v(0.25em)
-    #text(font: sans, size: 8pt, fill: soft, tracking: 0.25em)[WORKING TITLE]
     #v(0.5em)
-    #text(font: serif, size: 10.5pt, style: "italic")[A cinematic, zero-prep tabletop RPG]
+    #text(font: serif, size: 10.5pt, style: "italic")[A fast, cinematic, zero-prep tabletop RPG]
     #v(1.5em)
     #set text(font: serif, size: 9.5pt, fill: ink)
     #set par(justify: false, leading: 0.9em)
     Designed and written by *Ian Hitt* \
-    // Uncomment & fill each as it is commissioned/finished:
-    // #v(0.3em)
-    // Editing by *—* \
+    #v(0.3em)
+    Editing by *Amanda Hitt* \
+    // Uncomment & fill each as it is commissioned/finished (art is AI placeholder
+    // for now, to be replaced with human art before publish; add playtesters after
+    // the first beta):
     // Cover art by *—* \
     // Interior art by *—* \
     // Playtesting by *—*
@@ -197,3 +196,7 @@
 #counter(page).update(1)
 
 #include "content.typ"
+
+// ---- back matter: blank play sheets ---------------------------------------
+// Native Typst re-creations of the website's HTML form-sheets, one per page.
+#include "sheets.typ"

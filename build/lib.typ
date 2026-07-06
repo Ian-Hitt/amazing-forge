@@ -78,6 +78,14 @@
   above: 1.2em, below: 1.2em, breakable: false,
 )[#image(path, width: width, height: height, fit: "contain")]
 
+// chapter-opener film strip — sits right under the chapter title. build-pdf.sh
+// injects one call per chapter after the H1 (see md2typ). The strip frame is
+// identical everywhere (drawn in build/compose-strip.py); only the three inner
+// scenes change chapter to chapter.
+#let chapter-opener(path) = block(above: 0.2em, below: 1.4em, breakable: false)[
+  #image(path, width: 100%)
+]
+
 // running-head state: current Part and Chapter
 #let cur-part = state("cur-part", none)
 #let cur-chap = state("cur-chap", none)

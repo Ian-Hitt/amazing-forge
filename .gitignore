@@ -12,6 +12,7 @@ build/art/*.jpg
 build/art/*.jpeg
 build/art/*.webp
 build/art/raw/
+build/art/openers/
 build/.env
 
 # Python
