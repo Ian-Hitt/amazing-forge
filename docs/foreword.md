@@ -24,7 +24,7 @@ The rest came from a feeling I couldn't shake. So many tabletop games end up pla
 
 I didn't want this game to feel like a video game at all. I wanted it to feel like **a room full of TV writers and actors building the script in real time and then jumping into character to play it out.** The whole game is pointed at the movie you're making together. The dice are there to turn the drama up at the right moments, not to simulate a physics engine.
 
-And once you decide you're writing a story, there's no reason to ignore the tools people already use to write good ones. The hero's journey. The "save the cat" beat sheet. Three-, four-, and five-act structure. Character archetypes. Theme. These are superb instruments for building stories on the page and the screen — so why shouldn't a tabletop game reach for them too? This one does.
+And once you decide you're writing a story, there's no reason to ignore the tools people already use to write good ones. So I built this game around them — the hero's journey, the "save the cat" beat sheet, the three-act structure. I figured your stories would be better for it, so I used those structures as a north star while designing everything here. The beats that make them work — the call to adventure, the low point, the final push — became the inspiration for the moves and rules throughout the game. The hope is that you never have to notice any of it: the structure quietly nudges you toward telling a great story, whether you know it's there or not.
 
 ## What I hope it does
 

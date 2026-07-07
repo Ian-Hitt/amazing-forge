@@ -84,7 +84,9 @@ Mix and match — a Story Arc can blend shapes (a journey that ends in a heist, 
 
 ### Lights, Camera, Action: The Opening Roll
 
-You've named the Goal, the Milestones, and the antagonist, and drawn the two tracks. One thing's left before the first scene: find out *how* the Story Arc opens. **Lights, Camera, Action** is the move that does it — a single roll, made once as the Story Arc begins, that hands you the tone of your launch and points you straight at your opening scene.
+You've named the Goal, the Milestones, and the antagonist, and drawn the two tracks. One thing's left before the first scene: find out *how* the Story Arc opens.
+
+> **Starting a Season or Series?** Before the plot kicks in, consider opening on **character introduction scenes** — one short beat per hero, in their ordinary life, before the adventure finds them ([Chapter 16](../part-three/16-cool-characters.md)). It's the richer way to launch a longer story. Then make the roll below when the action begins. For a single Episode, or when time's tight, skip straight to the roll and open in the thick of it. **Lights, Camera, Action** is the move that does it — a single roll, made once as the Story Arc begins, that hands you the tone of your launch and points you straight at your opening scene.
 
 This is an **oracle roll,** so it works just like **Ask the Oracle** (Chapter 11): roll a single **d6** and read the result. No Stat or Asset applies — nothing here is a hero *doing* something risky; it's the world telling you how things stand as the camera starts rolling.
 

@@ -207,12 +207,26 @@ Then draw a second, identical row underneath for the **Antagonist Track** (Secti
 number of boxes. Every Story Arc has both tracks; the Antagonist Track is the bad guys racing you,
 and it's also what makes fleeing possible when things get dangerous.
 
-### Step 5: Choose the Starting Scene (In Media Res)
+### Step 5: Choose How the Story Opens (two ways)
 
-Open the "movie" *in media res* — right at the start of the action. To slay a dragon,
-don't start in a tavern buying supplies; start at the mouth of the cave, or fleeing town
-if the journey there is the first milestone. Describe the scene, ask "What do you do?" and
-play.
+There are **two ways to open a Story**, trading off table time:
+
+1. **In media res** — open *right at the start of the action*. To slay a dragon, don't start
+   in a tavern buying supplies; start at the mouth of the cave, or fleeing town if the journey
+   there is the first Milestone. Describe the scene, ask "What do you do?" and play. This is the
+   fast way in — the default for a first game and for single Episodes when time is tight.
+2. **Character introduction scenes** — one short scene per hero, in their ordinary life,
+   *before* the Story begins. The richer way in, best for the first session of a Season/Series
+   or when the table wants to define its heroes. Each scene: (a) shows the hero in a normal-life
+   moment before the call to adventure, (b) gives the whole table a shared picture of who they
+   are (look, a beat of roleplay, environment, NPCs), (c) gets the player into the hero's
+   headspace. No dice. Then the inciting trouble lands and you make the Lights, Camera, Action
+   opening roll. Introduction scenes are the "Save the Cat" **Opening Image** beat (and a natural
+   home for **Theme Stated** and **Set-Up**) — the Act One beats the mechanics don't place for you.
+
+Full player-facing treatment lives in **Ch.16 (Building a Cool Hero)**; the tutorial (Ch.3)
+opens in media res and points to it. ⚠️ NOTE 2026-07-07: added the character-introduction-scene
+option (previously in-media-res-only).
 
 ---
 

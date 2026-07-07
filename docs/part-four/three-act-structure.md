@@ -14,7 +14,7 @@ You don't need it to play. But when a session feels shapeless, naming the act yo
 
 You meet the heroes, see the world as it normally is, and notice what's missing — the flaw, the want, the trouble on the horizon. This is the shortest act. Its whole job is to make us care before the storm.
 
-*At the table:* spend a scene on the ordinary day, let the hero Concepts and Bonds breathe, then drop the inciting trouble and **Lights, Camera, Action**. The Hero Track is fresh and the Antagonist Track is quiet — the antagonist is still just a shadow. Act One ends the moment the heroes *commit* to the adventure.
+*At the table:* spend a scene on the ordinary day — a **character introduction scene** per hero ([Chapter 16](../part-three/16-cool-characters.md)) is the ideal way to do it — let the hero Concepts and Bonds breathe, then drop the inciting trouble and **Lights, Camera, Action**. The Hero Track is fresh and the Antagonist Track is quiet — the antagonist is still just a shadow. Act One ends the moment the heroes *commit* to the adventure.
 
 ## Act Two — Confrontation
 
@@ -31,6 +31,20 @@ This is the long middle, and it has two halves. **First** comes the fun — the 
 The heroes find their footing, face the thing they've been avoiding, and throw everything into the final confrontation. Then it's over — and we get one last look at how they've changed. This act is short and sharp; it doesn't linger except for the very last breath.
 
 *At the table:* stand the heroes back up (a **Recovery Scene** gives them the reason), then play the last Milestone as a **climactic Challenge** — reach for **Epic** to make it land. Filling its last box wins the Story. When it's won, spend a single closing scene on the world remade. That final image is what turns "we won" into "the end."
+
+## Milestones, Acts, and Beats — and why size matters
+
+Here's a handy way to see the shape: your **Milestones are your acts.** The tracks make the last Milestone the climax, so the story naturally lands in three movements.
+
+**An Episode (3 Milestones) is a tidy three-act miniature** — roughly one Milestone per act. The first gets the heroes committed (Act One), the second is the confrontation (Act Two), and the third *is* the climactic Challenge (Act Three). Clean and punchy.
+
+**A Movie (6 Milestones) is the same shape with a stretched middle.** Don't split it evenly — real three-act proportions are about **25 / 50 / 25**, so Act Two is nearly as long as the other two combined. The natural split is more like **1 / 4 / 1**: one Milestone to commit, *four* for the long rising-and-falling middle, one for the climax. **The thing that grows with a longer story is Act Two** — not the setup, not the finale. (The game already knows this: a Movie's longer Antagonist Track adds its extra boxes right in the middle, where the walls close in.)
+
+That difference is the real reason to pick one size over the other, and it comes down to the [beat sheet](beat-sheet.md). Act Two holds **seven** of the fifteen beats — Fun and Games, Midpoint, Bad Guys Close In, All Is Lost, Dark Night, and the rest. An **Episode** can't give all seven their own stretch inside a single Act-Two Milestone, so it **compresses**: it hits the load-bearing beats (a fun run, a low point, the finale) and blurs the finer ones. That's the tight cut — and it's a feature, not a flaw. A **Movie**, with four Milestones of middle, gives each beat room to land as its own moment. It's the full feature that hits all fifteen.
+
+One thing size *won't* fix: the three hand-placed beats — **Opening Image, Theme Stated, Final Image** — are yours to stage at either length (that's what [character introduction scenes](../part-three/16-cool-characters.md) are for). A Movie just gives you more room to place them well.
+
+So: **an Episode is the tight cut that hits the essential beats; a Movie is the full feature that gives all fifteen their moment.** Pick the size that fits how much story you want to tell tonight.
 
 ---
 

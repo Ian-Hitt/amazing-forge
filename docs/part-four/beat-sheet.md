@@ -10,11 +10,11 @@ Read it as a menu, not a recipe. Hit the beats that serve tonight's story; skip 
 
 ## Act One — the world, and the call
 
-**1. Opening Image.** A snapshot of life before the adventure. *At the table:* this is a beat you place by hand — the dice won't give it to you. Spend one quiet scene on the ordinary day, the calm before, so the trouble that follows has something to ruin.
+**1. Opening Image.** A snapshot of life before the adventure. *At the table:* this is a beat you place by hand — the dice won't give it to you. It's exactly what a **character introduction scene** is for ([Chapter 16](../part-three/16-cool-characters.md)): one quiet scene per hero on the ordinary day, the calm before, so the trouble that follows has something to ruin. (For a fast Episode you can skip it and open *in media res* instead — the trade-off is time.)
 
-**2. Theme Stated.** Someone hints at what the story is really *about* — courage, trust, growing up. *At the table:* nobody rolls for this. A character says a line, or asks a question, and the table quietly files it away. Pay it off at the end.
+**2. Theme Stated.** Someone hints at what the story is really *about* — courage, trust, growing up. *At the table:* nobody rolls for this. A character says a line, or asks a question, and the table quietly files it away. The **introduction scenes** above are a natural place to plant it — a line of dialogue, a small choice that hints at what this hero will have to learn. Pay it off at the end.
 
-**3. Set-Up.** We meet the heroes and see what's missing in their lives — the flaw, the want, the empty chair. *At the table:* this is your hero Concepts, Bonds, and archetypes doing their job. Play the flaw out loud now so it has somewhere to travel.
+**3. Set-Up.** We meet the heroes and see what's missing in their lives — the flaw, the want, the empty chair. *At the table:* this is your hero Concepts, Bonds, and archetypes doing their job — and, again, exactly what an **introduction scene** puts on screen. Play the flaw out loud now so it has somewhere to travel.
 
 **4. Catalyst.** The inciting incident — the message, the attack, the door that won't stay shut. *At the table:* this is the moment you call **Lights, Camera, Action**. The opening roll sets the temperature; the Goal goes on the table; the first box of the Hero Track is now waiting.
 
@@ -42,7 +42,7 @@ Read it as a menu, not a recipe. Hit the beats that serve tonight's story; skip 
 
 **14. Finale.** The climax. Everything they've learned, spent on the last confrontation. *At the table:* this is the **last Milestone** — almost always a **climactic Challenge** (reach for Hard or Epic). Filling its last box completes the Hero Track and wins the Story: triumph, or triumph-at-a-cost. The cymbal crash the whole song was building to.
 
-**15. Final Image.** A closing snapshot that mirrors the opening and shows how far they've come. *At the table:* another beat you place by hand. After the final confrontation is won and Downtime resets the party, spend one last scene on the world remade — the mirror of beat 1. That's the difference between "we won" and "the end."
+**15. Final Image.** A closing snapshot that mirrors the opening and shows how far they've come. *At the table:* another beat you place by hand. After the final confrontation is won and Downtime resets the party, spend one last scene on the world remade — the mirror of beat 1. If you opened on character introduction scenes, close on those same lives, changed. That's the difference between "we won" and "the end."
 
 ---
 

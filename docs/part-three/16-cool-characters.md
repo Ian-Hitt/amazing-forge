@@ -125,6 +125,24 @@ Here's the whole recipe, start to finish. Say you're playing a serious-leaning [
 
 One archetype turned a blank sheet into a hero with a voice, a drive, a soft spot, and a clear way to play every scene. That's the whole point.
 
+### Open on Your Hero: The Introduction Scene
+
+You've built a hero worth following. Now, how do you get them on screen? There are two ways to open a Story, and they trade off the same thing: **time.**
+
+**In media res** — dropping the whole group straight into the middle of the action — is the fast way in. It's what your first game and most single Episodes should do: when you want to reach the dice quickly and the table's short on time, start in motion and don't look back. (That's the opening [Chapter 3](../part-one/03-start-your-story-arc.md) teaches.)
+
+**Character introduction scenes** are the richer way, and often the better one when you have time for it — perfect for the first session of a Season or Series, or any time the table wants to really *know* these heroes before the plot sweeps them up. Instead of opening on the mission, you open on each hero, one at a time, in their ordinary life — *before* the Story begins.
+
+Give every hero a short scene of their own — a minute or two, no dice. A good introduction scene does three things:
+
+- **Shows them in their normal world.** Catch the hero mid-life, before the call to adventure lands: the ex-pilot tinkering alone in the cargo bay, the reporter arguing with an editor, the squire mucking out stables and dreaming bigger. Not the plot — the *life* the plot is about to interrupt.
+- **Gives the whole table a shared picture of who they are.** This is where a hero stops being a stat line and becomes a person everyone can see. Paint the look, the setting, the way they carry themselves — then play a beat of it out loud. One line of dialogue, a small choice, or a telling reaction to a passing NPC does more than a paragraph of description ever could.
+- **Gets the player into character.** Handing a player a scene set in their hero's *own* world — their workshop, their street, the people who already know them — is the fastest way to get them thinking and talking *as* that hero, so they arrive at the story already in voice.
+
+Running one is simple. Spotlight a single hero, set a small everyday scene around them, and let them show you who they are — drop in an NPC to bounce off of, ask a question or two (*"What are you doing when we find you? Who's this to you?"*), and keep it short. Then cut to the next hero. When everyone's been introduced, *then* the call to adventure lands — and it lands harder, because now the table cares about the people it's about to happen to.
+
+The archetype and the two questions above are the raw material; the introduction scene is where you put them on screen for the first time.
+
 ### The Same Tool Builds Your Antagonists
 
 An antagonist isn't a different *kind* of character — it's one of these same seven archetypes whose **flaw won.** Everything above works just as well for the people standing in the heroes' way, so you don't need a second toolkit.
