@@ -149,16 +149,20 @@ authoritative**; V3/V4 are older and superseded where they differ.
 - **Book chapters live in `docs/`** (`docs/part-one/`, `docs/part-two/`, `docs/part-three/`) —
   these are the published deliverables. Edit chapters there, using clean-slug filenames
   (e.g. `01-build-your-world.md`). New chapters must also be added to `nav:` in `mkdocs.yml`.
-- **Book structure (4 Parts):** **Part One — Your First Game** (tutorial, intentionally short);
-  **Part Two — Playing the Game, In Depth** (everything about *playing* — the dice/track rules
-  *plus* the Ask the Oracle move, Co-op/Guide play, Running the Game, and Growing Your Heroes);
-  **Part Three — Building Your World** (a *self-contained* Part for worldbuilding only: the World
-  Forge with its 10 questions, Starter Backdrops, running it, and the d6 idea tables);
-  **Part Four — Reference & Tools** (lookups, blank sheets, play-side generators — not yet built).
-  Key principle: **building the world is a separate experience from playing the game** — so the
-  Oracle/Running/Co-op material is Part Two (it's *play*), and only worldbuilding is Part Three.
-  Chapter numbers are now final: 7–10 rules, 11 Ask the Oracle, 12 Running the Game, 13 Growing
-  Your Heroes, 14 Worldbuilding — all Part One through Part Three chapters now written.
+- **Book structure (5 Parts, since 2026-07-13 — genre kits split into their own Part):** **Part One —
+  Your First Game** (tutorial, intentionally short); **Part Two — Playing the Game, In Depth**
+  (everything about *playing* — the dice/track rules *plus* the Ask the Oracle move, Co-op/Guide
+  play, Running the Game, and Growing Your Heroes); **Part Three — Building Your World** (a
+  *self-contained* Part for worldbuilding only: the World Forge with its 10 questions, running it,
+  the d6 idea tables, Building a Cool Hero, and the Locations/NPCs generators); **Part Four — The
+  Genre Kits** (the Genres overview + the seven kits — the largest body of content in the book, a
+  lens over the *whole* game, so it earns its own Part); **Part Five — Reference & Tools** (lookups,
+  blank sheets, play-side generators). Key principle: **building the world is a separate experience
+  from playing the game** — so the Oracle/Running/Co-op material is Part Two (it's *play*), and only
+  worldbuilding is Part Three. Chapter numbers are now final: 7–10 rules, 11 Ask the Oracle, 12
+  Running the Game, 13 Growing Your Heroes, 14 Worldbuilding, 15 Building a Cool Hero, 16 Making
+  Locations, 17 Making NPCs, 18 Genres (leads Part Four; the 7 kits are unnumbered sub-pages) — all
+  written.
 - **Reference/design files stay in the repo root** (this file, the Master Reference, Book
   Outline, Math & Simulation, `sim_*.py`). As of 2026-06-22 they are **tracked and pushed to
   the public repo** (backed up there) — *not* gitignored anymore. The plan is to make the repo

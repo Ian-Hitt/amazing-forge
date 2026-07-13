@@ -1,6 +1,6 @@
 # Drama
 
-*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../18-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
 
 Drama is the genre with no monsters and no vaults — the stakes are *who likes whom, who knows what, and who you choose to be.* It's gossip and rivalry, love and loyalty, ambition and stress, all turned up loud, where a single overheard sentence can detonate a whole season of story. This is the *juicy* kind of drama — tea spilled, alliances flipped, hearts on the line — never the cozy kind; something should always be simmering. Dial it from frothy soap-opera fun to raw, real feelings.
 
@@ -97,7 +97,7 @@ Drama runs on relationships, and those come in many flavors. Pick the engine tha
 - **Rivalry / Competition** — a contest gives the feelings a stage: a team, a troupe, a pageant where winning *and* who you become both matter.
 - **Found Family** — a mismatched group slowly becoming each other's people; the tension is letting them in, and what it costs you to.
 
-> **Blend it (your secondary genre).** Some of the best Dramas anchor here and fold in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Drama + Caper** is a glittering high-society con where feelings keep complicating the plan. **Drama + Mystery** is a buried secret whose answer will rearrange everyone's lives. **Drama + Horror** lets a toxic relationship or a cursed bloodline turn literally monstrous. And pour Drama into a fantasy or sci-fi *setting* and you get the romance-soaked epics ("court-and-crown fantasy") tables love. Keep Drama in the lead so the *feelings* stay the point, and let the second genre raise the stakes.
+> **Blend it (your secondary genre).** Some of the best Dramas anchor here and fold in a second genre (see *Blending Genres* in the [overview](../18-genres.md)). **Drama + Caper** is a glittering high-society con where feelings keep complicating the plan. **Drama + Mystery** is a buried secret whose answer will rearrange everyone's lives. **Drama + Horror** lets a toxic relationship or a cursed bloodline turn literally monstrous. And pour Drama into a fantasy or sci-fi *setting* and you get the romance-soaked epics ("court-and-crown fantasy") tables love. Keep Drama in the lead so the *feelings* stay the point, and let the second genre raise the stakes.
 
 ### Settings
 

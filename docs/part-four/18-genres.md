@@ -1,4 +1,4 @@
-# Chapter 15 — Genres
+# Chapter 18 — Genres
 
 The very first Worldbuilding question (Chapter 14) asks for your **Genre** — the *mood* of your story — and it's the most important answer you'll give, because it quietly colors all nine that follow. This chapter is the deep dive on that single question: seven optional genre toolkits to help if one fits the story you're telling, how to set the tone exactly where your table wants it, and a **Genre Kit** for each one to get you building fast.
 
@@ -85,4 +85,4 @@ And nothing is locked forever. A game can start as a playful adventure and grow 
 
 ---
 
-*Now pick your genre and open its kit — that's where the building gets specific. When your world's taking shape, the next chapter, Building a Cool Hero, helps you make a character to match; and the quick-reference sheets and printable worksheets — including a Worldbuilding worksheet to fill in as you go — are in Part Four.*
+*Now pick your genre and open its kit — that's where the building gets specific. When your world's taking shape, **Building a Cool Hero** (Chapter 15, Part Three) helps you make a character to match; and the quick-reference sheets and printable worksheets — including a Worldbuilding worksheet to fill in as you go — are in Part Five.*

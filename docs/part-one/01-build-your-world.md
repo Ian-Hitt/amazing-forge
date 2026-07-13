@@ -9,7 +9,7 @@ Here's the good news: you can build a whole world in about fifteen minutes by an
 ### The Ten Questions
 
 **1. The Genre — What's the mood of our story?**
-Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, or Post-Apocalypse? Pick the feeling you want — and how playful or serious it should be. *(Example: "Spooky, but the fun kind of spooky.")* *(Part Three, Chapter 15 has a kit for each genre.)*
+Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, or Post-Apocalypse? Pick the feeling you want — and how playful or serious it should be. *(Example: "Spooky, but the fun kind of spooky.")* *(Part Four, Chapter 18 has a kit for each genre.)*
 
 **2. The Setting — Where and when does it happen?**
 A medieval kingdom, deep space, an underwater city, the present day with a strange twist? *(Example: "A floating city above the clouds.")*

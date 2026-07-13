@@ -10,7 +10,7 @@ Read it as a menu, not a recipe. Hit the beats that serve tonight's story; skip 
 
 ## Act One — the world, and the call
 
-**1. Opening Image.** A snapshot of life before the adventure. *At the table:* this is a beat you place by hand — the dice won't give it to you. It's exactly what a **character introduction scene** is for ([Chapter 16](../part-three/16-cool-characters.md)): one quiet scene per hero on the ordinary day, the calm before, so the trouble that follows has something to ruin. (For a fast Episode you can skip it and open *in media res* instead — the trade-off is time.)
+**1. Opening Image.** A snapshot of life before the adventure. *At the table:* this is a beat you place by hand — the dice won't give it to you. It's exactly what a **character introduction scene** is for ([Chapter 15](../part-three/15-cool-characters.md)): one quiet scene per hero on the ordinary day, the calm before, so the trouble that follows has something to ruin. (For a fast Episode you can skip it and open *in media res* instead — the trade-off is time.)
 
 **2. Theme Stated.** Someone hints at what the story is really *about* — courage, trust, growing up. *At the table:* nobody rolls for this. A character says a line, or asks a question, and the table quietly files it away. The **introduction scenes** above are a natural place to plant it — a line of dialogue, a small choice that hints at what this hero will have to learn. Pay it off at the end.
 

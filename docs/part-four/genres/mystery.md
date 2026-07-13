@@ -1,6 +1,6 @@
 # Mystery
 
-*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../18-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
 
 Mystery is the genre of *knowing* — the slow, delicious pleasure of pulling a thread until the whole tangle comes loose. There's a secret at the heart of every Mystery, and a handful of people who'd rather it stayed buried; the heroes are the ones who won't let it. This is detective work for every table, from a playful puzzle-box romp to a rain-slick whodunit where everyone is lying about something.
 
@@ -113,7 +113,7 @@ Mystery wears many coats. Pick one to set how dark and how strange the case runs
 - **Conspiracy / Thriller** — the deeper you dig, the bigger it gets; one small case is a loose thread on something powerful.
 - **Cold Case** — an old mystery everyone "solved" years ago, reopened over the one detail that never fit.
 
-> **Blend it (your secondary genre).** Some of the best Mysteries anchor here and fold in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Mystery + Horror** is the *Monster of the Week*: each Story Arc a fresh strange case, with something genuinely unsettling underneath (*Scooby-Doo*, *The X-Files*). **Supernatural Mystery** is the same blend dialed up — the impossible is real, and the puzzle is learning its rules before they catch you. **Mystery + Caper** turns the investigation into a job — you have to *steal* the proof. Keep the *figuring-out* in the lead and let the second genre raise the stakes.
+> **Blend it (your secondary genre).** Some of the best Mysteries anchor here and fold in a second genre (see *Blending Genres* in the [overview](../18-genres.md)). **Mystery + Horror** is the *Monster of the Week*: each Story Arc a fresh strange case, with something genuinely unsettling underneath (*Scooby-Doo*, *The X-Files*). **Supernatural Mystery** is the same blend dialed up — the impossible is real, and the puzzle is learning its rules before they catch you. **Mystery + Caper** turns the investigation into a job — you have to *steal* the proof. Keep the *figuring-out* in the lead and let the second genre raise the stakes.
 
 ### Settings
 

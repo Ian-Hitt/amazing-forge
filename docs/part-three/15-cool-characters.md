@@ -1,4 +1,4 @@
-# Chapter 16 — Building a Cool Hero
+# Chapter 15 — Building a Cool Hero
 
 Back in [Chapter 2](../part-one/02-create-your-hero.md) you learned the fast way to make a hero: a **Concept**, two **Stats**, three **Assets**, and 9 Readiness. That's all you ever need to play. This chapter is for when you want *more* — when you want a hero who isn't just fun to roll dice for, but a real character with a voice, a drive, and a flaw that gets them into wonderful trouble.
 
@@ -19,7 +19,7 @@ Picking one does two things instantly:
 
 And here's the most important part: **an archetype is pure roleplay** — a lens for *playing* your hero. It's the personality you bring to the table, the thing that tells you how she'd react to a locked door, a frightened stranger, or a reckless plan. In *Lights, Camera, Action!*, your edge always comes from the story you make at the table.
 
-> **Costume vs. engine.** If you've picked a genre, its [Genre Kit](15-genres.md) handed you a list of *flavored* archetypes — the Knight, the Ranger, the Schemer, that sort of thing. Those are **costumes**: ready-made Concept ideas dressed for that world. The seven archetypes below are the **engines** underneath — the personality that drives them. Lay one over any costume you like. A "Ranger" played as a Maverick is a very different hero than one played as a Caregiver, and both are great.
+> **Costume vs. engine.** If you've picked a genre, its [Genre Kit](../part-four/18-genres.md) handed you a list of *flavored* archetypes — the Knight, the Ranger, the Schemer, that sort of thing. Those are **costumes**: ready-made Concept ideas dressed for that world. The seven archetypes below are the **engines** underneath — the personality that drives them. Lay one over any costume you like. A "Ranger" played as a Maverick is a very different hero than one played as a Caregiver, and both are great.
 
 ### The Seven Archetypes
 
@@ -58,7 +58,7 @@ Below, each one gets a closer look: how it feels at the table, **what they fear*
 - ***Play the flaw:*** let them hesitate, get talked out of the bold move, or just want to go home — until the moment they finally don't.
 - ***Concepts:*** A Farm Kid Far From Home · An Accountant Who Saw Too Much · A Substitute Teacher on a Doomed Starliner.
 
-**The Scholar.** The one who *needs to know.* Scholars chase clues, decode the mystery, and remember the one fact that saves everyone. Play them sharp and curious, narrating what your hero notices and deduces — Scholars are a gift in a [Mystery](genres/mystery.md).
+**The Scholar.** The one who *needs to know.* Scholars chase clues, decode the mystery, and remember the one fact that saves everyone. Play them sharp and curious, narrating what your hero notices and deduces — Scholars are a gift in a [Mystery](../part-four/genres/mystery.md).
 
 - ***You've seen them:*** Hermione Granger, Sherlock Holmes, Velma (*Scooby-Doo*), Spock (*Star Trek*), Doctor Strange.
 - ***What they fear:*** not knowing — being wrong, blindsided, or caught without an answer.
@@ -115,7 +115,7 @@ That kind of change is the soul of a long game — and when your hero grows in t
 
 ### Putting It All Together
 
-Here's the whole recipe, start to finish. Say you're playing a serious-leaning [Sci-Fi](genres/sci-fi.md) game on a failing colony ship.
+Here's the whole recipe, start to finish. Say you're playing a serious-leaning [Sci-Fi](../part-four/genres/sci-fi.md) game on a failing colony ship.
 
 1. **Pick an archetype.** You grab **the Maverick** — you like the "learns to trust the team" arc.
 2. **Build a Concept around it** ([Chapter 2](../part-one/02-create-your-hero.md)). *A Disgraced Ex-Pilot Living in the Cargo Bay.* You answer the Golden Question: leather jacket, arms crossed, refusing to look at the camera.

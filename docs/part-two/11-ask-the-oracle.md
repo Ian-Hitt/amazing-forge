@@ -83,7 +83,7 @@ When you want a surprise, or when nobody can name the next beat, roll **1d6** on
 
 A Spark is a prompt, not a command. If the roll genuinely doesn't fit, treat it as inspiration and take the nearest thing that does — but give it a real chance first. The off-angle results are often the ones that make the story surprising.
 
-> **Need the place or the person itself?** The Spark tells you *what* happens; when you need the *where* or the *who* on the spot, two quick generators have your back — **Making Locations** ([Chapter 17](../part-three/17-making-locations.md)) and **Making NPCs** ([Chapter 18](../part-three/18-making-npcs.md)). Roll up a place or a person and drop straight back into the scene.
+> **Need the place or the person itself?** The Spark tells you *what* happens; when you need the *where* or the *who* on the spot, two quick generators have your back — **Making Locations** ([Chapter 16](../part-three/16-making-locations.md)) and **Making NPCs** ([Chapter 17](../part-three/17-making-npcs.md)). Roll up a place or a person and drop straight back into the scene.
 
 ---
 

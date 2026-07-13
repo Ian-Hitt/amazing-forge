@@ -70,6 +70,6 @@ Whoever's setting the scene — the Guide, or the group together in Co-op play �
 
 And that's it. The moment someone answers, you're playing. The next chapter shows you what happens when a hero tries something risky — when it's time to pick up the dice.
 
-> **There's another way to open, too.** In media res is the fast way in, and it's the right call for your first game. When you've got more time — especially the first session of a longer story — you can instead open on each hero one at a time, in their ordinary life, before the adventure begins. [Chapter 16](../part-three/16-cool-characters.md) shows you how to run these **character introduction scenes.**
+> **There's another way to open, too.** In media res is the fast way in, and it's the right call for your first game. When you've got more time — especially the first session of a longer story — you can instead open on each hero one at a time, in their ordinary life, before the adventure begins. [Chapter 15](../part-three/15-cool-characters.md) shows you how to run these **character introduction scenes.**
 
 **Next up:** the heart of the game — the Roll. Turn to Chapter 4.

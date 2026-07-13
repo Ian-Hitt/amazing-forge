@@ -1,6 +1,6 @@
 # Horror
 
-*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../18-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
 
 Horror is the genre of *dread* — the held breath, the sound that shouldn't be there, the patient something just out of sight. Safety is fragile and temporary, the unknown is in no hurry, and the heroes are smaller than whatever they're facing. Of all seven genres this one leans hardest on the tonal dial: silly-spooky and genuinely frightening are both Horror, and the table picks which before the lights go down.
 
@@ -94,7 +94,7 @@ Horror comes in many shades. Pick one, and set the dial to match:
 - **Psychological / Uncanny** — the fear is in the mind. Something's *off*, people aren't themselves, and you can't quite trust what you see.
 - **Cosmic / Unknown** — something vast and old that was never meant to be understood. Learning too much is itself the danger.
 
-> **Blend it (your secondary genre).** Some of the best Horror anchors here and folds in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Horror + Mystery** is the case where the answer is something that shouldn't exist — solve it before it finds you. **Horror + Sci-Fi** is the thing loose on the space station (*Alien*, dialed for your table). **Horror + Adventure** is the *Creature Feature*: something out there hunts, and the thrill is the glimpse, the chase, the narrow escape. Keep the *dread* in the lead and let the second genre give the heroes just enough to do.
+> **Blend it (your secondary genre).** Some of the best Horror anchors here and folds in a second genre (see *Blending Genres* in the [overview](../18-genres.md)). **Horror + Mystery** is the case where the answer is something that shouldn't exist — solve it before it finds you. **Horror + Sci-Fi** is the thing loose on the space station (*Alien*, dialed for your table). **Horror + Adventure** is the *Creature Feature*: something out there hunts, and the thrill is the glimpse, the chase, the narrow escape. Keep the *dread* in the lead and let the second genre give the heroes just enough to do.
 
 ### Settings
 

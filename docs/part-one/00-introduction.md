@@ -49,15 +49,16 @@ No miniatures, no game board, no maps, and absolutely no preparation. You don't 
 
 ### How to Use This Book
 
-This book has four parts, and you only need the first one to start.
+This book has five parts, and you only need the first one to start.
 
 **Part One — Your First Game** *(you're here)* is a complete, start-to-finish tutorial. Read it in order. By the end you'll have built a world, made a hero, and learned every rule you need to play a full first adventure. Everything here is the simplest version on purpose — just enough to get you to the table.
 
-The other three parts are where you go *after* your first game — not read cover to cover, but dipped into on your second session or whenever a question comes up:
+The other four parts are where you go *after* your first game — not read cover to cover, but dipped into on your second session or whenever a question comes up:
 
 - **Part Two — Playing the Game, In Depth** covers everything about *playing*: each rule from Part One explained completely, plus how to steer the story when you're stuck (Ask the Oracle) and how to run the table with a Guide or without one.
-- **Part Three — Building Your World** is a self-contained guide to forging a richer setting: the ten questions in depth, plus a genre kit to build from for whatever kind of story you want.
-- **Part Four — Reference & Tools** holds the quick lookups and blank sheets for use at the table.
+- **Part Three — Building Your World** is a self-contained guide to forging a richer setting: the ten questions in depth, plus generators for the places and people the heroes meet.
+- **Part Four — The Genre Kits** is seven optional toolkits — Adventure, Mystery, Horror, and the rest — each one tuned to build and run its kind of story. Reach for one when you want more to work with.
+- **Part Five — Reference & Tools** holds the quick lookups and blank sheets for use at the table.
 
 Throughout Part One you'll see notes like this:
 

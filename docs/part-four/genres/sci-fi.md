@@ -1,6 +1,6 @@
 # Sci-Fi
 
-*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../18-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
 
 Sci-Fi is the genre of *the new* — a discovery, a machine, a world no one has seen, an idea big enough to change everything. The wonder is real, but the new always cuts both ways: the tool that saves you is the tool that betrays you. Curiosity drives the story forward; consequences give it weight. Dial it from bright pulp space-opera to tense, lived-in, duct-taped hard sci-fi.
 
@@ -95,7 +95,7 @@ Sci-Fi covers enormous ground. Pick a flavor to fix the tone and the tech level:
 - **First Contact / Exploration** — the unknown out there: new worlds, new minds, the wonder and peril of the genuinely alien.
 - **Hopeful / Solarpunk** — a future worth wanting. The tension is *keeping* it that way against those who'd drag it back.
 
-> **Blend it (your secondary genre).** Some of the best Sci-Fi anchors here and folds in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Sci-Fi + Horror** is the thing loose on the station (*Alien*, dialed for your table). **Sci-Fi + Mystery** is the derelict that has to be *read* like a crime scene to learn what killed the crew. **Sci-Fi + Caper** is the heist on a high-security orbital, lasers grids and all. Keep the *wonder and consequence* in the lead and let the second genre sharpen the danger.
+> **Blend it (your secondary genre).** Some of the best Sci-Fi anchors here and folds in a second genre (see *Blending Genres* in the [overview](../18-genres.md)). **Sci-Fi + Horror** is the thing loose on the station (*Alien*, dialed for your table). **Sci-Fi + Mystery** is the derelict that has to be *read* like a crime scene to learn what killed the crew. **Sci-Fi + Caper** is the heist on a high-security orbital, lasers grids and all. Keep the *wonder and consequence* in the lead and let the second genre sharpen the danger.
 
 ### Settings
 

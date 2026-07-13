@@ -1,4 +1,4 @@
-# Chapter 17 — Making Locations
+# Chapter 16 — Making Locations
 
 *A quick generator for the places you didn't plan. Roll or pick — and walk in with a hook already waiting.*
 
@@ -6,7 +6,7 @@ Sooner or later the heroes go somewhere you hadn't thought about. They take the 
 
 Here's the idea that makes this work: **a location has a *function*, the same way an NPC has a *role*.** Just as you generate a person by asking "why are they in the story?", you generate a place by asking "why does the story come *here* — what do the heroes get?" A seedy quarter is where you buy what you can't buy legally; a seat of power is where you go to petition or confront. Name the function and the place earns its scene.
 
-Every place type below is written to be **portable** — interpret it for your world. A "seat of power" is a throne room, a corporate boardroom, or a warlord's tent; lean on **Ask the Oracle** ([Chapter 11](../part-two/11-ask-the-oracle.md)) for any follow-up, and let your **Genre Kit** ([Chapter 15](15-genres.md)) set the dressing (a refuge in Horror is not a refuge in Caper). It works for prep, too — roll a few up before a session and drop them in when the story wanders.
+Every place type below is written to be **portable** — interpret it for your world. A "seat of power" is a throne room, a corporate boardroom, or a warlord's tent; lean on **Ask the Oracle** ([Chapter 11](../part-two/11-ask-the-oracle.md)) for any follow-up, and let your **Genre Kit** ([Chapter 18](../part-four/18-genres.md)) set the dressing (a refuge in Horror is not a refuge in Caper). It works for prep, too — roll a few up before a session and drop them in when the story wanders.
 
 ## Build it in three draws
 
@@ -98,7 +98,7 @@ The first table is the heart — it gives you *what the place is* and *why the h
 | 5 | Someone who very much shouldn't be here. |
 | 6 | Whoever runs the place — and they've noticed you. |
 | 7 | Two parties who don't know about each other yet. |
-| 8 | Roll on **[Making an NPC](18-making-npcs.md)** for whoever matters most. |
+| 8 | Roll on **[Making an NPC](17-making-npcs.md)** for whoever matters most. |
 
 ## Put it together
 

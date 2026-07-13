@@ -4,7 +4,7 @@ One page to remember everyone the heroes meet. A zero-prep game invents NPCs fas
 
 > **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus and navigation are hidden automatically, so you'll get just the sheet. Print several — a long game builds a big cast.
 
-See **Making NPCs** ([Chapter 18](../part-three/18-making-npcs.md)) for the generator that fills these in.
+See **Making NPCs** ([Chapter 17](../part-three/17-making-npcs.md)) for the generator that fills these in.
 
 <style>
 .af-sheet {

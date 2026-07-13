@@ -4,7 +4,7 @@ One page to remember everywhere the heroes go. The smugglers' den, the half-floo
 
 > **Printing tip:** use your browser's **Print** command (or Save as PDF) on this page. The site menus and navigation are hidden automatically, so you'll get just the sheet. Print several for a far-roaming game.
 
-See **Making Locations** ([Chapter 17](../part-three/17-making-locations.md)) for the generator that fills these in.
+See **Making Locations** ([Chapter 16](../part-three/16-making-locations.md)) for the generator that fills these in.
 
 <style>
 .af-sheet {

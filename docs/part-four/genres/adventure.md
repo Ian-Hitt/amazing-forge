@@ -1,6 +1,6 @@
 # Adventure
 
-*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../18-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
 
 Adventure is the beating heart of *Lights, Camera, Action!*, and for most tables it's the place to begin. It's the genre of brave deeds and far horizons — a vast, half-charted world where trouble is always one ridge away and something wonderful waits just past it. If the heroes you picture carry **swords and face sorcery** — dragons and dungeons, wizards and ruins, a quest that matters — this is your kit. Swords & sorcery is Adventure's default flavor; the [flavors](#flavors-of-adventure) below show how to bend it toward whatever fantasy your table loves.
 
@@ -96,7 +96,7 @@ Adventure bends easily. Pick a flavor to point your world somewhere specific —
 - **Seafaring & Pirates** — the vast is an ocean. Ships, islands, storms, and buried treasure; salt air and freedom over castles and crowns.
 - **Pulp / Lost World** — explorers and rival expeditions, jungles and ancient temples, two-fisted action and ticking traps.
 
-> **Blend it (your secondary genre).** Anchor in Adventure and fold in a second genre for spice (see *Blending Genres* in the [overview](../15-genres.md)). **Adventure + Mystery** is a treasure hunt where the map is a riddle and someone's lying about it. **Adventure + Horror** sends the expedition into a ruin that doesn't want to let them leave. **Adventure + Caper** is the daring grab — steal the relic out from under the rival expedition. Keep the *forward momentum* in the lead and let the second genre color the danger.
+> **Blend it (your secondary genre).** Anchor in Adventure and fold in a second genre for spice (see *Blending Genres* in the [overview](../18-genres.md)). **Adventure + Mystery** is a treasure hunt where the map is a riddle and someone's lying about it. **Adventure + Horror** sends the expedition into a ruin that doesn't want to let them leave. **Adventure + Caper** is the daring grab — steal the relic out from under the rival expedition. Keep the *forward momentum* in the lead and let the second genre color the danger.
 
 ### Settings
 

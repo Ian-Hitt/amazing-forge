@@ -1,6 +1,6 @@
 # Caper
 
-*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../18-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
 
 The Caper is the genre of *brains over brawn* — the joy of a plan coming together, the swagger of walking into a place you absolutely should not be, and the scramble to improvise when (not if) it all goes sideways. The tension is real but the audience is grinning: this is a game of clever people pulling off the impossible with style. Dial it from a goofy gang-of-misfits romp to a sleek, high-stakes professional job.
 
@@ -93,7 +93,7 @@ Caper is a shape you can drop into any setting. Pick the kind of job:
 - **The Breakout** — the score is a *person*, maybe one of the crew. Breaking *out* instead of in flips every problem inside-out.
 - **Comedy Caper** — the playful end of the dial: a chaotic gang of lovable misfits, where the plan barely survives first contact, and that's the joke.
 
-> **Blend it (your secondary genre).** Some of the best Capers anchor here and fold in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Caper + Adventure** is the *Treasure Hunt* — the prize is hidden, not guarded, and reaching it first is half the game. **Caper + Drama** is the glittering high-society con where feelings keep complicating the plan. **Caper + Sci-Fi** is the *Spy/Espionage* job — gadgets, glamour, and the stakes of nations, where the loot is intel and you trust no one. Keep the *plan-and-improvise* in the lead and let the second genre raise what's at stake.
+> **Blend it (your secondary genre).** Some of the best Capers anchor here and fold in a second genre (see *Blending Genres* in the [overview](../18-genres.md)). **Caper + Adventure** is the *Treasure Hunt* — the prize is hidden, not guarded, and reaching it first is half the game. **Caper + Drama** is the glittering high-society con where feelings keep complicating the plan. **Caper + Sci-Fi** is the *Spy/Espionage* job — gadgets, glamour, and the stakes of nations, where the loot is intel and you trust no one. Keep the *plan-and-improvise* in the lead and let the second genre raise what's at stake.
 
 ### Settings
 

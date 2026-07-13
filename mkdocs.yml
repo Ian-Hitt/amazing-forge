@@ -49,7 +49,7 @@ extra_css:
 plugins:
   - search
 
-# Auto-assembles part-four/all-printables.md from the individual printable sheets
+# Auto-assembles part-five/all-printables.md from the individual printable sheets
 # at build time (each sheet's CSS scoped so they don't collide). See the hook.
 hooks:
   - hooks/gen_printables.py
@@ -78,33 +78,35 @@ nav:
   - Part Three — Building Your World:
       - Introduction: part-three/00-introduction.md
       - 14. Worldbuilding: part-three/14-the-world-forge.md
-      - 15. Genres:
-          - Overview: part-three/15-genres.md
-          - Adventure: part-three/genres/adventure.md
-          - Mystery: part-three/genres/mystery.md
-          - Horror: part-three/genres/horror.md
-          - Sci-Fi: part-three/genres/sci-fi.md
-          - Caper: part-three/genres/caper.md
-          - Drama: part-three/genres/drama.md
-          - Post-Apocalypse: part-three/genres/post-apocalypse.md
-      - 16. Building a Cool Hero: part-three/16-cool-characters.md
-      - 17. Making Locations: part-three/17-making-locations.md
-      - 18. Making NPCs: part-three/18-making-npcs.md
-  - Part Four — Reference & Tools:
+      - 15. Building a Cool Hero: part-three/15-cool-characters.md
+      - 16. Making Locations: part-three/16-making-locations.md
+      - 17. Making NPCs: part-three/17-making-npcs.md
+  - Part Four — The Genre Kits:
       - Introduction: part-four/00-introduction.md
-      - "Play Online (Beta)": part-four/play-online.md
-      - "The Whole Game — Rules Reference": part-four/rules-reference.md
-      - "Print All Sheets": part-four/all-printables.md
-      - Moves Cheatsheet: part-four/moves-cheatsheet.md
-      - Hero Sheet: part-four/hero-sheet.md
-      - Story Arc Tracker Sheet: part-four/story-arc-tracker-sheet.md
-      - Challenge Tracker Sheet: part-four/challenge-tracker-sheet.md
-      - Worldbuilding Worksheet: part-four/world-forge-worksheet.md
-      - Cast Sheet: part-four/cast-sheet.md
-      - Places Sheet: part-four/places-sheet.md
-      - The Story Engine: part-four/the-story-engine.md
-      - Three-Act Structure: part-four/three-act-structure.md
-      - The Beat Sheet: part-four/beat-sheet.md
-      - Teaching the Game: part-four/teaching-the-game.md
-      - Glossary: part-four/glossary.md
-      - Design Notes: part-four/design-notes.md
+      - 18. Genres:
+          - Overview: part-four/18-genres.md
+          - Adventure: part-four/genres/adventure.md
+          - Mystery: part-four/genres/mystery.md
+          - Horror: part-four/genres/horror.md
+          - Sci-Fi: part-four/genres/sci-fi.md
+          - Caper: part-four/genres/caper.md
+          - Drama: part-four/genres/drama.md
+          - Post-Apocalypse: part-four/genres/post-apocalypse.md
+  - Part Five — Reference & Tools:
+      - Introduction: part-five/00-introduction.md
+      - "Play Online (Beta)": part-five/play-online.md
+      - "The Whole Game — Rules Reference": part-five/rules-reference.md
+      - "Print All Sheets": part-five/all-printables.md
+      - Moves Cheatsheet: part-five/moves-cheatsheet.md
+      - Hero Sheet: part-five/hero-sheet.md
+      - Story Arc Tracker Sheet: part-five/story-arc-tracker-sheet.md
+      - Challenge Tracker Sheet: part-five/challenge-tracker-sheet.md
+      - Worldbuilding Worksheet: part-five/world-forge-worksheet.md
+      - Cast Sheet: part-five/cast-sheet.md
+      - Places Sheet: part-five/places-sheet.md
+      - The Story Engine: part-five/the-story-engine.md
+      - Three-Act Structure: part-five/three-act-structure.md
+      - The Beat Sheet: part-five/beat-sheet.md
+      - Teaching the Game: part-five/teaching-the-game.md
+      - Glossary: part-five/glossary.md
+      - Design Notes: part-five/design-notes.md

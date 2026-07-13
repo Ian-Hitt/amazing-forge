@@ -1,4 +1,4 @@
-"""Generate docs/part-four/all-printables.md from the individual printable sheets.
+"""Generate docs/part-five/all-printables.md from the individual printable sheets.
 
 Each printable (Moves, Hero, Story Arc, Challenge, Worldbuilding, Cast, Places) is a
 self-contained card with its own <style> block. Several share class names
@@ -26,7 +26,7 @@ SHEETS = [
     ("places-sheet", "Places Sheet"),
 ]
 
-OUT_REL = "part-four/all-printables.md"
+OUT_REL = "part-five/all-printables.md"
 
 
 def _strip_comments(css):
@@ -124,7 +124,7 @@ def _build_markdown():
         "",
     ]
     for slug, _title in SHEETS:
-        with open(os.path.join(docs, "part-four", slug + ".md"), encoding="utf-8") as f:
+        with open(os.path.join(docs, "part-five", slug + ".md"), encoding="utf-8") as f:
             style, card = _extract(f.read())
         scoped = _scope(style, "#pa-" + slug)
         parts.append(

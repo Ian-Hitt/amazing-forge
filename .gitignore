@@ -27,4 +27,4 @@ __pycache__/
 .claude/
 
 # Generated at build time by hooks/gen_printables.py
-docs/part-four/all-printables.md
+docs/part-five/all-printables.md

@@ -1,18 +1,14 @@
-# PART FOUR: REFERENCE & TOOLS
+# PART FOUR: THE GENRE KITS
 
-*Everything you reach for at the table — and the thinking behind the game.*
+*Seven toolkits, one for each kind of story — there when you want more to build with, never required.*
 
-The first three Parts teach you to build a world and play the game. Part Four is what you keep within arm's reach once you're playing: the quick lookups, the blank sheets to print, the story-craft guides for when you want to shape a stronger adventure, and — for the curious — the reasoning behind why the rules are built the way they are. The on-the-fly generators for places and people live in Part Three with the rest of world-building (Chapters 17 and 18).
+You can play *Lights, Camera, Action!* with nothing but the rules in Parts One and Two. A genre is optional: name a feeling, set the dial, and go. But when you want to lean in — to build a world that *sounds* like a heist, a haunting, or a doomed frontier — this is where the game hands you the specifics.
 
-Nothing here is required reading. Dip in when you need it.
+Each **Genre Kit** is a full lens over the whole game: the feel and the tonal dial, how Pay the Price and the Antagonist Track land in this kind of story, what a Story Arc looks like, genre-pointed takes on the ten Worldbuilding questions, hero ideas and archetypes, big rollable Asset and Story-seed tables, and a d10 of Boon triggers. Reach for one when you're building a world (Part Three) or making a hero — it's built to slot straight into both.
+
+You don't read this Part cover to cover. Open the one genre you're playing, raid any others for tools you like, and ignore the rest until you want them.
 
 Inside this Part:
 
-- **Moves Cheatsheet** — every move in the game on a single printable card.
-- **Hero Sheet**, **Story Arc Tracker Sheet**, and **Worldbuilding Worksheet** — blank, ready to print and fill in.
-- **Cast Sheet** and **Places Sheet** — running logs for the people and places you create as you play, so a memorable NPC or location can come back later.
-- **The Story Engine**, **Three-Act Structure**, and **The Beat Sheet** — optional story-craft tools for shaping a satisfying arc when you want one.
-- **Teaching the Game** — how to get a new table playing fast.
-- **Design Notes** — the *why* behind the rules, for players and designers who want to look under the hood.
-
-> **Printing the sheets.** The Cheatsheet and the blank sheets are built to print one page at a time. Open any of them in the web edition at [ian-hitt.github.io/amazing-forge](https://ian-hitt.github.io/amazing-forge/) and use your browser's **Print** (or Save as PDF) — the site hides its menus automatically, so you get just the sheet.
+- **Chapter 18 — Genres** frames the whole system: the seven genres, the playful-to-serious dial, and how to blend two.
+- **The seven kits** — Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, and Post-Apocalypse — each a self-contained toolkit for that kind of story.

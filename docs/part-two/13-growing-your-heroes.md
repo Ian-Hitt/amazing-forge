@@ -52,7 +52,7 @@ A **Boon** is a signature move attached to one of your Assets. The key thing abo
 Rather than pick from a fixed list, you **build** a Boon from two pieces:
 
 1. An **Effect** — what it does. Chosen from a short, fixed menu (below). This is the part that stays the same across every hero in every game, because it's the part that touches the dice.
-2. A **Trigger** — when you're allowed to use it. This is the flavorful part, and it's wide open: "in a fight," "while protecting someone," "when I'm reading a crowd." Each **Genre Kit** (Chapter 15) offers a table of triggers that fit its kind of story.
+2. A **Trigger** — when you're allowed to use it. This is the flavorful part, and it's wide open: "in a fight," "while protecting someone," "when I'm reading a crowd." Each **Genre Kit** (Chapter 18) offers a table of triggers that fit its kind of story.
 
 You can attach up to **two Boons** to any one Asset.
 
@@ -85,7 +85,7 @@ Here's the elegant part: **you don't choose how often a Boon fires — the build
 
 So the broadest Trigger — *"any time this Asset applies"* — gives you an Effect at its base cadence. Naming a situation is what *buys* a Strong Effect the right to fire every Scene. That's the trade in one rule: **the narrower the moment, the more often you get to shine in it.** (Mild Effects are already once per Scene, so they don't need a situation — though pinning one on can make for a better story.)
 
-**Generic Triggers any hero can grab** — your genre's kit (Chapter 15) will have more, and sharper:
+**Generic Triggers any hero can grab** — your genre's kit (Chapter 18) will have more, and sharper:
 
 - In a fight
 - On a chase or escape

@@ -14,7 +14,7 @@ You don't need it to play. But when a session feels shapeless, naming the act yo
 
 You meet the heroes, see the world as it normally is, and notice what's missing — the flaw, the want, the trouble on the horizon. This is the shortest act. Its whole job is to make us care before the storm.
 
-*At the table:* spend a scene on the ordinary day — a **character introduction scene** per hero ([Chapter 16](../part-three/16-cool-characters.md)) is the ideal way to do it — let the hero Concepts and Bonds breathe, then drop the inciting trouble and **Lights, Camera, Action**. The Hero Track is fresh and the Antagonist Track is quiet — the antagonist is still just a shadow. Act One ends the moment the heroes *commit* to the adventure.
+*At the table:* spend a scene on the ordinary day — a **character introduction scene** per hero ([Chapter 15](../part-three/15-cool-characters.md)) is the ideal way to do it — let the hero Concepts and Bonds breathe, then drop the inciting trouble and **Lights, Camera, Action**. The Hero Track is fresh and the Antagonist Track is quiet — the antagonist is still just a shadow. Act One ends the moment the heroes *commit* to the adventure.
 
 ## Act Two — Confrontation
 
@@ -42,7 +42,7 @@ Here's a handy way to see the shape: your **Milestones are your acts.** The trac
 
 That difference is the real reason to pick one size over the other, and it comes down to the [beat sheet](beat-sheet.md). Act Two holds **seven** of the fifteen beats — Fun and Games, Midpoint, Bad Guys Close In, All Is Lost, Dark Night, and the rest. An **Episode** can't give all seven their own stretch inside a single Act-Two Milestone, so it **compresses**: it hits the load-bearing beats (a fun run, a low point, the finale) and blurs the finer ones. That's the tight cut — and it's a feature, not a flaw. A **Movie**, with four Milestones of middle, gives each beat room to land as its own moment. It's the full feature that hits all fifteen.
 
-One thing size *won't* fix: the three hand-placed beats — **Opening Image, Theme Stated, Final Image** — are yours to stage at either length (that's what [character introduction scenes](../part-three/16-cool-characters.md) are for). A Movie just gives you more room to place them well.
+One thing size *won't* fix: the three hand-placed beats — **Opening Image, Theme Stated, Final Image** — are yours to stage at either length (that's what [character introduction scenes](../part-three/15-cool-characters.md) are for). A Movie just gives you more room to place them well.
 
 So: **an Episode is the tight cut that hits the essential beats; a Movie is the full feature that gives all fifteen their moment.** Pick the size that fits how much story you want to tell tonight.
 

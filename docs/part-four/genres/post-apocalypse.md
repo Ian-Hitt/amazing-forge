@@ -1,6 +1,6 @@
 # Post-Apocalypse
 
-*One of the seven Genre Kits. New here? Start with the [Genres overview](../15-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
+*One of the seven Genre Kits. New here? Start with the [Genres overview](../18-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
 
 Post-Apocalypse is the genre of *after* — the world ended, but the people didn't, and now they have to make a life in the wreckage. It's scarcity and grit and the strange beauty of a city gone quiet under the vines. Every bullet counts, every friend matters, and the real story isn't surviving the ruins — it's deciding what's worth rebuilding in them. Dial it from a goofy wasteland romp to a lean, hard-scrabble fight for tomorrow.
 
@@ -94,7 +94,7 @@ Pick a flavor to set what ended the world and how it feels to live in the after:
 - **The Plague Years** — a great sickness emptied the world; the few who remain are scattered, careful, and slow to trust a stranger's cough.
 - **Cozy Rebuild** — the playful, hopeful end of the dial: a little settlement growing back, where the story is *building* far more than surviving.
 
-> **Blend it (your secondary genre).** Some of the best post-apocalyptic stories anchor here and fold in a second genre (see *Blending Genres* in the [overview](../15-genres.md)). **Post-Apocalypse + Horror** fills the ruins with something that hunts — the wasteland isn't empty. **Post-Apocalypse + Sci-Fi** is the world the *machines* won, or strange new tech rising from the ashes. **Post-Apocalypse + Mystery** asks *what actually happened* — piecing together the cause of the collapse from what's left. **Post-Apocalypse + Adventure** is the great expedition: a perilous trek across the wasteland toward a rumored haven. Keep the *scarcity and rebuilding* in the lead and let the second genre sharpen the danger.
+> **Blend it (your secondary genre).** Some of the best post-apocalyptic stories anchor here and fold in a second genre (see *Blending Genres* in the [overview](../18-genres.md)). **Post-Apocalypse + Horror** fills the ruins with something that hunts — the wasteland isn't empty. **Post-Apocalypse + Sci-Fi** is the world the *machines* won, or strange new tech rising from the ashes. **Post-Apocalypse + Mystery** asks *what actually happened* — piecing together the cause of the collapse from what's left. **Post-Apocalypse + Adventure** is the great expedition: a perilous trek across the wasteland toward a rumored haven. Keep the *scarcity and rebuilding* in the lead and let the second genre sharpen the danger.
 
 ### Settings
 
