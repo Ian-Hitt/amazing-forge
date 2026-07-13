@@ -86,14 +86,16 @@ One roll, power restored, and a hook that just made the escape a lot more intere
 
 ### Flavors of Sci-Fi
 
-Sci-Fi covers enormous ground. Pick a flavor to fix the tone and the tech level:
+Sci-Fi covers enormous ground. Each flavor keeps the engine — a new thing opens wonders, then presents its bill — but changes the tech level and where the danger comes from:
 
-- **Space Opera** — sweeping and heroic: starfleets, alien worlds, faster-than-light, a galaxy worth saving. The bright end of the dial. (*Star Wars*.)
-- **Hard SF** — grounded and plausible. The science is (mostly) real, and the danger is the unforgiving physics of space itself.
-- **Cyberpunk** — neon cities and megacorporations, hackers and the hacked. High tech, low life, and a system rigged against you.
-- **After the collapse** — wonder gives way to scavenging in the ruins of a greater age. (Full-on collapse and rebuilding is now its own genre — see [Post-Apocalypse](25-post-apocalypse.md).)
-- **First Contact / Exploration** — the unknown out there: new worlds, new minds, the wonder and peril of the genuinely alien.
-- **Hopeful / Solarpunk** — a future worth wanting. The tension is *keeping* it that way against those who'd drag it back.
+- **Space Opera** — the bright, heroic end: starfleets, alien worlds, and a galaxy worth saving; in practice, this is Adventure among the stars (*Star Wars*, *Guardians of the Galaxy*).
+- **Hard SF** — grounded and plausible, where the antagonist is unforgiving physics and every problem is an engineering puzzle to *think* your way out of (*The Martian*, *Interstellar*).
+- **Cyberpunk** — high tech, low life; the real enemy isn't a monster but the *system* — megacorps, surveillance, and a world rigged against you (*Blade Runner*, *Neuromancer*).
+- **First Contact / Exploration** — the genuinely alien: the story is learning what a new world or mind actually *is*, and its rules, before those rules bite (*Arrival*, *Star Trek*).
+- **Space Western** — trade the galactic for the personal: a ragtag crew, a beloved ship, and episodic frontier jobs on the ragged edge of civilization (*Firefly*, *The Mandalorian*).
+- **Time Travel** — the twist is causality itself: paradoxes, branching timelines, and cleaning up the mess you made of history (*Back to the Future*, *12 Monkeys*).
+
+*(Want a fully collapsed world to scavenge and rebuild? That's its own genre now — see [Post-Apocalypse](25-post-apocalypse.md).)*
 
 > **Blend it (your secondary genre).** Some of the best Sci-Fi anchors here and folds in a second genre (see *Blending Genres* in the [overview](../18-genres.md)). **Sci-Fi + Horror** is the thing loose on the station (*Alien*, dialed for your table). **Sci-Fi + Mystery** is the derelict that has to be *read* like a crime scene to learn what killed the crew. **Sci-Fi + Caper** is the heist on a high-security orbital, lasers grids and all. Keep the *wonder and consequence* in the lead and let the second genre sharpen the danger.
 

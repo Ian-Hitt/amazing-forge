@@ -87,14 +87,14 @@ One roll, one box, one hook pulling you toward the next. That's an Adventure sce
 
 ### Flavors of Adventure
 
-Adventure bends easily. Pick a flavor to point your world somewhere specific — or leave it broad. Each is just a lens; the rules underneath never change.
+Adventure bends easily. Each flavor keeps the same engine — brave a great danger and win through — but changes *how* you get there. Pick one to point your world somewhere specific, or leave it broad.
 
-- **High Fantasy** — a bright, heroic world of noble quests, old prophecy, and clear good against a rising dark. Sweeping and mythic; the stakes reach the whole realm. (The classic *Lord of the Rings* shape.)
-- **Sword & Sorcery** — grittier and more personal: lone wanderers, cursed ruins, treacherous cities, magic that's rare and dangerous. Smaller stakes, sharper edges.
-- **Dark Fantasy** — the dial turned serious. The wilds are hungry and victory costs something. Hope is real, but hard-won.
-- **Fairy-Tale** — storybook logic, talking animals, bargains and riddles, a wink of whimsy. Light on the dial, heavy on wonder.
-- **Seafaring & Pirates** — the vast is an ocean. Ships, islands, storms, and buried treasure; salt air and freedom over castles and crowns.
-- **Pulp / Lost World** — explorers and rival expeditions, jungles and ancient temples, two-fisted action and ticking traps.
+- **Epic / Heroic Fantasy** — the sweeping default: mythic quests, old prophecy, and clear good against a rising dark, from grand *Lord of the Rings* stakes down to grittier, more personal sword-and-sorcery (*Conan*, *The Witcher*).
+- **Pulp / Lost World** — the twist is the *race*: rival expeditions, booby-trapped ruins, and two-fisted action where reaching the prize first is half the fight (*Indiana Jones*, *The Mummy*).
+- **Seafaring & Pirates** — the open sea is the map, so the story moves island to island, and the real threats are storms, rival ships, and mutiny (*Pirates of the Caribbean*, *Treasure Island*).
+- **Fairy-Tale** — storybook logic takes over: bargains bind, things happen in threes, and a riddle beats a sword — whimsy and wonder over grit (*The Princess Bride*, *Narnia*).
+- **Modern Action / Thriller** — strip out the magic and crank the pace: relentless chases, fistfights, and narrow escapes in a grounded, present-day world (*Bourne*, *Mission: Impossible*).
+- **Steampunk** — the wonder is *invention itself*: brass and steam, airships and clockwork, heroes who build their way out of trouble (*Mortal Engines*, *Howl's Moving Castle*).
 
 > **Blend it (your secondary genre).** Anchor in Adventure and fold in a second genre for spice (see *Blending Genres* in the [overview](../18-genres.md)). **Adventure + Mystery** is a treasure hunt where the map is a riddle and someone's lying about it. **Adventure + Horror** sends the expedition into a ruin that doesn't want to let them leave. **Adventure + Caper** is the daring grab — steal the relic out from under the rival expedition. Keep the *forward momentum* in the lead and let the second genre color the danger.
 

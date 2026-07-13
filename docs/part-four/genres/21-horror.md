@@ -86,13 +86,14 @@ No clue found, the safety shrinking, the dread tightening. That's a Horror scene
 
 ### Flavors of Horror
 
-Horror comes in many shades. Pick one, and set the dial to match:
+Every flavor keeps Horror's engine — you don't win, you *survive or escape* — but changes what's after you:
 
-- **Haunting** — the place itself is wrong: ghosts, echoes, a house that doesn't want you to leave.
-- **Survival Horror** — cut off and low on everything, with the dread closing in. The story is *enduring* and finding the way out.
-- **Spooky-Fun** — the playful end of the dial: *Goosebumps*, *Scooby-Doo* — chills and laughs, mystery and meddling kids, never nightmares.
-- **Psychological / Uncanny** — the fear is in the mind. Something's *off*, people aren't themselves, and you can't quite trust what you see.
-- **Cosmic / Unknown** — something vast and old that was never meant to be understood. Learning too much is itself the danger.
+- **Haunting** — the *place* is the threat: a house or a wood that won't let you leave, best fled or laid to rest rather than fought head-on (*The Haunting of Hill House*, *Poltergeist*).
+- **Slasher** — a killer with the initiative picks the group off one by one; the tension is the dwindling numbers and the race to be the last one standing (*Halloween*, *Scream*).
+- **Survival Horror** — cut off and low on everything; the whole story is *enduring* and clawing toward the way out, rationing every scrap (*A Quiet Place*, *The Descent*).
+- **Psychological / Uncanny** — the fear is in the mind; you can't trust what you see, or whether the people around you are still themselves (*Get Out*, *Rosemary's Baby*).
+- **Cosmic / Lovecraftian** — it flips Mystery on its head: the more you *understand* the vast, ancient thing, the more danger you're in (*The Thing*, *Annihilation*).
+- **Spooky-Fun** — the playful end of the dial: chills and laughs and meddling kids, never real nightmares (*Goosebumps*, *Hocus Pocus*).
 
 > **Blend it (your secondary genre).** Some of the best Horror anchors here and folds in a second genre (see *Blending Genres* in the [overview](../18-genres.md)). **Horror + Mystery** is the case where the answer is something that shouldn't exist — solve it before it finds you. **Horror + Sci-Fi** is the thing loose on the space station (*Alien*, dialed for your table). **Horror + Adventure** is the *Creature Feature*: something out there hunts, and the thrill is the glimpse, the chase, the narrow escape. Keep the *dread* in the lead and let the second genre give the heroes just enough to do.
 

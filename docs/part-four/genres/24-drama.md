@@ -88,14 +88,14 @@ One roll, one box of progress, and one fresh complication — the relationship m
 
 ### Flavors of Drama
 
-Drama runs on relationships, and those come in many flavors. Pick the engine that fits your table — each plays a little differently:
+Drama runs on relationships, and every flavor changes *which* relationship is the engine:
 
-- **Soap / Melodrama** — feelings at full volume, a twist every scene, secrets and betrayals stacked high. Frothy and addictive; sits naturally toward the playful end of the dial.
-- **Coming-of-Age** — growing up *is* the plot: first love, finding yourself, the friendships that make and break you. School and summer-camp settings shine.
-- **Court Intrigue** — drama with thrones at stake: alliances, marriages, and whispered plots where a wrong word can topple a house. The personal *is* the political.
-- **Romance** — love is the whole engine: longing, rivals, misunderstandings, and the terrifying leap of telling someone how you feel. The Hero Track is the relationship itself.
-- **Rivalry / Competition** — a contest gives the feelings a stage: a team, a troupe, a pageant where winning *and* who you become both matter.
-- **Found Family** — a mismatched group slowly becoming each other's people; the tension is letting them in, and what it costs you to.
+- **Romance** — love is the whole story; the relationship itself is your Hero Track, built beat by beat toward the terrifying leap of telling someone how you feel (*Pride and Prejudice*, most rom-coms).
+- **Court Intrigue / Political** — the personal *is* the political: alliances, marriages, and whispered plots where a wrong word can topple a house (*Game of Thrones*, *Succession*).
+- **Coming-of-Age** — growing up *is* the plot: first love, finding yourself, and the friendships that make and break you along the way (*Stand By Me*, most school and summer-camp stories).
+- **Rivalry / Competition** — a contest gives the feelings a stage — a team, a troupe, a pageant — where winning *and* who you become both matter.
+- **Soap / Melodrama** — feelings at full volume: a twist every scene, secrets and betrayals stacked sky-high; frothy, addictive, and playful on the dial.
+- **Found Family** — a mismatched group slowly becoming each other's people; the tension is letting them in, and what that costs you.
 
 > **Blend it (your secondary genre).** Some of the best Dramas anchor here and fold in a second genre (see *Blending Genres* in the [overview](../18-genres.md)). **Drama + Caper** is a glittering high-society con where feelings keep complicating the plan. **Drama + Mystery** is a buried secret whose answer will rearrange everyone's lives. **Drama + Horror** lets a toxic relationship or a cursed bloodline turn literally monstrous. And pour Drama into a fantasy or sci-fi *setting* and you get the romance-soaked epics ("court-and-crown fantasy") tables love. Keep Drama in the lead so the *feelings* stay the point, and let the second genre raise the stakes.
 

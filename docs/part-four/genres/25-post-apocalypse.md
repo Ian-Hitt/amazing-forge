@@ -86,13 +86,14 @@ One deal struck, one box of ground gained, and a cost that's waiting down the ro
 
 ### Flavors of Post-Apocalypse
 
-Pick a flavor to set what ended the world and how it feels to live in the after:
+Every flavor keeps the engine — survive the ruins and decide what's worth rebuilding — but changes what ended the world and what stalks it now:
 
-- **Wasteland Road** — sun-blasted dunes, scrap-built vehicles, and gangs fighting over the last drops of fuel. Fast, gear-heavy, and always moving. (*Mad Max*.)
-- **Overgrown / After the Green** — nature took it all back. Ruins under vines, deer in the shopping malls, and a quiet, melancholy beauty over everything.
-- **The Long Winter** — endless cold and deep scarcity, where the weather and the dark are as deadly as any raider, and warmth is the rarest treasure.
-- **The Plague Years** — a great sickness emptied the world; the few who remain are scattered, careful, and slow to trust a stranger's cough.
-- **Cozy Rebuild** — the playful, hopeful end of the dial: a little settlement growing back, where the story is *building* far more than surviving.
+- **Wasteland Road** — the story is always *moving*: scrap-built vehicles, sun-blasted highways, and gangs fighting over the last drops of fuel (*Mad Max*, *Fallout*).
+- **Zombie Apocalypse** — a relentless, mindless horde is the ever-present clock, but the real danger is what *other survivors* will do to live (*The Walking Dead*).
+- **Overgrown / After the Green** — nature took it all back; the pace is slow and melancholy, and the strange beauty of the ruins is half the point (*The Last of Us*, *Station Eleven*).
+- **The Long Winter** — the *environment* is the enemy: endless cold and dark, where warmth and shelter are the rarest treasures of all (*The Road*, *Snowpiercer*).
+- **The Plague Years** — a great sickness emptied the world; the survivors are scattered, wary, and slow to trust a stranger's cough (*The Stand*).
+- **Cozy Rebuild** — the hopeful end of the dial: a little settlement growing back, where the story is *building* far more than surviving.
 
 > **Blend it (your secondary genre).** Some of the best post-apocalyptic stories anchor here and fold in a second genre (see *Blending Genres* in the [overview](../18-genres.md)). **Post-Apocalypse + Horror** fills the ruins with something that hunts — the wasteland isn't empty. **Post-Apocalypse + Sci-Fi** is the world the *machines* won, or strange new tech rising from the ashes. **Post-Apocalypse + Mystery** asks *what actually happened* — piecing together the cause of the collapse from what's left. **Post-Apocalypse + Adventure** is the great expedition: a perilous trek across the wasteland toward a rumored haven. Keep the *scarcity and rebuilding* in the lead and let the second genre sharpen the danger.
 

@@ -106,14 +106,16 @@ One question, one box closer to the truth, one new tangle. That's a Mystery scen
 
 ### Flavors of Mystery
 
-Mystery wears many coats. Pick one to set how dark and how strange the case runs:
+Every flavor runs on the same engine — a truth assembled clue by clue — but changes *who's* digging and *what's* in the way:
 
-- **Whodunit** — a closed circle of suspects, one crime, and the satisfaction of naming the culprit. Clue by clue, classic.
-- **Noir** — rain-slick and morally grey: everyone's compromised, the truth costs something, and trust is the rarest clue.
-- **Conspiracy / Thriller** — the deeper you dig, the bigger it gets; one small case is a loose thread on something powerful.
-- **Cold Case** — an old mystery everyone "solved" years ago, reopened over the one detail that never fit.
+- **Whodunit** — a closed circle of suspects and one crime; the whole game is narrowing the list until you can name the culprit (*Knives Out*, Agatha Christie).
+- **Detective / Procedural** — the draw is the investigator's *method*: a brilliant lead, a trusty foil, and deduction performed like a magic trick (*Sherlock*, *Poirot*, *Psych*).
+- **Noir** — the difference is the *cost*: everyone's compromised, no one's clean, and the truth takes something from you when you find it (*Chinatown*, *Blade Runner*).
+- **Cozy Mystery** — low on danger, high on charm: an amateur sleuth in a tight-knit community where the stakes are social, not deadly (*Only Murders in the Building*, *Murder, She Wrote*).
+- **Conspiracy / Thriller** — every answer reveals a bigger one; your small case turns out to be a loose thread on something powerful (*The X-Files* myth-arc, *All the President's Men*).
+- **Monster of the Week** — an episodic run of self-contained cases, each with something genuinely strange underneath (leans on Horror — *The X-Files*, *Scooby-Doo*).
 
-> **Blend it (your secondary genre).** Some of the best Mysteries anchor here and fold in a second genre (see *Blending Genres* in the [overview](../18-genres.md)). **Mystery + Horror** is the *Monster of the Week*: each Story Arc a fresh strange case, with something genuinely unsettling underneath (*Scooby-Doo*, *The X-Files*). **Supernatural Mystery** is the same blend dialed up — the impossible is real, and the puzzle is learning its rules before they catch you. **Mystery + Caper** turns the investigation into a job — you have to *steal* the proof. Keep the *figuring-out* in the lead and let the second genre raise the stakes.
+> **Blend it (your secondary genre).** Some of the best Mysteries anchor here and fold in a second genre (see *Blending Genres* in the [overview](../18-genres.md)). **Mystery + Horror** makes the answer something that *shouldn't exist* — solve it before it finds you; dialed all the way up, that's **Supernatural Mystery**, where the impossible is real and the puzzle is learning its rules. **Mystery + Caper** turns the investigation into a job — you have to *steal* the proof. **Mystery + Drama** makes the secret a personal one, whose answer rearranges everyone's lives. Keep the *figuring-out* in the lead and let the second genre raise the stakes.
 
 ### Settings
 
