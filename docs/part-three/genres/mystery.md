@@ -69,9 +69,28 @@ In practice:
 - **Clues are an Investigation Challenge** (Chapter 8): each box is a real clue or a fresh lead, and the full track adds up to the answer. Build it like any other Challenge; only the fiction changes.
 - **Layer the lies.** The first answer should be wrong or incomplete. Almost everyone has a secret; most are unrelated to the case — which is exactly what makes the real one hard to spot.
 - **Make legwork social.** The best clues come from *people*, so reward charm and patience as much as a magnifying glass. A nervous witness is more fun than a footprint.
-- **Decide the answer loosely, then let play find it.** You don't need the perfect mystery plotted in advance — settle on whodunit in broad strokes, and let the clues the heroes actually turn up point there. **Ask the Oracle** (Chapter 11) for the details even *you* haven't decided — *was the steward lying?* — which is how a Co-op Mystery keeps its secrets.
+- **You don't have to know the answer.** You don't need the mystery plotted in advance — in a Co-op game *nobody* has to know whodunit when you sit down. The case assembles itself, clue by clue, as you play. This is the heart of running a Mystery, so it gets its own section next.
 - **Pace the reveals.** Alternate a satisfying *click* with a fresh complication, so the case never stalls into a guessing game or a wall of facts.
 - **The trap to avoid:** the unsolvable puzzle. The investigation writes the case — don't gate the whole thing behind one brilliant deduction the players have to make cold.
+
+### Running a Mystery when nobody knows the answer
+
+Every other genre survives a Guide who's making it up as they go. Mystery looks like the one that can't: a mystery needs an answer, and *someone* has to know it to hand out the clues — right? That's the worry that scares people off running a whodunit, and it seems fatal in **Co-op** play, where there's no Guide behind a screen holding the secret.
+
+Here's the trick that dissolves the whole problem: **in this game you don't need to know the answer, because the game builds it for you.** Remember that the Hero Track *is* the solution — and a solution assembled clue by clue doesn't have to exist before the first roll. It comes together as you play, and it isn't locked until the final box drops. This works whether you're playing Co-op with no Guide at all, or you're a Guide who'd rather be surprised right alongside the table.
+
+Six habits make it sing:
+
+- **Start with a situation, not a solution.** Don't decide whodunit. Decide the *shape* of the trouble — a body, a theft, a lie that won't add up. The **Story Arc seeds** below are built for exactly this: each hands you a charged situation with no answer attached. The answer is the thing you're going to *discover*, right alongside the heroes.
+- **Every clue is true the moment you turn it up.** When a Hit fills a box, someone names the fact it reveals (Narrate the Change, Chapter 7). When nobody knows that fact — and often nobody will — **Ask the Oracle** (Chapter 11): *Ask the Dice* for a yes/no (*"was the steward lying?"*), the *Story Spark* for an open one (*"what does the ledger show?"*). The dice answer, the table narrates — and then you **write it down.** Once it's spoken it's canon, and the case has one more fixed point.
+- **Build toward the truth, not around it.** Every new clue has to fit every clue already on the table. That's the whole engine: each fixed point rules something out, so the field of possible answers *narrows* with every box. You're not guarding a secret you set in advance — you're closing in on one that doesn't exist yet.
+- **Ask narrowing questions, not "who did it?"** Keep the Oracle pointed at *eliminating* — *"does this clear the sister?" "was money the motive?"* — never at simply handing you the culprit. Naming the guilty party is the *last* thing that happens, not something you roll for in box two. Let every suspect stay live as long as you can.
+- **Commit at the reveal.** When the final Milestone — *the truth finally named* — is ready to fill, lay out everything you've written down. Nine times in ten, one answer now fits the facts better than any other: name it, and the *click* is earned, because the clues genuinely add up to it. If two suspects both fit, that's the perfect **Ask the Dice** — frame the likelier one as the +1 question and let the roll settle it. Either way the answer is honest: built from clues, not chosen in secret and doled out.
+- **Red herrings build themselves.** You don't have to plant false trails in advance. Almost everyone has a secret — most unrelated to the case — so misleading clues surface on their own. A true fact that happens to point the wrong way is the best red herring there is. Trust the tangle.
+
+> *In play (Co-op):* You've talked your way into the victim's study and rolled a Weak Hit searching the desk. What's in the appointment book? Nobody's decided — so **Ask the Dice:** *"Is there a meeting no one's mentioned?"* Given how everyone's been dodging that week, a yes is likely: **+1**, and you roll a **4 — Yes.** With *whom?* Still unknown, so a quick **Story Spark:** **A hard choice** — the initials match *two* people you've already met, and only one can be the truth. None of that existed thirty seconds ago. Now it's canon, it's a box on the track, and the case just narrowed to two. Two rolls turned "we have no idea" into the spine of the whole mystery.
+
+> **The payoff.** Because the answer is assembled instead of pre-written, *you get to be surprised too.* A Co-op Mystery isn't a lesser mystery for having no mastermind behind the screen — it's often a better one, because nobody at the table is just waiting for everyone else to catch up to what they already know.
 
 ### A scene at the table
 
