@@ -16,13 +16,13 @@ Here's the most useful way to think about what a genre actually *tells* you: it'
 
 | Genre | The plot it promises |
 |---|---|
-| **[Adventure](genres/adventure.md)** | Bold heroes brave a great danger and win through against the odds. |
-| **[Mystery](genres/mystery.md)** | A secret unravels clue by clue, until the truth clicks into place. |
-| **[Horror](genres/horror.md)** | Something is wrong and closing in — and you survive it, or escape. |
-| **[Sci-Fi](genres/sci-fi.md)** | A new discovery opens wonders — and you face what it sets loose. |
-| **[Caper](genres/caper.md)** | A clever crew takes on the impossible and pulls it off with style. |
-| **[Drama](genres/drama.md)** | Secrets, rivalries, and feelings build until they finally come to a head. |
-| **[Post-Apocalypse](genres/post-apocalypse.md)** | Survivors scrape a life from the ruins — and decide what's worth rebuilding. |
+| **[Adventure](genres/19-adventure.md)** | Bold heroes brave a great danger and win through against the odds. |
+| **[Mystery](genres/20-mystery.md)** | A secret unravels clue by clue, until the truth clicks into place. |
+| **[Horror](genres/21-horror.md)** | Something is wrong and closing in — and you survive it, or escape. |
+| **[Sci-Fi](genres/22-sci-fi.md)** | A new discovery opens wonders — and you face what it sets loose. |
+| **[Caper](genres/23-caper.md)** | A clever crew takes on the impossible and pulls it off with style. |
+| **[Drama](genres/24-drama.md)** | Secrets, rivalries, and feelings build until they finally come to a head. |
+| **[Post-Apocalypse](genres/25-post-apocalypse.md)** | Survivors scrape a life from the ruins — and decide what's worth rebuilding. |
 
 **Pick one as your anchor.** Whichever you choose becomes the lens for the rest of Worldbuilding — it tells you what your Threats look like, what counts as a good Asset, and, crucially, what **Pay the Price** (Chapter 9) *feels* like. A price in Adventure is a collapsing rope bridge; in Drama it's a secret slipping to exactly the wrong person. Same rule, different sting.
 
@@ -73,7 +73,7 @@ Each kit is a **launchpad, not a finished world.** It hands you the *kind* of st
 - **Archetypes** — ready-to-play hero shapes, each with a short menu of suggested starting Assets. Play one as-is, or file off the serial numbers and make it yours.
 - **The Asset table** — a big **d100** list of genre-fitting Assets. Roll for a surprise, or just read down it and grab the three that make you grin. Every entry is a starting point — rename or reskin it to fit your hero and your world.
 
-**The seven kits:** [Adventure](genres/adventure.md) · [Mystery](genres/mystery.md) · [Horror](genres/horror.md) · [Sci-Fi](genres/sci-fi.md) · [Caper](genres/caper.md) · [Drama](genres/drama.md) · [Post-Apocalypse](genres/post-apocalypse.md).
+**The seven kits:** [Adventure](genres/19-adventure.md) · [Mystery](genres/20-mystery.md) · [Horror](genres/21-horror.md) · [Sci-Fi](genres/22-sci-fi.md) · [Caper](genres/23-caper.md) · [Drama](genres/24-drama.md) · [Post-Apocalypse](genres/25-post-apocalypse.md).
 
 ---
 

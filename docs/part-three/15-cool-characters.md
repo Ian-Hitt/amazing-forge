@@ -58,7 +58,7 @@ Below, each one gets a closer look: how it feels at the table, **what they fear*
 - ***Play the flaw:*** let them hesitate, get talked out of the bold move, or just want to go home — until the moment they finally don't.
 - ***Concepts:*** A Farm Kid Far From Home · An Accountant Who Saw Too Much · A Substitute Teacher on a Doomed Starliner.
 
-**The Scholar.** The one who *needs to know.* Scholars chase clues, decode the mystery, and remember the one fact that saves everyone. Play them sharp and curious, narrating what your hero notices and deduces — Scholars are a gift in a [Mystery](../part-four/genres/mystery.md).
+**The Scholar.** The one who *needs to know.* Scholars chase clues, decode the mystery, and remember the one fact that saves everyone. Play them sharp and curious, narrating what your hero notices and deduces — Scholars are a gift in a [Mystery](../part-four/genres/20-mystery.md).
 
 - ***You've seen them:*** Hermione Granger, Sherlock Holmes, Velma (*Scooby-Doo*), Spock (*Star Trek*), Doctor Strange.
 - ***What they fear:*** not knowing — being wrong, blindsided, or caught without an answer.
@@ -115,7 +115,7 @@ That kind of change is the soul of a long game — and when your hero grows in t
 
 ### Putting It All Together
 
-Here's the whole recipe, start to finish. Say you're playing a serious-leaning [Sci-Fi](../part-four/genres/sci-fi.md) game on a failing colony ship.
+Here's the whole recipe, start to finish. Say you're playing a serious-leaning [Sci-Fi](../part-four/genres/22-sci-fi.md) game on a failing colony ship.
 
 1. **Pick an archetype.** You grab **the Maverick** — you like the "learns to trust the team" arc.
 2. **Build a Concept around it** ([Chapter 2](../part-one/02-create-your-hero.md)). *A Disgraced Ex-Pilot Living in the Cargo Bay.* You answer the Golden Question: leather jacket, arms crossed, refusing to look at the camera.

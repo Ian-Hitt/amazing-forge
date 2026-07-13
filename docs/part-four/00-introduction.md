@@ -11,4 +11,4 @@ You don't read this Part cover to cover. Open the one genre you're playing, raid
 Inside this Part:
 
 - **Chapter 18 — Genres** frames the whole system: the seven genres, the playful-to-serious dial, and how to blend two.
-- **The seven kits** — Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, and Post-Apocalypse — each a self-contained toolkit for that kind of story.
+- **Chapters 19–25** are the seven kits — Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, and Post-Apocalypse — each a self-contained chapter-length toolkit for that kind of story.

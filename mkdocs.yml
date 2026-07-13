@@ -83,15 +83,14 @@ nav:
       - 17. Making NPCs: part-three/17-making-npcs.md
   - Part Four — The Genre Kits:
       - Introduction: part-four/00-introduction.md
-      - 18. Genres:
-          - Overview: part-four/18-genres.md
-          - Adventure: part-four/genres/adventure.md
-          - Mystery: part-four/genres/mystery.md
-          - Horror: part-four/genres/horror.md
-          - Sci-Fi: part-four/genres/sci-fi.md
-          - Caper: part-four/genres/caper.md
-          - Drama: part-four/genres/drama.md
-          - Post-Apocalypse: part-four/genres/post-apocalypse.md
+      - 18. Genres — Overview: part-four/18-genres.md
+      - 19. Adventure: part-four/genres/19-adventure.md
+      - 20. Mystery: part-four/genres/20-mystery.md
+      - 21. Horror: part-four/genres/21-horror.md
+      - 22. Sci-Fi: part-four/genres/22-sci-fi.md
+      - 23. Caper: part-four/genres/23-caper.md
+      - 24. Drama: part-four/genres/24-drama.md
+      - 25. Post-Apocalypse: part-four/genres/25-post-apocalypse.md
   - Part Five — Reference & Tools:
       - Introduction: part-five/00-introduction.md
       - "Play Online (Beta)": part-five/play-online.md

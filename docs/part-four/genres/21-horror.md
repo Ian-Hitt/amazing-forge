@@ -1,4 +1,4 @@
-# Horror
+# Chapter 21 — Horror
 
 *One of the seven Genre Kits. New here? Start with the [Genres overview](../18-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
 

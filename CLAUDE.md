@@ -161,8 +161,9 @@ authoritative**; V3/V4 are older and superseded where they differ.
   from playing the game** — so the Oracle/Running/Co-op material is Part Two (it's *play*), and only
   worldbuilding is Part Three. Chapter numbers are now final: 7–10 rules, 11 Ask the Oracle, 12
   Running the Game, 13 Growing Your Heroes, 14 Worldbuilding, 15 Building a Cool Hero, 16 Making
-  Locations, 17 Making NPCs, 18 Genres (leads Part Four; the 7 kits are unnumbered sub-pages) — all
-  written.
+  Locations, 17 Making NPCs, 18 Genres overview (leads Part Four), 19–25 the seven genre kits (each
+  its own chapter: 19 Adventure, 20 Mystery, 21 Horror, 22 Sci-Fi, 23 Caper, 24 Drama, 25
+  Post-Apocalypse) — all written.
 - **Reference/design files stay in the repo root** (this file, the Master Reference, Book
   Outline, Math & Simulation, `sim_*.py`). As of 2026-06-22 they are **tracked and pushed to
   the public repo** (backed up there) — *not* gitignored anymore. The plan is to make the repo

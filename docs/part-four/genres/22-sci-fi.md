@@ -1,4 +1,4 @@
-# Sci-Fi
+# Chapter 22 — Sci-Fi
 
 *One of the seven Genre Kits. New here? Start with the [Genres overview](../18-genres.md) for how genres and the tonal dial work — then build your world (Chapter 14) through this lens.*
 
@@ -91,7 +91,7 @@ Sci-Fi covers enormous ground. Pick a flavor to fix the tone and the tech level:
 - **Space Opera** — sweeping and heroic: starfleets, alien worlds, faster-than-light, a galaxy worth saving. The bright end of the dial. (*Star Wars*.)
 - **Hard SF** — grounded and plausible. The science is (mostly) real, and the danger is the unforgiving physics of space itself.
 - **Cyberpunk** — neon cities and megacorporations, hackers and the hacked. High tech, low life, and a system rigged against you.
-- **After the collapse** — wonder gives way to scavenging in the ruins of a greater age. (Full-on collapse and rebuilding is now its own genre — see [Post-Apocalypse](post-apocalypse.md).)
+- **After the collapse** — wonder gives way to scavenging in the ruins of a greater age. (Full-on collapse and rebuilding is now its own genre — see [Post-Apocalypse](25-post-apocalypse.md).)
 - **First Contact / Exploration** — the unknown out there: new worlds, new minds, the wonder and peril of the genuinely alien.
 - **Hopeful / Solarpunk** — a future worth wanting. The tension is *keeping* it that way against those who'd drag it back.
 
