@@ -86,16 +86,18 @@ One deal struck, one box of ground gained, and a cost that's waiting down the ro
 
 ### Flavors of Post-Apocalypse
 
-Every flavor keeps the engine — survive the ruins and decide what's worth rebuilding — but changes what ended the world and what stalks it now:
+Post-Apocalypse is usually named by *what ended the world* — and each cause changes what stalks the ruins now:
 
-- **Wasteland Road** — the story is always *moving*: scrap-built vehicles, sun-blasted highways, and gangs fighting over the last drops of fuel (*Mad Max*, *Fallout*).
-- **Zombie Apocalypse** — a relentless, mindless horde is the ever-present clock, but the real danger is what *other survivors* will do to live (*The Walking Dead*).
-- **Overgrown / After the Green** — nature took it all back; the pace is slow and melancholy, and the strange beauty of the ruins is half the point (*The Last of Us*, *Station Eleven*).
-- **The Long Winter** — the *environment* is the enemy: endless cold and dark, where warmth and shelter are the rarest treasures of all (*The Road*, *Snowpiercer*).
-- **The Plague Years** — a great sickness emptied the world; the survivors are scattered, wary, and slow to trust a stranger's cough (*The Stand*).
-- **Cozy Rebuild** — the hopeful end of the dial: a little settlement growing back, where the story is *building* far more than surviving.
+- **Zombie Apocalypse** — the horde (shambling or sprinting) is the ever-present clock, but the real danger is what *other survivors* will do to live (*The Walking Dead*, *The Last of Us*).
+- **Nuclear Wasteland** — irradiated desert, scrap-built war-rigs, and warlords fighting over the last fuel and clean water (*Mad Max*, *Fallout*).
+- **Robot / AI Uprising** — the machines won, and you scrape by in the margins of a world that no longer belongs to people (*The Terminator*, *The Matrix*).
+- **Pandemic / Outbreak** — a great sickness emptied the world; the scattered survivors are wary, isolated, and slow to trust a stranger's cough (*28 Days Later*, *Contagion*).
+- **Climate Collapse** — the *weather itself* is the enemy: killing cold, drowned coastlines, or a storm that never ends (*The Day After Tomorrow*, *Snowpiercer*).
+- **Nature Reclaimed** — quiet and overgrown, the world-without-us gone soft and green and strangely beautiful, waiting to be resettled (*I Am Legend*, *Horizon Zero Dawn*).
 
-> **Blend it (your secondary genre).** Some of the best post-apocalyptic stories anchor here and fold in a second genre (see *Blending Genres* in the [overview](../18-genres.md)). **Post-Apocalypse + Horror** fills the ruins with something that hunts — the wasteland isn't empty. **Post-Apocalypse + Sci-Fi** is the world the *machines* won, or strange new tech rising from the ashes. **Post-Apocalypse + Mystery** asks *what actually happened* — piecing together the cause of the collapse from what's left. **Post-Apocalypse + Adventure** is the great expedition: a perilous trek across the wasteland toward a rumored haven. Keep the *scarcity and rebuilding* in the lead and let the second genre sharpen the danger.
+*Dial any of these hopeful and you get the **rebuilding** story — where the Hero Track is a settlement growing back and the point is what you choose to build, not merely survive.*
+
+> **Blend it (your secondary genre).** Some of the best post-apocalyptic stories anchor here and fold in a second genre (see *Blending Genres* in the [overview](../18-genres.md)). **Post-Apocalypse + Horror** puts something *worse than raiders* in the ruins — a thinking terror that hunts the survivors. **Post-Apocalypse + Sci-Fi** seeds the wreckage with strange new tech, mutations, or a signal from something still out there. **Post-Apocalypse + Mystery** asks *what actually happened* — piecing together the cause of the collapse from what's left. **Post-Apocalypse + Adventure** is the great expedition: a perilous trek across the wasteland toward a rumored haven. Keep the *scarcity and rebuilding* in the lead and let the second genre sharpen the danger.
 
 ### Settings
 
