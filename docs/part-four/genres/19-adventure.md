@@ -272,14 +272,14 @@ Adventure throws fights, wild country, and old mysteries at *everyone* — so bu
 | 57 | Carouser | Social | you feast, drink, or revel your way into someone's good graces. |
 | 58 | Chaplain | Social | you perform your faith's rites or call on its authority — sanctuary, blessing, the weight of the temple. |
 | 59 | Spy | Social | you work undercover behind a false identity to reach what's hidden. |
-| 60 | Smuggler | Social | you hide contraband or slip goods past a search. |
+| 60 | Smuggler | Social | you bluff contraband past a search, a gate, or a checkpoint. |
 | 61 | Faithful Companion | Allies | your loyal animal aids you in its way — tracking, scouting, guarding, or fighting. |
 | 62 | Warhorse | Allies | your mount carries you into a fight, a chase, or hard travel. |
 | 63 | Hunting Hawk | Allies | your hawk scouts from the air or strikes from above. |
 | 64 | Summoner | Allies | you call a spirit or creature to act for you. |
 | 65 | Friend in Every Port | Allies | you call on an old friend for shelter, news, or a favor. |
 | 66 | A Powerful Patron | Allies | you invoke your patron's name, coin, or reach. |
-| 67 | Storied Name | Allies | your deeds have reached this place ahead of you — and it helps. |
+| 67 | Storied Name | Allies | you trade on your name — your deeds got here before you did. |
 
 ### Adventure Boon triggers (d10)
 

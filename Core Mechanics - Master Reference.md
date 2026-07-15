@@ -346,7 +346,12 @@ Asset, consider *how* the character got good at it; that instantly builds backst
 **What makes a good Asset.** The master test is the **trigger**: finish *"You add +1 when…"* —
 a good Asset completes it cleanly with a situation that **comes up in ordinary play.** That
 single test catches both failure modes: too vague to finish the sentence (it's a Stat), or so
-specific the trigger almost never fires (e.g. "Arson Investigator"). Two supporting checks:
+specific the trigger almost never fires (e.g. "Arson Investigator"). The trigger must also name
+**the action you're actually rolling — the risky moment itself, not the setup for it** (DECIDED
+2026-07-15). "You stash cargo in a hidden hold" isn't a roll — nothing is at stake yet; "you
+keep your holds' secrets through a search" is the roll. If a draft trigger describes
+preparation or a passive fact ("your name is known here"), find the moment it pays off under
+pressure ("you drop your name") — *that's* the trigger. Two supporting checks:
 **it tells you who the hero is** ("Ace Pilot" paints a person; "a sturdy backpack" doesn't), and
 it's **pointed** — clearly *doesn't* cover everything, with obvious moments where it's useless.
 Genre Asset tables present each entry *as* its trigger (`Asset | You add +1 when…`). Assets are

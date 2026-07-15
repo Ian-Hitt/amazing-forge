@@ -249,7 +249,7 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 | 35 | Spirit-Speaker | The Unknown | you commune with what lingers — a ghost, an echo, a mind without a body. |
 | 36 | Corporate Spy | Infiltration | you steal secrets, IDs, or data from inside. |
 | 37 | Saboteur | Infiltration | you wreck an enemy's systems, ship, or gear from within. |
-| 38 | Smuggler | Infiltration | you hide cargo or slip past customs and patrols. |
+| 38 | Smuggler | Infiltration | you bluff cargo — or passengers — past a search, a scan, or a checkpoint. |
 | 39 | Demolitionist | Infiltration | you breach, blast, or rig a charge. |
 | 40 | Station Rat | Infiltration | you work the underlevels — service ducts, back corridors, where to hide, who to ask. |
 | 41 | Escape Artist | Infiltration | you slip restraints, a cell, or a locked-down deck. |
@@ -262,16 +262,16 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 | 48 | The Med Bay | The Ship | you treat the crew in your med bay — real surgery, real beds, your machines. |
 | 49 | The Machine Shop | The Ship | you fix or build it properly — your bench, your tools, your parts. |
 | 50 | The Science Lab | The Ship | you run a real analysis — samples, cultures, simulations, time to think. |
-| 51 | The Galley | The Ship | you hold the crew together around your table — a meal, a talk, a place to breathe. |
-| 52 | Hidden Holds | The Ship | you stash cargo — or people — where a search won't find them. |
-| 53 | A False Transponder | The Ship | you run dark — a borrowed ID broadcast, a scrubbed signature, a quiet drive. |
+| 51 | The Galley | The Ship | you steady a shaken crewmate — or the whole crew — over a meal at your table. |
+| 52 | Hidden Holds | The Ship | you keep your holds' secrets through a search — an inspection, a scan, a boarding party. |
+| 53 | A False Transponder | The Ship | you slip a patrol, a blockade, or a checkpoint under a borrowed ID and a scrubbed signature. |
 | 54 | A Beloved Ship | The Ship | your ship comes through — speed, an old trick, one more miracle from the old girl. |
 | 55 | A Sarcastic AI Companion | Allies | your AI cracks a system, runs the numbers, or watches your back. |
 | 56 | A Loyal Repair Drone | Allies | your drone fixes, fetches, or scouts a tight spot. |
 | 57 | A Trained Alien Pet | Allies | your pet sniffs out danger or does what no human can. |
 | 58 | Fixer | Allies | you tap a contact for gear, a berth, or a favor. |
 | 59 | A Corporate Sponsor | Allies | you invoke your sponsor's name, credits, or clearance. |
-| 60 | A Famous Call Sign | Allies | your name is known out here — and it opens doors. |
+| 60 | A Famous Call Sign | Allies | you drop your name — and out here, it means something. |
 
 > **Going full science fantasy?** The mystic rows here (Mystic, Seer, Spirit-Speaker, Telepath) are seeds, not the ceiling. If your world runs on space-magic, **raid the [Adventure kit's](19-adventure.md) magic Assets and reskin freely** — a Necromancer on a derelict generation ship, a Templar of the void gods, a Spellbreaker unpicking cursed precursor tech. Same triggers, new wonder.
 
