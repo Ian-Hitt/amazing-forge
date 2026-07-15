@@ -902,10 +902,24 @@ instead of acting against a problem yourself, you can help a teammate. Describe 
 assist, then roll 2d6 + modifier (the usual **+0/+1/+2** — +1 if a relevant Stat fits the
 help, +1 if a fitting Asset does):
 
-- **Strong Hit:** your ally gets **+2** on their next roll.
-- **Weak Hit:** your ally gets **+1** on their next roll, and **you Pay the Price (−1
+- **Strong Hit:** your ally gets **+2** on the roll you're helping with (usually their next roll).
+- **Weak Hit:** your ally gets **+1** on that roll, and **you Pay the Price (−1
   Readiness).**
 - **Miss:** your help doesn't land — no bonus — and **you Pay the Price (−2 Readiness).**
+
+> ✅ **DECIDED — a bonus lands on the first roll that's a direct result of what earned it
+> (Ian, 2026-07-15).** Not blindly the next roll chronologically — the *most relevant* one.
+> Aid in the thick of a Scene = the ally's very next roll; help aimed at something **later**
+> (briefing the plan, scouting the route, warding the door, a Seer's vision of the coming
+> fight) **waits and lands on the first roll of the moment it prepared for.** Same rule for
+> the Outstanding Success +1 (whose momentum fiction genuinely is next-roll) and the Boon
+> "+1 to your next roll" effect. **Expiry: the plan, not the scene** — if the prepared-for
+> moment never comes, the bonus dies with it; waiting never grows, splits, or multiplies it.
+> No new currency or track — this is a *timing clarification* of the existing forward bonus
+> (it resolved TODO #17's "hold" question with zero new mechanics; MotW's hold was the prior
+> art). Canonical text: Ch.7 "When Does a Bonus Land?"; signposts in the SRD (Aid + Boon
+> effects) and Ch.13. Balance-neutral: same cost paid at roll time, same single bonus — only
+> the timing moves, and delayed selection value is bounded by plan-expiry.
 
 Aid uses the **same math and the same Pay the Price as any roll** — the Readiness cost is
 *not* a punishment for helping; Aid is simply the core move pointed at a teammate, so it

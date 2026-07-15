@@ -262,7 +262,7 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 | 48 | The Med Bay | The Ship | you **Mend** in your med bay — real surgery, real beds, your machines. |
 | 49 | The Machine Shop | The Ship | you fix or build it properly — your bench, your tools, your parts. |
 | 50 | The Science Lab | The Ship | you run a real analysis — samples, cultures, simulations, time to think. |
-| 51 | The Galley | The Ship | you **Mend** a crewmate's frayed nerve — or **Aid an Ally** heading out — with a meal at your table. |
+| 51 | The Galley | The Ship | you **Mend** a crewmate's frayed nerve — a hot meal, your table, a talk. |
 | 52 | Hidden Holds | The Ship | you use your hidden holds to get something — or someone — through a search. |
 | 53 | A False Transponder | The Ship | you use your false transponder to slip a patrol, a blockade, or a checkpoint. |
 | 54 | A Beloved Ship | The Ship | you push the old girl past her limits — for speed, a trick, one more miracle. |

@@ -88,7 +88,7 @@ The core move has one variant: instead of pointing your action at a problem, you
 <div class="lca-move" markdown>
 <p class="lca-move-name">Aid Your Ally <span class="lca-when">— on your turn, spend your roll to help another hero</span></p>
 
-**When you attempt to help an ally during a risky situation,** roll **2d6 + modifier** for the help you're giving; the bonus lands on your ally's **next** roll.
+**When you attempt to help an ally during a risky situation,** roll **2d6 + modifier** for the help you're giving; the bonus lands on **the roll you're helping with** — usually your ally's **next** roll.
 
 - **Strong Hit (10+):** your help lands cleanly — your ally gets **+2.**
 - **Weak Hit (7–9):** your help lands, but you **Pay the Price** — your ally gets **+1,** and **you lose 1 Readiness.**
@@ -102,6 +102,8 @@ Aid uses the *exact same math* as any other roll, Pay the Price included — it'
 **Aid stacks.** The bonus lands on top of whatever the ally's own roll already gets — including their own **+2** from a fitting Stat and Asset — and **more than one ally can pile on the same roll.** If two heroes both Aid the same action and both land a Strong Hit, that's **+4** waiting on the ally's next roll, before their own modifier. When several heroes can plausibly help, a well-set-up roll can become a near-sure thing — and that's the point: it's the reward for spending multiple turns to set one hero up for the moment that matters.
 
 Aid is the best use of a turn when the moment isn't in your wheelhouse: the hero the scene doesn't suit sets up the hero it does. Because a Challenge's popcorn turn order means everyone acts every round anyway, it gives that hero a real, satisfying job instead of a wasted turn.
+
+**Helping with something that hasn't happened yet?** If the action you're Aiding isn't happening right now — you're briefing the plan, scouting the route, warding the door — the bonus doesn't burn on whatever your ally happens to do next. It **waits for the moment you prepared,** and lands there. See *When Does a Bonus Land?* below.
 
 ### Doubles: A Lucky Break, or the Antagonist's Opening
 
@@ -120,6 +122,16 @@ An Outstanding Success means more than "you did it well" — you nailed it so ha
 - In a Challenge, an Outstanding Success **fills two boxes instead of one** — the spectacular result vaults the track ahead — *and* that **+1** still rides your next Challenge Roll, so the opening you just made turns the next push in your favor too (Chapter 8).
 
 Let the table enjoy it — the Hit side of doubles is a treat. And because the *Miss* side feeds the Antagonist Track, the doubles rule isn't a bolt-on bonus you can take or leave — it's the core engine that makes every roll's luck cut both ways.
+
+### When Does a Bonus Land?
+
+A carried **+1** — or an Aid bonus — lands on the **first roll that's a direct result of whatever earned it:** the most relevant moment, not blindly the next number you happen to roll.
+
+Usually those are the same roll, and you'll never think about it. Momentum from an Outstanding Success spills into whatever you do next; Aid given in the thick of a fight lands on the ally's very next swing.
+
+But help aimed at something **later** waits for it. Scout the route, brief the crew on the plan, ward the door against what's coming, glimpse the showdown in a vision — that bonus doesn't burn on some unrelated roll along the way. It **waits, and lands on the first roll of the moment you prepared for.** The seer's +1 belongs to the fight she foresaw, not to haggling for supplies on the road there.
+
+The boundary: a bonus **expires with the plan, not the scene.** If the moment it was for never comes — the ambush fizzles, the plan is abandoned — the bonus goes with it. And waiting doesn't grow it: it's still one bonus, on one roll.
 
 ---
 

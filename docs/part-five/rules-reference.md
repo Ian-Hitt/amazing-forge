@@ -256,6 +256,8 @@ Instead of acting for yourself, you can spend your roll to help someone else.
 - **Miss:** no bonus, and **you** Pay the Price (−2).
 </div>
 
+Any earned bonus lands on the **first roll that's a direct result of what earned it** — Aid in the thick of the action means the ally's next roll, but help aimed at something *later* (a briefing, a scouted route, a vision) **waits for the moment it prepared.** It expires with the plan, not the scene.
+
 ### Challenges
 
 Most risky moments are **Regular Rolls** — one roll, read the result, move on. A **Challenge** is for a big set-piece that deserves more than a couple rolls: a monster fight, a desperate chase, a tense infiltration, a long trek. You draw a **row of boxes** and fill them roll by roll until the Scene is won — enemies have *no stats,* the **track itself is the obstacle.**
@@ -396,7 +398,7 @@ A Boon is one **Effect** (what it does) plus a **Trigger** (the situation it fir
 *Mild Effects — once per Scene:*
 
 - **Reroll** — reroll one Miss and take the new result.
-- **+1 to your next roll** — give your next roll, or an ally's, +1.
+- **+1 to your next roll** — give your next roll, or an ally's, +1 (it lands on the first roll that's a direct result of what earned it — preparation waits for its moment).
 - **Lend a reroll** — when you Aid an ally, they may reroll a Miss on that roll.
 - **Steady Hands** — when you Mend, restore +1 extra, and you can Mend an ally as easily as yourself.
 

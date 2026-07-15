@@ -70,7 +70,7 @@ You can attach up to **two Boons** to any one Asset.
 | **Upgrade** | Treat one result as **one tier better** — a Miss becomes a Weak Hit, or a Weak Hit becomes Strong. | Strong |
 | **Take the Price** | This Asset (or you) **pays a Price for you or an ally beside you** — the hero in danger loses no Readiness; it lands on the Asset in the fiction. | Strong |
 | **Reroll** | **Reroll a Miss** once with this Asset. Take the new result. | Mild |
-| **+1 to your next roll** | Give your **next** roll — or an ally's — **+1**. | Mild |
+| **+1 to your next roll** | Give your **next** roll — or an ally's — **+1**. *(It lands on the first roll that's a direct result of what earned it — preparation waits for its moment; Chapter 7.)* | Mild |
 | **Lend a reroll** | When you **help an ally**, they may reroll a Miss on the roll you're helping with. | Mild |
 | **Steady Hands** | When you **Mend** with this Asset, restore **+1 extra** — and you can Mend an ally as easily as yourself. | Mild |
 
