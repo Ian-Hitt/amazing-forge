@@ -72,7 +72,7 @@ The moment your group sits down — before any worldbuilding — settle two thin
 
 **Guided or Co-op?** One of you can play the **Guide** — running the world and its dangers while everyone else plays a hero — or nobody does, and you steer the story together (**Co-op**). Both work with everything in this book, and Part One teaches both as it goes. Pick whichever sounds more fun tonight.
 
-**What's our genre?** Decide what kind of movie you're making: **Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, or Post-Apocalypse** — and how **playful or serious** to play it. Say it out loud in one line: *"spooky, but the fun kind of spooky."* This is a decision about the *story*, not the world — the world comes next, and you'll build it to fit.
+**What's our genre?** Decide what kind of movie you're making: **Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, or Post-Apocalypse.** This is a decision about the *story*, not the world — the world comes next, and you'll build it to fit. And it's the decision that tells you where to look for everything else:
 
 > **Then open your Genre Kit (Part Four).** There's a full kit for each of the seven genres, and it's the lowest-barrier way to get a game going: ready-made hero builds called **Archetypes**, a rollable table of story ideas, and a genre-tuned take on every step ahead. You never *need* it — Part One is complete on its own — but the next three chapters will point out the moments your kit can simply *hand* you something instead of asking you to invent it.
 
