@@ -208,7 +208,7 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 
 ### The Sci-Fi Asset table (d100)
 
-*Roll **d100** for a surprise (a roll over 54 just means roll again — every entry shares the same odds), or skim and grab the ones that make you grin. Every Asset has a **category** — the kind of challenge where it shines. Sci-Fi's categories are its own, because its common challenges are its own: **Combat** (a fight breaks out — deck, dirt, or dogfight) · **Piloting** (at the controls — a hard burn, a tight run, a chase) · **Machines** (the hardware — fix it, build it, rig it) · **Systems** (the software — slice it, decode it, talk it around) · **Survival** (the void and hostile worlds — staying alive out there) · **The Unknown** (the truly alien — understand it, or touch it with your mind) · **Infiltration** (security — getting in, past, and out) · **Social** (deals, checkpoints, crews, and corps) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). A well-rounded hero takes their three Assets from **three different categories** — whatever the Story throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Systems ghost who's never touched a blaster is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise (a roll over 60 just means roll again — every entry shares the same odds), or skim and grab the ones that make you grin. Every Asset has a **category** — the kind of challenge where it shines. Sci-Fi's categories are its own, because its common challenges are its own: **Combat** (a fight breaks out — deck, dirt, or dogfight) · **Piloting** (at the controls — a hard burn, a tight run, a chase) · **Machines** (the hardware — fix it, build it, rig it) · **Systems** (the software — slice it, decode it, talk it around) · **Survival** (the void and hostile worlds — staying alive out there) · **The Unknown** (the truly alien — understand it, or touch it with your mind) · **Infiltration** (security — getting in, past, and out) · **Social** (deals, checkpoints, crews, and corps) · **The Ship** (a facility bolted to your berth — and only its *trained* hero gets the +1; see "Your ship" below) · **Allies** (not a challenge but a wild card: an ally helps with *any* challenge their description can reach). A well-rounded hero takes their three Assets from **three different categories** — whatever the Story throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Systems ghost who's never touched a blaster is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
 | d100 | Asset | Category | You add +1 when… |
 |---|---|---|---|
@@ -259,13 +259,19 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 | 45 | Empath | Social | you read what someone truly feels or intends. |
 | 46 | Telepath | Social | you push a thought into a mind — a whisper, a suggestion, *these aren't the droids.* |
 | 47 | Bureaucrat | Social | you work the system — permits, clearances, protocols, who really decides. |
-| 48 | A Sarcastic AI Companion | Allies | your AI cracks a system, runs the numbers, or watches your back. |
-| 49 | A Loyal Repair Drone | Allies | your drone fixes, fetches, or scouts a tight spot. |
-| 50 | A Trained Alien Pet | Allies | your pet sniffs out danger or does what no human can. |
-| 51 | Fixer | Allies | you tap a contact for gear, a berth, or a favor. |
-| 52 | A Beloved Ship | Allies | your ship comes through — speed, an old trick, one more miracle from the old girl. |
-| 53 | A Corporate Sponsor | Allies | you invoke your sponsor's name, credits, or clearance. |
-| 54 | A Famous Call Sign | Allies | your name is known out here — and it opens doors. |
+| 48 | The Med Bay | The Ship | you treat the crew in your med bay — real surgery, real beds, your machines. |
+| 49 | The Machine Shop | The Ship | you fix or build it properly — your bench, your tools, your parts. |
+| 50 | The Science Lab | The Ship | you run a real analysis — samples, cultures, simulations, time to think. |
+| 51 | The Galley | The Ship | you hold the crew together around your table — a meal, a talk, a place to breathe. |
+| 52 | Hidden Holds | The Ship | you stash cargo — or people — where a search won't find them. |
+| 53 | A False Transponder | The Ship | you run dark — a borrowed ID broadcast, a scrubbed signature, a quiet drive. |
+| 54 | A Beloved Ship | The Ship | your ship comes through — speed, an old trick, one more miracle from the old girl. |
+| 55 | A Sarcastic AI Companion | Allies | your AI cracks a system, runs the numbers, or watches your back. |
+| 56 | A Loyal Repair Drone | Allies | your drone fixes, fetches, or scouts a tight spot. |
+| 57 | A Trained Alien Pet | Allies | your pet sniffs out danger or does what no human can. |
+| 58 | Fixer | Allies | you tap a contact for gear, a berth, or a favor. |
+| 59 | A Corporate Sponsor | Allies | you invoke your sponsor's name, credits, or clearance. |
+| 60 | A Famous Call Sign | Allies | your name is known out here — and it opens doors. |
 
 > **Going full science fantasy?** The mystic rows here (Mystic, Seer, Spirit-Speaker, Telepath) are seeds, not the ceiling. If your world runs on space-magic, **raid the [Adventure kit's](19-adventure.md) magic Assets and reskin freely** — a Necromancer on a derelict generation ship, a Templar of the void gods, a Spellbreaker unpicking cursed precursor tech. Same triggers, new wonder.
 
@@ -279,7 +285,7 @@ In Sci-Fi you almost always *have a ship* — it's your home, your getaway, and 
 
 **The ship doesn't get its own character sheet.** No ship-Readiness, no separate track: when the ship is in danger, that's *your* danger — the heroes' Readiness and Pay the Price carry it (a hull breach is "the tech fails"; a dying drive is "you're stranded"). The ship is where the story lives, not a second hero to bookkeep.
 
-**Ship gear is *somebody's* Asset.** A med bay, a machine shop, a hidden smuggler's hold — aboard your ship, a facility like that is an Asset **owned by the hero trained on it.** The med bay gives *its surgeon* the +1; to everyone else it's a very expensive room full of machines they don't dare touch. So if you want the ship to have a med bay, someone takes it as one of their three Assets (or takes the **Medic** role — same job, the training lives in *them* instead of the room). **A Beloved Ship** on the table is the whole-vessel version: the captain or pilot whose bond is with the old girl herself.
+**Ship gear is *somebody's* Asset.** A med bay, a machine shop, a hidden smuggler's hold — aboard your ship, a facility like that is an Asset **owned by the hero trained on it.** The med bay gives *its surgeon* the +1; to everyone else it's a very expensive room full of machines they don't dare touch. The Asset table's **The Ship** category lists ready-made facilities — take one as one of your three Assets (or take the matching role, like **Medic**: same job, the training lives in *you* instead of the room). **A Beloved Ship** is the whole-vessel version: the captain or pilot whose bond is with the old girl herself.
 
 ### Sci-Fi Boon triggers (d10)
 
