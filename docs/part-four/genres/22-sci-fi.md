@@ -208,7 +208,7 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 
 ### The Sci-Fi Asset table (d100)
 
-*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds. Every Asset has a **category** — the kind of challenge where it shines: **Combat** (a fight breaks out — boarding, blaster, or bridge) · **Exploration** (the void, hostile worlds, finding the way) · **Infiltration** (systems, security, getting in and out) · **Craft & Lore** (fixing, science, and knowing) · **Social** (deals, checkpoints, first contact) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). A well-rounded hero takes their three Assets from **three different categories** — that way, whatever the Story throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Combat one-crew boarding party is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds. Every Asset has a **category** — the kind of challenge where it shines. Sci-Fi's categories are its own, because its common challenges are its own: **Combat** (a fight breaks out — deck, dirt, or dogfight) · **Piloting** (at the controls — a hard burn, a tight run, a chase) · **Machines** (the hardware — fix it, build it, rig it) · **Systems** (the software — slice it, decode it, talk it around) · **Survival** (the void and hostile worlds — staying alive out there) · **The Unknown** (the truly alien — understand it before its rules bite) · **Infiltration** (security — getting in, past, and out) · **Social** (deals, checkpoints, crews, and corps) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). A well-rounded hero takes their three Assets from **three different categories** — whatever the Story throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Systems ghost who's never touched a blaster is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
 | d100 | Asset | Category | You add +1 when… |
 |---|---|---|---|
@@ -218,38 +218,38 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 | 7–8 | Brawler | Combat | you fight hand-to-hand — fists, grapples, whatever's not bolted down. |
 | 9–10 | Gunner | Combat | you man a ship's weapons in a dogfight. |
 | 11–12 | Mech Pilot | Combat | you fight in a walker or battle-mech. |
-| 13–14 | Tactician | Combat | you plan a fight or call the winning move. |
-| 15–16 | Starship Captain | Combat | you command your crew and hold a tense bridge. |
-| 17–18 | Ace Pilot | Exploration | you fly or dodge through a tight, dangerous run. |
-| 19–20 | Navigator | Exploration | you plot a course, a jump, or a way through. |
-| 21–22 | Spacewalker | Exploration | you work in EVA, zero-G, or open vacuum. |
-| 23–24 | Scout | Exploration | you range ahead into the unknown and unmapped. |
-| 25–26 | Survivalist | Exploration | you survive a hostile world — heat, cold, toxic air. |
-| 27–28 | Salvager | Exploration | you strip a wreck or hulk for what's worth taking. |
-| 29–30 | Bounty Hunter | Exploration | you track and bring in a mark across worlds. |
-| 31–32 | Wheelman | Exploration | you drive a ground rig — rover, bike, or hauler — through hard going or a chase. |
-| 33–34 | Beast-Wrangler | Exploration | you calm, wrangle, or ride an alien creature. |
-| 35–36 | Synthetic | Exploration | you push past a human limit: no fear, fatigue, or breath. |
-| 37–38 | Hacker | Infiltration | you slice a system, door, or network. |
-| 39–40 | Sensor Operator | Infiltration | you scan, sweep, or spot what's out there. |
-| 41–42 | Drone Pilot | Infiltration | you send a drone where you can't go yourself. |
-| 43–44 | Saboteur | Infiltration | you wreck an enemy's systems, ship, or gear from within. |
-| 45–46 | Corporate Spy | Infiltration | you steal secrets, IDs, or data from inside. |
-| 47–48 | Smuggler | Infiltration | you hide cargo or slip past customs and patrols. |
-| 49–50 | Demolitionist | Infiltration | you breach, blast, or rig a charge. |
-| 51–52 | Station Rat | Infiltration | you work the underlevels — service ducts, back corridors, where to hide, who to ask. |
-| 53–54 | Escape Artist | Infiltration | you slip restraints, a cell, or a locked-down deck. |
-| 55–56 | Engineer | Craft & Lore | you keep the reactor, drives, or life-support alive. |
-| 57–58 | Mechanic | Craft & Lore | you fix or jury-rig a broken machine. |
-| 59–60 | Roboticist | Craft & Lore | you build, repair, or reprogram a drone or bot. |
-| 61–62 | Cyberneticist | Craft & Lore | you work with implants, prosthetics, or wetware. |
-| 63–64 | Comms Specialist | Craft & Lore | you read, jam, or work a signal or channel. |
-| 65–66 | Xenobiologist | Craft & Lore | you study strange life — how it lives and kills. |
-| 67–68 | Physicist | Craft & Lore | you face an anomaly, radiation, or exotic phenomenon. |
-| 69–70 | Xeno-Archaeologist | Craft & Lore | you examine precursor ruins, artifacts, or dead tech. |
-| 71–72 | Linguist | Craft & Lore | you read or speak an alien tongue or code. |
-| 73–74 | Archivist | Craft & Lore | you pull the answer from records, databases, or the ship's archives. |
-| 75–76 | Medic | Craft & Lore | you treat a wound — human or otherwise — far from any hospital. |
+| 13–14 | Starship Captain | Combat | you command — a tense bridge, a boarding action, or the winning call. |
+| 15–16 | Ace Pilot | Piloting | you fly or dodge through a tight, dangerous run. |
+| 17–18 | Navigator | Piloting | you plot a course, a jump, or a way through. |
+| 19–20 | Wheelman | Piloting | you drive a ground rig — rover, bike, or hauler — through hard going or a chase. |
+| 21–22 | Drone Pilot | Piloting | you send a drone where you can't go yourself. |
+| 23–24 | Engineer | Machines | you keep the reactor, drives, or life-support alive. |
+| 25–26 | Mechanic | Machines | you fix or jury-rig a broken machine. |
+| 27–28 | Roboticist | Machines | you build, repair, or reprogram a drone or bot. |
+| 29–30 | Cyberneticist | Machines | you work with implants, prosthetics, or wetware. |
+| 31–32 | Salvager | Machines | you strip a wreck or hulk for what's worth taking. |
+| 33–34 | Hacker | Systems | you slice a system, door, or network. |
+| 35–36 | Codebreaker | Systems | you crack a cipher, decode a signal, or dig the answer from the data. |
+| 37–38 | Comms Specialist | Systems | you read, jam, or work a signal or channel. |
+| 39–40 | Sensor Operator | Systems | you scan, sweep, or spot what's out there. |
+| 41–42 | AI-Whisperer | Systems | you coax, bargain with, or out-logic a machine mind. |
+| 43–44 | Spacewalker | Survival | you work in EVA, zero-G, or open vacuum. |
+| 45–46 | Survivalist | Survival | you survive a hostile world — heat, cold, toxic air. |
+| 47–48 | Scout | Survival | you range ahead into the unknown and unmapped. |
+| 49–50 | Medic | Survival | you treat a wound — human or otherwise — far from any hospital. |
+| 51–52 | Beast-Wrangler | Survival | you calm, wrangle, or ride an alien creature. |
+| 53–54 | Synthetic | Survival | you push past a human limit: no fear, fatigue, or breath. |
+| 55–56 | Bounty Hunter | Survival | you track and bring in a mark across worlds. |
+| 57–58 | Xenobiologist | The Unknown | you study strange life — how it lives and kills. |
+| 59–60 | Physicist | The Unknown | you face an anomaly, radiation, or exotic phenomenon. |
+| 61–62 | Xeno-Archaeologist | The Unknown | you examine precursor ruins, artifacts, or dead tech. |
+| 63–64 | Linguist | The Unknown | you read or speak an alien tongue or code. |
+| 65–66 | Corporate Spy | Infiltration | you steal secrets, IDs, or data from inside. |
+| 67–68 | Saboteur | Infiltration | you wreck an enemy's systems, ship, or gear from within. |
+| 69–70 | Smuggler | Infiltration | you hide cargo or slip past customs and patrols. |
+| 71–72 | Demolitionist | Infiltration | you breach, blast, or rig a charge. |
+| 73–74 | Station Rat | Infiltration | you work the underlevels — service ducts, back corridors, where to hide, who to ask. |
+| 75–76 | Escape Artist | Infiltration | you slip restraints, a cell, or a locked-down deck. |
 | 77–78 | Diplomat | Social | you broker a deal — first contact, a ceasefire, or terms with a corp or cartel. |
 | 79–80 | Con Artist | Social | you sell a fake ID, a sweet lie, or a bluff. |
 | 81–82 | Enforcer | Social | you lean on someone — muscle, menace, or the name behind you. |
