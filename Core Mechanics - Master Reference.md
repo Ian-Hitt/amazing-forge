@@ -354,7 +354,11 @@ a hidden hold" isn't a roll — nothing is at stake yet; "you *use* your hidden 
 something through a search*" is. A passive fact fails the same way: not "your name is known
 here" but "you *use* your fame *to convince, impress, or unnerve someone*." If a draft trigger
 describes preparation or a state of the world, find the moment it pays off under pressure —
-*that's* the trigger. Two supporting checks:
+*that's* the trigger. **And if an Asset's real home is a named move rather than the regular
+roll, the trigger names the move** (DECIDED 2026-07-15): every healing-flavored Asset is a
+**Mend** Asset and says so — *"you **Mend** by preparing a meal and sharing it"* — and a
+helper Asset says *"you **Aid an Ally** by…"*. The bold move-name tells the player which dice
+they're picking up. Two supporting checks:
 **it tells you who the hero is** ("Ace Pilot" paints a person; "a sturdy backpack" doesn't), and
 it's **pointed** — clearly *doesn't* cover everything, with obvious moments where it's useless.
 Genre Asset tables present each entry *as* its trigger (`Asset | You add +1 when…`). Assets are

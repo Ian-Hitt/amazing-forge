@@ -236,7 +236,7 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 | 22 | Spacewalker | Survival | you work in EVA, zero-G, or open vacuum. |
 | 23 | Survivalist | Survival | you survive a hostile world — heat, cold, toxic air. |
 | 24 | Scout | Survival | you range ahead into the unknown and unmapped. |
-| 25 | Medic | Survival | you treat a wound — human or otherwise — far from any hospital. |
+| 25 | Medic | Survival | you **Mend** a hurt crewmate — human or otherwise — far from any hospital. |
 | 26 | Beast-Wrangler | Survival | you calm, wrangle, or ride an alien creature. |
 | 27 | Synthetic | Survival | you push past a human limit: no fear, fatigue, or breath. |
 | 28 | Bounty Hunter | Survival | you track and bring in a mark across worlds. |
@@ -259,10 +259,10 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 | 45 | Empath | Social | you read what someone truly feels or intends. |
 | 46 | Telepath | Social | you push a thought into a mind — a whisper, a suggestion, *these aren't the droids.* |
 | 47 | Bureaucrat | Social | you work the system — permits, clearances, protocols, who really decides. |
-| 48 | The Med Bay | The Ship | you treat the crew in your med bay — real surgery, real beds, your machines. |
+| 48 | The Med Bay | The Ship | you **Mend** in your med bay — real surgery, real beds, your machines. |
 | 49 | The Machine Shop | The Ship | you fix or build it properly — your bench, your tools, your parts. |
 | 50 | The Science Lab | The Ship | you run a real analysis — samples, cultures, simulations, time to think. |
-| 51 | The Galley | The Ship | you use a meal at your table to steady, rally, or reconcile the crew. |
+| 51 | The Galley | The Ship | you **Mend** a crewmate's frayed nerve — or **Aid an Ally** heading out — with a meal at your table. |
 | 52 | Hidden Holds | The Ship | you use your hidden holds to get something — or someone — through a search. |
 | 53 | A False Transponder | The Ship | you use your false transponder to slip a patrol, a blockade, or a checkpoint. |
 | 54 | A Beloved Ship | The Ship | you push the old girl past her limits — for speed, a trick, one more miracle. |

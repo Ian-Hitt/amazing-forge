@@ -255,9 +255,9 @@ Adventure throws fights, wild country, and old mysteries at *everyone* — so bu
 | 40 | Loremaster | Craft & Lore | you recall lore — history, ruins, relics, old tongues. |
 | 41 | Diviner | Craft & Lore | you seek a hidden truth or glimpse what's to come. |
 | 42 | Spirit-Speaker | Craft & Lore | you speak with spirits or the dead — asking, not commanding. |
-| 43 | Healer | Craft & Lore | you mend a wound or cure an ailment with magic. |
-| 44 | Field Medic | Craft & Lore | you treat a wound without magic — bind, splint, stitch. |
-| 45 | Herbalist | Craft & Lore | you use plants to heal, poison, or brew a remedy. |
+| 43 | Healer | Craft & Lore | you **Mend** with magic — knit a wound, cure an ailment. |
+| 44 | Field Medic | Craft & Lore | you **Mend** without magic — bind, splint, stitch. |
+| 45 | Herbalist | Craft & Lore | you **Mend** with herbs — or brew a poison or a remedy. |
 | 46 | Alchemist | Craft & Lore | you brew or use a potion, acid, or alchemical fire. |
 | 47 | Ritualist | Craft & Lore | you take time to work a ward, rune, circle, or binding. |
 | 48 | Tinker | Craft & Lore | you build, rig, or repair a mechanism or device. |
