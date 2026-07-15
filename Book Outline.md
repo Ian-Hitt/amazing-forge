@@ -506,7 +506,7 @@
 ### Table Guides
 
 **Playing with Kids** ✅ *Written (`docs/part-five/playing-with-kids.md`, added 2026-07-14).*
-*Purpose: Tips for tuning the game for a younger table. This is an accessibility guide, NOT a re-targeting of the book — the game is not a kids' game (see positioning). Headline tip: **skip Challenges entirely** — a Challenge is a pacing tool (stretching one big moment across several rolls), not a resolution tool; kids cut scene-to-scene faster, and nothing else in the game depends on Challenges, so removing them simplifies play without losing anything. Also: play Episodes, pin the dial to playful, be generous with Assets (keep Stats objective), lean on the free Recovery Scene / heroes-can't-die safety net, keep the Devil's Bargain, skip Growth for one-shots, pass the spotlight, anyone-can-soften-a-scene, and who should Guide (10+ can self-run Co-op; younger → adult/teen Guide).*
+*Purpose: Tips for tuning the game for a younger table. This is an accessibility guide, NOT a re-targeting of the book — the game is not a kids' game (see positioning). A flat set of equal-weight tips (no single headline trick), e.g.: consider skipping Challenges (a pacing tool, not resolution — kids cut scene-to-scene faster, and nothing else depends on them); play Episodes; pin the dial to playful; be generous with Assets (keep Stats objective); lean on the free Recovery Scene / heroes-can't-die safety net; keep the Devil's Bargain; skip Growth for one-shots; pass the spotlight; anyone-can-soften-a-scene; and who should Guide (10+ can self-run Co-op; younger → adult/teen Guide). More tips of this kind can be added as playtesting surfaces them.*
 
 ---
 
