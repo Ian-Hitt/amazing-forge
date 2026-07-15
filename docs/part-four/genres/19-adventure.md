@@ -203,6 +203,9 @@ Adventure throws fights, wild country, and old mysteries at *everyone* — so bu
 - **The Rogue** — locks, shadows, and a blade from behind. *Sneaky + Quick · Assassin · Burglar · Acrobat.*
 - **The Ranger** — the party's eyes in the wild: bow, trail-sense, and a loyal beast. *Quick + Clever · Archer · Tracker · Faithful Companion.*
 - **The Bard** — charm, tall tales, and a touch of magic. *Charming + Clever · Minstrel · Enchanter · Loremaster.*
+- **The Monk** — empty hands, perfect balance, and a discipline deeper than armor. *Quick + Strong · Brawler · Acrobat · Chaplain.*
+- **The Warlock** — power on loan from something greater, and the strings that come with it. *Charming + Clever · A Powerful Patron · Battle-Mage · Enchanter.*
+- **The Artificer** — magic by way of gears, formulas, and a fireproof apron. *Clever + Quick · Tinker · Alchemist · Smith.*
 
 ### The Adventure Asset table (d100)
 
