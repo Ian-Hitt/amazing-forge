@@ -208,7 +208,7 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 
 ### The Sci-Fi Asset table (d100)
 
-*Roll **d100** for a surprise (a roll over 52 just means roll again — every entry shares the same odds), or skim and grab the ones that make you grin. Every Asset has a **category** — the kind of challenge where it shines. Sci-Fi's categories are its own, because its common challenges are its own: **Combat** (a fight breaks out — deck, dirt, or dogfight) · **Piloting** (at the controls — a hard burn, a tight run, a chase) · **Machines** (the hardware — fix it, build it, rig it) · **Systems** (the software — slice it, decode it, talk it around) · **Survival** (the void and hostile worlds — staying alive out there) · **The Unknown** (the truly alien — understand it, or touch it with your mind) · **Infiltration** (security — getting in, past, and out) · **Social** (deals, checkpoints, crews, and corps) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). A well-rounded hero takes their three Assets from **three different categories** — whatever the Story throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Systems ghost who's never touched a blaster is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise (a roll over 54 just means roll again — every entry shares the same odds), or skim and grab the ones that make you grin. Every Asset has a **category** — the kind of challenge where it shines. Sci-Fi's categories are its own, because its common challenges are its own: **Combat** (a fight breaks out — deck, dirt, or dogfight) · **Piloting** (at the controls — a hard burn, a tight run, a chase) · **Machines** (the hardware — fix it, build it, rig it) · **Systems** (the software — slice it, decode it, talk it around) · **Survival** (the void and hostile worlds — staying alive out there) · **The Unknown** (the truly alien — understand it, or touch it with your mind) · **Infiltration** (security — getting in, past, and out) · **Social** (deals, checkpoints, crews, and corps) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). A well-rounded hero takes their three Assets from **three different categories** — whatever the Story throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Systems ghost who's never touched a blaster is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
 | d100 | Asset | Category | You add +1 when… |
 |---|---|---|---|
@@ -246,24 +246,28 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 | 32 | Linguist | The Unknown | you read or speak an alien tongue or code. |
 | 33 | Mystic | The Unknown | you reach out with your mind — sense what's hidden, or move what you can't touch. |
 | 34 | Seer | The Unknown | you glimpse what's coming — a vision, a warning, a very bad feeling. |
-| 35 | Corporate Spy | Infiltration | you steal secrets, IDs, or data from inside. |
-| 36 | Saboteur | Infiltration | you wreck an enemy's systems, ship, or gear from within. |
-| 37 | Smuggler | Infiltration | you hide cargo or slip past customs and patrols. |
-| 38 | Demolitionist | Infiltration | you breach, blast, or rig a charge. |
-| 39 | Station Rat | Infiltration | you work the underlevels — service ducts, back corridors, where to hide, who to ask. |
-| 40 | Escape Artist | Infiltration | you slip restraints, a cell, or a locked-down deck. |
-| 41 | Diplomat | Social | you broker a deal — first contact, a ceasefire, or terms with a corp or cartel. |
-| 42 | Con Artist | Social | you sell a fake ID, a sweet lie, or a bluff. |
-| 43 | Enforcer | Social | you lean on someone — muscle, menace, or the name behind you. |
-| 44 | Empath | Social | you read what someone truly feels or intends. |
-| 45 | Bureaucrat | Social | you work the system — permits, clearances, protocols, who really decides. |
-| 46 | A Sarcastic AI Companion | Allies | your AI cracks a system, runs the numbers, or watches your back. |
-| 47 | A Loyal Repair Drone | Allies | your drone fixes, fetches, or scouts a tight spot. |
-| 48 | A Trained Alien Pet | Allies | your pet sniffs out danger or does what no human can. |
-| 49 | Fixer | Allies | you tap a contact for gear, a berth, or a favor. |
-| 50 | A Beloved Ship | Allies | your ship comes through — speed, an old trick, one more miracle from the old girl. |
-| 51 | A Corporate Sponsor | Allies | you invoke your sponsor's name, credits, or clearance. |
-| 52 | A Famous Call Sign | Allies | your name is known out here — and it opens doors. |
+| 35 | Spirit-Speaker | The Unknown | you commune with what lingers — a ghost, an echo, a mind without a body. |
+| 36 | Corporate Spy | Infiltration | you steal secrets, IDs, or data from inside. |
+| 37 | Saboteur | Infiltration | you wreck an enemy's systems, ship, or gear from within. |
+| 38 | Smuggler | Infiltration | you hide cargo or slip past customs and patrols. |
+| 39 | Demolitionist | Infiltration | you breach, blast, or rig a charge. |
+| 40 | Station Rat | Infiltration | you work the underlevels — service ducts, back corridors, where to hide, who to ask. |
+| 41 | Escape Artist | Infiltration | you slip restraints, a cell, or a locked-down deck. |
+| 42 | Diplomat | Social | you broker a deal — first contact, a ceasefire, or terms with a corp or cartel. |
+| 43 | Con Artist | Social | you sell a fake ID, a sweet lie, or a bluff. |
+| 44 | Enforcer | Social | you lean on someone — muscle, menace, or the name behind you. |
+| 45 | Empath | Social | you read what someone truly feels or intends. |
+| 46 | Telepath | Social | you push a thought into a mind — a whisper, a suggestion, *these aren't the droids.* |
+| 47 | Bureaucrat | Social | you work the system — permits, clearances, protocols, who really decides. |
+| 48 | A Sarcastic AI Companion | Allies | your AI cracks a system, runs the numbers, or watches your back. |
+| 49 | A Loyal Repair Drone | Allies | your drone fixes, fetches, or scouts a tight spot. |
+| 50 | A Trained Alien Pet | Allies | your pet sniffs out danger or does what no human can. |
+| 51 | Fixer | Allies | you tap a contact for gear, a berth, or a favor. |
+| 52 | A Beloved Ship | Allies | your ship comes through — speed, an old trick, one more miracle from the old girl. |
+| 53 | A Corporate Sponsor | Allies | you invoke your sponsor's name, credits, or clearance. |
+| 54 | A Famous Call Sign | Allies | your name is known out here — and it opens doors. |
+
+> **Going full science fantasy?** The mystic rows here (Mystic, Seer, Spirit-Speaker, Telepath) are seeds, not the ceiling. If your world runs on space-magic, **raid the [Adventure kit's](19-adventure.md) magic Assets and reskin freely** — a Necromancer on a derelict generation ship, a Templar of the void gods, a Spellbreaker unpicking cursed precursor tech. Same triggers, new wonder.
 
 ### Your ship
 
