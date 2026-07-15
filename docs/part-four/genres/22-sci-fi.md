@@ -123,7 +123,7 @@ Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own 
 - **Technology →** *your star question.* Pick a level and give it a *flaw* — "an AI runs everything, and it's started to lie." The crack is where the stories live.
 - **Setting →** a frontier of space, time, or invention: a station, a colony, a generation ship, a near-future city on the edge.
 - **Denizens →** make room for robots, aliens, AIs, and the engineered — and decide how they're *treated.* That choice is half your stories already.
-- **Magic →** usually "none," which keeps the focus on tech. If you want it, reskin it as science nobody understands yet.
+- **Magic →** usually "none," which keeps the focus on tech. If you want it, reskin it as science nobody understands yet — or go full science fantasy and let mystics move the world with their minds (the Force is Sci-Fi royalty; see **Mystic** and **Seer** on the Asset table).
 - **Leadership & Enforcement →** corporations, governments, AIs — someone owns the frontier, and someone pays for it. Give the power a logo.
 - **Threats →** the unknown, the malfunctioning, the corporation that owns the very air you breathe.
 - **Forbidden →** forbidden tech, a sealed sector, a question the system refuses to answer.
@@ -208,60 +208,74 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 
 ### The Sci-Fi Asset table (d100)
 
-*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds. Every Asset has a **category** — the kind of challenge where it shines. Sci-Fi's categories are its own, because its common challenges are its own: **Combat** (a fight breaks out — deck, dirt, or dogfight) · **Piloting** (at the controls — a hard burn, a tight run, a chase) · **Machines** (the hardware — fix it, build it, rig it) · **Systems** (the software — slice it, decode it, talk it around) · **Survival** (the void and hostile worlds — staying alive out there) · **The Unknown** (the truly alien — understand it before its rules bite) · **Infiltration** (security — getting in, past, and out) · **Social** (deals, checkpoints, crews, and corps) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). A well-rounded hero takes their three Assets from **three different categories** — whatever the Story throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Systems ghost who's never touched a blaster is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise (a roll over 52 just means roll again — every entry shares the same odds), or skim and grab the ones that make you grin. Every Asset has a **category** — the kind of challenge where it shines. Sci-Fi's categories are its own, because its common challenges are its own: **Combat** (a fight breaks out — deck, dirt, or dogfight) · **Piloting** (at the controls — a hard burn, a tight run, a chase) · **Machines** (the hardware — fix it, build it, rig it) · **Systems** (the software — slice it, decode it, talk it around) · **Survival** (the void and hostile worlds — staying alive out there) · **The Unknown** (the truly alien — understand it, or touch it with your mind) · **Infiltration** (security — getting in, past, and out) · **Social** (deals, checkpoints, crews, and corps) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). A well-rounded hero takes their three Assets from **three different categories** — whatever the Story throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Systems ghost who's never touched a blaster is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
 | d100 | Asset | Category | You add +1 when… |
 |---|---|---|---|
-| 1–2 | Marine | Combat | you fight with a blaster and armor on the ground. |
-| 3–4 | Gunslinger | Combat | you draw fast in a standoff. |
-| 5–6 | Blademaster | Combat | you fight close with a blade — vibro, mono-edge, or plain steel. |
-| 7–8 | Brawler | Combat | you fight hand-to-hand — fists, grapples, whatever's not bolted down. |
-| 9–10 | Gunner | Combat | you man a ship's weapons in a dogfight. |
-| 11–12 | Mech Pilot | Combat | you fight in a walker or battle-mech. |
-| 13–14 | Starship Captain | Combat | you command — a tense bridge, a boarding action, or the winning call. |
-| 15–16 | Ace Pilot | Piloting | you fly or dodge through a tight, dangerous run. |
-| 17–18 | Navigator | Piloting | you plot a course, a jump, or a way through. |
-| 19–20 | Wheelman | Piloting | you drive a ground rig — rover, bike, or hauler — through hard going or a chase. |
-| 21–22 | Drone Pilot | Piloting | you send a drone where you can't go yourself. |
-| 23–24 | Engineer | Machines | you keep the reactor, drives, or life-support alive. |
-| 25–26 | Mechanic | Machines | you fix or jury-rig a broken machine. |
-| 27–28 | Roboticist | Machines | you build, repair, or reprogram a drone or bot. |
-| 29–30 | Cyberneticist | Machines | you work with implants, prosthetics, or wetware. |
-| 31–32 | Salvager | Machines | you strip a wreck or hulk for what's worth taking. |
-| 33–34 | Hacker | Systems | you slice a system, door, or network. |
-| 35–36 | Codebreaker | Systems | you crack a cipher, decode a signal, or dig the answer from the data. |
-| 37–38 | Comms Specialist | Systems | you read, jam, or work a signal or channel. |
-| 39–40 | Sensor Operator | Systems | you scan, sweep, or spot what's out there. |
-| 41–42 | AI-Whisperer | Systems | you coax, bargain with, or out-logic a machine mind. |
-| 43–44 | Spacewalker | Survival | you work in EVA, zero-G, or open vacuum. |
-| 45–46 | Survivalist | Survival | you survive a hostile world — heat, cold, toxic air. |
-| 47–48 | Scout | Survival | you range ahead into the unknown and unmapped. |
-| 49–50 | Medic | Survival | you treat a wound — human or otherwise — far from any hospital. |
-| 51–52 | Beast-Wrangler | Survival | you calm, wrangle, or ride an alien creature. |
-| 53–54 | Synthetic | Survival | you push past a human limit: no fear, fatigue, or breath. |
-| 55–56 | Bounty Hunter | Survival | you track and bring in a mark across worlds. |
-| 57–58 | Xenobiologist | The Unknown | you study strange life — how it lives and kills. |
-| 59–60 | Physicist | The Unknown | you face an anomaly, radiation, or exotic phenomenon. |
-| 61–62 | Xeno-Archaeologist | The Unknown | you examine precursor ruins, artifacts, or dead tech. |
-| 63–64 | Linguist | The Unknown | you read or speak an alien tongue or code. |
-| 65–66 | Corporate Spy | Infiltration | you steal secrets, IDs, or data from inside. |
-| 67–68 | Saboteur | Infiltration | you wreck an enemy's systems, ship, or gear from within. |
-| 69–70 | Smuggler | Infiltration | you hide cargo or slip past customs and patrols. |
-| 71–72 | Demolitionist | Infiltration | you breach, blast, or rig a charge. |
-| 73–74 | Station Rat | Infiltration | you work the underlevels — service ducts, back corridors, where to hide, who to ask. |
-| 75–76 | Escape Artist | Infiltration | you slip restraints, a cell, or a locked-down deck. |
-| 77–78 | Diplomat | Social | you broker a deal — first contact, a ceasefire, or terms with a corp or cartel. |
-| 79–80 | Con Artist | Social | you sell a fake ID, a sweet lie, or a bluff. |
-| 81–82 | Enforcer | Social | you lean on someone — muscle, menace, or the name behind you. |
-| 83–84 | Empath | Social | you read what someone truly feels or intends. |
-| 85–86 | Bureaucrat | Social | you work the system — permits, clearances, protocols, who really decides. |
-| 87–88 | A Sarcastic AI Companion | Allies | your AI cracks a system, runs the numbers, or watches your back. |
-| 89–90 | A Loyal Repair Drone | Allies | your drone fixes, fetches, or scouts a tight spot. |
-| 91–92 | A Trained Alien Pet | Allies | your pet sniffs out danger or does what no human can. |
-| 93–94 | Fixer | Allies | you tap a contact for gear, a berth, or a favor. |
-| 95–96 | A Beloved Ship | Allies | your ship comes through — speed, an old trick, one more miracle from the old girl. |
-| 97–98 | A Corporate Sponsor | Allies | you invoke your sponsor's name, credits, or clearance. |
-| 99–100 | A Famous Call Sign | Allies | your name is known out here — and it opens doors. |
+| 1 | Marine | Combat | you fight with a blaster and armor on the ground. |
+| 2 | Gunslinger | Combat | you draw fast in a standoff. |
+| 3 | Blademaster | Combat | you fight close with a blade — vibro, mono-edge, or plain steel. |
+| 4 | Brawler | Combat | you fight hand-to-hand — fists, grapples, whatever's not bolted down. |
+| 5 | Gunner | Combat | you man a ship's weapons in a dogfight. |
+| 6 | Mech Pilot | Combat | you fight in a walker or battle-mech. |
+| 7 | Starship Captain | Combat | you command — a tense bridge, a boarding action, or the winning call. |
+| 8 | Ace Pilot | Piloting | you fly or dodge through a tight, dangerous run. |
+| 9 | Navigator | Piloting | you plot a course, a jump, or a way through. |
+| 10 | Wheelman | Piloting | you drive a ground rig — rover, bike, or hauler — through hard going or a chase. |
+| 11 | Drone Pilot | Piloting | you send a drone where you can't go yourself. |
+| 12 | Engineer | Machines | you keep the reactor, drives, or life-support alive. |
+| 13 | Mechanic | Machines | you fix or jury-rig a broken machine. |
+| 14 | Roboticist | Machines | you build, repair, or reprogram a drone or bot. |
+| 15 | Cyberneticist | Machines | you work with implants, prosthetics, or wetware. |
+| 16 | Salvager | Machines | you strip a wreck or hulk for what's worth taking. |
+| 17 | Hacker | Systems | you slice a system, door, or network. |
+| 18 | Codebreaker | Systems | you crack a cipher, decode a signal, or dig the answer from the data. |
+| 19 | Comms Specialist | Systems | you read, jam, or work a signal or channel. |
+| 20 | Sensor Operator | Systems | you scan, sweep, or spot what's out there. |
+| 21 | AI-Whisperer | Systems | you coax, bargain with, or out-logic a machine mind. |
+| 22 | Spacewalker | Survival | you work in EVA, zero-G, or open vacuum. |
+| 23 | Survivalist | Survival | you survive a hostile world — heat, cold, toxic air. |
+| 24 | Scout | Survival | you range ahead into the unknown and unmapped. |
+| 25 | Medic | Survival | you treat a wound — human or otherwise — far from any hospital. |
+| 26 | Beast-Wrangler | Survival | you calm, wrangle, or ride an alien creature. |
+| 27 | Synthetic | Survival | you push past a human limit: no fear, fatigue, or breath. |
+| 28 | Bounty Hunter | Survival | you track and bring in a mark across worlds. |
+| 29 | Xenobiologist | The Unknown | you study strange life — how it lives and kills. |
+| 30 | Physicist | The Unknown | you face an anomaly, radiation, or exotic phenomenon. |
+| 31 | Xeno-Archaeologist | The Unknown | you examine precursor ruins, artifacts, or dead tech. |
+| 32 | Linguist | The Unknown | you read or speak an alien tongue or code. |
+| 33 | Mystic | The Unknown | you reach out with your mind — sense what's hidden, or move what you can't touch. |
+| 34 | Seer | The Unknown | you glimpse what's coming — a vision, a warning, a very bad feeling. |
+| 35 | Corporate Spy | Infiltration | you steal secrets, IDs, or data from inside. |
+| 36 | Saboteur | Infiltration | you wreck an enemy's systems, ship, or gear from within. |
+| 37 | Smuggler | Infiltration | you hide cargo or slip past customs and patrols. |
+| 38 | Demolitionist | Infiltration | you breach, blast, or rig a charge. |
+| 39 | Station Rat | Infiltration | you work the underlevels — service ducts, back corridors, where to hide, who to ask. |
+| 40 | Escape Artist | Infiltration | you slip restraints, a cell, or a locked-down deck. |
+| 41 | Diplomat | Social | you broker a deal — first contact, a ceasefire, or terms with a corp or cartel. |
+| 42 | Con Artist | Social | you sell a fake ID, a sweet lie, or a bluff. |
+| 43 | Enforcer | Social | you lean on someone — muscle, menace, or the name behind you. |
+| 44 | Empath | Social | you read what someone truly feels or intends. |
+| 45 | Bureaucrat | Social | you work the system — permits, clearances, protocols, who really decides. |
+| 46 | A Sarcastic AI Companion | Allies | your AI cracks a system, runs the numbers, or watches your back. |
+| 47 | A Loyal Repair Drone | Allies | your drone fixes, fetches, or scouts a tight spot. |
+| 48 | A Trained Alien Pet | Allies | your pet sniffs out danger or does what no human can. |
+| 49 | Fixer | Allies | you tap a contact for gear, a berth, or a favor. |
+| 50 | A Beloved Ship | Allies | your ship comes through — speed, an old trick, one more miracle from the old girl. |
+| 51 | A Corporate Sponsor | Allies | you invoke your sponsor's name, credits, or clearance. |
+| 52 | A Famous Call Sign | Allies | your name is known out here — and it opens doors. |
+
+### Your ship
+
+In Sci-Fi you almost always *have a ship* — it's your home, your getaway, and where half your scenes will happen. Once the world and the heroes exist, take five more minutes **together** and give the ship the same care:
+
+- **Name it.** A crew says "the *Marrow*," never "the ship."
+- **Give it one marvel and one flaw.** The fastest burn in the sector, but the heat never runs above freezing. The flaw isn't a penalty — it's a story generator.
+- **Walk the decks once.** Whose bunk is buried in spare parts? Who sleeps next to the med bay? Where does everyone eat?
+
+**The ship doesn't get its own character sheet.** No ship-Readiness, no separate track: when the ship is in danger, that's *your* danger — the heroes' Readiness and Pay the Price carry it (a hull breach is "the tech fails"; a dying drive is "you're stranded"). The ship is where the story lives, not a second hero to bookkeep.
+
+**Ship gear is *somebody's* Asset.** A med bay, a machine shop, a hidden smuggler's hold — aboard your ship, a facility like that is an Asset **owned by the hero trained on it.** The med bay gives *its surgeon* the +1; to everyone else it's a very expensive room full of machines they don't dare touch. So if you want the ship to have a med bay, someone takes it as one of their three Assets (or takes the **Medic** role — same job, the training lives in *them* instead of the room). **A Beloved Ship** on the table is the whole-vessel version: the captain or pilot whose bond is with the old girl herself.
 
 ### Sci-Fi Boon triggers (d10)
 
