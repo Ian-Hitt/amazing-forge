@@ -79,7 +79,7 @@ Each kit is a **launchpad, not a finished world.** It hands you the *kind* of st
 
 ## Bringing It to the Table
 
-Choosing a genre is a **group decision**, just like everything in Worldbuilding. Name the genre, set the dial, and — if it helps — pick a movie or show everyone knows as your shared reference. Then build your world through that lens. You'll find the ten questions almost answer themselves once everyone's picturing the same kind of story.
+Choosing a genre is a **group decision**, and it happens the moment your table sits down — *before* the worldbuilding, alongside choosing Guided or Co-op. Name the genre, set the dial, and — if it helps — pick a movie or show everyone knows as your shared reference. Then build your world through that lens. You'll find the ten questions almost answer themselves once everyone's picturing the same kind of story.
 
 And nothing is locked forever. A game can start as a playful adventure and grow more serious as the stakes rise; a mystery can crack open into sci-fi. The genre is your starting tone, not a contract. Pick the feeling you want *tonight*, open its kit, and let the story carry you from there.
 

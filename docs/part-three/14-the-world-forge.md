@@ -19,9 +19,9 @@ A few rules that apply to all ten:
 - **It's fine to leave a question loose.** If nobody has a strong idea, say "we'll find out" and move on. You'll discover the answer the first time it matters in play.
 - **Earlier answers constrain later ones.** Once you've said "no magic at all," the Magic question is settled and the Technology question gets more interesting. Lean into that.
 
-### 1. The Genre — What's the mood of our story?
+### 1. The Flavor — What kind of story is this?
 
-This is the most important question, because it colors all nine that follow. The Genre isn't really "what happens" — it's **how it feels**: thrilling, eerie, tense, warm, funny, melancholy.
+Two decisions actually come *before* the questions, the moment the table sits down: the **genre** and the **tonal dial.** They're decisions about the game you're playing — what kind of movie this is — not facts about the world, which is why they belong to the table talk before worldbuilding rather than to the world itself. If your table hasn't settled them yet, do it now. The Genre isn't really "what happens" — it's **how it feels**: thrilling, eerie, tense, warm, funny, melancholy — and it colors every question that follows.
 
 *Lights, Camera, Action!* officially supports **seven genres** — **pick one as your anchor:**
 
@@ -37,7 +37,9 @@ This is the most important question, because it colors all nine that follow. The
 
 Then set the **tonal dial:** every genre runs from **playful** (light and a little silly — *Scooby-Doo* spooky) to **serious** (tense, where a loss really lands — *Stranger Things* spooky). Say where you're aiming out loud: *"spooky, but the fun kind, not the nightmares kind."*
 
-- **A good answer** picks a genre and a point on the dial. You can also **blend two** (sci-fi *and* horror) or invent your own feel — the game is genre-agnostic, and the genres are just optional toolkits, not a cage. **Part Four has a full Genre Kit for each one**, with character ideas and a genre-pointed take on these very questions.
+**Question one, then, sharpens what you picked into a flavor:** which *kind* of Adventure — a treasure-hunt expedition or a war story? Which *kind* of Horror — a haunted house or a slow cosmic dread? Name it in a phrase, and the nine questions that follow get much easier.
+
+- **A good answer** names a flavor in one phrase. You can also **blend two genres** (sci-fi *and* horror) or invent your own feel — the game is genre-agnostic, and the genres are just optional toolkits, not a cage. **Part Four has a full Genre Kit for each one** — its **Flavors** list is a menu of exactly this question, alongside character ideas and a genre-pointed take on all ten.
 - **Avoid** picking a *setting* here by mistake ("space," "pirates") — that's Question 2. The Genre is the emotional register the setting will be played in. The same pirate ship can host a giddy Adventure or a tense Horror.
 - **How it shapes the rest:** the Genre decides how hard the world bites. Two tables can share every other answer and play completely differently, because the Genre — and the dial — tell you what **Pay the Price** feels like: a cold trail and a slipped secret, or a real and frightening loss (Chapter 9).
 

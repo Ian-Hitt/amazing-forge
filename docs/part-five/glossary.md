@@ -66,8 +66,9 @@ heal fully, for free (it's handled as a Recovery Scene).
 **Frame move.** A move that shifts the fiction in the moment with no track. When it rolls, the dice
 suggest a direction rather than judge a hero, so it can't be "failed."
 
-**Genre.** The mood of your story, set in Worldbuilding. One of seven: Adventure, Mystery, Horror,
-Sci-Fi, Caper, Drama, Post-Apocalypse.
+**Genre.** The mood of your story, agreed when the table sits down — before Worldbuilding, alongside
+choosing Guided or Co-op. One of seven: Adventure, Mystery, Horror, Sci-Fi, Caper, Drama,
+Post-Apocalypse.
 
 **Genre Kit.** A per-genre toolkit — the feel, worldbuilding prompts, archetypes, and a d100 Asset
 table — one for each of the seven genres.

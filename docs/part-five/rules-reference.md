@@ -34,11 +34,15 @@ If you're playing Guided, pick who takes the Guide's chair now. Everyone else bu
 
 Next, decide the scope: are you playing **one Story** — complete on its own — or a **collection** of Stories chained into a longer saga? A run of linked Stories is a **Season;** a run of Seasons is a **Series.** You don't have to commit now — start with a single Story and let a bigger arc emerge if it wants to. *(How a single Story is sized comes up when you build it, under [Story Arcs & Milestones](#story-arcs-milestones), below.)*
 
+## Pick Your Genre
+
+Last, agree on the **kind of story** you're telling — Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, Post-Apocalypse, or a blend — and the **tone:** playful, serious, or in between. This is a decision about the game, not a fact about the world: it colors everything the table builds next, so settle it before the worldbuilding starts.
+
 ## Build Your World
 
 Before making heroes, build the world together — answer these ten questions out loud as a group, one sentence each. If you're stuck trying to answer any of these specific questions, you can skip it and fill it in later.
 
-1. **Genre** — What's the mood? (Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, or Post-Apocalypse — and how playful or serious.)
+1. **Flavor** — What *kind* of your genre is this? (A treasure-hunt Adventure or a war story? A haunted house or a cosmic dread? One phrase.)
 2. **Setting** — Where and when? One vivid image with a twist.
 3. **Denizens** — What kind of people or beings live here?
 4. **Magic** — How does it work, if at all? How common, at what cost?

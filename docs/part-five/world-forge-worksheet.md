@@ -59,8 +59,8 @@ The ten Worldbuilding questions with room to write. Fill it in at the table duri
   <p class="af-sub">Worldbuilding Worksheet</p>
 
   <div class="af-q">
-    <div class="af-qhead"><span class="af-qnum">1.</span><span><span class="af-qname">The Genre</span> &mdash; <span class="af-qask">What's the mood of our story?</span></span></div>
-    <p class="af-hint">A feeling, not a setting. "Spooky &mdash; but the fun kind." What movie or show should this feel like?</p>
+    <div class="af-qhead"><span class="af-qnum">1.</span><span><span class="af-qname">The Flavor</span> &mdash; <span class="af-qask">What kind of story is this?</span></span></div>
+    <p class="af-hint">You picked the genre at the table &mdash; now the specific kind. A treasure-hunt adventure? A haunted house? One phrase.</p>
     <div class="af-fill"></div>
   </div>
 

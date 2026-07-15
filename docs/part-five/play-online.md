@@ -11,7 +11,7 @@ One page gathers everything a campaign needs:
 - **Characters** — the full Hero Sheet for everyone at the table: Concept, two Stats, three Assets (with Boons and the Broken flag), Readiness, and the Growth Track.
 - **Story Arcs** — the Goal, the size (Episode / Movie), the **Hero Track** and **Antagonist Track** (its odd boxes where the antagonist Closes In, its last box their victory), the antagonist, and a numbered Milestone list. Checking a Milestone fills its track box automatically.
 - **Challenges** — disposable scratch clocks for fights, chases, and tense scenes. Spin one up, fill it as you roll, and delete it (or "Clear finished") once it's done.
-- **World** — the ten Worldbuilding questions (Genre, Setting, Denizens, Magic, Tech, Leadership, Enforcement, Threats, Forbidden, Reputation), one world per campaign.
+- **World** — the ten Worldbuilding questions (Flavor, Setting, Denizens, Magic, Tech, Leadership, Enforcement, Threats, Forbidden, Reputation), one world per campaign.
 - **Places** — everywhere worth a return trip: its function, the striking detail + open hook, and a Return? flag.
 - **Cast** — every NPC the heroes meet: Role, the one memorable detail, where you left them, and a ★ for the ones who matter.
 

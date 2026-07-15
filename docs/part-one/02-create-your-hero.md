@@ -6,6 +6,8 @@ Now that you've built a world, it's time to create the hero you'll play in it. T
 
 Make a hero that fits the world your group just built. If you built a floating city in the clouds, a deep-sea diver doesn't quite belong — but a sky-pirate or a runaway cloud-guard absolutely does.
 
+> **The lowest-barrier hero: pick an Archetype.** Your Genre Kit's **Archetypes** are ready-made builds — two Stats and three Assets that snap together into a hero you'll recognize the moment you read it (*The Knight, The Ranger, The Captain…*). Pick one, swap or reskin anything you like, and all that's left is Step 1's Concept and your starting Readiness. Building from scratch is just as good — that's what the rest of this chapter teaches.
+
 ### Step 1: Your Concept
 
 Your **Concept** is the big "movie poster" pitch for who your hero is. It's one short, exciting line that tells everyone at the table what makes your character cool. Build it with this simple formula:

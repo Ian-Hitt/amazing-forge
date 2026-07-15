@@ -12,6 +12,8 @@ A Story Arc has two parts: the **Goal** and the **Milestones.**
 - "Escape the sinking sky-city before it falls."
 - "Find out who's been haunting the old lighthouse."
 
+> **Nothing coming to mind? Roll for it.** Your Genre Kit has a **Story Arc seeds** table — dozens of charged situations, each one an adventure waiting to happen. Roll once, read it aloud, and shape what you get into a Goal the table's excited about.
+
 **The Milestones** are the steps along the way — each a mini-goal, a real achievement that gets the heroes closer to the finish. A first-game adventure has room for **three:** enough to feel like a real adventure, short enough to finish in a single sitting. You can name all three now, or just name the **first** and play to find out what the rest turn out to be — either works.
 
 Say your Goal is "Recover the stolen Sun Crystal." Your three Milestones might be:

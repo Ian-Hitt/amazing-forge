@@ -8,7 +8,9 @@ Our two players are **Maya** and **Leo.**
 
 ### Setting Up (about ten minutes)
 
-**Worldbuilding.** Maya and Leo run through the ten questions, but they keep it quick — they already know they want a snowy fantasy adventure, so most answers take five seconds. The highlights: a **frozen mountain kingdom** where **magic is rare and precious**, ruled by **a council of village elders**, and right now the biggest **threat** is that the village's source of warmth and light — the **Sun Crystal** — has been **stolen by goblins** living under the mountain. The **forbidden** place is the goblins' tunnels. Everything else they'll fill in as they go.
+**The table.** Sitting down, Maya and Leo settle the two table decisions fast: no Guide — they'll play **Co-op** — and their genre is **Adventure**, kept playful, with a snowy fairy-tale feel. (They could open the Adventure kit in Part Four for ready-made archetypes and story seeds, but tonight they're happy inventing.)
+
+**Worldbuilding.** They run through the ten questions, but keep it quick — the genre talk already settled the flavor, so most answers take five seconds. The highlights: a **frozen mountain kingdom** where **magic is rare and precious**, ruled by **a council of village elders**, and right now the biggest **threat** is that the village's source of warmth and light — the **Sun Crystal** — has been **stolen by goblins** living under the mountain. The **forbidden** place is the goblins' tunnels. Everything else they'll fill in as they go.
 
 > **▶ Rules note — Worldbuilding (Chapter 1).** You don't need a deep answer to every question. A few strong ideas (a stolen Crystal, goblins under the mountain) are enough to start; the rest of the world fills in during play.
 

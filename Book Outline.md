@@ -30,12 +30,15 @@
 **How to Use This Book**
 *Purpose: Explain the Part One / Part Two structure explicitly. "Part One gets you playing. Part Two is where you go for the full picture." Manages expectations and signals where to look.*
 
+**Before You Build: Two Table Decisions** *(added 2026-07-15)*
+*Purpose: The sit-down step, before any worldbuilding: (1) **Guided or Co-op**, (2) **the genre + tonal dial** — genre is a decision about the game, not a fact about the world, so it moved OUT of the ten Worldbuilding questions and into table setup. Includes the "then open your Genre Kit (Part Four)" pointer, framed as the lowest-barrier way to start (Archetypes, Story Arc seeds, Shaping-your-world prompts) — helpful, never required. Chs. 1–3 then signpost the kit at each invent-or-pick moment.*
+
 ---
 
 ### Chapter 1 — Build Your World
 
 **Worldbuilding (First Game Version)**
-*Purpose: The 10 questions, stated plainly, with one brief genre example per question. Enough to define a setting in 10 minutes. Not every question needs a deep answer — the world fills in as you play.*
+*Purpose: The 10 questions, stated plainly, with one brief genre example per question. Enough to define a setting in 10 minutes. Not every question needs a deep answer — the world fills in as you play. **Q1 is "The Flavor — what kind of story is this?"** (2026-07-15): the genre itself is picked at the sit-down step (Intro), and Q1 sharpens it into the specific kind — the kit's "Flavors" list is the menu for it. Same in Ch.14, the SRD, the worksheet, and the app.*
 
 > *Note: Part Two has the full Worldbuilding chapter with elaborated guidance, genre deep-dives, and 💡 random tables for each question.*
 
@@ -405,7 +408,7 @@
 **Starter Backdrops** — ⚠️ SUPERSEDED (2026-06-09)
 *The "pre-answered Worldbuilding" backdrop concept was reworked. A baked setting (a) drifts into prescribing a Story Arc rather than offering a setting, and (b) is boring as just-the-10-answers-filled-in. Replaced by the **Genre Kits** in **Chapter 18 — Genres** (genre-first, reusable; Part Four). The one written sample ("The Sinking Sky-City") remains in Ch.14 Part B as a single illustrative example of a fully-built world; the planned catalog of baked settings is dropped.*
 
-**Genre note:** Genre (Worldbuilding Q1) is now an officially-listed set of **seven** — **Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, Post-Apocalypse** — plus a **playful↔serious tonal dial**. Q1 in this chapter lists them, has the table pick one (blend/invent still allowed), and points to Ch.18. (No cozy drama — Drama is the *juicy* kind. "Caper" = the heist *tone*.)
+**Genre note:** Genre is an officially-listed set of **seven** — **Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, Post-Apocalypse** — plus a **playful↔serious tonal dial**. **Since 2026-07-15, genre + dial are chosen at the table's sit-down step (with Guided vs. Co-op), NOT as Worldbuilding Q1** — genre is a decision about the game, not a fact about the world. **Q1 is now "The Flavor"** (which *kind* of your genre — the kit's "Flavors" list is the menu); this chapter's §1 keeps the seven-genre table + dial as an "if your table hasn't settled it, do it now" preamble, then teaches the Flavor question. (No cozy drama — Drama is the *juicy* kind. "Caper" = the heist *tone*.)
 
 **Collaborative vs. Guide-Prepped Worldbuilding**
 *Purpose: The default is collaborative (everyone answers together). A Guide who wants to prep a world can answer the questions solo beforehand — but the table should still ratify them. How to handle conflicts between prep and player expectations.*

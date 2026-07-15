@@ -6,10 +6,12 @@ Here's the good news: you can build a whole world in about fifteen minutes by an
 
 **How to do it:** read each question aloud and talk it over. Someone tosses out an idea, others build on it, and you keep whatever the table likes. Some questions will spark a big conversation; others you'll answer in five seconds or skip entirely. Both are fine. Jot down anything you want to remember.
 
+> *Got your Genre Kit open (Introduction)? Its **Shaping your world** section asks these same questions through your genre's lens — build from those prompts if you like.*
+
 ### The Ten Questions
 
-**1. The Genre — What's the mood of our story?**
-Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, or Post-Apocalypse? Pick the feeling you want — and how playful or serious it should be. *(Example: "Spooky, but the fun kind of spooky.")* *(Part Four has a full kit for each genre.)*
+**1. The Flavor — What kind of story is this?**
+You picked your genre when you sat down (Introduction) — now sharpen it into the specific *kind* of that story. A treasure-hunt Adventure or a monster hunt? A haunted house or a town with a secret? *(Example: "A ghost mystery in our own home town.")* *(Your Genre Kit's **Flavors** list is a menu of exactly this.)*
 
 **2. The Setting — Where and when does it happen?**
 A medieval kingdom, deep space, an underwater city, the present day with a strange twist? *(Example: "A floating city above the clouds.")*

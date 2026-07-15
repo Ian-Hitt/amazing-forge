@@ -66,4 +66,14 @@ Throughout Part One you'll see notes like this:
 
 That's your signpost — it points you to the fuller version waiting in a later part. It means "this is all you need for now — there's more when you want it." Ignore those notes on your first read. Follow them later.
 
+### Before You Build: Two Table Decisions
+
+The moment your group sits down — before any worldbuilding — settle two things. Together they take about a minute:
+
+**Guided or Co-op?** One of you can play the **Guide** — running the world and its dangers while everyone else plays a hero — or nobody does, and you steer the story together (**Co-op**). Both work with everything in this book, and Part One teaches both as it goes. Pick whichever sounds more fun tonight.
+
+**What's our genre?** Decide what kind of movie you're making: **Adventure, Mystery, Horror, Sci-Fi, Caper, Drama, or Post-Apocalypse** — and how **playful or serious** to play it. Say it out loud in one line: *"spooky, but the fun kind of spooky."* This is a decision about the *story*, not the world — the world comes next, and you'll build it to fit.
+
+> **Then open your Genre Kit (Part Four).** There's a full kit for each of the seven genres, and it's the lowest-barrier way to get a game going: ready-made hero builds called **Archetypes**, a rollable table of story ideas, and a genre-tuned take on every step ahead. You never *need* it — Part One is complete on its own — but the next three chapters will point out the moments your kit can simply *hand* you something instead of asking you to invent it.
+
 Ready? Let's build a world.
