@@ -184,9 +184,9 @@ Sci-Fi's signature competence — tech, science, hacking, repair, astrogation �
 
 Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure engineers gets boarded with no answer. Build a hero who can hold their own when it gets violent *and* bring something to the science of it.
 
-**1. How do you handle a fight?** Boarders, firefights, dogfights — have an answer, even a sideways one. *Marine · Ship's Gunner · Ace Pilot · Combat Medic · Slicer (you fight by killing their systems).*
+**1. How do you handle a fight?** Boarders, firefights, dogfights — have an answer, even a sideways one. *Marine · Gunner · Ace Pilot · Blademaster · Hacker (you fight by killing their systems).*
 
-**2. What's your tech or science lane?** The crew's competence — fixing, hacking, flying, or the science itself. *Engineer · Hacker · Astrogator · Xeno-Scientist · Field Doctor.*
+**2. What's your tech or science lane?** The crew's competence — fixing, hacking, flying, or the science itself. *Engineer · Mechanic · Navigator · Xenobiologist · Medic.*
 
 **3. What's the one thing you're never without?** Your signature gear, droid, or contact — loaded with story. *A Salvaged Combat Droid · Your Old Service Sidearm · A Smuggler Who Owes You.*
 
@@ -202,54 +202,66 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 - **The Synthetic** — a machine mind figuring out who they are. *Strong + Clever · Synthetic · Hacker · Roboticist.*
 - **The Streetwise Survivor** — grew up in the station's underbelly; knows every dodge. *Sneaky + Charming · Smuggler · Fixer · Con Artist.*
 - **The Comms Specialist** — talks to ships, systems, and the things you shouldn't. *Clever + Charming · Comms Specialist · Hacker · Linguist.*
-- **The Medic** — patches people and aliens alike, far from any hospital. *Clever + Charming · Ship's Medic · Field Surgeon · Xeno-Medic.*
+- **The Medic** — patches people and aliens alike, far from any hospital. *Clever + Charming · Medic · Xenobiologist · Empath.*
+- **The Captain** — holds the crew together and never loses the bridge. *Charming + Clever · Starship Captain · Diplomat · A Beloved Ship.*
+- **The Bounty Hunter** — patient, relentless, and already knows where you're going. *Quick + Sneaky · Bounty Hunter · Gunslinger · A Famous Call Sign.*
 
 ### The Sci-Fi Asset table (d100)
 
-*Roll **d100** for a surprise (over 80, roll again), or skim and grab the ones that make you grin. Every entry shares the same odds. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds. Every Asset has a **category** — the kind of challenge where it shines: **Combat** (a fight breaks out — boarding, blaster, or bridge) · **Exploration** (the void, hostile worlds, finding the way) · **Infiltration** (systems, security, getting in and out) · **Craft & Lore** (fixing, science, and knowing) · **Social** (deals, checkpoints, first contact) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). A well-rounded hero takes their three Assets from **three different categories** — that way, whatever the Story throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Combat one-crew boarding party is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
-| d100 | Asset | You add +1 when… |
-|---|---|---|
-| 1–2 | Ace Pilot | you fly or dodge through a tight, dangerous run. |
-| 3–4 | Navigator | you plot a course, a jump, or a way through. |
-| 5–6 | Gunner | you man a ship's weapons in a dogfight. |
-| 7–8 | Starship Captain | you command your crew and hold a tense bridge. |
-| 9–10 | Spacewalker | you work in EVA, zero-G, or open vacuum. |
-| 11–12 | Sensor Operator | you scan, sweep, or spot what's out there. |
-| 13–14 | Engineer | you keep the reactor, drives, or life-support alive. |
-| 15–16 | Mechanic | you fix or jury-rig a broken machine. |
-| 17–18 | Hacker | you slice a system, door, or network. |
-| 19–20 | Roboticist | you build, repair, or reprogram a drone or bot. |
-| 21–22 | Cyberneticist | you work with implants, prosthetics, or wetware. |
-| 23–24 | Drone Pilot | you send a drone where you can't go yourself. |
-| 25–26 | Comms Specialist | you read, jam, or work a signal or channel. |
-| 27–28 | Demolitionist | you breach, blast, or rig a charge. |
-| 29–30 | Xenobiologist | you study strange life — how it lives and kills. |
-| 31–32 | Physicist | you face an anomaly, radiation, or exotic phenomenon. |
-| 33–34 | Xeno-Archaeologist | you examine precursor ruins, artifacts, or dead tech. |
-| 35–36 | Linguist | you read or speak an alien tongue or code. |
-| 37–38 | Salvager | you strip a wreck or hulk for what's worth taking. |
-| 39–40 | Ship's Medic | you treat the wounded far from a hospital. |
-| 41–42 | Field Surgeon | you handle a grievous wound with what's on hand. |
-| 43–44 | Xeno-Medic | you treat non-human or hybrid biology. |
-| 45–46 | Marine | you fight with a blaster and armor on the ground. |
-| 47–48 | Gunslinger | you draw fast in a standoff. |
-| 49–50 | Mech Pilot | you fight in a walker or battle-mech. |
-| 51–52 | Tactician | you plan a fight or call the winning move. |
-| 53–54 | Survivalist | you survive a hostile world — heat, cold, toxic air. |
-| 55–56 | Saboteur | you wreck an enemy's systems, ship, or gear from within. |
-| 57–58 | Diplomat | you broker peace or make first contact. |
-| 59–60 | Negotiator | you cut a deal with a corp, cartel, or warlord. |
-| 61–62 | Con Artist | you sell a fake ID, a sweet lie, or a bluff. |
-| 63–64 | Fixer | you tap a contact for gear, a berth, or a favor. |
-| 65–66 | Smuggler | you hide cargo or slip past customs and patrols. |
-| 67–68 | Corporate Spy | you steal secrets, IDs, or data from inside. |
-| 69–70 | Scout | you range ahead into the unknown and unmapped. |
-| 71–72 | Bounty Hunter | you track and bring in a mark across worlds. |
-| 73–74 | Synthetic | you push past a human limit: no fear, fatigue, or breath. |
-| 75–76 | A Sarcastic AI Companion | your AI cracks a system, runs the numbers, or watches your back. |
-| 77–78 | A Loyal Repair Drone | your drone fixes, fetches, or scouts a tight spot. |
-| 79–80 | A Trained Alien Pet | your pet sniffs out danger or does what no human can. |
+| d100 | Asset | Category | You add +1 when… |
+|---|---|---|---|
+| 1–2 | Marine | Combat | you fight with a blaster and armor on the ground. |
+| 3–4 | Gunslinger | Combat | you draw fast in a standoff. |
+| 5–6 | Blademaster | Combat | you fight close with a blade — vibro, mono-edge, or plain steel. |
+| 7–8 | Brawler | Combat | you fight hand-to-hand — fists, grapples, whatever's not bolted down. |
+| 9–10 | Gunner | Combat | you man a ship's weapons in a dogfight. |
+| 11–12 | Mech Pilot | Combat | you fight in a walker or battle-mech. |
+| 13–14 | Tactician | Combat | you plan a fight or call the winning move. |
+| 15–16 | Starship Captain | Combat | you command your crew and hold a tense bridge. |
+| 17–18 | Ace Pilot | Exploration | you fly or dodge through a tight, dangerous run. |
+| 19–20 | Navigator | Exploration | you plot a course, a jump, or a way through. |
+| 21–22 | Spacewalker | Exploration | you work in EVA, zero-G, or open vacuum. |
+| 23–24 | Scout | Exploration | you range ahead into the unknown and unmapped. |
+| 25–26 | Survivalist | Exploration | you survive a hostile world — heat, cold, toxic air. |
+| 27–28 | Salvager | Exploration | you strip a wreck or hulk for what's worth taking. |
+| 29–30 | Bounty Hunter | Exploration | you track and bring in a mark across worlds. |
+| 31–32 | Wheelman | Exploration | you drive a ground rig — rover, bike, or hauler — through hard going or a chase. |
+| 33–34 | Beast-Wrangler | Exploration | you calm, wrangle, or ride an alien creature. |
+| 35–36 | Synthetic | Exploration | you push past a human limit: no fear, fatigue, or breath. |
+| 37–38 | Hacker | Infiltration | you slice a system, door, or network. |
+| 39–40 | Sensor Operator | Infiltration | you scan, sweep, or spot what's out there. |
+| 41–42 | Drone Pilot | Infiltration | you send a drone where you can't go yourself. |
+| 43–44 | Saboteur | Infiltration | you wreck an enemy's systems, ship, or gear from within. |
+| 45–46 | Corporate Spy | Infiltration | you steal secrets, IDs, or data from inside. |
+| 47–48 | Smuggler | Infiltration | you hide cargo or slip past customs and patrols. |
+| 49–50 | Demolitionist | Infiltration | you breach, blast, or rig a charge. |
+| 51–52 | Station Rat | Infiltration | you work the underlevels — service ducts, back corridors, where to hide, who to ask. |
+| 53–54 | Escape Artist | Infiltration | you slip restraints, a cell, or a locked-down deck. |
+| 55–56 | Engineer | Craft & Lore | you keep the reactor, drives, or life-support alive. |
+| 57–58 | Mechanic | Craft & Lore | you fix or jury-rig a broken machine. |
+| 59–60 | Roboticist | Craft & Lore | you build, repair, or reprogram a drone or bot. |
+| 61–62 | Cyberneticist | Craft & Lore | you work with implants, prosthetics, or wetware. |
+| 63–64 | Comms Specialist | Craft & Lore | you read, jam, or work a signal or channel. |
+| 65–66 | Xenobiologist | Craft & Lore | you study strange life — how it lives and kills. |
+| 67–68 | Physicist | Craft & Lore | you face an anomaly, radiation, or exotic phenomenon. |
+| 69–70 | Xeno-Archaeologist | Craft & Lore | you examine precursor ruins, artifacts, or dead tech. |
+| 71–72 | Linguist | Craft & Lore | you read or speak an alien tongue or code. |
+| 73–74 | Archivist | Craft & Lore | you pull the answer from records, databases, or the ship's archives. |
+| 75–76 | Medic | Craft & Lore | you treat a wound — human or otherwise — far from any hospital. |
+| 77–78 | Diplomat | Social | you broker a deal — first contact, a ceasefire, or terms with a corp or cartel. |
+| 79–80 | Con Artist | Social | you sell a fake ID, a sweet lie, or a bluff. |
+| 81–82 | Enforcer | Social | you lean on someone — muscle, menace, or the name behind you. |
+| 83–84 | Empath | Social | you read what someone truly feels or intends. |
+| 85–86 | Bureaucrat | Social | you work the system — permits, clearances, protocols, who really decides. |
+| 87–88 | A Sarcastic AI Companion | Allies | your AI cracks a system, runs the numbers, or watches your back. |
+| 89–90 | A Loyal Repair Drone | Allies | your drone fixes, fetches, or scouts a tight spot. |
+| 91–92 | A Trained Alien Pet | Allies | your pet sniffs out danger or does what no human can. |
+| 93–94 | Fixer | Allies | you tap a contact for gear, a berth, or a favor. |
+| 95–96 | A Beloved Ship | Allies | your ship comes through — speed, an old trick, one more miracle from the old girl. |
+| 97–98 | A Corporate Sponsor | Allies | you invoke your sponsor's name, credits, or clearance. |
+| 99–100 | A Famous Call Sign | Allies | your name is known out here — and it opens doors. |
 
 ### Sci-Fi Boon triggers (d10)
 
