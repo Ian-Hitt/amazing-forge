@@ -13,6 +13,7 @@ Inside this Part:
 - **Cast Sheet** and **Places Sheet** — running logs for the people and places you create as you play, so a memorable NPC or location can come back later.
 - **The Story Engine**, **Three-Act Structure**, and **The Beat Sheet** — optional story-craft tools for shaping a satisfying arc when you want one.
 - **Teaching the Game** — how to get a new table playing fast.
+- **Playing with Kids** — how to tune the game for a younger table.
 - **Design Notes** — the *why* behind the rules, for players and designers who want to look under the hood.
 
 > **Printing the sheets.** The Cheatsheet and the blank sheets are built to print one page at a time. Open any of them in the web edition at [ian-hitt.github.io/amazing-forge](https://ian-hitt.github.io/amazing-forge/) and use your browser's **Print** (or Save as PDF) — the site hides its menus automatically, so you get just the sheet.
