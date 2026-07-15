@@ -184,11 +184,11 @@ Adventure throws fights, wild country, and old mysteries at *everyone* — so bu
 
 **1. How do you handle a fight?** Every Adventure hero needs an answer — but it doesn't have to be a sword. Pick a combat role, even a sideways one. *Swordmaster · Archer · Battle-Mage · Beastmaster · Commander (you fight by directing the party) · Healer (you keep the fighters standing).*
 
-**2. What's your edge out in the world?** The thing you bring between fights — the wilds, the ruins, or the people. *Tracker · Loremaster · Diplomat · Locksmith · Survivalist.*
+**2. What's your edge out in the world?** The thing you bring between fights — the wilds, the ruins, or the people. *Tracker · Loremaster · Diplomat · Locksmith · Pathfinder.*
 
 **3. What's the one thing you're never without?** Your signature item, companion, or connection — and make it *yours*, loaded with story. *A Faithful Companion · Grandpa's Map · A Warhorse.*
 
-> **Then check the party.** Between you all, can someone face a beast, read the wilds, crack a ruin, *and* deal with people? If a whole area's missing, someone reshape an Asset to cover it.
+> **Then check the party.** Between you all, can someone face a beast, read the wilds, crack a ruin, *and* deal with people? The Asset table's categories are exactly this checklist — if a whole category has no one, someone reshape an Asset to cover it.
 
 ### Archetypes
 
@@ -202,64 +202,116 @@ Adventure throws fights, wild country, and old mysteries at *everyone* — so bu
 - **The Cleric** — faith made manifest: healing hands and holy wrath. *Charming + Clever · Healer · Templar · Loremaster.*
 - **The Rogue** — locks, shadows, and a blade from behind. *Sneaky + Quick · Assassin · Locksmith · Acrobat.*
 - **The Ranger** — the party's eyes in the wild: bow, trail-sense, and a loyal beast. *Quick + Clever · Archer · Tracker · Faithful Companion.*
-- **The Bard** — charm, tall tales, and a touch of magic. *Charming + Clever · Enchanter · Loremaster · Diplomat.*
+- **The Bard** — charm, tall tales, and a touch of magic. *Charming + Clever · Minstrel · Enchanter · Loremaster.*
 
 ### The Adventure Asset table (d100)
 
-*Roll **d100** for a surprise, or skim and grab the ones that make you grin. Every entry shares the same odds. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise (a roll over 70 just means roll again — every entry shares the same odds), or skim and grab the ones that make you grin. The table is sorted into **categories**, and the categories matter: each one names the kind of scene where those Assets shine. A well-rounded hero takes their three Assets from **three different categories** — that way, whatever the Story throws at you, one of your scenes is coming. It's a tip, not a rule: a triple-caster is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+
+**In a fight (1–15)** — *when steel is drawn.*
 
 | d100 | Asset | You add +1 when… |
 |---|---|---|
-| 1–2 | Swordmaster | you fight with a sword and shield in close combat. |
-| 3–4 | Duelist | you face a single opponent one-on-one with a light blade. |
-| 5–6 | Reaver | you swing a heavy two-handed weapon to overpower a foe. |
-| 7–8 | Spearman | you fight with a spear or polearm — reach, or holding a line. |
-| 9–10 | Archer | you shoot a bow at a target, near or far. |
-| 11–12 | Knife-Fighter | you fight close with knives, or throw a blade. |
-| 13–14 | Brawler | you fight unarmed — fists, grapples, or improvised weapons. |
-| 15–16 | Berserker | you throw yourself into a reckless, all-out attack. |
-| 17–18 | Shield-Bearer | you guard yourself or an ally behind your shield. |
-| 19–20 | Ironclad | you stand firm in heavy armor and weather an assault. |
-| 21–22 | Slayer | you fight a monster or beast and go for its weak point. |
-| 23–24 | Cavalier | you fight, charge, or maneuver while mounted. |
-| 25–26 | Assassin | you strike a target who never sees it coming. |
-| 27–28 | Commander | you direct allies in a fight or out-maneuver a foe. |
-| 29–30 | Battle-Mage | you blast a foe with offensive magic. |
-| 31–32 | Elementalist | you shape fire, ice, wind, stone, or weather. |
-| 33–34 | Healer | you mend a wound or cure an ailment with magic. |
-| 35–36 | Skinchanger | you fight, flee, or hunt in the shape of your one chosen beast. |
-| 37–38 | Necromancer | you command the dead, decay, or dark magic. |
-| 39–40 | Summoner | you call a spirit or creature to act for you. |
-| 41–42 | Enchanter | you magically charm, frighten, or cloud a mind. |
-| 43–44 | Illusionist | you conjure a false sight, sound, or face. |
-| 45–46 | Diviner | you seek a hidden truth or glimpse what's to come. |
-| 47–48 | Templar | you smite an unholy foe or ward against dark power. |
-| 49–50 | Ritualist | you take time to work a ward, rune, circle, or binding. |
-| 51–52 | Tracker | you follow a trail or read tracks and sign. |
-| 53–54 | Pathfinder | you survive, forage, or find a route through the wild. |
-| 55–56 | Navigator | you find your way by star, map, or reckoning. |
-| 57–58 | Locksmith | you open a lock, latch, or sealed door. |
-| 59–60 | Trapsmith | you find, disarm, or set a trap. |
-| 61–62 | Acrobat | you climb, tumble, balance, or make a daring leap. |
-| 63–64 | Scout | you slip ahead unseen to learn what lies in wait. |
-| 65–66 | Beastmaster | you calm, command, or work alongside an animal. |
-| 67–68 | Loremaster | you recall lore — history, ruins, relics, old tongues. |
-| 69–70 | Herbalist | you use plants to heal, poison, or brew a remedy. |
-| 71–72 | Field Medic | you treat a wound without magic — bind, splint, stitch. |
-| 73–74 | Alchemist | you brew or use a potion, acid, or alchemical fire. |
-| 75–76 | Tinker | you build, rig, or repair a mechanism or device. |
-| 77–78 | Winged | you take to the air — crossing a gap, escaping, or striking from above. |
-| 79–80 | Merchant | you appraise a thing's worth or haggle a price. |
-| 81–82 | Diplomat | you negotiate terms, broker peace, or defuse a standoff. |
-| 83–84 | Escape Artist | you slip free of bonds, cells, manacles, or a tight corner. |
-| 85–86 | Smuggler | you hide contraband or slip goods past a search. |
-| 87–88 | Spy | you work undercover behind a false identity to reach what's hidden. |
-| 89–90 | Sunderer | you batter through a door, wall, shield, or bonds. |
-| 91–92 | Exorcist | you banish or turn an undead, demon, or unclean spirit. |
-| 93–94 | Sailor | you handle a ship, its rigging, or rough water. |
-| 95–96 | Warhorse | your mount carries you into a fight, a chase, or hard travel. |
-| 97–98 | Hunting Hawk | your hawk scouts from the air or strikes from above. |
-| 99–100 | Faithful Companion | your loyal animal aids you in its way — tracking, scouting, guarding, or fighting. |
+| 1 | Swordmaster | you fight with a sword and shield in close combat. |
+| 2 | Duelist | you face a single opponent one-on-one with a light blade. |
+| 3 | Reaver | you swing a heavy two-handed weapon to overpower a foe. |
+| 4 | Spearman | you fight with a spear or polearm — reach, or holding a line. |
+| 5 | Archer | you shoot a bow at a target, near or far. |
+| 6 | Knife-Fighter | you fight close with knives, or throw a blade. |
+| 7 | Brawler | you fight unarmed — fists, grapples, or improvised weapons. |
+| 8 | Berserker | you throw yourself into a reckless, all-out attack. |
+| 9 | Shield-Bearer | you guard yourself or an ally behind your shield. |
+| 10 | Ironclad | you stand firm in heavy armor and weather an assault. |
+| 11 | Slayer | you fight a monster or beast and go for its weak point. |
+| 12 | Cavalier | you fight, charge, or maneuver while mounted. |
+| 13 | Ensnarer | you tangle, trip, or pin a foe with net, whip, or rope — taking them down alive. |
+| 14 | Assassin | you strike a target who never sees it coming. |
+| 15 | Commander | you direct allies in a fight or out-maneuver a foe. |
+
+**Working magic (16–30)** — *when the impossible is required.*
+
+| d100 | Asset | You add +1 when… |
+|---|---|---|
+| 16 | Battle-Mage | you blast a foe with offensive magic. |
+| 17 | Elementalist | you shape fire, ice, wind, stone, or weather. |
+| 18 | Thornweaver | you call on plants and growing things — vines that bind, roots that part. |
+| 19 | Healer | you mend a wound or cure an ailment with magic. |
+| 20 | Skinchanger | you fight, flee, or hunt in the shape of your one chosen beast. |
+| 21 | Necromancer | you command the dead, decay, or dark magic. |
+| 22 | Summoner | you call a spirit or creature to act for you. |
+| 23 | Enchanter | you magically charm, frighten, or cloud a mind. |
+| 24 | Illusionist | you conjure a false sight, sound, or face. |
+| 25 | Diviner | you seek a hidden truth or glimpse what's to come. |
+| 26 | Spirit-Speaker | you speak with spirits or the dead — asking, not commanding. |
+| 27 | Templar | you smite an unholy foe or ward against dark power. |
+| 28 | Exorcist | you banish or turn an undead, demon, or unclean spirit. |
+| 29 | Spellbreaker | you unravel, block, or lift a spell, ward, or curse. |
+| 30 | Ritualist | you take time to work a ward, rune, circle, or binding. |
+
+**The wild & the road (31–38)** — *travel, weather, beasts, and finding the way.*
+
+| d100 | Asset | You add +1 when… |
+|---|---|---|
+| 31 | Tracker | you follow a trail or read tracks and sign. |
+| 32 | Pathfinder | you survive, forage, or find a route through the wild. |
+| 33 | Navigator | you find your way by star, map, or reckoning. |
+| 34 | Beastmaster | you calm, command, or work alongside an animal. |
+| 35 | Sailor | you handle a ship, its rigging, or rough water. |
+| 36 | Wagoner | you drive a cart, team, or caravan through hard going or a hard chase. |
+| 37 | Deep-Delver | you read the underground — caves, tunnels, unstable stone, buried ways. |
+| 38 | Winged | you take to the air — crossing a gap, escaping, or striking from above. |
+
+**Ruins & shadows (39–46)** — *locks, traps, heights, and going unseen.*
+
+| d100 | Asset | You add +1 when… |
+|---|---|---|
+| 39 | Scout | you slip ahead unseen to learn what lies in wait. |
+| 40 | Lookout | you spot what's hidden — an ambush, a secret door, a watcher in the crowd. |
+| 41 | Locksmith | you open a lock, latch, or sealed door. |
+| 42 | Trapsmith | you find, disarm, or set a trap. |
+| 43 | Acrobat | you climb, tumble, balance, or make a daring leap. |
+| 44 | Escape Artist | you slip free of bonds, cells, manacles, or a tight corner. |
+| 45 | Cutpurse | you palm, plant, or lift something without being noticed. |
+| 46 | Sunderer | you batter through a door, wall, shield, or bonds. |
+
+**Craft & lore (47–53)** — *knowing things and making things.*
+
+| d100 | Asset | You add +1 when… |
+|---|---|---|
+| 47 | Loremaster | you recall lore — history, ruins, relics, old tongues. |
+| 48 | Herbalist | you use plants to heal, poison, or brew a remedy. |
+| 49 | Field Medic | you treat a wound without magic — bind, splint, stitch. |
+| 50 | Alchemist | you brew or use a potion, acid, or alchemical fire. |
+| 51 | Tinker | you build, rig, or repair a mechanism or device. |
+| 52 | Smith | you forge, mend, or judge weapons, armor, and gear. |
+| 53 | Siegewright | you build, crew, or bring down walls, engines, and fortifications. |
+
+**In town (54–64)** — *parleys, courts, taverns, and markets.*
+
+| d100 | Asset | You add +1 when… |
+|---|---|---|
+| 54 | Diplomat | you negotiate terms, broker peace, or defuse a standoff. |
+| 55 | Courtier | you navigate a court — etiquette, precedence, who really holds power. |
+| 56 | Merchant | you appraise a thing's worth or haggle a price. |
+| 57 | Minstrel | you hold a crowd with song, story, or showmanship. |
+| 58 | Enforcer | you lean on someone with a threat, a glare, or a show of force. |
+| 59 | Lie-Hearer | you look someone in the eye and judge whether they're lying. |
+| 60 | Gambler | you play a game of chance or read a bluff. |
+| 61 | Carouser | you feast, drink, or revel your way into someone's good graces. |
+| 62 | Chaplain | you perform your faith's rites or call on its authority — sanctuary, blessing, the weight of the temple. |
+| 63 | Spy | you work undercover behind a false identity to reach what's hidden. |
+| 64 | Smuggler | you hide contraband or slip goods past a search. |
+
+**Companions & connections (65–70)** — *the ones who show up for you, in any scene they can reach.*
+
+| d100 | Asset | You add +1 when… |
+|---|---|---|
+| 65 | Faithful Companion | your loyal animal aids you in its way — tracking, scouting, guarding, or fighting. |
+| 66 | Warhorse | your mount carries you into a fight, a chase, or hard travel. |
+| 67 | Hunting Hawk | your hawk scouts from the air or strikes from above. |
+| 68 | Friend in Every Port | you call on an old friend for shelter, news, or a favor. |
+| 69 | A Powerful Patron | you invoke your patron's name, coin, or reach. |
+| 70 | Storied Name | your deeds have reached this place ahead of you — and it helps. |
 
 ### Adventure Boon triggers (d10)
 
