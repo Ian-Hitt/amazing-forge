@@ -184,7 +184,7 @@ Adventure throws fights, wild country, and old mysteries at *everyone* — so bu
 
 **1. How do you handle a fight?** Every Adventure hero needs an answer — but it doesn't have to be a sword. Pick a combat role, even a sideways one. *Swordmaster · Archer · Battle-Mage · Beastmaster · Commander (you fight by directing the party) · Healer (you keep the fighters standing).*
 
-**2. What's your edge out in the world?** The thing you bring between fights — the wilds, the ruins, or the people. *Tracker · Loremaster · Diplomat · Locksmith · Pathfinder.*
+**2. What's your edge out in the world?** The thing you bring between fights — the wilds, the ruins, or the people. *Tracker · Loremaster · Diplomat · Burglar · Pathfinder.*
 
 **3. What's the one thing you're never without?** Your signature item, companion, or connection — and make it *yours*, loaded with story. *A Faithful Companion · Grandpa's Map · A Warhorse.*
 
@@ -200,13 +200,13 @@ Adventure throws fights, wild country, and old mysteries at *everyone* — so bu
 - **The Wizard** — hard-won arcane power and a head full of old lore. *Clever + Quick · Battle-Mage · Enchanter · Diviner.*
 - **The Druid** — nature's shape and the wild's allies. *Clever + Strong · Skinchanger · Beastmaster · Herbalist.*
 - **The Cleric** — faith made manifest: healing hands and holy wrath. *Charming + Clever · Healer · Templar · Loremaster.*
-- **The Rogue** — locks, shadows, and a blade from behind. *Sneaky + Quick · Assassin · Locksmith · Acrobat.*
+- **The Rogue** — locks, shadows, and a blade from behind. *Sneaky + Quick · Assassin · Burglar · Acrobat.*
 - **The Ranger** — the party's eyes in the wild: bow, trail-sense, and a loyal beast. *Quick + Clever · Archer · Tracker · Faithful Companion.*
 - **The Bard** — charm, tall tales, and a touch of magic. *Charming + Clever · Minstrel · Enchanter · Loremaster.*
 
 ### The Adventure Asset table (d100)
 
-*Roll **d100** for a surprise (a roll over 70 just means roll again — every entry shares the same odds), or skim and grab the ones that make you grin. Every Asset has a **category** — the kind of challenge where it shines: **Combat** (a fight breaks out) · **Exploration** (travel, terrain, weather, beasts, finding the way) · **Infiltration** (locks, traps, guards — getting in, past, and out) · **Craft & Lore** (knowing things, making things, mending people) · **Social** (parleys, courts, taverns, negotiations) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). Magic isn't a category, because it isn't a scene — a Battle-Mage and a Swordmaster answer the same question when a fight breaks out, so every magical Asset lives in the scene it answers. A well-rounded hero takes their three Assets from **three different categories** — that way, whatever the Story throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Combat wrecking ball is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise (a roll over 69 just means roll again — every entry shares the same odds), or skim and grab the ones that make you grin. Every Asset has a **category** — the kind of challenge where it shines: **Combat** (a fight breaks out) · **Exploration** (travel, terrain, weather, beasts, finding the way) · **Infiltration** (locks, traps, guards — getting in, past, and out) · **Craft & Lore** (knowing things, making things, mending people) · **Social** (parleys, courts, taverns, negotiations) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). Magic isn't a category, because it isn't a scene — a Battle-Mage and a Swordmaster answer the same question when a fight breaks out, so every magical Asset lives in the scene it answers. A well-rounded hero takes their three Assets from **three different categories** — that way, whatever the Story throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Combat wrecking ball is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
 | d100 | Asset | Category | You add +1 when… |
 |---|---|---|---|
@@ -242,44 +242,43 @@ Adventure throws fights, wild country, and old mysteries at *everyone* — so bu
 | 30 | Winged | Exploration | you take to the air — crossing a gap, escaping, or striking from above. |
 | 31 | Scout | Infiltration | you slip ahead unseen to learn what lies in wait. |
 | 32 | Lookout | Infiltration | you spot what's hidden — an ambush, a secret door, a watcher in the crowd. |
-| 33 | Locksmith | Infiltration | you open a lock, latch, or sealed door. |
-| 34 | Trapsmith | Infiltration | you find, disarm, or set a trap. |
-| 35 | Acrobat | Infiltration | you climb, tumble, balance, or make a daring leap. |
-| 36 | Escape Artist | Infiltration | you slip free of bonds, cells, manacles, or a tight corner. |
-| 37 | Cutpurse | Infiltration | you palm, plant, or lift something without being noticed. |
-| 38 | Illusionist | Infiltration | you conjure a false sight, sound, or face. |
-| 39 | Spellbreaker | Infiltration | you unravel, block, or lift a spell, ward, or curse. |
-| 40 | Sunderer | Infiltration | you batter through a door, wall, shield, or bonds. |
-| 41 | Loremaster | Craft & Lore | you recall lore — history, ruins, relics, old tongues. |
-| 42 | Diviner | Craft & Lore | you seek a hidden truth or glimpse what's to come. |
-| 43 | Spirit-Speaker | Craft & Lore | you speak with spirits or the dead — asking, not commanding. |
-| 44 | Healer | Craft & Lore | you mend a wound or cure an ailment with magic. |
-| 45 | Field Medic | Craft & Lore | you treat a wound without magic — bind, splint, stitch. |
-| 46 | Herbalist | Craft & Lore | you use plants to heal, poison, or brew a remedy. |
-| 47 | Alchemist | Craft & Lore | you brew or use a potion, acid, or alchemical fire. |
-| 48 | Ritualist | Craft & Lore | you take time to work a ward, rune, circle, or binding. |
-| 49 | Tinker | Craft & Lore | you build, rig, or repair a mechanism or device. |
-| 50 | Smith | Craft & Lore | you forge, mend, or judge weapons, armor, and gear. |
-| 51 | Siegewright | Craft & Lore | you build, crew, or bring down walls, engines, and fortifications. |
-| 52 | Diplomat | Social | you negotiate terms, broker peace, or defuse a standoff. |
-| 53 | Courtier | Social | you navigate a court — etiquette, precedence, who really holds power. |
-| 54 | Merchant | Social | you appraise a thing's worth or haggle a price. |
-| 55 | Minstrel | Social | you hold a crowd with song, story, or showmanship. |
-| 56 | Enchanter | Social | you magically charm, frighten, or cloud a mind. |
-| 57 | Enforcer | Social | you lean on someone with a threat, a glare, or a show of force. |
-| 58 | Lie-Hearer | Social | you look someone in the eye and judge whether they're lying. |
-| 59 | Gambler | Social | you play a game of chance or read a bluff. |
-| 60 | Carouser | Social | you feast, drink, or revel your way into someone's good graces. |
-| 61 | Chaplain | Social | you perform your faith's rites or call on its authority — sanctuary, blessing, the weight of the temple. |
-| 62 | Spy | Social | you work undercover behind a false identity to reach what's hidden. |
-| 63 | Smuggler | Social | you hide contraband or slip goods past a search. |
-| 64 | Faithful Companion | Allies | your loyal animal aids you in its way — tracking, scouting, guarding, or fighting. |
-| 65 | Warhorse | Allies | your mount carries you into a fight, a chase, or hard travel. |
-| 66 | Hunting Hawk | Allies | your hawk scouts from the air or strikes from above. |
-| 67 | Summoner | Allies | you call a spirit or creature to act for you. |
-| 68 | Friend in Every Port | Allies | you call on an old friend for shelter, news, or a favor. |
-| 69 | A Powerful Patron | Allies | you invoke your patron's name, coin, or reach. |
-| 70 | Storied Name | Allies | your deeds have reached this place ahead of you — and it helps. |
+| 33 | Burglar | Infiltration | you get past a lock or a trap — pick it, jam it, disarm it, or set one of your own. |
+| 34 | Acrobat | Infiltration | you climb, tumble, balance, or make a daring leap. |
+| 35 | Escape Artist | Infiltration | you slip free of bonds, cells, manacles, or a tight corner. |
+| 36 | Cutpurse | Infiltration | you palm, plant, or lift something without being noticed. |
+| 37 | Illusionist | Infiltration | you conjure a false sight, sound, or face. |
+| 38 | Spellbreaker | Infiltration | you unravel, block, or lift a spell, ward, or curse. |
+| 39 | Sunderer | Infiltration | you batter through a door, wall, shield, or bonds. |
+| 40 | Loremaster | Craft & Lore | you recall lore — history, ruins, relics, old tongues. |
+| 41 | Diviner | Craft & Lore | you seek a hidden truth or glimpse what's to come. |
+| 42 | Spirit-Speaker | Craft & Lore | you speak with spirits or the dead — asking, not commanding. |
+| 43 | Healer | Craft & Lore | you mend a wound or cure an ailment with magic. |
+| 44 | Field Medic | Craft & Lore | you treat a wound without magic — bind, splint, stitch. |
+| 45 | Herbalist | Craft & Lore | you use plants to heal, poison, or brew a remedy. |
+| 46 | Alchemist | Craft & Lore | you brew or use a potion, acid, or alchemical fire. |
+| 47 | Ritualist | Craft & Lore | you take time to work a ward, rune, circle, or binding. |
+| 48 | Tinker | Craft & Lore | you build, rig, or repair a mechanism or device. |
+| 49 | Smith | Craft & Lore | you forge, mend, or judge weapons, armor, and gear. |
+| 50 | Siegewright | Craft & Lore | you build, crew, or bring down walls, engines, and fortifications. |
+| 51 | Diplomat | Social | you negotiate terms, broker peace, or defuse a standoff. |
+| 52 | Courtier | Social | you navigate a court — etiquette, precedence, who really holds power. |
+| 53 | Merchant | Social | you appraise a thing's worth or haggle a price. |
+| 54 | Minstrel | Social | you hold a crowd with song, story, or showmanship. |
+| 55 | Enchanter | Social | you magically charm, frighten, or cloud a mind. |
+| 56 | Enforcer | Social | you lean on someone with a threat, a glare, or a show of force. |
+| 57 | Lie-Hearer | Social | you look someone in the eye and judge whether they're lying. |
+| 58 | Gambler | Social | you play a game of chance or read a bluff. |
+| 59 | Carouser | Social | you feast, drink, or revel your way into someone's good graces. |
+| 60 | Chaplain | Social | you perform your faith's rites or call on its authority — sanctuary, blessing, the weight of the temple. |
+| 61 | Spy | Social | you work undercover behind a false identity to reach what's hidden. |
+| 62 | Smuggler | Social | you hide contraband or slip goods past a search. |
+| 63 | Faithful Companion | Allies | your loyal animal aids you in its way — tracking, scouting, guarding, or fighting. |
+| 64 | Warhorse | Allies | your mount carries you into a fight, a chase, or hard travel. |
+| 65 | Hunting Hawk | Allies | your hawk scouts from the air or strikes from above. |
+| 66 | Summoner | Allies | you call a spirit or creature to act for you. |
+| 67 | Friend in Every Port | Allies | you call on an old friend for shelter, news, or a favor. |
+| 68 | A Powerful Patron | Allies | you invoke your patron's name, coin, or reach. |
+| 69 | Storied Name | Allies | your deeds have reached this place ahead of you — and it helps. |
 
 ### Adventure Boon triggers (d10)
 
