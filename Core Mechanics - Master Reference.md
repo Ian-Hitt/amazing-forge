@@ -348,10 +348,13 @@ a good Asset completes it cleanly with a situation that **comes up in ordinary p
 single test catches both failure modes: too vague to finish the sentence (it's a Stat), or so
 specific the trigger almost never fires (e.g. "Arson Investigator"). The trigger must also name
 **the action you're actually rolling — the risky moment itself, not the setup for it** (DECIDED
-2026-07-15). "You stash cargo in a hidden hold" isn't a roll — nothing is at stake yet; "you
-keep your holds' secrets through a search" is the roll. If a draft trigger describes
-preparation or a passive fact ("your name is known here"), find the moment it pays off under
-pressure ("you drop your name") — *that's* the trigger. Two supporting checks:
+2026-07-15). The strongest shape is **"you use [the Asset] to [accomplish a goal]"** — action
+plus objective, so the player knows mid-scene exactly when to reach for it. "You stash cargo in
+a hidden hold" isn't a roll — nothing is at stake yet; "you *use* your hidden holds *to get
+something through a search*" is. A passive fact fails the same way: not "your name is known
+here" but "you *use* your fame *to convince, impress, or unnerve someone*." If a draft trigger
+describes preparation or a state of the world, find the moment it pays off under pressure —
+*that's* the trigger. Two supporting checks:
 **it tells you who the hero is** ("Ace Pilot" paints a person; "a sturdy backpack" doesn't), and
 it's **pointed** — clearly *doesn't* cover everything, with obvious moments where it's useless.
 Genre Asset tables present each entry *as* its trigger (`Asset | You add +1 when…`). Assets are
