@@ -209,7 +209,7 @@ Adventure throws fights, wild country, and old mysteries at *everyone* — so bu
 
 ### The Adventure Asset table (d100)
 
-*Roll **d100** for a surprise (a roll over 68 just means roll again — every entry shares the same odds), or skim and grab the ones that make you grin. Every Asset has a **category** — the kind of challenge where it shines: **Combat** (a fight breaks out) · **Exploration** (travel, terrain, weather, beasts, finding the way) · **Infiltration** (locks, traps, guards — getting in, past, and out) · **Craft & Lore** (knowing things, making things, mending people) · **Social** (parleys, courts, taverns, negotiations) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). Magic isn't a category, because it isn't a scene — a Battle-Mage and a Swordmaster answer the same question when a fight breaks out, so every magical Asset lives in the scene it answers. A well-rounded hero takes their three Assets from **three different categories** — that way, whatever the Story throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Combat wrecking ball is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise (a roll over 66 just means roll again — every entry shares the same odds), or skim and grab the ones that make you grin. Every Asset has a **category** — the kind of challenge where it shines: **Combat** (a fight breaks out) · **Exploration** (travel, terrain, weather, beasts, finding the way) · **Infiltration** (locks, traps, guards — getting in, past, and out) · **Craft & Lore** (knowing things, making things, mending people) · **Social** (parleys, courts, taverns, negotiations) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). Magic isn't a category, because it isn't a scene — a Battle-Mage and a Swordmaster answer the same question when a fight breaks out, so every magical Asset lives in the scene it answers. A well-rounded hero takes their three Assets from **three different categories** — that way, whatever the Story throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Combat wrecking ball is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
 | d100 | Asset | Category | You add +1 when… |
 |---|---|---|---|
@@ -264,23 +264,21 @@ Adventure throws fights, wild country, and old mysteries at *everyone* — so bu
 | 49 | Siegewright | Craft & Lore | you build, crew, or bring down walls, engines, and fortifications. |
 | 50 | Diplomat | Social | you negotiate terms, broker peace, or defuse a standoff. |
 | 51 | Courtier | Social | you navigate a court — etiquette, precedence, who really holds power. |
-| 52 | Merchant | Social | you appraise a thing's worth or haggle a price. |
-| 53 | Minstrel | Social | you hold a crowd with song, story, or showmanship. |
-| 54 | Enchanter | Social | you magically charm, frighten, or cloud a mind. |
-| 55 | Enforcer | Social | you lean on someone with a threat, a glare, or a show of force. |
-| 56 | Lie-Hearer | Social | you look someone in the eye and judge whether they're lying. |
-| 57 | Gambler | Social | you play a game of chance or read a bluff. |
-| 58 | Carouser | Social | you feast, drink, or revel your way into someone's good graces. |
-| 59 | Chaplain | Social | you perform your faith's rites or call on its authority — sanctuary, blessing, the weight of the temple. |
-| 60 | Spy | Social | you work undercover behind a false identity to reach what's hidden. |
-| 61 | Smuggler | Social | you hide contraband or slip goods past a search. |
-| 62 | Faithful Companion | Allies | your loyal animal aids you in its way — tracking, scouting, guarding, or fighting. |
-| 63 | Warhorse | Allies | your mount carries you into a fight, a chase, or hard travel. |
-| 64 | Hunting Hawk | Allies | your hawk scouts from the air or strikes from above. |
-| 65 | Summoner | Allies | you call a spirit or creature to act for you. |
-| 66 | Friend in Every Port | Allies | you call on an old friend for shelter, news, or a favor. |
-| 67 | A Powerful Patron | Allies | you invoke your patron's name, coin, or reach. |
-| 68 | Storied Name | Allies | your deeds have reached this place ahead of you — and it helps. |
+| 52 | Minstrel | Social | you hold a crowd with song, story, or showmanship. |
+| 53 | Enchanter | Social | you magically charm, frighten, or cloud a mind. |
+| 54 | Enforcer | Social | you lean on someone with a threat, a glare, or a show of force. |
+| 55 | Lie-Hearer | Social | you look someone in the eye and judge whether they're lying. |
+| 56 | Carouser | Social | you feast, drink, or revel your way into someone's good graces. |
+| 57 | Chaplain | Social | you perform your faith's rites or call on its authority — sanctuary, blessing, the weight of the temple. |
+| 58 | Spy | Social | you work undercover behind a false identity to reach what's hidden. |
+| 59 | Smuggler | Social | you hide contraband or slip goods past a search. |
+| 60 | Faithful Companion | Allies | your loyal animal aids you in its way — tracking, scouting, guarding, or fighting. |
+| 61 | Warhorse | Allies | your mount carries you into a fight, a chase, or hard travel. |
+| 62 | Hunting Hawk | Allies | your hawk scouts from the air or strikes from above. |
+| 63 | Summoner | Allies | you call a spirit or creature to act for you. |
+| 64 | Friend in Every Port | Allies | you call on an old friend for shelter, news, or a favor. |
+| 65 | A Powerful Patron | Allies | you invoke your patron's name, coin, or reach. |
+| 66 | Storied Name | Allies | your deeds have reached this place ahead of you — and it helps. |
 
 ### Adventure Boon triggers (d10)
 
