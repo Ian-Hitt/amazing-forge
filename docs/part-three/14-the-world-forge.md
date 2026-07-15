@@ -37,7 +37,7 @@ This is the most important question, because it colors all nine that follow. The
 
 Then set the **tonal dial:** every genre runs from **playful** (light and a little silly — *Scooby-Doo* spooky) to **serious** (tense, where a loss really lands — *Stranger Things* spooky). Say where you're aiming out loud: *"spooky, but the fun kind, not the nightmares kind."*
 
-- **A good answer** picks a genre and a point on the dial. You can also **blend two** (sci-fi *and* horror) or invent your own feel — the game is genre-agnostic, and the genres are just optional toolkits, not a cage. **Chapter 18 has a full Genre Kit for each one**, with character ideas and a genre-pointed take on these very questions.
+- **A good answer** picks a genre and a point on the dial. You can also **blend two** (sci-fi *and* horror) or invent your own feel — the game is genre-agnostic, and the genres are just optional toolkits, not a cage. **Part Four has a full Genre Kit for each one**, with character ideas and a genre-pointed take on these very questions.
 - **Avoid** picking a *setting* here by mistake ("space," "pirates") — that's Question 2. The Genre is the emotional register the setting will be played in. The same pirate ship can host a giddy Adventure or a tense Horror.
 - **How it shapes the rest:** the Genre decides how hard the world bites. Two tables can share every other answer and play completely differently, because the Genre — and the dial — tell you what **Pay the Price** feels like: a cold trail and a slipped secret, or a real and frightening loss (Chapter 9).
 

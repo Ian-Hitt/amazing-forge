@@ -4,7 +4,7 @@
 
 Players talk to *people* — constantly. The guard at the gate, the trader with the rumor, the frightened kid who saw everything. Most of these you'll invent the second a player turns to them, and here's the good news: you don't need a name, a backstory, and a personality to play one well. You need to know **why this person is in the story** — their role — and **one vivid detail** so they stick in everyone's memory. That's a playable NPC in about five seconds. (Locations work the same way — a role for people, a *function* for places. See [Making Locations](16-making-locations.md).)
 
-Lean on **Ask the Oracle** ([Chapter 11](../part-two/11-ask-the-oracle.md)) for anything you haven't decided — *are they lying? will they help?* — and let your **Genre Kit** ([Chapter 18](../part-four/18-genres.md)) flavor them.
+Lean on **Ask the Oracle** ([Chapter 11](../part-two/11-ask-the-oracle.md)) for anything you haven't decided — *are they lying? will they help?* — and let your **Genre Kit** ([Part Four](../part-four/18-genres.md)) flavor them.
 
 ## Build one in two draws
 
