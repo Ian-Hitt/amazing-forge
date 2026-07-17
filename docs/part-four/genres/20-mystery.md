@@ -201,13 +201,13 @@ Mystery runs on **Clever, Charming, and Sneaky** — but the physical Stats stil
 
 A mystery is mostly digging for the truth — but cases bite back, and a table of pure brains gets stuck the moment a suspect runs or pulls a knife. Build a hero who can work the case *and* hold up when it turns dangerous.
 
-**1. What do you do when it turns dangerous?** Every mystery has the moment the trail gets physical — a chase, a cornered suspect, a fight. Have an answer, even a sideways one. *Ex-Cop · Quick on the Draw · Brawler · Fast Runner · Steady Nerve (you keep your head when others panic).*
+**1. What do you do when it turns dangerous?** Every mystery has the moment the trail gets physical — a chase, a cornered suspect, a fight. Have an answer, even a sideways one. *Ex-Cop · Quick on the Draw · Brawler · Getaway Driver · Steady Nerve (you keep your head when others panic).*
 
-**2. How do you crack a case?** Your angle on the truth — the evidence, the people, or the places. *Forensic Analyst · Interrogator · Profiler · Tail · Master of Disguise · Well-Connected.*
+**2. How do you crack a case?** Your angle on the truth — the evidence, the people, or the places. *Forensic Analyst · Interrogator · Profiler · Shadow · Undercover Operative · Fixer.*
 
-**3. What's the one thing you're never without?** Your signature item, contact, or companion — loaded with story. *A Partner on the Force · Grandpa's Case Files · A Snitch Who Owes You.*
+**3. What's the one thing you're never without?** Your signature item, contact, or companion — loaded with story. *A Friend on the Force · Grandpa's Case Files · A Reliable Informant.*
 
-> **Then check the party.** Between you all, can someone read the evidence, work people, get into locked places, *and* handle it when the case turns violent? If the whole table is pure brains, reshape an Asset before you regret it.
+> **Then check the party.** Between you all, can someone read the evidence, work people, get into locked places, *and* handle it when the case turns violent? The Asset table's categories are exactly this checklist — if a whole category has no one, someone reshape an Asset to cover it.
 
 ### Archetypes
 
@@ -217,62 +217,74 @@ A mystery is mostly digging for the truth — but cases bite back, and a table o
 - **The Connected Insider** — knows everyone, every family, every grudge going back years. *Charming + Clever · Gossip · Fixer · Bartender.*
 - **The Skeptic** — tests every claim, believes nothing without proof. *Clever + Quick · Forensic Analyst · Document Examiner · Codebreaker.*
 - **The Charmer** — gets people talking who swore they'd say nothing. *Charming + Clever · Confidant · Negotiator · Interrogator.*
-- **The Specialist** — the lab, the lore, the locks: the technical edge the case needs. *Clever + Sneaky · Forensic Analyst · Hacker · Locksmith.*
+- **The Specialist** — the lab, the lore, the locks: the technical edge the case needs. *Clever + Sneaky · Forensic Analyst · Hacker · Burglar.*
 - **The Tagalong with the Gift** — underestimated, but notices what grown-ups ignore. *Sneaky + Quick · Shadow · Pickpocket · Cold-Reader.*
-- **The Inside Source** — works within the very thing they're investigating. *Clever + Charming · Archivist · Forensic Accountant · Surveillance Expert.*
+- **The Inside Source** — works within the very thing they're investigating. *Clever + Charming · Archivist · Forensic Accountant · Shadow.*
+- **The Hard-Boiled PI** — seen it all, takes the case anyway. *Clever + Strong · Ex-Cop · Shadow · A Reliable Informant.*
+- **The Muscle** — keeps the brains alive long enough to be right. *Strong + Quick · Brawler · Bodyguard · Getaway Driver.*
+- **The Occult Sleuth** — takes the cases nobody else will touch. *Clever + Charming · Occult Investigator · Medium · Exorcist.*
 
 ### The Mystery Asset table (d100)
 
-*Roll **d100** for a surprise (over 92, roll again), or skim and grab the ones that make you grin. Every entry shares the same odds. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise (a roll over 55 just means roll again — every entry shares the same odds), or skim and grab the ones that make you grin. Every Asset has a **category** — the kind of challenge where it shines: **Investigation** (the clues — a scene, a body, a record, an impossible detail) · **Social** (the people — witnesses, suspects, and the street network that knows things) · **Infiltration** (getting in, past, and out unseen) · **Danger** (the case turning violent — chases, fights, someone to protect) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). Magic isn't a category, because it isn't a scene — in an occult case, an Exorcist and a Brawler answer the same question when the thing in the dark lunges, so every strange Asset lives in the scene it answers. A well-rounded sleuth takes their three Assets from **three different categories** — that way, whatever the case throws at you, one of your scenes is coming. It's a tip, not a rule. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
-| d100 | Asset | You add +1 when… |
-|---|---|---|
-| 1–2 | Ballistics Expert | you examine a gun, a bullet, or a shot's trajectory. |
-| 3–4 | Stage Magician | you work out how a trick or "impossible" crime was faked. |
-| 5–6 | Forensic Analyst | you read physical evidence: blood, fibers, residue. |
-| 7–8 | Coroner | you examine a body for cause, time, or manner of death. |
-| 9–10 | Crime-Scene Tech | you work a scene for prints, traces, and what's missing. |
-| 11–12 | Toxicologist | you detect a poison or drug, and how it was given. |
-| 13–14 | Document Examiner | you check papers for forgery or tampering. |
-| 15–16 | Codebreaker | you crack a cipher, code, or hidden message. |
-| 17–18 | Hacker | you dig through records, cameras, or devices. |
-| 19–20 | Profiler | you predict a culprit's pattern or next move. |
-| 21–22 | Psychologist | you read a disturbed, traumatized, or lying mind. |
-| 23–24 | Cold-Reader | you size up a stranger from their clothes, hands, and tells. |
-| 25–26 | Interrogator | you press a reluctant suspect for the truth. |
-| 27–28 | Investigative Reporter | you chase a story through sources and paper trails. |
-| 29–30 | Archivist | you find the one file in a mountain of records. |
-| 31–32 | Historian | you uncover old grudges, family lines, and buried events. |
-| 33–34 | Linguist | you read lips, accents, dead languages, or slang. |
-| 35–36 | Sketch Artist | you turn a witness's words into a face. |
-| 37–38 | Photographer | you catch the shot that proves it. |
-| 39–40 | Lawyer | you use the law, rights, or leverage to your advantage. |
-| 41–42 | Beat Cop | you lean on street knowledge, procedure, or a fellow cop. |
-| 43–44 | Forensic Accountant | you follow dirty money through books and fronts. |
-| 45–46 | Gossip | you dig up rumors, grudges, and who's hiding what. |
-| 47–48 | Confidant | you get someone to confide a secret they're guarding. |
-| 49–50 | Negotiator | you talk down a cornered, dangerous person. |
-| 51–52 | Bartender | you work the bar for rumors, regulars, and who drank alone. |
-| 53–54 | Cabbie | you know the city's streets, or who went where and when. |
-| 55–56 | Bookie | you know who's in debt, desperate, or gambling deep. |
-| 57–58 | Pawnbroker | you trace stolen goods or appraise a thing's true worth. |
-| 59–60 | Fixer | you tap the underworld for a contact or a favor. |
-| 61–62 | Blackmailer | you hold a secret someone will pay to keep buried. |
-| 63–64 | A Reliable Informant | you tap a street contact for a lead. |
-| 65–66 | A Friend on the Force | you call in a cop to pull a file or look the other way. |
-| 67–68 | Occult Investigator | you face a case that brushes the cursed or unexplained. |
-| 69–70 | Disguise Artist | you pass as someone who belongs where you don't. |
-| 71–72 | Undercover Operative | you live a false identity to get inside. |
-| 73–74 | Shadow | you tail a mark for hours without being spotted. |
-| 75–76 | Pickpocket | you lift a key, wallet, or phone off someone. |
-| 77–78 | Burglar | you break into a guarded building unseen. |
-| 79–80 | Locksmith | you open a lock, safe, or sealed door. |
-| 81–82 | Surveillance Expert | you watch a target unseen — bugs, lenses, a stakeout. |
-| 83–84 | Tracker | you follow a physical trail to where someone went. |
-| 85–86 | Bounty Hunter | you hunt down someone who doesn't want to be found. |
-| 87–88 | Bodyguard | you protect a client or witness under threat. |
-| 89–90 | A Loyal Bloodhound | your hound follows a scent anywhere. |
-| 91–92 | A Watchful Crow | your crow goes where you can't, and watches. |
+| d100 | Asset | Category | You add +1 when… |
+|---|---|---|---|
+| 1 | Forensic Analyst | Investigation | you read physical evidence: blood, fibers, residue. |
+| 2 | Crime-Scene Tech | Investigation | you work a scene for prints, traces, and what's missing. |
+| 3 | Coroner | Investigation | you examine a body for cause, time, or manner of death. |
+| 4 | Toxicologist | Investigation | you detect a poison or drug, and how it was given. |
+| 5 | Ballistics Expert | Investigation | you examine a gun, a bullet, or a shot's trajectory. |
+| 6 | Document Examiner | Investigation | you check papers for forgery or tampering. |
+| 7 | Codebreaker | Investigation | you crack a cipher, code, or hidden message. |
+| 8 | Hacker | Investigation | you dig through records, cameras, or devices. |
+| 9 | Archivist | Investigation | you find the one file in a mountain of records. |
+| 10 | Historian | Investigation | you uncover old grudges, family lines, and buried events. |
+| 11 | Forensic Accountant | Investigation | you follow dirty money through books and fronts. |
+| 12 | Investigative Reporter | Investigation | you chase a story through sources and paper trails. |
+| 13 | Linguist | Investigation | you read lips, accents, dead languages, or slang. |
+| 14 | Profiler | Investigation | you predict a culprit's pattern or next move. |
+| 15 | Cold-Reader | Investigation | you size up a stranger from their clothes, hands, and tells. |
+| 16 | Stage Magician | Investigation | you work out how a trick or "impossible" crime was faked. |
+| 17 | Tracker | Investigation | you follow a physical trail to where someone went. |
+| 18 | Sketch Artist | Investigation | you turn a witness's words into something solid — a face, a timeline, a map of who was where. |
+| 19 | Photographer | Investigation | you catch the shot that proves it. |
+| 20 | Occult Investigator | Investigation | you identify a strange thing from the old stories — what it is, what it wants, what it fears. |
+| 21 | Psychic | Investigation | you read the impression a deed left behind — on a room, an object, a body. |
+| 22 | Interrogator | Social | you press a reluctant suspect for the truth. |
+| 23 | Psychologist | Social | you read a disturbed, traumatized, or lying mind. |
+| 24 | Confidant | Social | you get someone to confide a secret they're guarding. |
+| 25 | Negotiator | Social | you talk down a cornered, dangerous person. |
+| 26 | Con Artist | Social | you talk your way past someone — a cover story, a distraction, a charm offensive. |
+| 27 | Gossip | Social | you dig up rumors, grudges, and who's hiding what. |
+| 28 | Bartender | Social | you work the bar for rumors, regulars, and who drank alone. |
+| 29 | Cabbie | Social | you work your fares and routes to place who went where, and when. |
+| 30 | Bookie | Social | you tap your book for who's in debt, desperate, or gambling deep. |
+| 31 | Pawnbroker | Social | you trace stolen goods or appraise a thing's true worth. |
+| 32 | Fixer | Social | you tap the underworld for a contact or a favor. |
+| 33 | Lawyer | Social | you use the law, rights, or leverage to your advantage. |
+| 34 | Beat Cop | Social | you lean on street knowledge, procedure, or a fellow cop. |
+| 35 | Blackmailer | Social | you use a secret you hold to squeeze, silence, or open a door. |
+| 36 | Medium | Social | you ask the dead what they saw — a séance, a graveside whisper, a cold spot that answers. |
+| 37 | Shadow | Infiltration | you watch or tail a mark unseen — on foot, from a car, or through a lens. |
+| 38 | Undercover Operative | Infiltration | you pass as someone you're not — a borrowed uniform, a false name, or a long con. |
+| 39 | Pickpocket | Infiltration | you lift a key, wallet, or phone off someone. |
+| 40 | Burglar | Infiltration | you get past a lock, a safe, or a guarded door — in and out unseen. |
+| 41 | Forger | Infiltration | you fake a document, a badge, or a signature good enough to pass. |
+| 42 | Ex-Cop | Danger | you fall back on the old training — procedure, cuffs, or a straight right. |
+| 43 | Brawler | Danger | you fight with your fists — a bar scrap, a grapple, a knockout swing. |
+| 44 | Quick on the Draw | Danger | you fight with a gun — clearing leather first, or a steady shot under pressure. |
+| 45 | Getaway Driver | Danger | you drive like the ending depends on it — the chase, the tail, the clean escape. |
+| 46 | Bodyguard | Danger | you protect a client or witness under threat. |
+| 47 | Bounty Hunter | Danger | you hunt down someone who doesn't want to be found. |
+| 48 | Steady Nerve | Danger | you keep your head — and steady someone else's — when panic hits. |
+| 49 | Doctor | Danger | you **Mend** — stitch a wound, calm the shakes, patch someone up enough to keep going. |
+| 50 | Exorcist | Danger | you face the unnatural with rites, salt, and iron — bind it, banish it, or buy the others time. |
+| 51 | A Reliable Informant | Allies | you tap a street contact for a lead. |
+| 52 | A Friend on the Force | Allies | you call in a cop to pull a file or look the other way. |
+| 53 | A Devoted Assistant | Allies | you send your assistant to check, fetch, or watch — or they turn up with exactly what you need. |
+| 54 | A Loyal Bloodhound | Allies | your hound follows a scent anywhere. |
+| 55 | A Watchful Crow | Allies | your crow goes where you can't, and watches. |
 
 ### Mystery Boon triggers (d10)
 
