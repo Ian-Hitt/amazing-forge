@@ -111,7 +111,7 @@ Every flavor keeps Horror's engine — you don't win, you *survive or escape* �
 | 6 | **The Snowed-In Outpost** — cut off, low on fuel, and not everyone is who they were. |
 | 7 | **The Empty Cult Compound** — abandoned, mostly, and the symbols still mean something. |
 | 8 | **The Cursed Forest** — paths that shift, trees that watch, and the dark between them. |
-| 9 | **The Dead Family's Mansion** — heirlooms, portraits, and a bloodline's buried sin. |
+| 9 | **The Lonely Highway** — night roads, dying motels, and towns that aren't on any map. |
 | 10 | **The Tunnels Below** — caves, subways, or sewers where the light finally gives out. |
 
 ### Shaping your world

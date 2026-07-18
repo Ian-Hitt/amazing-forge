@@ -94,6 +94,7 @@ Adventure bends easily. Each flavor keeps the same engine — brave a great dang
 - **Seafaring & Pirates** — the open sea is the map, so the story moves island to island, and the real threats are storms, rival ships, and mutiny (*Pirates of the Caribbean*, *Treasure Island*).
 - **Fairy-Tale** — storybook logic takes over: bargains bind, things happen in threes, and a riddle beats a sword — whimsy and wonder over grit (*The Princess Bride*, *Narnia*).
 - **Modern Action / Thriller** — strip out the magic and crank the pace: relentless chases, fistfights, and narrow escapes in a grounded, present-day world (*Bourne*, *Mission: Impossible*).
+- **Superhero** — powers in the modern day: a city to protect, a double life to keep, and a rogues' gallery that keeps coming back (*Spider-Man*, *The Avengers*) — the same promise, in a cape.
 - **Steampunk** — the wonder is *invention itself*: brass and steam, airships and clockwork, heroes who build their way out of trouble (*Mortal Engines*, *Howl's Moving Castle*).
 
 > **Blend it (your secondary genre).** Anchor in Adventure and fold in a second genre for spice (see *Blending Genres* in the [overview](../18-genres.md)). **Adventure + Mystery** is a treasure hunt where the map is a riddle and someone's lying about it. **Adventure + Horror** sends the expedition into a ruin that doesn't want to let them leave. **Adventure + Caper** is the daring grab — steal the relic out from under the rival expedition. Keep the *forward momentum* in the lead and let the second genre color the danger.
@@ -105,11 +106,11 @@ Adventure bends easily. Each flavor keeps the same engine — brave a great dang
 | d10 | Setting |
 |---|---|
 | 1 | **Castles & Kingdoms** — a classic high-fantasy realm of knights, crowns, and dragons. |
-| 2 | **The Untamed Frontier** — a half-mapped wild edge, full of fortune and danger. |
+| 2 | **The Super-Powered City** — a gleaming modern metropolis with heroes on the skyline and a rogues' gallery to match. |
 | 3 | **The Steampunk City** — brass, steam, and clockwork, with airships over the smog. |
 | 4 | **The Magic School** — a hidden academy of spellcraft, secrets, and student trouble. |
 | 5 | **The Pirate Archipelago** — a thousand islands, sea monsters, and buried treasure. |
-| 6 | **The Desert World** — sun-blasted dunes, scarce water, and ruins beneath the sand. |
+| 6 | **The Secret Modern World** — today's Earth: airports and smartphones on the surface, lost tombs and hidden orders underneath. |
 | 7 | **The Floating Isles** — sky-islands linked by airship and rope-bridge, high above the clouds. |
 | 8 | **The Mythic Wilds** — a primeval land of giant beasts, old spirits, and sleeping gods. |
 | 9 | **The Lost Jungle** — overgrown temples, rival expeditions, and traps that still work. |

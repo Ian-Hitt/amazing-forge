@@ -114,7 +114,7 @@ Post-Apocalypse is usually named by *what ended the world* — and each cause ch
 | 7 | **The Plague-Emptied Land** — a great sickness took nearly everyone; the few left are wary. |
 | 8 | **The Opening Vault** — a sealed bunker meeting the surface for the first time in years. |
 | 9 | **The Scavenger Sprawl** — a shantytown built from the bones of an old mall or port. |
-| 10 | **The Blighted Zone** — a poisoned, mutated region everyone skirts — and the heroes must cross. |
+| 10 | **The Blighted Zone** — a poisoned, mutated expanse everyone else skirts — except the desperate few who prospect its heart. |
 
 ### Shaping your world
 

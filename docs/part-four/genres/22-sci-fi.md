@@ -111,7 +111,7 @@ Sci-Fi covers enormous ground. Each flavor keeps the engine — a new thing open
 | 4 | **The Alien World** — strange biology, stranger natives, and a wary first contact. |
 | 5 | **The Asteroid Belt** — scattered mining rigs, rich salvage, and pirates between the rocks. |
 | 6 | **The Domed Colony** — a fragile bubble of life on a hostile world, one failure from disaster. |
-| 7 | **The Derelict** — a dead ship or station, dark and drifting, with something still aboard. |
+| 7 | **The Broken Timeline** — history has come unstuck: paradoxes, anachronisms, and eras bleeding into each other. |
 | 8 | **The Star-Spanning Republic** — a bright space-opera of starports, fleets, and far worlds. |
 | 9 | **The Remote Research Outpost** — a lab where they were studying something they shouldn't. |
 | 10 | **The AI-Run City** — where the machine handles everything, and has started making choices. |

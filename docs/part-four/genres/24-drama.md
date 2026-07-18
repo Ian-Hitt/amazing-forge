@@ -113,7 +113,7 @@ Drama runs on relationships, and every flavor changes *which* relationship is th
 | 6 | **The Competitive Team** — a squad chasing the title, and chasing each other. |
 | 7 | **The Lakeside Summer** — first love, long days, and the friendships that define you. |
 | 8 | **The Workplace** — office politics, ambition, and who gets the corner office. |
-| 9 | **The Wedding or Reunion** — everyone in one room, every old grievance with them. |
+| 9 | **The Society Season** — ballrooms, calling cards, and marriages that are half love, half strategy. |
 | 10 | **The Glamorous City Scene** — fame, parties, and who's in and who's out this week. |
 
 ### Shaping your world

@@ -125,11 +125,11 @@ Every flavor runs on the same engine — a truth assembled clue by clue — but 
 |---|---|
 | 1 | **The Gaslit City** — foggy Victorian streets, hansom cabs, and a killer in the mist. |
 | 2 | **The Sleepy Small Town** — everyone knows everyone, and everyone's hiding something. |
-| 3 | **The Grand Manor** — a sprawling estate, a closed circle of guests, and one body. |
+| 3 | **The Grand Manor** — a sprawling estate, a closed circle of guests, and never just the one body. |
 | 4 | **The Noir Metropolis** — rain-slick neon, crooked cops, and no one to trust. |
 | 5 | **The Elite Boarding School** — privilege, secrets, and a scandal that could ruin them all. |
-| 6 | **The Isolated Retreat** — an island or lodge cut off by the storm, the culprit still inside. |
-| 7 | **The Luxury Train** — a long journey where none of the suspects can get off. |
+| 6 | **The Old Monastery** — cloistered halls, forbidden books, and sins the order swore to bury. |
+| 7 | **The Glittering Tech Campus** — smiling founders, sealed NDAs, and a product no one's allowed to question. |
 | 8 | **The Old University Town** — ancient grudges and scholars who'd kill to be proven right. |
 | 9 | **The Too-Perfect Suburb** — picket fences over a quiet, spreading rot. |
 | 10 | **The Carnival or Theatre** — glamour out front, knives and lies backstage. |

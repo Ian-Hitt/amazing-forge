@@ -102,22 +102,22 @@ Caper is a shape you can drop into any setting. Every flavor keeps the engine �
 
 | d10 | Setting |
 |---|---|
-| 1 | **The Glittering Casino** — chips, cameras, and a vault under the high-rollers. |
-| 2 | **The High-Society Gala** — tuxedos, jewels, and a mark who thinks they're untouchable. |
-| 3 | **The Museum** — priceless artifacts, laser grids, and one night only. |
-| 4 | **The Corporate Tower** — keycards, server rooms, and a board that has it coming. |
-| 5 | **The Impossible Vault** — the unbreakable bank, the score they say can't be done. |
-| 6 | **The Cruise Ship or Luxury Train** — a sealed playground of wealth, and it's moving. |
-| 7 | **The Auction House** — where the prize goes under the hammer tonight. |
-| 8 | **The Spy-Thriller Capital** — embassies, dead drops, and gadgets with the stakes of nations. |
-| 9 | **The Crime Boss's Estate** — guarded, gaudy, and full of things that should be returned. |
-| 10 | **The Festival Crowd** — chaos and color to slip the score out through. |
+| 1 | **The Casino City** — a neon strip of pleasure palaces, each with a vault — and owners who never forget a face. |
+| 2 | **The Gilded Circuit** — the season's galas, auctions, and regattas: a whole calendar of marks who think they're untouchable. |
+| 3 | **The Old-Money Capital** — museums, cathedrals, and private collections: centuries of treasure behind velvet ropes. |
+| 4 | **The Corporate Skyline** — a city of megacorp towers, every one of them crooked, every one a target. |
+| 5 | **The Thieves' City** — a smugglers' port where every crew has a bar, every job has a broker, and everyone owes someone. |
+| 6 | **The Prohibition City** — jazz, speakeasies, and mob lockboxes, with crooked cops on every corner. |
+| 7 | **The Spy-Thriller Capital** — embassies, dead drops, and gadgets with the stakes of nations. |
+| 8 | **The Fortress State** — a paranoid land of checkpoints and unbreakable prisons; every job here is getting someone *out*. |
+| 9 | **The Dragon-Hoard Kingdom** — a fantasy realm of spell-locked vaults, thieves' guilds, and scores guarded by actual dragons. |
+| 10 | **The Uncrackable City** — a banking capital built around the vault they say can't be done — every crew's white whale. |
 
 ### Shaping your world
 
 Genre-pointed nudges for Worldbuilding (Chapter 14). Answer *these* in your own words — don't just copy an example.
 
-- **Setting →** a glittering, locked-down place worth cracking — a vault-city, a high-society gala, a guarded museum, a corporate tower.
+- **Setting →** a glittering, locked-down *world* worth working — a casino strip, an old-money capital, a corporate skyline — rich enough to hold a whole run of jobs, with a corner in its shadow the crew calls home.
 - **Leadership & Enforcement →** make the opposition formidable *and* fun to outwit. The muscle and the security *are* the obstacle, so give them flair.
 - **Denizens →** the marks, the rivals, the fixers, and the people you'll need on the inside.
 - **Magic & Technology →** whatever the world runs on, it's also the *security* — magic locks, laser grids, biometric vaults. The cooler the defense, the sweeter the crack.
