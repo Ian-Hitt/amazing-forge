@@ -180,6 +180,8 @@ A caper runs on **Sneaky and Clever**, with **Charming** close behind — and th
 
 A caper is a crew pulling one job, each with a role — but plans go loud, and a crew with no answer for that gets caught. Build a hero with a clear job *and* something for when it all goes sideways.
 
+**Each hero plays two or three of the movie's roles.** An *Ocean's*-style gang runs six, eight, eleven specialists — one job each. Your crew is smaller, so every hero covers a couple of the classic roles — and that's exactly what three Assets from three different categories *are*: the safecracker who's also the getaway driver, the face who's also the one patching everyone up in the van. The questions below build that double-duty in automatically.
+
 **1. What's your job on the crew?** Your specialty on the plan — and aim for one nobody else has called. *Mastermind · Safecracker · The Face · Hacker · Inside Man · Wheelman · Fixer (the bribes and contacts).*
 
 **2. What do you do when it goes loud?** The plan never survives contact — when the alarms blare, how do you handle it? *Hitter · Brawler · Gunslinger · Wheelman · Improviser.*
