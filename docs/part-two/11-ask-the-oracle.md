@@ -106,6 +106,8 @@ Sometimes the stall isn't "what happens next" — it's a flat **yes/no question*
 
 So "is the busy market crowded?" leans likely (+1); "is the sealed tomb already open?" leans unlikely (−1). The modifier keeps the Oracle honest — it answers in line with the world you've built instead of overriding it.
 
+And it's the *only* modifier here: **your Stats and Assets never touch an Oracle roll.** The Oracle speaks for the world, not for your hero — being a Safecracker makes you better at cracking the vault, not more likely that it was left unlocked.
+
 **The "and" results are gifts — use them.** A bare yes or no just answers the question. A **"…and"** *escalates* it, which is exactly what keeps scenes from going flat. "Is the gate guarded?" → **Yes, and** → not only guarded, but the guard recognizes one of the heroes. Lean into those extra clauses; they're where the best surprises live.
 
 **Story Spark or Ask the Dice — which one?** Match the tool to the shape of your uncertainty:

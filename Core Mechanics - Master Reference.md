@@ -324,7 +324,7 @@ A blank page is the hard part, so answer three questions:
 
 - **What are they known for?** A **role or signature skill** — the thing people call them for, a
   tight title that names *who they are*: Ace Pilot · Fire-Mage · Tracker · Field Medic ·
-  Cat Burglar · Locksmith. *(Lead with this. A good Asset answers "who is this hero?", the
+  Cat Burglar · Monster Hunter. *(Lead with this. A good Asset answers "who is this hero?", the
   way "Ace Pilot" does and "a sturdy backpack" doesn't.)*
 - **What's the one thing they're never without?** A signature **item, companion, or connection**
   — but one that could only be *theirs*: Grandpa's Lockpicks · A Loyal Pet Wolf · A Debt Owed by
@@ -362,7 +362,7 @@ they're picking up. Two supporting checks:
 **it tells you who the hero is** ("Ace Pilot" paints a person; "a sturdy backpack" doesn't), and
 it's **pointed** — clearly *doesn't* cover everything, with obvious moments where it's useless.
 Genre Asset tables present each entry *as* its trigger (`Asset | You add +1 when…`). Assets are
-**facet-identities** — one mastery/role each (Swordmaster, Healer, Locksmith), the bricks that
+**facet-identities** — one mastery/role each (Swordmaster, Healer, Safecracker), the bricks that
 build the broader **Archetypes** (Paladin = Templar + Healer + Ironclad). Your *Stats* are the
 broad layer, so let Assets be pointed and identity-bearing.
 

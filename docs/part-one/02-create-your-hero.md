@@ -51,7 +51,7 @@ Pick the two that fit your Concept. A sky-pirate captain might be **Quick + Char
 
 Your **Assets** are the specific signature talents, tools, and friends your hero is known for — the things that earn an extra **+1** when they fit the moment. Choose three. A blank page is the hardest part, so just answer these three questions:
 
-**1. What are they known for?** A **role or signature skill** — the thing people call them for. Aim for one tight word or two that names *who your hero is*, the way "Ace Pilot" instantly paints a person. *Ace Pilot · Fire-Mage · Tracker · Field Medic · Cat Burglar · Locksmith · Bard.*
+**1. What are they known for?** A **role or signature skill** — the thing people call them for. Aim for one tight word or two that names *who your hero is*, the way "Ace Pilot" instantly paints a person. *Ace Pilot · Fire-Mage · Tracker · Field Medic · Cat Burglar · Monster Hunter · Bard.*
 
 **2. What's the one thing they're never without?** A signature **item, companion, or connection** — but make it one that could only be *yours.* *Grandpa's Lockpicks · A Loyal Pet Wolf · A Half-Finished Treasure Map · A Debt Owed by a Crime Boss.* The quick test: *would this be the same in anyone's hands?* If so, it's just kit — pick something loaded with a story instead. (Nothing comes to mind? Make it another role.)
 

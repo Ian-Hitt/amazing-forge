@@ -71,7 +71,7 @@ Each kit is a **launchpad, not a finished world.** It hands you the *kind* of st
 - **Shaping your world** — genre-pointed prompts for the ten Worldbuilding questions (Chapter 14), so your world comes out leaning the right way. Answer *these*; don't just copy an example.
 - **Story Arc seeds & standing tensions** — a rollable table of situations this genre thrives on. These are *conditions*, not plots — your table invents the actual Story Arcs from them.
 - **Archetypes** — ready-to-play hero shapes, each with a short menu of suggested starting Assets. Play one as-is, or file off the serial numbers and make it yours.
-- **The Asset table** — a big **d100** list of genre-fitting Assets. Roll for a surprise, or just read down it and grab the three that make you grin. Every entry is a starting point — rename or reskin it to fit your hero and your world.
+- **The Asset table** — a big **d100** list of genre-fitting Assets, grouped into **categories**: the kinds of challenge that genre throws at you, so you can see at a glance what each Asset is *for*. (A well-rounded hero takes their three from three different categories — the table's legend explains.) Roll for a surprise, or just read down it and grab the three that make you grin. Every entry is a starting point — rename or reskin it to fit your hero and your world.
 
 **The seven kits:** [Adventure](genres/19-adventure.md) · [Mystery](genres/20-mystery.md) · [Horror](genres/21-horror.md) · [Sci-Fi](genres/22-sci-fi.md) · [Caper](genres/23-caper.md) · [Drama](genres/24-drama.md) · [Post-Apocalypse](genres/25-post-apocalypse.md).
 
