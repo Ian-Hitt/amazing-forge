@@ -77,7 +77,7 @@ In practice:
 > *The Story Arc: survive the night in the cabin (an Episode). Second Milestone: find the one thing that holds it back. The table sets up a tense Challenge — "search the cellar before the lantern dies," Hard, 6 boxes.*
 >
 > **Guide:** The lantern's guttering — maybe a minute of light left. The cellar's full of your grandmother's old things, and somewhere down here is the salt-iron bell she swore by. Scratching starts, slow, on the far wall. What do you do?
-> **Player (Sam):** I'm not panicking. I use *Stays Calm in the Dark* — I picture exactly where she'd keep something that mattered, by the old preserves, and go straight there instead of searching wild.
+> **Player (Sam):** I'm not panicking. I use *Caretaker* — I've minded this cabin for her since I was small. I picture exactly where she'd keep something that mattered, by the old preserves, and go straight there instead of searching wild.
 > **Guide:** Roll it.
 > **Player:** Six — a Miss.
 > **Guide:** Your hand closes on cold metal — but it's just a lantern-hook, and as you grab it the flame finally dies. **Pay the price: the dark grows, all the way.** You're blind now, the scratching has stopped, and the silence is so much worse. You can hear your own heartbeat. What do you do?
@@ -183,66 +183,83 @@ Horror is survival and dread. The Stats are how you *act* against the threat —
 
 Horror isn't about winning fights — it's about surviving, and not everyone makes it look easy. Build a hero with a way to stay alive *and* something that helps the group last one more night.
 
-**1. How do you survive when it goes wrong?** When the thing is loose and the lights are out — do you run, hide, barricade, or stand in the doorway? *Fast Runner · Survivalist · The One Who Stays Calm · Barricader · Last Line (you put yourself between it and the others).*
+**1. How do you survive when it goes wrong?** When the thing is loose and the lights are out — do you run, barricade, or stand in the doorway? *Track Star · Escape Artist · Carpenter · Bodyguard · Bruiser.*
 
-**2. What helps the group make it?** Your edge against the horror — knowing what it is, holding people together, or patching the wounded. *Occult Scholar · Medic · Steady Hand · Tracker · True Believer.*
+**2. What helps the group make it?** Your edge against the horror — knowing what it is, holding people together, or patching the wounded. *Occultist · Folklorist · Nurse · Counselor · Monster Hunter.*
 
-**3. What's the one thing you're never without?** Your signature item, companion, or tie — loaded with story. *Dad's Old Shotgun · A Dog That Senses It · A Faith You Cling To.*
+**3. What's the one thing you're never without?** Your signature item, companion, or tie — loaded with story. *Dad's Old Shotgun · A Loyal Dog That Senses Things · A Faith You Cling To.*
 
-> **Then check the party.** Between you all, can someone outlast the threat, figure out its rules, *and* keep the group from falling apart? In horror, nobody makes it alone — that's the point.
+> **Then check the party.** Between you all, can someone outlast the threat, figure out its rules, *and* keep the group from falling apart? The Asset table's categories are exactly this checklist — if a whole category has no one, someone reshape an Asset to cover it. In horror, nobody makes it alone — that's the point.
 
 ### Archetypes
 
 *An Archetype is a ready-made build — two Stats and three Assets. Play one straight, swap any Asset, or mix bricks from different builds into something new.*
 
-- **The Skeptic** — insists there's a rational explanation, right up until there isn't. *Clever + Charming · Detective · Doctor · Reporter.*
-- **The Believer** — knew something was wrong all along, and nobody listened. *Clever + Sneaky · Folklorist · Occultist · Second Sight.*
-- **The Brave-but-Scared Kid** — terrified, and goes in anyway, because someone has to. *Quick + Sneaky · Scout · Scavenger · Escape Artist.*
+- **The Skeptic** — insists there's a rational explanation, right up until there isn't. *Clever + Charming · Detective · Doctor · Sheriff.*
+- **The Believer** — knew something was wrong all along, and nobody listened. *Clever + Sneaky · Folklorist · Witch · The Local Who Believes You.*
+- **The Brave-but-Scared Kid** — terrified, and goes in anyway, because someone has to. *Quick + Sneaky · Scout · Scavenger · Class Clown.*
 - **The One Who's Seen It Before** — old scars and older knowledge; the reluctant guide. *Clever + Strong · Monster Hunter · Cult Survivor · Occultist.*
-- **The Fierce Protector** — stands between the dark and everyone they love. *Strong + Charming · Soldier · Bruiser · Carpenter.*
-- **The Sensitive** — feels the wrongness before it arrives; gifted and burdened. *Clever + Charming · Medium · Second Sight · Prophetic Dreams.*
-- **The Practical Survivor** — no powers, just preparation, nerve, and a full backpack. *Clever + Quick · Scavenger · Nurse · Mechanic.*
+- **The Fierce Protector** — stands between the dark and everyone they love. *Strong + Charming · Bodyguard · Carpenter · Nurse.*
+- **The Sensitive** — feels the wrongness before it arrives; gifted and burdened. *Clever + Charming · Second Sight · Medium · A Ghostly Guardian.*
+- **The Practical Survivor** — no powers, just preparation, nerve, and a full backpack. *Clever + Quick · Scavenger · Escape Artist · Nurse.*
+- **The Ghost Hunter** — gear in the van, salt in the pockets, and a trap ready to spring. *Clever + Quick · Paranormal Investigator · Witch · Trapmaker.*
 
 ### The Horror Asset table (d100)
 
-*Roll **d100** for a surprise (over 68, roll again), or skim and grab the ones that make you grin. Every entry shares the same odds. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise — 50 entries in bands of two, so the whole d100 is covered — or skim and grab the ones that make you grin. Every Asset has a **category** — the kind of challenge where it shines: **The Truth** (what is it, what does it want, what holds it back) · **Facing It** (when you can't run — the stand, the rite, the trap) · **Flight** (running, slipping out, knowing the way through) · **Safe Ground** (the barricade, the lights, the wards, the supplies) · **The Group** (keeping everyone patched, calm, and together) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). The occult isn't a category, because it isn't a scene — a Priest and a Bruiser answer the same question when the door won't hold, so the eerie Assets live in the scenes they answer. A well-rounded hero takes their three Assets from **three different categories** — that way, whatever the night throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Truth ghost-chaser is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
-| d100 | Asset | You add +1 when… |
-|---|---|---|
-| 1–2 | Nurse | you keep someone alive with whatever's on hand. |
-| 3–4 | Doctor | you diagnose an injury, an illness, or what's wrong here. |
-| 5–6 | Mechanic | you coax a dead car, generator, or radio back to life. |
-| 7–8 | Electrician | you deal with power, wiring, or the failing lights. |
-| 9–10 | Locksmith | you get through a locked door — or bar one shut. |
-| 11–12 | Carpenter | you board up, barricade, or build a defense. |
-| 13–14 | Hunter | you track, shoot, or field-dress — turned on worse game. |
-| 15–16 | Park Ranger | you rely on knowing these woods, trails, and back-country. |
-| 17–18 | Sheriff | you lean on authority, a sidearm, or the town's trust. |
-| 19–20 | Librarian | you find the one book or record that explains it. |
-| 21–22 | Reporter | you dig up the town's buried history. |
-| 23–24 | Detective | you piece together the disappearances. |
-| 25–26 | Escape Artist | you slip ropes, cuffs, a locked room, or a trap. |
-| 27–28 | Soldier | you fall back on combat training and discipline under fire. |
-| 29–30 | Bruiser | you smash through, hold a door, or hit back hard. |
-| 31–32 | Scout | you slip through the dark to find a way out. |
-| 33–34 | Scavenger | you scrounge supplies, batteries, or a working anything. |
-| 35–36 | Caretaker | you use your knowledge of this place's rooms and hidden ways. |
-| 37–38 | Mortician | you handle the dead and the rites that keep them down. |
-| 39–40 | Priest | you stand against the unholy with faith and rite. |
-| 41–42 | Occultist | you work out the sigil, rule, or rite that binds the thing. |
-| 43–44 | Exorcist | you drive out what's possessing a person or place. |
-| 45–46 | Medium | you reach the dead or the in-between. |
-| 47–48 | Witch | you work hedge-craft, a charm, or small protective magic. |
-| 49–50 | Folklorist | you recall the old story that turns out to be true. |
-| 51–52 | Paranormal Investigator | you use gear and recordings to prove what's there. |
-| 53–54 | Cryptozoologist | you hunt the thing science says isn't real. |
-| 55–56 | Monster Hunter | you know a creature's bane and how to end it. |
-| 57–58 | Cult Survivor | you face a cult and know how they think. |
-| 59–60 | Second Sight | you glimpse the dead, or the thing about to happen. |
-| 61–62 | Prophetic Dreams | your nightmares show you what's coming. |
-| 63–64 | A Healer's Touch | you mend a wound or sickness with a laying-on of hands. |
-| 65–66 | Wardcrafter | you drive back a spirit with salt, charm, or rite. |
-| 67–68 | A Loyal Dog That Senses Things | your dog growls before you see it. |
+| d100 | Asset | Category | You add +1 when… |
+|---|---|---|---|
+| 1–2 | Detective | The Truth | you piece together the disappearances. |
+| 3–4 | Librarian | The Truth | you find the one book or record that explains it. |
+| 5–6 | Reporter | The Truth | you dig up the town's buried history. |
+| 7–8 | Doctor | The Truth | you diagnose an injury, an illness, or what's wrong here. |
+| 9–10 | Psychologist | The Truth | you read a person — what they're hiding, whether they're still themselves. |
+| 11–12 | Science Teacher | The Truth | you explain it with science — what it can't do, where it must be weak. |
+| 13–14 | Folklorist | The Truth | you match the thing to an old story — and what the story says to do about it. |
+| 15–16 | Occultist | The Truth | you work out the sigil, rule, or rite that binds the thing. |
+| 17–18 | Paranormal Investigator | The Truth | you use gear and recordings to prove what's there. |
+| 19–20 | Cryptozoologist | The Truth | you hunt the thing science says isn't real. |
+| 21–22 | Cult Survivor | The Truth | you use what surviving them taught you — their signs, their lies, their weak points. |
+| 23–24 | Ham Radio Operator | The Truth | you work the airwaves — raising help, or catching the broadcast no one else can hear. |
+| 25–26 | Medium | The Truth | you reach the dead or the in-between. |
+| 27–28 | Second Sight | The Truth | you glimpse the dead, or the thing about to happen. |
+| 29–30 | Prophetic Dreams | The Truth | your nightmares show you what's coming. |
+| 31–32 | Monster Hunter | Facing It | you know a creature's bane and how to end it. |
+| 33–34 | Hunter | Facing It | you track, shoot, or field-dress — turned on worse game. |
+| 35–36 | Soldier | Facing It | you fall back on combat training and discipline under fire. |
+| 37–38 | Bruiser | Facing It | you smash through, hold a door, or hit back hard. |
+| 39–40 | Bodyguard | Facing It | you put yourself between the thing and someone else. |
+| 41–42 | Sheriff | Facing It | you lean on authority, a sidearm, or the town's trust. |
+| 43–44 | Priest | Facing It | you stand against the unholy with faith and rite. |
+| 45–46 | Exorcist | Facing It | you drive out what's possessing a person or place. |
+| 47–48 | Trapmaker | Facing It | you rig a trap, lure, or distraction for the thing. |
+| 49–50 | Dad's Old Shotgun | Facing It | you use the old gun — and everything Dad taught you with it. |
+| 51–52 | Track Star | Flight | you outrun it — across the field, up the stairs, to the car. |
+| 53–54 | Scout | Flight | you slip through the dark to find a way out. |
+| 55–56 | Escape Artist | Flight | you slip ropes, cuffs, a locked room, or a trap. |
+| 57–58 | Urban Explorer | Flight | you navigate the tunnels, vents, and forgotten floors. |
+| 59–60 | Park Ranger | Flight | you use your knowledge of these woods — the trails, the shelters, what made that sound. |
+| 61–62 | Carpenter | Safe Ground | you board up, barricade, or build a defense. |
+| 63–64 | Locksmith | Safe Ground | you get through a locked door — or bar one shut. |
+| 65–66 | Mechanic | Safe Ground | you coax a dead car, generator, or radio back to life. |
+| 67–68 | Electrician | Safe Ground | you deal with power, wiring, or the failing lights. |
+| 69–70 | Torchbearer | Safe Ground | you keep the light alive — the fire fed, the batteries stretched, the circle bright. |
+| 71–72 | Scavenger | Safe Ground | you scrounge supplies, batteries, or a working anything. |
+| 73–74 | Caretaker | Safe Ground | you use your knowledge of this place's rooms and hidden ways. |
+| 75–76 | Witch | Safe Ground | you work protective craft — salt lines, charms, the old words that hold it back. |
+| 77–78 | Mortician | Safe Ground | you handle the dead and the rites that keep them down. |
+| 79–80 | Nurse | The Group | you **Mend** — keep someone alive with whatever's on hand. |
+| 81–82 | A Healer's Touch | The Group | you **Mend** a wound or sickness with a laying-on of hands. |
+| 83–84 | Counselor | The Group | you talk someone down from panic, despair, or doing something stupid. |
+| 85–86 | Babysitter | The Group | you keep the kids you're minding hidden, quiet, and together. |
+| 87–88 | Class Clown | The Group | you break the tension — a joke, a dare, a grin that gets everyone moving again. (A pep talk that patches someone up is a **Mend**.) |
+| 89–90 | A Faith You Cling To | The Group | you hold to it — steadying yourself, or standing your ground against the unholy. |
+| 91–92 | A Loyal Dog That Senses Things | Allies | your dog growls before you see it. |
+| 93–94 | A Friend on the Outside | Allies | you reach someone beyond this place — a warning passed, a record pulled, a ride at first light. |
+| 95–96 | The Local Who Believes You | Allies | the one person who believes you helps — cover, a car, a place to hide. |
+| 97–98 | A Ghostly Guardian | Allies | something unseen watches over you — a door held, a whisper of warning. |
+| 99–100 | An Imaginary Friend (Maybe) | Allies | your "imaginary" friend warns, distracts, or knows things it shouldn't. |
 
 ### Horror Boon triggers (d10)
 
