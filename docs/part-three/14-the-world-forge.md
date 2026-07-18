@@ -40,7 +40,7 @@ Then set the **tonal dial:** every genre runs from **playful** (light and a litt
 **Question one, then, sharpens what you picked into a flavor:** which *kind* of Adventure — a treasure-hunt expedition or a war story? Which *kind* of Horror — a haunted house or a slow cosmic dread? Name it in a phrase, and the nine questions that follow get much easier.
 
 - **A good answer** names a flavor in one phrase. You can also **blend two genres** (sci-fi *and* horror) or invent your own feel — the game is genre-agnostic, and the genres are just optional toolkits, not a cage. **Part Four has a full Genre Kit for each one** — its **Flavors** list is a menu of exactly this question, alongside character ideas and a genre-pointed take on all ten.
-- **Avoid** picking a *setting* here by mistake ("space," "pirates") — that's Question 2. The Genre is the emotional register the setting will be played in. The same pirate ship can host a giddy Adventure or a tense Horror.
+- **Avoid** answering with *only* a place ("space," "pirates") — pinning the place is Question 2's job. Flavor and setting naturally travel together — say "seafaring adventure" and you've already halfway boarded a ship — but the flavor is the *emotional register*, and the same pirate ship can still host a giddy Adventure or a tense Horror. Name the feel here; pick the place next.
 - **How it shapes the rest:** the Genre decides how hard the world bites. Two tables can share every other answer and play completely differently, because the Genre — and the dial — tell you what **Pay the Price** feels like: a cold trail and a slipped secret, or a real and frightening loss (Chapter 9).
 
 > **Tip:** if the table can't agree, ask "what movie or show do we want this to feel like?" A shared reference settles genre *and* dial faster than any adjective.
@@ -49,7 +49,7 @@ Then set the **tonal dial:** every genre runs from **playful** (light and a litt
 
 Now the place. A time and a location, with one detail that makes it *yours*.
 
-- **A good answer** is a single strong image with a twist: not "a medieval kingdom" but *"a medieval kingdom built inside a canyon so deep the sun only reaches the bottom at noon."* The twist is what makes it memorable and what suggests stories.
+- **A good answer** is a single strong image with a twist: not "a medieval kingdom" but *"a medieval kingdom built inside a canyon so deep the sun only reaches the bottom at noon."* The twist is what makes it memorable and what suggests stories. And you don't have to invent from a blank page: **your Genre Kit's Settings table (Part Four) is a d10 menu of exactly this question** — pick or roll one, then add the twist that makes it yours.
 - **Avoid** stacking too many ideas at once. One vivid setting beats a mashup of five. You can always discover more places as you travel.
 - **How it shapes the rest:** the Setting decides what's *normal* here, which is what makes the Threats (Q8) feel threatening. Establish the everyday so the extraordinary has something to push against.
 
