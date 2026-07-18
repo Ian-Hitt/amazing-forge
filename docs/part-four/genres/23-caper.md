@@ -182,11 +182,11 @@ A caper is a crew pulling one job, each with a role — but plans go loud, and a
 
 **1. What's your job on the crew?** Your specialty on the plan — and aim for one nobody else has called. *Mastermind · Safecracker · The Face · Hacker · Inside Man · Wheelman · Fixer (the bribes and contacts).*
 
-**2. What do you do when it goes loud?** The plan never survives contact — when the alarms blare, how do you handle it? *Quick Hands in a Pinch · Muscle · Fast Talker · Cool Driver · The One With the Backup Plan.*
+**2. What do you do when it goes loud?** The plan never survives contact — when the alarms blare, how do you handle it? *Hitter · Brawler · Gunslinger · Wheelman · Improviser.*
 
-**3. What's the one thing you're never without?** Your signature kit, contact, or companion — loaded with story. *A Forger Who Owes You · Your Lucky Lockpicks · A Cop on the Payroll.*
+**3. What's the one thing you're never without?** Your signature kit, contact, or companion — loaded with story. *A Cop on the Payroll · Your Lucky Lockpicks · A Guy for That.*
 
-> **Then check the party.** Between you all, do you have the plan, the way in, the sweet talk, the wheels, *and* an answer when it goes loud? A caper with a hole in the crew is a caper that fails — that's the fun, but build it on purpose.
+> **Then check the party.** Between you all, do you have the plan, the way in, the sweet talk, the wheels, *and* an answer when it goes loud? The Asset table's categories are exactly this checklist — if a whole category has no one, someone reshape an Asset to cover it. A caper with a hole in the crew is a caper that fails — that's the fun, but build it on purpose.
 
 ### Archetypes
 
@@ -194,54 +194,72 @@ A caper is a crew pulling one job, each with a role — but plans go loud, and a
 
 - **The Mastermind** — sees the whole board, three moves ahead; the plan is theirs. *Clever + Charming · Mastermind · Tactician · Improviser.*
 - **The Face** — all charm and confidence; talks through any door. *Charming + Sneaky · Face · Grifter · Impersonator.*
-- **The Safecracker** — locks, vaults, and security systems are a love language. *Clever + Quick · Safecracker · Lockpick · Alarm Specialist.*
+- **The Safecracker** — locks, vaults, and security systems are a love language. *Clever + Quick · Safecracker · Alarm Specialist · Cat Burglar.*
 - **The Tech** — slices cameras and codes from a van full of screens. *Clever + Sneaky · Hacker · Surveillance Tech · Electrician.*
 - **The Inside Contact** — already works there, and knows exactly where the bodies are. *Charming + Clever · Inside Man · Forger · Scout.*
 - **The Wildcard** — nobody, including the crew, can predict them; pure improvisation. *Quick + Sneaky · Improviser · Sleight-of-Hand Artist · Pickpocket.*
 - **The Wheelman** — gets the crew out, fast, whatever it takes. *Quick + Strong · Wheelman · Getaway Pilot · Cleaner.*
+- **The Muscle** — the wall between the crew and the consequences. *Strong + Quick · Hitter · Bodyguard · Crew Medic.*
+- **The Magician** — the crew's unfair advantage: the impossible parts of the job, made possible. *Sneaky + Clever · Shadow-Walker · Ward-Breaker · Mesmerist.*
 
 ### The Caper Asset table (d100)
 
-*Roll **d100** for a surprise (over 72, roll again), or skim and grab the ones that make you grin. Every entry shares the same odds. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise — 50 entries in bands of two, so the whole d100 is covered — or skim and grab the ones that make you grin. Every Asset has a **category** — the kind of challenge where it shines: **The Plan** (the job's brains and business — planning it, calling it live, cashing it out) · **The Con** (someone's in the way, and you're going to lie to them) · **The Crack** (the thing between you and the score is a system — locks, alarms, wards) · **The Sneak** (getting in, through, and out unseen) · **The Heat** (when it goes loud — fights, chases, patch-ups) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). Magic isn't a category, because it isn't a scene — a Ward-Breaker and a Safecracker answer the same question when the vault won't open, so the magic Assets live in the scenes they answer. A well-rounded crew member takes their three Assets from **three different categories** — that way, whatever the job throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Con smooth-talker is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
-| d100 | Asset | You add +1 when… |
-|---|---|---|
-| 1–2 | Mastermind | you build the plan and think three moves ahead. |
-| 3–4 | Fixer | you line up the crew, the gear, or the buyer. |
-| 5–6 | Tactician | you call the next move live, under the clock. |
-| 7–8 | Improviser | you turn a blown plan into the new plan on the spot. |
-| 9–10 | Grifter | you run a long con behind a false identity. |
-| 11–12 | Roper | you draw a mark in and keep them hooked. |
-| 13–14 | Impersonator | you pass as one specific real person. |
-| 15–16 | Face | you bluff past a guard or checkpoint by acting like you belong. |
-| 17–18 | Negotiator | you talk a guard, rival, or hostage-taker down. |
-| 19–20 | Safecracker | you crack a vault, safe, or combination lock. |
-| 21–22 | Lockpick | you pick a door, padlock, or pair of cuffs. |
-| 23–24 | Hacker | you defeat a camera, network, or electronic lock. |
-| 25–26 | Alarm Specialist | you beat a sensor, trip, or alarm system. |
-| 27–28 | Surveillance Tech | you plant bugs or watch every room from the van. |
-| 29–30 | Electrician | you cut the power, reroute it, or kill the lights. |
-| 31–32 | Demolitionist | you blow a wall, door, or safe — precisely. |
-| 33–34 | Forger | you fake a document, badge, seal, or banknote. |
-| 35–36 | Tunneler | you dig in from below: sewers, basements, the vault floor. |
-| 37–38 | Cat Burglar | you climb in high and silent where there's no door. |
-| 39–40 | Acrobat | you cross vents, ledges, laser-grids, and tight squeezes. |
-| 41–42 | Pickpocket | you lift a keycard, wallet, or phone unnoticed. |
-| 43–44 | Sleight-of-Hand Artist | you make the swap, the palm, the switch. |
-| 45–46 | Infiltrator | you walk in like you belong, then vanish. |
-| 47–48 | Disguise Artist | you change your face and look on the fly. |
-| 49–50 | Diversionist | you stage the distraction that clears the room. |
-| 51–52 | Scout | you case a target: routines, guards, blind spots. |
-| 53–54 | Lookout | you read the room and call the heat early. |
-| 55–56 | Cleaner | you erase the crew's traces — no prints, no trail. |
-| 57–58 | Quartermaster | you source the weapons, kit, and tools for the job. |
-| 59–60 | Launderer | you wash the take so it can actually be spent. |
-| 61–62 | Wheelman | you drive the getaway through any chase. |
-| 63–64 | Getaway Pilot | you fly the exit: chopper, boat, or plane. |
-| 65–66 | Hitter | you handle the muscle when talk won't do. |
-| 67–68 | Bodyguard | you keep the crew (or the mark) alive. |
-| 69–70 | Fence | you move the score to a buyer, no questions. |
-| 71–72 | Inside Man | you work there already and know its weak points. |
+| d100 | Asset | Category | You add +1 when… |
+|---|---|---|---|
+| 1–2 | Mastermind | The Plan | you build the plan and think three moves ahead. |
+| 3–4 | Tactician | The Plan | you call the next move live, under the clock. |
+| 5–6 | Improviser | The Plan | you turn a blown plan into the new plan on the spot. |
+| 7–8 | Fixer | The Plan | you line up the crew, the gear, or the buyer. |
+| 9–10 | Quartermaster | The Plan | you source the weapons, kit, and tools for the job. |
+| 11–12 | Appraiser | The Plan | you judge the prize at a glance — real or fake, and exactly what it's worth. |
+| 13–14 | Fence | The Plan | you move the score to a buyer, no questions. |
+| 15–16 | Launderer | The Plan | you wash the take so it can actually be spent. |
+| 17–18 | Cleaner | The Plan | you erase the crew's traces — no prints, no trail. |
+| 19–20 | Grifter | The Con | you run a long con behind a false identity. |
+| 21–22 | Roper | The Con | you draw a mark in and keep them hooked. |
+| 23–24 | Impersonator | The Con | you pass as someone else — a uniform, a face, or one specific real person. |
+| 25–26 | Face | The Con | you bluff past a guard or checkpoint by acting like you belong. |
+| 27–28 | Negotiator | The Con | you talk a guard, rival, or hostage-taker down. |
+| 29–30 | Diversionist | The Con | you stage the distraction that clears the room. |
+| 31–32 | The Plant | The Con | you're planted in the crowd — the shill, the fake bidder, the witness who saw nothing. |
+| 33–34 | Gambler | The Con | you play the odds — a card table, a rigged game, a bet you can't afford to lose. |
+| 35–36 | Mesmerist | The Con | you nudge a mind with magic — calm the guard, blur the memory, sweeten the deal. |
+| 37–38 | Safecracker | The Crack | you crack a lock — a vault, a safe, a door, a pair of cuffs. |
+| 39–40 | Hacker | The Crack | you defeat a camera, network, or electronic lock. |
+| 41–42 | Alarm Specialist | The Crack | you beat a sensor, trip, or alarm system. |
+| 43–44 | Surveillance Tech | The Crack | you plant bugs or watch every room from the van. |
+| 45–46 | Electrician | The Crack | you cut the power, reroute it, or kill the lights. |
+| 47–48 | Demolitionist | The Crack | you blow a wall, door, or safe — precisely. |
+| 49–50 | Tunneler | The Crack | you dig in from below: sewers, basements, the vault floor. |
+| 51–52 | Chemist | The Crack | you dose it — the drink, the dart, the lock: knockout drops, acid, smoke. |
+| 53–54 | Gadgeteer | The Crack | you produce — or jury-rig — exactly the gadget the moment needs. |
+| 55–56 | Ward-Breaker | The Crack | you unravel magical security — a ward, a sealed circle, a lock with no keyhole. |
+| 57–58 | Cat Burglar | The Sneak | you climb in high and silent where there's no door. |
+| 59–60 | Acrobat | The Sneak | you cross vents, ledges, laser-grids, and tight squeezes. |
+| 61–62 | Escape Artist | The Sneak | you slip the cuffs, the ropes, the cell — nothing holds you long. |
+| 63–64 | Pickpocket | The Sneak | you lift a keycard, wallet, or phone unnoticed. |
+| 65–66 | Sleight-of-Hand Artist | The Sneak | you make the swap, the palm, the switch. |
+| 67–68 | Inside Man | The Sneak | you use your access — the badge, the rounds, the key to the back door — to open the way for the crew. |
+| 69–70 | Forger | The Sneak | you fake a document, badge, seal, or banknote. |
+| 71–72 | Scout | The Sneak | you case a target: routines, guards, blind spots. |
+| 73–74 | Lookout | The Sneak | you read the room and call the heat early. |
+| 75–76 | Shadow-Walker | The Sneak | you cross with a touch of magic — silent, shadowed, or briefly unseen. |
+| 77–78 | Wheelman | The Heat | you drive the getaway through any chase. |
+| 79–80 | Getaway Pilot | The Heat | you fly the exit: chopper, boat, or plane. |
+| 81–82 | Hitter | The Heat | you handle the muscle when talk won't do. |
+| 83–84 | Brawler | The Heat | you fight with your fists — a bar scrap, a grapple, a knockout swing. |
+| 85–86 | Gunslinger | The Heat | you fight with a gun — a quick draw, a dead-eye shot, or covering fire for the exit. |
+| 87–88 | Bodyguard | The Heat | you keep the crew (or the mark) alive. |
+| 89–90 | Crew Medic | The Heat | you **Mend** — patch a crewmate in the back of the van and get them back in the job. |
+| 91–92 | A Cop on the Payroll | Allies | you call your cop to lose a report, stall a pursuit, or wave you through. |
+| 93–94 | A Society Patron | Allies | you use your patron's name, invitations, or money to open the doors upstairs. |
+| 95–96 | The Old Crew | Allies | you call in a favor from the old crew — a tool, a tail, a second pair of hands. |
+| 97–98 | A Guy for That | Allies | you know a guy — there's always a guy — who can get it, forge it, or make it disappear. |
+| 99–100 | A Light-Fingered Ferret | Allies | you send your ferret through the vent, the bars, or the pocket. |
+
+> **Running a magical caper?** *Mistborn*, *Six of Crows* — a crew whose unfair advantage is real magic. The three magic rows above (Mesmerist, Shadow-Walker, Ward-Breaker) are your starters; for more, raid the **Adventure kit's** magic rows (Chapter 19) and the **Mystery kit's** occult rows (Chapter 20) and reskin them to fit the job. And remember the worldbuilding note above: whatever magic your world runs on is also its *security* — the cooler the defense, the sweeter the crack.
 
 ### Caper Boon triggers (d10)
 
