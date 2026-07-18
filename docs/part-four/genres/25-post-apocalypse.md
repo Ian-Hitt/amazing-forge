@@ -185,68 +185,83 @@ The wasteland leans on **Clever and Charming**, but every Stat earns its keep:
 
 The wasteland kills the unready — by raider, by hunger, or by cold. Build a hero who can defend what's theirs *and* keep the group fed, fixed, and moving.
 
-**1. How do you fight off a threat?** Raiders, beasts, desperate people — the wasteland sends them all. Have an answer. *Gunslinger · Brawler · Ex-Soldier · Trapper · The One Who Holds the Line.*
+**1. How do you fight off a threat?** Raiders, beasts, desperate people — the wasteland sends them all. Have an answer. *Gunslinger · Brawler · Ex-Soldier · Guardian · Beast-Hunter.*
 
 **2. How do you keep people alive?** Your edge against the world itself — finding it, fixing it, healing it, or trading for it. *Scavenger · Mechanic · Medic · Hunter · Trader.*
 
-**3. What's the one thing you're never without?** Your signature gear, companion, or tie — loaded with story. *A Rifle From the Old World · A Loyal Dog · A Map to a Place That Might Still Stand.*
+**3. Who — or what — is never far from your side?** Your companion, contact, or tie to the wider waste — loaded with story. *A Loyal Guard Dog · A Mutant Companion · A Friend in Every Camp.*
 
-> **Then check the party.** Between you all, can someone fight, scavenge, fix what breaks, patch the wounded, *and* hold a community together? In the wasteland, the group that covers each other lasts; the rest become a cautionary tale.
+> **Then check the party.** Between you all, can someone fight, scavenge, fix what breaks, patch the wounded, *and* hold a community together? The Asset table's categories are exactly this checklist — if a whole category has no one, someone reshape an Asset to cover it. In the wasteland, the group that covers each other lasts; the rest become a cautionary tale.
 
 ### Archetypes
 
 *An Archetype is a ready-made build — two Stats and three Assets. Play one straight, swap any Asset, or mix bricks from different builds into something new.*
 
-- **The Scavenger** — lives by what they can find and fix; reads the ruins like a map of what's still useful. *Clever + Sneaky · Tinkerer · Tracker · Demolitionist.*
-- **The Medic** — keeps the group alive with a dwindling kit and steady hands. *Clever + Charming · Medic · Doctor · Herbalist.*
-- **The Mechanic** — if it has an engine, they can coax it back to life one more time. *Clever + Strong · Mechanic · Engineer · Distiller.*
-- **The Guardian** — stands between the camp and the wasteland; the muscle who protects, not the kind who takes. *Strong + Quick · Guardian · Sharpshooter · Beast-Hunter.*
-- **The Grower** — feeds the group from a dead world and quietly plants the future. *Clever + Strong · Farmer · Forager · Cook.*
-- **The Wanderer** — the lone traveler who knows the roads, the camps, and the safe way through. *Quick + Clever · Scout · Pathfinder · Rider.*
-- **The Keeper** — carries the old world's knowledge, and the faith that it's worth saving. *Clever + Charming · Keeper · Radio Operator · Leader.*
+- **The Scavenger** — lives by what they can find and fix; reads the ruins like a map of what's still useful. *Clever + Sneaky · Scavenger · Tinkerer · Ghost.*
+- **The Medic** — keeps the group alive with a dwindling kit and steady hands. *Clever + Charming · Medic · Chemist · Negotiator.*
+- **The Mechanic** — if it has an engine, they can fix it, fuel it, and drive it out one more time. *Clever + Strong · Mechanic · Driver · Quartermaster.*
+- **The Guardian** — stands between the camp and the wasteland; the muscle who protects, not the kind who takes. *Strong + Quick · Guardian · Sharpshooter · Lookout.*
+- **The Grower** — feeds the group from a dead world and quietly plants the future. *Clever + Strong · Farmer · Beast-Tamer · Trader.*
+- **The Wanderer** — the lone traveler who knows the roads, the camps, and the safe way through. *Quick + Clever · Pathfinder · Weather-Wise · A Friend in Every Camp.*
+- **The Keeper** — carries the old world's knowledge, and the faith that it's worth saving. *Clever + Charming · Keeper · Radio Operator · Engineer.*
+- **The Smuggler** — moves what others can't, through places no one else would try. *Sneaky + Quick · Smuggler · Gunslinger · Ruin-Runner.*
 
 ### The Post-Apocalypse Asset table (d100)
 
-*Roll **d100** for a surprise (over 72, roll again), or skim and grab the ones that make you grin. Every entry shares the same odds. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise — 50 entries in bands of two, so the whole d100 is covered — or skim and grab the ones that make you grin. Every Asset has a **category** — the kind of challenge where it shines: **Survival** (the world itself is trying to kill you — food, water, wounds, weather) · **Craft & Repair** (the dead engine, the broken pump, the sealed vault) · **Combat** (raiders, beasts, and desperate people) · **The Road** (crossing the waste — and everything between here and there) · **Stealth** (past the checkpoint, through the herd, in and out unseen) · **Community** (barter, rally, and the fights you win with words) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). A well-rounded survivor takes their three Assets from **three different categories** — that way, whatever the wasteland throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Survival mountain hermit is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
-| d100 | Asset | You add +1 when… |
-|---|---|---|
-| 1–2 | Forager | you find safe food or water in a dead land. |
-| 3–4 | Hunter | you stalk and bring down game for meat. |
-| 5–6 | Herbalist | you use plants to heal, or to poison. |
-| 7–8 | Tracker | you read a trail: who passed, when, how many. |
-| 9–10 | Cook | you turn scavenged, questionable food into a safe meal. |
-| 11–12 | Distiller | you make fuel, alcohol, or clean water from junk. |
-| 13–14 | Farmer | you coax crops from poisoned soil. |
-| 15–16 | Beast-Tamer | you tame a wasteland creature into a mount or guard. |
-| 17–18 | Medic | you patch a wound with a dwindling kit. |
-| 19–20 | Doctor | you handle surgery, triage, or real sickness. |
-| 21–22 | Mechanic | you bring a dead engine back for one more run. |
-| 23–24 | Engineer | you fix a pump, turbine, or pre-collapse machine. |
-| 25–26 | Tinkerer | you jury-rig gear from scrap and wire. |
-| 27–28 | Electrician | you wire up power, batteries, or salvaged tech. |
-| 29–30 | Gunsmith | you repair a weapon or reload spent brass. |
-| 31–32 | Demolitionist | you breach, clear rubble, or drop a structure with explosives. |
-| 33–34 | Quartermaster | you ration, stretch, or manage the group's scarce supplies. |
-| 35–36 | Sharpshooter | you take a shot at long range. |
-| 37–38 | Raider | you hit hard and fast to take what's needed. |
-| 39–40 | Guardian | you stand between the camp and the wasteland. |
-| 41–42 | Brawler | you fight close with fists or whatever's at hand. |
-| 43–44 | Bodyguard | you keep one person alive through anything. |
-| 45–46 | Beast-Hunter | you hunt the wasteland's mutated, dangerous creatures. |
-| 47–48 | Driver | you push a vehicle through wreck-choked roads. |
-| 49–50 | Rider | you cross the open waste by bike or horse. |
-| 51–52 | Scout | you range ahead into unknown territory. |
-| 53–54 | Pathfinder | you pick the safe route past the killing grounds. |
-| 55–56 | Trader | you barter a fair deal across settlements. |
-| 57–58 | Negotiator | you talk down a twitchy gunman or a warlord. |
-| 59–60 | Smuggler | you move contraband or people past a checkpoint. |
-| 61–62 | Leader | you rally a frightened group to hold together. |
-| 63–64 | Keeper | you draw on the old world's knowledge and how-to. |
-| 65–66 | Radio Operator | you work the airwaves to reach the living. |
-| 67–68 | A Friend in Every Camp | you need a place to trade, rest, or hide. |
-| 69–70 | A Loyal Guard Dog | your dog warns of danger, tracks, or fights. |
-| 71–72 | A Pack Mule | your mule hauls what no one else can. |
+| d100 | Asset | Category | You add +1 when… |
+|---|---|---|---|
+| 1–2 | Scavenger | Survival | you comb the ruins for what others walked past — parts, meds, the one thing the group needs. |
+| 3–4 | Forager | Survival | you find safe food or water in a dead land. |
+| 5–6 | Hunter | Survival | you stalk and bring down game for meat. |
+| 7–8 | Trapper | Survival | you set snares — for game, or for whatever's been circling the camp. |
+| 9–10 | Farmer | Survival | you coax crops from poisoned soil. |
+| 11–12 | Cook | Survival | you turn scavenged, questionable food into a safe meal. |
+| 13–14 | Distiller | Survival | you make fuel, alcohol, or clean water from junk. |
+| 15–16 | Quartermaster | Survival | you make what's left cover everyone — one more day, one more mile. |
+| 17–18 | Tracker | Survival | you read a trail: who passed, when, how many. |
+| 19–20 | Weather-Wise | Survival | you read the sky and the land — the storm coming, the ground that won't hold, the night that will kill. |
+| 21–22 | Medic | Survival | you **Mend** — patch a wound, splint a break, fight an infection with a dwindling kit. |
+| 23–24 | Herbalist | Survival | you **Mend** with plants — or use them to poison. |
+| 25–26 | Mechanic | Craft & Repair | you bring a dead engine back for one more run. |
+| 27–28 | Engineer | Craft & Repair | you fix a pump, a turbine, or a pre-collapse machine. |
+| 29–30 | Tinkerer | Craft & Repair | you jury-rig gear from scrap and wire. |
+| 31–32 | Electrician | Craft & Repair | you wire up power, batteries, or salvaged tech. |
+| 33–34 | Gunsmith | Craft & Repair | you repair a weapon or reload spent brass. |
+| 35–36 | Chemist | Craft & Repair | you brew what the ruins can't give — medicine, acid, a very loud distraction. |
+| 37–38 | Demolitionist | Craft & Repair | you breach, clear rubble, or drop a structure with explosives. |
+| 39–40 | Vault-Cracker | Craft & Repair | you get past a sealed door, an old-world lock, or a security system still on duty. |
+| 41–42 | Gunslinger | Combat | you're fast and sure in a firefight. |
+| 43–44 | Sharpshooter | Combat | you take a shot at long range. |
+| 45–46 | Ex-Soldier | Combat | you use your training — holding a position, reading an ambush, moving as a unit. |
+| 47–48 | Brawler | Combat | you fight close with fists or whatever's at hand. |
+| 49–50 | Guardian | Combat | you stand between the camp and the wasteland. |
+| 51–52 | Bodyguard | Combat | you keep one person alive through anything. |
+| 53–54 | Beast-Hunter | Combat | you hunt the wasteland's mutated, dangerous creatures. |
+| 55–56 | Raider | Combat | you hit hard and fast to take what's needed. |
+| 57–58 | Driver | The Road | you push a vehicle through wreck-choked roads. |
+| 59–60 | Rider | The Road | you cross the open waste by bike or horse. |
+| 61–62 | Boatman | The Road | you handle a boat through drowned streets or open water. |
+| 63–64 | Scout | The Road | you range ahead into unknown territory. |
+| 65–66 | Pathfinder | The Road | you pick the safe route past the killing grounds. |
+| 67–68 | Ruin-Runner | The Road | you climb, leap, and squeeze through the bones of the old world. |
+| 69–70 | Beast-Tamer | The Road | you tame a wasteland creature into a mount or guard. |
+| 71–72 | Ghost | Stealth | you move unseen — through the ruins, past the herd, out of a checkpoint's sightline. |
+| 73–74 | Smuggler | Stealth | you move contraband or people past a checkpoint. |
+| 75–76 | Infiltrator | Stealth | you pass as one of another camp, faction, or gang. |
+| 77–78 | Lookout | Stealth | you keep watch — and catch the movement everyone else missed. |
+| 79–80 | Trader | Community | you barter a fair deal across settlements. |
+| 81–82 | Negotiator | Community | you talk down a twitchy gunman or a warlord. |
+| 83–84 | Leader | Community | you rally a frightened group to hold together. |
+| 85–86 | Storyteller | Community | you rekindle hope — a story, a song, a memory of the world worth rebuilding. (A pep talk that patches someone up is a **Mend**.) |
+| 87–88 | Keeper | Community | you use the old world's know-how — how the turbines ran, what the signs mean, how it was done before. |
+| 89–90 | Radio Operator | Community | you work the airwaves to reach the living. |
+| 91–92 | A Friend in Every Camp | Allies | you need a place to trade, rest, or hide. |
+| 93–94 | A Loyal Guard Dog | Allies | your dog warns of danger, tracks, or fights. |
+| 95–96 | A Pack Mule | Allies | your mule hauls what no one else can. |
+| 97–98 | A Mutant Companion | Allies | your strange beast friend does what no dog could — climb, haul, terrify. |
+| 99–100 | A Voice on the Radio | Allies | your distant contact comes through — a warning, a route, a name that opens doors. |
 
 ### Post-Apocalypse Boon triggers (d10)
 
