@@ -184,61 +184,85 @@ Drama is social warfare, so **Charming, Clever, and Sneaky** carry most scenes �
 
 Drama is fought with words, wants, and secrets — not swords. Build a hero with something to *want* and a way to get it, and the conflict writes itself.
 
-**1. What do you want — badly enough to burn a bridge for it?** Drama runs on desire. Your hero needs a drive, and a role that chases it. *Ambitious Heir · Devoted Parent · Climber · True Believer · Schemer.*
+**1. What do you want — badly enough to burn a bridge for it?** Drama runs on desire. Your hero needs a drive, and a role that chases it. *Social Climber · The Heir · Romantic · Prodigy · Schemer.*
 
-**2. How do you get your way with people?** Your weapon in a crowded room — warmth, cunning, intimidation, or the well-kept secret. *Charmer · Manipulator · Straight-Shooter · Blackmailer · Confidant.*
+**2. How do you get your way with people?** Your weapon in a crowded room — warmth, cunning, the plain truth, or the well-kept secret. *Manipulator · Straight Shooter · Knows Everyone's Secrets · Peacemaker · Critic.*
 
-**3. What's the one thing you're never without?** Your signature tie, secret, or keepsake — loaded with story. *A Letter You Never Sent · A Rival Who Knows You Best · The Family Name.*
+**3. What's the one thing you're never without?** Your signature tie, secret, or keepsake — loaded with story. *The Family Name · An Old Flame · A Rival Who Knows You Best.*
 
-> **Then check the party.** Drama's confrontations are usually words — but bodies still collide. If your story might turn physical (a brawl, a desperate act), make sure *someone* can handle it; otherwise, lean into the social knives.
+> **Then check the party.** Between you all, can someone win a room, run a scheme, dig up a secret, *and* put a friend back together? The Asset table's categories are exactly this checklist — if a whole category has no one, someone reshape an Asset to cover it. And Drama's confrontations are usually words, but bodies still collide — if your story might turn physical (a brawl, a duel, a desperate act), make sure *someone* can handle it (*Athlete · Duelist*); otherwise, lean into the social knives.
 
 ### Archetypes
 
 *An Archetype is a ready-made build — two Stats and three Assets. Play one straight, swap any Asset, or mix bricks from different builds into something new.*
 
-- **The Golden One** — admired, envied, watched by everyone; the bar the others measure against. *Charming + Clever · Socialite · Ringleader · Tastemaker.*
-- **The Outsider** — clawing their way in, seeing the whole game clearly *because* they're new. *Clever + Sneaky · Social Climber · Instigator · Critic.*
-- **The Loyal Best Friend** — the heart of the group; holds everyone's secrets and their hands. *Charming + Strong · Confidant · Peacemaker · A Loyal Best Friend.*
-- **The Schemer** — three moves ahead, collecting favors and secrets for the long game. *Clever + Charming · Schemer · Manipulator · Knows Everyone's Secrets.*
-- **The Heart-on-Sleeve Romantic** — feels everything loudly; love is their whole engine. *Charming + Quick · Romantic · Confidant · An Old Flame.*
-- **The Rival** — your equal and your opposite; pushes you to be sharper. *Charming + Clever · Critic · Saboteur · Manipulator.*
-- **The Wallflower with Depths** — overlooked, underestimated, and quietly the most observant person in the room. *Sneaky + Clever · Wallflower · Gossip · Knows Everyone's Secrets.*
+- **The Golden One** — admired, envied, watched by everyone; the bar the others measure against. *Charming + Clever · Socialite · Tastemaker · A Web of Favors Owed.*
+- **The Outsider** — clawing their way in, seeing the whole game clearly *because* they're new. *Clever + Sneaky · Social Climber · Poison Pen · Rumor-Tracer.*
+- **The Loyal Best Friend** — the heart of the group; holds everyone's secrets and their hands. *Charming + Strong · Shoulder to Cry On · Straight Shooter · A Loyal Best Friend.*
+- **The Schemer** — three moves ahead, collecting favors and secrets for the long game. *Clever + Charming · Schemer · Knows Everyone's Secrets · A Spy in the Other Camp.*
+- **The Heart-on-Sleeve Romantic** — feels everything loudly; love is their whole engine. *Charming + Quick · Romantic · Poet · An Old Flame.*
+- **The Rival** — your equal and your opposite; pushes you to be sharper. *Charming + Clever · Critic · Saboteur · Team Captain.*
+- **The Wallflower with Depths** — overlooked, underestimated, and quietly the most observant person in the room. *Sneaky + Clever · Wallflower · Keeper of Receipts · Knows Everyone's Heart.*
+- **The Star** — born for the spotlight, and it costs them. *Charming + Quick · Prodigy · Actor · A Powerful Patron.*
 
 ### The Drama Asset table (d100)
 
-*Roll **d100** for a surprise (over 58, roll again), or skim and grab the ones that make you grin. Every entry shares the same odds. No percentile dice? Pick from the list, or build from one of the archetypes above.*
+*Roll **d100** for a surprise (over 52, roll again — every entry shares the same odds), or skim and grab the ones that make you grin. Every Asset has a **category** — the kind of challenge where it shines: **Persuasion** (winning the live scene — convincing, rallying, defusing, cutting down) · **Scheming** (the long game — leverage, favors, sabotage, spin) · **Secrets** (finding them, proving them, tracing them) · **Performance & Competition** (the stage, the big game, all eyes on you) · **Heart-to-Hearts** (confessions, repair, steadying the people you love) · **Allies** (the odd one out — not a challenge but a wild card: an ally helps with *any* challenge their description can reach). A well-rounded hero takes their three Assets from **three different categories** — that way, whatever the season throws at you, one of your scenes is coming. It's a tip, not a rule: an all-Scheming mastermind is legal and glorious. No percentile dice? Pick from the list, or build from one of the archetypes above.*
 
-| d100 | Asset | You add +1 when… |
-|---|---|---|
-| 1–2 | Socialite | you work a party, a gala, or the room that matters. |
-| 3–4 | Ringleader | you lead the group that everyone else follows. |
-| 5–6 | Tastemaker | you set the trend, the look, or what's cool. |
-| 7–8 | Social Climber | you work your way up — ingratiating, leveraging, rising. |
-| 9–10 | Confidant | someone trusts you with a secret they tell no one else. |
-| 11–12 | Peacemaker | you defuse a fight and get two sides talking. |
-| 13–14 | Mentor | you guide someone younger through a hard season. |
-| 15–16 | Gossip | you know who did what to whom, and when. |
-| 17–18 | Schemer | you play the long game of favors, leverage, and patience. |
-| 19–20 | Manipulator | you get someone to choose what you wanted all along. |
-| 21–22 | Negotiator | you broker a deal or a truce nobody else can. |
-| 23–24 | Fixer | you make a problem quietly disappear — a debt, a scandal. |
-| 25–26 | Spin Doctor | you control the story when a scandal breaks. |
-| 27–28 | Instigator | you light the fuse and stir the pot on purpose. |
-| 29–30 | Critic | you cut someone down, publicly and memorably. |
-| 31–32 | Saboteur | you undermine a rival's plans from inside. |
-| 33–34 | Journalist | you chase the story behind the scandal. |
-| 35–36 | Wallflower | you go unnoticed and overhear what others miss. |
-| 37–38 | Class Clown | you defuse tension or win a room with humor. |
-| 39–40 | Romantic | you wear your heart openly, or make the grand gesture. |
-| 41–42 | Prodigy | you show off a dazzling talent: music, art, or science. |
-| 43–44 | Athlete | you face the big game, match, or physical contest. |
-| 45–46 | A Powerful Patron | you call on an influential backer for support. |
-| 47–48 | A Web of Favors Owed | you call in a debt from across town. |
-| 49–50 | A Loyal Best Friend | you need someone to lie, fight, or cover for you. |
-| 51–52 | An Old Flame | you turn to a past love who still answers. |
-| 53–54 | A Spy in the Other Camp | you need eyes inside a rival's circle. |
-| 55–56 | Knows Everyone's Secrets | you hold leverage over someone who matters. |
-| 57–58 | Family Money | you throw money, lawyers, or status at a problem. |
+| d100 | Asset | Category | You add +1 when… |
+|---|---|---|---|
+| 1 | Socialite | Persuasion | you work a party, a gala, or the room that matters. |
+| 2 | Ringleader | Persuasion | you rally your crew to follow your lead — the plan, the freeze-out, the show of force. |
+| 3 | Courtier | Persuasion | you navigate rank and protocol — who bows first, who sits where, what must never be said. |
+| 4 | Negotiator | Persuasion | you broker a deal or a truce nobody else can. |
+| 5 | Debater | Persuasion | you win the argument — point by point, or on the technicality no one else read. |
+| 6 | Straight Shooter | Persuasion | you say the plain, hard truth — and it lands because everyone knows you mean it. |
+| 7 | The Conscience | Persuasion | you appeal to what's right — and make it impossible to pretend you didn't hear. |
+| 8 | Class Clown | Persuasion | you defuse tension or win a room with humor. (A pep talk that patches someone up is a **Mend**.) |
+| 9 | Critic | Persuasion | you cut someone down, publicly and memorably. |
+| 10 | Gatekeeper | Persuasion | you decide who gets in — the list, the club, the inner circle. |
+| 11 | Party Planner | Persuasion | you stage the event where it all goes down — the seating, the timing, the moment. |
+| 12 | Schemer | Scheming | you play the long game of favors, leverage, and patience. |
+| 13 | Manipulator | Scheming | you get someone to choose what you wanted all along. |
+| 14 | Social Climber | Scheming | you charm your way into a circle above your station. |
+| 15 | The Heir | Scheming | you press your claim — the birthright, the title, the seat everyone knows should be yours. |
+| 16 | Fixer | Scheming | you make a problem quietly disappear — a debt, a scandal. |
+| 17 | Spin Doctor | Scheming | you control the story when a scandal breaks. |
+| 18 | Instigator | Scheming | you light the fuse and stir the pot on purpose. |
+| 19 | Saboteur | Scheming | you undermine a rival's plans from inside. |
+| 20 | Knows Everyone's Secrets | Scheming | you use what you know about someone — to open a door, stop a mouth, or bend a choice. |
+| 21 | Poison Pen | Scheming | you strike anonymously — the unsigned letter, the blind item, the review that ruins. |
+| 22 | Gossip | Secrets | you tap the whisper network — who did what to whom, and when. |
+| 23 | Wallflower | Secrets | you go unnoticed and overhear what others miss. |
+| 24 | Journalist | Secrets | you chase the story behind the scandal. |
+| 25 | Keeper of Receipts | Secrets | you produce the receipts — the photo, the screenshot, the note that proves it. |
+| 26 | Rumor-Tracer | Secrets | you trace a rumor back to whoever started it. |
+| 27 | Barkeep | Secrets | you tap what you hear across your counter — everyone talks to the barkeep. |
+| 28 | Prodigy | Performance & Competition | you show off a dazzling talent: music, art, or science. |
+| 29 | Athlete | Performance & Competition | you face the big game, match, or physical contest. |
+| 30 | Duelist | Performance & Competition | you answer it in the open — the duel, the face-off, the fight everyone circles up to watch. |
+| 31 | Actor | Performance & Competition | you step into a role — the play, the pageant, the character you've rehearsed. |
+| 32 | Tastemaker | Performance & Competition | you set the trend, the look, or what's cool. |
+| 33 | Team Captain | Performance & Competition | you lead the team when it counts — the huddle, the hard call, the example set. |
+| 34 | Coach | Performance & Competition | you **Aid an Ally** — the drills, the notes, the talk before they walk out there. |
+| 35 | Romantic | Heart-to-Hearts | you make the grand gesture — the confession, the serenade, the run through the rain. |
+| 36 | Knows Everyone's Heart | Heart-to-Hearts | you know what someone really wants or fears — and speak straight to it. |
+| 37 | Confidant | Heart-to-Hearts | you get someone to open up — the truth they'd tell no one else. |
+| 38 | Shoulder to Cry On | Heart-to-Hearts | you **Mend** — the long talk, the ice cream, the walk home that puts someone back together. |
+| 39 | Peacemaker | Heart-to-Hearts | you defuse a fight and get two sides talking. |
+| 40 | Matchmaker | Heart-to-Hearts | you set two people up — the seat swap, the "accidental" meeting, the word in the right ear. |
+| 41 | Mentor | Heart-to-Hearts | you guide someone younger through a hard season. |
+| 42 | Big Sibling | Heart-to-Hearts | you look out for the younger ones — yours, or anyone's who needs it. |
+| 43 | Poet | Heart-to-Hearts | you put the feeling into words — the song, the poem, the toast that says what no one else could. |
+| 44 | Host | Heart-to-Hearts | you host the moment — the dinner, the inn, the table where the truth can finally come out. |
+| 45 | A Powerful Patron | Allies | you call on an influential backer for support. |
+| 46 | A Web of Favors Owed | Allies | you call in a debt from across town. |
+| 47 | A Loyal Best Friend | Allies | you need someone to lie, fight, or cover for you. |
+| 48 | An Old Flame | Allies | you turn to a past love who still answers. |
+| 49 | A Spy in the Other Camp | Allies | you need eyes inside a rival's circle. |
+| 50 | A Rival Who Knows You Best | Allies | your rival steps in — because no one gets to beat you but them. |
+| 51 | A Doting Grandparent | Allies | your grandparent comes through — cash, cover, or the story that explains everything. |
+| 52 | The Family Name | Allies | you spend the family's money, name, or lawyers on the problem. |
 
 ### Drama Boon triggers (d10)
 
