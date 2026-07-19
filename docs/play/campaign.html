@@ -1057,11 +1057,15 @@
       var card = el("div", "card");
       var ch = el("div", "card-head");
       var title = el("div", "title");
-      title.innerHTML = esc(a.goal || "Untitled Story Arc") + ' <span class="dim">— ' + sz.label + " · " + a.arc + "/" + sz.ms + " ▸ antagonist " + a.anta + "/" + sz.anta + "</span>";
+      var nameIn = el("input"); nameIn.type = "text"; nameIn.value = a.goal || ""; nameIn.placeholder = "Name this Story Arc…"; nameIn.style.fontWeight = "800";
+      nameIn.oninput = function () { a.goal = nameIn.value; persist(); };
+      title.appendChild(nameIn);
+      var meta = el("div", "title"); meta.style.flex = "0 0 auto";
+      meta.innerHTML = '<span class="dim">' + sz.label + " · " + a.arc + "/" + sz.ms + " ▸ antagonist " + a.anta + "/" + sz.anta + "</span>";
       var actions = el("div", "actions");
       var del = delBtn(); del.title = "Delete Story Arc"; del.onclick = function () { confirmDel("Delete this Story Arc?", function () { camp.arcs = camp.arcs.filter(function (x) { return x !== a; }); persist(); render(); }); };
       actions.appendChild(del);
-      ch.appendChild(title); ch.appendChild(actions);
+      ch.appendChild(title); ch.appendChild(meta); ch.appendChild(actions);
       card.appendChild(ch);
       card.appendChild(arcEditor(a));
       root.appendChild(card);
@@ -1071,8 +1075,6 @@
   function arcEditor(a) {
     var sz = SIZES[a.size];
     var box = el("div"); box.style.marginTop = ".6rem";
-
-    box.appendChild(labeled("The Goal", textField(a, "goal", "Recover the stolen Sun Crystal", function () { /* */ })));
 
     // size picker
     var sp = el("div", "sizepick"); sp.style.margin = ".7rem 0 .2rem";
