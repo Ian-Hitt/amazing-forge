@@ -244,9 +244,9 @@ Adventure throws fights, wild country, and old mysteries at *everyone* — so bu
 | 28 | Wagoner | Exploration | you drive a cart, team, or caravan through hard going or a hard chase. |
 | 29 | Deep-Delver | Exploration | you read the underground — caves, tunnels, unstable stone, buried ways. |
 | 30 | Winged | Exploration | you take to the air — crossing a gap, escaping, or striking from above. |
-| 31 | Scout | Infiltration | you slip ahead unseen to learn what lies in wait. |
+| 31 | Scout | Infiltration | you **Prepare** by slipping ahead unseen to learn what lies in wait — and bank the edge for when you meet it. |
 | 32 | Lookout | Infiltration | you spot what's hidden — an ambush, a secret door, a watcher in the crowd. |
-| 33 | Burglar | Infiltration | you get past a lock or a trap — pick it, jam it, disarm it, or set one of your own. |
+| 33 | Burglar | Infiltration | you get past a lock or a trap — pick it, jam it, disarm it, or **Prepare** one of your own for whoever's coming. |
 | 34 | Acrobat | Infiltration | you climb, tumble, balance, or make a daring leap. |
 | 35 | Escape Artist | Infiltration | you slip free of bonds, cells, manacles, or a tight corner. |
 | 36 | Cutpurse | Infiltration | you palm, plant, or lift something without being noticed. |
@@ -254,16 +254,16 @@ Adventure throws fights, wild country, and old mysteries at *everyone* — so bu
 | 38 | Spellbreaker | Infiltration | you unravel, block, or lift a spell, ward, or curse. |
 | 39 | Sunderer | Infiltration | you batter through a door, wall, shield, or bonds. |
 | 40 | Loremaster | Craft & Lore | you recall lore — history, ruins, relics, old tongues. |
-| 41 | Diviner | Craft & Lore | you seek a hidden truth or glimpse what's to come. |
+| 41 | Diviner | Craft & Lore | you seek a hidden truth or glimpse what's to come (a **Prepare**) — and bank the foresight for the moment it lands. |
 | 42 | Spirit-Speaker | Craft & Lore | you speak with spirits or the dead — asking, not commanding. |
 | 43 | Healer | Craft & Lore | you **Mend** with magic — knit a wound, cure an ailment. |
 | 44 | Field Medic | Craft & Lore | you **Mend** without magic — bind, splint, stitch. |
 | 45 | Herbalist | Craft & Lore | you **Mend** with herbs — or brew a poison or a remedy. |
 | 46 | Alchemist | Craft & Lore | you brew or use a potion, acid, or alchemical fire. |
-| 47 | Ritualist | Craft & Lore | you take time to work a ward, rune, circle, or binding. |
+| 47 | Ritualist | Craft & Lore | you take time to **Prepare** a ward, rune, circle, or binding against what's coming. |
 | 48 | Tinker | Craft & Lore | you build, rig, or repair a mechanism or device. |
 | 49 | Smith | Craft & Lore | you forge, mend, or judge weapons, armor, and gear. |
-| 50 | Siegewright | Craft & Lore | you build, crew, or bring down walls, engines, and fortifications. |
+| 50 | Siegewright | Craft & Lore | you build, crew, or bring down walls, engines, and fortifications — **Prepare** a strongpoint before the assault, or breach one now. |
 | 51 | Diplomat | Social | you negotiate terms, broker peace, or defuse a standoff. |
 | 52 | Courtier | Social | you navigate a court — etiquette, precedence, who really holds power. |
 | 53 | Minstrel | Social | you hold a crowd with song, story, or showmanship. |

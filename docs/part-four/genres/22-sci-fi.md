@@ -220,9 +220,9 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 | 6 | Mech Pilot | Combat | you fight in a walker or battle-mech. |
 | 7 | Starship Captain | Combat | you command — a tense bridge, a boarding action, or the winning call. |
 | 8 | Ace Pilot | Piloting | you fly or dodge through a tight, dangerous run. |
-| 9 | Navigator | Piloting | you plot a course, a jump, or a way through. |
+| 9 | Navigator | Piloting | you plot a course, a jump, or a way through — plot it ahead of time (a **Prepare**) and bank the edge for the run. |
 | 10 | Wheelman | Piloting | you drive a ground rig — rover, bike, or hauler — through hard going or a chase. |
-| 11 | Drone Pilot | Piloting | you send a drone where you can't go yourself. |
+| 11 | Drone Pilot | Piloting | you send a drone where you can't go yourself — scout ahead with it (a **Prepare**) and bank what it finds. |
 | 12 | Engineer | Machines | you keep the reactor, drives, or life-support alive. |
 | 13 | Mechanic | Machines | you fix or jury-rig a broken machine. |
 | 14 | Roboticist | Machines | you build, repair, or reprogram a drone or bot. |
@@ -231,11 +231,11 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 | 17 | Hacker | Systems | you slice a system, door, or network. |
 | 18 | Codebreaker | Systems | you crack a cipher, decode a signal, or dig the answer from the data. |
 | 19 | Comms Specialist | Systems | you read, jam, or work a signal or channel. |
-| 20 | Sensor Operator | Systems | you scan, sweep, or spot what's out there. |
+| 20 | Sensor Operator | Systems | you **Prepare** by scanning ahead — what's out there, where it is, where it's weak. |
 | 21 | AI-Whisperer | Systems | you coax, bargain with, or out-logic a machine mind. |
 | 22 | Spacewalker | Survival | you work in EVA, zero-G, or open vacuum. |
 | 23 | Survivalist | Survival | you survive a hostile world — heat, cold, toxic air. |
-| 24 | Scout | Survival | you range ahead into the unknown and unmapped. |
+| 24 | Scout | Survival | you range ahead into the unknown and unmapped — a **Prepare** that banks the lay of the land for what's coming. |
 | 25 | Medic | Survival | you **Mend** a hurt crewmate — human or otherwise — far from any hospital. |
 | 26 | Beast-Wrangler | Survival | you calm, wrangle, or ride an alien creature. |
 | 27 | Synthetic | Survival | you push past a human limit: no fear, fatigue, or breath. |
@@ -245,7 +245,7 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 | 31 | Xeno-Archaeologist | The Unknown | you examine precursor ruins, artifacts, or dead tech. |
 | 32 | Linguist | The Unknown | you read or speak an alien tongue or code. |
 | 33 | Mystic | The Unknown | you reach out with your mind — sense what's hidden, or move what you can't touch. |
-| 34 | Seer | The Unknown | you glimpse what's coming — a vision, a warning, a very bad feeling. |
+| 34 | Seer | The Unknown | you glimpse what's coming — a vision, a warning, a very bad feeling; a **Prepare** that banks the edge for the moment it lands. |
 | 35 | Spirit-Speaker | The Unknown | you commune with what lingers — a ghost, an echo, a mind without a body. |
 | 36 | Corporate Spy | Infiltration | you steal secrets, IDs, or data from inside. |
 | 37 | Saboteur | Infiltration | you wreck an enemy's systems, ship, or gear from within. |
@@ -261,7 +261,7 @@ Sci-Fi runs on tech and brains — but space is dangerous, and a crew of pure en
 | 47 | Bureaucrat | Social | you work the system — permits, clearances, protocols, who really decides. |
 | 48 | The Med Bay | The Ship | you **Mend** in your med bay — real surgery, real beds, your machines. |
 | 49 | The Machine Shop | The Ship | you fix or build it properly — your bench, your tools, your parts. |
-| 50 | The Science Lab | The Ship | you run a real analysis — samples, cultures, simulations, time to think. |
+| 50 | The Science Lab | The Ship | you run a real analysis — samples, cultures, simulations, time to think; **Prepare** here and the answer sharpens your next move on it. |
 | 51 | The Galley | The Ship | you **Mend** a crewmate's frayed nerve — a hot meal, your table, a talk. |
 | 52 | Hidden Holds | The Ship | you use your hidden holds to get something — or someone — through a search. |
 | 53 | A False Transponder | The Ship | you use your false transponder to slip a patrol, a blockade, or a checkpoint. |

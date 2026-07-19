@@ -59,7 +59,7 @@ A Challenge runs as a loose, **popcorn-style round-robin.** There are **no initi
 
 - **Anyone may act first** — the group simply chooses whoever the moment is about.
 - **Everyone acts once before anyone acts twice.** Once each hero has taken a turn, the round resets and anyone may go again, in any order. This stops one strong character from soaking up every roll, and keeps the spotlight moving so everyone shares the fun.
-- On your turn, **describe what your hero does, then roll 2d6 + modifier** and resolve it with the core move. (Instead of rolling against the obstacle, you may spend your turn to **Aid an Ally** — the teamwork variant of the core move, covered in full in Chapter 7.)
+- On your turn, **describe what your hero does, then roll 2d6 + modifier** and resolve it with the core move. (Instead of rolling against the obstacle, you may spend your turn to **Aid an Ally** — set up a teammate's next roll — or to **Prepare** — set up your own later one, such as scouting the room or laying a trap mid-fight. Both are variants of the core move, covered in full in Chapter 7.)
 
 That's the whole structure: go around the group, everyone contributes, the track fills.
 

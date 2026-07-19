@@ -221,15 +221,15 @@ Drama is fought with words, wants, and secrets — not swords. Build a hero with
 | 8 | Class Clown | Persuasion | you defuse tension or win a room with humor. (A pep talk that patches someone up is a **Mend**.) |
 | 9 | Critic | Persuasion | you cut someone down, publicly and memorably. |
 | 10 | Gatekeeper | Persuasion | you decide who gets in — the list, the club, the inner circle. |
-| 11 | Party Planner | Persuasion | you stage the event where it all goes down — the seating, the timing, the moment. |
-| 12 | Schemer | Scheming | you play the long game of favors, leverage, and patience. |
+| 11 | Party Planner | Persuasion | you **Prepare** by staging the event where it all goes down — the seating, the timing, the moment. |
+| 12 | Schemer | Scheming | you play the long game of favors, leverage, and patience — planting a move now (a **Prepare**) to spring later. |
 | 13 | Manipulator | Scheming | you get someone to choose what you wanted all along. |
 | 14 | Social Climber | Scheming | you charm your way into a circle above your station. |
 | 15 | The Heir | Scheming | you press your claim — the birthright, the title, the seat everyone knows should be yours. |
 | 16 | Fixer | Scheming | you make a problem quietly disappear — a debt, a scandal. |
 | 17 | Spin Doctor | Scheming | you control the story when a scandal breaks. |
 | 18 | Instigator | Scheming | you light the fuse and stir the pot on purpose. |
-| 19 | Saboteur | Scheming | you undermine a rival's plans from inside. |
+| 19 | Saboteur | Scheming | you undermine a rival's plans from inside — a **Prepare** you plant now to spring when it hurts most. |
 | 20 | Knows Everyone's Secrets | Scheming | you use what you know about someone — to open a door, stop a mouth, or bend a choice. |
 | 21 | Poison Pen | Scheming | you strike anonymously — the unsigned letter, the blind item, the review that ruins. |
 | 22 | Gossip | Secrets | you tap the whisper network — who did what to whom, and when. |
@@ -241,7 +241,7 @@ Drama is fought with words, wants, and secrets — not swords. Build a hero with
 | 28 | Prodigy | Performance & Competition | you show off a dazzling talent: music, art, or science. |
 | 29 | Athlete | Performance & Competition | you face the big game, match, or physical contest. |
 | 30 | Duelist | Performance & Competition | you answer it in the open — the duel, the face-off, the fight everyone circles up to watch. |
-| 31 | Actor | Performance & Competition | you step into a role — the play, the pageant, the character you've rehearsed. |
+| 31 | Actor | Performance & Competition | you step into a role — the play, the pageant, the character you've rehearsed (rehearsing it first is a **Prepare**). |
 | 32 | Tastemaker | Performance & Competition | you set the trend, the look, or what's cool. |
 | 33 | Team Captain | Performance & Competition | you lead the team when it counts — the huddle, the hard call, the example set. |
 | 34 | Coach | Performance & Competition | you **Aid an Ally** — the drills, the notes, the talk before they walk out there. |

@@ -4,7 +4,7 @@
 #   ./build/build-srd-pdf.sh            -> build/Lights-Camera-Action-SRD.pdf
 #   ./build/build-srd-pdf.sh print      -> build/Lights-Camera-Action-SRD-print.pdf
 #
-# Pipeline:  docs/part-four/rules-reference.md
+# Pipeline:  docs/part-five/rules-reference.md
 #              --srd-preprocess.py-->  markdown w/ move-card markers
 #              --pandoc-->             Typst markup
 #              --marker rewrite-->     #lca-move(...) card calls
@@ -16,7 +16,7 @@
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-SRC="$ROOT/docs/part-four/rules-reference.md"
+SRC="$ROOT/docs/part-five/rules-reference.md"
 BUILD="$ROOT/build"
 CONTENT="$BUILD/content-srd.typ"
 

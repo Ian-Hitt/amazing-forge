@@ -90,6 +90,7 @@ the book. When reviewing a chapter, treat any deviation as an error to flag.
 | **Asset** | One of a character's three specific "amazing at" things — a signature talent, tool, or friend; argued via the one-sentence test, **+1** when it fits. | skill, stat, trait |
 | **Broken Asset** | An Asset knocked offline when a hero goes Out of Action — gives no +1 until **Downtime** restores it. Temporary; never a penalty. | negative Asset, debuff, condition, impact |
 | **Readiness** | The hero's single 0–9 **Health Bar** (body + mind + supplies in one track). Max stays **9** all game. At 0 → Out of Action. The *term* is always Readiness; "Health Bar" is the OK plain-language framing (supersedes the old "never HP/health" rule, 2026-07-02). | HP, health, hit points, stamina |
+| **Prepare** | The core move aimed at your **own** future (Aid Your Ally, pointed at yourself): act now to make a *later* roll easier — scout, study, lay a trap, read the signs. Same math as Aid — **Strong** banks **+2** / **Weak** banks **+1** and you Pay the Price (−1) / **Miss** no bonus and −2. The banked bonus **waits and lands on the first roll that's a direct result of the preparation**, and expires with the plan (same timing rule as a carried +1 or a future-facing Aid). Stacks with Aid and with your own Stat/Asset +2. | Setup, Study, Take Aim |
 | **Mend** | The small, risky **any-scene** patch (in a Challenge, it's your turn instead of a Challenge Roll): recover a little — self or ally, rolled **Strong +3 / Weak +2 / Miss −1 Readiness** (capped at 9). **No usage cap; never advances the antagonist; can't revive Out of Action.** The −1 risk keeps it from substituting for a regroup. | heal, Catch Your Breath |
 | **Recovery Scene** | The fall-back-and-regroup move: the party heals **fully back to 9** — **free** (no roll, no cost to the antagonist's clock). Reliable; the quiet character beat. **Recovery never advances the Antagonist Track.** | rest, healing |
 | **Downtime** | The between-Story-Arcs reset: **restores any Broken Asset** (and handles Growth bookkeeping). Free; the antagonist's clock resets. (Recovery Scenes already heal the party fully, free, any time, so Downtime is not a healing move.) | long rest, Sojourn, victory bump |
@@ -357,8 +358,9 @@ describes preparation or a state of the world, find the moment it pays off under
 *that's* the trigger. **And if an Asset's real home is a named move rather than the regular
 roll, the trigger names the move** (DECIDED 2026-07-15): every healing-flavored Asset is a
 **Mend** Asset and says so — *"you **Mend** by preparing a meal and sharing it"* — and a
-helper Asset says *"you **Aid an Ally** by…"*. The bold move-name tells the player which dice
-they're picking up. Two supporting checks:
+helper Asset says *"you **Aid an Ally** by…"*, and a setup/foresight/scouting Asset says
+*"you **Prepare** by…"* (scout, study, lay a trap, read the signs — the bonus banks for the
+moment it pays off). The bold move-name tells the player which dice they're picking up. Two supporting checks:
 **it tells you who the hero is** ("Ace Pilot" paints a person; "a sturdy backpack" doesn't), and
 it's **pointed** — clearly *doesn't* cover everything, with obvious moments where it's useless.
 Genre Asset tables present each entry *as* its trigger (`Asset | You add +1 when…`). Assets are
@@ -582,6 +584,7 @@ Each move is defined in full in the chapter noted; this list is the authoritativ
 |---|---|---|
 | **The Roll** | The core move; handles any risky action, run as a **Regular Roll** (no track) or a **Challenge Roll** (marks a track). Every other move is shaped from it. | Ch.7 |
 | **Aid Your Ally** | The core move pointed at a teammate — on a Hit, hand them +2/+1; same Pay the Price as any roll (Strong: ally +2; Weak: ally +1, aider −1; Miss: nothing, aider −2). | Ch.7/8 |
+| **Prepare** | The core move pointed at your **own** future roll — set up now, bank the bonus for later (Strong: +2; Weak: +1, you −1; Miss: nothing, you −2). The bonus **waits and lands on the first roll that's a direct result of the preparation.** Aid Your Ally, aimed at yourself. | Ch.7/8 |
 | **Mend** | A quick patch in any scene (in a Challenge, it's your turn instead of a Challenge Roll): self or ally, **Strong +3 / Weak +2 / Miss −1 Readiness**, capped at 9, **never advances the antagonist**, can't revive an Out-of-Action hero. | Ch.9 |
 | **Recovery Scene** | Fall back and regroup: the party heals **fully back to 9** — **free** (no roll, no antagonist advance). Reliable; the quiet character beat. | Ch.9 |
 | **Downtime** | The between-Story-Arcs reset: restores any Broken Asset (and Growth bookkeeping); free, the antagonist's clock resets. Not a healing move (Recovery Scenes already heal fully, any time). | Ch.9 |

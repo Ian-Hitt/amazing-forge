@@ -216,15 +216,15 @@ Horror isn't about winning fights — it's about surviving, and not everyone mak
 | 7–8 | Doctor | The Truth | you diagnose an injury, an illness, or what's wrong here. |
 | 9–10 | Psychologist | The Truth | you read a person — what they're hiding, whether they're still themselves. |
 | 11–12 | Science Teacher | The Truth | you explain it with science — what it can't do, where it must be weak. |
-| 13–14 | Folklorist | The Truth | you match the thing to an old story — and what the story says to do about it. |
-| 15–16 | Occultist | The Truth | you work out the sigil, rule, or rite that binds the thing. |
+| 13–14 | Folklorist | The Truth | you match the thing to an old story — and what the story says to do about it, a **Prepare** for when you face it. |
+| 15–16 | Occultist | The Truth | you work out the sigil, rule, or rite that binds the thing — a **Prepare** for the binding to come. |
 | 17–18 | Paranormal Investigator | The Truth | you use gear and recordings to prove what's there. |
 | 19–20 | Cryptozoologist | The Truth | you hunt the thing science says isn't real. |
 | 21–22 | Cult Survivor | The Truth | you use what surviving them taught you — their signs, their lies, their weak points. |
 | 23–24 | Ham Radio Operator | The Truth | you work the airwaves — raising help, or catching the broadcast no one else can hear. |
 | 25–26 | Medium | The Truth | you reach the dead or the in-between. |
-| 27–28 | Second Sight | The Truth | you glimpse the dead, or the thing about to happen. |
-| 29–30 | Prophetic Dreams | The Truth | your nightmares show you what's coming. |
+| 27–28 | Second Sight | The Truth | you glimpse the dead, or the thing about to happen — a **Prepare** for what you saw coming. |
+| 29–30 | Prophetic Dreams | The Truth | your nightmares show you what's coming — a **Prepare** that banks the edge for when it arrives. |
 | 31–32 | Monster Hunter | Facing It | you know a creature's bane and how to end it. |
 | 33–34 | Hunter | Facing It | you track, shoot, or field-dress — turned on worse game. |
 | 35–36 | Soldier | Facing It | you fall back on combat training and discipline under fire. |
@@ -233,21 +233,21 @@ Horror isn't about winning fights — it's about surviving, and not everyone mak
 | 41–42 | Sheriff | Facing It | you lean on authority, a sidearm, or the town's trust. |
 | 43–44 | Priest | Facing It | you stand against the unholy with faith and rite. |
 | 45–46 | Exorcist | Facing It | you drive out what's possessing a person or place. |
-| 47–48 | Trapmaker | Facing It | you rig a trap, lure, or distraction for the thing. |
+| 47–48 | Trapmaker | Facing It | you **Prepare** by rigging a trap, lure, or distraction for the thing. |
 | 49–50 | Dad's Old Shotgun | Facing It | you use the old gun — and everything Dad taught you with it. |
 | 51–52 | Track Star | Flight | you outrun it — across the field, up the stairs, to the car. |
-| 53–54 | Scout | Flight | you slip through the dark to find a way out. |
+| 53–54 | Scout | Flight | you **Prepare** by slipping through the dark to find a way out ahead. |
 | 55–56 | Escape Artist | Flight | you slip ropes, cuffs, a locked room, or a trap. |
 | 57–58 | Urban Explorer | Flight | you navigate the tunnels, vents, and forgotten floors. |
 | 59–60 | Park Ranger | Flight | you use your knowledge of these woods — the trails, the shelters, what made that sound. |
-| 61–62 | Carpenter | Safe Ground | you board up, barricade, or build a defense. |
+| 61–62 | Carpenter | Safe Ground | you board up, barricade, or build a defense — a **Prepare** when you fortify before the thing comes. |
 | 63–64 | Locksmith | Safe Ground | you get through a locked door — or bar one shut. |
 | 65–66 | Mechanic | Safe Ground | you coax a dead car, generator, or radio back to life. |
 | 67–68 | Electrician | Safe Ground | you deal with power, wiring, or the failing lights. |
 | 69–70 | Torchbearer | Safe Ground | you keep the light alive — the fire fed, the batteries stretched, the circle bright. |
 | 71–72 | Scavenger | Safe Ground | you scrounge supplies, batteries, or a working anything. |
 | 73–74 | Caretaker | Safe Ground | you use your knowledge of this place's rooms and hidden ways. |
-| 75–76 | Witch | Safe Ground | you work protective craft — salt lines, charms, the old words that hold it back. |
+| 75–76 | Witch | Safe Ground | you work protective craft — salt lines, charms, the old words that hold it back; ward the ground ahead of time and it's a **Prepare**. |
 | 77–78 | Mortician | Safe Ground | you handle the dead and the rites that keep them down. |
 | 79–80 | Nurse | The Group | you **Mend** — keep someone alive with whatever's on hand. |
 | 81–82 | A Healer's Touch | The Group | you **Mend** a wound or sickness with a laying-on of hands. |

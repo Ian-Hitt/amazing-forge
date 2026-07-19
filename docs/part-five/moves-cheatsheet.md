@@ -96,6 +96,8 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 
       <div class="af-move"><span class="af-mname">Aid Your Ally.</span> Point the roll at a teammate. <b>Strong:</b> ally gets +2. <b>Weak:</b> ally +1, you &minus;1. <b>Miss:</b> nothing, you &minus;2.</div>
 
+      <div class="af-move"><span class="af-mname">Prepare.</span> Aid aimed at <i>yourself</i> &mdash; scout, study, set a trap. Same roll; the bonus waits and lands on the first roll of the moment you prepped. <b>Strong:</b> +2. <b>Weak:</b> +1, you &minus;1. <b>Miss:</b> nothing, you &minus;2.</div>
+
       <div class="af-move"><span class="af-mname">Devil's Bargain.</span> On a <b>Miss</b> only: refuse the Readiness loss <i>and</i> upgrade the Miss to a <b>Strong Hit</b> &mdash; in exchange for the <b>Antagonist Track +1 box</b>. Always optional. <b>Not</b> allowed on a Miss that would knock you Out of Action.</div>
 
       <div class="af-move"><span class="af-mname">Mend.</span> Any scene, on your turn (in a Challenge, instead of a Challenge Roll) &mdash; patch self or an ally. <b>Strong</b> +3 &middot; <b>Weak</b> +2 &middot; <b>Miss</b> &minus;1 Readiness. Capped at 9; can't revive a downed hero.</div>
@@ -134,5 +136,5 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
     </div>
   </div>
 
-  <p class="af-ref"><b>Full rules:</b> The Roll &amp; Aid Your Ally &mdash; Ch.7. &nbsp; Challenges, Start a Challenge &amp; Fall back &mdash; Ch.8. &nbsp; Readiness, Mend, Recovery Scene, Downtime &amp; Pay the Price &mdash; Ch.9. &nbsp; Story Arcs, Lights, Camera, Action &amp; Quit the Story Arc &mdash; Ch.10. &nbsp; Ask the Oracle &mdash; Ch.11.</p>
+  <p class="af-ref"><b>Full rules:</b> The Roll, Aid Your Ally &amp; Prepare &mdash; Ch.7. &nbsp; Challenges, Start a Challenge &amp; Fall back &mdash; Ch.8. &nbsp; Readiness, Mend, Recovery Scene, Downtime &amp; Pay the Price &mdash; Ch.9. &nbsp; Story Arcs, Lights, Camera, Action &amp; Quit the Story Arc &mdash; Ch.10. &nbsp; Ask the Oracle &mdash; Ch.11.</p>
 </div>

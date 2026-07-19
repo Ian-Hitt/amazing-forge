@@ -33,6 +33,7 @@ Keep this sheet next to you. Each rule below has a **trigger** — the moment in
 | The dice come up **matching** (doubles) | **Doubles** | *"Matching dice — lucky you! Bump your result up a whole tier."* |
 | A moment feels **big and dangerous** — a real set-piece | **Challenges & tracks** | *"This one's a big scene. Let's draw a few boxes and fill them together, one roll at a time, until it's done."* |
 | A player wants to **help** instead of act | **Aid Your Ally** | *"Spend your turn helping them — roll, and on a hit your friend gets a bonus on theirs."* |
+| A player wants to **set up** for what's coming — scout, study, lay a trap | **Prepare** | *"Spend your turn getting ready — roll, and on a hit you bank a bonus that waits and lands when the moment you prepped for arrives."* |
 | Someone asks *"I'm low — **how do I get Readiness back?**"* | **Mend** (recovery) | *"On your turn you can patch up instead of pushing the scene — roll to Mend, hit and you get a little back. But a miss costs you a point, so don't gamble it when you're nearly out."* |
 | The group is **getting hammered** and wonders if they can run away | **Fall back** (the **Recovery Scene**) | *"You can fall back and regroup — lose this scene's progress, but everyone heals all the way back to 9, automatically."* |
 | A hero **Misses** and wants the win anyway | **Devil's Bargain** & the **Antagonist Track** | *"You can take the win — turn that Miss into a clean success and dodge the cost — but the antagonist marks a box on their track. If it ever fills, they win. Worth it?"* |
@@ -51,4 +52,4 @@ Playing without a Guide doesn't change this. There's still almost always one per
 
 ---
 
-*Full rules for everything above: **The Roll & Aid Your Ally** — Ch.7. **Challenges & Falling Back** — Ch.8. **Readiness, Mend, the Recovery Scene, Downtime, Out of Action & Pay the Price** — Ch.9. **Story Arcs & the Antagonist Track** — Ch.10. **Ask the Oracle** — Ch.11. **Growth** — Ch.13.*
+*Full rules for everything above: **The Roll, Aid Your Ally & Prepare** — Ch.7. **Challenges & Falling Back** — Ch.8. **Readiness, Mend, the Recovery Scene, Downtime, Out of Action & Pay the Price** — Ch.9. **Story Arcs & the Antagonist Track** — Ch.10. **Ask the Oracle** — Ch.11. **Growth** — Ch.13.*

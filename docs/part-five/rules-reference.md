@@ -262,6 +262,22 @@ Instead of acting for yourself, you can spend your roll to help someone else.
 
 Any earned bonus lands on the **first roll that's a direct result of what earned it** — Aid in the thick of the action means the ally's next roll, but help aimed at something *later* (a briefing, a scouted route, a vision) **waits for the moment it prepared.** It expires with the plan, not the scene.
 
+### Prepare
+
+Aid Your Ally, aimed at *yourself:* act now to make a *later* roll of your own easier — scout ahead, study the lock, lay a trap, read the signs.
+
+<div class="lca-move" markdown>
+<p class="lca-move-name">Prepare <span class="lca-when">— spend your action to set up a later moment for yourself</span></p>
+
+**When you act now to make a later roll easier,** make the same roll, aimed at the preparation:
+
+- **Strong:** you bank **+2** on the roll you prepared for.
+- **Weak:** you bank **+1**, and **you** Pay the Price (−1).
+- **Miss:** no bonus, and **you** Pay the Price (−2).
+</div>
+
+The banked bonus follows the same timing rule as Aid: it **waits and lands on the first roll that's a direct result of the preparation** — the crossing you scouted, the vault you studied, the fight you foresaw — and expires with the plan, not the scene. Prepare and Aid stack, and both stack on your own Stat-and-Asset +2.
+
 ### Challenges
 
 Most risky moments are **Regular Rolls** — one roll, read the result, move on. A **Challenge** is for a big set-piece that deserves more than a couple rolls: a monster fight, a desperate chase, a tense infiltration, a long trek. You draw a **row of boxes** and fill them roll by roll until the Scene is won — enemies have *no stats,* the **track itself is the obstacle.**

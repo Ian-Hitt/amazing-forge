@@ -83,7 +83,7 @@ The habit to build: **never let a roll end with just a number.** Always answer "
 
 ### Aid Your Ally
 
-The core move has one variant: instead of pointing your action at a problem, you point it at a *teammate.* On your turn — in a Challenge or out of one — you can spend your roll to help another hero instead of acting yourself. Describe how you assist, then roll **2d6 + modifier** — built the usual two-layer way, but measured against the *help* you're giving: **+1** if it calls for one of your Stats, **+1** if one of your Assets fits it, **+0** if you're helping outside your wheelhouse.
+The core move has two variants, and the first points your action at a *teammate* instead of a problem. On your turn — in a Challenge or out of one — you can spend your roll to help another hero instead of acting yourself. Describe how you assist, then roll **2d6 + modifier** — built the usual two-layer way, but measured against the *help* you're giving: **+1** if it calls for one of your Stats, **+1** if one of your Assets fits it, **+0** if you're helping outside your wheelhouse.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Aid Your Ally <span class="lca-when">— on your turn, spend your roll to help another hero</span></p>
@@ -103,7 +103,31 @@ Aid uses the *exact same math* as any other roll, Pay the Price included — it'
 
 Aid is the best use of a turn when the moment isn't in your wheelhouse: the hero the scene doesn't suit sets up the hero it does. Because a Challenge's popcorn turn order means everyone acts every round anyway, it gives that hero a real, satisfying job instead of a wasted turn.
 
-**Helping with something that hasn't happened yet?** If the action you're Aiding isn't happening right now — you're briefing the plan, scouting the route, warding the door — the bonus doesn't burn on whatever your ally happens to do next. It **waits for the moment you prepared,** and lands there. See *When Does a Bonus Land?* below.
+**Helping with something that hasn't happened yet?** If the action you're Aiding isn't happening right now — you're briefing the plan, scouting the route, warding the door — the bonus doesn't burn on whatever your ally happens to do next. It **waits for the moment you prepared,** and lands there. See *When Does a Bonus Land?* below. (And when the hero you're setting up is *yourself,* that's the next move — **Prepare.**)
+
+### Prepare
+
+The core move has one more variant, and it's the twin of Aid Your Ally: instead of setting up a *teammate,* you set up your *own* later moment. Any time you act now with the aim of making a future roll easier — scouting the ground ahead, studying the lock before you touch it, laying a trap, gathering intel, reading the signs of what's coming — that's a **Prepare.** Describe what you do to get ready, then roll **2d6 + modifier,** built the usual two-layer way but measured against *the preparation* you're doing: **+1** if it calls for one of your Stats, **+1** if one of your Assets fits it, **+0** if you're prepping outside your wheelhouse.
+
+<div class="lca-move" markdown>
+<p class="lca-move-name">Prepare <span class="lca-when">— spend your action to set up a later moment for yourself</span></p>
+
+**When you act now to make a later roll easier,** roll **2d6 + modifier** for the preparation you're doing; the bonus **waits and lands on the first roll of the moment you prepared for.**
+
+- **Strong Hit (10+):** your prep pays off cleanly — **+2** on that later roll.
+- **Weak Hit (7–9):** it pays off, but you **Pay the Price** — **+1** on that later roll, and **you lose 1 Readiness.**
+- **Miss (6−):** your prep doesn't take — **no bonus** — and you **Pay the Price** (−2 Readiness).
+
+*Same math as Aid Your Ally — pointed at your own future instead of an ally's · doubles upgrade the tier as always.*
+</div>
+
+Prepare is Aid Your Ally aimed at yourself, and it uses the *exact same math,* Pay the Price included — the Readiness cost isn't a tax on planning ahead; it's the same risk every action carries, because getting ready is itself an action in the Scene. Doubles upgrade the tier just as they always do (a Weak Hit Prepare with doubles becomes a Strong Hit — you bank +2 and pay nothing).
+
+The one thing that sets Prepare apart from a normal roll is *when the bonus lands.* Because you're setting up something that hasn't happened yet, the +2 (or +1) almost never fires on your very next roll — it **waits for the moment you prepared for** and lands on the first roll that's a direct result of it. Scout the pass and the bonus rides the crossing; study the vault and it rides the crack; glimpse the showdown in a vision and it rides the first swing of that fight, not the haggling on the road there. See *When Does a Bonus Land?* below for the full rule (it's the same rule that governs a carried Outstanding-Success +1 and a future-facing Aid).
+
+Reach for Prepare whenever the fiction gives you a beat to get ready before the hard part — and whenever an Asset is built for it. A **Scout,** a **Tactician,** a **Trapmaker,** a hero with **Prophetic Dreams:** their whole job is turning a quiet moment into an edge on the loud one to come. The genre kits (Part Four) flag the Assets that shine on a Prepare.
+
+**Prepare and Aid stack the usual way.** A Prepare bonus lands on top of your own **+2** from a fitting Stat and Asset, and an ally can still **Aid** the same moment — so a well-set-up roll (your own Prepare *plus* a teammate's Aid) can become a near-sure thing. That's the point: it's the reward for spending turns to line up the moment that matters.
 
 ### Doubles: A Lucky Break, or the Antagonist's Opening
 
@@ -125,11 +149,11 @@ Let the table enjoy it — the Hit side of doubles is a treat. And because the *
 
 ### When Does a Bonus Land?
 
-A carried **+1** — or an Aid bonus — lands on the **first roll that's a direct result of whatever earned it:** the most relevant moment, not blindly the next number you happen to roll.
+A carried bonus — an Outstanding-Success **+1,** an **Aid** bonus, or a **Prepare** bonus — lands on the **first roll that's a direct result of whatever earned it:** the most relevant moment, not blindly the next number you happen to roll.
 
-Usually those are the same roll, and you'll never think about it. Momentum from an Outstanding Success spills into whatever you do next; Aid given in the thick of a fight lands on the ally's very next swing.
+Sometimes that's the very next roll and you'll never think about it: momentum from an Outstanding Success spills into whatever you do next; Aid given in the thick of a fight lands on the ally's very next swing.
 
-But help aimed at something **later** waits for it. Scout the route, brief the crew on the plan, ward the door against what's coming, glimpse the showdown in a vision — that bonus doesn't burn on some unrelated roll along the way. It **waits, and lands on the first roll of the moment you prepared for.** The seer's +1 belongs to the fight she foresaw, not to haggling for supplies on the road there.
+But a bonus aimed at something **later** waits for it — and a **Prepare** almost always is. Scout the route, brief the crew on the plan, ward the door against what's coming, glimpse the showdown in a vision — that bonus doesn't burn on some unrelated roll along the way. It **waits, and lands on the first roll of the moment you prepared for.** The seer's +1 belongs to the fight she foresaw, not to haggling for supplies on the road there.
 
 The boundary: a bonus **expires with the plan, not the scene.** If the moment it was for never comes — the ambush fizzles, the plan is abandoned — the bonus goes with it. And waiting doesn't grow it: it's still one bonus, on one roll.
 

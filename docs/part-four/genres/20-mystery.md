@@ -237,14 +237,14 @@ A mystery is mostly digging for the truth — but cases bite back, and a table o
 | 5 | Ballistics Expert | Investigation | you examine a gun, a bullet, or a shot's trajectory. |
 | 6 | Document Examiner | Investigation | you check papers for forgery or tampering. |
 | 7 | Codebreaker | Investigation | you crack a cipher, code, or hidden message. |
-| 8 | Hacker | Investigation | you dig through records, cameras, or devices. |
-| 9 | Archivist | Investigation | you find the one file in a mountain of records. |
-| 10 | Historian | Investigation | you uncover old grudges, family lines, and buried events. |
+| 8 | Hacker | Investigation | you **Prepare** by digging through records, cameras, or devices to learn a target before you move on them. |
+| 9 | Archivist | Investigation | you dig up the one file in a mountain of records ahead of time (a **Prepare**) and bank what it tells you. |
+| 10 | Historian | Investigation | you **Prepare** by digging up old grudges, family lines, and buried events before you need them. |
 | 11 | Forensic Accountant | Investigation | you follow dirty money through books and fronts. |
 | 12 | Investigative Reporter | Investigation | you chase a story through sources and paper trails. |
 | 13 | Linguist | Investigation | you read lips, accents, dead languages, or slang. |
-| 14 | Profiler | Investigation | you predict a culprit's pattern or next move. |
-| 15 | Cold-Reader | Investigation | you size up a stranger from their clothes, hands, and tells. |
+| 14 | Profiler | Investigation | you **Prepare** by reading a culprit's pattern ahead of the confrontation, so you know the next move before they make it. |
+| 15 | Cold-Reader | Investigation | you **Prepare** by sizing up a stranger from their clothes, hands, and tells before you engage. |
 | 16 | Stage Magician | Investigation | you work out how a trick or "impossible" crime was faked. |
 | 17 | Tracker | Investigation | you follow a physical trail to where someone went. |
 | 18 | Sketch Artist | Investigation | you turn a witness's words into something solid — a face, a timeline, a map of who was where. |
@@ -266,7 +266,7 @@ A mystery is mostly digging for the truth — but cases bite back, and a table o
 | 34 | Beat Cop | Social | you lean on street knowledge, procedure, or a fellow cop. |
 | 35 | Blackmailer | Social | you use a secret you hold to squeeze, silence, or open a door. |
 | 36 | Medium | Social | you ask the dead what they saw — a séance, a graveside whisper, a cold spot that answers. |
-| 37 | Shadow | Infiltration | you watch or tail a mark unseen — on foot, from a car, or through a lens. |
+| 37 | Shadow | Infiltration | you **Prepare** by watching or tailing a mark unseen — on foot, from a car, or through a lens — learning the routine before it matters. |
 | 38 | Undercover Operative | Infiltration | you pass as someone you're not — a borrowed uniform, a false name, or a long con. |
 | 39 | Pickpocket | Infiltration | you lift a key, wallet, or phone off someone. |
 | 40 | Burglar | Infiltration | you get past a lock, a safe, or a guarded door — in and out unseen. |

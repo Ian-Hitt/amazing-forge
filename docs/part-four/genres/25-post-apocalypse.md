@@ -215,13 +215,13 @@ The wasteland kills the unready — by raider, by hunger, or by cold. Build a he
 | 1–2 | Scavenger | Survival | you comb the ruins for what others walked past — parts, meds, the one thing the group needs. |
 | 3–4 | Forager | Survival | you find safe food or water in a dead land. |
 | 5–6 | Hunter | Survival | you stalk and bring down game for meat. |
-| 7–8 | Trapper | Survival | you set snares — for game, or for whatever's been circling the camp. |
+| 7–8 | Trapper | Survival | you set snares (a **Prepare**) — for game, or for whatever's been circling the camp. |
 | 9–10 | Farmer | Survival | you coax crops from poisoned soil. |
 | 11–12 | Cook | Survival | you turn scavenged, questionable food into a safe meal. |
 | 13–14 | Distiller | Survival | you make fuel, alcohol, or clean water from junk. |
 | 15–16 | Quartermaster | Survival | you make what's left cover everyone — one more day, one more mile. |
-| 17–18 | Tracker | Survival | you read a trail: who passed, when, how many. |
-| 19–20 | Weather-Wise | Survival | you read the sky and the land — the storm coming, the ground that won't hold, the night that will kill. |
+| 17–18 | Tracker | Survival | you read a trail (a **Prepare**): who passed, when, how many. |
+| 19–20 | Weather-Wise | Survival | you **Prepare** by reading the sky and the land — the storm coming, the ground that won't hold, the night that will kill. |
 | 21–22 | Medic | Survival | you **Mend** — patch a wound, splint a break, fight an infection with a dwindling kit. |
 | 23–24 | Herbalist | Survival | you **Mend** with plants — or use them to poison. |
 | 25–26 | Mechanic | Craft & Repair | you bring a dead engine back for one more run. |
@@ -234,7 +234,7 @@ The wasteland kills the unready — by raider, by hunger, or by cold. Build a he
 | 39–40 | Vault-Cracker | Craft & Repair | you get past a sealed door, an old-world lock, or a security system still on duty. |
 | 41–42 | Gunslinger | Combat | you're fast and sure in a firefight. |
 | 43–44 | Sharpshooter | Combat | you take a shot at long range. |
-| 45–46 | Ex-Soldier | Combat | you use your training — holding a position, reading an ambush, moving as a unit. |
+| 45–46 | Ex-Soldier | Combat | you use your training to **Prepare** — holding a position, reading an ambush before it hits, moving as a unit. |
 | 47–48 | Brawler | Combat | you fight close with fists or whatever's at hand. |
 | 49–50 | Guardian | Combat | you stand between the camp and the wasteland. |
 | 51–52 | Bodyguard | Combat | you keep one person alive through anything. |
@@ -243,7 +243,7 @@ The wasteland kills the unready — by raider, by hunger, or by cold. Build a he
 | 57–58 | Driver | The Road | you push a vehicle through wreck-choked roads. |
 | 59–60 | Rider | The Road | you cross the open waste by bike or horse. |
 | 61–62 | Boatman | The Road | you handle a boat through drowned streets or open water. |
-| 63–64 | Scout | The Road | you range ahead into unknown territory. |
+| 63–64 | Scout | The Road | you **Prepare** by ranging ahead into unknown territory — the route, the hazards, what's waiting. |
 | 65–66 | Pathfinder | The Road | you pick the safe route past the killing grounds. |
 | 67–68 | Ruin-Runner | The Road | you climb, leap, and squeeze through the bones of the old world. |
 | 69–70 | Beast-Tamer | The Road | you tame a wasteland creature into a mount or guard. |

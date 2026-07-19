@@ -210,11 +210,11 @@ A caper is a crew pulling one job, each with a role — but plans go loud, and a
 
 | d100 | Asset | Category | You add +1 when… |
 |---|---|---|---|
-| 1–2 | Mastermind | The Plan | you build the plan and think three moves ahead. |
+| 1–2 | Mastermind | The Plan | you **Prepare** the job — build the plan and think three moves ahead. |
 | 3–4 | Tactician | The Plan | you call the next move live, under the clock. |
 | 5–6 | Improviser | The Plan | you turn a blown plan into the new plan on the spot. |
-| 7–8 | Fixer | The Plan | you line up the crew, the gear, or the buyer. |
-| 9–10 | Quartermaster | The Plan | you source the weapons, kit, and tools for the job. |
+| 7–8 | Fixer | The Plan | you **Prepare** the score — lining up the crew, the gear, or the buyer. |
+| 9–10 | Quartermaster | The Plan | you **Prepare** by sourcing the weapons, kit, and tools for the job. |
 | 11–12 | Appraiser | The Plan | you judge the prize at a glance — real or fake, and exactly what it's worth. |
 | 13–14 | Fence | The Plan | you move the score to a buyer, no questions. |
 | 15–16 | Launderer | The Plan | you wash the take so it can actually be spent. |
@@ -231,7 +231,7 @@ A caper is a crew pulling one job, each with a role — but plans go loud, and a
 | 37–38 | Safecracker | The Crack | you crack a lock — a vault, a safe, a door, a pair of cuffs. |
 | 39–40 | Hacker | The Crack | you defeat a camera, network, or electronic lock. |
 | 41–42 | Alarm Specialist | The Crack | you beat a sensor, trip, or alarm system. |
-| 43–44 | Surveillance Tech | The Crack | you plant bugs or watch every room from the van. |
+| 43–44 | Surveillance Tech | The Crack | you plant bugs and watch every room from the van (a **Prepare**) — banking the edge for when the crew moves. |
 | 45–46 | Electrician | The Crack | you cut the power, reroute it, or kill the lights. |
 | 47–48 | Demolitionist | The Crack | you blow a wall, door, or safe — precisely. |
 | 49–50 | Tunneler | The Crack | you dig in from below: sewers, basements, the vault floor. |
@@ -243,9 +243,9 @@ A caper is a crew pulling one job, each with a role — but plans go loud, and a
 | 61–62 | Escape Artist | The Sneak | you slip the cuffs, the ropes, the cell — nothing holds you long. |
 | 63–64 | Pickpocket | The Sneak | you lift a keycard, wallet, or phone unnoticed. |
 | 65–66 | Sleight-of-Hand Artist | The Sneak | you make the swap, the palm, the switch. |
-| 67–68 | Inside Man | The Sneak | you use your access — the badge, the rounds, the key to the back door — to open the way for the crew. |
-| 69–70 | Forger | The Sneak | you fake a document, badge, seal, or banknote. |
-| 71–72 | Scout | The Sneak | you case a target: routines, guards, blind spots. |
+| 67–68 | Inside Man | The Sneak | you use your access — the badge, the rounds, the key to the back door — to open the way, or **Prepare** the crew with what only an insider knows. |
+| 69–70 | Forger | The Sneak | you **Prepare** by faking a document, badge, seal, or banknote ahead of the job. |
+| 71–72 | Scout | The Sneak | you **Prepare** by casing a target: routines, guards, blind spots. |
 | 73–74 | Lookout | The Sneak | you read the room and call the heat early. |
 | 75–76 | Shadow-Walker | The Sneak | you cross with a touch of magic — silent, shadowed, or briefly unseen. |
 | 77–78 | Wheelman | The Heat | you drive the getaway through any chase. |

@@ -117,6 +117,11 @@ succeeding.
 
 **Player.** A person at the table controlling a hero. (A player is not the same as a character.)
 
+**Prepare.** The core move aimed at your own future: act now to make a later roll easier (scout, study,
+lay a trap). Same roll as Aid Your Ally — Strong banks +2, Weak +1 and you Pay the Price (−1), Miss no
+bonus and −2 — but the bonus waits and lands on the first roll of the moment you prepared for
+(Chapter 7).
+
 **Progress.** What you mark on a track — Hero, Antagonist, Challenge, or Growth.
 
 **Progress move.** A move that opens or closes a track (a Story or a Challenge).

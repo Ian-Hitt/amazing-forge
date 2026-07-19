@@ -116,7 +116,7 @@ Picture them in play:
 
 - ***My Loyal Wolf*** + **Take the Price** (*any time*) — the trap snaps shut, and the Wolf shoulders you clear and takes the fall instead.
 - ***Trick Arrows*** + **Upgrade** locked to *in a fight* (that's **In My Element**) — a so-so shot (Weak) becomes the perfect ricochet (Strong) the moment the blades come out.
-- ***Keen-Eyed Ranger*** + **+1 to your next roll** locked to *when you scout ahead* (that's **Scout**) — you slip forward, read the ground, and come back with the edge (+1) for the move that follows.
+- ***Keen-Eyed Ranger*** + **+1 to your next roll** locked to *when you scout ahead* (that's **Scout**) — you slip forward, read the ground, and come back with the edge (+1) for the move that follows. (Scouting ahead is already a **Prepare** for any hero, Chapter 7; this Boon hands you the edge *without* a roll — a reliable, once-a-Scene shortcut to the same idea.)
 - ***Healing Herbs*** + **Steady Hands** (**Mender**) — the same poultice that patches you up does a little more, and works just as well on the friend bleeding beside you.
 
 ### The two rules behind it all
