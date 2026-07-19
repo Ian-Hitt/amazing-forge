@@ -107,21 +107,23 @@ Aid is the best use of a turn when the moment isn't in your wheelhouse: the hero
 
 ### Prepare
 
-The core move has one more variant, and it's the twin of Aid Your Ally: instead of setting up a *teammate,* you set up your *own* later moment. Any time you act now with the aim of making a future roll easier — scouting the ground ahead, studying the lock before you touch it, laying a trap, gathering intel, reading the signs of what's coming — that's a **Prepare.** Describe what you do to get ready, then roll **2d6 + modifier,** built the usual two-layer way but measured against *the preparation* you're doing: **+1** if it calls for one of your Stats, **+1** if one of your Assets fits it, **+0** if you're prepping outside your wheelhouse.
+The core move's second variant points your action at your *own* later moment. Any time you take action now to make a moment still to come easier — scouting the ground ahead, studying the lock before you touch it, laying a trap, gathering intel, reading the signs of what's coming — that's **Prepare.** Describe what you do to get ready, then roll **2d6 + modifier,** built the usual two-layer way but measured against *the preparation* you're doing: **+1** if it calls for one of your Stats, **+1** if one of your Assets fits it, **+0** if you're prepping outside your wheelhouse.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Prepare <span class="lca-when">— spend your action to set up a later moment for yourself</span></p>
 
-**When you act now to make a later roll easier,** roll **2d6 + modifier** for the preparation you're doing; the bonus **waits and lands on the first roll of the moment you prepared for.**
+**When you take action now to prepare for a moment still to come,** roll **2d6 + modifier** for the preparation you're doing; the bonus **waits and lands on the first roll of the moment you prepared for.**
 
 - **Strong Hit (10+):** your prep pays off cleanly — **+2** on that later roll.
 - **Weak Hit (7–9):** it pays off, but you **Pay the Price** — **+1** on that later roll, and **you lose 1 Readiness.**
 - **Miss (6−):** your prep doesn't take — **no bonus** — and you **Pay the Price** (−2 Readiness).
 
-*Same math as Aid Your Ally — pointed at your own future instead of an ally's · doubles upgrade the tier as always.*
+*The banked bonus waits for the moment you prepared for · doubles upgrade the tier as always.*
 </div>
 
-Prepare is Aid Your Ally aimed at yourself, and it uses the *exact same math,* Pay the Price included — the Readiness cost isn't a tax on planning ahead; it's the same risk every action carries, because getting ready is itself an action in the Scene. Doubles upgrade the tier just as they always do (a Weak Hit Prepare with doubles becomes a Strong Hit — you bank +2 and pay nothing).
+Getting ready is itself an action in the Scene, so it carries the same risk as anything else you attempt — the Readiness cost on a Weak Hit or Miss isn't a tax on planning ahead, just the ordinary price of a roll that doesn't land cleanly. Doubles upgrade the tier as always (a Weak Hit Prepare on doubles becomes a Strong Hit — you bank +2 and pay nothing).
+
+> **Same engine as Aid Your Ally.** Under the hood, Prepare runs on Aid's exact dice and risk — you're just setting up *yourself* instead of a teammate. Learn one and you know the other; only the fiction, and who the bonus lands on, differs.
 
 The one thing that sets Prepare apart from a normal roll is *when the bonus lands.* Because you're setting up something that hasn't happened yet, the +2 (or +1) almost never fires on your very next roll — it **waits for the moment you prepared for** and lands on the first roll that's a direct result of it. Scout the pass and the bonus rides the crossing; study the vault and it rides the crack; glimpse the showdown in a vision and it rides the first swing of that fight, not the haggling on the road there. See *When Does a Bonus Land?* below for the full rule (it's the same rule that governs a carried Outstanding-Success +1 and a future-facing Aid).
 

@@ -264,19 +264,19 @@ Any earned bonus lands on the **first roll that's a direct result of what earned
 
 ### Prepare
 
-Aid Your Ally, aimed at *yourself:* act now to make a *later* roll of your own easier — scout ahead, study the lock, lay a trap, read the signs.
+Take action now to make a *later* moment of your own easier — scout ahead, study the lock, lay a trap, read the signs.
 
 <div class="lca-move" markdown>
 <p class="lca-move-name">Prepare <span class="lca-when">— spend your action to set up a later moment for yourself</span></p>
 
-**When you act now to make a later roll easier,** make the same roll, aimed at the preparation:
+**When you take action now to prepare for a moment still to come,** roll for the preparation:
 
 - **Strong:** you bank **+2** on the roll you prepared for.
 - **Weak:** you bank **+1**, and **you** Pay the Price (−1).
 - **Miss:** no bonus, and **you** Pay the Price (−2).
 </div>
 
-The banked bonus follows the same timing rule as Aid: it **waits and lands on the first roll that's a direct result of the preparation** — the crossing you scouted, the vault you studied, the fight you foresaw — and expires with the plan, not the scene. Prepare and Aid stack, and both stack on your own Stat-and-Asset +2.
+The banked bonus **waits and lands on the first roll that's a direct result of the preparation** — the crossing you scouted, the vault you studied, the fight you foresaw — and expires with the plan, not the scene. *(Same dice and risk as **Aid Your Ally**, pointed at your own future; the two stack, and both stack on your Stat-and-Asset +2.)*
 
 ### Challenges
 

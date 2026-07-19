@@ -96,7 +96,7 @@ Moves come in three families. **Action Moves** *resolve a hero's attempt* — yo
 
       <div class="af-move"><span class="af-mname">Aid Your Ally.</span> Point the roll at a teammate. <b>Strong:</b> ally gets +2. <b>Weak:</b> ally +1, you &minus;1. <b>Miss:</b> nothing, you &minus;2.</div>
 
-      <div class="af-move"><span class="af-mname">Prepare.</span> Aid aimed at <i>yourself</i> &mdash; scout, study, set a trap. Same roll; the bonus waits and lands on the first roll of the moment you prepped. <b>Strong:</b> +2. <b>Weak:</b> +1, you &minus;1. <b>Miss:</b> nothing, you &minus;2.</div>
+      <div class="af-move"><span class="af-mname">Prepare.</span> Take action now to set up a later moment of your own &mdash; scout, study, set a trap. The bonus waits and lands on the first roll of the moment you prepped. <b>Strong:</b> +2. <b>Weak:</b> +1, you &minus;1. <b>Miss:</b> nothing, you &minus;2.</div>
 
       <div class="af-move"><span class="af-mname">Devil's Bargain.</span> On a <b>Miss</b> only: refuse the Readiness loss <i>and</i> upgrade the Miss to a <b>Strong Hit</b> &mdash; in exchange for the <b>Antagonist Track +1 box</b>. Always optional. <b>Not</b> allowed on a Miss that would knock you Out of Action.</div>
 
