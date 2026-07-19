@@ -7,6 +7,13 @@ The brake is the cost: a helper whose Aid is a Weak Hit loses 1 Readiness, a Mis
 AND every helper spends their turn buffing instead of acting. This sim makes both costs
 explicit.
 
+ALSO COVERS `Prepare` (the core move added 2026-07-18): Prepare is Aid pointed at your
+OWN later roll instead of an ally's. Identical turn cost and Readiness risk (Strong banks
++2, Weak +1 and -1, Miss nothing and -2), so it lives inside this model's envelope — and
+below its ceiling, since a lone Prepare tops out at +2 (no multi-helper +4/+6 spike) and the
+banked bonus can expire unspent. A Prepare Miss is just a Miss (no new Antagonist-Track
+trigger). No separate sim required; the `spam`/`climax` policies here bound the worst case.
+
 Part 1 — a single decisive roll: success odds + helper Readiness spent for 0/1/2 helpers.
 Part 2 — full Story (Movie/Episode) under three Aid policies, to see if stacking moves loss:
    none   = baseline (everyone acts independently; == sim_spine canonical)

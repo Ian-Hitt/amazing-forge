@@ -732,7 +732,15 @@ Scripts (in this folder): **`sim_devils.py` / `sim_devils2.py` (§0 — the cano
 model, free recovery + Option-B fixed difficulty)**; `sim_spine.py` (§0-mid / §0-prev, the superseded
 recovery-surge spine); `sim_antag_heal.py` and `sim_antag_fill.py` (earlier exploration); and the
 superseded `sim_antagonist_trade.py` (§4), `sim_flee_retreat.py` (§4b), `sim_recovery.py` (§3a),
-`sim_start_challenge.py` (§4c). *(The `sim_mix.py` / `sim_climax.py` of §0b and `sim_md_fixed.py` of the
-Option-B confirmation were scratchpad-only and are not in the repo.)* All assumptions are constants at
+`sim_start_challenge.py` (§4c). **`sim_aid.py`** models the teamwork move (fully-stacking Aid, with the
+turn-and-Readiness cost as the brake) and finds even a 2-helper `spam` policy doesn't dent the loss
+curve. **This model also covers the `Prepare` move** (added 2026-07-18): Prepare is Aid pointed at your
+*own* later roll instead of an ally's — identical turn cost and Readiness risk (Strong banks +2, Weak +1
+and −1, Miss nothing and −2), so it sits *inside* this sim's envelope. If anything it's weaker: a lone
+Prepare tops out at +2 (no multi-helper +4/+6 spike) and the banked bonus can expire unspent, and it adds
+no new Antagonist-Track trigger (a Prepare Miss is just a Miss). No separate sim needed. `sim_threads.py`
+backs the (since-removed) threads subsystem. *(The `sim_mix.py` / `sim_climax.py` of §0b and
+`sim_md_fixed.py` of the Option-B confirmation were scratchpad-only and are not in the repo.)* All
+assumptions are constants at
 the top; edit and re-run (`python3 sim_<name>.py`). Update the relevant section's table when parameters
 change, and bump the "Last updated" date.
