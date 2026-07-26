@@ -14,26 +14,31 @@ An archetype is a **classic kind of story character** — the rule-breaking Rebe
 
 Picking one does two things instantly:
 
-- **It tells you *how to play.*** Your Concept says *who* your hero is and your Assets say *what they're good at* — but your archetype tells you *how they act.* It's the engine underneath the costume. The moment you say "I'm playing the Scholar," you already know how she'd react to a locked door, a frightened stranger, or a reckless plan. You have a personality to play, not just a stat line.
+- **It tells you *how to play.*** Your Concept says *who* your hero is and your Assets say *what they're good at* — but your archetype tells you *how they act.* It's the engine underneath the costume. The moment you say "I'm playing the Sage," you already know how she'd react to a locked door, a frightened stranger, or a reckless plan. You have a personality to play, not just a stat line.
 - **It makes the party *different.*** If everyone at the table grabs a different archetype, you automatically get a varied, interesting cast — a leader, a heart, a wildcard — instead of four heroes who all act the same. That contrast is where half the fun of a group story comes from.
 
 And here's the most important part: **an archetype is pure roleplay** — a lens for *playing* your hero. It's the personality you bring to the table, the thing that tells you how she'd react to a locked door, a frightened stranger, or a reckless plan. In *Lights, Camera, Action!*, your edge always comes from the story you make at the table.
 
-> **Costume vs. engine.** If you've picked a genre, its [Genre Kit](../part-four/18-genres.md) handed you a list of *flavored* archetypes — the Knight, the Ranger, the Schemer, that sort of thing. Those are **costumes**: ready-made Concept ideas dressed for that world. The seven archetypes below are the **engines** underneath — the personality that drives them. Lay one over any costume you like. A "Ranger" played as a Maverick is a very different hero than one played as a Caregiver, and both are great.
+> **Costume vs. engine.** If you've picked a genre, its [Genre Kit](../part-four/18-genres.md) handed you a list of *flavored* archetypes — the Knight, the Ranger, the Schemer, that sort of thing. Those are **costumes**: ready-made Concept ideas dressed for that world. The twelve archetypes below are the **engines** underneath — the personality that drives them. Lay one over any costume you like. A "Ranger" played as an Explorer is a very different hero than one played as a Caregiver, and both are great.
 
-### The Seven Archetypes
+### The Twelve Archetypes
 
-Here's the full cast. Read down the list and notice which one makes you grin — that pull is usually the right answer.
+These twelve are the **classic archetypes** — the same cast of roles that storytellers have leaned on forever, and that the psychologist Carl Jung catalogued a century ago because they map the handful of fundamental parts people play in any story. You'll recognize every one of them. Read down the list and notice which one makes you grin — that pull is usually the right answer.
 
 | Archetype | The Vibe | Core Motivation | The Flaw / Danger |
 |---|---|---|---|
 | **The Rebel** | "Rules are meant to be broken." | To overthrow corrupt or restrictive systems. | Can be reckless, contrarian, or self-destructive. |
 | **The Caregiver** | "I've got your back." | To protect, heal, and support the party. | Easily exploited; might smother others or martyr themselves. |
 | **The Everyman** | "I didn't ask for any of this." | To find safety, belonging, and get back to normal life. | Easily intimidated; can lack ambition or pass up big opportunities. |
-| **The Scholar** | "Knowledge is the ultimate weapon." | To uncover secrets, solve mysteries, and understand the world. | Can be detached, arrogant, or fixate on details over survival. |
+| **The Sage** | "Knowledge is the ultimate weapon." | To uncover secrets, solve mysteries, and understand the world. | Can be detached, arrogant, or fixate on details over survival. |
 | **The Ruler** | "Follow my lead." | To take charge, create order, and lead the group to victory. | Can become bossy, controlling, or unable to delegate. |
 | **The Innocent** | "There is always a better way." | To keep hope alive and believe in the good of others. | Naive; easily tricked by deceptive antagonists. |
-| **The Maverick** | "I work alone. Usually." | To prove their self-reliance and complete the mission. | Stubborn; struggles to accept help or trust the team. |
+| **The Explorer** | "There's a whole world out there." | To find freedom, discover the unknown, and stay true to themselves. | Restless and rootless; struggles to commit or rely on anyone. |
+| **The Hero** | "I'll do it. Where do I sign up?" | To prove their worth through courage and rising to the challenge. | Arrogant; always needs a bigger fight and can't admit weakness. |
+| **The Magician** | "I can make this happen." | To transform situations and bend the hidden rules of the world. | Manipulative or cryptic; plays with forces they can't fully control. |
+| **The Lover** | "I'd do anything for the people I love." | To forge deep bonds and cherish the people and things they love. | Loses themselves in others; reckless when a loved one's at risk. |
+| **The Jester** | "Lighten up — we're all doomed anyway." | To live in the moment, bring joy, and puncture pomposity. | Deflects with a joke; won't take real danger seriously. |
+| **The Creator** | "I can build that." | To bring a vision into being — to invent, craft, make something last. | Perfectionist; vanishes into a project while the world burns. |
 
 Below, each one gets a closer look: how it feels at the table, **what they fear**, **famous characters who fit the mold**, and a few Concepts across different genres to spark ideas. That last bit matters most — every archetype is driven by a want *and* a fear, and the fear is the more useful of the two. Knowing what your hero is *afraid* of tells you exactly when they'll dig in, lash out, freeze, or do something rash — which is the whole engine of playing them. (The Concepts are just examples — bend them to your world.)
 
@@ -58,9 +63,9 @@ Below, each one gets a closer look: how it feels at the table, **what they fear*
 - ***Play the flaw:*** let them hesitate, get talked out of the bold move, or just want to go home — until the moment they finally don't.
 - ***Concepts:*** A Farm Kid Far From Home · An Accountant Who Saw Too Much · A Substitute Teacher on a Doomed Starliner.
 
-**The Scholar.** The one who *needs to know.* Scholars chase clues, decode the mystery, and remember the one fact that saves everyone. Play them sharp and curious, narrating what your hero notices and deduces — Scholars are a gift in a [Mystery](../part-four/genres/20-mystery.md).
+**The Sage.** The one who *needs to know.* Sages chase clues, decode the mystery, and remember the one fact that saves everyone. Play them sharp and curious, narrating what your hero notices and deduces — Sages are a gift in a [Mystery](../part-four/genres/20-mystery.md).
 
-- ***You've seen them:*** Hermione Granger, Sherlock Holmes, Velma (*Scooby-Doo*), Spock (*Star Trek*), Doctor Strange.
+- ***You've seen them:*** Hermione Granger, Sherlock Holmes, Velma (*Scooby-Doo*), Spock (*Star Trek*), Yoda (*Star Wars*).
 - ***What they fear:*** not knowing — being wrong, blindsided, or caught without an answer.
 - ***Play the flaw:*** let them get lost in a fascinating detail at the worst moment, talk down to people, or trust a clever theory over plain danger.
 - ***Concepts:*** A Ghost-Hunting Folklorist · A Disgraced Court Wizard · A Kid Genius with a Backpack Lab.
@@ -79,35 +84,70 @@ Below, each one gets a closer look: how it feels at the table, **what they fear*
 - ***Play the flaw:*** let them take an antagonist at their word, walk into an obvious trap because they assumed the best, or be genuinely shocked that someone would lie.
 - ***Concepts:*** A Hopeful Squire on a First Story Arc · A Wide-Eyed Android Learning to Feel · A Small-Town Kid Sure Their Lost Friend Is Still Alive.
 
-**The Maverick.** The lone wolf who *says* they work alone — right up until the team grows on them. Mavericks are self-reliant, capable, and a little prickly, with a soft center they'd never admit to. Play them cool and independent, slowly learning to trust the people around them (that arc is the whole point).
+**The Explorer.** The one who can't sit still — always looking past the horizon for what's next. Explorers crave freedom and discovery; they'd rather risk the unknown than be fenced in by a safe, dull life. Play them restless and independent, the first to volunteer for the scary door and the one itching to see what's out there.
 
-- ***You've seen them:*** Han Solo, Wolverine, Batman, Toph Beifong (*Avatar*), Lightning McQueen (*Cars*).
-- ***What they fear:*** depending on someone and being let down — so they'd rather not depend at all.
-- ***Play the flaw:*** let them refuse help they obviously need, go off-script alone, or keep a secret they should've shared.
-- ***Concepts:*** A Bounty Hunter With a Code · A Stray-Cat Street Thief · A Retired Monster-Slayer Dragged Back In.
+- ***You've seen them:*** Indiana Jones, Moana, Aladdin, Lara Croft, Star-Lord (*Guardians of the Galaxy*).
+- ***What they fear:*** being trapped — fenced in, tied down, stuck in a life that never changes.
+- ***Play the flaw:*** let them wander off alone to explore, chafe against orders and careful plans, or refuse to commit to the group or the place.
+- ***Concepts:*** A Star-Charting Scout Who Never Comes Home · A Treasure-Hunter Chasing the Next Map · A Wasteland Wanderer Who Trusts No Roof.
+
+**The Hero.** The one who steps up. Heroes run toward the danger everyone else runs from, hungry to prove — to the world and to themselves — that they've got what it takes. Play them brave and driven, the first to raise a hand when someone asks who'll take the hard job. *(Careful not to confuse this with "hero," the book's word for any player's character — the Hero archetype is one specific personality, and plenty of great heroes are Jesters or Sages.)*
+
+- ***You've seen them:*** Wonder Woman, Hercules, Rocky Balboa, Captain Marvel, She-Ra.
+- ***What they fear:*** weakness — being exposed as not strong, brave, or good enough when it counts.
+- ***Play the flaw:*** let them charge the biggest threat alone to prove themselves, refuse to retreat, or wave off a careful plan as cowardly.
+- ***Concepts:*** A Gladiator Fighting for Their Freedom · A Rookie Firefighter With Something to Prove · A Squire Chasing the Dragon Everyone Else Fled.
+
+**The Magician.** The one who bends the rules of the world. Magicians see the hidden levers behind things and pull them — turning a hopeless situation inside out with knowledge, cunning, or sheer will. Play them a little mysterious and a step ahead, the one who says "trust me" and somehow makes the impossible happen.
+
+- ***You've seen them:*** Gandalf, Merlin, Morpheus (*The Matrix*), Q (*Star Trek*), Howl (*Howl's Moving Castle*).
+- ***What they fear:*** unintended consequences — that their power backfires, or that they've unleashed something they can't put back.
+- ***Play the flaw:*** let them withhold what they know, arrange events from the shadows, or strike a bargain with a power that has a price.
+- ***Concepts:*** A Street-Corner Fortune-Teller Who's Actually Right · A Fixer Who Knows Everyone's Secrets · A Tinkerer Whose Machines Do the Impossible.
+
+**The Lover.** The one who runs on connection. Lovers care fiercely — about a person, a cause, a place — and that devotion is their whole compass. Play them warm and passionate, the one who reminds the party *what* they're fighting for and who'd cross any line for the people they love.
+
+- ***You've seen them:*** WALL-E, Westley (*The Princess Bride*), Belle (*Beauty and the Beast*), Anna (*Frozen*), Jack Dawson (*Titanic*).
+- ***What they fear:*** being alone or unwanted — and, most of all, losing the one they love.
+- ***Play the flaw:*** let them ditch the plan to save a loved one, get jealous or possessive, or put one relationship ahead of the whole mission.
+- ***Concepts:*** A Bard Chasing a Lost Love Across the Kingdom · A Devoted Second-in-Command · A Colonist Who Stayed Behind for One Person.
+
+**The Jester.** The one who won't let it get too heavy. Jesters crack wise in the tightest spots, and their jokes have a way of telling the truth no one else will say out loud. Play them quick and irreverent, the release valve that keeps a grim story fun — and don't underestimate them; the fool often sees clearest.
+
+- ***You've seen them:*** the Genie (*Aladdin*), Mushu (*Mulan*), Donkey (*Shrek*), Timon & Pumbaa (*The Lion King*), Peter Pan.
+- ***What they fear:*** being bored — or being truly seen, without a joke to hide behind.
+- ***Play the flaw:*** let them crack wise at exactly the wrong moment, refuse to take a real threat seriously, or prank their way into trouble.
+- ***Concepts:*** A Court Jester Who Knows Too Much · A Wisecracking Getaway Driver · A Class-Clown Cadet on a Doomed Warship.
+
+**The Creator.** The one who *makes* things. Creators see a problem and reach for a build — an invention, a plan, a work of art nobody's tried before. Play them imaginative and a little obsessive, the one who solves the unsolvable with something they dreamed up, if you can pry them away from the workbench.
+
+- ***You've seen them:*** Tony Stark (*Iron Man*), Doc Brown (*Back to the Future*), Geppetto (*Pinocchio*), Hiro Hamada (*Big Hero 6*), Willy Wonka.
+- ***What they fear:*** mediocrity — making nothing that matters, or watching their vision never come to life.
+- ***Play the flaw:*** let them obsess over getting a creation just right, refuse to abandon a flawed invention, or bury themselves in a project while people need them.
+- ***Concepts:*** A Gadgeteer Who Answers Every Problem With a Build · A Ship's Engineer Who Loves the Ship More Than the Crew · An Artist Painting the Rebellion's Banner.
 
 ### Spread the Archetypes Around the Table
 
 The single best move a group can make: **everyone picks a different archetype.**
 
-When the Ruler is making the plan, the Rebel is poking holes in it, the Caregiver is checking everyone's okay, and the Maverick is already halfway out the window — *that's* a story. The contrast creates natural scenes all on its own, without anyone forcing it. Talk it over while you're making heroes: "I'll be the heart, you be the brains, you be the troublemaker." A party of clashing personalities is far more fun than four heroes who'd all do the same thing.
+When the Ruler is making the plan, the Rebel is poking holes in it, the Caregiver is checking everyone's okay, and the Explorer is already halfway out the window — *that's* a story. The contrast creates natural scenes all on its own, without anyone forcing it. Talk it over while you're making heroes: "I'll be the heart, you be the brains, you be the troublemaker." A party of clashing personalities is far more fun than four heroes who'd all do the same thing.
 
 It's fine to double up if two people love the same archetype — just give them different Concepts and flaws so they don't blur together. But if you can, **claim a different engine each.** Your future scenes will thank you.
 
-> **Can't decide?** Number the seven archetypes 1–7, roll a d6 *(and a coin or a quick "high or low" for the seventh)*, and play whatever comes up. A archetype you wouldn't have picked often makes the most surprising hero.
+> **Can't decide?** Number the twelve archetypes 1–12 and roll a d12 — or roll a d6 twice: the first roll's "low or high" picks archetypes 1–6 or 7–12, the second picks which of the six. Play whatever comes up. An archetype you wouldn't have picked often makes the most surprising hero.
 
 ### Two Questions That Make a Hero Unforgettable
 
 An archetype gives your hero a personality. Two more quick questions turn them into a *protagonist* — the kind of character a movie would actually follow. Both are optional, and you can answer them now or discover them in play.
 
 - **Who or what do you care about?** *(Your Bond.)* A person, a place, a promise, a beloved pet, a hometown. One thing your hero would risk everything for. The instant your hero loves something, the story has a way to *move* them — and a perfect target for a **Pay the Price** ([Chapter 9](../part-two/09-readiness.md)). The Rebel's little sister, the Captain's ship, the Innocent's missing friend: that's where the drama lives.
-- **What do you *want* — and what do you actually *need*?** The best heroes chase one thing on the surface while really needing another. The Maverick *wants* to finish the job alone; what they *need* is to let people in. The Ruler *wants* control; what they *need* is to trust the team. You don't have to spell this out loud — just knowing it gives every choice your hero makes a little extra weight.
+- **What do you *want* — and what do you actually *need*?** The best heroes chase one thing on the surface while really needing another. The Explorer *wants* to keep moving and answer to no one; what they *need* is a place — and people — worth staying for. The Ruler *wants* control; what they *need* is to trust the team. You don't have to spell this out loud — just knowing it gives every choice your hero makes a little extra weight.
 
 Notice how naturally these hang off your archetype's flaw. The flaw isn't a weakness to hide — **it's the engine of your hero's story.** A hero with no flaw has nowhere to grow; a hero who *learns* something over a Story Arc is the one everyone remembers.
 
 ### Your Hero Can Grow Up
 
-You're not locked in. Heroes change over a long story — that's the best part of one. A Maverick learns to lean on the team. An Innocent gets wiser without losing their hope. A Rebel discovers there's something worth *building*, not just tearing down. Let your archetype bend and shift as your hero lives through their Story Arcs, and let the flaw soften (or flare up) as the story earns it.
+You're not locked in. Heroes change over a long story — that's the best part of one. An Explorer learns there's something worth staying for. An Innocent gets wiser without losing their hope. A Rebel discovers there's something worth *building*, not just tearing down. Let your archetype bend and shift as your hero lives through their Story Arcs, and let the flaw soften (or flare up) as the story earns it.
 
 That kind of change is the soul of a long game — and when your hero grows in the *fiction*, the game has a way to mark it in the *rules* too: new tools and signature moves. That's what the next stop covers.
 
@@ -117,10 +157,10 @@ That kind of change is the soul of a long game — and when your hero grows in t
 
 Here's the whole recipe, start to finish. Say you're playing a serious-leaning [Sci-Fi](../part-four/genres/22-sci-fi.md) game on a failing colony ship.
 
-1. **Pick an archetype.** You grab **the Maverick** — you like the "learns to trust the team" arc.
+1. **Pick an archetype.** You grab **the Explorer** — you like the "craves the open sky, learns to lean on a crew" arc.
 2. **Build a Concept around it** ([Chapter 2](../part-one/02-create-your-hero.md)). *A Disgraced Ex-Pilot Living in the Cargo Bay.* You answer the Golden Question: leather jacket, arms crossed, refusing to look at the camera.
 3. **Pick two Stats, then three Assets** — the Assets maybe pulled from the Sci-Fi kit's d100 table. Stats: **Quick** (the pilot's reflexes) and **Clever**. Assets: *A Hidden Sidearm · Reading People's Tells · A Beat-Up Maintenance Drone.*
-4. **Add the two questions.** Bond: *the drone is the only "person" you trust.* Want vs. need: you *want* to be left alone; you *need* a crew.
+4. **Add the two questions.** Bond: *the drone is the only "person" you trust.* Want vs. need: you *want* the open sky and no one to answer to; you *need* a crew.
 5. **Play the flaw.** When the Captain (a Ruler, played by your friend) gives an order, your first instinct is to ignore it and do it your own way — and that friction *is* the story.
 
 One archetype turned a blank sheet into a hero with a voice, a drive, a soft spot, and a clear way to play every scene. That's the whole point.
@@ -145,13 +185,13 @@ The archetype and the two questions above are the raw material; the introduction
 
 ### The Same Tool Builds Your Antagonists
 
-An antagonist isn't a different *kind* of character — it's one of these same seven archetypes whose **flaw won.** Everything above works just as well for the people standing in the heroes' way, so you don't need a second toolkit.
+An antagonist isn't a different *kind* of character — it's one of these same twelve archetypes whose **flaw won.** Everything above works just as well for the people standing in the heroes' way, so you don't need a second toolkit.
 
 To dream up an antagonist, pick an archetype and ask: *what if this one never learned to manage their flaw?* The want and the fear stay exactly the same — only the brakes come off:
 
 - A **Ruler** who craves order becomes a **tyrant** — "follow me" curdles into "obey me."
 - A **Caregiver** who must protect becomes a **smothering controller**, caging people "for their own good."
-- A **Scholar** who must know would **burn the world** for one last secret and feel justified doing it.
+- A **Sage** who must know would **burn the world** for one last secret and feel justified doing it.
 - A **Rebel** who tears down what's broken **can't stop tearing down** — even what's worth keeping.
 
 That's why the best antagonists are **dark mirrors of the heroes:** same engine, opposite outcome. Build your antagonist from the same archetype as one of the party's heroes and you hand that player their most personal fight — they're staring down what they could become.
